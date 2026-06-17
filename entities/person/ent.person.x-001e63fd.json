@@ -9,8 +9,10 @@
   ],
   "summary": "曹家夫人聘请的西席（私塾先生），略懂医道，照看苏醒的韩立。",
   "attributes": {
-    "身份": "曹家西席",
-    "外貌": "六十余岁灰袍老者、慈眉善目"
+    "身份": "曹家西席、曹家西席/夫子",
+    "外貌": "六十余岁灰袍老者、慈眉善目",
+    "性别": "男",
+    "种族": "凡人"
   },
   "observations": {
     "身份": [
@@ -18,11 +20,30 @@
         "value": "曹家西席",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "曹家西席/夫子",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ],
     "外貌": [
       {
         "value": "六十余岁灰袍老者、慈眉善目",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -41,6 +62,18 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -48,5 +81,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.662Z"
+  "updatedAt": "2026-06-17T16:17:14.690Z"
 }

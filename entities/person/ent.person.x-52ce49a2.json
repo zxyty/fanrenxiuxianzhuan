@@ -6,15 +6,18 @@
     "曹师妹",
     "曹道友",
     "曹姑娘",
-    "梦容"
+    "梦容",
+    "曹玉容",
+    "Cao Mengrong"
   ],
   "summary": "辽州曹姓县尉原配夫人之女，玄玉道记名弟子，救起寒冰中的韩立，受其指点由炼气三层进阶四层。",
   "attributes": {
     "性别": "女",
     "小阶段": "炼气期五层",
-    "身份": "玄玉道记名弟子",
+    "身份": "玄玉道记名弟子、曹县尉之女",
     "出身地": "大晋·县尉之女",
-    "性格": "心机/菩萨心肠"
+    "性格": "心机/菩萨心肠",
+    "外貌": "容颜秀丽、小家碧玉"
   },
   "observations": {
     "性别": [
@@ -28,7 +31,8 @@
       {
         "value": "炼气期三层→四层",
         "docId": "plot.fanren-ch895-jinpa-yincan",
-        "seq": 895
+        "seq": 895,
+        "note": "受韩立指点进阶"
       },
       {
         "value": "炼气期五层",
@@ -39,6 +43,11 @@
     "身份": [
       {
         "value": "玄玉道记名弟子",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "曹县尉之女",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -58,6 +67,13 @@
     "性格": [
       {
         "value": "心机/菩萨心肠",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "外貌": [
+      {
+        "value": "容颜秀丽、小家碧玉",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -94,6 +110,12 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -103,5 +125,5 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-931-936-anliu-jinjing-route"
   ],
-  "updatedAt": "2026-06-16T01:29:15.198Z"
+  "updatedAt": "2026-06-17T16:17:14.679Z"
 }

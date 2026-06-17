@@ -2,15 +2,33 @@
   "id": "ent.person.x-8b8ccb00",
   "type": "person",
   "name": "高大峰",
-  "aliases": [],
+  "aliases": [
+    "高兄弟"
+  ],
   "summary": "曹家镖师，王铁枪的老搭档，修硬功兼拳脚，最先看出冰中人未死并主张救人。",
   "attributes": {
-    "身份": "镖师"
+    "身份": "镖师",
+    "性别": "男",
+    "种族": "凡人"
   },
   "observations": {
     "身份": [
       {
         "value": "镖师",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -23,6 +41,18 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -30,5 +60,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.663Z"
+  "updatedAt": "2026-06-17T16:17:14.694Z"
 }

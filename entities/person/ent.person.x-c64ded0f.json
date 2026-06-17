@@ -7,7 +7,9 @@
   "attributes": {
     "性别": "男",
     "身份": "护船镖师、镖师",
-    "标志特征": "擅枪法"
+    "标志特征": "擅枪法",
+    "出身地": "大晋辽州舜江一带",
+    "种族": "凡人"
   },
   "observations": {
     "性别": [
@@ -35,6 +37,20 @@
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
+    ],
+    "出身地": [
+      {
+        "value": "大晋辽州舜江一带",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
     ]
   },
   "firstSeq": 895,
@@ -56,6 +72,18 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -63,5 +91,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.662Z"
+  "updatedAt": "2026-06-17T16:17:14.693Z"
 }

@@ -1,34 +1,32 @@
 {
-  "id": "ent.person.x-e5a3ebef",
+  "id": "ent.person.x-98c91326",
   "type": "person",
-  "name": "鲁师姐",
-  "aliases": [
-    "鲁仙子"
-  ],
-  "summary": "玄玉道女修，炼气七层，奉师命前来助曹梦容应对挑战。",
+  "name": "周师爷",
+  "aliases": [],
+  "summary": "官家大员心腹，雇佣镖师并随官眷同船的师爷，起初反对救冰中之人。",
   "attributes": {
-    "性别": "女",
-    "小阶段": "炼气期七层",
-    "身份": "玄玉道弟子"
+    "性别": "男",
+    "种族": "凡人",
+    "身份": "师爷/心腹"
   },
   "observations": {
     "性别": [
       {
-        "value": "女",
+        "value": "男",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
     ],
-    "小阶段": [
+    "种族": [
       {
-        "value": "炼气期七层",
+        "value": "凡人",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
     ],
     "身份": [
       {
-        "value": "玄玉道弟子",
+        "value": "师爷/心腹",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -42,7 +40,7 @@
       "dated": false,
       "seq": 895
     },
-    "小阶段": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
@@ -60,5 +58,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-17T16:17:14.688Z"
+  "updatedAt": "2026-06-17T16:17:14.692Z"
 }

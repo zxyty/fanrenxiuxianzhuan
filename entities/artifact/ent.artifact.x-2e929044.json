@@ -5,13 +5,15 @@
   "aliases": [
     "碧绿色指环",
     "绿色玉环",
-    "碧绿玉环"
+    "碧绿玉环",
+    "玉环古宝",
+    "碧绿手镯"
   ],
   "summary": "南陇侯法宝，可幻化上百影，化绿玉环勒制巨蟒七寸要害。",
   "attributes": {
-    "持有者": "南陇侯",
-    "能力": "幻化分身、化玉环勒制要害、幻化百影、缩勒七寸",
-    "外形": "碧绿指环、表面隐现符文"
+    "持有者": "天澜圣女",
+    "能力": "幻化分身、化玉环勒制要害、幻化百影、缩勒七寸、急转卷收飞剑剑影",
+    "外形": "碧绿手镯化胳膊粗巨环"
   },
   "observations": {
     "持有者": [
@@ -19,6 +21,11 @@
         "value": "南陇侯",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
         "seq": 805
+      },
+      {
+        "value": "天澜圣女",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ],
     "能力": [
@@ -36,6 +43,11 @@
         "value": "缩勒七寸",
         "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
+      },
+      {
+        "value": "急转卷收飞剑剑影",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ],
     "外形": [
@@ -43,6 +55,11 @@
         "value": "碧绿指环、表面隐现符文",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
         "seq": 805
+      },
+      {
+        "value": "碧绿手镯化胳膊粗巨环",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ]
   },
@@ -50,9 +67,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 805
+      "seq": 895
     },
     "能力": {
       "asOf": null,
@@ -62,9 +79,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 805
+      "seq": 895
     }
   },
   "contested": false,
@@ -72,7 +89,8 @@
   "docs": [
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-757-bingxuecan-yu-gengjing",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-17T13:31:45.655Z"
+  "updatedAt": "2026-06-17T16:17:14.617Z"
 }

@@ -471,3 +471,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T15:13:41.523Z** `ingest` plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan — 第871-876章：探漩涡入魔气之渊，韩立受托布阵盘换得灵鳌岛 · kind=plot asOf=2026-06-17 entities=36 relations=39 src=00871-00876.md
 - **2026-06-17T15:25:46.401Z** `ingest` plot.fanren-877-882-cangludu-wugui-suoshen — 第877-882章 韩立化名寒仙师混入苍鹭部，五鬼锁神大法封印煞气 · kind=plot asOf=2026-06-17 entities=28 relations=36 src=00877-00882.md
 - **2026-06-17T15:46:39.803Z** `ingest` plot.fanren-ch883-leng-mo — 第883章 冷漠｜韩立化名「寒仙师」剿杀猿鹫、拒售飞针灵虫 · kind=plot asOf=2026-06-17 entities=55 relations=79 src=00883-00888.md
+- **2026-06-17T16:17:14.964Z** `update` plot.fanren-ch895-jinpa-yincan — 凡人修仙传 第895章 锦帕银蚕——韩立分虫诱敌、围杀天澜圣兽 · kind=plot asOf=2026-06-17 entities=43 relations=57 src=00895-00900.md

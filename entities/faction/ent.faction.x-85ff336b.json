@@ -4,14 +4,31 @@
   "name": "犀灵宗",
   "aliases": [],
   "summary": "大晋一宗门，吴晓雨、马玉林所属，与玄玉道略有交情。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "阵营": "道门/宗门"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "道门/宗门",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ]
+  },
   "firstSeq": 895,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.665Z"
+  "updatedAt": "2026-06-17T16:17:14.709Z"
 }

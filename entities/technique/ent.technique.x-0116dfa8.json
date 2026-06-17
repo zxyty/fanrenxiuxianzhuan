@@ -2,16 +2,23 @@
   "id": "ent.technique.x-0116dfa8",
   "type": "technique",
   "name": "假死之术",
-  "aliases": [],
+  "aliases": [
+    "寒冰假死之术"
+  ],
   "summary": "大衍神君所授之术，韩立封身寒冰、顺水漂流以诈死遁逃。",
   "attributes": {
-    "出处": "大衍神君所授",
+    "出处": "大衍神君所授、大衍神君",
     "效果": "假死、封身寒冰漂流避追杀"
   },
   "observations": {
     "出处": [
       {
         "value": "大衍神君所授",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "大衍神君",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -44,5 +51,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.667Z"
+  "updatedAt": "2026-06-17T16:17:14.703Z"
 }

@@ -7,12 +7,20 @@
   ],
   "summary": "辽州的无名小派，曹梦容记名弟子所属门派。",
   "attributes": {
-    "等级": "辽州无名小派"
+    "等级": "辽州无名小派",
+    "阵营": "道门"
   },
   "observations": {
     "等级": [
       {
         "value": "辽州无名小派",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道门",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -25,6 +33,12 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -32,5 +46,5 @@
   "docs": [
     "plot.fanren-ch895-jinpa-yincan"
   ],
-  "updatedAt": "2026-06-16T00:26:16.665Z"
+  "updatedAt": "2026-06-17T16:17:14.708Z"
 }

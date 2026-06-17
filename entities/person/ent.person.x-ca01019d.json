@@ -7,8 +7,8 @@
   ],
   "summary": "犀灵宗修士，炼气期七层，深得掌门器重，为救官府要犯而找上曹梦容挑战。",
   "attributes": {
-    "小阶段": "炼气期七层",
-    "身份": "犀利灵宗弟子",
+    "小阶段": "炼气期七层、炼气期八层",
+    "身份": "犀灵宗修士、犀利灵宗弟子、犀灵宗弟子",
     "阵营": "犀灵宗",
     "性别": "男",
     "外貌": "大汉"
@@ -17,6 +17,11 @@
     "小阶段": [
       {
         "value": "炼气期七层",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "炼气期八层",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
@@ -31,6 +36,11 @@
         "value": "犀利灵宗弟子",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "犀灵宗弟子",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ],
     "阵营": [
@@ -44,7 +54,7 @@
       {
         "value": "男",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
-        "seq": 901
+        "seq": 895
       }
     ],
     "外貌": [
@@ -65,9 +75,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 901
+      "seq": 895
     },
     "阵营": {
       "asOf": null,
@@ -79,7 +89,7 @@
       "asOf": null,
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
-      "seq": 901
+      "seq": 895
     },
     "外貌": {
       "asOf": null,
@@ -94,5 +104,5 @@
     "plot.fanren-ch895-jinpa-yincan",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.246Z"
+  "updatedAt": "2026-06-17T16:17:14.682Z"
 }

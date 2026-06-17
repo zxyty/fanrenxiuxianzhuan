@@ -4,12 +4,15 @@
   "name": "辽州",
   "aliases": [
     "辽州五原府",
-    "信安城"
+    "信安城",
+    "大晋辽州",
+    "五原府"
   ],
   "summary": "大晋的一州，下辖关宁府等府城。",
   "attributes": {
-    "类型": "州",
-    "所属界面": "大晋、大晋皇朝"
+    "类型": "州郡",
+    "所属界面": "大晋、大晋皇朝",
+    "特产": "舜江水运"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "州",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
+      },
+      {
+        "value": "州郡",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
       }
     ],
     "所属界面": [
@@ -30,21 +38,34 @@
         "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
+    ],
+    "特产": [
+      {
+        "value": "舜江水运",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
     ]
   },
   "firstSeq": 883,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 883
+      "seq": 895
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
       "seq": 883
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
     }
   },
   "contested": false,
@@ -55,5 +76,5 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:46:39.464Z"
+  "updatedAt": "2026-06-17T16:17:14.711Z"
 }
