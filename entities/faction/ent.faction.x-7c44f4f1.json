@@ -15,10 +15,10 @@
   "summary": "突兀族草原势力，林银屏任圣女，为追回鬼罗幡而入大晋。",
   "attributes": {
     "阵营": "草原突兀族、与韩立敌对、突兀人、突兀族、敌对韩立",
-    "据点": "天澜草原",
+    "据点": "天澜草原、圣殿临时驻地、天澜草原临时驻地",
     "镇派之宝": "噬金虫成熟秘诀、噬金虫、圣兽",
     "理念": "主持开灵仪式/受朝贡",
-    "所属界面": "大晋天澜草原、上界"
+    "所属界面": "大晋天澜草原、上界、灵界"
   },
   "observations": {
     "阵营": [
@@ -58,6 +58,11 @@
         "value": "圣殿临时驻地",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "天澜草原临时驻地",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "镇派之宝": [
@@ -94,6 +99,11 @@
         "value": "上界",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ]
   },
@@ -107,9 +117,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
-      "seq": 889
+      "seq": 877
     },
     "镇派之宝": {
       "asOf": null,
@@ -125,9 +135,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
       "dated": false,
-      "seq": 889
+      "seq": 877
     }
   },
   "contested": false,
@@ -149,7 +159,8 @@
     "plot.fanren-1196-er-nv",
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
-    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-16T08:58:55.840Z"
+  "updatedAt": "2026-06-17T15:25:46.186Z"
 }

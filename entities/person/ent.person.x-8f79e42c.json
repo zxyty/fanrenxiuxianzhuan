@@ -8,13 +8,16 @@
     "苍鹭部族长",
     "英族长",
     "英鹭兄",
-    "英鹭首领"
+    "英鹭首领",
+    "英鹭族长",
+    "老者(苍鹭部首领)"
   ],
   "summary": "苍鹭部族长，五十余岁、圣战立功者，无灵根；以二十五块灵石雇佣『寒仙师』护送至天澜圣殿。",
   "attributes": {
-    "身份": "部落首领",
-    "种族": "突兀族",
-    "外貌": "火红狐皮帽、紫脸膛、腰束三色锦带（一部之首标志）、老者"
+    "身份": "苍鹭部族长、部落首领、苍鹭部首领",
+    "种族": "突兀人、突兀族、凡人",
+    "外貌": "火红狐皮帽、紫脸膛、腰束三色锦带（一部之首标志）、老者",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -27,6 +30,11 @@
         "value": "部落首领",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "苍鹭部首领",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "种族": [
@@ -39,6 +47,11 @@
         "value": "突兀族",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "外貌": [
@@ -52,25 +65,38 @@
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
     ]
   },
   "firstSeq": 877,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
-      "seq": 889
+      "seq": 877
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
-      "seq": 889
+      "seq": 877
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
       "dated": false,
       "seq": 877
     }
@@ -79,7 +105,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-16T00:12:42.843Z"
+  "updatedAt": "2026-06-17T15:25:46.172Z"
 }

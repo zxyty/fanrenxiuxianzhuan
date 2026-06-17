@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "苍鹭部",
   "aliases": [
-    "苍鹭部落"
+    "苍鹭部落",
+    "英鹭部"
   ],
   "summary": "三十年前圣战后从大部落分化出的突兀人微型部落，约七八万人，尚无本部落仙师，赴天澜圣殿朝贡求仙师。",
   "attributes": {
     "等级": "微型部落（约七八万人）、小部落",
     "掌门": "英鹭",
-    "据点": "天澜草原南部"
+    "据点": "天澜草原南部",
+    "所属界面": "灵界"
   },
   "observations": {
     "等级": [
@@ -37,6 +39,13 @@
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
     ]
   },
   "firstSeq": 877,
@@ -58,12 +67,19 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.688Z"
+  "updatedAt": "2026-06-17T15:25:46.171Z"
 }

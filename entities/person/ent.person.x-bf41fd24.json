@@ -4,19 +4,26 @@
   "name": "桂师弟",
   "aliases": [
     "桂仙师",
-    "桂兄"
+    "桂兄",
+    "桂仙师弟"
   ],
   "summary": "突兀人元婴期仙师，噬金虫原主，身负六魂分元术；被韩立伤后由四老助修元婴，噬金虫被灭杀时遭元神反噬。",
   "attributes": {
-    "种族": "突兀人",
+    "种族": "突兀人、突兀族",
     "小阶段": "元婴",
-    "身份": "上阶仙师"
+    "身份": "上阶仙师、突兀族仙师",
+    "存殁": "存活(重伤修补中)"
   },
   "observations": {
     "种族": [
       {
         "value": "突兀人",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "突兀族",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ],
@@ -31,6 +38,18 @@
       {
         "value": "上阶仙师",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "突兀族仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活(重伤修补中)",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -54,12 +73,19 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.682Z"
+  "updatedAt": "2026-06-17T15:25:46.159Z"
 }

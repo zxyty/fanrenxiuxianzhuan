@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "突兀人主持围捕之大仙师，以『大五行擒仙手』偷袭重伤韩立。",
   "attributes": {
-    "种族": "突兀人",
-    "身份": "大仙师"
+    "种族": "突兀人、突兀族",
+    "身份": "大仙师、天澜圣殿大仙师、突兀族大仙师",
+    "称号": "大仙师"
   },
   "observations": {
     "种族": [
@@ -14,12 +15,34 @@
         "value": "突兀人",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "突兀族",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "身份": [
       {
         "value": "大仙师",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "天澜圣殿大仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "突兀族大仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "称号": [
+      {
+        "value": "大仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -37,12 +60,19 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.683Z"
+  "updatedAt": "2026-06-17T15:25:46.165Z"
 }

@@ -7,8 +7,9 @@
   ],
   "summary": "突兀人二十年一次的开灵盛会，部落带有灵根子弟赴圣殿受开灵后方可习仙术。",
   "attributes": {
-    "参与方": "突兀各部落与天澜圣殿",
-    "影响": "期间各部仙师忙于随队，沿途劫杀频发"
+    "参与方": "突兀各部落与天澜圣殿、天澜圣殿、各部落、众仙师",
+    "影响": "期间各部仙师忙于随队，沿途劫杀频发",
+    "地点": "天澜圣殿"
   },
   "observations": {
     "参与方": [
@@ -16,12 +17,34 @@
         "value": "突兀各部落与天澜圣殿",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "天澜圣殿",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "各部落",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "众仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "影响": [
       {
         "value": "期间各部仙师忙于随队，沿途劫杀频发",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "地点": [
+      {
+        "value": "天澜圣殿",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -39,12 +62,19 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.675Z"
+  "updatedAt": "2026-06-17T15:25:46.106Z"
 }

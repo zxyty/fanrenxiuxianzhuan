@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "呼大仙师所施神通，出其不意一击重伤韩立，可损其大半修为。",
   "attributes": {
-    "类型": "擒拿/五行",
-    "威力": "损敌大半修为"
+    "类型": "擒拿/五行、擒拿/神通",
+    "威力": "损敌大半修为、重伤元婴级修士"
   },
   "observations": {
     "类型": [
@@ -14,12 +14,22 @@
         "value": "擒拿/五行",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "擒拿/神通",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "威力": [
       {
         "value": "损敌大半修为",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "重伤元婴级修士",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.684Z"
+  "updatedAt": "2026-06-17T15:25:46.166Z"
 }

@@ -3,13 +3,16 @@
   "type": "person",
   "name": "黎仙师",
   "aliases": [
-    "黎兄"
+    "黎兄",
+    "黎某"
   ],
   "summary": "突兀人结丹期仙师，四十余岁淡黄皮衣，受命搜寻韩立，后被秀仙师说服消极敷衍。",
   "attributes": {
     "种族": "突兀人",
     "小阶段": "结丹",
-    "外貌": "四十余岁淡黄皮衣"
+    "外貌": "四十余岁淡黄皮衣、四十余岁,淡黄皮衣,面容平凡",
+    "性别": "男",
+    "身份": "天澜圣殿仙师"
   },
   "observations": {
     "种族": [
@@ -30,6 +33,25 @@
       {
         "value": "四十余岁淡黄皮衣",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "四十余岁,淡黄皮衣,面容平凡",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "身份": [
+      {
+        "value": "天澜圣殿仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -53,12 +75,25 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.687Z"
+  "updatedAt": "2026-06-17T15:25:46.054Z"
 }

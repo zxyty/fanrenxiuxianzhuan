@@ -8,7 +8,8 @@
     "性别": "女",
     "种族": "突兀人",
     "小阶段": "结丹",
-    "外貌": "翠绿宫装"
+    "外貌": "翠绿宫装、二十七八,翠绿宫装,颇有姿色",
+    "身份": "天澜圣殿仙师"
   },
   "observations": {
     "性别": [
@@ -36,6 +37,18 @@
       {
         "value": "翠绿宫装",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "二十七八,翠绿宫装,颇有姿色",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "身份": [
+      {
+        "value": "天澜圣殿仙师",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
     ]
@@ -65,12 +78,19 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-15T23:46:14.687Z"
+  "updatedAt": "2026-06-17T15:25:46.057Z"
 }

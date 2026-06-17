@@ -2,12 +2,15 @@
   "id": "ent.spell.x-777751cf",
   "type": "spell",
   "name": "火蛇术",
-  "aliases": [],
+  "aliases": [
+    "火蛇符箓"
+  ],
   "summary": "初级中阶火属性法术，吴风在传功阁向少年弟子讲解示范。",
   "attributes": {
-    "类型": "火系符箓攻击",
+    "类型": "火系法术",
     "适用境界": "炼气期",
-    "出处": "黄枫谷传功阁"
+    "出处": "黄枫谷传功阁",
+    "威力": "低阶，可炼符"
   },
   "observations": {
     "类型": [
@@ -20,6 +23,11 @@
         "value": "火系符箓攻击",
         "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
         "seq": 187
+      },
+      {
+        "value": "火系法术",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
       }
     ],
     "适用境界": [
@@ -35,15 +43,22 @@
         "docId": "plot.fanren-ch158-blue-robed-woman",
         "seq": 157
       }
+    ],
+    "威力": [
+      {
+        "value": "低阶，可炼符",
+        "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+        "seq": 877
+      }
     ]
   },
   "firstSeq": 157,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
       "dated": false,
-      "seq": 187
+      "seq": 877
     },
     "适用境界": {
       "asOf": null,
@@ -56,13 +71,20 @@
       "docId": "plot.fanren-ch158-blue-robed-woman",
       "dated": false,
       "seq": 157
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch158-blue-robed-woman",
-    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-877-882-cangludu-wugui-suoshen"
   ],
-  "updatedAt": "2026-06-14T05:36:55.250Z"
+  "updatedAt": "2026-06-17T15:25:46.181Z"
 }
