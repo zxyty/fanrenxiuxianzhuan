@@ -13,7 +13,8 @@
   "attributes": {
     "小阶段": "结丹初期",
     "身份": "寸金阁管事、寸金阁掌柜",
-    "外貌": "相貌普通老者"
+    "外貌": "相貌普通老者、相貌普通的老者",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -40,6 +41,18 @@
         "value": "相貌普通老者",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
         "seq": 511
+      },
+      {
+        "value": "相貌普通的老者",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
       }
     ]
   },
@@ -62,12 +75,19 @@
       "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
       "dated": false,
       "seq": 511
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+      "dated": false,
+      "seq": 511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.010Z"
+  "updatedAt": "2026-06-17T06:11:35.843Z"
 }

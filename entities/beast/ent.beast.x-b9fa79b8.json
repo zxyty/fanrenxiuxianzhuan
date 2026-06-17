@@ -6,8 +6,8 @@
   "summary": "拍卖的妖兽幼卵，成年后为四级土属性妖兽，钢羽坚硬、飞行极快、利爪可破筑基护罩。",
   "attributes": {
     "等级": "四级",
-    "能力": "钢羽坚硬、简单护盾术、飞行极快、利爪破筑基护罩",
-    "外形": "钢羽似铁"
+    "能力": "钢羽坚硬、简单护盾术、飞行极快、利爪破筑基护罩、钢羽坚硬似铁、护盾法术、飞速极快",
+    "外形": "钢羽似铁、钢羽利爪鹰"
   },
   "observations": {
     "等级": [
@@ -37,12 +37,32 @@
         "value": "利爪破筑基护罩",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
         "seq": 511
+      },
+      {
+        "value": "钢羽坚硬似铁",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      },
+      {
+        "value": "护盾法术",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      },
+      {
+        "value": "飞速极快",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
       }
     ],
     "外形": [
       {
         "value": "钢羽似铁",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "钢羽利爪鹰",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ]
@@ -71,7 +91,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.003Z"
+  "updatedAt": "2026-06-17T06:11:35.856Z"
 }

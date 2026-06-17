@@ -1,0 +1,48 @@
+{
+  "id": "ent.person.x-5007db26",
+  "type": "person",
+  "name": "易姓锦衣大汉",
+  "aliases": [],
+  "summary": "心机过人的新到修士，梦想培养高阶灵兽，与许云同行。",
+  "attributes": {
+    "性别": "男",
+    "外貌": "锦衣"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      }
+    ],
+    "外貌": [
+      {
+        "value": "锦衣",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      }
+    ]
+  },
+  "firstSeq": 511,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+      "dated": false,
+      "seq": 511
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+      "dated": false,
+      "seq": 511
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
+  ],
+  "updatedAt": "2026-06-17T06:11:35.841Z"
+}

@@ -7,13 +7,18 @@
   ],
   "summary": "黑石城内收购修士海外收获、换灵石或代办拍卖的场所，分鉴宝厅与竞宝厅，由明夫人经营。",
   "attributes": {
-    "类型": "拍卖收购场所"
+    "类型": "拍卖收购场所、收购拍卖场所"
   },
   "observations": {
     "类型": [
       {
         "value": "拍卖收购场所",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "收购拍卖场所",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ]
@@ -30,7 +35,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.001Z"
+  "updatedAt": "2026-06-17T06:11:35.847Z"
 }

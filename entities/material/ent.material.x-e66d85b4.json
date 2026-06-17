@@ -9,7 +9,7 @@
   "attributes": {
     "类型": "妖兽材料(独角)、妖兽材料、炼丹材料、炼丹辅料、妖兽独角",
     "用途": "炼制九曲灵参、炼丹/炼器材料、炼丹材料、炼九曲灵参丹、炼九曲灵参",
-    "稀有度": "天南无处可寻",
+    "稀有度": "珍稀、稀罕、天南无处可寻、极高",
     "产地": "玛瑙兽"
   },
   "observations": {
@@ -82,6 +82,11 @@
         "value": "天南无处可寻",
         "docId": "plot.fanren-ch560-guishu",
         "seq": 601
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
       }
     ],
     "产地": [
@@ -108,9 +113,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-ch560-guishu",
+      "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 601
+      "seq": 499
     },
     "产地": {
       "asOf": null,
@@ -126,7 +131,8 @@
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
     "plot.fanren-ch560-guishu",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-17T06:06:07.748Z"
+  "updatedAt": "2026-06-17T06:11:35.851Z"
 }

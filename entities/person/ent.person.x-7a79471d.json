@@ -7,7 +7,8 @@
   "attributes": {
     "小阶段": "炼气期",
     "身份": "上古丹方灵药研究者",
-    "外貌": "清雅儒生，漆黑长髯"
+    "外貌": "清雅儒生，漆黑长髯、三十余岁清雅儒生、漆黑长髯",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -28,6 +29,18 @@
       {
         "value": "清雅儒生，漆黑长髯",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "三十余岁清雅儒生、漆黑长髯",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ]
@@ -51,12 +64,19 @@
       "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
       "dated": false,
       "seq": 511
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+      "dated": false,
+      "seq": 511
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.011Z"
+  "updatedAt": "2026-06-17T06:11:35.844Z"
 }

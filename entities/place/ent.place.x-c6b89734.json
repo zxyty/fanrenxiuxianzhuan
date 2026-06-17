@@ -8,8 +8,8 @@
   ],
   "summary": "方圆五六十里的无人灵脉荒岛，被吞海鱼吐雾遮蔽，韩立选作新洞府。",
   "attributes": {
-    "类型": "灵脉荒岛",
-    "守护": "海雾遮蔽（吞海鱼吐雾+人工法阵放雾）",
+    "类型": "灵脉荒岛、荒岛",
+    "守护": "海雾遮蔽（吞海鱼吐雾+人工法阵放雾）、吞海鱼海雾遮蔽＋韩立阵法",
     "特产": "中上等级小灵脉"
   },
   "observations": {
@@ -18,12 +18,22 @@
         "value": "灵脉荒岛",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
         "seq": 511
+      },
+      {
+        "value": "荒岛",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
       }
     ],
     "守护": [
       {
         "value": "海雾遮蔽（吞海鱼吐雾+人工法阵放雾）",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "吞海鱼海雾遮蔽＋韩立阵法",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ],
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.023Z"
+  "updatedAt": "2026-06-17T06:11:35.849Z"
 }

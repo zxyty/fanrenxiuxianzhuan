@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "九曲灵参所缺原料，疑为上古修士旧称、如今已改名的某种普通灵药。",
   "attributes": {
-    "类型": "灵草汁液",
-    "用途": "炼制九曲灵参、炼丹、炼九曲灵参",
-    "稀有度": "极稀有"
+    "类型": "灵药、灵草汁液、灵药/汁液",
+    "用途": "炼制九曲灵参、炼丹、炼九曲灵参、炼丹原料",
+    "稀有度": "极稀有、极高（须八级妖兽身畔伴妖草）"
   },
   "observations": {
     "类型": [
@@ -19,6 +19,11 @@
       {
         "value": "灵草汁液",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "灵药/汁液",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ],
@@ -37,12 +42,22 @@
         "value": "炼九曲灵参",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "炼丹原料",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+        "seq": 511
       }
     ],
     "稀有度": [
       {
         "value": "极稀有",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "极高（须八级妖兽身畔伴妖草）",
+        "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
       }
     ]
@@ -51,9 +66,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 511
+      "seq": 499
     },
     "用途": {
       "asOf": null,
@@ -73,7 +88,8 @@
   "docs": [
     "plot.fanren-499-504-nanming-island",
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
   ],
-  "updatedAt": "2026-06-17T06:06:07.747Z"
+  "updatedAt": "2026-06-17T06:11:35.849Z"
 }
