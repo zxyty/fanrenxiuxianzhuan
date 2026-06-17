@@ -2,18 +2,26 @@
   "id": "ent.place.x-7b4b35f1",
   "type": "place",
   "name": "南明岛",
-  "aliases": [],
+  "aliases": [
+    "南明岛坊市",
+    "南明岛港口"
+  ],
   "summary": "通往天星城的最后一个中转岛屿，原驻大批星宫修士、为星城外围岗哨，本章被逆星盟攻占成进攻天星城前哨。",
   "attributes": {
-    "类型": "中转岛屿/外围岗哨",
+    "类型": "中转岛屿/外围岗哨、中转岛屿/坊市岗哨",
     "所属界面": "乱星海",
-    "所属势力": "逆星盟"
+    "所属势力": "逆星盟、星宫"
   },
   "observations": {
     "类型": [
       {
         "value": "中转岛屿/外围岗哨",
         "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "中转岛屿/坊市岗哨",
+        "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
       }
     ],
@@ -30,6 +38,12 @@
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499,
         "note": "本章前为星宫驻守，被攻占后转归逆星盟"
+      },
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499,
+        "note": "外围岗哨，本章被逆星盟攻占"
       }
     ]
   },
@@ -58,7 +72,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-499-504-nanming-island"
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T17:26:54.219Z"
+  "updatedAt": "2026-06-17T06:06:07.768Z"
 }

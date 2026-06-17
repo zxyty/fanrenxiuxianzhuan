@@ -6,7 +6,7 @@
   "summary": "九曲灵参所缺原料，疑为上古修士旧称、如今已改名的某种普通灵药。",
   "attributes": {
     "类型": "灵草汁液",
-    "用途": "炼丹",
+    "用途": "炼制九曲灵参、炼丹、炼九曲灵参",
     "稀有度": "极稀有"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "炼丹",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
         "seq": 511
+      },
+      {
+        "value": "炼九曲灵参",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "稀有度": [
@@ -52,9 +57,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 511
+      "seq": 499
     },
     "稀有度": {
       "asOf": null,
@@ -67,7 +72,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-499-504-nanming-island",
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T17:41:23.012Z"
+  "updatedAt": "2026-06-17T06:06:07.747Z"
 }

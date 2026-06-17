@@ -7,14 +7,15 @@
     "黄脸修士",
     "枯黄老者",
     "赵护法",
-    "赵道友"
+    "赵道友",
+    "脸色焦黄的中年修士"
   ],
   "summary": "魁星岛港口坐镇的筑基期修士，为外来者发放身份玉牌；察觉曲魂灵气外放而起疑。",
   "attributes": {
-    "小阶段": "结丹",
-    "身份": "魁星岛港口发牌仙师",
-    "外貌": "面色枯黄的老者",
-    "称号": "护法",
+    "小阶段": "筑基期、结丹、结丹初期",
+    "身份": "星宫巡视护法",
+    "外貌": "脸色焦黄/黄脸",
+    "称号": "护法、赵护法",
     "阵营": "星宫"
   },
   "observations": {
@@ -28,6 +29,11 @@
         "value": "结丹",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "结丹初期",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "身份": [
@@ -35,6 +41,11 @@
         "value": "魁星岛港口发牌仙师",
         "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
         "seq": 367
+      },
+      {
+        "value": "星宫巡视护法",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "外貌": [
@@ -42,12 +53,22 @@
         "value": "面色枯黄的老者",
         "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
         "seq": 367
+      },
+      {
+        "value": "脸色焦黄/黄脸",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "称号": [
       {
         "value": "护法",
         "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "赵护法",
+        "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
       }
     ],
@@ -63,21 +84,21 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-499-504-nanming-island",
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
       "dated": false,
-      "seq": 499
+      "seq": 367
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "docId": "plot.fanren-ch499-504-nanming-island",
       "dated": false,
-      "seq": 367
+      "seq": 499
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "docId": "plot.fanren-ch499-504-nanming-island",
       "dated": false,
-      "seq": 367
+      "seq": 499
     },
     "称号": {
       "asOf": null,
@@ -96,7 +117,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch368-kuixingdao-guzhuang",
-    "plot.fanren-499-504-nanming-island"
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T17:26:54.204Z"
+  "updatedAt": "2026-06-17T06:06:07.755Z"
 }

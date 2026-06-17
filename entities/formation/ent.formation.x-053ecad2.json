@@ -4,12 +4,13 @@
   "name": "传送阵",
   "aliases": [
     "破损传送阵",
-    "短程传送阵"
+    "短程传送阵",
+    "天星城传送阵"
   ],
   "summary": "岳麓殿入口与内部大厅相连的传送法阵，正常使用收一块低阶灵石。",
   "attributes": {
     "效果": "传送回内海",
-    "出处": "岳麓殿",
+    "出处": "天星城",
     "破解法": "需阵法师修复",
     "布置者": "妙音门",
     "品阶": "简陋/短程"
@@ -45,6 +46,11 @@
         "value": "短距传送",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "传送至外星海",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "出处": [
@@ -52,6 +58,11 @@
         "value": "岳麓殿",
         "docId": "plot.fanren-ch152-two-years-later",
         "seq": 151
+      },
+      {
+        "value": "天星城",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "破解法": [
@@ -86,9 +97,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch152-two-years-later",
+      "docId": "plot.fanren-ch499-504-nanming-island",
       "dated": false,
-      "seq": 151
+      "seq": 499
     },
     "破解法": {
       "asOf": null,
@@ -118,7 +129,8 @@
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-1113-yaoqi-chongtian",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-17T05:58:16.913Z"
+  "updatedAt": "2026-06-17T06:06:07.769Z"
 }

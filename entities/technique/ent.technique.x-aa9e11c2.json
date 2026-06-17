@@ -7,8 +7,9 @@
   ],
   "summary": "苍云龙所修，非顶阶功法，但对人身煞气多寡感应极灵敏；借煞气可助修为精进。",
   "attributes": {
-    "效果": "灵敏感应煞气多寡、借煞气精进修为",
-    "适用境界": "结丹期"
+    "效果": "灵敏感应煞气多寡、借煞气精进修为、感应煞气、借煞精进",
+    "适用境界": "结丹期",
+    "出处": "逆星盟苍云龙"
   },
   "observations": {
     "效果": [
@@ -21,12 +22,24 @@
         "value": "借煞气精进修为",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "感应煞气、借煞精进",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "适用境界": [
       {
         "value": "结丹期",
         "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "出处": [
+      {
+        "value": "逆星盟苍云龙",
+        "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
       }
     ]
@@ -44,12 +57,19 @@
       "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
       "seq": 499
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch499-504-nanming-island",
+      "dated": false,
+      "seq": 499
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-499-504-nanming-island"
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T17:26:54.182Z"
+  "updatedAt": "2026-06-17T06:06:07.744Z"
 }

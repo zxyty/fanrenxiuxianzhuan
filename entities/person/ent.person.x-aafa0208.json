@@ -3,14 +3,16 @@
   "type": "person",
   "name": "逆星盟大汉",
   "aliases": [
-    "精壮大汉"
+    "精壮大汉",
+    "皮肤漆黑大汉"
   ],
   "summary": "逆星盟结丹修士，持本命法宝白玉大印，弃宝遁逃仍被五行环追锁腰斩。",
   "attributes": {
-    "小阶段": "结丹",
-    "阵营": "逆星盟",
+    "小阶段": "结丹、结丹初期",
+    "阵营": "逆星盟、正道",
     "存殁": "死亡",
-    "死因": "遁逃时被五行环封身、青光腰斩"
+    "死因": "遁逃时被五行环封身、青光腰斩、被韩立青光腰斩成数截（第502章）",
+    "外貌": "皮肤漆黑锃亮、精壮"
   },
   "observations": {
     "小阶段": [
@@ -18,12 +20,22 @@
         "value": "结丹",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "结丹初期",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "阵营": [
       {
         "value": "逆星盟",
         "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
       }
     ],
@@ -38,6 +50,18 @@
       {
         "value": "遁逃时被五行环封身、青光腰斩",
         "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "被韩立青光腰斩成数截（第502章）",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "外貌": [
+      {
+        "value": "皮肤漆黑锃亮、精壮",
+        "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
       }
     ]
@@ -67,12 +91,19 @@
       "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
       "seq": 499
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch499-504-nanming-island",
+      "dated": false,
+      "seq": 499
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-499-504-nanming-island"
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T17:26:54.203Z"
+  "updatedAt": "2026-06-17T06:06:07.758Z"
 }

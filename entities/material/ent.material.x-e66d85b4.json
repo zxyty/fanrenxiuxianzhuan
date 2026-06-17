@@ -7,9 +7,10 @@
   ],
   "summary": "珍稀妖兽玛瑙兽所生独角，九曲灵参所缺原料，一般修士无缘得见。",
   "attributes": {
-    "类型": "炼丹辅料",
-    "用途": "炼九曲灵参丹",
-    "稀有度": "天南无处可寻"
+    "类型": "妖兽材料(独角)、妖兽材料、炼丹材料、炼丹辅料、妖兽独角",
+    "用途": "炼制九曲灵参、炼丹/炼器材料、炼丹材料、炼九曲灵参丹、炼九曲灵参",
+    "稀有度": "天南无处可寻",
+    "产地": "玛瑙兽"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,11 @@
         "value": "炼丹辅料",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "妖兽独角",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "用途": [
@@ -54,6 +60,11 @@
         "value": "炼九曲灵参丹",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "炼九曲灵参",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "稀有度": [
@@ -72,27 +83,40 @@
         "docId": "plot.fanren-ch560-guishu",
         "seq": 601
       }
+    ],
+    "产地": [
+      {
+        "value": "玛瑙兽",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
+      }
     ]
   },
   "firstSeq": 499,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 631
+      "seq": 499
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 631
+      "seq": 499
     },
     "稀有度": {
       "asOf": null,
       "docId": "plot.fanren-ch560-guishu",
       "dated": false,
       "seq": 601
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch499-504-nanming-island",
+      "dated": false,
+      "seq": 499
     }
   },
   "contested": false,
@@ -101,7 +125,8 @@
     "plot.fanren-499-504-nanming-island",
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
     "plot.fanren-ch560-guishu",
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-14T20:25:50.686Z"
+  "updatedAt": "2026-06-17T06:06:07.748Z"
 }

@@ -10,9 +10,10 @@
   "summary": "土山岛主怪人所持洪荒古宝，可化白气困住敌方法宝，被韩立夺取。",
   "attributes": {
     "品阶": "古宝",
-    "能力": "化白气困缚法宝、白光卷收/困锁、化白气护身、白光困物、收取法宝、化白气包裹擒物",
+    "能力": "化白气困缚法宝、白光卷收/困锁、化白气护身、白光困物、收取法宝、化白气包裹擒物、喷白光卷裹敌物/法宝",
     "持有者": "银月",
-    "来历": "斩杀看守玄骨的丑汉所得"
+    "来历": "斩杀看守玄骨的丑汉所得",
+    "外形": "式样古老的花篮"
   },
   "observations": {
     "品阶": [
@@ -57,6 +58,11 @@
         "value": "化白气包裹擒物",
         "docId": "plot.fanren-ch483-bingfeng",
         "seq": 483
+      },
+      {
+        "value": "喷白光卷裹敌物/法宝",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "持有者": [
@@ -81,6 +87,13 @@
         "value": "斩杀看守玄骨的丑汉所得",
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482
+      }
+    ],
+    "外形": [
+      {
+        "value": "式样古老的花篮",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ]
   },
@@ -109,6 +122,12 @@
       "docId": "plot.fanren-ch482-guba-zhi-zheng",
       "dated": false,
       "seq": 482
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch499-504-nanming-island",
+      "dated": false,
+      "seq": 499
     }
   },
   "contested": false,
@@ -124,7 +143,8 @@
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
     "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
     "plot.fanren-ch482-guba-zhi-zheng",
-    "plot.fanren-ch483-bingfeng"
+    "plot.fanren-ch483-bingfeng",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-17T05:20:38.095Z"
+  "updatedAt": "2026-06-17T06:06:07.761Z"
 }

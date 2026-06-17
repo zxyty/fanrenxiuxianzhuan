@@ -17,9 +17,9 @@
   "summary": "乱星海第一大城，星宫首城，依圣山盘旋而建，自由开放并设通往外星海的传送阵。",
   "attributes": {
     "所属势力": "星宫",
-    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城",
+    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛",
     "特产": "妖丹、拍卖收购行",
-    "守护": "严禁修士争斗",
+    "守护": "禁制护城、执法队格杀勿论",
     "所属界面": "人界乱星海"
   },
   "observations": {
@@ -100,6 +100,11 @@
         "value": "城",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "城池/巨岛",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "特产": [
@@ -124,6 +129,11 @@
         "value": "严禁修士争斗",
         "docId": "plot.fanren-398-jiedan-yu-fabao",
         "seq": 397
+      },
+      {
+        "value": "禁制护城、执法队格杀勿论",
+        "docId": "plot.fanren-ch499-504-nanming-island",
+        "seq": 499
       }
     ],
     "所属界面": [
@@ -181,9 +191,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "docId": "plot.fanren-ch499-504-nanming-island",
       "dated": false,
-      "seq": 397
+      "seq": 499
     },
     "所属界面": {
       "asOf": null,
@@ -214,7 +224,8 @@
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-17T05:58:16.952Z"
+  "updatedAt": "2026-06-17T06:06:07.767Z"
 }
