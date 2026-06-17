@@ -11,7 +11,7 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴期",
-    "身份": "鬼灵门门主/掌门",
+    "身份": "鬼灵门门主、鬼灵门门主/掌门、掌门",
     "称号": "王门主",
     "外貌": "黑袍中年人",
     "性格": "阴厉枭雄",
@@ -47,6 +47,11 @@
       {
         "value": "鬼灵门门主/掌门",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      },
+      {
+        "value": "掌门",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829
       }
     ],
@@ -107,9 +112,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 829
+      "seq": 817
     },
     "称号": {
       "asOf": null,
@@ -148,7 +153,8 @@
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
-    "plot.fanren-817-822-zhan-huochan-qiyanshan"
+    "plot.fanren-817-822-zhan-huochan-qiyanshan",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-17T13:48:46.990Z"
+  "updatedAt": "2026-06-17T14:04:43.632Z"
 }

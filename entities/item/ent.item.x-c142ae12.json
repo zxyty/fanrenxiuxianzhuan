@@ -8,8 +8,8 @@
   ],
   "summary": "拇指大漆黑圆珠，可引动空间裂缝开启灵缈园通道，使用耗损施法者大半魂力。",
   "attributes": {
-    "类型": "破界秘宝",
-    "用途": "开启空间通道/破界"
+    "类型": "破界秘宝、奇珠",
+    "用途": "开启空间通道/破界、打开灵缈园空间通道"
   },
   "observations": {
     "类型": [
@@ -17,12 +17,22 @@
         "value": "破界秘宝",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
         "seq": 829
+      },
+      {
+        "value": "奇珠",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
       }
     ],
     "用途": [
       {
         "value": "开启空间通道/破界",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      },
+      {
+        "value": "打开灵缈园空间通道",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829
       }
     ]
@@ -45,7 +55,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-15T13:29:24.780Z"
+  "updatedAt": "2026-06-17T14:04:43.641Z"
 }

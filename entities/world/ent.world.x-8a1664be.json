@@ -3,12 +3,13 @@
   "type": "world",
   "name": "圣界",
   "aliases": [
-    "圣界圣族故地"
+    "圣界圣族故地",
+    "圣祖之界"
   ],
   "summary": "圣族所在界面，与人界曾相通可补魔气，现通道被重新堵死。",
   "attributes": {
     "通道": "通往人界",
-    "特点": "上古古魔来源、遗留圣器于下界",
+    "特点": "意图侵占/降临此界、魔气浓厚、上古古魔来源、遗留圣器于下界、由圣祖主宰，图谋此界",
     "主宰势力": "圣族"
   },
   "observations": {
@@ -35,6 +36,11 @@
         "value": "上古古魔来源、遗留圣器于下界",
         "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
         "seq": 847
+      },
+      {
+        "value": "由圣祖主宰，图谋此界",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
       }
     ],
     "主宰势力": [
@@ -61,9 +67,9 @@
     },
     "特点": {
       "asOf": null,
-      "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
       "dated": false,
-      "seq": 847
+      "seq": 829
     },
     "主宰势力": {
       "asOf": null,
@@ -79,7 +85,8 @@
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
     "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-16T04:38:13.403Z"
+  "updatedAt": "2026-06-17T14:04:43.580Z"
 }

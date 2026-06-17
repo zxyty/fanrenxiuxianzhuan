@@ -10,8 +10,9 @@
   "summary": "鲁卫英的护身法宝，火红轻纱化红光光幕，自信足以抵挡任何妖鬼之道的阴毒攻击。",
   "attributes": {
     "持有者": "鲁卫英",
-    "能力": "抵挡邪魂厉魄/妖鬼阴毒攻击、化红色护体光幕",
-    "外形": "火红轻纱化红蒙蒙光幕、火红轻纱"
+    "能力": "抵挡邪魂厉魄/妖鬼阴毒攻击、化红色护体光幕、化红色光幕，抵御邪魂厉魄阴毒攻击",
+    "外形": "火红轻纱化红蒙蒙光幕、火红轻纱",
+    "品阶": "古宝"
   },
   "observations": {
     "持有者": [
@@ -31,6 +32,11 @@
         "value": "化红色护体光幕",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
         "seq": 829
+      },
+      {
+        "value": "化红色光幕，抵御邪魂厉魄阴毒攻击",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
       }
     ],
     "外形": [
@@ -42,6 +48,13 @@
       {
         "value": "火红轻纱",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829
       }
     ]
@@ -65,12 +78,19 @@
       "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
       "dated": false,
       "seq": 829
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+      "dated": false,
+      "seq": 829
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-15T13:29:24.758Z"
+  "updatedAt": "2026-06-17T14:04:43.590Z"
 }

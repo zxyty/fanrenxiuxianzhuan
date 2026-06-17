@@ -4,12 +4,13 @@
   "name": "圆钵",
   "aliases": [
     "那个圆钵",
-    "此钵"
+    "此钵",
+    "古宝圆钵"
   ],
   "summary": "顶尖上古古宝，内封圣界之物，由三件法器与玉符镇压；本章封印崩裂、乌光射出夺舍南陇侯。",
   "attributes": {
     "品阶": "顶尖古宝",
-    "禁制": "上古镇压，由三件法器+玉符封印",
+    "禁制": "上古镇压，由三件法器+玉符封印、三件上古法器与玉符镇压",
     "来历": "上古修士所封",
     "外形": "圆钵"
   },
@@ -25,6 +26,11 @@
       {
         "value": "上古镇压，由三件法器+玉符封印",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      },
+      {
+        "value": "三件上古法器与玉符镇压",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829
       }
     ],
@@ -73,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-15T13:29:24.739Z"
+  "updatedAt": "2026-06-17T14:04:43.583Z"
 }

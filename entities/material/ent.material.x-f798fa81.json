@@ -12,9 +12,9 @@
   "summary": "藏于坠魔谷的稀世灵药/灵果，为鬼灵门、南陇侯及韩立等争夺目标。",
   "attributes": {
     "类型": "灵药/灵果、灵药、灵果、灵果/灵药、天地灵果/灵木果、上古灵药",
-    "稀有度": "稀有",
-    "产地": "坠魔谷绿洲绿湖",
-    "用途": "炼制造化丹、寻宝目标、修炼/争夺目标、助突破瓶颈(生服)、生服提升修为、炼丹助进阶元婴后期、炼丹、韩立此行目标"
+    "稀有度": "极稀有、极稀有（灵根无法移植）、稀有、蛮荒时期亦可遇不可求",
+    "产地": "坠魔谷、坠魔谷深处、内谷、坠魔谷绿洲绿湖、坠魔谷内谷、坠魔谷沙漠绿洲绿湖",
+    "用途": "炼制造化丹、寻宝目标、修炼/争夺目标、助突破瓶颈(生服)、生服提升修为、炼丹助进阶元婴后期、炼丹、韩立此行目标、生服助突破瓶颈、炼造化丹"
   },
   "observations": {
     "类型": [
@@ -63,7 +63,7 @@
       {
         "value": "稀有",
         "docId": "plot.fanren-841-lianshou-kangmo",
-        "seq": 841
+        "seq": 829
       },
       {
         "value": "蛮荒时期亦可遇不可求",
@@ -96,6 +96,11 @@
         "value": "坠魔谷内谷",
         "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
+      },
+      {
+        "value": "坠魔谷沙漠绿洲绿湖",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
       }
     ],
     "用途": [
@@ -138,6 +143,16 @@
         "value": "韩立此行目标",
         "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
+      },
+      {
+        "value": "生服助突破瓶颈",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
+      },
+      {
+        "value": "炼造化丹",
+        "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
+        "seq": 829
       }
     ]
   },
@@ -151,15 +166,15 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-841-lianshou-kangmo",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 841
+      "seq": 745
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 829
+      "seq": 751
     },
     "用途": {
       "asOf": null,
@@ -183,7 +198,8 @@
     "plot.fanren-793-798-zhuimo-valley-hanli-return",
     "plot.fanren-805-810-zhuimogu-killing-intent",
     "plot.fanren-817-822-zhan-huochan-qiyanshan",
-    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+    "plot.fanren-ch829-834-modong-tunying-yishou"
   ],
-  "updatedAt": "2026-06-17T13:56:43.889Z"
+  "updatedAt": "2026-06-17T14:04:43.634Z"
 }
