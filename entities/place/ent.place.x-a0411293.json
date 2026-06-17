@@ -10,7 +10,8 @@
   "attributes": {
     "类型": "人类聚居村落",
     "危险度": "高（常受阴冥兽来袭）",
-    "守护": "石台阴冥之力法阵与高墙"
+    "守护": "石台阴冥之力法阵与高墙、数丈高巨石墙、檀云石符高台法阵",
+    "所属界面": "阴冥之地"
   },
   "observations": {
     "类型": [
@@ -31,6 +32,18 @@
       {
         "value": "石台阴冥之力法阵与高墙",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "数丈高巨石墙、檀云石符高台法阵",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "阴冥之地",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
       }
     ]
@@ -54,12 +67,19 @@
       "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
       "seq": 577
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo"
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:14:35.810Z"
+  "updatedAt": "2026-06-17T07:25:52.605Z"
 }

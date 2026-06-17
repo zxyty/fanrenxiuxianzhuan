@@ -10,8 +10,9 @@
   "attributes": {
     "等级": "强大阴兽",
     "栖息地": "阴冥之地",
-    "能力": "阴风结黑冰、颈毛激射黑芒",
-    "外形": "十几丈高四目肉翅灰色巨猿"
+    "能力": "阴风结黑冰、颈毛激射黑芒、阴风冻箭、巨力",
+    "外形": "十几丈高四目肉翅灰色巨猿、放大十数倍的灰色巨猿、四目、肋生肉翅",
+    "种族": "阴兽"
   },
   "observations": {
     "等级": [
@@ -38,12 +39,34 @@
         "value": "颈毛激射黑芒",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
         "seq": 577
+      },
+      {
+        "value": "阴风冻箭",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      },
+      {
+        "value": "巨力",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "外形": [
       {
         "value": "十几丈高四目肉翅灰色巨猿",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "放大十数倍的灰色巨猿、四目、肋生肉翅",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      }
+    ],
+    "种族": [
+      {
+        "value": "阴兽",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
       }
     ]
@@ -73,12 +96,19 @@
       "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
       "seq": 577
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo"
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:14:35.820Z"
+  "updatedAt": "2026-06-17T07:25:52.607Z"
 }

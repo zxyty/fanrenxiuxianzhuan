@@ -8,7 +8,7 @@
   ],
   "summary": "阴冥之地中传说可借以脱身离开此界之处，条件极为苛刻，几乎无人能成。",
   "attributes": {
-    "类型": "脱身之地、山岳、高山/逃离关口、巨山、山",
+    "类型": "脱身之地、山岳、高山/逃离关口、巨山、山、脱身之路",
     "危险度": "高",
     "守护": "飞行阴兽、阴兽、阴冥之风、幻雾",
     "所属界面": "阴冥之地"
@@ -39,6 +39,11 @@
         "value": "山",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
+      },
+      {
+        "value": "脱身之路",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "危险度": [
@@ -69,7 +74,7 @@
       {
         "value": "阴冥之地",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
-        "seq": 589
+        "seq": 577
       }
     ]
   },
@@ -97,7 +102,7 @@
       "asOf": null,
       "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
       "dated": false,
-      "seq": 589
+      "seq": 577
     }
   },
   "contested": false,
@@ -105,7 +110,8 @@
   "docs": [
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-589-594-jiangling-fu-baofengshan"
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:30:07.003Z"
+  "updatedAt": "2026-06-17T07:25:52.611Z"
 }

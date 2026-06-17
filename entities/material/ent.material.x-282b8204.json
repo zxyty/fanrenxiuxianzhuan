@@ -11,10 +11,10 @@
   ],
   "summary": "阴兽头颅内偶生的绿色晶石，是借阴冥之力施法的消耗品，稀少难得，由村中长老分管；韩立疑其与虚天殿傀儡残骸中的绿色晶石相同。",
   "attributes": {
-    "类型": "兽晶",
-    "用途": "供修士施法依仗",
-    "稀有度": "高",
-    "产地": "阴冥之地"
+    "类型": "能量晶石、兽晶、阴兽体内能量晶",
+    "用途": "配合法阵施展阴冥之力、供修士施法依仗、结合法阵施展阴冥之力",
+    "稀有度": "极稀少（全年仅十来块）、高、稀缺(全年仅得十来块)",
+    "产地": "阴兽头颅、阴冥之地、阴兽头颅内"
   },
   "observations": {
     "类型": [
@@ -27,6 +27,11 @@
         "value": "兽晶",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "阴兽体内能量晶",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "用途": [
@@ -39,6 +44,11 @@
         "value": "供修士施法依仗",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "结合法阵施展阴冥之力",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "稀有度": [
@@ -51,6 +61,11 @@
         "value": "高",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
+      },
+      {
+        "value": "稀缺(全年仅得十来块)",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "产地": [
@@ -63,6 +78,11 @@
         "value": "阴冥之地",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
+      },
+      {
+        "value": "阴兽头颅内",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ]
   },
@@ -70,27 +90,27 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
-      "seq": 583
+      "seq": 577
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
-      "seq": 583
+      "seq": 577
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
-      "seq": 589
+      "seq": 577
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
-      "seq": 589
+      "seq": 577
     }
   },
   "contested": false,
@@ -98,7 +118,8 @@
   "docs": [
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-589-594-jiangling-fu-baofengshan"
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:30:06.963Z"
+  "updatedAt": "2026-06-17T07:25:52.609Z"
 }

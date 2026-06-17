@@ -7,7 +7,8 @@
   "attributes": {
     "等级": "阴兽",
     "栖息地": "阴冥之地",
-    "外形": "豹首红鳞、丈许长"
+    "外形": "豹首红鳞、丈许长、豹首红鳞、丈许长身",
+    "种族": "阴兽"
   },
   "observations": {
     "等级": [
@@ -28,6 +29,18 @@
       {
         "value": "豹首红鳞、丈许长",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "豹首红鳞、丈许长身",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      }
+    ],
+    "种族": [
+      {
+        "value": "阴兽",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
       }
     ]
@@ -51,12 +64,19 @@
       "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
       "seq": 577
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo"
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:14:35.818Z"
+  "updatedAt": "2026-06-17T07:25:52.608Z"
 }

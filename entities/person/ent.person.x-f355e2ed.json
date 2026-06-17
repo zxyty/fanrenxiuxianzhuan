@@ -13,8 +13,8 @@
   "summary": "秀丽温婉女子，梅氏兄妹中的妹妹，修士。与兄长一同被吸入鬼雾后失散，法力被禁，依赖韩立同行。",
   "attributes": {
     "性别": "女",
-    "身份": "修士",
-    "性格": "温婉",
+    "身份": "修士、修仙者",
+    "性格": "心直口快又易羞、温婉、心直口快、易羞涩",
     "标志特征": "通玉风髓之体（守宫砂下现银色凤凰）、拥有通灵之气可渡灵于人",
     "外貌": "秀丽，具钟灵之气、楚楚动人、容貌秀丽、柔媚清亮",
     "小阶段": "结丹初期"
@@ -32,6 +32,12 @@
         "value": "修士",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
         "seq": 577
+      },
+      {
+        "value": "修仙者",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577,
+        "note": "法力被绝灵之气禁锢"
       }
     ],
     "性格": [
@@ -44,6 +50,16 @@
         "value": "温婉",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
+      },
+      {
+        "value": "心直口快",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      },
+      {
+        "value": "易羞涩",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "标志特征": [
@@ -109,9 +125,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
-      "seq": 589
+      "seq": 577
     },
     "标志特征": {
       "asOf": null,
@@ -140,7 +156,8 @@
     "plot.fanren-589-594-jiangling-fu-baofengshan",
     "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-793-798-zhuimo-zhi-di"
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-15T05:43:18.478Z"
+  "updatedAt": "2026-06-17T07:25:52.597Z"
 }

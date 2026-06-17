@@ -9,7 +9,9 @@
   "attributes": {
     "出身地": "五龙海",
     "身份": "修士",
-    "外貌": "长须白发、满面皱纹双目有神"
+    "外貌": "长须白发、满面皱纹双目有神、白发长须、满面皱纹双目有神",
+    "性别": "男",
+    "标志特征": "精通符箓"
   },
   "observations": {
     "出身地": [
@@ -30,6 +32,25 @@
       {
         "value": "长须白发、满面皱纹双目有神",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "白发长须、满面皱纹双目有神",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "精通符箓",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
       }
     ]
@@ -53,12 +74,25 @@
       "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
       "seq": 577
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo"
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-14T19:14:35.808Z"
+  "updatedAt": "2026-06-17T07:25:52.600Z"
 }

@@ -8,8 +8,9 @@
   "summary": "传说中的魔兽，能吞食日月、瞬间破空穿梭、隐于海底深处长久进食一次；有修士猜测阴冥之地实为罗睺腹中。",
   "attributes": {
     "种族": "传说魔兽",
-    "能力": "吞食日月、破空穿梭",
-    "栖息地": "海底深处"
+    "能力": "吞食日月、破空穿梭、瞬间破空穿梭",
+    "栖息地": "海底深处",
+    "外形": "未知"
   },
   "observations": {
     "种族": [
@@ -29,6 +30,11 @@
         "value": "破空穿梭",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
         "seq": 577
+      },
+      {
+        "value": "瞬间破空穿梭",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577
       }
     ],
     "栖息地": [
@@ -36,6 +42,14 @@
         "value": "海底深处",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
         "seq": 577
+      }
+    ],
+    "外形": [
+      {
+        "value": "未知",
+        "docId": "plot.fanren-577-582-yinming-zhidi",
+        "seq": 577,
+        "note": "仅存于传说"
       }
     ]
   },
@@ -58,13 +72,21 @@
       "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
       "dated": false,
       "seq": 577
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi",
+      "dated": false,
+      "seq": 577,
+      "note": "仅存于传说"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-577-582-yinming-zhidi"
   ],
-  "updatedAt": "2026-06-16T19:14:17.450Z"
+  "updatedAt": "2026-06-17T07:25:52.605Z"
 }

@@ -419,3 +419,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T07:17:35.015Z** `ingest` plot.fanren-559-564-haiwai-cuoren-jietoulu — 凡人修仙传 第559-564章｜诡异错认·元瑶与青阳门·借头颅 · kind=plot asOf=2026-06-17 entities=41 relations=60 src=00559-00564.md
 - **2026-06-17T07:20:32.072Z** `ingest` plot.fanren-ch565-570-huanhun-island-wen-tianren — 凡人修仙传 第565-570章：天兆护法与温天仁苦斗 · kind=plot asOf=2026-06-17 entities=29 relations=29 src=00565-00570.md
 - **2026-06-17T07:23:26.923Z** `ingest` plot.fanren-571-576-wentianren-battle-guiwu — 凡人修仙传 第571-576章｜韩立大战温天仁、八门金光镜与鬼雾劫 · kind=plot asOf=2026-06-17 entities=27 relations=33 src=00571-00576.md
+- **2026-06-17T07:25:52.710Z** `ingest` plot.fanren-577-582-yinming-zhidi — 凡人修仙传 第577-582章｜坠入阴冥之地与高墙村落 · kind=plot asOf=2026-06-17 entities=16 relations=17 src=00577-00582.md
