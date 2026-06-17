@@ -2,7 +2,9 @@
   "id": "ent.material.x-17ac6b68",
   "type": "material",
   "name": "庚精",
-  "aliases": [],
+  "aliases": [
+    "锐金之宝"
+  ],
   "summary": "韩立此行求购的稀有材料，价值远高于六级妖丹千灵草；众元婴竟多不知其消息。",
   "attributes": {
     "稀有度": "罕见",
@@ -15,7 +17,7 @@
       {
         "value": "极稀有",
         "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
-        "seq": 673
+        "seq": 643
       },
       {
         "value": "数百年难遇",
@@ -63,6 +65,11 @@
         "value": "炼器材料",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "锐金之宝",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "用途": [
@@ -105,6 +112,11 @@
         "value": "增强飞剑锋锐",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "掺入刀剑法宝提升锋利、炼制大庚剑阵",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "产地": [
@@ -115,7 +127,7 @@
       }
     ]
   },
-  "firstSeq": 673,
+  "firstSeq": 643,
   "attrProvenance": {
     "稀有度": {
       "asOf": null,
@@ -153,7 +165,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-ch949-miaoyin-baojing",
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-16T08:46:38.139Z"
+  "updatedAt": "2026-06-17T09:03:23.753Z"
 }

@@ -9,10 +9,11 @@
   "summary": "元武国西部、付家主堡所在之山，被『毒云紫瘴阵』化的淡紫毒雾长年封锁。",
   "attributes": {
     "所属势力": "付家",
-    "危险度": "凡人误入即毒毙",
+    "危险度": "凡人误入即毒毙、高",
     "类型": "山",
     "所属界面": "元武国",
-    "特产": "紫色迷雾屏障"
+    "特产": "紫色迷雾屏障",
+    "守护": "毒云紫瘴阵紫雾"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +27,11 @@
       {
         "value": "凡人误入即毒毙",
         "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
         "seq": 643
       }
     ],
@@ -48,6 +54,13 @@
         "value": "紫色迷雾屏障",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      }
+    ],
+    "守护": [
+      {
+        "value": "毒云紫瘴阵紫雾",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ]
   },
@@ -82,13 +95,20 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch642-dianfeng-peiyuan-gong",
-    "plot.fanren-ch648-zhimu-lingying"
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-14T20:54:29.258Z"
+  "updatedAt": "2026-06-17T09:03:23.802Z"
 }

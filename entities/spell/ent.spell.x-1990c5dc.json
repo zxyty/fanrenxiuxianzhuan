@@ -7,7 +7,7 @@
   ],
   "summary": "韩立施于慕沛灵的禁制秘术，可掌握其生死。",
   "attributes": {
-    "类型": "禁制控制术",
+    "类型": "禁制控制术、元神禁制、禁制",
     "威力": "掌控对象生死",
     "适用境界": "元婴期"
   },
@@ -22,6 +22,11 @@
         "value": "元神禁制",
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
+      },
+      {
+        "value": "禁制",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "威力": [
@@ -43,9 +48,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
       "dated": false,
-      "seq": 643
+      "seq": 403
     },
     "威力": {
       "asOf": null,
@@ -64,7 +69,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch642-dianfeng-peiyuan-gong",
-    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-15T04:28:54.589Z"
+  "updatedAt": "2026-06-17T09:03:23.726Z"
 }

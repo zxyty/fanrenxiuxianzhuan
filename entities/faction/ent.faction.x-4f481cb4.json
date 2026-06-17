@@ -17,7 +17,7 @@
   "attributes": {
     "据点": "黄龙山",
     "所属界面": "天南",
-    "阵营": "天南、天南正盟、天南正道、天南正方",
+    "阵营": "天南、天南正盟、天南正道、天南正方、中立",
     "理念": "联防抗击慕兰法士"
   },
   "observations": {
@@ -60,6 +60,11 @@
         "value": "天南正方",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "中立",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "理念": [
@@ -96,9 +101,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
       "dated": false,
-      "seq": 703
+      "seq": 643
     },
     "理念": {
       "asOf": null,
@@ -133,7 +138,8 @@
     "plot.fanren-841-lianshou-kangmo",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-1219-1224-author-note-vote-request",
-    "plot.fanren-ch595-600-join-luoyunzong"
+    "plot.fanren-ch595-600-join-luoyunzong",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-17T07:43:47.963Z"
+  "updatedAt": "2026-06-17T09:03:23.767Z"
 }

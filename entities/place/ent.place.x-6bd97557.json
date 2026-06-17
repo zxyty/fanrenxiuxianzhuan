@@ -7,8 +7,8 @@
   ],
   "summary": "与越国建州交界的邻国。",
   "attributes": {
-    "类型": "国度、修仙国度、国、国家、凡俗国度、凡间国度",
-    "所属势力": "正魔两道杂处",
+    "类型": "国度、修仙国度、国、国家、凡俗国度、凡间国度、凡人国度/修仙势力辖区",
+    "所属势力": "天星宗、正魔两道杂处、魔道",
     "守护": "神兵门、天星宗、万妙观三大正派",
     "危险度": "暂时安全（魔道未及）"
   },
@@ -43,6 +43,11 @@
         "value": "凡间国度",
         "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
         "seq": 283
+      },
+      {
+        "value": "凡人国度/修仙势力辖区",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "所属势力": [
@@ -56,6 +61,11 @@
         "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
         "seq": 643,
         "note": "魔道势大"
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "守护": [
@@ -83,10 +93,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
       "dated": false,
-      "seq": 643,
-      "note": "魔道势大"
+      "seq": 217
     },
     "守护": {
       "asOf": null,
@@ -122,7 +131,8 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch660-shijin-lingjian",
     "plot.fanren-1161-kunpeng-zhi-yu",
-    "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite"
+    "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-17T08:51:02.568Z"
+  "updatedAt": "2026-06-17T09:03:23.801Z"
 }

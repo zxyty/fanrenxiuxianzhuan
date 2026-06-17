@@ -6,8 +6,8 @@
   "summary": "六道极圣所创魔道双修秘术，结丹期男修采资质特殊女修真阴元精以快速增长修为。",
   "attributes": {
     "适用境界": "结丹期",
-    "出处": "六道极圣所创",
-    "效果": "采女修真阴元精使修为突飞猛涨、对女修元气有损"
+    "出处": "六道极圣所创、六道极圣所创，记于粉红玉简",
+    "效果": "采女修真阴元精使修为突飞猛涨、对女修元气有损、采女修真阴元精猛涨修为"
   },
   "observations": {
     "适用境界": [
@@ -22,6 +22,11 @@
         "value": "六道极圣所创",
         "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
         "seq": 643
+      },
+      {
+        "value": "六道极圣所创，记于粉红玉简",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
+        "seq": 643
       }
     ],
     "效果": [
@@ -33,6 +38,11 @@
       {
         "value": "对女修元气有损",
         "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "采女修真阴元精猛涨修为",
+        "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
         "seq": 643
       }
     ]
@@ -61,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch642-dianfeng-peiyuan-gong"
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-14T20:41:21.712Z"
+  "updatedAt": "2026-06-17T09:03:23.722Z"
 }
