@@ -7,14 +7,15 @@
     "炼尸",
     "十八天都尸",
     "人形妖物",
-    "十八具天都尸"
+    "十八具天都尸",
+    "铁甲妖尸"
   ],
   "summary": "极阴祖师以特殊方法祭炼的高级人形炼尸，碧绿身躯披黑甲、利爪獠牙，可空中瞬移、免疫普通法宝、利爪喷黑芒。",
   "attributes": {
     "等级": "高级炼尸",
     "主人": "极阴祖师、玄骨、极阴老祖",
-    "能力": "空中瞬移、免疫普通法宝攻击、利爪喷黑芒、口喷黑气抵消攻击、隐形伏击",
-    "外形": "高大、黑烟腥臭"
+    "能力": "空中瞬移、免疫普通法宝攻击、利爪喷黑芒、口喷黑气抵消攻击、隐形伏击、力大无穷、天都尸火（火属性）",
+    "外形": "铁甲妖尸"
   },
   "observations": {
     "等级": [
@@ -66,6 +67,16 @@
         "value": "隐形伏击",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "力大无穷",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
+      },
+      {
+        "value": "天都尸火（火属性）",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
       }
     ],
     "外形": [
@@ -78,6 +89,11 @@
         "value": "高大、黑烟腥臭",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "铁甲妖尸",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
       }
     ]
   },
@@ -103,9 +119,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
-      "seq": 475
+      "seq": 480
     }
   },
   "contested": false,
@@ -113,7 +129,8 @@
   "docs": [
     "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
     "plot.fanren-ch474-xutiandian-inner-hall-layer2",
-    "plot.fanren-1141-1146-capture-jiyin-zushi"
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-ch480-da-zhan-qi"
   ],
-  "updatedAt": "2026-06-15T10:58:17.815Z"
+  "updatedAt": "2026-06-17T05:13:48.974Z"
 }

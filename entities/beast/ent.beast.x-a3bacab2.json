@@ -3,12 +3,13 @@
   "type": "beast",
   "name": "寒蛟",
   "aliases": [
-    "白色小蛟"
+    "白色小蛟",
+    "白色寒蛟"
   ],
   "summary": "疯婆子珍藏的灵兽，数丈白色小蛟，被借来护宝拦截魔道攻击。",
   "attributes": {
-    "主人": "疯婆子",
-    "外形": "数丈白色小蛟"
+    "主人": "万天明",
+    "外形": "白色蛟"
   },
   "observations": {
     "主人": [
@@ -16,6 +17,11 @@
         "value": "疯婆子",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "万天明",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
       }
     ],
     "外形": [
@@ -23,6 +29,11 @@
         "value": "数丈白色小蛟",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "白色蛟",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
-      "seq": 475
+      "seq": 480
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
-      "seq": 475
+      "seq": 480
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+    "plot.fanren-ch480-da-zhan-qi"
   ],
-  "updatedAt": "2026-06-15T04:53:25.543Z"
+  "updatedAt": "2026-06-17T05:13:48.972Z"
 }

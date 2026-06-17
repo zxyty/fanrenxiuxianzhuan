@@ -1,58 +1,45 @@
 {
-  "id": "ent.beast.x-09c28d03",
+  "id": "ent.beast.x-edb59eb5",
   "type": "beast",
-  "name": "离龟",
-  "aliases": [
-    "半透明巨龟"
-  ],
-  "summary": "天缘子珍藏的灵兽，半透明奇异巨龟，被借来护宝。",
+  "name": "青棘鸟群",
+  "aliases": [],
+  "summary": "儒衫老者的灵禽群，可化青色箭矢、尖嘴喷青色火焰汇成青火柱。",
   "attributes": {
-    "主人": "天悟子",
-    "外形": "绿眼巨龟",
-    "能力": "喷寒气化惊涛巨浪"
+    "主人": "儒衫老者",
+    "能力": "化青色箭矢、喷青色火焰汇成火柱",
+    "外形": "青色鸟群"
   },
   "observations": {
     "主人": [
       {
-        "value": "天缘子",
-        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
-        "seq": 475
-      },
-      {
-        "value": "天悟子",
-        "docId": "plot.fanren-ch480-da-zhan-qi",
-        "seq": 480
-      }
-    ],
-    "外形": [
-      {
-        "value": "半透明巨龟",
-        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
-        "seq": 475
-      },
-      {
-        "value": "绿眼巨龟",
+        "value": "儒衫老者",
         "docId": "plot.fanren-ch480-da-zhan-qi",
         "seq": 480
       }
     ],
     "能力": [
       {
-        "value": "喷寒气化惊涛巨浪",
+        "value": "化青色箭矢",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
+      },
+      {
+        "value": "喷青色火焰汇成火柱",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
+      }
+    ],
+    "外形": [
+      {
+        "value": "青色鸟群",
         "docId": "plot.fanren-ch480-da-zhan-qi",
         "seq": 480
       }
     ]
   },
-  "firstSeq": 475,
+  "firstSeq": 480,
   "attrProvenance": {
     "主人": {
-      "asOf": null,
-      "docId": "plot.fanren-ch480-da-zhan-qi",
-      "dated": false,
-      "seq": 480
-    },
-    "外形": {
       "asOf": null,
       "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
@@ -63,13 +50,18 @@
       "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
       "seq": 480
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch480-da-zhan-qi",
+      "dated": false,
+      "seq": 480
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
     "plot.fanren-ch480-da-zhan-qi"
   ],
-  "updatedAt": "2026-06-17T05:13:48.973Z"
+  "updatedAt": "2026-06-17T05:13:48.975Z"
 }

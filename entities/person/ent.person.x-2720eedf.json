@@ -2,11 +2,14 @@
   "id": "ent.person.x-2720eedf",
   "type": "person",
   "name": "黑瘦老农",
-  "aliases": [],
+  "aliases": [
+    "老农模样老者"
+  ],
   "summary": "正道修士，撤离时表现较从容，双目冰冷。",
   "attributes": {
     "阵营": "正道",
-    "外貌": "黑瘦老农"
+    "外貌": "老农模样、黑瘦",
+    "标志特征": "翠绿柳枝、木属性绿丝"
   },
   "observations": {
     "阵营": [
@@ -21,6 +24,18 @@
         "value": "黑瘦老农",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "老农模样、黑瘦",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "翠绿柳枝、木属性绿丝",
+        "docId": "plot.fanren-ch480-da-zhan-qi",
+        "seq": 480
       }
     ]
   },
@@ -34,15 +49,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
-      "seq": 475
+      "seq": 480
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch480-da-zhan-qi",
+      "dated": false,
+      "seq": 480
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+    "plot.fanren-ch480-da-zhan-qi"
   ],
-  "updatedAt": "2026-06-15T04:53:25.560Z"
+  "updatedAt": "2026-06-17T05:13:48.970Z"
 }
