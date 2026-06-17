@@ -6,7 +6,8 @@
   "summary": "极阴祖师于离火岛所得两只，道行尚浅，欲借以催动夺鼎。",
   "attributes": {
     "栖息地": "离火岛",
-    "主人": "极阴祖师"
+    "主人": "极阴祖师",
+    "能力": "高温火焰、牵引虚天鼎"
   },
   "observations": {
     "栖息地": [
@@ -21,6 +22,13 @@
         "value": "极阴祖师",
         "docId": "plot.fanren-c433-438-xutiandian-juji",
         "seq": 433
+      }
+    ],
+    "能力": [
+      {
+        "value": "高温火焰、牵引虚天鼎",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
       }
     ]
   },
@@ -37,13 +45,20 @@
       "docId": "plot.fanren-c433-438-xutiandian-juji",
       "dated": false,
       "seq": 433
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch484-huashenfu-butiandan",
+      "dated": false,
+      "seq": 484
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-c433-438-xutiandian-juji",
-    "plot.fanren-456-461-binghuo-dao-heishamo"
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch484-huashenfu-butiandan"
   ],
-  "updatedAt": "2026-06-14T16:02:30.876Z"
+  "updatedAt": "2026-06-17T05:22:57.728Z"
 }

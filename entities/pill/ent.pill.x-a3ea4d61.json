@@ -2,11 +2,14 @@
   "id": "ent.pill.x-a3ea4d61",
   "type": "pill",
   "name": "补天丹",
-  "aliases": [],
+  "aliases": [
+    "Mending Heaven Pill"
+  ],
   "summary": "藏于虚天鼎中的丹药，可弥补/修复人之五行灵根，修仙界独此一家。",
   "attributes": {
-    "功效": "改善资质",
-    "适用境界": "结丹"
+    "功效": "弥补五行灵根、助突破寿元、助突破元婴期、改善修炼资质、所化五色珠改善灵根资质、改善资质、弥补灵根不纯、精炼先天灵根、助结丹修士凝练元婴",
+    "适用境界": "结丹",
+    "副作用": "炼化极难"
   },
   "observations": {
     "功效": [
@@ -34,6 +37,21 @@
         "value": "改善资质",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "弥补灵根不纯",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
+      },
+      {
+        "value": "精炼先天灵根",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
+      },
+      {
+        "value": "助结丹修士凝练元婴",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
       }
     ],
     "适用境界": [
@@ -41,6 +59,18 @@
         "value": "结丹",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
         "seq": 559
+      },
+      {
+        "value": "结丹凝练元婴",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
+      }
+    ],
+    "副作用": [
+      {
+        "value": "炼化极难",
+        "docId": "plot.fanren-ch484-huashenfu-butiandan",
+        "seq": 484
       }
     ]
   },
@@ -48,15 +78,21 @@
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
       "dated": false,
-      "seq": 1141
+      "seq": 433
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
       "seq": 559
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch484-huashenfu-butiandan",
+      "dated": false,
+      "seq": 484
     }
   },
   "contested": false,
@@ -73,7 +109,8 @@
     "plot.fanren-ch474-xutiandian-inner-hall-layer2",
     "plot.fanren-ch1123-1128-houqi-chucheng",
     "plot.fanren-1141-1146-capture-jiyin-zushi",
-    "plot.fanren-ch1149-jinjiao-xiongyan"
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-ch484-huashenfu-butiandan"
   ],
-  "updatedAt": "2026-06-15T11:10:07.896Z"
+  "updatedAt": "2026-06-17T05:22:57.732Z"
 }
