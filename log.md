@@ -473,3 +473,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T15:46:39.803Z** `ingest` plot.fanren-ch883-leng-mo — 第883章 冷漠｜韩立化名「寒仙师」剿杀猿鹫、拒售飞针灵虫 · kind=plot asOf=2026-06-17 entities=55 relations=79 src=00883-00888.md
 - **2026-06-17T16:17:14.964Z** `update` plot.fanren-ch895-jinpa-yincan — 凡人修仙传 第895章 锦帕银蚕——韩立分虫诱敌、围杀天澜圣兽 · kind=plot asOf=2026-06-17 entities=43 relations=57 src=00895-00900.md
 - **2026-06-17T16:25:26.987Z** `ingest` plot.fanren-901-906-canwang-dahui-tianjiwu — 凡人修仙传 第901-906章｜参王大会·棺中人·天机屋 · kind=plot asOf=2026-06-17 entities=28 relations=26 src=00901-00906.md
+- **2026-06-17T16:32:53.661Z** `ingest` plot.fmxz-ch907-912-huorongjing-jinghua-yaodan — 凡人修仙传 第907-912章｜火熔晶·晶化妖丹·冯家密窟钥匙 · kind=plot asOf=2026-06-17 entities=37 relations=47 src=00907-00912.md

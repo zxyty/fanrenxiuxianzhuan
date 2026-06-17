@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "关宁府境内简陋小镇，五六年前归三家共有，居民为三家外系凡人。",
   "attributes": {
-    "所属势力": "孔赵董三家、关宁三大世家",
-    "类型": "市镇"
+    "所属势力": "孔赵董三家、关宁三大世家、孔家",
+    "类型": "镇、市镇、小镇",
+    "所属界面": "大晋皇朝"
   },
   "observations": {
     "所属势力": [
@@ -19,6 +20,11 @@
         "value": "关宁三大世家",
         "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "孔家",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "类型": [
@@ -30,6 +36,18 @@
       {
         "value": "市镇",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "小镇",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -44,7 +62,13 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
     }
@@ -54,7 +78,8 @@
   "docs": [
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-901-906-canwang-dahui-tianjiwu",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-17T16:25:26.344Z"
+  "updatedAt": "2026-06-17T16:32:53.334Z"
 }

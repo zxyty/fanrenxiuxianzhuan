@@ -2,11 +2,14 @@
   "id": "ent.person.x-8167bee0",
   "type": "person",
   "name": "悦来客栈老板",
-  "aliases": [],
+  "aliases": [
+    "冯家忠仆"
+  ],
   "summary": "雪江城悦来客栈老板，冯家凡人仆从，凭茶壶暗号与密窟钥匙守护密窟备份地图。",
   "attributes": {
     "种族": "凡人",
-    "身份": "冯家仆从"
+    "身份": "冯家仆从",
+    "性格": "忠心"
   },
   "observations": {
     "种族": [
@@ -20,6 +23,13 @@
       {
         "value": "冯家仆从",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "性格": [
+      {
+        "value": "忠心",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -37,12 +47,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.620Z"
+  "updatedAt": "2026-06-17T16:32:53.311Z"
 }

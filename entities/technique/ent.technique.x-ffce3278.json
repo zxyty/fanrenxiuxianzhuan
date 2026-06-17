@@ -6,8 +6,8 @@
   "summary": "佛门金刚护法专修的罕见功法，将煞气炼化己用、由魔入佛，需金刚舍利子；与梵圣真片妖族功法同源，为整套功法的炼体部分。",
   "attributes": {
     "品阶": "堪比大衍决的大神通",
-    "出处": "妖族/古魔创、佛宗改制",
-    "效果": "强力锻体",
+    "出处": "佛门(改自妖族功法基础部分)、妖族/古魔创、佛宗改制、佛门金刚护法",
+    "效果": "炼化煞气己用、保留霸道而除不良效果、强力锻体、炼化煞气为己用",
     "修炼条件": "需金刚舍利子",
     "适用境界": "结丹期可兼修",
     "外显异象": "肌肤遍布血丝青筋、鸡蛋大凸起游走、金光颤抖"
@@ -30,6 +30,11 @@
         "value": "妖族/古魔创、佛宗改制",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "佛门金刚护法",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "效果": [
@@ -42,6 +47,11 @@
         "value": "强力锻体",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "炼化煞气为己用",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "修炼条件": [
@@ -77,15 +87,15 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 919
+      "seq": 907
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 919
+      "seq": 907
     },
     "修炼条件": {
       "asOf": null,
@@ -111,7 +121,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T01:08:34.305Z"
+  "updatedAt": "2026-06-17T16:32:53.364Z"
 }

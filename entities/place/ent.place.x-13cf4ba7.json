@@ -8,10 +8,10 @@
   ],
   "summary": "宁中冯家千余年的收藏密窟，藏有大量珍宝及韩立所求的佛宗功法，需密窟钥匙开启。",
   "attributes": {
-    "类型": "家族秘藏密窟、世家密窟、藏宝密窟",
+    "类型": "家族秘藏密窟、世家密窟、藏宝密窟、密窟",
     "所属势力": "宁中冯家、冯家",
     "特产": "佛宗功法、千余年收藏、佛宗功法、冯家收藏",
-    "守护": "钥匙石门+凹槽传送阵禁制"
+    "守护": "钥匙石门+凹槽传送阵禁制、石门钥匙锁、凹槽传送阵机关"
   },
   "observations": {
     "类型": [
@@ -29,6 +29,11 @@
         "value": "藏宝密窟",
         "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
+      },
+      {
+        "value": "密窟",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "所属势力": [
@@ -64,6 +69,11 @@
       {
         "value": "钥匙石门+凹槽传送阵禁制",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "石门钥匙锁、凹槽传送阵机关",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -101,7 +111,8 @@
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
     "plot.fanren-ch883-leng-mo",
-    "plot.fanren-901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-901-906-canwang-dahui-tianjiwu",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-17T16:25:26.361Z"
+  "updatedAt": "2026-06-17T16:32:53.388Z"
 }

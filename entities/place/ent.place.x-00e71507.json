@@ -9,9 +9,9 @@
   ],
   "summary": "辽州绵延万里的大山脉，深处有妖魔出没、低阶修士屡屡失踪；参王大会在其外围山峰举行。",
   "attributes": {
-    "所属界面": "大晋、大晋皇朝辽州",
+    "所属界面": "大晋、大晋皇朝辽州、灵界（大晋皇朝）",
     "类型": "山脉",
-    "危险度": "深处极高、高、高(常有修士失踪)、极高、深处极高、外围安全",
+    "危险度": "深处极高、高、高(常有修士失踪)、极高、深处极高、外围安全、高（常有修士失踪）",
     "守护": "三尸/�write尸"
   },
   "observations": {
@@ -25,6 +25,11 @@
         "value": "大晋皇朝辽州",
         "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "灵界（大晋皇朝）",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "类型": [
@@ -59,6 +64,11 @@
         "value": "深处极高、外围安全",
         "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "高（常有修士失踪）",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "守护": [
@@ -102,7 +112,8 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-901-906-canwang-dahui-tianjiwu",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-17T16:25:26.323Z"
+  "updatedAt": "2026-06-17T16:32:53.384Z"
 }

@@ -6,7 +6,8 @@
   "summary": "大晋山脉，温石产地，隼云镇与雪江城邻近此处。",
   "attributes": {
     "类型": "山脉",
-    "特产": "温石"
+    "特产": "温石",
+    "所属界面": "大晋皇朝"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,13 @@
       {
         "value": "温石",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -37,13 +45,20 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.315Z"
+  "updatedAt": "2026-06-17T16:32:53.339Z"
 }

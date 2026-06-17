@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "佛门修士特有之物，结丹或元婴期修出，是修炼施展诸多高深佛门功法神通的前提；冯家先祖曾修出。",
   "attributes": {
-    "类型": "佛门修行结晶",
-    "用途": "修炼高深佛门功法神通的前提、修炼佛门功法神通/消除煞气的前提"
+    "类型": "佛门宝物",
+    "用途": "修炼高深佛门功法神通的前提、修炼佛门功法神通/消除煞气的前提、修炼明王诀所需"
   },
   "observations": {
     "类型": [
@@ -14,6 +14,11 @@
         "value": "佛门修行结晶",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
+      },
+      {
+        "value": "佛门宝物",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "用途": [
@@ -26,6 +31,11 @@
         "value": "修炼佛门功法神通/消除煞气的前提",
         "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
+      },
+      {
+        "value": "修炼明王诀所需",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ]
   },
@@ -33,9 +43,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 883
+      "seq": 907
     },
     "用途": {
       "asOf": null,
@@ -48,7 +58,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
-    "plot.fanren-ch883-leng-mo"
+    "plot.fanren-ch883-leng-mo",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-17T15:46:39.475Z"
+  "updatedAt": "2026-06-17T16:32:53.378Z"
 }

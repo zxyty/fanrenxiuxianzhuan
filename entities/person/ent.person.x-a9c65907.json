@@ -8,16 +8,17 @@
     "玄烨王",
     "炫烨道友",
     "炫烨兄",
-    "炫烨"
+    "炫烨",
+    "炫烨王化身"
   ],
   "summary": "上古时期以凶残著称的传说帝王，其巨墓陪葬有修士材料法器，干尸化为刀枪不入的行尸，主棺中似将复活。",
   "attributes": {
-    "称号": "炫烨王",
-    "身份": "老魔/尸王",
+    "称号": "老魔",
+    "身份": "上古帝王、尸王/天尸之体、老魔/尸王、天尸老魔/尸王",
     "性格": "凶残",
     "存殁": "存疑",
     "小阶段": "元婴后期",
-    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复",
+    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复、天尸之体快大成",
     "种族": "尸/万年尸王",
     "阵营": "魔道"
   },
@@ -27,6 +28,11 @@
         "value": "炫烨王",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "老魔",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "身份": [
@@ -44,6 +50,11 @@
         "value": "老魔/尸王",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
+      },
+      {
+        "value": "天尸老魔/尸王",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "性格": [
@@ -100,6 +111,11 @@
         "value": "吸魂吞丹魔功、元气速复",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      },
+      {
+        "value": "天尸之体快大成",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "种族": [
@@ -126,15 +142,15 @@
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 901
+      "seq": 907
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-913-918-xueling-huangsha-array",
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
-      "seq": 913
+      "seq": 901
     },
     "性格": {
       "asOf": null,
@@ -180,7 +196,8 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
     "plot.fanren-913-918-xueling-huangsha-array",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T01:29:15.231Z"
+  "updatedAt": "2026-06-17T16:32:53.349Z"
 }

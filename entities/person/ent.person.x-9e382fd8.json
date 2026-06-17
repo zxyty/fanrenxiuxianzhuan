@@ -7,8 +7,9 @@
   ],
   "summary": "谋划围杀炫烨王的三真君之一，贪图天尸珠以炼水火不浸之法体。",
   "attributes": {
-    "身份": "真君/谋划者",
-    "阵营": "围杀炫烨王同盟"
+    "身份": "真君/谋划者、真君",
+    "阵营": "围杀炫烨王同盟",
+    "性格": "贪婪"
   },
   "observations": {
     "身份": [
@@ -16,12 +17,24 @@
         "value": "真君/谋划者",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "真君",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
       }
     ],
     "阵营": [
       {
         "value": "围杀炫烨王同盟",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "性格": [
+      {
+        "value": "贪婪",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.640Z"
+  "updatedAt": "2026-06-17T16:32:53.355Z"
 }

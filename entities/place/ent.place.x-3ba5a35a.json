@@ -3,17 +3,26 @@
   "type": "place",
   "name": "雪江城",
   "aliases": [
-    "雪江"
+    "雪江",
+    "雪江小城"
   ],
   "summary": "隼云镇原凡人居民被安置的小城，比隼云镇大三四倍。",
   "attributes": {
-    "类型": "小城"
+    "类型": "小城",
+    "所属界面": "大晋皇朝"
   },
   "observations": {
     "类型": [
       {
         "value": "小城",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -25,12 +34,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.633Z"
+  "updatedAt": "2026-06-17T16:32:53.336Z"
 }

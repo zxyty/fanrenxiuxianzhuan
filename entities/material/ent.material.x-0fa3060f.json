@@ -6,7 +6,8 @@
   "summary": "雪岭山脉特产，洁白温暖，除此外与普通石料无异。",
   "attributes": {
     "类型": "石料",
-    "产地": "雪岭山脉"
+    "产地": "雪岭山脉",
+    "稀有度": "地方特产"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,13 @@
       {
         "value": "雪岭山脉",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "地方特产",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.623Z"
+  "updatedAt": "2026-06-17T16:32:53.320Z"
 }

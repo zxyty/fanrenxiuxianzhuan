@@ -3,11 +3,12 @@
   "type": "material",
   "name": "晶化妖丹",
   "aliases": [
-    "晶质化妖丹"
+    "晶质化妖丹",
+    "晶化七级妖丹"
   ],
   "summary": "高阶妖兽内丹历经久远岁月完全晶质化，外表神识皆难辨，含奇毒，是炼制飞针的最佳材料。",
   "attributes": {
-    "类型": "妖丹",
+    "类型": "炼器材料、妖丹",
     "用途": "炼制飞针",
     "稀有度": "极罕见"
   },
@@ -21,7 +22,7 @@
       {
         "value": "妖丹",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
-        "seq": 931
+        "seq": 907
       }
     ],
     "用途": [
@@ -48,9 +49,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 931
+      "seq": 907
     },
     "用途": {
       "asOf": null,
@@ -69,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T01:29:15.249Z"
+  "updatedAt": "2026-06-17T16:32:53.315Z"
 }

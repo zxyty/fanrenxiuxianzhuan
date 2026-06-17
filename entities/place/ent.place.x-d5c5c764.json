@@ -2,16 +2,26 @@
   "id": "ent.place.x-d5c5c764",
   "type": "place",
   "name": "悦来客栈",
-  "aliases": [],
+  "aliases": [
+    "悦来"
+  ],
   "summary": "雪江城内客栈，招牌右下角茶壶标记为冯家暗号，藏密窟备份地图。",
   "attributes": {
-    "类型": "客栈"
+    "类型": "客栈",
+    "所属势力": "冯家"
   },
   "observations": {
     "类型": [
       {
         "value": "客栈",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "冯家",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -23,12 +33,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.631Z"
+  "updatedAt": "2026-06-17T16:32:53.337Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.material.x-56ec4b04",
   "type": "material",
   "name": "火熔晶",
-  "aliases": [],
+  "aliases": [
+    "火熔晶石"
+  ],
   "summary": "深红晶石，红光如焰，炼制顶阶火属性法器的绝佳材料。",
   "attributes": {
     "类型": "炼器材料",
-    "用途": "炼制顶阶火属性法器"
+    "用途": "炼制顶阶火属性法器",
+    "产地": "大晋"
   },
   "observations": {
     "类型": [
@@ -20,6 +23,13 @@
       {
         "value": "炼制顶阶火属性法器",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "产地": [
+      {
+        "value": "大晋",
+        "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
       }
     ]
@@ -37,12 +47,19 @@
       "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
       "seq": 907
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
   ],
-  "updatedAt": "2026-06-16T00:52:06.621Z"
+  "updatedAt": "2026-06-17T16:32:53.313Z"
 }
