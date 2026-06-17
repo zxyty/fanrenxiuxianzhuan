@@ -11,8 +11,8 @@
   "attributes": {
     "等级": "八级(成年)、九级",
     "栖息地": "外星海、深渊边缘、外星海某岛、奇渊海域小岛磷火谭",
-    "外形": "幼崽二三级、束银冠、麻鞋、碧绿细目、角质尖鼻、牙利泛寒光的人形",
-    "能力": "速度极快近乎瞬移、可幻化人形"
+    "外形": "幼崽二三级、束银冠、麻鞋、碧绿细目、角质尖鼻、牙利泛寒光的人形、化形中期",
+    "能力": "速度极快近乎瞬移、可幻化人形、催动风灵劲远程追踪、极速"
   },
   "observations": {
     "等级": [
@@ -59,6 +59,12 @@
         "value": "束银冠、麻鞋、碧绿细目、角质尖鼻、牙利泛寒光的人形",
         "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
+      },
+      {
+        "value": "化形中期",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547,
+        "note": "可化人形"
       }
     ],
     "能力": [
@@ -71,6 +77,16 @@
         "value": "可幻化人形",
         "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
+      },
+      {
+        "value": "催动风灵劲远程追踪",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
+      },
+      {
+        "value": "极速",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ]
   },
@@ -108,7 +124,8 @@
     "plot.fan-ren-541-bi-yan-jiu",
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-535-540-mishi-wen-siyue"
+    "plot.fanren-535-540-mishi-wen-siyue",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-17T06:42:04.067Z"
+  "updatedAt": "2026-06-17T07:02:05.940Z"
 }

@@ -6,13 +6,14 @@
     "内甲",
     "银白色鳞片内甲",
     "皇鳞甲甲",
-    "银鳞宝甲"
+    "银鳞宝甲",
+    "蛮胡子皇鳞甲"
   ],
   "summary": "蛮胡子的异宝内甲，黑色镶银白鳞片、沉甸甸，护身用；蛮胡子托天功大成后已无用，故暂借韩立。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "银白色鳞片内甲",
-    "能力": "护身",
+    "外形": "黝黑内甲、镶银白鳞片、银白色鳞片内甲、银鳞闪闪、银白色鳞片，内衬乌黑闪亮衣衫",
+    "能力": "挡九级妖兽一击、超常防御、护身、防御惊人、抵挡九级妖兽一击",
     "来历": "蛮胡子所赠"
   },
   "observations": {
@@ -39,6 +40,11 @@
         "value": "银鳞闪闪",
         "docId": "plot.fanren-ch485-yuanying-xian",
         "seq": 485
+      },
+      {
+        "value": "银白色鳞片，内衬乌黑闪亮衣衫",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "能力": [
@@ -61,6 +67,11 @@
         "value": "防御惊人",
         "docId": "plot.fanren-ch485-yuanying-xian",
         "seq": 485
+      },
+      {
+        "value": "抵挡九级妖兽一击",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "来历": [
@@ -92,15 +103,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "docId": "plot.fanren-ch462-mingyhunzhu",
       "dated": false,
-      "seq": 547
+      "seq": 463
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.fanren-ch485-yuanying-xian",
       "dated": false,
-      "seq": 1141
+      "seq": 485
     },
     "来历": {
       "asOf": null,
@@ -117,7 +128,8 @@
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch485-yuanying-xian",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-17T05:58:16.935Z"
+  "updatedAt": "2026-06-17T07:02:05.908Z"
 }

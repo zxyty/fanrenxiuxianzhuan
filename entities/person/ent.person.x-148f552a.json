@@ -9,17 +9,18 @@
     "归某",
     "龟妖兄",
     "黑袍青面妖修",
-    "玄龟妖修"
+    "玄龟妖修",
+    "龟兄"
   ],
   "summary": "八级化形初阶海族妖修，玄龟之身，性多疑谨慎。",
   "attributes": {
-    "种族": "玄龟、龟妖、龟、海族龟妖",
-    "小阶段": "八级(化形初阶)",
+    "种族": "玄龟、龟妖、龟、海族龟妖、妖族",
+    "小阶段": "化形期",
     "外貌": "龟壳青面、身材高大",
     "身份": "八级妖兽",
     "存殁": "存活",
     "性格": "多心谨慎",
-    "标志特征": "畏雷属性"
+    "标志特征": "周身土黄淡光"
   },
   "observations": {
     "种族": [
@@ -42,6 +43,11 @@
         "value": "海族龟妖",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "小阶段": [
@@ -49,6 +55,11 @@
         "value": "八级(化形初阶)",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
         "seq": 541
+      },
+      {
+        "value": "化形期",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "外貌": [
@@ -89,6 +100,11 @@
         "value": "畏雷属性",
         "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
+      },
+      {
+        "value": "周身土黄淡光",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ]
   },
@@ -102,9 +118,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
       "dated": false,
-      "seq": 541
+      "seq": 547
     },
     "外貌": {
       "asOf": null,
@@ -132,9 +148,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+      "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
       "dated": false,
-      "seq": 541
+      "seq": 547
     }
   },
   "contested": false,
@@ -144,7 +160,8 @@
     "plot.fanren-ch547-552-poison-three-demons",
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-541-546-bifenjiu-fenglei-chi"
+    "plot.fanren-541-546-bifenjiu-fenglei-chi",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-17T06:50:16.355Z"
+  "updatedAt": "2026-06-17T07:02:05.925Z"
 }

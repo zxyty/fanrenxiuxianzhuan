@@ -3,12 +3,15 @@
   "type": "beast",
   "name": "离火蛟",
   "aliases": [
-    "蛟龙族族长"
+    "蛟龙族族长",
+    "九级离火蛟",
+    "蛟龙族长"
   ],
   "summary": "化形中期的九级离火蛟，附近海域蛟龙一族族长，得龟妖告知韩立击杀毒蛟之事。",
   "attributes": {
-    "种族": "蛟龙（鳞甲一族）",
-    "等级": "九级"
+    "种族": "蛟龙（鳞甲一族）、蛟龙",
+    "等级": "九级",
+    "外形": "化形中期"
   },
   "observations": {
     "种族": [
@@ -16,12 +19,24 @@
         "value": "蛟龙（鳞甲一族）",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      },
+      {
+        "value": "蛟龙",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "等级": [
       {
         "value": "九级",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      }
+    ],
+    "外形": [
+      {
+        "value": "化形中期",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
         "seq": 547
       }
     ]
@@ -39,12 +54,19 @@
       "docId": "plot.fanren-ch547-552-poison-three-demons",
       "dated": false,
       "seq": 547
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+      "dated": false,
+      "seq": 547
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch547-552-poison-three-demons"
+    "plot.fanren-ch547-552-poison-three-demons",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-14T18:39:49.870Z"
+  "updatedAt": "2026-06-17T07:02:05.941Z"
 }

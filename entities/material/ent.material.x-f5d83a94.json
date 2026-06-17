@@ -11,8 +11,8 @@
   ],
   "summary": "韩立所藏灵液，补充法力，使其敢长时间炼化炼晶。",
   "attributes": {
-    "用途": "补充法力、补充灵力、暗算诱饵、救命/疗伤、迅速回复法力、打开逆灵通道、支撑施展血影遁、临时解封五鬼锁神大法（每次两滴）、辅助恢复、瞬间恢复法力、回复法力、修复伤势",
-    "稀有度": "珍稀",
+    "用途": "补充法力、补充灵力、暗算诱饵、救命/疗伤、迅速回复法力、打开逆灵通道、支撑施展血影遁、临时解封五鬼锁神大法（每次两滴）、辅助恢复、瞬间恢复法力、回复法力、修复伤势、瞬间补充灵力、瞬间回复灵力",
+    "稀有度": "极稀、极稀有、珍稀",
     "类型": "灵液"
   },
   "observations": {
@@ -71,6 +71,16 @@
         "value": "回复法力、修复伤势",
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
         "seq": 1021
+      },
+      {
+        "value": "瞬间补充灵力",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
+      },
+      {
+        "value": "瞬间回复灵力",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "稀有度": [
@@ -87,7 +97,7 @@
       {
         "value": "珍稀",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-        "seq": 877
+        "seq": 547
       }
     ],
     "类型": [
@@ -108,9 +118,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
-      "seq": 877
+      "seq": 517
     },
     "类型": {
       "asOf": null,
@@ -130,7 +140,8 @@
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-17T06:19:33.483Z"
+  "updatedAt": "2026-06-17T07:02:05.955Z"
 }

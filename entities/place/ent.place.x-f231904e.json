@@ -6,7 +6,7 @@
   "summary": "拥有两座等高巨峰的岛屿，妙音门秘市坊市迁设于此，月余后开市。",
   "attributes": {
     "所属势力": "妙音门",
-    "类型": "海岛/坊市所在、坊市岛屿、海岛",
+    "类型": "海岛/坊市所在、坊市岛屿、海岛、海岛/坊市",
     "所属界面": "乱星海"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "海岛",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "海岛/坊市",
+        "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+        "seq": 547
       }
     ],
     "所属界面": [
@@ -72,7 +77,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch547-552-poison-three-demons",
-    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
   ],
-  "updatedAt": "2026-06-14T18:52:01.167Z"
+  "updatedAt": "2026-06-17T07:02:05.949Z"
 }
