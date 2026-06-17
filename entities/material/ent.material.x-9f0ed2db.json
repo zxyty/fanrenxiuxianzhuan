@@ -10,7 +10,7 @@
     "类型": "炼器灵材、炼器材料",
     "用途": "炼化进飞剑增其坚硬、锻炼本命法宝、强化飞剑",
     "产地": "熔岩路",
-    "稀有度": "逆天罕见"
+    "稀有度": "逆天罕见、稀有、逆天/极罕见"
   },
   "observations": {
     "类型": [
@@ -59,6 +59,11 @@
         "value": "稀有",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "逆天/极罕见",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ]
   },
@@ -84,16 +89,17 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 811
+      "seq": 517
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-    "plot.fanren-ch811-gang-yin-sha"
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-17T06:19:33.482Z"
+  "updatedAt": "2026-06-17T13:40:06.847Z"
 }

@@ -8,8 +8,8 @@
   ],
   "summary": "用更厉害上古禁制将坠魔谷中心圈禁的核心区，外有十余条禁制重重的通道与血色禁制之光，火蟾兽与古修遗骸在其中。",
   "attributes": {
-    "类型": "禁地/谷",
-    "危险度": "极高、高、高（空间裂缝、上古禁制、禁空禁制、灵禽失控）",
+    "类型": "禁地核心区、灵气紊乱秘境、禁地/谷、上古战场核心区",
+    "危险度": "极高、高、高（空间裂缝、上古禁制、禁空禁制、灵禽失控）、极高（空间裂缝密度为外界十倍以上）",
     "守护": "血色禁制、北极元光通道、火蟾兽、血色上古禁制、北极元光",
     "所属势力": "坠魔谷",
     "特产": "火蟾妖丹、灵烛果"
@@ -30,6 +30,11 @@
         "value": "禁地/谷",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "上古战场核心区",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "危险度": [
@@ -47,6 +52,11 @@
         "value": "高（空间裂缝、上古禁制、禁空禁制、灵禽失控）",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "极高（空间裂缝密度为外界十倍以上）",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "守护": [
@@ -100,9 +110,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
       "dated": false,
-      "seq": 823
+      "seq": 805
     },
     "危险度": {
       "asOf": null,
@@ -135,7 +145,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-17T13:31:45.639Z"
+  "updatedAt": "2026-06-17T13:40:06.890Z"
 }

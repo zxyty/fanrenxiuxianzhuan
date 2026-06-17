@@ -5,12 +5,13 @@
   "aliases": [
     "元光",
     "北极元光光丝",
-    "银色光丝"
+    "银色光丝",
+    "北极元光银丝"
   ],
   "summary": "坠魔谷中可杀人于无形的特殊元光，需两仪环阴环护身方能穿越。",
   "attributes": {
-    "类型": "天地异光、上古禁制之光、危险灵光、凶险光区、禁制灵光、元光幻阵禁制、元光",
-    "用途": "可被阳环操纵杀敌、灭杀闯入者/守护内谷通道、封路杀阵、可被两仪环操纵杀敌、鬼灵门入谷所求",
+    "类型": "天地异光、上古禁制之光、危险灵光、凶险光区、禁制灵光、元光幻阵禁制、元光、致命光丝异象",
+    "用途": "可被阳环操纵杀敌、灭杀闯入者/守护内谷通道、封路杀阵、可被两仪环操纵杀敌、鬼灵门入谷所求、守护内谷通道",
     "产地": "坠魔谷亦有"
   },
   "observations": {
@@ -49,6 +50,11 @@
         "value": "元光",
         "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
         "seq": 721
+      },
+      {
+        "value": "致命光丝异象",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "用途": [
@@ -76,6 +82,11 @@
         "value": "鬼灵门入谷所求",
         "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
+      },
+      {
+        "value": "守护内谷通道",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "产地": [
@@ -93,6 +104,11 @@
         "value": "坠魔谷亦有",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "坠魔谷通往内谷的通道",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ]
   },
@@ -127,7 +143,8 @@
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-793-798-zhuimo-valley-hanli-return",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-17T13:31:45.640Z"
+  "updatedAt": "2026-06-17T13:40:06.881Z"
 }

@@ -12,7 +12,8 @@
     "品阶": "上古",
     "能力": "近初期顶阶战力",
     "外形": "面目狰狞恶鬼",
-    "持有者": "天晶真人"
+    "持有者": "天晶真人",
+    "来历": "以魂石重新炼制的上古傀儡"
   },
   "observations": {
     "品阶": [
@@ -32,6 +33,11 @@
         "value": "近初期顶阶战力",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "各具元婴初期实力",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "外形": [
@@ -44,13 +50,25 @@
         "value": "面目狰狞恶鬼",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "恶鬼模样",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "持有者": [
       {
         "value": "天晶真人",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
-        "seq": 817
+        "seq": 811
+      }
+    ],
+    "来历": [
+      {
+        "value": "以魂石重新炼制的上古傀儡",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ]
   },
@@ -78,14 +96,21 @@
       "asOf": null,
       "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 817
+      "seq": 811
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+      "dated": false,
+      "seq": 811
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-15T06:28:36.582Z"
+  "updatedAt": "2026-06-17T13:40:06.885Z"
 }

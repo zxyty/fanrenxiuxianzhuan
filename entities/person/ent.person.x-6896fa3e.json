@@ -14,8 +14,8 @@
   "summary": "鬼灵门元婴中期老者，须发皆白、煞气浓重，随王蝉先行入谷。",
   "attributes": {
     "小阶段": "元婴",
-    "阵营": "魔道、鬼灵门",
-    "外貌": "面容苍白老者、须发皆白、鹰眼、煞气浓、面容苍白",
+    "阵营": "魔道、鬼灵门、魔道/鬼灵门",
+    "外貌": "面容苍白老者、须发皆白、鹰眼、煞气浓、面容苍白、脸色苍白的老者",
     "身份": "鬼灵门长老",
     "性别": "男"
   },
@@ -42,6 +42,11 @@
         "value": "鬼灵门",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
         "seq": 799
+      },
+      {
+        "value": "魔道/鬼灵门",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "外貌": [
@@ -59,6 +64,11 @@
         "value": "面容苍白",
         "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
+      },
+      {
+        "value": "脸色苍白的老者",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ],
     "身份": [
@@ -118,7 +128,8 @@
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-17T13:31:45.576Z"
+  "updatedAt": "2026-06-17T13:40:06.825Z"
 }

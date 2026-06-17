@@ -3,12 +3,14 @@
   "type": "item",
   "name": "碧鸠",
   "aliases": [
-    "碧鸠之毒"
+    "碧鸠之毒",
+    "碧鸠毒液"
   ],
   "summary": "十绝毒之一，以妖禽碧嘴鸠口水提炼，奇毒无比且气味刺鼻，为天下大毒虫所喜。原为苍坤上人遗宝，韩立用以涂抹傀儡引开紫纹蝎。",
   "attributes": {
     "类型": "奇毒",
-    "用途": "奇毒杀敌、引诱大毒虫"
+    "用途": "奇毒杀敌、引诱大毒虫、引诱毒虫",
+    "产地": "妖禽碧嘴鸠口水提炼"
   },
   "observations": {
     "类型": [
@@ -28,6 +30,18 @@
         "value": "引诱大毒虫",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "引诱毒虫",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
+      }
+    ],
+    "产地": [
+      {
+        "value": "妖禽碧嘴鸠口水提炼",
+        "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+        "seq": 811
       }
     ]
   },
@@ -44,12 +58,19 @@
       "docId": "plot.fanren-ch811-gang-yin-sha",
       "dated": false,
       "seq": 811
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+      "dated": false,
+      "seq": 811
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch811-gang-yin-sha"
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
   ],
-  "updatedAt": "2026-06-15T06:11:29.087Z"
+  "updatedAt": "2026-06-17T13:40:06.909Z"
 }
