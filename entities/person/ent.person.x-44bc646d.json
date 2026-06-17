@@ -10,7 +10,7 @@
   ],
   "summary": "天道盟主事人、鸾鸣宗修士，本章主动结好韩立并为其指认诸老怪。",
   "attributes": {
-    "身份": "天南法士首领",
+    "身份": "天道盟主事人、大战指挥、天南法士首领、天道盟主事长老、天道盟高层",
     "阵营": "天道盟、天南/九国盟、天南、合欢宗",
     "小阶段": "元婴后期"
   },
@@ -30,13 +30,23 @@
         "value": "天南法士首领",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "天道盟主事长老",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      },
+      {
+        "value": "天道盟高层",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "阵营": [
       {
         "value": "天道盟",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 745
       },
       {
         "value": "天南/九国盟",
@@ -59,22 +69,27 @@
         "value": "元婴后期",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "元婴中期顶峰",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ]
   },
-  "firstSeq": 751,
+  "firstSeq": 745,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 769
+      "seq": 745
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 751
+      "seq": 745
     },
     "小阶段": {
       "asOf": null,
@@ -90,7 +105,8 @@
     "plot.fanren-763-768-border-war-gamble-battle",
     "plot.fanren-769-774-border-war-6-8",
     "plot.fanren-775-780-border-war-end-yuanming-lamp",
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T03:58:16.660Z"
+  "updatedAt": "2026-06-17T11:45:24.852Z"
 }

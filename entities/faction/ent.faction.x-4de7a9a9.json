@@ -16,9 +16,10 @@
   ],
   "summary": "十几个国家为抗正魔两道组成的修士宗派联盟，天南四大势力之一。",
   "attributes": {
-    "阵营": "正道倾向联盟、正道、正道/盟约势力、正道/对抗魔道、天南正道、正道联盟、正/天道盟",
-    "理念": "与魔门敌视",
-    "等级": "三大势力之一"
+    "阵营": "正道倾向联盟、正道、正道/盟约势力、正道/对抗魔道、天南正道、正道联盟、正/天道盟、天南",
+    "理念": "联手抗慕兰法士",
+    "等级": "三大势力之一",
+    "据点": "天一城"
   },
   "observations": {
     "阵营": [
@@ -56,6 +57,11 @@
         "value": "正/天道盟",
         "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
+      },
+      {
+        "value": "天南",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "理念": [
@@ -68,6 +74,11 @@
         "value": "对抗正魔两道的松散联盟",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "联手抗慕兰法士",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "等级": [
@@ -75,6 +86,13 @@
         "value": "三大势力之一",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      }
+    ],
+    "据点": [
+      {
+        "value": "天一城",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ]
   },
@@ -88,15 +106,21 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 697
+      "seq": 745
     },
     "等级": {
       "asOf": null,
       "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
       "dated": false,
       "seq": 721
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+      "dated": false,
+      "seq": 745
     }
   },
   "contested": false,
@@ -125,7 +149,8 @@
     "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
     "plot.fanren-703-708-lianying-hezhongzhibao",
     "plot.fanren-714-shipo-yu-fuji",
-    "plot.fanren-721-726-dianyi-linghu-yufu"
+    "plot.fanren-721-726-dianyi-linghu-yufu",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-17T11:03:39.245Z"
+  "updatedAt": "2026-06-17T11:45:24.866Z"
 }

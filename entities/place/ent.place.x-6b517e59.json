@@ -2,18 +2,26 @@
   "id": "ent.place.x-6b517e59",
   "type": "place",
   "name": "天一城",
-  "aliases": [],
+  "aliases": [
+    "天一石城"
+  ],
   "summary": "四大势力临时修建、汇聚高层以抗慕兰的前线城池，落云宗在此设驻地。",
   "attributes": {
-    "所属界面": "天南",
-    "类型": "修士据点城池"
+    "所属界面": "天南、灵界",
+    "类型": "修士据点城池",
+    "所属势力": "天南四大势力、天道盟"
   },
   "observations": {
     "所属界面": [
       {
         "value": "天南",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 745
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "类型": [
@@ -26,29 +34,53 @@
         "value": "修士据点城池",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
+      },
+      {
+        "value": "临时石城据点",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天南四大势力",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      },
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ]
   },
-  "firstSeq": 751,
+  "firstSeq": 745,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 751
+      "seq": 745
     },
     "类型": {
       "asOf": null,
       "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
       "seq": 757
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+      "dated": false,
+      "seq": 745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T03:26:48.377Z"
+  "updatedAt": "2026-06-17T11:45:24.863Z"
 }

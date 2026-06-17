@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "九国盟中修炼资源倒数的国度，宗门稀少，六派迁入扎根之地。",
   "attributes": {
-    "类型": "国度"
+    "类型": "凡俗国度/战区"
   },
   "observations": {
     "类型": [
@@ -13,6 +13,11 @@
         "value": "国度",
         "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
         "seq": 709
+      },
+      {
+        "value": "凡俗国度/战区",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ]
   },
@@ -20,15 +25,16 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 709
+      "seq": 745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan"
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T02:08:50.361Z"
+  "updatedAt": "2026-06-17T11:45:24.839Z"
 }

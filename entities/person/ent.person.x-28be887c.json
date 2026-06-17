@@ -1,39 +1,32 @@
 {
-  "id": "ent.person.x-529572f0",
+  "id": "ent.person.x-28be887c",
   "type": "person",
-  "name": "况姓修士",
-  "aliases": [
-    "况兄"
-  ],
-  "summary": "倪航斋修士，本章坐于魔道一侧，与韩立相熟点头示意。",
+  "name": "徐长景",
+  "aliases": [],
+  "summary": "天道盟水影宗长老，元婴初期，新到天一城，曾与吕洛有数面之缘。",
   "attributes": {
-    "阵营": "魔道",
-    "小阶段": "元婴中期",
-    "身份": "倪航斋长老"
+    "小阶段": "元婴初期",
+    "身份": "水影宗长老",
+    "阵营": "天道盟"
   },
   "observations": {
-    "阵营": [
-      {
-        "value": "魔道",
-        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
-      },
-      {
-        "value": "天道盟",
-        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
-        "seq": 745
-      }
-    ],
     "小阶段": [
       {
-        "value": "元婴中期",
+        "value": "元婴初期",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
       }
     ],
     "身份": [
       {
-        "value": "倪航斋长老",
+        "value": "水影宗长老",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天道盟",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
       }
@@ -41,12 +34,6 @@
   },
   "firstSeq": 745,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-      "dated": false,
-      "seq": 751
-    },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
@@ -58,13 +45,18 @@
       "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
       "seq": 745
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+      "dated": false,
+      "seq": 745
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-17T11:45:24.814Z"
+  "updatedAt": "2026-06-17T11:45:24.815Z"
 }

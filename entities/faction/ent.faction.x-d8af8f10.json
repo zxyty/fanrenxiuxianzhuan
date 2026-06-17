@@ -2,7 +2,9 @@
   "id": "ent.faction.x-d8af8f10",
   "type": "faction",
   "name": "鸾鸣宗",
-  "aliases": [],
+  "aliases": [
+    "鸾鸣门"
+  ],
   "summary": "龙晗所属门派。",
   "attributes": {
     "阵营": "天南",
@@ -14,6 +16,11 @@
         "value": "天南",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
         "seq": 763
+      },
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "镇派之宝": [
@@ -24,7 +31,7 @@
       }
     ]
   },
-  "firstSeq": 751,
+  "firstSeq": 745,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -43,7 +50,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-763-768-border-war-gamble-battle"
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T03:34:19.246Z"
+  "updatedAt": "2026-06-17T11:45:24.823Z"
 }

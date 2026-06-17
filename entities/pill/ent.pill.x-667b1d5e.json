@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "珍贵丹药，资质佳的结丹初期服之省百年瓶颈，资质稍逊者可助突破结丹期。",
   "attributes": {
-    "功效": "省却结丹瓶颈参悟时间、助突破结丹期、助突破境界、幻境感悟天地灵力",
-    "适用境界": "化神期以下",
+    "功效": "省却结丹瓶颈参悟时间、助突破结丹期、助突破境界、幻境感悟天地灵力、催化神识预体验下一境界、助突破瓶颈",
+    "适用境界": "结丹",
     "主料": "灵烛果",
     "副作用": "神识溃散坠入幻境",
     "炼制者": "韩立、紫灵仙子"
@@ -32,6 +32,16 @@
         "value": "幻境感悟天地灵力",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "催化神识预体验下一境界",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "适用境界": [
@@ -43,14 +53,14 @@
       {
         "value": "化神期以下",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
-        "seq": 835
+        "seq": 745
       }
     ],
     "主料": [
       {
         "value": "灵烛果",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
-        "seq": 793
+        "seq": 745
       }
     ],
     "副作用": [
@@ -63,6 +73,11 @@
         "value": "神识溃散坠入幻境",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "出炉后须限时服下否则失效",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "炼制者": [
@@ -78,25 +93,25 @@
       }
     ]
   },
-  "firstSeq": 751,
+  "firstSeq": 745,
   "attrProvenance": {
     "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+      "dated": false,
+      "seq": 745
+    },
+    "适用境界": {
       "asOf": null,
       "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
       "seq": 751
     },
-    "适用境界": {
-      "asOf": null,
-      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
-      "dated": false,
-      "seq": 835
-    },
     "主料": {
       "asOf": null,
       "docId": "plot.fanren-793-798-zhuimo-zhi-di",
       "dated": false,
-      "seq": 793
+      "seq": 745
     },
     "副作用": {
       "asOf": null,
@@ -117,7 +132,8 @@
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
-    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan"
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T13:46:31.487Z"
+  "updatedAt": "2026-06-17T11:45:24.860Z"
 }

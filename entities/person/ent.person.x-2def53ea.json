@@ -5,27 +5,29 @@
   "aliases": [
     "红衣美妇凤冰",
     "红衣美妇",
-    "凤冰道友"
+    "凤冰道友",
+    "凤冰长老"
   ],
   "summary": "龙晗之妻（贤伉俪），与龙晗联手实力可比肩天恨老怪。",
   "attributes": {
     "性别": "女",
     "阵营": "天南",
-    "小阶段": "元婴中期顶阶"
+    "小阶段": "元婴中期顶阶",
+    "身份": "天道盟主事长老"
   },
   "observations": {
     "性别": [
       {
         "value": "女",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 745
       }
     ],
     "阵营": [
       {
         "value": "天道盟",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 745
       },
       {
         "value": "韩立一方",
@@ -44,15 +46,22 @@
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
       }
+    ],
+    "身份": [
+      {
+        "value": "天道盟主事长老",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
+      }
     ]
   },
-  "firstSeq": 751,
+  "firstSeq": 745,
   "attrProvenance": {
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 751
+      "seq": 745
     },
     "阵营": {
       "asOf": null,
@@ -65,6 +74,12 @@
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
       "seq": 769
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+      "dated": false,
+      "seq": 745
     }
   },
   "contested": false,
@@ -72,7 +87,8 @@
   "docs": [
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-15T03:58:16.661Z"
+  "updatedAt": "2026-06-17T11:45:24.813Z"
 }

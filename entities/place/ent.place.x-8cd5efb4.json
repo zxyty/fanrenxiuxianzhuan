@@ -8,9 +8,9 @@
   "summary": "虞国深山中的天南唯一修士之城、九国盟总坛，居民皆灵根修士，护城大阵为上元灭光阵，举办交易会。",
   "attributes": {
     "所属势力": "九国盟",
-    "类型": "修士之城/交易总坛、巨城、修仙交易城、修士之城、城池、修士之城/总坛、巨城/交易会主办地、修士城市",
-    "守护": "禁制限低阶修士飞行",
-    "所属界面": "天南",
+    "类型": "修士之城/交易总坛、巨城、修仙交易城、修士之城、城池、修士之城/总坛、巨城/交易会主办地、修士城市、禁制大城",
+    "守护": "九国盟",
+    "所属界面": "灵界",
     "特产": "交易会珍品"
   },
   "observations": {
@@ -61,6 +61,11 @@
         "value": "修士城市",
         "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
+      },
+      {
+        "value": "禁制大城",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "守护": [
@@ -73,6 +78,12 @@
         "value": "禁制限低阶修士飞行",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      },
+      {
+        "value": "九国盟",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745,
+        "note": "已沦陷于慕兰"
       }
     ],
     "所属界面": [
@@ -80,6 +91,11 @@
         "value": "天南",
         "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
         "seq": 667
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+        "seq": 745
       }
     ],
     "特产": [
@@ -106,15 +122,16 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 673
+      "seq": 745,
+      "note": "已沦陷于慕兰"
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+      "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
       "dated": false,
-      "seq": 667
+      "seq": 745
     },
     "特产": {
       "asOf": null,
@@ -141,7 +158,8 @@
     "plot.fanren-714-shipo-yu-fuji",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
-    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-17T11:37:17.779Z"
+  "updatedAt": "2026-06-17T11:45:24.831Z"
 }
