@@ -8,8 +8,8 @@
   "summary": "稀世灵果，食一颗即可延寿百年，藏于血咒之门后地下大厅供桌。",
   "attributes": {
     "类型": "灵果",
-    "用途": "增长寿元",
-    "稀有度": "稀世"
+    "用途": "食一颗延寿百年、增长寿元、延寿百年",
+    "稀有度": "稀世、逆天"
   },
   "observations": {
     "类型": [
@@ -29,12 +29,22 @@
         "value": "增长寿元",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
         "seq": 829
+      },
+      {
+        "value": "延寿百年",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "稀有度": [
       {
         "value": "稀世",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "逆天",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
       }
     ]
@@ -49,9 +59,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
       "dated": false,
-      "seq": 829
+      "seq": 823
     },
     "稀有度": {
       "asOf": null,
@@ -64,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-15T13:29:24.741Z"
+  "updatedAt": "2026-06-17T13:56:43.816Z"
 }

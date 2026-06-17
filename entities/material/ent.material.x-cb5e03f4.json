@@ -10,10 +10,10 @@
   ],
   "summary": "罕见炼器材料，可使法宝更坚固，效果仅次于炼晶，提炼率极低、本身极硬。",
   "attributes": {
-    "类型": "炼器灵矿",
+    "类型": "炼器材料、炼器灵矿、矿石",
     "用途": "掺入法宝使其坚固、炼制机关傀儡、掺入炼器使法宝更坚固/掺入傀儡躯体",
     "稀有度": "近乎绝迹",
-    "产地": "坠魔谷、坠魔谷洞口、坠魔谷内谷、坠魔谷石壁矿脉"
+    "产地": "坠魔谷、坠魔谷洞口、坠魔谷内谷、坠魔谷石壁矿脉、坠魔谷外谷"
   },
   "observations": {
     "类型": [
@@ -25,6 +25,11 @@
       {
         "value": "炼器灵矿",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "矿石",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
       }
     ],
@@ -72,6 +77,11 @@
         "value": "坠魔谷石壁矿脉",
         "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
         "seq": 811
+      },
+      {
+        "value": "坠魔谷外谷",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ]
   },
@@ -79,9 +89,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "docId": "plot.fanren-ch811-gang-yin-sha",
       "dated": false,
-      "seq": 823
+      "seq": 811
     },
     "用途": {
       "asOf": null,
@@ -107,7 +117,8 @@
   "docs": [
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao"
+    "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-17T13:40:06.844Z"
+  "updatedAt": "2026-06-17T13:56:43.825Z"
 }

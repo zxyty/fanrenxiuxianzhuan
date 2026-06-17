@@ -9,15 +9,17 @@
     "画像卷轴",
     "苍坤上人画像卷轴",
     "破旧画轴",
-    "内殿五层地图"
+    "内殿五层地图",
+    "银色画轴",
+    "养魂木画轴"
   ],
   "summary": "韩立刚到手的法宝，封印脂阳鸟一分精魂，可放出大量火鸟分身或一只丈许巨型脂阳鸟。",
   "attributes": {
     "持有者": "王天古/鬼灵门门主",
-    "能力": "芥子空间、存养残魂",
+    "能力": "放出脂阳鸟分身、芥子空间、存养残魂、芥子空间养魂、可唤出残魂行动",
     "禁制": "封印脂阳鸟一分精魂",
-    "来历": "慕兰草原藏宝处所得，疑似苍坤上人画像",
-    "外形": "长约数尺、银光闪闪、古朴"
+    "来历": "本章刚到手、慕兰草原藏宝处所得，疑似苍坤上人画像、慕兰草原藏宝处所得",
+    "外形": "长约数尺、银光闪闪、古朴、数尺长银光古朴卷轴"
   },
   "observations": {
     "持有者": [
@@ -42,6 +44,16 @@
         "value": "芥子空间、存养残魂",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "芥子空间养魂",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
+      },
+      {
+        "value": "可唤出残魂行动",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "禁制": [
@@ -61,12 +73,22 @@
         "value": "慕兰草原藏宝处所得，疑似苍坤上人画像",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "慕兰草原藏宝处所得",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "外形": [
       {
         "value": "长约数尺、银光闪闪、古朴",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "数尺长银光古朴卷轴",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
       }
     ]
@@ -81,9 +103,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
       "dated": false,
-      "seq": 823
+      "seq": 421
     },
     "禁制": {
       "asOf": null,
@@ -93,9 +115,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
       "dated": false,
-      "seq": 823
+      "seq": 421
     },
     "外形": {
       "asOf": null,
@@ -109,7 +131,8 @@
   "docs": [
     "plot.fanren-421-426-qixialian-yaoguanshe",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-17T05:58:16.906Z"
+  "updatedAt": "2026-06-17T13:56:43.857Z"
 }

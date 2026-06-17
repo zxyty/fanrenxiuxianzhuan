@@ -5,13 +5,14 @@
   "aliases": [
     "金刚困仙阵",
     "金色光罩",
-    "佛宗法阵"
+    "佛宗法阵",
+    "小须弥金刚罩"
   ],
   "summary": "佛宗法阵，无破阵法决，护罩不灭不休、迅速复原，只能以不间断的蛮力攻击持续消磨破除。",
   "attributes": {
     "出处": "佛宗",
-    "效果": "不灭不休、护罩迅速恢复、只能蛮力破解、金刚护罩、佛文防御",
-    "破解法": "持续不间断攻击消磨护罩"
+    "效果": "不灭不休、护罩迅速恢复、只能蛮力破解、金刚护罩、佛文防御、纯蛮力方可破、禁制迅速恢复如初、持久力极强、金色护罩护宝",
+    "破解法": "持续不间断攻击消磨护罩、不停以攻击消磨护罩直至完全摧毁"
   },
   "observations": {
     "出处": [
@@ -41,12 +42,37 @@
         "value": "金刚护罩、佛文防御",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "纯蛮力方可破",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
+      },
+      {
+        "value": "禁制迅速恢复如初",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
+      },
+      {
+        "value": "持久力极强",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
+      },
+      {
+        "value": "金色护罩护宝",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "破解法": [
       {
         "value": "持续不间断攻击消磨护罩",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "不停以攻击消磨护罩直至完全摧毁",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
       }
     ]
@@ -75,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu"
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-15T13:16:27.451Z"
+  "updatedAt": "2026-06-17T13:56:43.876Z"
 }

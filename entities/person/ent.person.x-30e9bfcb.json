@@ -10,17 +10,20 @@
     "苍坤上人化身",
     "儒生精魂",
     "画轴精魂",
-    "精魂"
+    "精魂",
+    "画轴儒生",
+    "苍坤上人残魂",
+    "苍坤上人化身残魂"
   ],
   "summary": "五千年前力压正魔两道的天南第一散修(狂修)，自爆两傀儡化身瞒天过海逃脱，后成坠魔谷生还第一人，带宝出谷不久坐化。",
   "attributes": {
-    "身份": "天南第一散修、洞府主人、前代修士、上古修士、前辈修士、古修、坠魔谷生还第一人、留下坠魔谷路线图的前辈",
+    "身份": "天南第一散修、洞府主人、前代修士、上古修士、前辈修士、古修、坠魔谷生还第一人、留下坠魔谷路线图的前辈、古修/前辈",
     "称号": "苍坤上人化身",
-    "存殁": "已故",
+    "存殁": "本体已死",
     "死因": "出坠魔谷后坐化",
     "标志特征": "供奉三头六臂独角妖神金像、神识过人、化身分神所化儒生精魂/鬼躯、独角鬼头、碧绿魂石、背剑儒生绣像、供奉独角妖神、留六只玉盒遗宝、可感应空间裂缝的神通、能感应隐形空间裂缝",
     "结局": "曾被火蟾兽逼退",
-    "外貌": "背剑儒生、三缕长髯、清奇中年；残魂为灰白光影虚体",
+    "外貌": "背剑儒生、三缕长髯、清奇中年；残魂为灰白光影虚体、三缕长髯中年儒生背负长剑",
     "种族": "古魔",
     "阵营": "圣界"
   },
@@ -65,6 +68,11 @@
         "value": "留下坠魔谷路线图的前辈",
         "docId": "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
         "seq": 811
+      },
+      {
+        "value": "古修/前辈",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "称号": [
@@ -95,6 +103,12 @@
         "value": "已故",
         "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
+      },
+      {
+        "value": "本体已死",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823,
+        "note": "仅余化身残魂存于画轴"
       }
     ],
     "死因": [
@@ -169,6 +183,11 @@
         "value": "背剑儒生、三缕长髯、清奇中年；残魂为灰白光影虚体",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "三缕长髯中年儒生背负长剑",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "种族": [
@@ -202,9 +221,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+      "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
       "dated": false,
-      "seq": 805
+      "seq": 823,
+      "note": "仅余化身残魂存于画轴"
     },
     "死因": {
       "asOf": null,
@@ -268,7 +288,8 @@
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
     "plot.fanren-805-810-zhuimogu-killing-intent",
     "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
-    "plot.fanren-817-822-zhan-huochan-qiyanshan"
+    "plot.fanren-817-822-zhan-huochan-qiyanshan",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-17T13:48:46.929Z"
+  "updatedAt": "2026-06-17T13:56:43.854Z"
 }

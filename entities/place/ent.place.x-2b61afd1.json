@@ -9,7 +9,7 @@
   ],
   "summary": "上古用于存放重宝、以血咒禁制封印的门，需透明古修骨骸作钥匙破解。",
   "attributes": {
-    "类型": "上古封印重宝之门、上古石门/秘地入口、封印石门",
+    "类型": "上古封印重宝之门、上古石门/秘地入口、封印石门、禁制石门",
     "守护": "血咒禁制、苍坤上人所设禁制、上古精血禁制、重宝",
     "危险度": "高",
     "所属界面": "灵界"
@@ -30,6 +30,11 @@
         "value": "封印石门",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "禁制石门",
+        "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+        "seq": 823
       }
     ],
     "守护": [
@@ -102,7 +107,8 @@
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
     "plot.fanren-1261-1266-blood-curse-tiandong",
-    "plot.fanren-817-822-zhan-huochan-qiyanshan"
+    "plot.fanren-817-822-zhan-huochan-qiyanshan",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
   ],
-  "updatedAt": "2026-06-17T13:48:47.009Z"
+  "updatedAt": "2026-06-17T13:56:43.815Z"
 }
