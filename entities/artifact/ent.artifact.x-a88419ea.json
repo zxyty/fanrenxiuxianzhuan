@@ -9,9 +9,9 @@
   "attributes": {
     "品阶": "古宝",
     "五行属性": "雷、火",
-    "能力": "遁速极快、雷火爆裂攻击、钻入护罩",
+    "能力": "遁速极快、雷火爆裂攻击、钻入护罩、遁速极快若有若无、高速旋转钻入禁制、雷火融为赤红电弧",
     "持有者": "邰夫人",
-    "外形": "前尖后宽、通体火红如尖锥"
+    "外形": "前尖后宽、通体火红如尖锥、前尖后宽、通体火红如锥"
   },
   "observations": {
     "品阶": [
@@ -48,6 +48,21 @@
         "value": "钻入护罩",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "遁速极快若有若无",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "高速旋转钻入禁制",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "雷火融为赤红电弧",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ],
     "持有者": [
@@ -61,6 +76,11 @@
       {
         "value": "前尖后宽、通体火红如尖锥",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "前尖后宽、通体火红如锥",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
       }
     ]
@@ -101,7 +121,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
   ],
-  "updatedAt": "2026-06-14T22:20:41.313Z"
+  "updatedAt": "2026-06-17T10:30:40.982Z"
 }

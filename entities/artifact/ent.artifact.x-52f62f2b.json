@@ -21,10 +21,10 @@
   ],
   "summary": "上古修士遗留的黑色山峰古宝，可急剧涨缩、瞬移砸落、自愈，并放黑光罩压制敌方法宝威力；底部刻有淡金色「千重峰」三字。",
   "attributes": {
-    "品阶": "古宝",
+    "品阶": "古宝、上古古宝",
     "持有者": "韩立",
-    "能力": "体积涨缩、瞬移砸落、迅速自愈、黑光罩压制法宝、瞬间涨大成山形隔挡、瞬移压敌、缩放、瞬移、狂涨下压、喷黑色光霞、化百余丈巨山镇压、巨大化撑顶/砸击、化巨峰、黑霞迟滞、镇压砸落、碧绿虫血腐蚀、抗火球冰锥、施展元磁神光、凝聚雷弧护身",
-    "外形": "黑乎乎小山",
+    "能力": "体积涨缩、瞬移砸落、迅速自愈、黑光罩压制法宝、瞬间涨大成山形隔挡、瞬移压敌、缩放、瞬移、狂涨下压、喷黑色光霞、化百余丈巨山镇压、巨大化撑顶/砸击、化巨峰、黑霞迟滞、镇压砸落、碧绿虫血腐蚀、抗火球冰锥、施展元磁神光、凝聚雷弧护身、体积暴涨、瞬移撞击、受损自愈、黑光罩压制敌宝",
+    "外形": "黑色小山、通体乌光的黑色小山、黑色山峰、黑色古堡/可巨大化的小山、高数十丈黑色巨峰、黑乎乎小山、黑色山峰/迷你小山",
     "来历": "法士中大名鼎鼎的古宝"
   },
   "observations": {
@@ -32,6 +32,11 @@
       {
         "value": "古宝",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "上古古宝",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
       }
     ],
@@ -123,6 +128,26 @@
         "value": "施展元磁神光、凝聚雷弧护身",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "体积暴涨",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "瞬移撞击",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "受损自愈",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "黑光罩压制敌宝",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ],
     "外形": [
@@ -155,6 +180,11 @@
         "value": "黑乎乎小山",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "黑色山峰/迷你小山",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ],
     "来历": [
@@ -162,6 +192,11 @@
         "value": "法士中大名鼎鼎的古宝",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
         "seq": 739
+      },
+      {
+        "value": "疑上古修士遗留",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ]
   },
@@ -188,9 +223,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1341-leipao-xianshi",
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
       "dated": false,
-      "seq": 1339
+      "seq": 691
     },
     "来历": {
       "asOf": null,
@@ -211,7 +246,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
   ],
-  "updatedAt": "2026-06-16T13:09:39.462Z"
+  "updatedAt": "2026-06-17T10:30:40.948Z"
 }

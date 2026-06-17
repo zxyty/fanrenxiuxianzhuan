@@ -438,3 +438,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T10:06:57.481Z** `ingest` plot.fanren-672-677-tiantiancheng-yuanying-exchange — 凡人修仙传 第672-677章｜阗天城强行交易与元婴交换会 · kind=plot asOf=2026-06-17 entities=21 relations=16 src=00673-00678.md
 - **2026-06-17T10:09:47.471Z** `ingest` plot.fanren-678-683-hunshi-gulei-mihui — 凡人修仙传 第678-683章｜魂石、上古傀儡术与南陇侯密会 · kind=plot asOf=2026-06-17 entities=32 relations=31 src=00679-00684.md
 - **2026-06-17T10:22:14.120Z** `ingest` plot.fanren-685-690-cangkun-yibao-mulan-fashi — 凡人修仙传 第685-690章：苍坤遗宝·荒地凶险·法士初现 · kind=plot asOf=2026-06-17 entities=46 relations=51 src=00685-00690.md
+- **2026-06-17T10:30:41.094Z** `ingest` plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak — 凡人修仙传 第691-696章｜韩立慕兰草原斩穆姓法士、夺千重峰 · kind=plot asOf=2026-06-17 entities=38 relations=46 src=00691-00696.md

@@ -3,19 +3,26 @@
   "type": "person",
   "name": "麻冠法士",
   "aliases": [
-    "麻冠金面法士"
+    "麻冠金面法士",
+    "麻冠上师"
   ],
   "summary": "慕兰元婴初期法士，金面、戴羽冠、披麻袍，追杀尤姓修士；收传音符后特意盯视韩立而退走。",
   "attributes": {
-    "种族": "慕兰人",
+    "种族": "慕兰人、慕兰",
     "小阶段": "元婴初期",
-    "外貌": "金黄面、头戴羽冠、身披麻袍"
+    "外貌": "金黄面、头戴羽冠、身披麻袍、面金黄、羽冠、麻袍",
+    "身份": "慕兰法士"
   },
   "observations": {
     "种族": [
       {
         "value": "慕兰人",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
       }
     ],
@@ -30,6 +37,18 @@
       {
         "value": "金黄面、头戴羽冠、身披麻袍",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "面金黄、羽冠、麻袍",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      }
+    ],
+    "身份": [
+      {
+        "value": "慕兰法士",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
       }
     ]
@@ -53,12 +72,19 @@
       "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
       "dated": false,
       "seq": 691
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+      "dated": false,
+      "seq": 691
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
   ],
-  "updatedAt": "2026-06-14T22:20:41.304Z"
+  "updatedAt": "2026-06-17T10:30:40.979Z"
 }

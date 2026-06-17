@@ -15,12 +15,14 @@
   "attributes": {
     "小阶段": "元婴初期、元婴期、元婴初期顶峰(即将中期)",
     "种族": "法士、慕兰人、慕兰族",
-    "外貌": "六十余岁瘦削、面颊刺青色纹身、蓝色锦衫、六十余岁干瘦阴沉，脸颊两侧青色纹身，蓝色锦衫",
+    "外貌": "六十余岁瘦削、面颊刺青色纹身、蓝色锦衫、六十余岁干瘦阴沉，脸颊两侧青色纹身，蓝色锦衫、老者",
     "阵营": "慕兰草原法士",
-    "身份": "法士",
+    "身份": "法士/上师",
     "结局": "躯体被毁，元婴出窍逃遁",
     "性别": "男",
-    "称号": "上师"
+    "称号": "上师",
+    "标志特征": "冰属性灵术、丹阳之火护元婴、曾被韩立重伤、只逃出元婴",
+    "存殁": "躯体被毁"
   },
   "observations": {
     "小阶段": [
@@ -67,6 +69,11 @@
         "value": "六十余岁干瘦阴沉，脸颊两侧青色纹身，蓝色锦衫",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ],
     "阵营": [
@@ -81,6 +88,11 @@
         "value": "法士",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 685
+      },
+      {
+        "value": "法士/上师",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
       }
     ],
     "结局": [
@@ -103,6 +115,26 @@
         "value": "上师",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "冰属性灵术、丹阳之火护元婴",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      },
+      {
+        "value": "曾被韩立重伤、只逃出元婴",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      }
+    ],
+    "存殁": [
+      {
+        "value": "躯体被毁",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691,
+        "note": "元婴出窍逃走，尚存"
       }
     ]
   },
@@ -134,9 +166,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
       "dated": false,
-      "seq": 685
+      "seq": 691
     },
     "结局": {
       "asOf": null,
@@ -156,6 +188,19 @@
       "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
       "dated": false,
       "seq": 685
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+      "dated": false,
+      "seq": 691
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+      "dated": false,
+      "seq": 691,
+      "note": "元婴出窍逃走，尚存"
     }
   },
   "contested": false,
@@ -163,7 +208,8 @@
   "docs": [
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
     "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
-    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
   ],
-  "updatedAt": "2026-06-17T10:22:13.987Z"
+  "updatedAt": "2026-06-17T10:30:40.980Z"
 }

@@ -11,7 +11,8 @@
   "attributes": {
     "小阶段": "元婴初期",
     "外貌": "黑脸",
-    "性别": "男"
+    "性别": "男",
+    "身份": "寻宝队伍成员"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +40,13 @@
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
       }
+    ],
+    "身份": [
+      {
+        "value": "寻宝队伍成员",
+        "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+        "seq": 691
+      }
     ]
   },
   "firstSeq": 685,
@@ -60,6 +68,12 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+      "dated": false,
+      "seq": 691
     }
   },
   "contested": false,
@@ -68,7 +82,8 @@
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
     "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
   ],
-  "updatedAt": "2026-06-15T02:06:15.342Z"
+  "updatedAt": "2026-06-17T10:30:40.976Z"
 }
