@@ -12,14 +12,15 @@
     "落云山脉",
     "云梦山三宗",
     "溪国云梦山脉",
-    "云蒙山脉"
+    "云蒙山脉",
+    "云梦山圣地"
   ],
   "summary": "天南灵气圣脉，深处有三大神木之一的灵眼之树，由古剑门、落云宗、百巧院三派联占。",
   "attributes": {
     "所属界面": "溪国",
     "类型": "灵气圣脉、山脉、山脉/区域、灵山、山脉/门派据点、灵山圣脉、修仙势力聚居山脉",
-    "特产": "灵眼之树/醇液、灵眼之树、醇液、阴雾山谷、毒蝎毒蛇",
-    "守护": "灵眼之树圣地禁制",
+    "特产": "灵眼之树/醇液、灵眼之树、醇液、阴雾山谷、毒蝎毒蛇、灵气充沛",
+    "守护": "三派共管圣树、灵眼之树圣地禁制、金属性光罩",
     "所属势力": "天道盟、落云宗、云梦山三宗、古剑门、百巧院"
   },
   "observations": {
@@ -97,6 +98,11 @@
         "value": "阴雾山谷、毒蝎毒蛇",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
+      },
+      {
+        "value": "灵气充沛",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "守护": [
@@ -108,6 +114,11 @@
       {
         "value": "灵眼之树圣地禁制",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "金属性光罩",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ],
@@ -161,9 +172,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
       "dated": false,
-      "seq": 631
+      "seq": 613
     },
     "所属势力": {
       "asOf": null,
@@ -197,7 +208,8 @@
     "plot.fanren-ch595-600-join-luoyunzong",
     "plot.fanren-613-yinyue-becomes-qiling",
     "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
-    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T08:27:05.763Z"
+  "updatedAt": "2026-06-17T08:44:02.067Z"
 }

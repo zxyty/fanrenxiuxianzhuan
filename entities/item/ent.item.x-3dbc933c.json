@@ -1,43 +1,32 @@
 {
-  "id": "ent.item.x-e2649b77",
+  "id": "ent.item.x-3dbc933c",
   "type": "item",
-  "name": "御灵宗奇虫玉简",
+  "name": "幻术符箓",
   "aliases": [
-    "绿色玉简",
-    "绿简"
+    "幻术符"
   ],
-  "summary": "御灵宗修士所遗绿色玉简，载上千种奇虫、培育及驱使秘法与厉害程度排名。",
+  "summary": "韩立自制的幻术符箓，用作\"高价买来保命\"的托辞蒙混过关。",
   "attributes": {
-    "类型": "玉简",
-    "用途": "记载功法与丹药炼制法"
+    "类型": "符箓",
+    "用途": "幻术/托辞"
   },
   "observations": {
     "类型": [
       {
-        "value": "玉简记录",
-        "docId": "plot.fanren-ch344-formation-slays-mantis",
-        "seq": 343
-      },
-      {
-        "value": "玉简",
+        "value": "符箓",
         "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ],
     "用途": [
       {
-        "value": "记载奇虫培育驱使秘法与排名",
-        "docId": "plot.fanren-ch344-formation-slays-mantis",
-        "seq": 343
-      },
-      {
-        "value": "记载功法与丹药炼制法",
+        "value": "幻术/托辞",
         "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ]
   },
-  "firstSeq": 343,
+  "firstSeq": 631,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -55,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch344-formation-slays-mantis",
     "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T08:44:02.011Z"
+  "updatedAt": "2026-06-17T08:44:02.048Z"
 }

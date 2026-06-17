@@ -7,7 +7,7 @@
   ],
   "summary": "结婴时吞服的丹药，乳白色拇指大小、通体晶莹、有乳白灵雾呈灵药天兆之象；韩立历经数次失败方炼成。",
   "attributes": {
-    "功效": "助结婴",
+    "功效": "助结婴、辅助结婴",
     "适用境界": "结婴/元婴",
     "炼制者": "韩立",
     "主料": "九曲灵参"
@@ -17,6 +17,11 @@
       {
         "value": "助结婴",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "辅助结婴",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ],
@@ -72,7 +77,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.684Z"
+  "updatedAt": "2026-06-17T08:44:02.056Z"
 }

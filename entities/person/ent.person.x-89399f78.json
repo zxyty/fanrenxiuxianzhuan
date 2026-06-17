@@ -10,7 +10,9 @@
     "火龙道友",
     "古师兄",
     "古前辈",
-    "蓝姓妖王"
+    "蓝姓妖王",
+    "蓝衣童子",
+    "蓝老鬼"
   ],
   "summary": "天道盟一方耆宿，外形为童子，设套中套清剿正魔卧底。",
   "attributes": {
@@ -18,7 +20,7 @@
     "阵营": "妖族夺宝一方",
     "小阶段": "元婴",
     "标志特征": "八名鬼王簇拥",
-    "身份": "古剑门长老",
+    "身份": "古剑门长老、布阵/掩护伏击者、天道盟长老",
     "性格": "杀气森然",
     "性别": "女"
   },
@@ -116,6 +118,16 @@
         "value": "古剑门长老",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "布阵/掩护伏击者",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      },
+      {
+        "value": "天道盟长老",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "性格": [
@@ -171,9 +183,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
       "dated": false,
-      "seq": 679
+      "seq": 631
     },
     "性格": {
       "asOf": null,
@@ -199,7 +211,8 @@
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-16T18:53:56.295Z"
+  "updatedAt": "2026-06-17T08:44:01.990Z"
 }

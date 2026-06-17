@@ -7,7 +7,9 @@
   "attributes": {
     "身份": "落云宗元婴长老",
     "小阶段": "元婴期",
-    "存殁": "重伤(性命无忧)"
+    "存殁": "重伤(性命无忧)",
+    "阵营": "落云宗",
+    "结局": "重伤、元气大伤"
   },
   "observations": {
     "身份": [
@@ -28,6 +30,20 @@
       {
         "value": "重伤(性命无忧)",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "结局": [
+      {
+        "value": "重伤、元气大伤",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ]
@@ -51,12 +67,25 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.635Z"
+  "updatedAt": "2026-06-17T08:44:02.033Z"
 }

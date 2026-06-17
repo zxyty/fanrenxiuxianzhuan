@@ -3,12 +3,13 @@
   "type": "technique",
   "name": "天狐迷灵大法",
   "aliases": [
-    "天狐迷灵**"
+    "天狐迷灵**",
+    "狐族法术"
   ],
   "summary": "银月所用狐族法术，可借兽躯幻化逼真替身，瞒过修为不高者。",
   "attributes": {
     "出处": "狐族",
-    "效果": "幻化替身",
+    "效果": "幻化替身、幻化替身、迷惑瞒骗",
     "适用境界": "对结丹及以下尤效"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "幻化替身",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "幻化替身、迷惑瞒骗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.529Z"
+  "updatedAt": "2026-06-17T08:44:01.968Z"
 }

@@ -6,12 +6,13 @@
     "灵参",
     "白兔化身",
     "灵参化身",
-    "化身白兔"
+    "化身白兔",
+    "九曲灵参本体"
   ],
   "summary": "传闻中的仙草，天地灵气所化，能幻化动植物自行活动、擅钻土入木，可大幅提升凝结元婴几率。",
   "attributes": {
-    "类型": "仙草/灵草、灵参／灵药、灵参、灵参/灵药、灵草/灵药、灵草、仙家灵药、草木灵药、天地灵物、灵药",
-    "用途": "提升凝结元婴几率、延寿、大补、可与他人交换所需之物、传闻对凝结元婴大有奇效、结丹期争夺之珍药、凝婴、炼制丹药（配方仅玄骨知）、凝结元婴依仗、辅助凝结元婴、凝结元婴/炼丹主料、炼丹、炼九曲灵参丹、炼制助结婴灵药、炼丹、助凝结元婴、珍稀灵参，需土石之气调养、凝结元婴、炼丹主料",
+    "类型": "仙草/灵草、灵参／灵药、灵参、灵参/灵药、灵草/灵药、灵草、仙家灵药、草木灵药、天地灵物、灵药、灵参/天地灵物",
+    "用途": "提升凝结元婴几率、延寿、大补、可与他人交换所需之物、传闻对凝结元婴大有奇效、结丹期争夺之珍药、凝婴、炼制丹药（配方仅玄骨知）、凝结元婴依仗、辅助凝结元婴、凝结元婴/炼丹主料、炼丹、炼九曲灵参丹、炼制助结婴灵药、炼丹、助凝结元婴、珍稀灵参，需土石之气调养、凝结元婴、炼丹主料、炼丹主料",
     "稀有度": "传闻仙草、近仙家之物、极高、极珍、极稀有、稀有、天南无处可寻、外界已灭绝、珍稀",
     "产地": "半封闭空间小石山"
   },
@@ -66,6 +67,11 @@
         "value": "灵药",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "灵参/天地灵物",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "用途": [
@@ -153,6 +159,11 @@
         "value": "凝结元婴、炼丹主料",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "炼丹主料",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "稀有度": [
@@ -263,7 +274,8 @@
     "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
     "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T07:58:36.446Z"
+  "updatedAt": "2026-06-17T08:44:02.057Z"
 }

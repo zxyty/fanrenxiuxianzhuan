@@ -3,12 +3,17 @@
   "type": "person",
   "name": "天煞真君",
   "aliases": [
-    "天煞老魔"
+    "天煞老魔",
+    "天杀真君",
+    "历代天煞宗宗主法号"
   ],
   "summary": "天煞宗历代宗主共用法号，借体附身卫姓老者，以紫罗玄功掩护魔道脱逃。",
   "attributes": {
     "称号": "天煞宗宗主",
-    "阵营": "魔道"
+    "阵营": "魔道、天煞宗",
+    "身份": "天煞宗弟子（在落云宗潜伏）、天煞宗宗主",
+    "外貌": "披发老者",
+    "标志特征": "披发老者之躯、紫红巨爪"
   },
   "observations": {
     "称号": [
@@ -23,6 +28,39 @@
         "value": "魔道",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "天煞宗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "身份": [
+      {
+        "value": "天煞宗弟子（在落云宗潜伏）",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631,
+        "note": "卫姓披发老者本身的身份；本章其躯体被天煞真君借体附身"
+      },
+      {
+        "value": "天煞宗宗主",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "外貌": [
+      {
+        "value": "披发老者",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "披发老者之躯、紫红巨爪",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631,
+        "note": "借体附身"
       }
     ]
   },
@@ -39,12 +77,33 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631,
+      "note": "卫姓披发老者本身的身份；本章其躯体被天煞真君借体附身"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631,
+      "note": "借体附身"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.523Z"
+  "updatedAt": "2026-06-17T08:44:02.031Z"
 }

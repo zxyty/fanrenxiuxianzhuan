@@ -8,9 +8,11 @@
   ],
   "summary": "天煞宗安插于落云宗的卧底，被夺权困守灵眼之树圣地，后被天煞真君借体附身。",
   "attributes": {
-    "身份": "落云宗长老",
+    "身份": "落云宗长老、天煞宗奸细",
     "阵营": "魔道",
-    "小阶段": "结丹"
+    "小阶段": "结丹",
+    "性别": "男",
+    "外貌": "披发老者"
   },
   "observations": {
     "身份": [
@@ -19,6 +21,12 @@
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631,
         "note": "卧底假身份"
+      },
+      {
+        "value": "天煞宗奸细",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631,
+        "note": "卧底落云宗"
       }
     ],
     "阵营": [
@@ -32,6 +40,20 @@
       {
         "value": "结丹",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "外貌": [
+      {
+        "value": "披发老者",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ]
@@ -56,12 +78,25 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.521Z"
+  "updatedAt": "2026-06-17T08:44:01.988Z"
 }

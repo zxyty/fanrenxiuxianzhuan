@@ -11,7 +11,8 @@
     "标志特征": "九灵剑体",
     "结局": "本届试剑大会冠军",
     "外貌": "黑衣青年、黑衣青年、神情如出鞘利剑",
-    "性别": "男"
+    "性别": "男",
+    "存殁": "存（昏迷）"
   },
   "observations": {
     "阵营": [
@@ -53,6 +54,13 @@
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
+    ],
+    "存殁": [
+      {
+        "value": "存（昏迷）",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
     ]
   },
   "firstSeq": 625,
@@ -86,6 +94,12 @@
       "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
       "seq": 625
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
@@ -93,7 +107,8 @@
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T08:27:05.782Z"
+  "updatedAt": "2026-06-17T08:44:01.959Z"
 }

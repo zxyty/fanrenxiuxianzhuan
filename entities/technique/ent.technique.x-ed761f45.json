@@ -3,18 +3,25 @@
   "type": "technique",
   "name": "大罗千幻决",
   "aliases": [
-    "大罗千幻诀"
+    "大罗千幻诀",
+    "大罗千幻訣"
   ],
   "summary": "千幻宗镇派法决，藏匿变幻、化身改貌、可掩饰真实修为，号称天南第一。",
   "attributes": {
-    "出处": "千幻宗",
-    "效果": "藏匿变幻、化身改貌、掩饰真实修为"
+    "出处": "千幻宗、千幻宗（镇派法决）",
+    "效果": "藏匿变幻、化身改貌、掩饰真实修为、化身变幻外形与修为、隐匿藏形/掩饰真实修为",
+    "外显异象": "黑光罩体、面颈现黑色符纹、体形暴涨"
   },
   "observations": {
     "出处": [
       {
         "value": "千幻宗",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "千幻宗（镇派法决）",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ],
@@ -33,6 +40,23 @@
         "value": "掩饰真实修为",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "化身变幻外形与修为",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      },
+      {
+        "value": "隐匿藏形/掩饰真实修为",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "黑光罩体、面颈现黑色符纹、体形暴涨",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ]
   },
@@ -49,12 +73,19 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.527Z"
+  "updatedAt": "2026-06-17T08:44:01.967Z"
 }

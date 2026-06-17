@@ -7,8 +7,9 @@
   ],
   "summary": "魔道宗门，派杜东、白师叔等做内应，里应外合图谋灵眼之树/醇液。",
   "attributes": {
-    "阵营": "魔道",
-    "镇派之宝": "大罗千幻决"
+    "阵营": "魔道六宗",
+    "镇派之宝": "大罗千幻决",
+    "理念": "藏匿变幻之术"
   },
   "observations": {
     "阵营": [
@@ -16,6 +17,11 @@
         "value": "魔道",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "镇派之宝": [
@@ -24,19 +30,32 @@
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
       }
+    ],
+    "理念": [
+      {
+        "value": "藏匿变幻之术",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
     ]
   },
   "firstSeq": 625,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
       "dated": false,
-      "seq": 625
+      "seq": 631
     },
     "镇派之宝": {
       "asOf": null,
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
       "dated": false,
       "seq": 631
     }
@@ -47,7 +66,8 @@
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T08:27:05.808Z"
+  "updatedAt": "2026-06-17T08:44:02.038Z"
 }

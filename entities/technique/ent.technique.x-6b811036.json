@@ -6,8 +6,8 @@
   "summary": "天煞真君借体施展的魔功，一臂暴涨通体紫红、可碎人头颅，不惜精血即可缠斗。",
   "attributes": {
     "出处": "天煞宗",
-    "效果": "紫色巨爪",
-    "外显异象": "通体紫红"
+    "效果": "紫色巨爪、借体附身、紫红巨爪",
+    "外显异象": "通体紫红、通体紫红、紫光乱闪"
   },
   "observations": {
     "出处": [
@@ -22,12 +22,22 @@
         "value": "紫色巨爪",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "借体附身、紫红巨爪",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "外显异象": [
       {
         "value": "通体紫红",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "通体紫红、紫光乱闪",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.553Z"
+  "updatedAt": "2026-06-17T08:44:02.017Z"
 }

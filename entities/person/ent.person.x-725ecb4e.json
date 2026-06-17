@@ -10,7 +10,9 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴",
-    "外貌": "面色青黄"
+    "外貌": "面色青黄、面色青黄中年人",
+    "身份": "落云宗修士",
+    "阵营": "落云宗"
   },
   "observations": {
     "性别": [
@@ -31,6 +33,25 @@
       {
         "value": "面色青黄",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "面色青黄中年人",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "身份": [
+      {
+        "value": "落云宗修士",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
       }
     ]
@@ -54,12 +75,25 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+      "dated": false,
+      "seq": 631
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-14T20:25:50.683Z"
+  "updatedAt": "2026-06-17T08:44:02.055Z"
 }

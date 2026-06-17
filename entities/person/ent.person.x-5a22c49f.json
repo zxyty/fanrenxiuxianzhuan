@@ -7,17 +7,20 @@
     "大汉杜东",
     "杜师侄",
     "巨汉(大罗千幻决所化)",
-    "杜东师侄"
+    "杜东师侄",
+    "杜道友",
+    "杜东所化大汉",
+    "千幻宗少主"
   ],
   "summary": "憨厚外表的大汉，疑为二百年前灭族的杜家后人，持寒月轮，被白发蒋师伯收为重点培养符修，被怀疑别有图谋潜入落云宗。",
   "attributes": {
     "小阶段": "结丹中期",
-    "身份": "落云宗天泉峰弟子、魔道千幻宗嫡传弟子、刚入门弟子、天泉峰外事弟子、天泉峰弟子、火云峰弟子、千幻宗内应",
+    "身份": "落云宗天泉峰弟子、魔道千幻宗嫡传弟子、刚入门弟子、天泉峰外事弟子、天泉峰弟子、火云峰弟子、千幻宗内应、千幻宗少主、潜伏三派卧底",
     "标志特征": "持寒月轮，精于制符、身上带有诡异寒气异状、制符天分",
-    "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)",
+    "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)、魔道六宗、正魔两道(奸细)",
     "称号": "千幻宗少主",
     "性别": "男",
-    "外貌": "大汉",
+    "外貌": "身高两丈、面目狰狞、两眼碧绿之巨汉",
     "性格": "貌似憨厚、心怀鬼胎、紧张、阴狠（伪装憨厚）",
     "出身地": "杜家后人"
   },
@@ -74,6 +77,16 @@
         "value": "千幻宗内应",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
+      },
+      {
+        "value": "千幻宗少主",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      },
+      {
+        "value": "潜伏三派卧底",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "标志特征": [
@@ -114,6 +127,16 @@
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631,
         "note": "三派欲引出之内奸"
+      },
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
+      },
+      {
+        "value": "正魔两道(奸细)",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ],
     "称号": [
@@ -140,6 +163,12 @@
         "value": "大汉",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
+      },
+      {
+        "value": "身高两丈、面目狰狞、两眼碧绿之巨汉",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631,
+        "note": "大罗千幻决变幻"
       }
     ],
     "性格": [
@@ -209,9 +238,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
       "dated": false,
-      "seq": 625
+      "seq": 631,
+      "note": "大罗千幻决变幻"
     },
     "性格": {
       "asOf": null,
@@ -235,7 +265,8 @@
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
     "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
-    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-17T08:27:05.797Z"
+  "updatedAt": "2026-06-17T08:44:02.031Z"
 }

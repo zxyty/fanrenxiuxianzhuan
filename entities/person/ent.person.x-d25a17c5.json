@@ -3,12 +3,13 @@
   "type": "person",
   "name": "天恨老怪",
   "aliases": [
-    "天恨老鬼"
+    "天恨老鬼",
+    "天恨老怪物"
   ],
   "summary": "天南散修出身的高阶元婴怪物，修为高深、行事肆无忌惮，许多天南大派深为忌惮；被二长老引为散修成婴者难惹的例子。",
   "attributes": {
     "身份": "散修",
-    "称号": "天恨老怪",
+    "称号": "老怪、天恨老怪",
     "小阶段": "元婴中期",
     "性格": "独来独往"
   },
@@ -29,7 +30,7 @@
       {
         "value": "天恨老怪",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 631
       }
     ],
     "小阶段": [
@@ -44,6 +45,11 @@
         "value": "独来独往",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "神通广大",
+        "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+        "seq": 631
       }
     ]
   },
@@ -57,9 +63,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
-      "seq": 751
+      "seq": 631
     },
     "小阶段": {
       "asOf": null,
@@ -78,7 +84,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo"
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
   ],
-  "updatedAt": "2026-06-15T03:18:50.401Z"
+  "updatedAt": "2026-06-17T08:44:01.983Z"
 }
