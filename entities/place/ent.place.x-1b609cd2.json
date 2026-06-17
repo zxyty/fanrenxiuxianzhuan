@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "乱星海一处海域势力，本章透露其妖修攻打人类修士城市、并得蛟龙族高阶妖修相助。",
   "attributes": {
-    "类型": "海域势力"
+    "类型": "海域势力、海域"
   },
   "observations": {
     "类型": [
       {
         "value": "海域势力",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "海域",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fan-ren-541-bi-yan-jiu"
+    "plot.fan-ren-541-bi-yan-jiu",
+    "plot.fanren-541-546-bifenjiu-fenglei-chi"
   ],
-  "updatedAt": "2026-06-14T18:31:38.063Z"
+  "updatedAt": "2026-06-17T06:50:16.347Z"
 }

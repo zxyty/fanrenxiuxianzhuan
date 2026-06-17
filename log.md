@@ -413,3 +413,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T06:27:25.850Z** `ingest` plot.fanren-523-528-zhenjia-chongmo — 凡人修仙传 第523-528章｜凶名滔天·真假虫魔 · kind=plot asOf=2026-06-17 entities=30 relations=32 src=00523-00528.md
 - **2026-06-17T06:34:21.505Z** `ingest` plot.fanren-529-534-gongsun-xing-luding-zhuyin — 第529-534章 冷漠与苦求·稚女·赠宝：公孙杏舍身救父，韩立暗赠洞府之宝 · kind=plot asOf=2026-06-17 entities=32 relations=34 src=00529-00534.md
 - **2026-06-17T06:42:04.176Z** `ingest` plot.fanren-535-540-mishi-wen-siyue — 凡人修仙传 第535-540章｜秘市换消息·剑威初现·震慑群修 · kind=plot asOf=2026-06-17 entities=36 relations=43 src=00535-00540.md
+- **2026-06-17T06:50:16.458Z** `ingest` plot.fanren-541-546-bifenjiu-fenglei-chi — 凡人修仙传 第541-546章｜碧焰酒突破结丹后期·风希炼风雷翅 · kind=plot asOf=2026-06-17 entities=26 relations=30 src=00541-00546.md

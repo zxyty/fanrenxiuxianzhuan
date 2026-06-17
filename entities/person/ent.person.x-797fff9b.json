@@ -13,13 +13,14 @@
   ],
   "summary": "人形妖修，裂风兽一族，化形阶，头戴银冠；因韩立木属性功法而留其性命，欲借此功法办要事，并以碧焰酒诱困韩立。",
   "attributes": {
-    "种族": "裂风兽（妖修）、裂风兽、妖修、裂风兽（九级）",
-    "小阶段": "化形阶、九级(化形)、化形期",
+    "种族": "裂风兽（妖修）、裂风兽、妖修、裂风兽（九级）、裂风兽（化形妖修）",
+    "小阶段": "化形阶、九级(化形)、化形期、九级",
     "外貌": "身材干瘦、银冠青袍",
-    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝",
+    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝、头戴银冠、人形妖兽",
     "阵营": "敌",
-    "身份": "青袍妖修",
-    "存殁": "存活"
+    "身份": "海族妖修、九级妖兽、青袍妖修、九级妖修（化形大成）",
+    "存殁": "存活",
+    "性格": "心机深沉、谈笑间狠辣、狡诈、谨慎多疑"
   },
   "observations": {
     "种族": [
@@ -42,6 +43,11 @@
         "value": "裂风兽（九级）",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "裂风兽（化形妖修）",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ],
     "小阶段": [
@@ -59,6 +65,11 @@
         "value": "化形期",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      },
+      {
+        "value": "九级",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ],
     "外貌": [
@@ -99,6 +110,11 @@
         "value": "当年追杀韩立、被韩立杀孙夺宝",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "头戴银冠、人形妖兽",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ],
     "阵营": [
@@ -128,6 +144,11 @@
         "value": "青袍妖修",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "九级妖修（化形大成）",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ],
     "存殁": [
@@ -135,6 +156,18 @@
         "value": "存活",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      }
+    ],
+    "性格": [
+      {
+        "value": "心机深沉、谈笑间狠辣",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
+      },
+      {
+        "value": "狡诈、谨慎多疑",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ]
   },
@@ -172,15 +205,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fan-ren-541-bi-yan-jiu",
       "dated": false,
-      "seq": 1243
+      "seq": 541
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.fanren-ch547-552-poison-three-demons",
       "dated": false,
       "seq": 547
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+      "dated": false,
+      "seq": 541
     }
   },
   "contested": false,
@@ -192,7 +231,8 @@
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-ch560-guishu",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-541-546-bifenjiu-fenglei-chi"
   ],
-  "updatedAt": "2026-06-16T09:47:06.175Z"
+  "updatedAt": "2026-06-17T06:50:16.353Z"
 }

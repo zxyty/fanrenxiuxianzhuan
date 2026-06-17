@@ -3,19 +3,25 @@
   "type": "item",
   "name": "碧焰酒",
   "aliases": [
-    "灵酒碧焰酒"
+    "灵酒碧焰酒",
+    "碧绿灵酒"
   ],
   "summary": "裂风兽一族独有的碧绿灵酒，需化形阶妖丹为主料、耗时百余年酿一坛，对结丹期修士首饮有突破瓶颈之效。",
   "attributes": {
-    "类型": "灵酒",
-    "用途": "增益修为、刺激真元突破结丹瓶颈、助突破瓶颈/增修为、人类饮后留混沌邪气致灵力自爆",
-    "产地": "裂风兽一族"
+    "类型": "灵酒、酒",
+    "用途": "增益修为、刺激真元突破结丹瓶颈、助突破瓶颈/增修为、人类饮后留混沌邪气致灵力自爆、助修士突破瓶颈、对人类析出混沌邪气害命",
+    "产地": "裂风兽一族、裂风兽一族秘酿"
   },
   "observations": {
     "类型": [
       {
         "value": "灵酒",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "酒",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
       }
     ],
@@ -39,12 +45,27 @@
         "value": "人类饮后留混沌邪气致灵力自爆",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
         "seq": 541
+      },
+      {
+        "value": "助修士突破瓶颈",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
+      },
+      {
+        "value": "对人类析出混沌邪气害命",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
+        "seq": 541
       }
     ],
     "产地": [
       {
         "value": "裂风兽一族",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "裂风兽一族秘酿",
+        "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
       }
     ]
@@ -73,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fan-ren-541-bi-yan-jiu"
+    "plot.fan-ren-541-bi-yan-jiu",
+    "plot.fanren-541-546-bifenjiu-fenglei-chi"
   ],
-  "updatedAt": "2026-06-14T18:31:38.060Z"
+  "updatedAt": "2026-06-17T06:50:16.364Z"
 }
