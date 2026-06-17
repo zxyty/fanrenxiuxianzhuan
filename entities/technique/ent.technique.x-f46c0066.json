@@ -3,17 +3,26 @@
   "type": "technique",
   "name": "撼波魔功",
   "aliases": [
-    "撼波"
+    "撼波",
+    "震波"
   ],
   "summary": "双头四臂魔魂的魔功，黑色波纹可震晕未成熟噬金虫等灵虫。",
   "attributes": {
-    "效果": "震波震慑"
+    "效果": "震波震慑",
+    "出处": "圣界"
   },
   "observations": {
     "效果": [
       {
         "value": "震波震慑",
         "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "出处": [
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
       }
     ]
@@ -25,12 +34,19 @@
       "docId": "plot.fanren-841-lianshou-kangmo",
       "dated": false,
       "seq": 841
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-841-lianshou-kangmo"
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-15T14:00:34.686Z"
+  "updatedAt": "2026-06-17T14:30:00.919Z"
 }

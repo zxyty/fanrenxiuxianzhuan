@@ -6,7 +6,8 @@
     "王道友",
     "万天古",
     "二伯",
-    "鬼灵门长老"
+    "鬼灵门长老",
+    "王天古道友"
   ],
   "summary": "鬼灵门门主，王蝉二伯，心机深沉，密会上为侄子开脱。",
   "attributes": {
@@ -17,7 +18,9 @@
     "称号": "阵法大师",
     "性格": "心机深沉、从容、冷静老奸巨猾、心机深沉、冷静阴沉",
     "标志特征": "黑符文铜片",
-    "性别": "男"
+    "性别": "男",
+    "存殁": "死亡",
+    "死因": "古魔挣脱封印时空间裂缝爆炸"
   },
   "observations": {
     "身份": [
@@ -145,6 +148,20 @@
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 679
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "死因": [
+      {
+        "value": "古魔挣脱封印时空间裂缝爆炸",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      }
     ]
   },
   "firstSeq": 679,
@@ -196,6 +213,18 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 679
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
     }
   },
   "contested": false,
@@ -220,7 +249,8 @@
     "plot.fanren-817-822-zhan-huochan-qiyanshan",
     "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
     "plot.fanren-ch829-834-modong-tunying-yishou",
-    "plot.fanren-835-840-mozu-jietihuaxing"
+    "plot.fanren-835-840-mozu-jietihuaxing",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-17T14:12:36.652Z"
+  "updatedAt": "2026-06-17T14:30:00.882Z"
 }

@@ -2,16 +2,26 @@
   "id": "ent.beast.x-afb06b7c",
   "type": "beast",
   "name": "圣界魔蝶",
-  "aliases": [],
+  "aliases": [
+    "魔蝶"
+  ],
   "summary": "双头四臂魔魂自称的真正本体，专以人界未成熟灵虫为补品。",
   "attributes": {
-    "栖息地": "圣界"
+    "栖息地": "圣界",
+    "天敌": "—"
   },
   "observations": {
     "栖息地": [
       {
         "value": "圣界",
         "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "天敌": [
+      {
+        "value": "—",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
       }
     ]
@@ -23,12 +33,19 @@
       "docId": "plot.fanren-841-lianshou-kangmo",
       "dated": false,
       "seq": 841
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-841-lianshou-kangmo"
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-15T14:00:34.687Z"
+  "updatedAt": "2026-06-17T14:30:00.929Z"
 }

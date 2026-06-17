@@ -14,7 +14,7 @@
   "summary": "黄枫谷唯一太上长老，近千年来唯一元婴期修士，三百年前到元婴期，主持撤离越国之决。",
   "attributes": {
     "小阶段": "元婴中期",
-    "身份": "黄枫谷太上长老、黄枫谷老祖、黄枫谷尊长、黄枫谷坐镇老祖、黄枫谷祖师、黄枫谷元婴长老、老怪、某宗大长老、黄枫谷令狐老祖、黄枫谷长老/老祖",
+    "身份": "黄枫谷太上长老、黄枫谷老祖、黄枫谷尊长、黄枫谷坐镇老祖、黄枫谷祖师、黄枫谷元婴长老、老怪、某宗大长老、黄枫谷令狐老祖、黄枫谷长老/老祖、掩月宗大长老",
     "称号": "不老翁、老祖",
     "寿元": "近八百岁、至多再二十年、近千年、顶多再过二十年坐化",
     "外貌": "须发皆白、面容焦黄、相貌丑陋、锦衣老者、黄袍老者、黄袍、脸色焦黄",
@@ -22,7 +22,8 @@
     "出身地": "黄枫谷",
     "性别": "男",
     "存殁": "死亡",
-    "死因": "坐化"
+    "死因": "坐化",
+    "性格": "妒忌"
   },
   "observations": {
     "小阶段": [
@@ -92,6 +93,11 @@
         "value": "黄枫谷长老/老祖",
         "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
         "seq": 721
+      },
+      {
+        "value": "掩月宗大长老",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ],
     "称号": [
@@ -205,6 +211,13 @@
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
       }
+    ],
+    "性格": [
+      {
+        "value": "妒忌",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      }
     ]
   },
   "firstSeq": 343,
@@ -268,6 +281,12 @@
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
       "seq": 1171
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
     }
   },
   "contested": false,
@@ -291,7 +310,8 @@
     "plot.fanren-757-bingxuecan-yu-gengjing",
     "plot.fanren-793-798-zhuimo-valley-hanli-return",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
-    "plot.fanren-835-840-mozu-jietihuaxing"
+    "plot.fanren-835-840-mozu-jietihuaxing",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-17T14:12:36.698Z"
+  "updatedAt": "2026-06-17T14:30:00.896Z"
 }

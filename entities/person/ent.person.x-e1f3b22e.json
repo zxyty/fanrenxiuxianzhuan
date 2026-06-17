@@ -18,11 +18,11 @@
     "称号": "三大修士之一",
     "性别": "男",
     "阵营": "化意门、九国盟、天南、鬼灵门盟友、正道、天南修士",
-    "外貌": "相貌普通、青衫、青衫老者、面色灰白、双目黯淡、青衫、面无表情",
+    "外貌": "相貌普通、青衫、青衫老者、面色灰白、双目黯淡、青衫、面无表情、面色灰白、双目黯淡（受伤）、重伤",
     "标志特征": "十指紫黑锐利长指甲、修毒功神通、主修毒功（蝮尸之毒）、绿色毒雾、腹尸毒云毒功、碧绿毒云、十指紫黑锐利长甲、修炼毒功神通、破魂蛇",
     "寿元": "将尽",
     "性格": "老奸巨猾、谨慎",
-    "存殁": "死亡",
+    "存殁": "重伤、死亡、存活",
     "死因": "坐化（寿元将尽，化神未成）"
   },
   "observations": {
@@ -115,6 +115,11 @@
         "value": "天南三大修士",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
+      },
+      {
+        "value": "威震天南数百年的大修士",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ],
     "性别": [
@@ -177,6 +182,17 @@
         "value": "青衫、面无表情",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
+      },
+      {
+        "value": "面色灰白、双目黯淡（受伤）",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "重伤",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841,
+        "note": "本章带伤作战"
       }
     ],
     "标志特征": [
@@ -251,6 +267,11 @@
         "value": "死亡",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "存活",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ],
     "死因": [
@@ -320,9 +341,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "docId": "plot.fanren-841-lianshou-kangmo",
       "dated": false,
-      "seq": 1219
+      "seq": 841
     },
     "死因": {
       "asOf": null,
@@ -362,7 +383,8 @@
     "plot.fanren-817-822-zhan-huochan-qiyanshan",
     "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
     "plot.fanren-ch829-834-modong-tunying-yishou",
-    "plot.fanren-835-840-mozu-jietihuaxing"
+    "plot.fanren-835-840-mozu-jietihuaxing",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-17T14:12:36.650Z"
+  "updatedAt": "2026-06-17T14:30:00.916Z"
 }

@@ -21,15 +21,16 @@
     "血焰",
     "四臂古魔",
     "一头颅古魔",
-    "古魔妖魔"
+    "古魔妖魔",
+    "古魔本体"
   ],
   "summary": "上古魔界中的存在，非人族非妖兽，形态各异，神通诡异厉害，曾肆虐上古人间界。",
   "attributes": {
     "聚居地": "圣界",
-    "特性": "神通诡异、形态各异；同阶人族修士必死无疑、人界飞升者保人形，妖族飞升者形貌恶形恶状、神通诡异，同阶人族难敌",
+    "特性": "神通诡异、形态各异；同阶人族修士必死无疑、人界飞升者保人形，妖族飞升者形貌恶形恶状、神通诡异，同阶人族难敌、凶残好斗、可附身夺舍、污秽古宝",
     "天赋神通": "魔功神通、血影遁、木遁术、夺舍",
     "阵营": "魔道",
-    "天敌": "古修士"
+    "天敌": "辟邪神雷"
   },
   "observations": {
     "聚居地": [
@@ -59,6 +60,11 @@
         "value": "神通诡异，同阶人族难敌",
         "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
+      },
+      {
+        "value": "凶残好斗、可附身夺舍、污秽古宝",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ],
     "天赋神通": [
@@ -116,6 +122,11 @@
         "value": "古修士",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "辟邪神雷",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ]
   },
@@ -147,9 +158,9 @@
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
       "dated": false,
-      "seq": 835
+      "seq": 841
     }
   },
   "contested": false,
@@ -167,7 +178,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-793-798-zhuimo-valley-hanli-return"
+    "plot.fanren-793-798-zhuimo-valley-hanli-return",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-17T13:15:57.765Z"
+  "updatedAt": "2026-06-17T14:30:00.848Z"
 }

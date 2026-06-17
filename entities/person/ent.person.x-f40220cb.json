@@ -27,7 +27,7 @@
     "阵营": "慕兰族一方",
     "存殁": "重伤、存（重伤遁走）、被夺舍、存疑、死亡、躯体被夺舍、死亡(第835章)、重伤逃遁、存活",
     "性别": "男",
-    "死因": "被古魔夺舍"
+    "死因": "被古魔夺舍、被圣界夺舍者夺舍，神识被夺、被圣界夺舍者夺舍后躯体被占（第835章死亡）、被圣界夺舍者夺舍占据躯体（第829章夺舍，第835章身死）"
   },
   "observations": {
     "小阶段": [
@@ -457,6 +457,16 @@
         "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829,
         "note": "躯体被占据，起于第829章"
+      },
+      {
+        "value": "被圣界夺舍者夺舍后躯体被占（第835章死亡）",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "被圣界夺舍者夺舍占据躯体（第829章夺舍，第835章身死）",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
       }
     ]
   },
@@ -524,9 +534,10 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+      "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
       "dated": false,
-      "seq": 835
+      "seq": 829,
+      "note": "躯体被占据，起于第829章"
     }
   },
   "contested": false,
@@ -567,7 +578,8 @@
     "plot.fanren-817-822-zhan-huochan-qiyanshan",
     "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
     "plot.fanren-ch829-834-modong-tunying-yishou",
-    "plot.fanren-835-840-mozu-jietihuaxing"
+    "plot.fanren-835-840-mozu-jietihuaxing",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-17T14:12:36.704Z"
+  "updatedAt": "2026-06-17T14:30:00.879Z"
 }

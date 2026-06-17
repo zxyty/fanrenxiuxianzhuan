@@ -7,18 +7,25 @@
     "鬼首人身古魔",
     "第二魔魂",
     "第二元神",
-    "分魂"
+    "分魂",
+    "魔首古魔"
   ],
   "summary": "脱离控制的第二元神，反噬抢占本尊被封印躯体并以解体化形重组，损失约1/3修为。",
   "attributes": {
-    "种族": "圣界古魔",
-    "标志特征": "额生独角、肌肤晶莹如玉、腹中发雷鸣吼声"
+    "种族": "圣界古魔、古魔",
+    "标志特征": "额生独角、肌肤晶莹如玉、腹中发雷鸣吼声",
+    "外貌": "鬼首人身、额生独角、皮肤晶莹如美玉"
   },
   "observations": {
     "种族": [
       {
         "value": "圣界古魔",
         "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
       }
     ],
@@ -38,6 +45,23 @@
         "docId": "plot.fanren-841-lianshou-kangmo",
         "seq": 841
       }
+    ],
+    "外貌": [
+      {
+        "value": "鬼首人身",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "额生独角",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "皮肤晶莹如美玉",
+        "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+        "seq": 841
+      }
     ]
   },
   "firstSeq": 841,
@@ -53,12 +77,19 @@
       "docId": "plot.fanren-841-lianshou-kangmo",
       "dated": false,
       "seq": 841
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-841-lianshou-kangmo"
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
   ],
-  "updatedAt": "2026-06-15T14:00:34.676Z"
+  "updatedAt": "2026-06-17T14:30:00.917Z"
 }
