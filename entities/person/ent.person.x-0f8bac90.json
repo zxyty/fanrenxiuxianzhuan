@@ -22,7 +22,8 @@
     "阵营": "韩立一方",
     "存殁": "死亡",
     "死因": "坐化",
-    "寿元": "余十余年"
+    "寿元": "余十余年",
+    "标志特征": "元气大伤未复"
   },
   "observations": {
     "性别": [
@@ -130,6 +131,13 @@
         "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
         "seq": 859
       }
+    ],
+    "标志特征": [
+      {
+        "value": "元气大伤未复",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      }
     ]
   },
   "firstSeq": 631,
@@ -181,6 +189,12 @@
       "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
       "dated": false,
       "seq": 859
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
@@ -201,7 +215,8 @@
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T08:44:02.053Z"
+  "updatedAt": "2026-06-17T09:52:04.729Z"
 }

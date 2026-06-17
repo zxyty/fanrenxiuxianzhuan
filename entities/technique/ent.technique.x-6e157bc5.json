@@ -2,10 +2,12 @@
   "id": "ent.technique.x-6e157bc5",
   "type": "technique",
   "name": "灵合决",
-  "aliases": [],
+  "aliases": [
+    "灵合诀"
+  ],
   "summary": "御灵宗功法，可将多人法力联为一体、遁速提高近半。",
   "attributes": {
-    "效果": "合体提速近半",
+    "效果": "合体提速近半、六人法力合一,遁速提高近半",
     "出处": "御灵宗"
   },
   "observations": {
@@ -13,6 +15,11 @@
       {
         "value": "合体提速近半",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "六人法力合一,遁速提高近半",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ],
@@ -42,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.529Z"
+  "updatedAt": "2026-06-17T09:52:04.639Z"
 }

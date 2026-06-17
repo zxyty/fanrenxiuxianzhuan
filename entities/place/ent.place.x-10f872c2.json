@@ -6,7 +6,7 @@
   "summary": "天南地区极北端国家，约越国三分之二大，分七州，闵州最大且紧邻无边海。",
   "attributes": {
     "所属界面": "人界天南",
-    "类型": "国度",
+    "类型": "国度/落脚地",
     "所属势力": "落云宗(天道盟)"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "国度",
         "docId": "plot.fanren-ch666-liuyu",
         "seq": 595
+      },
+      {
+        "value": "国度/落脚地",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "所属势力": [
@@ -57,9 +62,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch666-liuyu",
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
       "dated": false,
-      "seq": 595
+      "seq": 661
     },
     "所属势力": {
       "asOf": null,
@@ -85,7 +90,8 @@
     "plot.fanren-1196-er-nv",
     "plot.fanren-ch595-600-join-luoyunzong",
     "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
-    "lore.xuanmu-huaying-second-yuanying-technique"
+    "lore.xuanmu-huaying-second-yuanying-technique",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T09:34:20.364Z"
+  "updatedAt": "2026-06-17T09:52:04.740Z"
 }

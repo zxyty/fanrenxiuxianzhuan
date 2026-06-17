@@ -7,12 +7,13 @@
     "翠绿玉碟",
     "绿色玉碟",
     "玉蝶",
-    "碧绿玉碟"
+    "碧绿玉碟",
+    "御灵宗玉碟"
   ],
   "summary": "菡云芝所持异宝，巴掌大、翠绿欲滴，边缘缀上古金银色符文与铭印，碟心红色光点对应各弟子，弟子陨落则光点熄灭。",
   "attributes": {
-    "类型": "感应/监看类异宝",
-    "用途": "以红色光点显示己方弟子存亡"
+    "类型": "感应/监看类异宝、感应异宝",
+    "用途": "以红色光点显示己方弟子存亡、感应同门光点位置"
   },
   "observations": {
     "类型": [
@@ -20,12 +21,22 @@
         "value": "感应/监看类异宝",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "感应异宝",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "用途": [
       {
         "value": "以红色光点显示己方弟子存亡",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "感应同门光点位置",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -48,7 +59,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:49.272Z"
+  "updatedAt": "2026-06-17T09:52:04.712Z"
 }

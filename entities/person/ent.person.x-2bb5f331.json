@@ -9,8 +9,9 @@
   "summary": "鬼灵门碎魂真人门下弟子，锦衣锦袍、目光轻浮，对二女多有调笑；韩立压境时踌躇后亦逃。",
   "attributes": {
     "性别": "男",
-    "阵营": "魔道",
-    "身份": "鬼灵门弟子"
+    "阵营": "魔道、鬼灵门(魔道)",
+    "身份": "鬼灵门弟子",
+    "小阶段": "结丹期"
   },
   "observations": {
     "性别": [
@@ -25,12 +26,24 @@
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "鬼灵门(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "身份": [
       {
         "value": "鬼灵门弟子",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -54,12 +67,19 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.671Z"
+  "updatedAt": "2026-06-17T09:52:04.620Z"
 }

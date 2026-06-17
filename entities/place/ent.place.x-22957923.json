@@ -1,16 +1,16 @@
 {
-  "id": "ent.faction.x-8b487ea4",
-  "type": "faction",
-  "name": "天一会",
+  "id": "ent.place.x-22957923",
+  "type": "place",
+  "name": "云梦山三派圣地",
   "aliases": [],
-  "summary": "岚州新崛起的势力，取代了五色门。",
+  "summary": "正道三派圣地，曾遭天煞宗宗主亲自闯入大闹。",
   "attributes": {
-    "据点": "岚州"
+    "类型": "正道三派圣地"
   },
   "observations": {
-    "据点": [
+    "类型": [
       {
-        "value": "岚州",
+        "value": "正道三派圣地",
         "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
@@ -18,7 +18,7 @@
   },
   "firstSeq": 661,
   "attrProvenance": {
-    "据点": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
       "dated": false,
@@ -28,8 +28,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian",
     "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T09:52:04.648Z"
+  "updatedAt": "2026-06-17T09:52:04.717Z"
 }

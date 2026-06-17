@@ -4,13 +4,14 @@
   "name": "五行灵婴秘法",
   "aliases": [
     "五行灵婴",
-    "五行灵婴大神通"
+    "五行灵婴大神通",
+    "五行灵婴融合秘法"
   ],
   "summary": "御灵宗失传多年的大神通秘术：炼制金木水火土五行灵婴并与本门弟子融合，可使弟子凭空获得元婴神通（但无元婴寿元）。",
   "attributes": {
     "出处": "御灵宗",
-    "效果": "灵婴与弟子融合获元婴神通",
-    "修炼条件": "须先削弱灵婴修为以防反噬弟子元神"
+    "效果": "灵婴与弟子融合获元婴神通、凑齐五行灵婴与弟子融合得元婴神通、合体修士无元婴寿元",
+    "修炼条件": "须先削弱灵婴修为以防反噬弟子元神、融合前须不断削弱灵婴修为以免弟子元神被吞噬"
   },
   "observations": {
     "出处": [
@@ -25,12 +26,27 @@
         "value": "灵婴与弟子融合获元婴神通",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "凑齐五行灵婴与弟子融合得元婴神通",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      },
+      {
+        "value": "合体修士无元婴寿元",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "修炼条件": [
       {
         "value": "须先削弱灵婴修为以防反噬弟子元神",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "融合前须不断削弱灵婴修为以免弟子元神被吞噬",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -59,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:49.200Z"
+  "updatedAt": "2026-06-17T09:52:04.738Z"
 }

@@ -7,16 +7,21 @@
   ],
   "summary": "碎魂真人门下弟子，与一些门人在太岳山脉遇害，尸骨无存（实为韩立所为之伏线）。",
   "attributes": {
-    "阵营": "魔道",
+    "阵营": "魔道、鬼灵门(魔道)",
     "身份": "鬼灵门弟子",
     "存殁": "死亡",
-    "死因": "在太岳山脉遇害、尸骨无存"
+    "死因": "在太岳山脉遇害、尸骨无存、在太岳山脉被韩立所杀"
   },
   "observations": {
     "阵营": [
       {
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "鬼灵门(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ],
@@ -38,6 +43,11 @@
       {
         "value": "在太岳山脉遇害、尸骨无存",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "在太岳山脉被韩立所杀",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.700Z"
+  "updatedAt": "2026-06-17T09:52:04.627Z"
 }

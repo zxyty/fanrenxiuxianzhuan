@@ -6,8 +6,10 @@
   "summary": "厉飞雨第十一代后人，受韩立赠丹药。",
   "attributes": {
     "性别": "男",
-    "身份": "厉家子弟",
-    "外貌": "虬须大汉"
+    "身份": "厉家子弟、厉家后人/武人",
+    "外貌": "虬须大汉",
+    "种族": "凡人",
+    "称号": "飞羽先祖第十一代后人"
   },
   "observations": {
     "性别": [
@@ -22,12 +24,31 @@
         "value": "厉家子弟",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "厉家后人/武人",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "外貌": [
       {
         "value": "虬须大汉",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      }
+    ],
+    "称号": [
+      {
+        "value": "飞羽先祖第十一代后人",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -51,12 +72,25 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:45.755Z"
+  "updatedAt": "2026-06-17T09:52:04.613Z"
 }

@@ -10,7 +10,8 @@
   "summary": "韩立小妹，出阁嫁给城里秀才，韩立暗中观礼。",
   "attributes": {
     "性别": "女",
-    "结局": "嫁与嘉元城秀才为正室"
+    "结局": "嫁与嘉元城秀才为正室",
+    "身份": "韩立之妹"
   },
   "observations": {
     "性别": [
@@ -25,6 +26,13 @@
         "value": "嫁与嘉元城秀才为正室",
         "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
         "seq": 97
+      }
+    ],
+    "身份": [
+      {
+        "value": "韩立之妹",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ]
   },
@@ -41,12 +49,19 @@
       "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
       "dated": false,
       "seq": 97
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan"
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T03:09:31.518Z"
+  "updatedAt": "2026-06-17T09:52:04.701Z"
 }

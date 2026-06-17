@@ -9,7 +9,8 @@
   "attributes": {
     "性别": "男",
     "阵营": "魔道",
-    "外貌": "浓眉大眼"
+    "外貌": "浓眉大眼",
+    "身份": "御灵宗修士"
   },
   "observations": {
     "性别": [
@@ -30,6 +31,13 @@
       {
         "value": "浓眉大眼",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "身份": [
+      {
+        "value": "御灵宗修士",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -53,12 +61,19 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:48.806Z"
+  "updatedAt": "2026-06-17T09:52:04.725Z"
 }

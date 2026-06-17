@@ -3,16 +3,18 @@
   "type": "person",
   "name": "柳姓女子",
   "aliases": [
-    "柳师妹"
+    "柳师妹",
+    "御灵宗柳姓女修"
   ],
   "summary": "御灵宗女修，柳眉凤眸、慵懒模样的妙龄女子，与菡云芝同行追查灵婴一事。",
   "attributes": {
     "性别": "女",
     "外貌": "柳眉凤眸、妙龄慵懒、柳眉凤眸、柳眉凤眸、慵懒妙龄",
     "身份": "御灵宗长辈、御灵宗修士、御灵宗师叔",
-    "阵营": "御灵宗、魔道",
+    "阵营": "御灵宗、魔道、御灵宗(魔道)",
     "小阶段": "结丹期",
-    "存殁": "存活"
+    "存殁": "存活",
+    "结局": "被韩立击晕擒走"
   },
   "observations": {
     "性别": [
@@ -66,6 +68,11 @@
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "御灵宗(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "小阶段": [
@@ -80,6 +87,14 @@
         "value": "存活",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      }
+    ],
+    "结局": [
+      {
+        "value": "被韩立击晕擒走",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661,
+        "note": "本章"
       }
     ]
   },
@@ -120,6 +135,13 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661,
+      "note": "本章"
     }
   },
   "contested": false,
@@ -127,7 +149,8 @@
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch660-shijin-lingjian",
-    "lore.xuanmu-huaying-second-yuanying-technique"
+    "lore.xuanmu-huaying-second-yuanying-technique",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T09:34:20.380Z"
+  "updatedAt": "2026-06-17T09:52:04.700Z"
 }

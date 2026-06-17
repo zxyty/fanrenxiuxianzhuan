@@ -9,11 +9,12 @@
     "天南天道盟",
     "天道盟元老会",
     "天道盟一盟",
-    "天道盟成员"
+    "天道盟成员",
+    "天道盟一方"
   ],
   "summary": "十几个国家为抗正魔两道组成的修士宗派联盟，天南四大势力之一。",
   "attributes": {
-    "阵营": "正道联盟",
+    "阵营": "正道倾向联盟、正道、正道/盟约势力、正道/对抗魔道、天南正道、正道联盟、正/天道盟",
     "理念": "与魔门敌视",
     "等级": "三大势力之一"
   },
@@ -48,6 +49,11 @@
         "value": "正道联盟",
         "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
         "seq": 697
+      },
+      {
+        "value": "正/天道盟",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "理念": [
@@ -74,9 +80,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
       "dated": false,
-      "seq": 697
+      "seq": 595
     },
     "理念": {
       "asOf": null,
@@ -110,7 +116,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-ch595-600-join-luoyunzong",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T08:44:02.039Z"
+  "updatedAt": "2026-06-17T09:52:04.736Z"
 }

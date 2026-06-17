@@ -4,14 +4,18 @@
   "name": "询师兄",
   "aliases": [
     "询姓修士",
-    "乌衣修士"
+    "乌衣修士",
+    "询某"
   ],
   "summary": "鬼灵门碎魂真人门下弟子，身着乌衣、面容沉稳；因六师弟在太岳山遇害而追查御灵宗，元婴神识压境时率先遁走。",
   "attributes": {
     "性别": "男",
-    "阵营": "魔道",
+    "阵营": "魔道、鬼灵门(魔道)",
     "身份": "鬼灵门弟子",
-    "外貌": "乌衣"
+    "外貌": "乌衣",
+    "小阶段": "结丹期、结丹中期顶峰",
+    "存殁": "死亡",
+    "死因": "被韩立青竹蜂云剑巨剑一击破护罩斩杀"
   },
   "observations": {
     "性别": [
@@ -26,6 +30,11 @@
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "鬼灵门(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "身份": [
@@ -39,6 +48,32 @@
       {
         "value": "乌衣",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      },
+      {
+        "value": "结丹中期顶峰",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立青竹蜂云剑巨剑一击破护罩斩杀",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -68,12 +103,31 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.657Z"
+  "updatedAt": "2026-06-17T09:52:04.668Z"
 }

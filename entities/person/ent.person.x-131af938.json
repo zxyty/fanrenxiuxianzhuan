@@ -4,13 +4,15 @@
   "name": "鬼灵门妇人",
   "aliases": [
     "林师姐",
-    "风韵妇人"
+    "风韵妇人",
+    "林姓妇人",
+    "风韵犹存的妇人"
   ],
   "summary": "鬼灵门碎魂真人门下女修，三十许岁，修为结丹初期；修炼罕见风火之遁、持风属性法宝飘灵带，逃得最远，被韩立锁定追杀。",
   "attributes": {
     "性别": "女",
     "小阶段": "结丹初期",
-    "阵营": "魔道",
+    "阵营": "魔道、鬼灵门(魔道)",
     "身份": "鬼灵门弟子",
     "标志特征": "风火之遁、化火球疾遁"
   },
@@ -33,6 +35,11 @@
       {
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "鬼灵门(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ],
@@ -87,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.698Z"
+  "updatedAt": "2026-06-17T09:52:04.624Z"
 }

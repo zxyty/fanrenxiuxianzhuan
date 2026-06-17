@@ -9,17 +9,22 @@
   ],
   "summary": "韩立以上千只三色噬金虫炼化凝聚的三色宝剑，青气化鞘封印，可自行杀敌，留宗祠护韩家。",
   "attributes": {
-    "持有者": "韩立",
-    "能力": "自行杀人灭敌、出鞘杀方圆十里内除宗祠中人外一切人畜、只能使用三次",
-    "禁制": "须佩含韩立精气的玉佩方可出鞘、出鞘前不可离祠堂，离此地即化为乌有、三次用尽剑鞘溃散、灵剑重化为灵虫",
-    "来历": "上千只三色噬金虫凝聚炼成",
-    "外形": "三色宝剑，带绿濛濛古朴剑鞘"
+    "持有者": "韩立、韩家(供奉于宗祠)",
+    "能力": "自行杀人灭敌、出鞘杀方圆十里内除宗祠中人外一切人畜、只能使用三次、出鞘杀尽方圆十里人畜(宗祠内人除外)",
+    "禁制": "须佩含韩立精气的玉佩方可出鞘、出鞘前不可离祠堂，离此地即化为乌有、三次用尽剑鞘溃散、灵剑重化为灵虫、只能用三次,三次后灵鞘溃散灵剑重化灵虫、须佩玉佩方能出鞘、出鞘前不能离祠堂,离地即消散",
+    "来历": "上千只三色噬金虫凝聚炼成、韩立炼化噬金灵虫凝聚而成",
+    "外形": "三色宝剑，带绿濛濛古朴剑鞘、三色宝剑配绿濛濛古朴剑鞘"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "韩家(供奉于宗祠)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ],
@@ -38,6 +43,11 @@
         "value": "只能使用三次",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "出鞘杀尽方圆十里人畜(宗祠内人除外)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "禁制": [
@@ -55,6 +65,21 @@
         "value": "三次用尽剑鞘溃散、灵剑重化为灵虫",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "只能用三次,三次后灵鞘溃散灵剑重化灵虫",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      },
+      {
+        "value": "须佩玉佩方能出鞘",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      },
+      {
+        "value": "出鞘前不能离祠堂,离地即消散",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "来历": [
@@ -62,12 +87,22 @@
         "value": "上千只三色噬金虫凝聚炼成",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "韩立炼化噬金灵虫凝聚而成",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "外形": [
       {
         "value": "三色宝剑，带绿濛濛古朴剑鞘",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "三色宝剑配绿濛濛古朴剑鞘",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -108,7 +143,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:45.825Z"
+  "updatedAt": "2026-06-17T09:52:04.629Z"
 }

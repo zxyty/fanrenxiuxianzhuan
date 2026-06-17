@@ -6,8 +6,8 @@
   "summary": "风属性法宝，鬼灵门妇人所持，配合其风火之遁令遁速更快。",
   "attributes": {
     "五行属性": "风",
-    "持有者": "鬼灵门妇人",
-    "能力": "增益遁速"
+    "持有者": "鬼灵门妇人、林师姐",
+    "能力": "增益遁速、增强遁速"
   },
   "observations": {
     "五行属性": [
@@ -22,12 +22,22 @@
         "value": "鬼灵门妇人",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "林师姐",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "能力": [
       {
         "value": "增益遁速",
         "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "增强遁速",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-14T21:29:47.995Z"
+  "updatedAt": "2026-06-17T09:52:04.640Z"
 }

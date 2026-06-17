@@ -12,9 +12,10 @@
   "summary": "现任韩家之主，文官儒生，回乡祭祖；确认并参拜韩立为四叔祖。",
   "attributes": {
     "性别": "男",
-    "身份": "韩家之主、侍郎、韩家后人、朝中侍郎",
+    "身份": "韩家之主、侍郎、韩家后人、朝中侍郎、韩家子孙/儒生",
     "性格": "镇定老练、泰山崩于前而色不变、镇定泰然、拿得起放得下",
-    "外貌": "中年儒生"
+    "外貌": "中年儒生",
+    "种族": "凡人"
   },
   "observations": {
     "性别": [
@@ -44,6 +45,11 @@
         "value": "朝中侍郎",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      },
+      {
+        "value": "韩家子孙/儒生",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "性格": [
@@ -68,6 +74,13 @@
         "value": "中年儒生，三缕乌黑长髯",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ]
   },
@@ -96,6 +109,12 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661
     }
   },
   "contested": false,
@@ -103,7 +122,8 @@
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch660-shijin-lingjian",
-    "lore.xuanmu-huaying-second-yuanying-technique"
+    "lore.xuanmu-huaying-second-yuanying-technique",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T09:34:20.412Z"
+  "updatedAt": "2026-06-17T09:52:04.611Z"
 }

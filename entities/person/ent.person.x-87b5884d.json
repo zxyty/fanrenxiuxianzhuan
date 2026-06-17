@@ -5,17 +5,20 @@
   "aliases": [
     "菡云芝小丫头",
     "菡师姐",
-    "菡师妹"
+    "菡师妹",
+    "菡云芝子",
+    "菡仙子"
   ],
   "summary": "灵兽山少女,禁地内曾与韩立接触,平安出禁地,离去时向韩立善意一笑。",
   "attributes": {
     "性别": "女",
-    "阵营": "灵兽山、御灵宗、魔道",
-    "性格": "易羞",
-    "身份": "灵兽山弟子、御灵宗长辈、御灵宗修士、一方势力修士（统御数名筑基期弟子）、御灵宗师叔",
+    "阵营": "灵兽山、御灵宗、魔道、御灵宗(魔道)",
+    "性格": "易羞、温婉冷静、温婉",
+    "身份": "灵兽山弟子、御灵宗长辈、御灵宗修士、一方势力修士（统御数名筑基期弟子）、御灵宗师叔、御灵宗弟子",
     "小阶段": "结丹中期大成",
-    "外貌": "眼大、面容苍白瘦弱转丰满美貌、面容洁白如玉、圣洁气息、青丝娥眉、温婉貌美、黄衫清秀女子、黄衫女子、眼大、面容苍白瘦弱、身材丰满迷人",
-    "标志特征": "貌似韩立亡妹"
+    "外貌": "眼大、面容苍白瘦弱转丰满美貌、面容洁白如玉、圣洁气息、青丝娥眉、温婉貌美、黄衫清秀女子、黄衫女子、眼大、面容苍白瘦弱、身材丰满迷人、面容洁白如玉、气质圣洁",
+    "标志特征": "貌似韩立亡妹",
+    "结局": "被韩立放过、秋毫无犯"
   },
   "observations": {
     "性别": [
@@ -40,6 +43,11 @@
         "value": "魔道",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "御灵宗(魔道)",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "性格": [
@@ -47,6 +55,16 @@
         "value": "易羞",
         "docId": "plot.fanren-ch242-zhifu-biguan",
         "seq": 241
+      },
+      {
+        "value": "温婉冷静",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
+      },
+      {
+        "value": "温婉",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "身份": [
@@ -74,6 +92,11 @@
         "value": "御灵宗师叔",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      },
+      {
+        "value": "御灵宗弟子",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "小阶段": [
@@ -123,6 +146,11 @@
         "value": "眼大、面容苍白瘦弱、身材丰满迷人",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      },
+      {
+        "value": "面容洁白如玉、气质圣洁",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661
       }
     ],
     "标志特征": [
@@ -130,6 +158,14 @@
         "value": "貌似韩立亡妹",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      }
+    ],
+    "结局": [
+      {
+        "value": "被韩立放过、秋毫无犯",
+        "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+        "seq": 661,
+        "note": "本章"
       }
     ]
   },
@@ -176,6 +212,13 @@
       "docId": "plot.fanren-ch660-shijin-lingjian",
       "dated": false,
       "seq": 661
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+      "dated": false,
+      "seq": 661,
+      "note": "本章"
     }
   },
   "contested": false,
@@ -188,7 +231,8 @@
     "plot.fanren-ch660-shijin-lingjian",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-1196-er-nv",
-    "lore.xuanmu-huaying-second-yuanying-technique"
+    "lore.xuanmu-huaying-second-yuanying-technique",
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
   ],
-  "updatedAt": "2026-06-17T09:34:20.378Z"
+  "updatedAt": "2026-06-17T09:52:04.724Z"
 }
