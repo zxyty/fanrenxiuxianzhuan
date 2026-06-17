@@ -464,3 +464,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T14:04:43.862Z** `ingest` plot.fanren-ch829-834-modong-tunying-yishou — 凡人修仙传 第829-834章｜魔动·吞婴·异兽（圆钵夺舍·灵烛果守护古兽） · kind=plot asOf=2026-06-17 entities=31 relations=36 src=00829-00834.md
 - **2026-06-17T14:12:37.057Z** `ingest` plot.fanren-835-840-mozu-jietihuaxing — 凡人修仙传 第835-840章｜魔躯·解体化形·坠魔谷惊变 · kind=plot asOf=2026-06-17 entities=34 relations=35 src=00835-00840.md
 - **2026-06-17T14:30:01.172Z** `ingest` plot.fanren-841-846-zhuimogu-lianshou-kangmo — 凡人修仙传 第841-846章｜坠魔谷·联手抗魔与古魔双头四臂 · kind=plot asOf=2026-06-17 entities=43 relations=60 src=00841-00846.md
+- **2026-06-17T14:37:43.397Z** `ingest` plot.fanren-847-852-mojian-zaixian — 凡人修仙传 第847-852章｜魔剑再现·黑刃·魔威肆虐 · kind=plot asOf=2026-06-17 entities=28 relations=28 src=00847-00852.md

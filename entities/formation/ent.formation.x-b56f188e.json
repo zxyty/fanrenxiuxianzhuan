@@ -9,7 +9,7 @@
   ],
   "summary": "灵缈园中的空间禁制，化银白火焰光柱专冲古魔而去，瞬间灭杀魔魂，疑为灵界修士手段。",
   "attributes": {
-    "出处": "灵缈园",
+    "出处": "灵缈园、灵界修士神通",
     "效果": "灭杀古魔、瓦解魔气",
     "布置者": "灵缈园主人"
   },
@@ -18,6 +18,11 @@
       {
         "value": "灵缈园",
         "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+        "seq": 847
+      },
+      {
+        "value": "灵界修士神通",
+        "docId": "plot.fanren-847-852-mojian-zaixian",
         "seq": 847
       }
     ],
@@ -67,7 +72,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-847-852-mojian-zaixian-mowei-sinue"
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-847-852-mojian-zaixian"
   ],
-  "updatedAt": "2026-06-15T14:13:06.143Z"
+  "updatedAt": "2026-06-17T14:37:43.171Z"
 }

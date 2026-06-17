@@ -21,7 +21,8 @@
     "性别": "男",
     "性格": "谨慎独行、谨慎独来独往",
     "存殁": "死亡",
-    "死因": "被魔魂洞穿躯体焚毁、元婴被吞噬"
+    "死因": "被魔魂洞穿躯体焚毁、元婴被吞噬、元婴被魔魂吞噬",
+    "结局": "第847章身亡"
   },
   "observations": {
     "外貌": [
@@ -158,6 +159,18 @@
         "value": "被魔魂洞穿躯体焚毁、元婴被吞噬",
         "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
         "seq": 847
+      },
+      {
+        "value": "元婴被魔魂吞噬",
+        "docId": "plot.fanren-847-852-mojian-zaixian",
+        "seq": 847
+      }
+    ],
+    "结局": [
+      {
+        "value": "第847章身亡",
+        "docId": "plot.fanren-847-852-mojian-zaixian",
+        "seq": 847
       }
     ]
   },
@@ -210,6 +223,12 @@
       "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
       "dated": false,
       "seq": 847
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-847-852-mojian-zaixian",
+      "dated": false,
+      "seq": 847
     }
   },
   "contested": false,
@@ -229,7 +248,8 @@
     "plot.fanren-805-810-zhuimogu-killing-intent",
     "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
     "plot.fanren-817-822-zhan-huochan-qiyanshan",
-    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian"
   ],
-  "updatedAt": "2026-06-17T14:30:00.874Z"
+  "updatedAt": "2026-06-17T14:37:43.075Z"
 }
