@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "韩立小瓶中所藏丹药，妖丹炼制、淡蓝色、奇香扑鼻，珍稀异常，三枚足以救治真元逆转经脉错乱之症。",
   "attributes": {
-    "功效": "救治真元逆转、经脉错乱",
+    "功效": "救治真元逆转、经脉错乱、治愈真元逆转、经脉错乱",
     "主料": "妖丹",
     "品阶": "珍稀"
   },
@@ -14,6 +14,11 @@
       {
         "value": "救治真元逆转、经脉错乱",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "治愈真元逆转、经脉错乱",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-14T18:06:17.259Z"
+  "updatedAt": "2026-06-17T06:34:21.379Z"
 }

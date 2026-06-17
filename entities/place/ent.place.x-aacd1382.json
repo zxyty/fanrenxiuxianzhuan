@@ -3,12 +3,16 @@
   "type": "place",
   "name": "秘市",
   "aliases": [
-    "交换会"
+    "交换会",
+    "地下秘市",
+    "秘密坊市"
   ],
   "summary": "妙音门所设的修士交换会场所，以巨石为入口。",
   "attributes": {
     "所属势力": "妙音门",
-    "类型": "交易市集"
+    "类型": "交易市集",
+    "所属界面": "灵界（乱星海/外海）",
+    "特产": "高阶妖兽情报、天材地宝、稀珍材料"
   },
   "observations": {
     "所属势力": [
@@ -23,10 +27,39 @@
         "value": "交易市集",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
         "seq": 535
+      },
+      {
+        "value": "地下临时坊市",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界（乱星海/外海）",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      }
+    ],
+    "特产": [
+      {
+        "value": "高阶妖兽情报",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      },
+      {
+        "value": "天材地宝",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      },
+      {
+        "value": "稀珍材料",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
       }
     ]
   },
-  "firstSeq": 535,
+  "firstSeq": 529,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
@@ -39,12 +72,25 @@
       "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
       "seq": 535
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-14T18:18:59.347Z"
+  "updatedAt": "2026-06-17T06:34:21.403Z"
 }

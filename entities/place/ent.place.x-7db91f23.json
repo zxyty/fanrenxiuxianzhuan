@@ -10,9 +10,10 @@
   ],
   "summary": "两年前妖兽狂暴、连元婴期修士都落荒而逃的禁区，韩立曾深入其中数年捕杀妖兽。",
   "attributes": {
-    "危险度": "极高（妖兽狂暴，元婴期亦难立足）、极高（妖兽渊薮）、极高（修士禁区）",
+    "危险度": "极高（妖兽狂暴，元婴期亦难立足）、极高（妖兽渊薮）、极高（修士禁区）、极高",
     "类型": "深渊海域",
-    "所属界面": "乱星海"
+    "所属界面": "乱星海",
+    "守护": "上万妖兽"
   },
   "observations": {
     "危险度": [
@@ -30,6 +31,11 @@
         "value": "极高（修士禁区）",
         "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
       }
     ],
     "类型": [
@@ -48,6 +54,13 @@
       {
         "value": "乱星海",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "守护": [
+      {
+        "value": "上万妖兽",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
     ]
@@ -71,6 +84,12 @@
       "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
       "dated": false,
       "seq": 529
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
     }
   },
   "contested": false,
@@ -78,7 +97,8 @@
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
     "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
-    "plot.fanren-523-528-zhenjia-chongmo"
+    "plot.fanren-523-528-zhenjia-chongmo",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-17T06:27:25.733Z"
+  "updatedAt": "2026-06-17T06:34:21.387Z"
 }

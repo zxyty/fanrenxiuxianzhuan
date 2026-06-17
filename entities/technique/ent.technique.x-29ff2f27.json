@@ -9,7 +9,8 @@
   "attributes": {
     "品阶": "顶阶",
     "出处": "韩立从一名男修身上所夺",
-    "修炼条件": "适合女子修炼"
+    "修炼条件": "适合女子修炼",
+    "效果": "威力远胜青灵功，适合女子修炼"
   },
   "observations": {
     "品阶": [
@@ -30,6 +31,13 @@
       {
         "value": "适合女子修炼",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "效果": [
+      {
+        "value": "威力远胜青灵功，适合女子修炼",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
     ]
@@ -53,12 +61,19 @@
       "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
       "dated": false,
       "seq": 529
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-14T18:06:17.261Z"
+  "updatedAt": "2026-06-17T06:34:21.380Z"
 }

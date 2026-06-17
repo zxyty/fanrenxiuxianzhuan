@@ -4,14 +4,17 @@
   "name": "公孙杏",
   "aliases": [
     "杏儿",
-    "公孙姑娘"
+    "公孙姑娘",
+    "稚女",
+    "公孙师妹"
   ],
   "summary": "青灵门掌门之女，自言天生不详（母亲难产而去），为救瘫痪父亲自愿做韩立炉鼎，性子刚烈孝顺；最终获韩立赠下缠玉决等功法法宝。",
   "attributes": {
     "性别": "女",
-    "身份": "青灵门掌门之女",
-    "性格": "刚烈、孝顺、决然",
-    "标志特征": "黄衫，灵根不算好"
+    "身份": "青灵门掌门之女、青灵门弟子",
+    "性格": "刚烈、孝顺、决然、重孝道",
+    "标志特征": "黄衫，灵根不算好、灵根不算好；天生丧母（母难产而亡）",
+    "外貌": "黄衫稚女、黑白分明大眼"
   },
   "observations": {
     "性别": [
@@ -25,6 +28,11 @@
       {
         "value": "青灵门掌门之女",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "青灵门弟子",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
     ],
@@ -43,12 +51,29 @@
         "value": "决然",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
         "seq": 529
+      },
+      {
+        "value": "重孝道",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
       }
     ],
     "标志特征": [
       {
         "value": "黄衫，灵根不算好",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "灵根不算好；天生丧母（母难产而亡）",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黄衫稚女、黑白分明大眼",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
     ]
@@ -78,12 +103,19 @@
       "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
       "dated": false,
       "seq": 529
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-14T18:06:17.245Z"
+  "updatedAt": "2026-06-17T06:34:21.402Z"
 }

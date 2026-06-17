@@ -3,7 +3,8 @@
   "type": "person",
   "name": "云天啸",
   "aliases": [
-    "云长老"
+    "云长老",
+    "云姓儒生"
   ],
   "summary": "妙音门长老，结丹中期，施白骨阴火护体，阻拦韩立带走文思月，被青竹蜂云剑一击重创。",
   "attributes": {
@@ -13,21 +14,22 @@
     "结局": "本章身首异处，储物袋被夺",
     "存殁": "死亡",
     "阵营": "魔道",
-    "死因": "被韩立青元剑诀斩首"
+    "死因": "被韩立青元剑诀斩首",
+    "外貌": "面色阴沉、青色儒装中年修士"
   },
   "observations": {
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
-        "seq": 535
+        "seq": 529
       }
     ],
     "小阶段": [
       {
         "value": "结丹中期",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
-        "seq": 535
+        "seq": 529
       }
     ],
     "身份": [
@@ -40,6 +42,11 @@
         "value": "妙音门实际掌权者",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "秘市东主",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
       }
     ],
     "结局": [
@@ -80,21 +87,28 @@
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
       }
+    ],
+    "外貌": [
+      {
+        "value": "面色阴沉、青色儒装中年修士",
+        "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+        "seq": 529
+      }
     ]
   },
-  "firstSeq": 535,
+  "firstSeq": 529,
   "attrProvenance": {
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
-      "seq": 535
+      "seq": 529
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
-      "seq": 535
+      "seq": 529
     },
     "身份": {
       "asOf": null,
@@ -125,6 +139,12 @@
       "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
       "dated": false,
       "seq": 553
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+      "dated": false,
+      "seq": 529
     }
   },
   "contested": false,
@@ -132,7 +152,8 @@
   "docs": [
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch547-552-poison-three-demons",
-    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
   ],
-  "updatedAt": "2026-06-14T18:52:01.144Z"
+  "updatedAt": "2026-06-17T06:34:21.396Z"
 }
