@@ -3,13 +3,14 @@
   "type": "place",
   "name": "无边海",
   "aliases": [
-    "黑魔海"
+    "黑魔海",
+    "无边海海域"
   ],
   "summary": "天南极北之地的浑浊无际之海，号称神仙难飞，鱼类凶猛，元婴期高人飞行年余不见尽头。",
   "attributes": {
     "类型": "海域",
     "危险度": "极高（神仙难飞）",
-    "所属界面": "天南",
+    "所属界面": "天南修仙界",
     "特产": "馨牙兽"
   },
   "observations": {
@@ -42,6 +43,11 @@
         "value": "天南",
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
+      },
+      {
+        "value": "天南修仙界",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "特产": [
@@ -68,9 +74,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
       "dated": false,
-      "seq": 589
+      "seq": 865
     },
     "特产": {
       "asOf": null,
@@ -87,7 +93,8 @@
     "plot.fanren-589-594-jiangling-fu-baofengshan",
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
-    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-17T14:50:26.212Z"
+  "updatedAt": "2026-06-17T15:05:36.094Z"
 }

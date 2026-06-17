@@ -9,8 +9,9 @@
   "attributes": {
     "品阶": "顶阶",
     "五行属性": "木",
-    "效果": "以花香无形克敌",
-    "修炼条件": "需特殊体质"
+    "效果": "以花香无形克敌、无形制敌",
+    "修炼条件": "需特殊体质、特殊体质",
+    "外显异象": "似兰似菊花香"
   },
   "observations": {
     "品阶": [
@@ -32,12 +33,29 @@
         "value": "以花香无形克敌",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "无形制敌",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "修炼条件": [
       {
         "value": "需特殊体质",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "特殊体质",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "似兰似菊花香",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ]
@@ -67,13 +85,20 @@
       "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
       "dated": false,
       "seq": 865
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "dated": false,
+      "seq": 865
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-859-864-weidan-tanyan-qinghan",
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.497Z"
+  "updatedAt": "2026-06-17T15:05:36.032Z"
 }

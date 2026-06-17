@@ -17,8 +17,8 @@
   ],
   "summary": "天南灵气圣脉，深处有三大神木之一的灵眼之树，由古剑门、落云宗、百巧院三派联占。",
   "attributes": {
-    "所属界面": "溪国",
-    "类型": "灵气圣脉、山脉、山脉/区域、灵山、山脉/门派据点、灵山圣脉、修仙势力聚居山脉",
+    "所属界面": "灵界(天南)",
+    "类型": "灵气圣脉、山脉、山脉/区域、灵山、山脉/门派据点、灵山圣脉、修仙势力聚居山脉、灵脉/三宗共处之地",
     "特产": "灵眼之树/醇液、灵眼之树、醇液、阴雾山谷、毒蝎毒蛇、灵气充沛",
     "守护": "三派共管圣树、灵眼之树圣地禁制、金属性光罩",
     "所属势力": "天道盟、落云宗、云梦山三宗、古剑门、百巧院"
@@ -39,6 +39,11 @@
         "value": "溪国",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "灵界(天南)",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "类型": [
@@ -76,6 +81,11 @@
         "value": "修仙势力聚居山脉",
         "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
+      },
+      {
+        "value": "灵脉/三宗共处之地",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "特产": [
@@ -154,9 +164,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
       "dated": false,
-      "seq": 787
+      "seq": 865
     },
     "类型": {
       "asOf": null,
@@ -213,7 +223,8 @@
     "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
     "plot.fanren-666-liuyu",
     "plot.fanren-781-nangong-jingbian",
-    "plot.fanren-787-tun-mo-dan-gui"
+    "plot.fanren-787-tun-mo-dan-gui",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-17T13:07:38.922Z"
+  "updatedAt": "2026-06-17T15:05:36.001Z"
 }

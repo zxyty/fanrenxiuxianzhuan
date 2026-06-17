@@ -12,9 +12,9 @@
   ],
   "summary": "魏无涯居所所在岛屿。",
   "attributes": {
-    "类型": "海外灵脉岛屿、海岛群、海岛、群岛",
-    "所属界面": "天南",
-    "特产": "罕有灵脉",
+    "类型": "海外灵脉岛屿、海岛群、海岛、群岛、灵脉岛屿、海岛/封印大阵组成",
+    "所属界面": "天南、天南修仙界",
+    "特产": "罕有灵脉、灵脉、罕有灵脉、喷涌灵气",
     "危险度": "地下魔气极盛",
     "守护": "轮守魔渊封印"
   },
@@ -39,6 +39,16 @@
         "value": "群岛",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
         "seq": 1177
+      },
+      {
+        "value": "灵脉岛屿",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
+      },
+      {
+        "value": "海岛/封印大阵组成",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "所属界面": [
@@ -46,12 +56,27 @@
         "value": "天南",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "天南修仙界",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "特产": [
       {
         "value": "罕有灵脉",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "灵脉",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
+      },
+      {
+        "value": "罕有灵脉、喷涌灵气",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ],
@@ -109,7 +134,8 @@
     "plot.fanren-1173-second-yuanying-tiansha-moshi",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
-    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-16T06:37:19.278Z"
+  "updatedAt": "2026-06-17T15:05:36.090Z"
 }

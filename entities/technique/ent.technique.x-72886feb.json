@@ -8,7 +8,8 @@
   "summary": "金老怪的古剑门剑诀绝招，可幻出上百道金丝结成金色巨网。",
   "attributes": {
     "出处": "古剑门",
-    "效果": "化剑为上百道金丝、结金网"
+    "效果": "化剑为上百道金丝、结金网、化飞剑为众金丝/金网",
+    "外显异象": "密集金丝金网"
   },
   "observations": {
     "出处": [
@@ -22,6 +23,18 @@
       {
         "value": "化剑为上百道金丝、结金网",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "化飞剑为众金丝/金网",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "密集金丝金网",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
       "dated": false,
       "seq": 865
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "dated": false,
+      "seq": 865
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.496Z"
+  "updatedAt": "2026-06-17T15:05:36.037Z"
 }

@@ -4,14 +4,16 @@
   "name": "乾坤塔",
   "aliases": [
     "乾坤塔符宝",
-    "白色小塔"
+    "白色小塔",
+    "白塔",
+    "三寸白塔"
   ],
   "summary": "传说中的符宝，燕家夺宝大会头名彩头，结丹期修士亦眼馋。",
   "attributes": {
     "品阶": "百巧院三大镇院之宝之一",
     "来历": "烈火师兄弟耗时三个月炼成",
-    "持有者": "百巧院",
-    "外形": "三寸白色小塔"
+    "持有者": "玉师弟、百巧院、百巧院/玉姓青年(认主中)",
+    "外形": "塔形重宝、三寸白色小塔、三寸洁白小塔"
   },
   "observations": {
     "品阶": [
@@ -48,6 +50,11 @@
         "value": "百巧院",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "百巧院/玉姓青年(认主中)",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "外形": [
@@ -59,6 +66,11 @@
       {
         "value": "三寸白色小塔",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "三寸洁白小塔",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ]
@@ -79,15 +91,15 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
       "dated": false,
-      "seq": 865
+      "seq": 859
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
       "dated": false,
-      "seq": 865
+      "seq": 859
     }
   },
   "contested": false,
@@ -96,7 +108,8 @@
     "plot.fanren-ch242-zhifu-biguan",
     "plot.fanren-247-252-yanlingbao-zhengfeng",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.490Z"
+  "updatedAt": "2026-06-17T15:05:36.014Z"
 }

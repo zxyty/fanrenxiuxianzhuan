@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "七灵岛之一，合欢宗占据，约二三十平方公里。",
   "attributes": {
-    "所属势力": "合欢宗"
+    "所属势力": "合欢宗",
+    "类型": "海岛"
   },
   "observations": {
     "所属势力": [
       {
         "value": "合欢宗",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "类型": [
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
       "dated": false,
       "seq": 865
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "dated": false,
+      "seq": 865
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.514Z"
+  "updatedAt": "2026-06-17T15:05:36.092Z"
 }

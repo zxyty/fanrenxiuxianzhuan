@@ -4,13 +4,14 @@
   "name": "太真门",
   "aliases": [
     "正道盟太真门",
-    "贵门"
+    "贵门",
+    "太真门一门"
   ],
   "summary": "正道盟宗派，以静心诀闻名；至阳上人出身于此。",
   "attributes": {
-    "阵营": "正道",
+    "阵营": "正道盟、正道、天道盟",
     "据点": "玄武大殿",
-    "理念": "天南第一正门"
+    "理念": "天南第一正门、看守上古封印法阵、镇守封印魔气、看守上古封印大阵"
   },
   "observations": {
     "阵营": [
@@ -22,6 +23,11 @@
       {
         "value": "正道",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ],
@@ -53,6 +59,11 @@
         "value": "镇守封印魔气",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "看守上古封印大阵",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ]
   },
@@ -60,9 +71,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 865
+      "seq": 751
     },
     "据点": {
       "asOf": null,
@@ -72,9 +83,10 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
       "dated": false,
-      "seq": 1171
+      "seq": 865,
+      "note": "迁居天南之由"
     }
   },
   "contested": false,
@@ -84,7 +96,8 @@
     "plot.fanren-1173-second-yuanying-tiansha-moshi",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
-    "plot.fanren-ch763-antian-zhanqian-anshou"
+    "plot.fanren-ch763-antian-zhanqian-anshou",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-17T12:23:53.563Z"
+  "updatedAt": "2026-06-17T15:05:36.086Z"
 }

@@ -10,12 +10,12 @@
   "summary": "古剑门大长老，元婴中期，曾与韩立交手，本卷被韩立隔绝气息神通震慑压服。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴",
+    "小阶段": "元婴中期、元婴、元婴期",
     "阵营": "古剑门",
     "身份": "古剑门大长老",
-    "外貌": "虬发魁梧、白发红润、环目凶残、双掌奇大",
+    "外貌": "虬发老者",
     "标志特征": "虬发",
-    "结局": "败于韩立、当场认输"
+    "结局": "败于韩立、当场认输、斗法败于韩立，使古剑门甘居落云宗之下"
   },
   "observations": {
     "性别": [
@@ -35,6 +35,11 @@
       {
         "value": "元婴",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ],
@@ -62,6 +67,11 @@
         "value": "虬发魁梧、白发红润、环目凶残、双掌奇大",
         "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
         "seq": 859
+      },
+      {
+        "value": "虬发老者",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ],
     "标志特征": [
@@ -76,6 +86,11 @@
         "value": "败于韩立、当场认输",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "斗法败于韩立，使古剑门甘居落云宗之下",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+        "seq": 865
       }
     ]
   },
@@ -89,9 +104,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
       "dated": false,
-      "seq": 865
+      "seq": 859,
+      "note": "近顶峰"
     },
     "阵营": {
       "asOf": null,
@@ -107,9 +123,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
       "dated": false,
-      "seq": 859
+      "seq": 865
     },
     "标志特征": {
       "asOf": null,
@@ -129,7 +145,8 @@
   "docs": [
     "plot.fanren-1167-1172-return-luoyunzong",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.478Z"
+  "updatedAt": "2026-06-17T15:05:35.938Z"
 }

@@ -6,7 +6,7 @@
   "summary": "赤红圆球状妖丹，韩立用以喂南宫婉试解封魂咒。",
   "attributes": {
     "类型": "妖丹",
-    "用途": "缓解封魂咒",
+    "用途": "试解封魂咒、缓解封魂咒、减弱封魂咒",
     "产地": "坠魔谷"
   },
   "observations": {
@@ -26,6 +26,11 @@
       {
         "value": "缓解封魂咒",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "减弱封魂咒",
+        "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
       }
     ],
@@ -47,9 +52,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
       "dated": false,
-      "seq": 865
+      "seq": 859
     },
     "产地": {
       "asOf": null,
@@ -62,7 +67,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-859-864-weidan-tanyan-qinghan",
-    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-865-870-zhiyang-invitation-and-duel"
   ],
-  "updatedAt": "2026-06-15T14:47:28.508Z"
+  "updatedAt": "2026-06-17T15:05:36.079Z"
 }
