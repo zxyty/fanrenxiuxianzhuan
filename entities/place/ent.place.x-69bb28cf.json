@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-69bb28cf",
+  "type": "place",
+  "name": "封日城",
+  "aliases": [],
+  "summary": "闵州州府兼最大城市。",
+  "attributes": {
+    "所属势力": "溪国",
+    "类型": "城市"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "溪国",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ],
+    "类型": [
+      {
+        "value": "城市",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ]
+  },
+  "firstSeq": 589,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-589-594-jiangling-fu-baofengshan"
+  ],
+  "updatedAt": "2026-06-14T19:30:07.007Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ent.formation.x-4542664a",
+  "type": "formation",
+  "name": "紫薇七星阵",
+  "aliases": [],
+  "summary": "昆吾山中以七道紫色光柱、紫雾巨蟒、巨峰血蝠与幻术禁制布成的神妙大阵，被韩立等联手破除。",
+  "attributes": {
+    "效果": "紫雾幻形、巨蟒/灵虫攻击、幻术禁制",
+    "破解法": "摧毁七道紫色光柱根部"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "紫雾幻形",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "巨蟒/灵虫攻击",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "幻术禁制",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "破解法": [
+      {
+        "value": "摧毁七道紫色光柱根部",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1003-qunmo-yinxian"
+  ],
+  "updatedAt": "2026-06-16T03:59:21.471Z"
+}

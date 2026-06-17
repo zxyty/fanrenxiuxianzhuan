@@ -1,0 +1,61 @@
+{
+  "id": "ent.item.x-0af93727",
+  "type": "item",
+  "name": "银蝌文",
+  "aliases": [
+    "银色上古文字",
+    "银蝌符文",
+    "真灵文（外页）",
+    "银色符文"
+  ],
+  "summary": "金花老祖符箓上的上古文字，状如银色蝌蚪、带蛮荒气息，自成一体，非人界修士能懂；田澜圣禽因吞噬懂者元神而识之。",
+  "attributes": {
+    "类型": "灵文符文",
+    "用途": "绘于秘制符箓"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "上古文字",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "灵文符文",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
+    ],
+    "用途": [
+      {
+        "value": "绘于秘制符箓",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ]
+  },
+  "firstSeq": 1153,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+    "plot.fanren-1393-1398-yecha-wang-changnu"
+  ],
+  "updatedAt": "2026-06-16T15:11:49.218Z"
+}

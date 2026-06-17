@@ -1,0 +1,92 @@
+{
+  "id": "ent.beast.x-c1d56e30",
+  "type": "beast",
+  "name": "黑色鬼影",
+  "aliases": [
+    "鬼王",
+    "黑影",
+    "黑色鬼物"
+  ],
+  "summary": "通灵数百年、灵智已开的厉鬼，懂各个击破之策；持玄阴绿珠（内封妖虎器灵），并向器灵施展附灵术。",
+  "attributes": {
+    "能力": "玄阴鬼气、各个击破、附灵术、分身、借阴气复活、阴气困敌",
+    "等级": "阴魄凝形",
+    "栖息地": "镇魔塔第七层"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "玄阴鬼气",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "各个击破",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "附灵术",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "分身",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "借阴气复活",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "阴气困敌",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "等级": [
+      {
+        "value": "阴魄凝形",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "镇魔塔第七层",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 439,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-439-444-guiwang-xutiandian",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.204Z"
+}

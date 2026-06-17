@@ -1,0 +1,155 @@
+{
+  "id": "ent.faction.x-7c44f4f1",
+  "type": "faction",
+  "name": "天澜圣殿",
+  "aliases": [
+    "天澜草原天澜圣殿",
+    "天蓝圣殿",
+    "天澜",
+    "圣殿",
+    "天澜草原修仙界",
+    "天澜圣殿一殿",
+    "天澜圣殿一脉",
+    "青衫小童"
+  ],
+  "summary": "突兀族草原势力，林银屏任圣女，为追回鬼罗幡而入大晋。",
+  "attributes": {
+    "阵营": "草原突兀族、与韩立敌对、突兀人、突兀族、敌对韩立",
+    "据点": "天澜草原",
+    "镇派之宝": "噬金虫成熟秘诀、噬金虫、圣兽",
+    "理念": "主持开灵仪式/受朝贡",
+    "所属界面": "大晋天澜草原、上界"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "草原突兀族",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "与韩立敌对",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "突兀族",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "敌对韩立",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "据点": [
+      {
+        "value": "天澜草原",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 889
+      },
+      {
+        "value": "圣殿临时驻地",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "噬金虫成熟秘诀",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "噬金虫",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "圣兽",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ],
+    "理念": [
+      {
+        "value": "主持开灵仪式/受朝贡",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋天澜草原",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "上界",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 877,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 889
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv",
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+  ],
+  "updatedAt": "2026-06-16T08:58:55.840Z"
+}

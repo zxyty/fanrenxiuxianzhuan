@@ -1,0 +1,71 @@
+{
+  "id": "ent.artifact.x-e160df7e",
+  "type": "artifact",
+  "name": "黑色长枪灵具",
+  "aliases": [
+    "长枪灵具",
+    "黑色长枪",
+    "灵具长枪"
+  ],
+  "summary": "韩立所持长枪，枪柄镶青色灵石供能，可驱动如飞剑般洞穿妖兽；被灵族剑丝寸寸裂断。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "御枪洞穿、化乌芒投掷",
+    "禁制": "青色灵石供能"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "能力": [
+      {
+        "value": "御枪洞穿",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "化乌芒投掷",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "禁制": [
+      {
+        "value": "青色灵石供能",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan"
+  ],
+  "updatedAt": "2026-06-16T11:04:31.855Z"
+}

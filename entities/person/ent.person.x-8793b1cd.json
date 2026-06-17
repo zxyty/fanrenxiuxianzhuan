@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-8793b1cd",
+  "type": "person",
+  "name": "温夫",
+  "aliases": [
+    "美妇"
+  ],
+  "summary": "元婴期女修，声称只采灵药、不掺和正魔争斗，独自破空而去。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "元婴后期",
+    "身份": "小极宫宫主"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ],
+    "身份": [
+      {
+        "value": "小极宫宫主",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+  ],
+  "updatedAt": "2026-06-15T09:38:32.754Z"
+}

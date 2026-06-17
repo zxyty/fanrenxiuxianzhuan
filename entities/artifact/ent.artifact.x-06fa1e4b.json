@@ -1,0 +1,158 @@
+{
+  "id": "ent.artifact.x-06fa1e4b",
+  "type": "artifact",
+  "name": "七焰扇",
+  "aliases": [
+    "七焰扇炼制法",
+    "通天灵宝七焰扇",
+    "七焰宝扇",
+    "仿制七焰扇"
+  ],
+  "summary": "古修遗骸玉简所载古宝炼制法，需八十一种火属性灵料融合炼成；据银月所言乃通天灵宝之一（排名靠后），韩立分得其炼制法玉简。",
+  "attributes": {
+    "品阶": "通天灵宝、通灵之宝、普通灵宝（灵界较低阶）、高阶法宝",
+    "五行属性": "火",
+    "来历": "仿制",
+    "外形": "扇",
+    "能力": "火焰之威",
+    "持有者": "韩立"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "通天灵宝",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "通灵之宝",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "普通灵宝（灵界较低阶）",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "高阶法宝",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "来历": [
+      {
+        "value": "古修遗骸玉简记载炼制法",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "大衍神君改良仿制为三焰扇",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "仿制",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889,
+        "note": "韩立拟以金焰石仿炼"
+      }
+    ],
+    "外形": [
+      {
+        "value": "扇",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "能力": [
+      {
+        "value": "火焰之威",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039,
+        "note": "通天灵宝中排名末尾"
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 919
+      },
+      {
+        "value": "韩立（待炼）",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      },
+      {
+        "value": "韩立（拟炼制）",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 817,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889,
+      "note": "韩立拟以金焰石仿炼"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039,
+      "note": "通天灵宝中排名末尾"
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 919
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.283Z"
+}

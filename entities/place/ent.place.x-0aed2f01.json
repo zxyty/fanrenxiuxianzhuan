@@ -1,0 +1,82 @@
+{
+  "id": "ent.place.x-0aed2f01",
+  "type": "place",
+  "name": "玉皇顶",
+  "aliases": [],
+  "summary": "飞灵族盛会与联席长老会所在的巨峰，建翠色巨殿、设七色彩虹拱桥。",
+  "attributes": {
+    "所属界面": "灵界",
+    "所属势力": "天鹏族",
+    "类型": "盛会/长老会所在巨峰",
+    "守护": "禁制（场外不得动手）"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "类型": [
+      {
+        "value": "盛会/长老会所在巨峰",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "守护": [
+      {
+        "value": "禁制（场外不得动手）",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ]
+  },
+  "firstSeq": 1423,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+  ],
+  "updatedAt": "2026-06-16T16:20:08.385Z"
+}

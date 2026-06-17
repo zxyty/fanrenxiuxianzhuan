@@ -1,0 +1,78 @@
+{
+  "id": "ent.place.x-d515e258",
+  "type": "place",
+  "name": "鬼冤之地",
+  "aliases": [
+    "鬼雾",
+    "活鬼雾"
+  ],
+  "summary": "虚天殿第一关，遍布吸精血摄魂的鬼雾，失陷修士化厉魄敌视闯殿者，近年愈发凶险。",
+  "attributes": {
+    "类型": "关卡",
+    "危险度": "极高",
+    "守护": "厉鬼/鬼王"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "试炼关卡",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "关卡",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（厉魄、近鬼王厉鬼）",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "守护": [
+      {
+        "value": "厉鬼/鬼王",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 433,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-1135-1140-qingyu-leikongdao"
+  ],
+  "updatedAt": "2026-06-15T10:50:10.383Z"
+}

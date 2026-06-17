@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-ce2124c1",
+  "type": "place",
+  "name": "青石殿",
+  "aliases": [
+    "石殿"
+  ],
+  "summary": "禁地小盆地中央的古朴巨大青石殿，殿门极小，设有连结丹期神识都无法穿透的强力禁制；大厅中央有通往地下沼泽世界的地道。",
+  "attributes": {
+    "类型": "古殿/禁制之地",
+    "守护": "墨蛟（地道下沼泽）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "古殿/禁制之地",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "守护": [
+      {
+        "value": "墨蛟（地道下沼泽）",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 199,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou"
+  ],
+  "updatedAt": "2026-06-14T06:06:29.073Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ent.person.x-3f649f9b",
+  "type": "person",
+  "name": "冯三娘",
+  "aliases": [
+    "冯道友"
+  ],
+  "summary": "六连殿属下，年约四十，少见的阵法师，负责召集讲解六遁水波大阵。",
+  "attributes": {
+    "性别": "女",
+    "身份": "六连殿修士",
+    "阵营": "六连殿",
+    "小阶段": "筑基后期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "身份": [
+      {
+        "value": "阵法师",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "六连殿修士",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "阵营": [
+      {
+        "value": "六连殿",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou"
+  ],
+  "updatedAt": "2026-06-14T13:18:46.571Z"
+}

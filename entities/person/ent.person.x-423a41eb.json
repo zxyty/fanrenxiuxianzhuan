@@ -1,0 +1,53 @@
+{
+  "id": "ent.person.x-423a41eb",
+  "type": "person",
+  "name": "昆吾山被封印者",
+  "aliases": [
+    "那人",
+    "被封印之人"
+  ],
+  "summary": "被昆吾三老封印于昆吾山的神秘强者，身份特殊、生死牵扯上界，修为极高令向老不安；本章判断尚未脱困。",
+  "attributes": {
+    "身份": "身份特殊、牵扯上界",
+    "存殁": "封印中"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "身份特殊、牵扯上界",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "存殁": [
+      {
+        "value": "封印中",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009,
+        "note": "判断未脱困"
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009,
+      "note": "判断未脱困"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.270Z"
+}

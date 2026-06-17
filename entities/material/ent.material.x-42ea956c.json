@@ -1,0 +1,76 @@
+{
+  "id": "ent.material.x-42ea956c",
+  "type": "material",
+  "name": "金母珊瑚沙",
+  "aliases": [
+    "金目珊瑚沙",
+    "金母珊瑚砂"
+  ],
+  "summary": "海中珍稀之物,可淬炼渗入血肉令肉身更强横。",
+  "attributes": {
+    "类型": "炼体材料",
+    "用途": "配药炼化入血肉以强化肉身",
+    "产地": "海域珊瑚群"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼体灵物",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "炼体材料",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "用途": [
+      {
+        "value": "淬炼血肉、强健肉身",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "配药炼化入血肉以强化肉身",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "产地": [
+      {
+        "value": "海域珊瑚群",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ]
+  },
+  "firstSeq": 1399,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1407-jinsui-lianti"
+  ],
+  "updatedAt": "2026-06-16T15:42:40.146Z"
+}

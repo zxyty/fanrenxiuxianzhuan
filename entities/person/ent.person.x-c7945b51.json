@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-c7945b51",
+  "type": "person",
+  "name": "尤姓冷面修士",
+  "aliases": [
+    "尤某"
+  ],
+  "summary": "元婴期修士，周身银光化一条银色蛟龙钻入云中遁走。",
+  "attributes": {
+    "小阶段": "元婴",
+    "性格": "冷面",
+    "外貌": "冷面"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷面",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "外貌": [
+      {
+        "value": "冷面",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ]
+  },
+  "firstSeq": 685,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+  ],
+  "updatedAt": "2026-06-14T22:20:41.298Z"
+}

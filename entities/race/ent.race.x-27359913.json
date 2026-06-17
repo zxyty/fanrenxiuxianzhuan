@@ -1,0 +1,70 @@
+{
+  "id": "ent.race.x-27359913",
+  "type": "race",
+  "name": "五行灵族",
+  "aliases": [
+    "五行族"
+  ],
+  "summary": "灵族中以五行划分的族群，含木灵族、水灵族等；与器灵族争夺神血。",
+  "attributes": {
+    "阵营": "灵族",
+    "代表人物": "天樱、黄石公",
+    "聚居地": "灵界"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "天樱",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "黄石公",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.032Z"
+}

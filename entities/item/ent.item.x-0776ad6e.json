@@ -1,0 +1,77 @@
+{
+  "id": "ent.item.x-0776ad6e",
+  "type": "item",
+  "name": "灵兽环",
+  "aliases": [
+    "银色圆镯",
+    "乌黑灵兽环"
+  ],
+  "summary": "灵界与储物镯齐名之物，内分隔数个空间，可同时容纳不同灵兽灵虫；韩立用以收纳噬金虫、啼魂兽及豹麟兽等。",
+  "attributes": {
+    "类型": "灵兽收纳法器",
+    "用途": "收纳灵兽",
+    "产地": "灵界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "储纳类法器",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "灵兽收纳法器",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "用途": [
+      {
+        "value": "同时容纳不同灵兽灵虫",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "收纳灵兽",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "产地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ]
+  },
+  "firstSeq": 1315,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1495-1500-xutian-rescue-melee",
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.372Z"
+}

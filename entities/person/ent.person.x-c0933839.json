@@ -1,0 +1,120 @@
+{
+  "id": "ent.person.x-c0933839",
+  "type": "person",
+  "name": "万小山",
+  "aliases": [
+    "万家万小山",
+    "白衣少年",
+    "小山",
+    "万家少年"
+  ],
+  "summary": "枯崖山万家修仙世家少年，第一次出远门，欲赴太南谷拜门，与韩立同行。",
+  "attributes": {
+    "性别": "男",
+    "身份": "修真家族万家弟子",
+    "出身地": "枯崖山",
+    "外貌": "白衣少年",
+    "标志特征": "约十五六岁",
+    "性格": "健谈、自来熟、爱卖弄"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "身份": [
+      {
+        "value": "修仙者",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "修真家族万家弟子",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "出身地": [
+      {
+        "value": "枯崖山",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白衣少年、眉清目秀、世家公子模样",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "白衣少年",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "约十五六岁",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "性格": [
+      {
+        "value": "健谈、自来熟、爱卖弄",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "lore.fanren-ch127-132-linggen-realms-taonan"
+  ],
+  "updatedAt": "2026-06-14T03:45:50.844Z"
+}

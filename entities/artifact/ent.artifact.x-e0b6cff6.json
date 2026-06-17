@@ -1,0 +1,66 @@
+{
+  "id": "ent.artifact.x-e0b6cff6",
+  "type": "artifact",
+  "name": "灵龟飞车",
+  "aliases": [
+    "灵车",
+    "灵龟壳飞车"
+  ],
+  "summary": "七妙真人取出的灵龟壳状飞车，载二人飞入裂缝。",
+  "attributes": {
+    "持有者": "七妙真人",
+    "外形": "数丈灵龟壳状飞车",
+    "能力": "通过封印裂缝"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "七妙真人",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1003
+      }
+    ],
+    "外形": [
+      {
+        "value": "数丈灵龟壳状飞车",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "能力": [
+      {
+        "value": "通过封印裂缝",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1003
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1003-qunmo-yinxian"
+  ],
+  "updatedAt": "2026-06-16T03:59:21.467Z"
+}

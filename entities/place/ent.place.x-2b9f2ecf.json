@@ -1,0 +1,69 @@
+{
+  "id": "ent.place.x-2b9f2ecf",
+  "type": "place",
+  "name": "熔岩路",
+  "aliases": [],
+  "summary": "冰火路中炙热难耐的通道，很可能被化为灰烬。",
+  "attributes": {
+    "类型": "险路",
+    "危险度": "高",
+    "守护": "铁火蚁"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炙热通道",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "险路",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "守护": [
+      {
+        "value": "铁火蚁",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu"
+  ],
+  "updatedAt": "2026-06-14T16:19:26.441Z"
+}

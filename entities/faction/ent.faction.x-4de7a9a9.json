@@ -1,0 +1,108 @@
+{
+  "id": "ent.faction.x-4de7a9a9",
+  "type": "faction",
+  "name": "天道盟",
+  "aliases": [
+    "天道盟三派",
+    "三派",
+    "天道宗",
+    "天南天道盟",
+    "天道盟元老会",
+    "天道盟一盟"
+  ],
+  "summary": "十几个国家为抗正魔两道组成的修士宗派联盟，天南四大势力之一。",
+  "attributes": {
+    "阵营": "正道联盟",
+    "理念": "与魔门敌视",
+    "等级": "三大势力之一"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道倾向联盟",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "正道/盟约势力",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "正道/对抗魔道",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "天南正道",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "正道联盟",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ],
+    "理念": [
+      {
+        "value": "与魔门敌视",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ],
+    "等级": [
+      {
+        "value": "三大势力之一",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-859-864-weidan-tanyan-qinghan"
+  ],
+  "updatedAt": "2026-06-15T14:38:52.845Z"
+}

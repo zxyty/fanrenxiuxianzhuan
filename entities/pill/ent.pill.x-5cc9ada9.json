@@ -1,0 +1,74 @@
+{
+  "id": "ent.pill.x-5cc9ada9",
+  "type": "pill",
+  "name": "尸虫丸",
+  "aliases": [],
+  "summary": "墨大夫用以控制韩立的毒丹，与家人性命同为压制韩立的两重锁。",
+  "attributes": {
+    "功效": "挟制、发作致死",
+    "炼制者": "墨大夫",
+    "副作用": "解药含罕见阴毒，约两年后发作，唯暖阳宝玉可解"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "控制/胁迫韩立",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "挟制、发作致死",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "墨大夫",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ],
+    "副作用": [
+      {
+        "value": "致命",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      },
+      {
+        "value": "解药含罕见阴毒，约两年后发作，唯暖阳宝玉可解",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      }
+    ]
+  },
+  "firstSeq": 31,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+      "dated": false,
+      "seq": 43
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+      "dated": false,
+      "seq": 43
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+      "dated": false,
+      "seq": 61
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch31-36-shichongwan",
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong"
+  ],
+  "updatedAt": "2026-06-14T02:33:03.119Z"
+}

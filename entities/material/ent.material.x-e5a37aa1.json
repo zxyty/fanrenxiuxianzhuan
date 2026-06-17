@@ -1,0 +1,65 @@
+{
+  "id": "ent.material.x-e5a37aa1",
+  "type": "material",
+  "name": "真灵阴气",
+  "aliases": [
+    "雾海真灵阴气"
+  ],
+  "summary": "黑冥雾海中珍稀的灵物，角蚩、海王二族意外发现并欲收取。",
+  "attributes": {
+    "产地": "黑冥雾海",
+    "稀有度": "珍稀",
+    "用途": "增加功法威能"
+  },
+  "observations": {
+    "产地": [
+      {
+        "value": "黑冥雾海",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "用途": [
+      {
+        "value": "增加功法威能",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ]
+  },
+  "firstSeq": 1519,
+  "attrProvenance": {
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.193Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-79cdf5bd",
+  "type": "place",
+  "name": "巨型宝塔",
+  "aliases": [
+    "禁地第三层",
+    "百丈宝塔"
+  ],
+  "summary": "中心区第三层核心，高百丈、被绿色密林环绕，为禁地主人原居所，与第二层交界有强大禁制阻隔，内容成谜。",
+  "attributes": {
+    "类型": "禁地主人原居所/巨塔",
+    "守护": "未知强大禁制",
+    "危险度": "未知"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "禁地主人原居所/巨塔",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "守护": [
+      {
+        "value": "未知强大禁制",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "危险度": [
+      {
+        "value": "未知",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.471Z"
+}

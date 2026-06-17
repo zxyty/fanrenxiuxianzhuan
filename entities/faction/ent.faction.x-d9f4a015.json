@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-d9f4a015",
+  "type": "faction",
+  "name": "天道会",
+  "aliases": [
+    "天道会三方之一"
+  ],
+  "summary": "本章结尾交代：一两年后剩余国家为对抗魔道与正道盟而联合组成的势力，与魔道、正道盟三足鼎立。",
+  "attributes": {
+    "阵营": "中立/抗魔道",
+    "理念": "联合抗魔道与正道盟"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "中立/抗魔道",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "理念": [
+      {
+        "value": "联合抗魔道与正道盟",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping"
+  ],
+  "updatedAt": "2026-06-14T12:34:03.868Z"
+}

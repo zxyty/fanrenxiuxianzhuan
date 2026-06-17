@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-474779a3",
+  "type": "place",
+  "name": "宝光殿",
+  "aliases": [],
+  "summary": "晋西坊市内古朴雄伟的三层巨型石殿，可容上千修士，将作为大拍卖会场所。",
+  "attributes": {
+    "所属势力": "晋西坊市",
+    "类型": "拍卖殿堂"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "晋西坊市",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "类型": [
+      {
+        "value": "拍卖会场所(三层石殿)",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "拍卖殿",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "拍卖殿堂",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ]
+  },
+  "firstSeq": 931,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch943-jinjing-extortion-backstab"
+  ],
+  "updatedAt": "2026-06-16T02:11:44.923Z"
+}

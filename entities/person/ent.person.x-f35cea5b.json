@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-f35cea5b",
+  "type": "person",
+  "name": "青灵门粗壮青年",
+  "aliases": [
+    "李师侄"
+  ],
+  "summary": "青灵门修士，与公孙杏自幼一齐长大、亲若兄妹，极力反对杏儿做炉鼎而无果。",
+  "attributes": {
+    "性别": "男",
+    "身份": "天符门藏经阁管理者",
+    "外貌": "满脸皱纹、两眼细小"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "身份": [
+      {
+        "value": "青灵门修士",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "天符门藏经阁管理者",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满脸皱纹、两眼细小",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ]
+  },
+  "firstSeq": 529,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+  ],
+  "updatedAt": "2026-06-16T02:36:43.768Z"
+}

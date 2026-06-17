@@ -1,0 +1,123 @@
+{
+  "id": "ent.pill.x-667b1d5e",
+  "type": "pill",
+  "name": "造化丹",
+  "aliases": [],
+  "summary": "珍贵丹药，资质佳的结丹初期服之省百年瓶颈，资质稍逊者可助突破结丹期。",
+  "attributes": {
+    "功效": "省却结丹瓶颈参悟时间、助突破结丹期、助突破境界、幻境感悟天地灵力",
+    "适用境界": "化神期以下",
+    "主料": "灵烛果",
+    "副作用": "神识溃散坠入幻境",
+    "炼制者": "韩立、紫灵仙子"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "省却结丹瓶颈参悟时间",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "助突破结丹期",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "助突破境界",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "幻境感悟天地灵力",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "化神期以下",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      }
+    ],
+    "主料": [
+      {
+        "value": "灵烛果",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "副作用": [
+      {
+        "value": "出谷后炼制则效力大减",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "神识溃散坠入幻境",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      },
+      {
+        "value": "紫灵仙子",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+      "dated": false,
+      "seq": 835
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+      "dated": false,
+      "seq": 835
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "dated": false,
+      "seq": 829
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan"
+  ],
+  "updatedAt": "2026-06-15T13:46:31.487Z"
+}

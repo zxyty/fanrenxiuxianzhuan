@@ -1,0 +1,81 @@
+{
+  "id": "ent.person.x-bca0ccc8",
+  "type": "person",
+  "name": "叶明礼",
+  "aliases": [
+    "十五弟",
+    "明礼贤侄"
+  ],
+  "summary": "叶家修士，修至阳神通，于镇魔塔上一层中乌影蛇暗影喷砂剧毒，肉躯尽坏仅元婴逃出。",
+  "attributes": {
+    "阵营": "叶家",
+    "小阶段": "元婴",
+    "存殁": "重创",
+    "死因": "乌影蛇暗影喷砂剧毒(肉身)"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重创",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009,
+        "note": "肉躯坏死，仅元婴逃出"
+      }
+    ],
+    "死因": [
+      {
+        "value": "乌影蛇暗影喷砂剧毒(肉身)",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009,
+      "note": "肉躯坏死，仅元婴逃出"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.198Z"
+}

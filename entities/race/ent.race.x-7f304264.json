@@ -1,0 +1,103 @@
+{
+  "id": "ent.race.x-7f304264",
+  "type": "race",
+  "name": "人族",
+  "aliases": [
+    "人族修士"
+  ],
+  "summary": "韩立所属种族，被炼虚期敌人识破。",
+  "attributes": {
+    "聚居地": "天渊城、风元大陆西北角、天元大陆",
+    "代表人物": "天元圣皇、金越、青龙上人、林鸾、银光仙子、韩立",
+    "特性": "肉身弱、法门神通古怪"
+  },
+  "observations": {
+    "聚居地": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "风元大陆西北角",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "天元大陆",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "天元圣皇",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "金越",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "青龙上人",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "林鸾",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "银光仙子",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "特性": [
+      {
+        "value": "肉身弱、法门神通古怪",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1303,
+  "attrProvenance": {
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.310Z"
+}

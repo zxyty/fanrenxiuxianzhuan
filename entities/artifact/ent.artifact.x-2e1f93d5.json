@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-2e1f93d5",
+  "type": "artifact",
+  "name": "水晶球",
+  "aliases": [
+    "水晶球法器"
+  ],
+  "summary": "韩立的法器，置于双目前凝望，可助其窥察阵法破绽。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "察看阵法破绽"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "能力": [
+      {
+        "value": "察看阵法破绽",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 313,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:34.998Z"
+}

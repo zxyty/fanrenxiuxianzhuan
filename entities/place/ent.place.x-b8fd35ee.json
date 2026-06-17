@@ -1,0 +1,104 @@
+{
+  "id": "ent.place.x-b8fd35ee",
+  "type": "place",
+  "name": "魔坟",
+  "aliases": [
+    "魔坟中那物"
+  ],
+  "summary": "外空魔头闯入冥河之地后被蜉蝣族长老联手击杀埋下之地，魔尸特殊部位经阴气滋润自行通灵成宝。",
+  "attributes": {
+    "类型": "古墓/葬地、凶地/古墓、藏宝凶地、藏宝/凶地",
+    "特产": "通灵魔尸部位（宝物）、通灵化形魔器、魔器",
+    "所属界面": "灵界",
+    "危险度": "极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "古墓/葬地",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "凶地/古墓",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "藏宝凶地",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "藏宝/凶地",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "特产": [
+      {
+        "value": "通灵魔尸部位（宝物）",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "通灵化形魔器",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "魔器",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1483,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.388Z"
+}

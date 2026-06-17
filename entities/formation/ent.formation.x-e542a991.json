@@ -1,0 +1,76 @@
+{
+  "id": "ent.formation.x-e542a991",
+  "type": "formation",
+  "name": "青蟠",
+  "aliases": [
+    "青蟠剑阵",
+    "青蟠剑"
+  ],
+  "summary": "新青元剑诀附带的剑阵，威能胜大庚剑阵，须进阶炼虚中期方可研习。",
+  "attributes": {
+    "出处": "新青元剑诀、青元剑诀、青元子(融入韩立念剑术)",
+    "布置者": "韩立",
+    "效果": "森然巨型剑阵"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "新青元剑诀",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "青元剑诀",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "青元子(融入韩立念剑术)",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "布置者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "效果": [
+      {
+        "value": "森然巨型剑阵",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ]
+  },
+  "firstSeq": 1513,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.326Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-1868ebbb",
+  "type": "place",
+  "name": "内殿",
+  "aliases": [],
+  "summary": "虚天殿最深处,宝物珍贵但对结丹期修士极度凶险;极阴祖师以同往内殿为饵诱韩立。",
+  "attributes": {
+    "类型": "巨塔/秘境",
+    "危险度": "对结丹期极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "秘境核心",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "核心殿宇",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "巨塔/秘境",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ],
+    "危险度": [
+      {
+        "value": "对结丹期极高",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ]
+  },
+  "firstSeq": 451,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "dated": false,
+      "seq": 469
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing"
+  ],
+  "updatedAt": "2026-06-14T16:36:44.414Z"
+}

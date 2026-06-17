@@ -1,0 +1,74 @@
+{
+  "id": "ent.person.x-0696ff8d",
+  "type": "person",
+  "name": "黑脸汉子",
+  "aliases": [
+    "黝黑面目的汉子",
+    "面目黝黑的汉子",
+    "黑脸修士"
+  ],
+  "summary": "元婴期修士，施土遁术入地遁走。",
+  "attributes": {
+    "小阶段": "元婴初期",
+    "外貌": "黑脸",
+    "性别": "男"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑脸",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ]
+  },
+  "firstSeq": 685,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "dated": false,
+      "seq": 703
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+  ],
+  "updatedAt": "2026-06-15T02:06:15.342Z"
+}

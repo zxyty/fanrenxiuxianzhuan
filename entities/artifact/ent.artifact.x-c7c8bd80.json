@@ -1,0 +1,75 @@
+{
+  "id": "ent.artifact.x-c7c8bd80",
+  "type": "artifact",
+  "name": "封灵柱",
+  "aliases": [
+    "石柱"
+  ],
+  "summary": "古修士遗址大阵中心的奇特石柱，盘旋铭刻八个古文符号、镶嵌阴阳玉，由十几种珍贵炼器材料铸成，价值五六千灵石。",
+  "attributes": {
+    "外形": "数人粗、高约两丈的巨大石柱",
+    "来历": "古修士",
+    "能力": "封印灵气、隔绝外泄"
+  },
+  "observations": {
+    "外形": [
+      {
+        "value": "数丈圆柱、镶嵌阴阳玉、刻八古文",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "数人粗、高约两丈的巨大石柱",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "来历": [
+      {
+        "value": "古修士所设",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "古修士",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "能力": [
+      {
+        "value": "封印灵气、隔绝外泄",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ]
+  },
+  "firstSeq": 415,
+  "attrProvenance": {
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-421-426-qixialian-yaoguanshe"
+  ],
+  "updatedAt": "2026-06-15T00:56:43.560Z"
+}

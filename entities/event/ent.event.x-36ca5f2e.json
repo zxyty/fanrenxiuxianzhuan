@@ -1,0 +1,70 @@
+{
+  "id": "ent.event.x-36ca5f2e",
+  "type": "event",
+  "name": "神仙大会",
+  "aliases": [
+    "神仙聚会"
+  ],
+  "summary": "一大批修仙者将在嘉元城附近聚会，传凡人参会可成仙；时间地点不详。",
+  "attributes": {
+    "章节": "119",
+    "地点": "嘉元城附近",
+    "参与方": "众多修仙者"
+  },
+  "observations": {
+    "章节": [
+      {
+        "value": "119",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "地点": [
+      {
+        "value": "嘉元城附近",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "参与方": [
+      {
+        "value": "众修仙者",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "众多修仙者",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ]
+  },
+  "firstSeq": 115,
+  "attrProvenance": {
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal"
+  ],
+  "updatedAt": "2026-06-14T03:34:23.003Z"
+}

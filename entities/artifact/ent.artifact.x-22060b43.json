@@ -1,0 +1,97 @@
+{
+  "id": "ent.artifact.x-22060b43",
+  "type": "artifact",
+  "name": "飞天盾",
+  "aliases": [
+    "黑色小盾",
+    "铁盾",
+    "黑色铁盾"
+  ],
+  "summary": "韩立用于防御的盾形法器。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "防御、挡墨蛟喷吐",
+    "品阶": "顶级法器",
+    "外形": "黑色铁盾"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "能力": [
+      {
+        "value": "防御",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "由小变大、灵活机动的护身防御",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "防御、挡墨蛟喷吐",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "品阶": [
+      {
+        "value": "顶级法器",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑色小盾",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "黑色铁盾",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-c205-210-tujiao-yu-nangong"
+  ],
+  "updatedAt": "2026-06-14T06:15:01.489Z"
+}

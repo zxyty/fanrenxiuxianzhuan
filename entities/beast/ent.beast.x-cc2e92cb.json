@@ -1,0 +1,51 @@
+{
+  "id": "ent.beast.x-cc2e92cb",
+  "type": "beast",
+  "name": "火煞灵",
+  "aliases": [
+    "火煞",
+    "红色光团"
+  ],
+  "summary": "火狱特有妖物，无固定形态、斩之即复原、灵智不高，极寒之焰难克，但惧太阴火鸟。",
+  "attributes": {
+    "栖息地": "火狱红雾",
+    "天敌": "太阴真火/太阴火鸟"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "火狱红雾",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "天敌": [
+      {
+        "value": "太阴真火/太阴火鸟",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ]
+  },
+  "firstSeq": 1237,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike"
+  ],
+  "updatedAt": "2026-06-16T09:15:15.409Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ent.formation.x-1a616c4c",
+  "type": "formation",
+  "name": "九真伏魔阵",
+  "aliases": [
+    "九真伏魔大阵"
+  ],
+  "summary": "号称人界辟邪退魔第一等法阵，上古大战曾灭杀诸多上古妖魔；由八灵尺激发，升出九座祭坛、各竖十余丈金光巨刃。",
+  "attributes": {
+    "效果": "辟邪退魔、灭杀妖魔、化九口金刀射金丝、金光禁制、幻妙天象囚敌、缠困古魔圣祖与珑梦妖妃、伏魔护殿、封印/镇压本妃",
+    "出处": "上古大战",
+    "布置者": "上古人界修士",
+    "破解法": "被黑风旗飓风摧毁"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "辟邪退魔、灭杀妖魔",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "化九口金刀射金丝",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "金光禁制",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "幻妙天象囚敌",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "缠困古魔圣祖与珑梦妖妃",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "伏魔护殿",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "封印/镇压本妃",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古大战",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "布置者": [
+      {
+        "value": "上古人界修士",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "昆吾三子",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "破解法": [
+      {
+        "value": "被黑风旗飓风摧毁",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+  ],
+  "updatedAt": "2026-06-16T03:38:45.013Z"
+}

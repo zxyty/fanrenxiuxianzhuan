@@ -1,0 +1,51 @@
+{
+  "id": "ent.faction.x-78ea337c",
+  "type": "faction",
+  "name": "万家",
+  "aliases": [
+    "枯崖山万家"
+  ],
+  "summary": "枯崖山的修仙世家，万小山出身于此。",
+  "attributes": {
+    "据点": "枯崖山",
+    "理念": "不歧视散修"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "枯崖山",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "理念": [
+      {
+        "value": "不歧视散修",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "lore.fanren-ch127-132-linggen-realms-taonan"
+  ],
+  "updatedAt": "2026-06-14T03:45:50.849Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ent.formation.x-80b1e0fa",
+  "type": "formation",
+  "name": "天风狂烈阵",
+  "aliases": [],
+  "summary": "辛如音所赠、范围较广的法阵，与幻形天罗阵合罩两峰，令筑基修士头痛。",
+  "attributes": {
+    "布置者": "曲魂(奉韩立命)",
+    "出处": "辛如音所赠"
+  },
+  "observations": {
+    "布置者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "曲魂(奉韩立命)",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "出处": [
+      {
+        "value": "辛如音所赠",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ]
+  },
+  "firstSeq": 367,
+  "attrProvenance": {
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch392-yuchong"
+  ],
+  "updatedAt": "2026-06-14T13:56:50.428Z"
+}

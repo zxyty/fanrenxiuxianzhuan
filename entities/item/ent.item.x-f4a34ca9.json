@@ -1,0 +1,57 @@
+{
+  "id": "ent.item.x-f4a34ca9",
+  "type": "item",
+  "name": "残缺地图锦帕",
+  "aliases": [
+    "锦帕",
+    "荧光锦帕",
+    "残缺地图",
+    "轻纱锦帕",
+    "不知名古宝",
+    "白色轻雾古宝"
+  ],
+  "summary": "年代久远、通体荧光的发黄锦帕，绣有模糊残缺的陌生地图（非越国），藏于越皇体内，被韩立收入装五行丹的玉匣。",
+  "attributes": {
+    "类型": "藏宝/线索之物",
+    "用途": "记载陌生地域的残缺地图"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "藏宝/线索之物",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "用途": [
+      {
+        "value": "记载陌生地域的残缺地图",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+  ],
+  "updatedAt": "2026-06-15T03:58:16.695Z"
+}

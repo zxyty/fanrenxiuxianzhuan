@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-3a8e2a42",
+  "type": "person",
+  "name": "林叔",
+  "aliases": [
+    "茶舍掌柜",
+    "掌柜"
+  ],
+  "summary": "齐云霄茶舍的掌柜,炼气期四层,精明,负责接引韩立穿过阵法到竹屋。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "炼气期四层",
+    "身份": "茶舍掌柜"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期四层",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "身份": [
+      {
+        "value": "茶舍掌柜",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 271,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-272-jingu-yuan-war-one-year"
+  ],
+  "updatedAt": "2026-06-14T08:43:23.887Z"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ent.faction.x-bb1cf914",
+  "type": "faction",
+  "name": "燕家",
+  "aliases": [
+    "姑雨山燕家",
+    "燕氏"
+  ],
+  "summary": "第一修仙大族，唯一在修仙大派之外仍存有结丹期修士的修仙家族，圈养灵禽双首鹜。",
+  "attributes": {
+    "等级": "越国第一家族",
+    "据点": "原越国",
+    "镇派之宝": "化骨宝扇",
+    "理念": "随鬼灵门"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "第一修仙大族",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "超级家族",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "越国第一家族",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "据点": [
+      {
+        "value": "姑雨山",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "蔺州燕梁山燕翎堡",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "燕翎堡",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "原越国",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "结丹期修士/双首鹜",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "化骨宝扇",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "理念": [
+      {
+        "value": "随鬼灵门",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "dated": false,
+      "seq": 679
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "dated": false,
+      "seq": 679
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+  ],
+  "updatedAt": "2026-06-14T21:53:35.926Z"
+}

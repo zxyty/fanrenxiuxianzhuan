@@ -1,0 +1,92 @@
+{
+  "id": "ent.item.x-20feb0c5",
+  "type": "item",
+  "name": "玉简",
+  "aliases": [
+    "灰白玉简",
+    "阵法典籍玉简",
+    "乳白色玉简"
+  ],
+  "summary": "记录与交换中心区资料的载体。",
+  "attributes": {
+    "用途": "记载残缺地图",
+    "类型": "地图玉简"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "拷录、交换资料",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "存储古传送阵图纸",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "记载功法",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "记载阵法与秘功",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "铭记雷纹图案",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "记载残缺地图",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "类型": [
+      {
+        "value": "玉简",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "记录玉简",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "地图玉简",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 187,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1353-ling-chong-da-cheng"
+  ],
+  "updatedAt": "2026-06-16T14:02:15.372Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ent.place.x-8065e6af",
+  "type": "place",
+  "name": "七玄殿",
+  "aliases": [
+    "七玄门总堂",
+    "总堂主殿"
+  ],
+  "summary": "落日峰顶青石主殿，一大六小，七玄门总堂。",
+  "attributes": {
+    "所属势力": "七玄门",
+    "类型": "石殿/总堂"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "类型": [
+      {
+        "value": "石殿/总堂",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.592Z"
+}

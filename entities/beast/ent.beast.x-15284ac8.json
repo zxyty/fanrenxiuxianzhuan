@@ -1,0 +1,105 @@
+{
+  "id": "ent.beast.x-15284ac8",
+  "type": "beast",
+  "name": "尸狼",
+  "aliases": [
+    "变异尸狼",
+    "绿毛巨狼",
+    "人形尸狼",
+    "巨大尸狼",
+    "绿色人影"
+  ],
+  "summary": "阴阳窟中变异鬼物，三丈高绿毛巨狼，喷绿色尸火，远超典籍记载。",
+  "attributes": {
+    "种族": "鬼物（变异）、炼尸、炼尸/尸兽",
+    "外形": "狼首人身、体形骤缩数倍",
+    "能力": "喷绿色尸火、放绿芒、护体绿焰",
+    "主人": "银翅夜叉"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "鬼物（变异）",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "炼尸",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "炼尸/尸兽",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ],
+    "外形": [
+      {
+        "value": "三丈高、绿毛、赤红狼目、乌黑利爪",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "狼首人身、体形骤缩数倍",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985,
+        "note": "秘术化形"
+      }
+    ],
+    "能力": [
+      {
+        "value": "喷绿色尸火、放绿芒",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "护体绿焰",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "主人": [
+      {
+        "value": "银翅夜叉",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 979,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985,
+      "note": "秘术化形"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-984-xie-yue-huan-jing"
+  ],
+  "updatedAt": "2026-06-16T03:30:36.321Z"
+}

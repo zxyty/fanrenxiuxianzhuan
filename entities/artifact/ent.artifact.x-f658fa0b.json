@@ -1,0 +1,117 @@
+{
+  "id": "ent.artifact.x-f658fa0b",
+  "type": "artifact",
+  "name": "日月梭",
+  "aliases": [
+    "灵梭",
+    "金银双梭",
+    "三灵梭之一",
+    "金银色巨梭",
+    "金银色小梭",
+    "金银巨梭",
+    "金银梭"
+  ],
+  "summary": "三大灵梭之一，可在昆吾山裂缝中开路冒险通行。",
+  "attributes": {
+    "能力": "裂缝开路通行、藏身、遁地、攻防一体、金银双梭合一为巨梭",
+    "外形": "金银双梭",
+    "持有者": "木夫人",
+    "品阶": "人界三大灵梭之一"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "裂缝开路通行",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "藏身、遁地",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "攻防一体",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "金银双梭合一为巨梭",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "外形": [
+      {
+        "value": "金银双梭",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "两头尖、金银巨梭",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "金银色巨梭",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "金银巨梭",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ],
+    "持有者": [
+      {
+        "value": "木夫人",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "品阶": [
+      {
+        "value": "人界三大灵梭之一",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "dated": false,
+      "seq": 1021
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+  ],
+  "updatedAt": "2026-06-16T04:46:03.696Z"
+}

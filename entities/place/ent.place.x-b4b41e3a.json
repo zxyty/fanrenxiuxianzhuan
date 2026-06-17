@@ -1,0 +1,70 @@
+{
+  "id": "ent.place.x-b4b41e3a",
+  "type": "place",
+  "name": "陇州",
+  "aliases": [
+    "陇州郡"
+  ],
+  "summary": "盛产毒虫灵兽的州郡，由岳阳宫与魔木宗东西并立把持。",
+  "attributes": {
+    "特产": "毒虫灵兽",
+    "守护": "岳阳宫、魔木宗",
+    "所属势力": "大晋皇朝"
+  },
+  "observations": {
+    "特产": [
+      {
+        "value": "毒虫灵兽",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "守护": [
+      {
+        "value": "岳阳宫",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "魔木宗",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.225Z"
+}

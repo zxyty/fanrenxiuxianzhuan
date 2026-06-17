@@ -1,0 +1,81 @@
+{
+  "id": "ent.place.x-6a6d36ae",
+  "type": "place",
+  "name": "皇明岛",
+  "aliases": [],
+  "summary": "内海一普通中型岛屿，原有上古废弃传送阵，经魔道改造使用，只能单向接收、无法传出。",
+  "attributes": {
+    "所属界面": "内星海",
+    "类型": "中立岛屿",
+    "守护": "上古废弃传送阵"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "内海",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "内星海",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      }
+    ],
+    "类型": [
+      {
+        "value": "中型岛屿",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "海岛/传送阵据点",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "中立岛屿",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571,
+        "note": "乱星海"
+      }
+    ],
+    "守护": [
+      {
+        "value": "上古废弃传送阵",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ]
+  },
+  "firstSeq": 553,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "dated": false,
+      "seq": 559
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+      "dated": false,
+      "seq": 571,
+      "note": "乱星海"
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu"
+  ],
+  "updatedAt": "2026-06-14T19:11:47.908Z"
+}

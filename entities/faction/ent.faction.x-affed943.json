@@ -1,0 +1,39 @@
+{
+  "id": "ent.faction.x-affed943",
+  "type": "faction",
+  "name": "正道",
+  "aliases": [
+    "正道一方",
+    "正道诸人",
+    "正道中人"
+  ],
+  "summary": "本关中以万天明为首的正派修士一方。",
+  "attributes": {
+    "阵营": "正道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing"
+  ],
+  "updatedAt": "2026-06-14T16:36:44.446Z"
+}

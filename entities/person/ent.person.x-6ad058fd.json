@@ -1,0 +1,81 @@
+{
+  "id": "ent.person.x-6ad058fd",
+  "type": "person",
+  "name": "白姓妇人",
+  "aliases": [
+    "南宫道友",
+    "白衫妇人",
+    "白姓白衫妇人"
+  ],
+  "summary": "孤身散修弱女子，神通云雪决，得青王蚕后答应参加赌战；与至阳上人有旧怨。",
+  "attributes": {
+    "性别": "女",
+    "身份": "散修",
+    "外貌": "白衫秀美妇人",
+    "阵营": "韩立一方"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白衫秀美妇人",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ]
+  },
+  "firstSeq": 757,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-769-774-border-war-6-8"
+  ],
+  "updatedAt": "2026-06-15T03:47:18.097Z"
+}

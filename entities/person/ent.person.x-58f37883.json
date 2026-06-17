@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-58f37883",
+  "type": "person",
+  "name": "孙姓修士",
+  "aliases": [
+    "黑肤修士",
+    "孙兄"
+  ],
+  "summary": "黑肤中年结丹中期修士，售卖刻古文铜片与八级妖兽灵骨，铜片被韩立以五级妖丹换走。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹中期",
+    "外貌": "皮肤黝黑的中年人"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "外貌": [
+      {
+        "value": "皮肤黝黑的中年人",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 535,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+  ],
+  "updatedAt": "2026-06-14T18:18:59.341Z"
+}

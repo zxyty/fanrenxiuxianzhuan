@@ -1,0 +1,50 @@
+{
+  "id": "ent.item.x-a94c131a",
+  "type": "item",
+  "name": "玉符",
+  "aliases": [
+    "担保信物"
+  ],
+  "summary": "马师伯交给韩立的担保信物，每次进岳麓殿须例行检查。",
+  "attributes": {
+    "类型": "信物",
+    "用途": "岳麓殿担保凭证"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "信物",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "用途": [
+      {
+        "value": "岳麓殿担保凭证",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later"
+  ],
+  "updatedAt": "2026-06-14T04:21:00.166Z"
+}

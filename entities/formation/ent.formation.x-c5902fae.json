@@ -1,0 +1,53 @@
+{
+  "id": "ent.formation.x-c5902fae",
+  "type": "formation",
+  "name": "黄泉鬼阵",
+  "aliases": [],
+  "summary": "炫烨王布下的鬼阵，连绵百里、吞噬低阶修士，配合数千筑基炼尸守墓。",
+  "attributes": {
+    "效果": "困敌、吞噬低阶修士",
+    "布置者": "炫烨王"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "吞噬低阶修士",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "布置者": [
+      {
+        "value": "炫烨王",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 931,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.247Z"
+}

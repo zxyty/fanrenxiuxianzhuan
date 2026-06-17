@@ -1,0 +1,65 @@
+{
+  "id": "ent.formation.x-abedf23c",
+  "type": "formation",
+  "name": "水属性法阵",
+  "aliases": [
+    "水属性大阵"
+  ],
+  "summary": "南陇侯准备的布阵器具所设，配合白色水龙与潮湿阴冷环境困住火蟾兽，克制其火力；韩立另在阵外加设数套法阵以备不测。",
+  "attributes": {
+    "效果": "困敌、克制火属性、生白色水龙攻击",
+    "布置者": "南陇侯、韩立"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "克制火属性",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "生白色水龙攻击",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "布置者": [
+      {
+        "value": "南陇侯",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ]
+  },
+  "firstSeq": 811,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch811-gang-yin-sha"
+  ],
+  "updatedAt": "2026-06-15T06:11:29.094Z"
+}

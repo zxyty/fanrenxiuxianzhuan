@@ -1,0 +1,94 @@
+{
+  "id": "ent.person.x-7dbd5f27",
+  "type": "person",
+  "name": "吴风",
+  "aliases": [
+    "传功师兄吴风",
+    "吴师兄",
+    "传功师兄",
+    "吴风师兄"
+  ],
+  "summary": "黄枫谷传功师兄，教韩立初级法术实用口诀。",
+  "attributes": {
+    "身份": "低阶弟子",
+    "阵营": "黄枫谷",
+    "小阶段": "炼气期顶峰",
+    "性格": "认真、无私、品行端正"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "黄枫谷传功师兄",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "传功弟子",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "低阶弟子",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期顶峰",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "性格": [
+      {
+        "value": "认真、无私、品行端正",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.264Z"
+}

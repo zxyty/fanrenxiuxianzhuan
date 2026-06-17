@@ -1,0 +1,56 @@
+{
+  "id": "ent.place.x-0067380b",
+  "type": "place",
+  "name": "风都国",
+  "aliases": [],
+  "summary": "正道联盟所在之国，对天罗国魔道六宗虎视眈眈。",
+  "attributes": {
+    "类型": "国度",
+    "所属势力": "正道盟"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "国家",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "国度",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "正道盟",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+  ],
+  "updatedAt": "2026-06-15T14:26:36.590Z"
+}

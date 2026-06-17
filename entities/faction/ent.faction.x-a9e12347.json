@@ -1,0 +1,59 @@
+{
+  "id": "ent.faction.x-a9e12347",
+  "type": "faction",
+  "name": "正道盟",
+  "aliases": [
+    "风都国正道盟",
+    "正道盟一方"
+  ],
+  "summary": "风都国的正道联盟,玄夜关切其在魔道攻势下的动向。",
+  "attributes": {
+    "阵营": "正道",
+    "据点": "风都国"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "据点": [
+      {
+        "value": "风都国",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-757-762-gengjing-jiangling-fu"
+  ],
+  "updatedAt": "2026-06-15T03:26:48.348Z"
+}

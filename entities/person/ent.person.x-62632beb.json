@@ -1,0 +1,73 @@
+{
+  "id": "ent.person.x-62632beb",
+  "type": "person",
+  "name": "灵族叛逆",
+  "aliases": [],
+  "summary": "出自器灵族、携神血逃入落日之墓的灵族叛逆，已被打成重伤并下感应标记，欲投奔人族。",
+  "attributes": {
+    "种族": "灵族",
+    "身份": "叛逆",
+    "存殁": "死亡"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "器灵族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "身份": [
+      {
+        "value": "叛逆",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤未死",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+  ],
+  "updatedAt": "2026-06-16T11:47:43.470Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ent.spell.x-aaf06044",
+  "type": "spell",
+  "name": "驱物术",
+  "aliases": [],
+  "summary": "驱物类法术，须驱使修仙者特定物品，韩立以凡物及法器试验均失败。",
+  "attributes": {
+    "类型": "操控类法术",
+    "消耗": "极耗法力"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "驱物法术",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      },
+      {
+        "value": "操控类法术",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ],
+    "消耗": [
+      {
+        "value": "极耗法力",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ]
+  },
+  "firstSeq": 73,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch85-90-sikexie-doudou",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch"
+  ],
+  "updatedAt": "2026-06-14T03:06:36.602Z"
+}

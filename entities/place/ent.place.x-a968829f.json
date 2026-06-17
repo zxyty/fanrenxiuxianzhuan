@@ -1,0 +1,85 @@
+{
+  "id": "ent.place.x-a968829f",
+  "type": "place",
+  "name": "倚天城",
+  "aliases": [
+    "倚天城巨墙"
+  ],
+  "summary": "魔界之战中人族据守的城池，依仗各种禁制抵御魔族进攻。",
+  "attributes": {
+    "类型": "城池、战场城池",
+    "守护": "各种禁制",
+    "所属界面": "灵界",
+    "所属势力": "魔族"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "城池",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "战场城池",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "守护": [
+      {
+        "value": "各种禁制",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.747Z"
+}

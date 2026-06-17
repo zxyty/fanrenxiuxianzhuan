@@ -1,0 +1,69 @@
+{
+  "id": "ent.person.x-b322229f",
+  "type": "person",
+  "name": "鬼婆",
+  "aliases": [],
+  "summary": "受托凝练八千阴甲玄鬼者，与韩立旧事或有牵连。",
+  "attributes": {
+    "阵营": "妖族",
+    "身份": "妖王",
+    "称号": "鬼魄门门主"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "木青等四人同盟",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "身份": [
+      {
+        "value": "妖王",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "称号": [
+      {
+        "value": "鬼魄门门主",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1453,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.399Z"
+}

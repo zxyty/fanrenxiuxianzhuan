@@ -1,0 +1,65 @@
+{
+  "id": "ent.technique.x-bece2aad",
+  "type": "technique",
+  "name": "基础咒决残本",
+  "aliases": [
+    "咒书",
+    "基础咒决残本旧书"
+  ],
+  "summary": "破旧基础咒决书，载七八个下阶法术及一个初级中阶地刺术。",
+  "attributes": {
+    "品阶": "初级",
+    "出处": "草帽青年摊位添头",
+    "效果": "记载多种基础咒法"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "初级",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "出处": [
+      {
+        "value": "草帽青年摊位添头",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "效果": [
+      {
+        "value": "记载多种基础咒法",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan"
+  ],
+  "updatedAt": "2026-06-14T03:45:50.871Z"
+}

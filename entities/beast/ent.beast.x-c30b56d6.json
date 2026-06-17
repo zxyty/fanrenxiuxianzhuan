@@ -1,0 +1,53 @@
+{
+  "id": "ent.beast.x-c30b56d6",
+  "type": "beast",
+  "name": "风啸鹰",
+  "aliases": [],
+  "summary": "一级上阶妖兽,孵化后可助修士放哨、寻物;灵兽山修士拿出其卵交换。",
+  "attributes": {
+    "等级": "一级上阶妖兽",
+    "能力": "放哨、寻物"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "一级上阶妖兽",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "能力": [
+      {
+        "value": "放哨",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "寻物",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.311Z"
+}

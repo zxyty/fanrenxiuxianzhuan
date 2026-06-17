@@ -1,0 +1,95 @@
+{
+  "id": "ent.beast.x-511b9891",
+  "type": "beast",
+  "name": "八级蓝蛟",
+  "aliases": [
+    "八级化形蓝蛟",
+    "蓝蛟"
+  ],
+  "summary": "临江府群蛟中突现的八级化形蓝蛟，伏击重伤元婴修士，实力或胜元婴中期一线。",
+  "attributes": {
+    "种族": "蛟龙",
+    "等级": "八级",
+    "能力": "化形、海中水遁、水遁术",
+    "栖息地": "华云州海域"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "蛟龙",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "等级": [
+      {
+        "value": "八级",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "能力": [
+      {
+        "value": "化形",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "海中水遁",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "水遁术",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "海岛要道",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "华云州海域",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ]
+  },
+  "firstSeq": 955,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+  ],
+  "updatedAt": "2026-06-16T02:49:21.248Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ent.pill.x-94e35448",
+  "type": "pill",
+  "name": "昊元丹",
+  "aliases": [
+    "天昊元丹"
+  ],
+  "summary": "火红杏仁状丹药，韩立昔年用高级妖丹炼制，本为结丹期突破瓶颈增进修为之灵丹，可暂压苦毒毒气。",
+  "attributes": {
+    "功效": "结丹期突破瓶颈、增进修为、暂时压制苦毒毒气",
+    "适用境界": "结丹期",
+    "炼制者": "韩立",
+    "主料": "高级妖丹",
+    "品阶": "珍稀"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "结丹期突破瓶颈、增进修为",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "暂时压制苦毒毒气",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883,
+        "note": "仅延命,非真解毒"
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "主料": [
+      {
+        "value": "高级妖丹",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "品阶": [
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch889-894-tianlan-jinyanshi"
+  ],
+  "updatedAt": "2026-06-16T00:12:42.873Z"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ent.race.x-6ab0ad5c",
+  "type": "race",
+  "name": "海王族",
+  "aliases": [],
+  "summary": "与角蚩族联手跨洋而来的强大水属异族，代表人物简；可掀蓝色波涛裹身。",
+  "attributes": {
+    "代表人物": "简道友",
+    "特性": "操纵海浪/真灵阴气"
+  },
+  "observations": {
+    "代表人物": [
+      {
+        "value": "简",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "简道友",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      }
+    ],
+    "特性": [
+      {
+        "value": "操纵海浪/真灵阴气",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1519,
+  "attrProvenance": {
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+      "dated": false,
+      "seq": 1531
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+  ],
+  "updatedAt": "2026-06-16T19:37:09.936Z"
+}

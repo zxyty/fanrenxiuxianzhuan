@@ -1,0 +1,61 @@
+{
+  "id": "ent.technique.x-468e2fbe",
+  "type": "technique",
+  "name": "华氏金针秘术",
+  "aliases": [
+    "华氏金针",
+    "金针秘术"
+  ],
+  "summary": "记载金针治病秘法的世俗医书，有起死回生、激发病人潜力之效；与炼丹无关，韩立早在墨大夫处倒背如流。",
+  "attributes": {
+    "出处": "世俗医界",
+    "效果": "金针治病、起死回生、激发潜力"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "世俗医界",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "效果": [
+      {
+        "value": "金针治病",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "起死回生",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "激发潜力",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later"
+  ],
+  "updatedAt": "2026-06-14T04:21:00.162Z"
+}

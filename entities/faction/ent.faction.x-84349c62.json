@@ -1,0 +1,52 @@
+{
+  "id": "ent.faction.x-84349c62",
+  "type": "faction",
+  "name": "千光寺",
+  "aliases": [
+    "关宁千光寺"
+  ],
+  "summary": "佛门大宗金罗宗的分支，原在辽州关宁，数百年前迁出回归本宗；冯家先祖曾为其俗家弟子。",
+  "attributes": {
+    "阵营": "佛门",
+    "据点": "辽州关宁"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "佛门",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "据点": [
+      {
+        "value": "辽州关宁",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883,
+        "note": "数百年前已迁出回归本宗"
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883,
+      "note": "数百年前已迁出回归本宗"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+  ],
+  "updatedAt": "2026-06-15T23:54:19.684Z"
+}

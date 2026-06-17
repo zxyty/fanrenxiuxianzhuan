@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-44bc646d",
+  "type": "person",
+  "name": "龙晗",
+  "aliases": [
+    "龙兄",
+    "龙某",
+    "龙晗道友",
+    "龙晗夫妇"
+  ],
+  "summary": "天道盟主事人、鸾鸣宗修士，本章主动结好韩立并为其指认诸老怪。",
+  "attributes": {
+    "身份": "天南法士首领",
+    "阵营": "天道盟、天南/九国盟、天南、合欢宗",
+    "小阶段": "元婴后期"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "天道盟主事人",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "大战指挥",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "天南法士首领",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "天南/九国盟",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "天南",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      },
+      {
+        "value": "合欢宗",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+  ],
+  "updatedAt": "2026-06-15T03:58:16.660Z"
+}

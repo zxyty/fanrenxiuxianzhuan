@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-c6ea7b3b",
+  "type": "artifact",
+  "name": "五魔子",
+  "aliases": [],
+  "summary": "乾老魔的法宝，可化白影喷吐灰色寒气。",
+  "attributes": {
+    "持有者": "乾老魔",
+    "能力": "喷吐灰色寒气"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "乾老魔",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "能力": [
+      {
+        "value": "喷吐灰色寒气",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1003-qunmo-yinxian"
+  ],
+  "updatedAt": "2026-06-16T03:59:21.441Z"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "ent.artifact.x-dfa2ae02",
+  "type": "artifact",
+  "name": "魔髓飞刀",
+  "aliases": [
+    "黑色短刃",
+    "晶莹乌黑短刃",
+    "黑芒",
+    "黑色晶莹飞刀",
+    "魔髓刀"
+  ],
+  "summary": "韩立的瞬移斩首飞刀。",
+  "attributes": {
+    "持有者": "韩立/人形傀儡操使",
+    "外形": "黑色晶莹飞刀",
+    "能力": "瞬移斩击、隐匿行迹、视魔气如无物"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "韩立/人形傀儡操使",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑色短刃",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "晶莹乌黑短刃，泛淡黑光",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "黑芒飞刀",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "黑色晶莹飞刀",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "能力": [
+      {
+        "value": "瞬移斩击",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "隐匿行迹",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "视魔气如无物",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      }
+    ]
+  },
+  "firstSeq": 1099,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "dated": false,
+      "seq": 1099
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.353Z"
+}

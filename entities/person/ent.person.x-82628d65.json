@@ -1,0 +1,88 @@
+{
+  "id": "ent.person.x-82628d65",
+  "type": "person",
+  "name": "胡萍姑",
+  "aliases": [
+    "胡夫人",
+    "本夫人"
+  ],
+  "summary": "女散修，曾被吴九指偷物，事事代天哑丈夫熊大力做主。",
+  "attributes": {
+    "性别": "女",
+    "身份": "炼气期修仙者",
+    "结局": "计划长居炼气期不参擂",
+    "阵营": "散修"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼气期修仙者",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "结局": [
+      {
+        "value": "计划长居炼气期不参擂",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133,
+        "note": "本章打算"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133,
+      "note": "本章打算"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.652Z"
+}

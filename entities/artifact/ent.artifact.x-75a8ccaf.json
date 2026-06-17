@@ -1,0 +1,53 @@
+{
+  "id": "ent.artifact.x-75a8ccaf",
+  "type": "artifact",
+  "name": "蚕帕",
+  "aliases": [],
+  "summary": "刘靖的法器，可化巨大屏障护住众人并反弹法术法器。",
+  "attributes": {
+    "持有者": "刘靖",
+    "能力": "化屏障防御、反弹法术"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "刘靖",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "能力": [
+      {
+        "value": "化屏障防御",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "反弹法术",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 313,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:34.996Z"
+}

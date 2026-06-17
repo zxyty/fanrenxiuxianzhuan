@@ -1,0 +1,67 @@
+{
+  "id": "ent.faction.x-daa91dab",
+  "type": "faction",
+  "name": "青冥卫",
+  "aliases": [
+    "青冥战甲卫士",
+    "黑铁卫（属下）"
+  ],
+  "summary": "天渊城中身着青幽战甲、化神期修为的卫士小队成员。",
+  "attributes": {
+    "据点": "天渊城",
+    "所属界面": "灵界",
+    "阵营": "人族"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+  ],
+  "updatedAt": "2026-06-16T13:17:17.895Z"
+}

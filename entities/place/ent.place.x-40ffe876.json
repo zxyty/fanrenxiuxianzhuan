@@ -1,0 +1,98 @@
+{
+  "id": "ent.place.x-40ffe876",
+  "type": "place",
+  "name": "太玄殿",
+  "aliases": [],
+  "summary": "天渊坊市中央贯通人妖两区的交易石殿，供人妖私下换货，入内须佩遮光佩/弥云幡并被限修为。",
+  "attributes": {
+    "类型": "交易石殿、坊市店铺、拍卖/宫殿、交易坊市殿堂",
+    "守护": "炼虚金卫、青冥卫",
+    "所属界面": "灵界",
+    "所属势力": "天渊城"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "交易石殿",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "坊市店铺",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "拍卖/宫殿",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "交易坊市殿堂",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "守护": [
+      {
+        "value": "炼虚金卫",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "青冥卫",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ]
+  },
+  "firstSeq": 1327,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+  ],
+  "updatedAt": "2026-06-16T13:17:17.890Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ent.faction.x-c68b6c06",
+  "type": "faction",
+  "name": "独霸山庄",
+  "aliases": [
+    "毒霸山庄"
+  ],
+  "summary": "惊蛟会死对头，岚州势力之一。",
+  "attributes": {
+    "阵营": "惊蛟会死对头",
+    "据点": "岚州"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "惊蛟会死对头",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "据点": [
+      {
+        "value": "岚州",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ]
+  },
+  "firstSeq": 115,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence"
+  ],
+  "updatedAt": "2026-06-14T08:51:46.211Z"
+}

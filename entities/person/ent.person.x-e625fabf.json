@@ -1,0 +1,106 @@
+{
+  "id": "ent.person.x-e625fabf",
+  "type": "person",
+  "name": "张袖儿",
+  "aliases": [
+    "张姑娘",
+    "张袖儿姑娘",
+    "袖儿"
+  ],
+  "summary": "李长老外甥女，年纪最轻，热心取水、惊呼黑气；被厉飞雨爱慕。",
+  "attributes": {
+    "性别": "女",
+    "身份": "李长老外甥女、厉飞雨未婚妻、七玄门弟子、厉飞雨恋人、七绝堂核心弟子",
+    "阵营": "七玄门",
+    "外貌": "绢白衣裙、柔弱楚楚"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      }
+    ],
+    "身份": [
+      {
+        "value": "李长老外甥女",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      },
+      {
+        "value": "厉飞雨未婚妻",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      },
+      {
+        "value": "七玄门弟子",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      },
+      {
+        "value": "厉飞雨恋人",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      },
+      {
+        "value": "七绝堂核心弟子",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      }
+    ],
+    "阵营": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "外貌": [
+      {
+        "value": "绢白衣裙、柔弱楚楚",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      }
+    ]
+  },
+  "firstSeq": 67,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+      "dated": false,
+      "seq": 67
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+      "dated": false,
+      "seq": 67
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch85-90-sikexie-doudou",
+      "dated": false,
+      "seq": 85
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch85-90-sikexie-doudou",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch109-114-mofu-dengmen"
+  ],
+  "updatedAt": "2026-06-14T03:20:09.490Z"
+}

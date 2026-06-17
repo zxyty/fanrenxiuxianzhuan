@@ -1,0 +1,77 @@
+{
+  "id": "ent.material.x-288360e8",
+  "type": "material",
+  "name": "昊阳鸟长翎",
+  "aliases": [
+    "火翎",
+    "火羽"
+  ],
+  "summary": "炼制三焰扇所需稀料，大晋岳阳宫曾有昊阳鸟，可往求。",
+  "attributes": {
+    "用途": "炼器材料",
+    "产地": "昊阳鸟",
+    "类型": "灵禽羽翎"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "炼制三焰扇",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "产地": [
+      {
+        "value": "大晋（岳阳宫）",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "昊阳鸟",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵禽羽翎",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 853,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.220Z"
+}

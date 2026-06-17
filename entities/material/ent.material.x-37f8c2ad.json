@@ -1,0 +1,97 @@
+{
+  "id": "ent.material.x-37f8c2ad",
+  "type": "material",
+  "name": "幻梦石",
+  "aliases": [],
+  "summary": "妙音门传送阵最关键且稀少的材料，产地在五六级妖兽栖息地附近。",
+  "attributes": {
+    "用途": "完成传送阵",
+    "稀有度": "稀少、珍稀、稀有",
+    "产地": "高阶妖兽栖息地附近",
+    "类型": "阵法材料、灵石"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "传送阵关键材料",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "完成传送阵",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "稀少",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "产地": [
+      {
+        "value": "高阶妖兽栖息地附近",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "类型": [
+      {
+        "value": "阵法材料",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "灵石",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ]
+  },
+  "firstSeq": 535,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+  ],
+  "updatedAt": "2026-06-14T18:52:01.136Z"
+}

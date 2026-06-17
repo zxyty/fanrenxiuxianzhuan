@@ -1,0 +1,50 @@
+{
+  "id": "ent.pill.x-8dc4d5af",
+  "type": "pill",
+  "name": "忘尘丹",
+  "aliases": [
+    "忘尘丸"
+  ],
+  "summary": "韩立随手配制的丹药，火红色异香，可令服者忘却半日内所发生之事，用以配合无忧针法。",
+  "attributes": {
+    "功效": "忘却半日内之事",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "忘却半日内之事",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 199,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou"
+  ],
+  "updatedAt": "2026-06-14T06:06:29.063Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ent.place.x-5f1b8db1",
+  "type": "place",
+  "name": "寒骊台",
+  "aliases": [
+    "高台",
+    "灰岩高台"
+  ],
+  "summary": "虚天殿内殿五层的雄伟灰岩高台，长宽百余丈、高三十余丈，正前数百层石阶通顶，藏有秘宝，外罩天罡罩禁制，台阶为唯一进出口。",
+  "attributes": {
+    "类型": "祭坛石台",
+    "守护": "天罡罩禁制",
+    "危险度": "高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "藏宝高台",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      },
+      {
+        "value": "祭坛石台",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ],
+    "守护": [
+      {
+        "value": "天罡罩禁制",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 475,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "dated": false,
+      "seq": 1117
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+  ],
+  "updatedAt": "2026-06-15T10:22:05.196Z"
+}

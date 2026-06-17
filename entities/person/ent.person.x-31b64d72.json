@@ -1,0 +1,78 @@
+{
+  "id": "ent.person.x-31b64d72",
+  "type": "person",
+  "name": "小梅",
+  "aliases": [
+    "俏丽丫鬟",
+    "小丫鬟",
+    "小梅姑娘"
+  ],
+  "summary": "辛如音身边的俏丽丫鬟。",
+  "attributes": {
+    "性别": "女",
+    "身份": "辛如音侍女",
+    "存殁": "死亡"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "身份": [
+      {
+        "value": "辛如音的丫鬟",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "辛如音贴身丫鬟",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "辛如音侍女",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-1167-1172-return-luoyunzong"
+  ],
+  "updatedAt": "2026-06-15T11:44:31.781Z"
+}

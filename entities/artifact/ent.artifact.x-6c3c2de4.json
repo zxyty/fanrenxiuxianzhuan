@@ -1,0 +1,114 @@
+{
+  "id": "ent.artifact.x-6c3c2de4",
+  "type": "artifact",
+  "name": "玄阴环",
+  "aliases": [
+    "阴阳环",
+    "阳环",
+    "阴环"
+  ],
+  "summary": "极阴门下亲传弟子人手一只的信物兼防身古宝，本为玄骨所赐阴阳环、被极阴改名；阴环被对应阳环所克。",
+  "attributes": {
+    "品阶": "古宝",
+    "持有者": "韩立",
+    "来历": "本为玄骨所赐的阴阳环古宝，被极阴改名",
+    "禁制": "阴环被阳环所克",
+    "外形": "黑灰指环，刻神秘符文，散青蓝幽光",
+    "能力": "放出北极元光、凝北极元光为银链/银网"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "来历": [
+      {
+        "value": "本为玄骨所赐的阴阳环古宝，被极阴改名",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "禁制": [
+      {
+        "value": "阴环被阳环所克",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑灰指环，刻神秘符文，散青蓝幽光",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "能力": [
+      {
+        "value": "放出北极元光",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      },
+      {
+        "value": "凝北极元光为银链/银网",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ]
+  },
+  "firstSeq": 451,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "dated": false,
+      "seq": 1021
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+  ],
+  "updatedAt": "2026-06-16T04:46:03.716Z"
+}

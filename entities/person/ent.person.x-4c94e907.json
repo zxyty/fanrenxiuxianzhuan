@@ -1,0 +1,105 @@
+{
+  "id": "ent.person.x-4c94e907",
+  "type": "person",
+  "name": "胥长老",
+  "aliases": [
+    "赤须老者",
+    "红须老者",
+    "胥姓老者"
+  ],
+  "summary": "天鹏族长老，主张强夺羽翅另选族人继承真血，被金悦否决。",
+  "attributes": {
+    "性别": "男",
+    "种族": "飞灵族",
+    "身份": "天鹏族长老",
+    "外貌": "赤须老者",
+    "小阶段": "合体初期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "种族": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ],
+    "身份": [
+      {
+        "value": "天鹏族长老",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "外貌": [
+      {
+        "value": "赤须高大老者",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "赤须老者",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体初期",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ]
+  },
+  "firstSeq": 1411,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "dated": false,
+      "seq": 1417
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "dated": false,
+      "seq": 1417
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "dated": false,
+      "seq": 1417
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian"
+  ],
+  "updatedAt": "2026-06-16T15:57:46.839Z"
+}

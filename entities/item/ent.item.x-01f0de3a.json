@@ -1,0 +1,81 @@
+{
+  "id": "ent.item.x-01f0de3a",
+  "type": "item",
+  "name": "天雷子",
+  "aliases": [
+    "蓝色雷珠",
+    "蓝色珠子",
+    "蓝色圆珠"
+  ],
+  "summary": "丸子大小蓝色圆珠，威力莫大，传可使正面硬抗的筑基期修士灰飞烟灭；原有七十三粒，今所剩无几。",
+  "attributes": {
+    "类型": "雷系爆裂宝物",
+    "用途": "一次性强力爆击",
+    "产地": "数百年前神秘修士截取天地雷电凝练"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "雷系消耗法器",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "雷系爆裂宝物",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "用途": [
+      {
+        "value": "攻击,据说可击杀筑基期修士",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "一次性强力爆击",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "产地": [
+      {
+        "value": "数百年前神秘修士截取天地雷电凝练",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.380Z"
+}

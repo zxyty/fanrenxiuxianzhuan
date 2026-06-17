@@ -1,0 +1,112 @@
+{
+  "id": "ent.person.x-4b4157a0",
+  "type": "person",
+  "name": "叶家老者",
+  "aliases": [
+    "叶家长老（被杀）"
+  ],
+  "summary": "元婴初期的叶家修士，被群鬼围困，向七叔与韩长老请教破鬼之法，曾迟疑是否继续闯塔。",
+  "attributes": {
+    "阵营": "叶家",
+    "小阶段": "元婴",
+    "性格": "略胆怯",
+    "种族": "人类",
+    "存殁": "死亡",
+    "死因": "被古魔捏碎头颅、黑色魔焰焚灭元婴"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "性格": [
+      {
+        "value": "略胆怯",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "种族": [
+      {
+        "value": "人类",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "死因": [
+      {
+        "value": "被古魔捏碎头颅、黑色魔焰焚灭元婴",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.395Z"
+}

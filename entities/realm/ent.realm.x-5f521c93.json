@@ -1,0 +1,121 @@
+{
+  "id": "ent.realm.x-5f521c93",
+  "type": "realm",
+  "name": "炼气",
+  "aliases": [
+    "炼气期",
+    "炼气期巅峰",
+    "十三层",
+    "炼气期低层",
+    "炼气期十层"
+  ],
+  "summary": "下境界第一层，散修多徘徊于此。",
+  "attributes": {
+    "阶序": "下境界第一层",
+    "下一境": "筑基期",
+    "上一境": "筑基期",
+    "小阶段": "一至十二层、四五层、六层、七层"
+  },
+  "observations": {
+    "阶序": [
+      {
+        "value": "下境界第一层",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "下一境": [
+      {
+        "value": "筑基",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "上一境": [
+      {
+        "value": "筑基期",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "一至十二层",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "四五层",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "六层",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "七层",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "阶序": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.054Z"
+}

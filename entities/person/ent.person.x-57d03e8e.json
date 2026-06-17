@@ -1,0 +1,62 @@
+{
+  "id": "ent.person.x-57d03e8e",
+  "type": "person",
+  "name": "黑汉子",
+  "aliases": [
+    "黝黑汉子",
+    "汉子"
+  ],
+  "summary": "皮肤黝黑、手脚粗大的十层大高手，持法宝残片求换回风钵，本片段未具名。",
+  "attributes": {
+    "小阶段": "炼气十层",
+    "外貌": "黑脸大汉"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "炼气第十层",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "炼气十层",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "外貌": [
+      {
+        "value": "皮肤黝黑、手脚粗大",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "黑脸大汉",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.532Z"
+}

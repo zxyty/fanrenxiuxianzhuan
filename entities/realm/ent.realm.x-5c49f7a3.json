@@ -1,0 +1,127 @@
+{
+  "id": "ent.realm.x-5c49f7a3",
+  "type": "realm",
+  "name": "合体",
+  "aliases": [
+    "合体期",
+    "合体大成",
+    "合体级",
+    "合体后期",
+    "合体后期巅峰",
+    "合体中期",
+    "合体存在"
+  ],
+  "summary": "中境界第二层。",
+  "attributes": {
+    "阶序": "炼虚之上",
+    "上一境": "大乘",
+    "下一境": "化神",
+    "小阶段": "合体后期、合体后期巅峰、中期、合体中期、合体初期"
+  },
+  "observations": {
+    "阶序": [
+      {
+        "value": "中境界第二层",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼虚之上",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "上一境": [
+      {
+        "value": "炼虚",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "下一境": [
+      {
+        "value": "大乘",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "合体后期巅峰",
+        "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "中期",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "合体初期",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+      "dated": false,
+      "seq": 1471
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1929-1934-blood-saint-clones-battle",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.785Z"
+}

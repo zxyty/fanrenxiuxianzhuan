@@ -1,0 +1,36 @@
+{
+  "id": "ent.item.x-1afebc2e",
+  "type": "item",
+  "name": "银令牌",
+  "aliases": [
+    "银牌"
+  ],
+  "summary": "昆吾三老遗留令牌，可暂控昆吾殿部分禁制；木夫人用以驱日月梭、溶解宝物护罩。",
+  "attributes": {
+    "用途": "暂控殿内禁制"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "暂控殿内禁制",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1015,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.452Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ent.person.x-4e61f33d",
+  "type": "person",
+  "name": "儒衫老者",
+  "aliases": [],
+  "summary": "汇聚处一名儒衫老者，疑心极重，察觉极阴老祖异常并加以试探。",
+  "attributes": {
+    "性别": "男",
+    "外貌": "儒衫老者",
+    "性格": "从容",
+    "小阶段": "元婴期",
+    "阵营": "正道",
+    "身份": "魔道"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "外貌": [
+      {
+        "value": "儒衫老者",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "性格": [
+      {
+        "value": "多疑",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "从容",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      }
+    ],
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.524Z"
+}

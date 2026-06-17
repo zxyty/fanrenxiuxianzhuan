@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-fb3404f6",
+  "type": "place",
+  "name": "极妙幻境",
+  "aliases": [
+    "极妙幻境长廊"
+  ],
+  "summary": "虚天殿下一关，取宝后即被传送至此，凶险，需定神安魂之物护神智。",
+  "attributes": {
+    "类型": "幻境关卡",
+    "危险度": "高",
+    "守护": "情欲与恐惧双重心境考验"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "幻境关卡",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "守护": [
+      {
+        "value": "情欲与恐惧双重心境考验",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ]
+  },
+  "firstSeq": 463,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "dated": false,
+      "seq": 469
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing"
+  ],
+  "updatedAt": "2026-06-14T16:36:44.384Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ent.place.x-851f7c85",
+  "type": "place",
+  "name": "黑冥雾海",
+  "aliases": [
+    "黑冥雾海雾海",
+    "黑色雾气雾海"
+  ],
+  "summary": "黑隐山脉巨岛上的黑色雾海，阴气极重可吸取草木灵气，设有禁空禁制。",
+  "attributes": {
+    "所属界面": "灵界·天元大陆",
+    "危险度": "极高、高、高（多妖物）",
+    "守护": "九幽冥尸",
+    "类型": "雾海",
+    "特产": "真灵阴气"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "灵界·天元大陆",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "高（多妖物）",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "守护": [
+      {
+        "value": "禁空禁制",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "九幽冥尸",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "类型": [
+      {
+        "value": "雾海",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "特产": [
+      {
+        "value": "真灵阴气",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1513,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.189Z"
+}

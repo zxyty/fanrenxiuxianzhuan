@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-8be5d567",
+  "type": "place",
+  "name": "飞灵殿",
+  "aliases": [],
+  "summary": "天渊城中安置飞升修士的十层殿阁，韩立获套房暂歇。",
+  "attributes": {
+    "所属势力": "天渊城",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1387-1392-julji-tushan-zhentu"
+  ],
+  "updatedAt": "2026-06-16T14:59:17.637Z"
+}

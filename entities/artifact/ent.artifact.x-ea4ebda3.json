@@ -1,0 +1,115 @@
+{
+  "id": "ent.artifact.x-ea4ebda3",
+  "type": "artifact",
+  "name": "平山印",
+  "aliases": [],
+  "summary": "土黄色四方小印，表面隐现金银色符文，通天灵宝仿制品，太一门所有；曾在地下拍卖会拍出天价。",
+  "attributes": {
+    "品阶": "通天灵宝仿制品",
+    "外形": "土黄色四方小印，隐现金银色符文",
+    "来历": "地下拍卖会拍出天价后落入太一门",
+    "能力": "开山裂地、平山开地、灵气庞大"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "通天灵宝仿制品",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 949
+      },
+      {
+        "value": "通天灵宝",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "外形": [
+      {
+        "value": "土黄色四方小印，隐现金银色符文",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "土黄色小印,表面浮现变化的金银色微型法阵",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "来历": [
+      {
+        "value": "地下拍卖会拍出天价后落入太一门",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "三皇观炼制",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "叶家仿造掌天印炼制",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "能力": [
+      {
+        "value": "开山裂地",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "平山开地",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "灵气庞大",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "dated": false,
+      "seq": 949
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "dated": false,
+      "seq": 1057
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "dated": false,
+      "seq": 1057
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+  ],
+  "updatedAt": "2026-06-16T02:36:43.741Z"
+}

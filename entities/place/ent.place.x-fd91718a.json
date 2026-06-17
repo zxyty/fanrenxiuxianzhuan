@@ -1,0 +1,148 @@
+{
+  "id": "ent.place.x-fd91718a",
+  "type": "place",
+  "name": "昆吾殿",
+  "aliases": [
+    "昆吾殿入口",
+    "昆吾殿斗兽场",
+    "昆吾殿宫殿",
+    "昆吾殿堂",
+    "大殿",
+    "昆吾殿后半截",
+    "议事堂",
+    "昆吾殿后半部",
+    "殿",
+    "宫殿大殿"
+  ],
+  "summary": "藏本命牌之殿，设有专克三妖的禁制。",
+  "attributes": {
+    "守护": "克制妖物的禁制、石林禁制大阵、光幕雷击禁制、山门万斤压身禁制、金磁灵木金磁重光禁制、北极元光、金磁灵木、北极元光、昆吾三老神念禁制",
+    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿",
+    "危险度": "极高（多重禁制）"
+  },
+  "observations": {
+    "守护": [
+      {
+        "value": "克制妖物的禁制",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "石林禁制大阵",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "光幕雷击禁制",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "山门万斤压身禁制",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "金磁灵木金磁重光禁制",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "北极元光",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "金磁灵木",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "北极元光、昆吾三老神念禁制",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "类型": [
+      {
+        "value": "殿宇",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "古殿/秘境",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "上古殿堂",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "殿堂",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "藏宝大殿",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "上古秘殿",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      },
+      {
+        "value": "宫殿",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "大殿",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（多重禁制）",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.121Z"
+}

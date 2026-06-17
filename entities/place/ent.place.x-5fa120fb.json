@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-5fa120fb",
+  "type": "place",
+  "name": "内府药园",
+  "aliases": [],
+  "summary": "韩立在洞府内另辟的隐秘小药园，顶部开隐秘小孔引日光、供小瓶吸纳灵气，处于大阵笼罩内；外面的大药园则作掩护。",
+  "attributes": {
+    "类型": "隐秘药园",
+    "守护": "处于大阵笼罩之内"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "隐秘药园",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "守护": [
+      {
+        "value": "处于大阵笼罩之内",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan"
+  ],
+  "updatedAt": "2026-06-14T07:18:30.744Z"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ent.technique.x-2f75757b",
+  "type": "technique",
+  "name": "惊蛰十二决",
+  "aliases": [
+    "鲲鹏变",
+    "飞灵族变身秘术",
+    "惊蛰十二决的鲲鹏变"
+  ],
+  "summary": "出自飞灵族的变身秘术，韩立催动其鲲鹏变可化青色大鹏、恢复法力且不惧鬼雾夺力。",
+  "attributes": {
+    "出处": "飞灵族",
+    "效果": "化身青色大鹏/鲲鹏、黑雾中不失法力",
+    "外显异象": "青光一闪化为青色大鹏"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "效果": [
+      {
+        "value": "化身青色大鹏/鲲鹏",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "黑雾中不失法力",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "青光一闪化为青色大鹏",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1501,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.399Z"
+}

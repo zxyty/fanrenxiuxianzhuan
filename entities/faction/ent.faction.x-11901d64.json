@@ -1,0 +1,51 @@
+{
+  "id": "ent.faction.x-11901d64",
+  "type": "faction",
+  "name": "皇族叶家",
+  "aliases": [
+    "大晋皇族",
+    "皇室叶家"
+  ],
+  "summary": "大晋皇族本姓叶，号称修仙界第一世家，实为佛道儒等几大势力妥协下的牺牲品，密谋夺取通天灵宝以自保。",
+  "attributes": {
+    "据点": "大晋",
+    "理念": "夺通天灵宝以摆脱各大势力夹持"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "理念": [
+      {
+        "value": "夺通天灵宝以摆脱各大势力夹持",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu"
+  ],
+  "updatedAt": "2026-06-16T01:21:22.359Z"
+}

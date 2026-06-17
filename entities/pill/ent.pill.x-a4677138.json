@@ -1,0 +1,73 @@
+{
+  "id": "ent.pill.x-a4677138",
+  "type": "pill",
+  "name": "缠香丝",
+  "aliases": [],
+  "summary": "一种配制毒药：中毒武人妄动真气则血液逆流，久则需每日服对症解药抑制，否则骨骼异变萎缩；毒入骨髓无法根除，唯下毒者能配解药。",
+  "attributes": {
+    "功效": "致命缓毒，制人于股掌",
+    "炼制者": "韩立（依墨大夫旧药方配制）",
+    "副作用": "妄动真气血液逆流、久则骨骼异变全身萎缩、毒入骨髓不可根除"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "致命缓毒，制人于股掌",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立（依墨大夫旧药方配制）",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      }
+    ],
+    "副作用": [
+      {
+        "value": "妄动真气血液逆流",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      },
+      {
+        "value": "久则骨骼异变全身萎缩",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      },
+      {
+        "value": "毒入骨髓不可根除",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      }
+    ]
+  },
+  "firstSeq": 49,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+      "dated": false,
+      "seq": 49
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+      "dated": false,
+      "seq": 49
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+      "dated": false,
+      "seq": 49
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch49-54-mo-dafu-duoshe",
+    "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu"
+  ],
+  "updatedAt": "2026-06-14T02:39:39.117Z"
+}

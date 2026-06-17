@@ -1,0 +1,115 @@
+{
+  "id": "ent.place.x-3be5b02d",
+  "type": "place",
+  "name": "七灵岛",
+  "aliases": [
+    "七座岛屿",
+    "七灵海",
+    "七座灵岛",
+    "七灵岛魔气漩涡",
+    "七灵诸岛",
+    "七岛"
+  ],
+  "summary": "魏无涯居所所在岛屿。",
+  "attributes": {
+    "类型": "海外灵脉岛屿、海岛群、海岛、群岛",
+    "所属界面": "天南",
+    "特产": "罕有灵脉",
+    "危险度": "地下魔气极盛",
+    "守护": "轮守魔渊封印"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "海外灵脉岛屿",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "海岛群",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      },
+      {
+        "value": "群岛",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "特产": [
+      {
+        "value": "罕有灵脉",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "危险度": [
+      {
+        "value": "地下魔气极盛",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ],
+    "守护": [
+      {
+        "value": "轮守魔渊封印",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 865,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "dated": false,
+      "seq": 871
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+  ],
+  "updatedAt": "2026-06-16T06:37:19.278Z"
+}

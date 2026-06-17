@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-0d2525ac",
+  "type": "faction",
+  "name": "九仙宫",
+  "aliases": [
+    "仙宫"
+  ],
+  "summary": "大晋一方修仙势力，设宫主、统领、炼器部，行事狠辣、以血祭炼宝，类似乱星海大小势力。",
+  "attributes": {
+    "所属界面": "大晋",
+    "理念": "灭口护宝、以叛徒血祭炼宝"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "理念": [
+      {
+        "value": "灭口护宝、以叛徒血祭炼宝",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 889,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch889-894-tianlan-jinyanshi"
+  ],
+  "updatedAt": "2026-06-16T00:12:42.848Z"
+}

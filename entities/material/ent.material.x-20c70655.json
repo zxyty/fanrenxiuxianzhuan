@@ -1,0 +1,75 @@
+{
+  "id": "ent.material.x-20c70655",
+  "type": "material",
+  "name": "晶化妖丹",
+  "aliases": [
+    "晶质化妖丹"
+  ],
+  "summary": "高阶妖兽内丹历经久远岁月完全晶质化，外表神识皆难辨，含奇毒，是炼制飞针的最佳材料。",
+  "attributes": {
+    "类型": "妖丹",
+    "用途": "炼制飞针",
+    "稀有度": "极罕见"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "妖丹",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制飞针类法宝",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "炼制飞针",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极罕见",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ]
+  },
+  "firstSeq": 907,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.249Z"
+}

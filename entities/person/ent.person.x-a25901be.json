@@ -1,0 +1,134 @@
+{
+  "id": "ent.person.x-a25901be",
+  "type": "person",
+  "name": "胡月",
+  "aliases": [
+    "胡道友"
+  ],
+  "summary": "结丹期散修，外表为白衫年轻修士实则善保养的年长者，善交际；与金青同发现两颗珍珠的同道，组织此次破阵探宝。",
+  "attributes": {
+    "小阶段": "结丹",
+    "身份": "散修",
+    "外貌": "白衫年轻修士",
+    "存殁": "死亡",
+    "死因": "被玄骨所害",
+    "阵营": "散修",
+    "标志特征": "双飞刀"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白衫年轻修士",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415,
+        "note": "实为善保养的年长者"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 421
+      }
+    ],
+    "死因": [
+      {
+        "value": "被玄骨所害",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "被白骨傀儡骨手自腹部贯穿",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "双飞刀",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ]
+  },
+  "firstSeq": 415,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+      "dated": false,
+      "seq": 415
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+      "dated": false,
+      "seq": 415,
+      "note": "实为善保养的年长者"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 421
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-421-426-qixialian-yaoguanshe"
+  ],
+  "updatedAt": "2026-06-15T00:56:43.568Z"
+}

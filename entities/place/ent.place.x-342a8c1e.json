@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-342a8c1e",
+  "type": "place",
+  "name": "困龙窟",
+  "aliases": [],
+  "summary": "古剑门内的囚禁之地，白姓修士被关押于此。",
+  "attributes": {
+    "所属势力": "古剑门",
+    "类型": "囚牢"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "古剑门",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ],
+    "类型": [
+      {
+        "value": "囚牢",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ]
+  },
+  "firstSeq": 625,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+  ],
+  "updatedAt": "2026-06-14T20:12:07.458Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ent.person.x-bb589740",
+  "type": "person",
+  "name": "唐姓老者",
+  "aliases": [
+    "清瘦老者",
+    "唐兄",
+    "唐道友"
+  ],
+  "summary": "逆星盟元婴中期修士，持青镜蓝色飞剑，与海族胖头陀苦战，自爆古宝后以紫色锦帕遁逃。",
+  "attributes": {
+    "小阶段": "元婴中期",
+    "阵营": "逆星盟",
+    "外貌": "清瘦老者",
+    "存殁": "死亡",
+    "死因": "被金蛟王金枪洞穿前胸、元婴遭封印"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ],
+    "阵营": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿蓝袍、相貌清瘦",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "清瘦老者",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "死因": [
+      {
+        "value": "被金蛟王金枪洞穿前胸、元婴遭封印",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ]
+  },
+  "firstSeq": 1141,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-ch1149-jinjiao-xiongyan"
+  ],
+  "updatedAt": "2026-06-15T11:10:07.869Z"
+}

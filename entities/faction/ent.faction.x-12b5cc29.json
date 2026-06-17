@@ -1,0 +1,55 @@
+{
+  "id": "ent.faction.x-12b5cc29",
+  "type": "faction",
+  "name": "浩然阁",
+  "aliases": [],
+  "summary": "正道势力，其阁主关门弟子为潜伏古剑门的白姓修士。",
+  "attributes": {
+    "阵营": "正道盟",
+    "镇派之宝": "浩然正气决"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "正道盟",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "浩然正气决",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      }
+    ]
+  },
+  "firstSeq": 625,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+  ],
+  "updatedAt": "2026-06-15T02:43:39.777Z"
+}

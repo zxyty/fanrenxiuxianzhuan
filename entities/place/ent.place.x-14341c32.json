@@ -1,0 +1,73 @@
+{
+  "id": "ent.place.x-14341c32",
+  "type": "place",
+  "name": "大漩涡",
+  "aliases": [
+    "大旋涡",
+    "巨型漩涡",
+    "漩涡",
+    "灵源大漩涡"
+  ],
+  "summary": "无边海中喷吐灵气的巨型漩涡，实为上古封印大阵阵眼，底部镇压深不可测的无边魔气。",
+  "attributes": {
+    "类型": "灵气漩涡/魔气封印口",
+    "危险度": "极高",
+    "特产": "精纯灵气"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "封印阵眼",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      },
+      {
+        "value": "灵气漩涡/魔气封印口",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "特产": [
+      {
+        "value": "精纯灵气",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ]
+  },
+  "firstSeq": 865,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "dated": false,
+      "seq": 871
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "dated": false,
+      "seq": 871
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+  ],
+  "updatedAt": "2026-06-15T15:00:04.880Z"
+}

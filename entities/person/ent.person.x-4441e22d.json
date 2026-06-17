@@ -1,0 +1,101 @@
+{
+  "id": "ent.person.x-4441e22d",
+  "type": "person",
+  "name": "二长老",
+  "aliases": [
+    "方脸中年人",
+    "方脸老者",
+    "叶家二长老",
+    "二叔"
+  ],
+  "summary": "叶家二长老，主导笼络韩长老与数年后取宝之行的核心人物。",
+  "attributes": {
+    "性别": "男",
+    "身份": "叶家二长老、叶家长老",
+    "阵营": "叶家",
+    "外貌": "面容威严、腰缠玉带的方脸中年人",
+    "小阶段": "元婴中期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "身份": [
+      {
+        "value": "叶家二长老",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "叶家长老",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容威严、腰缠玉带的方脸中年人",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:47.003Z"
+}

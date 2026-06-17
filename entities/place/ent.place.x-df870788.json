@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-df870788",
+  "type": "place",
+  "name": "天元大陆",
+  "aliases": [],
+  "summary": "天鹏人返回的大陆，韩立尾随两月余抵达其海岸，赤融族在此伏击天鹏人。",
+  "attributes": {
+    "类型": "大陆",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "大陆",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1405,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.837Z"
+}

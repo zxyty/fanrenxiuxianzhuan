@@ -1,0 +1,123 @@
+{
+  "id": "ent.person.x-59df9d26",
+  "type": "person",
+  "name": "蓝城主",
+  "aliases": [
+    "兰某",
+    "落日城城主"
+  ],
+  "summary": "落日城城主，奉圣皇宫之命接应携重宝的灵族叛逆。",
+  "attributes": {
+    "性别": "男",
+    "身份": "城主",
+    "外貌": "白袍中年人",
+    "阵营": "人族修士",
+    "种族": "人族",
+    "小阶段": "化神级以上、化神期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "身份": [
+      {
+        "value": "落日城城主",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "城主",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白袍中年人",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "人族修士",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神级以上",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.085Z"
+}

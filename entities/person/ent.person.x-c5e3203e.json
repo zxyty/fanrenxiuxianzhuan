@@ -1,0 +1,90 @@
+{
+  "id": "ent.person.x-c5e3203e",
+  "type": "person",
+  "name": "小算盘",
+  "aliases": [
+    "万事通",
+    "金冬宝"
+  ],
+  "summary": "七玄门新弟子，自称万事通无人不识，精打细算善钻营、趋炎附势，向韩立讲述比武缘由与厉师兄事迹。",
+  "attributes": {
+    "性格": "机灵多疑、善攀附",
+    "称号": "万事通",
+    "身份": "七玄门弟子",
+    "性别": "男"
+  },
+  "observations": {
+    "性格": [
+      {
+        "value": "精打细算、善钻营、趋炎附势",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "机灵多疑、善攀附",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ],
+    "称号": [
+      {
+        "value": "万事通",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      }
+    ],
+    "身份": [
+      {
+        "value": "新弟子",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "七玄门弟子",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ]
+  },
+  "firstSeq": 13,
+  "attrProvenance": {
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+      "dated": false,
+      "seq": 19
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch13-18-yixiang-qi",
+      "dated": false,
+      "seq": 13
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+      "dated": false,
+      "seq": 19
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+      "dated": false,
+      "seq": 19
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch13-18-yixiang-qi",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan"
+  ],
+  "updatedAt": "2026-06-14T02:01:46.137Z"
+}

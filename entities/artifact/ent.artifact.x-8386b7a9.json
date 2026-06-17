@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-8386b7a9",
+  "type": "artifact",
+  "name": "蓝色葫芦",
+  "aliases": [],
+  "summary": "尤姓修士的法宝，可射出蓝色电弧，被韩立夺取。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "射蓝色电弧"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697,
+        "note": "夺自尤姓修士"
+      }
+    ],
+    "能力": [
+      {
+        "value": "射蓝色电弧",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ]
+  },
+  "firstSeq": 697,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697,
+      "note": "夺自尤姓修士"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll"
+  ],
+  "updatedAt": "2026-06-14T22:38:16.691Z"
+}

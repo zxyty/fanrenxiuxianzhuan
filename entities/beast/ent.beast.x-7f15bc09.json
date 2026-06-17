@@ -1,0 +1,97 @@
+{
+  "id": "ent.beast.x-7f15bc09",
+  "type": "beast",
+  "name": "赤蟒兽",
+  "aliases": [
+    "赤蟒",
+    "变异巨蟒",
+    "带翅飞蟒",
+    "变异蟒兽"
+  ],
+  "summary": "黑陵山脉巨蟒兽，口中无毒不喷毒雾，变异巨蟒体长逾十丈，数量远超青狼群。",
+  "attributes": {
+    "栖息地": "黑陵山脉",
+    "外形": "过丈红色巨蟒（变异者逾十丈）",
+    "种族": "蟒蛇",
+    "能力": "力大无穷、带翅飞行、黑色毒雾、生命顽强、破坏城墙"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "黑陵山脉",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "外形": [
+      {
+        "value": "过丈红色巨蟒（变异者逾十丈）",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "种族": [
+      {
+        "value": "蟒蛇",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "能力": [
+      {
+        "value": "力大无穷",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "带翅飞行",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "黑色毒雾",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "生命顽强、破坏城墙",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1273,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+  ],
+  "updatedAt": "2026-06-16T10:33:15.750Z"
+}

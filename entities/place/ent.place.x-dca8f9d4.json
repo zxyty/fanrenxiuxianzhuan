@@ -1,0 +1,76 @@
+{
+  "id": "ent.place.x-dca8f9d4",
+  "type": "place",
+  "name": "芥子空间",
+  "aliases": [
+    "须弥空间"
+  ],
+  "summary": "将空间裂缝炼制固定而成的私人空间，全大晋约十几处，天机阁这处为最早；为无灵气的死绝之地，可稳固未真正塌陷的空间裂缝。",
+  "attributes": {
+    "所属势力": "天机阁",
+    "类型": "袖珍秘境空间",
+    "危险度": "死绝之地·无灵气"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天机阁",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "类型": [
+      {
+        "value": "空间裂缝炼制成的私人空间",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "专属隐秘空间",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "袖珍秘境空间",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "危险度": [
+      {
+        "value": "死绝之地·无灵气",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ]
+  },
+  "firstSeq": 937,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+  ],
+  "updatedAt": "2026-06-16T09:47:06.160Z"
+}

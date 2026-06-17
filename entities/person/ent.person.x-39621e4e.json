@@ -1,0 +1,84 @@
+{
+  "id": "ent.person.x-39621e4e",
+  "type": "person",
+  "name": "红衣少女",
+  "aliases": [
+    "怜师妹"
+  ],
+  "summary": "约十几岁、一身红衣、眉眼隐带风情的少女，似与红拂大有关系。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "红衣少女",
+    "身份": "魔焰门门主独女",
+    "阵营": "魔道六宗"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "外貌": [
+      {
+        "value": "约十几岁、红衣、眉眼带风情",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "红衣少女",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔焰门门主独女",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-ch266-jidou"
+  ],
+  "updatedAt": "2026-06-14T08:30:26.735Z"
+}

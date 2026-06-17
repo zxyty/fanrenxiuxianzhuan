@@ -1,0 +1,85 @@
+{
+  "id": "ent.world.x-8a1664be",
+  "type": "world",
+  "name": "圣界",
+  "aliases": [
+    "圣界圣族故地"
+  ],
+  "summary": "圣族所在界面，与人界曾相通可补魔气，现通道被重新堵死。",
+  "attributes": {
+    "通道": "通往人界",
+    "特点": "上古古魔来源、遗留圣器于下界",
+    "主宰势力": "圣族"
+  },
+  "observations": {
+    "通道": [
+      {
+        "value": "通往人界",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039,
+        "note": "已被重新堵死"
+      }
+    ],
+    "特点": [
+      {
+        "value": "意图侵占/降临此界",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      },
+      {
+        "value": "魔气浓厚",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "上古古魔来源、遗留圣器于下界",
+        "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+        "seq": 847
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "古魔/圣祖",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 829,
+  "attrProvenance": {
+    "通道": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039,
+      "note": "已被重新堵死"
+    },
+    "特点": {
+      "asOf": null,
+      "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+      "dated": false,
+      "seq": 847
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.403Z"
+}

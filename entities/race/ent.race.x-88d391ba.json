@@ -1,0 +1,66 @@
+{
+  "id": "ent.race.x-88d391ba",
+  "type": "race",
+  "name": "海族",
+  "aliases": [
+    "海族妖修",
+    "化形妖兽",
+    "狻猊王族",
+    "狻猊一族",
+    "狻猊族"
+  ],
+  "summary": "外海妖族，精锐尽出突袭逆星盟与星宫，欲夺极品灵石与全岛灵矿。",
+  "attributes": {
+    "聚居地": "外海",
+    "代表人物": "金蛟王"
+  },
+  "observations": {
+    "聚居地": [
+      {
+        "value": "外海/乱星海",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "外海",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "金蛟王",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ]
+  },
+  "firstSeq": 1141,
+  "attrProvenance": {
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1155-yaoshou-zhi-luan"
+  ],
+  "updatedAt": "2026-06-15T11:28:21.052Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ent.place.x-add8e0e1",
+  "type": "place",
+  "name": "苍坤上人洞府",
+  "aliases": [
+    "苍坤秘密洞府",
+    "此洞府"
+  ],
+  "summary": "苍坤上人坐化前于慕兰草原边缘精心布置的秘密洞府，藏坠魔谷宝物，外设太妙神禁。",
+  "attributes": {
+    "类型": "洞府",
+    "守护": "上古禁制"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "洞府",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "守护": [
+      {
+        "value": "太妙神禁",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "上古禁制",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ]
+  },
+  "firstSeq": 685,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll"
+  ],
+  "updatedAt": "2026-06-14T22:38:16.546Z"
+}

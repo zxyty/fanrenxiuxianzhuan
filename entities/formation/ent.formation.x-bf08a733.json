@@ -1,0 +1,40 @@
+{
+  "id": "ent.formation.x-bf08a733",
+  "type": "formation",
+  "name": "上元灭光阵",
+  "aliases": [],
+  "summary": "阗天城护城大阵，当年助九国修士大败法士联军、阵亡数位元婴。",
+  "attributes": {
+    "效果": "护城禁制"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "护城大阵，曾大败法士联军",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "护城禁制",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 667,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.438Z"
+}

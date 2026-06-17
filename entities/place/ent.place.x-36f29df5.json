@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-36f29df5",
+  "type": "place",
+  "name": "万岭山脉",
+  "aliases": [
+    "坠魔之地",
+    "万灵山脉",
+    "万领山脉"
+  ],
+  "summary": "昌州盆地中心连绵百万里的山脉，灵兽灵药丰富但常年瘴气封锁，每约五十年瘴气散去一次。",
+  "attributes": {
+    "危险度": "极高（剧毒瘴气、空间裂缝）",
+    "特产": "灵兽、珍稀灵药、灵药",
+    "所属界面": "天南",
+    "类型": "山脉"
+  },
+  "observations": {
+    "危险度": [
+      {
+        "value": "极高（剧毒瘴气、空间裂缝）",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "特产": [
+      {
+        "value": "灵兽",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "珍稀灵药",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "类型": [
+      {
+        "value": "山脉",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ]
+  },
+  "firstSeq": 793,
+  "attrProvenance": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+  ],
+  "updatedAt": "2026-06-15T11:57:51.571Z"
+}

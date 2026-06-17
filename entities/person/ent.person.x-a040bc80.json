@@ -1,0 +1,98 @@
+{
+  "id": "ent.person.x-a040bc80",
+  "type": "person",
+  "name": "奉志",
+  "aliases": [
+    "奉志老者"
+  ],
+  "summary": "化羽门筑基期老者，六十余岁面容儒雅，被唤出回答韩立关于此地原住者之问。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "筑基中期",
+    "身份": "化羽门弟子",
+    "外貌": "六十余岁儒雅老者",
+    "阵营": "化羽门"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "筑基中期",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "身份": [
+      {
+        "value": "化羽门弟子",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "外貌": [
+      {
+        "value": "六十余岁儒雅老者",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "阵营": [
+      {
+        "value": "化羽门",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ]
+  },
+  "firstSeq": 1159,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1167-1172-return-luoyunzong"
+  ],
+  "updatedAt": "2026-06-15T11:44:31.786Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ent.material.x-f0a16b7e",
+  "type": "material",
+  "name": "天凤之血",
+  "aliases": [
+    "真灵之血",
+    "真凤之血",
+    "真凤血脉"
+  ],
+  "summary": "号称万禽之王的真灵之血，叶颖身具，为筱虹、李道友所图。",
+  "attributes": {
+    "类型": "真灵之血",
+    "稀有度": "极稀有",
+    "用途": "成就天凤血脉/合体"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "真灵血脉",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "真灵之血",
+        "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "用途": [
+      {
+        "value": "成就天凤血脉/合体",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ]
+  },
+  "firstSeq": 1351,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "dated": false,
+      "seq": 1381
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+      "dated": false,
+      "seq": 1375
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+  ],
+  "updatedAt": "2026-06-16T14:51:31.344Z"
+}

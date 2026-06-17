@@ -1,0 +1,121 @@
+{
+  "id": "ent.material.x-64455802",
+  "type": "material",
+  "name": "龙鳞果",
+  "aliases": [
+    "龙鳞果树果实",
+    "龙鳞果树",
+    "龙鳞灵果"
+  ],
+  "summary": "千百年来流传的仙家之果，传说服之可脱胎换骨、白日飞升；被韩立用作解释修炼速度的编造奇遇借口（实则无人真食用过）。",
+  "attributes": {
+    "类型": "灵果/灵树",
+    "用途": "强化肉身",
+    "稀有度": "稀有",
+    "产地": "韩立曾移植于坠魔谷，于五龙海催熟"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "传说仙果",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "灵果",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "灵果/灵树",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "用途": [
+      {
+        "value": "韩立编造的修炼奇遇借口",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169,
+        "note": "传说之物，真伪难辨"
+      },
+      {
+        "value": "蛟龙族服食、长期服可改造肉身近真龙之身",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "淬体（配合淬骨决、明王决）",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      },
+      {
+        "value": "强化肉身",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀少",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "产地": [
+      {
+        "value": "荒岛海底",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "韩立曾移植于坠魔谷，于五龙海催熟",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ]
+  },
+  "firstSeq": 169,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "dated": false,
+      "seq": 1255
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1401-black-mist-sea"
+  ],
+  "updatedAt": "2026-06-16T15:24:46.608Z"
+}

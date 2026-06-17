@@ -1,0 +1,71 @@
+{
+  "id": "ent.place.x-3be59bf5",
+  "type": "place",
+  "name": "天罗国",
+  "aliases": [],
+  "summary": "魔道六宗所在的超级修仙势力之国，远比越国七派强大。",
+  "attributes": {
+    "类型": "国度",
+    "所属势力": "魔道六宗",
+    "所属界面": "人界天南"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "国家",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "国度",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:49.505Z"
+}

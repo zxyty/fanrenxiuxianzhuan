@@ -1,0 +1,78 @@
+{
+  "id": "ent.person.x-fad83c51",
+  "type": "person",
+  "name": "天妙灵皇",
+  "aliases": [
+    "灵皇",
+    "三皇之一",
+    "人族三皇·灵皇"
+  ],
+  "summary": "人族三皇之一，简称『灵皇』，统治天灵境，主城天灵城建于直通仙界的擎天灵树上。",
+  "attributes": {
+    "称号": "三皇之一·灵皇",
+    "身份": "灵界三皇之一",
+    "种族": "人族"
+  },
+  "observations": {
+    "称号": [
+      {
+        "value": "灵皇",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "三皇之一·灵皇",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "身份": [
+      {
+        "value": "天灵境统治者",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "灵界三皇之一",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+  ],
+  "updatedAt": "2026-06-16T15:50:19.151Z"
+}

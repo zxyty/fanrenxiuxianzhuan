@@ -1,0 +1,115 @@
+{
+  "id": "ent.artifact.x-092ddd13",
+  "type": "artifact",
+  "name": "红线遁光针",
+  "aliases": [
+    "飞针法器",
+    "阴器",
+    "遁光针",
+    "蓝幽幽长针",
+    "蓝针"
+  ],
+  "summary": "十三枚一套的飞针法器，通体火红寸许长；须同时祭出全部十三针方能驱动，对神识要求极高，可幻化红色丝网。",
+  "attributes": {
+    "品阶": "顶阶",
+    "持有者": "韩立",
+    "能力": "须同时祭出十三针方可驱动、化为红线丝网、体小速快宜偷袭、射红线穿击、锐利无比，可洞穿坚硬兽皮",
+    "外形": "飞针(十三枚)"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "罕见飞针法器(阴器)",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "顶阶",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "能力": [
+      {
+        "value": "须同时祭出十三针方可驱动",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "化为红线丝网",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "体小速快宜偷袭",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "射红线穿击",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "锐利无比，可洞穿坚硬兽皮",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "外形": [
+      {
+        "value": "十三枚寸许通体火红细针，隐有荧光",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "飞针(十三枚)",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+  ],
+  "updatedAt": "2026-06-14T19:22:19.147Z"
+}

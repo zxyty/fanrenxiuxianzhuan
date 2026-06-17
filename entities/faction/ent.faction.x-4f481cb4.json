@@ -1,0 +1,133 @@
+{
+  "id": "ent.faction.x-4f481cb4",
+  "type": "faction",
+  "name": "九国盟",
+  "aliases": [
+    "九国联盟",
+    "九国",
+    "九国盟之地",
+    "九国修士",
+    "九国盟执法修士",
+    "九国盟执法使",
+    "奔盟",
+    "本盟",
+    "贵盟"
+  ],
+  "summary": "天南南方九个国家为对抗慕兰族法士入侵而结成的紧密联盟，惯用诡计。",
+  "attributes": {
+    "据点": "黄龙山",
+    "所属界面": "天南",
+    "阵营": "天南、天南正盟、天南正道、天南正方",
+    "理念": "联防抗击慕兰法士"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "阗天城",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "黄龙山",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "天南正盟",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "天南正道",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "天南正方",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "理念": [
+      {
+        "value": "抵御慕兰入侵",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "联防抗击慕兰法士",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "dated": false,
+      "seq": 733
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "dated": false,
+      "seq": 679
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "dated": false,
+      "seq": 703
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-1219-1224-author-note-vote-request"
+  ],
+  "updatedAt": "2026-06-16T08:46:38.098Z"
+}

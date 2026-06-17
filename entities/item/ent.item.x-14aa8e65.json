@@ -1,0 +1,50 @@
+{
+  "id": "ent.item.x-14aa8e65",
+  "type": "item",
+  "name": "天南手札",
+  "aliases": [
+    "《天南手札》"
+  ],
+  "summary": "各大派皆藏的整套典籍，介绍本地区各国人情风俗奇闻，第二卷第四篇载有魔道六宗（含鬼灵门）。",
+  "attributes": {
+    "类型": "典籍",
+    "用途": "记载地区国情与门派"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "典籍",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "用途": [
+      {
+        "value": "记载地区国情与门派",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng"
+  ],
+  "updatedAt": "2026-06-14T07:31:27.731Z"
+}

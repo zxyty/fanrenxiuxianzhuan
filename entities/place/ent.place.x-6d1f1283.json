@@ -1,0 +1,95 @@
+{
+  "id": "ent.place.x-6d1f1283",
+  "type": "place",
+  "name": "墨府",
+  "aliases": [
+    "墨府后宅",
+    "墨家"
+  ],
+  "summary": "嘉元城南陵街的数亩巨宅，惊蛟会总舵，戒备森严、后院种有药草。",
+  "attributes": {
+    "类型": "宅邸",
+    "守护": "明岗暗哨森严",
+    "危险度": "戒备森严、暗哨众多",
+    "所属势力": "惊蛟会"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "宅院/总舵",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      },
+      {
+        "value": "家宅",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "宅邸",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "守护": [
+      {
+        "value": "明岗暗哨森严",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "危险度": [
+      {
+        "value": "戒备森严、暗哨众多",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "惊蛟会",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ]
+  },
+  "firstSeq": 103,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi"
+  ],
+  "updatedAt": "2026-06-14T11:09:43.144Z"
+}

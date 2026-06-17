@@ -1,0 +1,60 @@
+{
+  "id": "ent.artifact.x-3a05c7b4",
+  "type": "artifact",
+  "name": "无名火鼎",
+  "aliases": [
+    "巨型火球"
+  ],
+  "summary": "韩立法宝，可放出上千只火鸦化为赤色火海。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "放火鸦、化火海、火球"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "能力": [
+      {
+        "value": "放火鸦",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "化火海",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "火球",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ]
+  },
+  "firstSeq": 1111,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.130Z"
+}

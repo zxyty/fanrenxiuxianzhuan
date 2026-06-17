@@ -1,0 +1,105 @@
+{
+  "id": "ent.faction.x-c32def17",
+  "type": "faction",
+  "name": "化仙宗",
+  "aliases": [
+    "化仙宗一门",
+    "南疆化仙宗"
+  ],
+  "summary": "木夫人、秀丽女子、向老所属宗门，八灵尺为其先人遗宝。",
+  "attributes": {
+    "镇派之宝": "八灵尺(先人遗宝)、化龙玺、日月梭、四象尺",
+    "阵营": "人界修士",
+    "据点": "南疆",
+    "理念": "半隐、守看昆吾山封印"
+  },
+  "observations": {
+    "镇派之宝": [
+      {
+        "value": "八灵尺(先人遗宝)",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "化龙玺",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "日月梭",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "四象尺",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人界修士",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "据点": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "理念": [
+      {
+        "value": "诅咒阴毒之术",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "半隐、守看昆吾山封印",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+  ],
+  "updatedAt": "2026-06-16T04:59:45.009Z"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "ent.faction.x-f72fe3d8",
+  "type": "faction",
+  "name": "顾家",
+  "aliases": [
+    "顾家庄"
+  ],
+  "summary": "魁星岛上的家族势力，据点为四周设阵法禁制的顾家庄，受十户人家所托请仙师出战。",
+  "attributes": {
+    "据点": "魁星岛顾家庄、东石城、顾家庄",
+    "阵营": "凡人商家"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "魁星岛顾家庄",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "东石城",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "顾家庄",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "阵营": [
+      {
+        "value": "凡人商家",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ]
+  },
+  "firstSeq": 367,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-1161-kunpeng-zhi-yu"
+  ],
+  "updatedAt": "2026-06-15T11:41:39.703Z"
+}

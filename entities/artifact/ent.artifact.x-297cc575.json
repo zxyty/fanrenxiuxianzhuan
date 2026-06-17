@@ -1,0 +1,87 @@
+{
+  "id": "ent.artifact.x-297cc575",
+  "type": "artifact",
+  "name": "梵圣真片",
+  "aliases": [
+    "梵圣真片残片"
+  ],
+  "summary": "海族代代相传的妖族传承圣物之一，记载上古荒古密术三梵圣功，原残缺不全且数枚四散；原在被杀的狻猊兽身上被人类夺去。",
+  "attributes": {
+    "来历": "古魔界魔功（最后施展神通法决）",
+    "能力": "记载三梵圣功",
+    "外形": "铜片",
+    "持有者": "韩立"
+  },
+  "observations": {
+    "来历": [
+      {
+        "value": "海族妖族传承圣物",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "古魔界魔功（最后施展神通法决）",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "能力": [
+      {
+        "value": "记载三梵圣功",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      }
+    ],
+    "外形": [
+      {
+        "value": "铜片",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ]
+  },
+  "firstSeq": 541,
+  "attrProvenance": {
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "dated": false,
+      "seq": 541
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "dated": false,
+      "seq": 541
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fan-ren-541-bi-yan-jiu",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales"
+  ],
+  "updatedAt": "2026-06-16T12:56:39.942Z"
+}

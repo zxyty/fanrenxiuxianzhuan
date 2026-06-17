@@ -1,0 +1,89 @@
+{
+  "id": "ent.person.x-c215617b",
+  "type": "person",
+  "name": "毕姓矮子",
+  "aliases": [
+    "毕兄"
+  ],
+  "summary": "慕兰一方法士，身高不到四尺，负责巨兽配合。",
+  "attributes": {
+    "种族": "慕兰",
+    "阵营": "慕兰",
+    "外貌": "矮子",
+    "身份": "慕兰神师"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "阵营": [
+      {
+        "value": "慕兰法士",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      },
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身高不到四尺",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      },
+      {
+        "value": "矮子",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "身份": [
+      {
+        "value": "慕兰神师",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ]
+  },
+  "firstSeq": 757,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-763-768-border-war-gamble-battle"
+  ],
+  "updatedAt": "2026-06-15T03:34:19.243Z"
+}

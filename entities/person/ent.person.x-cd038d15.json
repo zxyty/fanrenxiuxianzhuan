@@ -1,0 +1,72 @@
+{
+  "id": "ent.person.x-cd038d15",
+  "type": "person",
+  "name": "华伯父",
+  "aliases": [
+    "华老哥",
+    "华姓老者",
+    "华大夫"
+  ],
+  "summary": "越京两大神医之一,与御医叶大夫齐名;赠韩立护心丸防身。",
+  "attributes": {
+    "身份": "世俗权贵",
+    "称号": "越京两大神医之一",
+    "种族": "凡人"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "越京神医",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "世俗权贵",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ],
+    "称号": [
+      {
+        "value": "越京两大神医之一",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia"
+  ],
+  "updatedAt": "2026-06-14T09:14:36.135Z"
+}

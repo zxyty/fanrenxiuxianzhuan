@@ -1,0 +1,97 @@
+{
+  "id": "ent.person.x-759c7ae0",
+  "type": "person",
+  "name": "秦晓",
+  "aliases": [
+    "秦姐姐",
+    "秦姑娘",
+    "秦师妹"
+  ],
+  "summary": "夜绿族修士，与韩立同行，以木傀儡、碧绿绿焰护体及绿色火剑应战冰蜘蛛群。",
+  "attributes": {
+    "种族": "天鹏族",
+    "性别": "女",
+    "阵营": "韩立一行、飞灵族",
+    "身份": "圣子"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "夜绿族",
+        "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一行",
+        "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      }
+    ],
+    "身份": [
+      {
+        "value": "飞灵族圣子",
+        "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "圣子",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ]
+  },
+  "firstSeq": 1441,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+      "dated": false,
+      "seq": 1441
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "dated": false,
+      "seq": 1447
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1457-taodun-didi-escape"
+  ],
+  "updatedAt": "2026-06-16T17:08:35.934Z"
+}

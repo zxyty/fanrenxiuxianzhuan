@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-1f89cb71",
+  "type": "person",
+  "name": "姚蔓",
+  "aliases": [
+    "姚师叔"
+  ],
+  "summary": "小极宫巡查执事，奉命赴玄玉洞向寒骊大长老求援。",
+  "attributes": {
+    "性别": "女",
+    "身份": "小极宫巡查执事"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "身份": [
+      {
+        "value": "小极宫巡查执事",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ]
+  },
+  "firstSeq": 1105,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+  ],
+  "updatedAt": "2026-06-16T06:12:07.055Z"
+}

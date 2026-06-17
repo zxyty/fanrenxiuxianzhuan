@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-9ad53668",
+  "type": "place",
+  "name": "真魔塔",
+  "aliases": [],
+  "summary": "多层凶塔，下层囚禁凶物，塔底疑藏通天灵宝；第七层鬼物难缠、第八层需传送阵。",
+  "attributes": {
+    "类型": "秘塔",
+    "危险度": "极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "秘塔",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.233Z"
+}

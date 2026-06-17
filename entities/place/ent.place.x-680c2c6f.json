@@ -1,0 +1,71 @@
+{
+  "id": "ent.place.x-680c2c6f",
+  "type": "place",
+  "name": "星尘阁",
+  "aliases": [
+    "天星宗星尘阁"
+  ],
+  "summary": "天星宗自家店铺，坊市中心二三十丈高巨阁，售阵旗阵盘等，但只面向小家族散修，精品不外流。",
+  "attributes": {
+    "所属势力": "天星宗",
+    "类型": "坊市商铺/九层楼阁",
+    "守护": "红衣小厮、丫鬟、傀儡人"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天星宗",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "类型": [
+      {
+        "value": "店铺",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "坊市商铺/九层楼阁",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "守护": [
+      {
+        "value": "红衣小厮、丫鬟、傀儡人",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi"
+  ],
+  "updatedAt": "2026-06-14T12:17:41.297Z"
+}

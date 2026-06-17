@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-accec24c",
+  "type": "person",
+  "name": "艳丽男子",
+  "aliases": [
+    "紫衣男修",
+    "艳丽紫衣男修"
+  ],
+  "summary": "容貌艳丽、极度中性化的紫衣男修，举止协调得体，董萱儿主动纠缠，他毫不客气接纳。",
+  "attributes": {
+    "性别": "男",
+    "外貌": "容貌艳丽、中性化",
+    "标志特征": "中性化绝美容貌"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "外貌": [
+      {
+        "value": "容貌艳丽、中性化",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253,
+        "note": "身穿紫衣男子服饰"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "中性化绝美容貌",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253,
+      "note": "身穿紫衣男子服饰"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.340Z"
+}

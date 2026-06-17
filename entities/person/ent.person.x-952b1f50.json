@@ -1,0 +1,68 @@
+{
+  "id": "ent.person.x-952b1f50",
+  "type": "person",
+  "name": "天奎狼王",
+  "aliases": [],
+  "summary": "灵界银月狼族之王，玲珑之夫。",
+  "attributes": {
+    "种族": "狼族",
+    "称号": "天奎狼王",
+    "身份": "七大妖王之一"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "银月狼族",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "狼族",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "称号": [
+      {
+        "value": "天奎狼王",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "身份": [
+      {
+        "value": "七大妖王之一",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ]
+  },
+  "firstSeq": 1063,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+  ],
+  "updatedAt": "2026-06-16T11:47:43.482Z"
+}

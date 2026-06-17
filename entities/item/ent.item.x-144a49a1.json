@@ -1,0 +1,79 @@
+{
+  "id": "ent.item.x-144a49a1",
+  "type": "item",
+  "name": "连珠弩",
+  "aliases": [
+    "军用连珠弩",
+    "加强型军用弩",
+    "连弩",
+    "连珠硬弩",
+    "军用弩"
+  ],
+  "summary": "野狼帮伏击所用的大批军用加强型连珠弩，齐射密集，是全歼谈判队伍的关键。",
+  "attributes": {
+    "类型": "军用远程兵器",
+    "用途": "连发杀伤、破关",
+    "产地": "军中"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "远程武器",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      },
+      {
+        "value": "军用远程兵器",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "用途": [
+      {
+        "value": "齐射伏击",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      },
+      {
+        "value": "连发杀伤、破关",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "产地": [
+      {
+        "value": "军中",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 73,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.579Z"
+}

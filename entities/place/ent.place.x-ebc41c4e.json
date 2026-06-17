@@ -1,0 +1,58 @@
+{
+  "id": "ent.place.x-ebc41c4e",
+  "type": "place",
+  "name": "天泉峰",
+  "aliases": [
+    "洗心殿"
+  ],
+  "summary": "落云宗六奇峰之一，韩立与络腮胡子大汉被分至此为外事弟子。",
+  "attributes": {
+    "所属势力": "落云宗",
+    "类型": "山峰、大殿"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "类型": [
+      {
+        "value": "山峰",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "大殿",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.694Z"
+}

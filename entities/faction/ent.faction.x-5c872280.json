@@ -1,0 +1,171 @@
+{
+  "id": "ent.faction.x-5c872280",
+  "type": "faction",
+  "name": "千竹教",
+  "aliases": [],
+  "summary": "极西之地以傀儡机关术创派立宗的宗派，将该道术发挥至极致。",
+  "attributes": {
+    "据点": "极西之地、千竹教总坛（他国）、极西、乱星海雾海",
+    "理念": "专研傀儡机关术、傀儡之术、傀儡术、傀儡术起家",
+    "掌门": "金教主、金南天、金大教主、大衍神君、石坚",
+    "镇派之宝": "傀儡术",
+    "阵营": "韩立之敌、敌对、魔道"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "极西之地",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "千竹教总坛（他国）",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "极西",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      },
+      {
+        "value": "乱星海雾海",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ],
+    "理念": [
+      {
+        "value": "专研傀儡机关术",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "傀儡之术",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "傀儡术",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      },
+      {
+        "value": "傀儡术起家",
+        "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+        "seq": 787
+      }
+    ],
+    "掌门": [
+      {
+        "value": "金教主",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "金南天",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "金大教主",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "大衍神君",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "石坚",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "大衍决",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "傀儡术",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立之敌",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229,
+        "note": "本章因林师兄结怨"
+      },
+      {
+        "value": "敌对",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 223,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229,
+      "note": "本章因林师兄结怨"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+  ],
+  "updatedAt": "2026-06-16T09:55:48.386Z"
+}

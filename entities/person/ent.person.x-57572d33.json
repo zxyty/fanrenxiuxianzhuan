@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-57572d33",
+  "type": "person",
+  "name": "张仙师",
+  "aliases": [],
+  "summary": "助阵野狼帮的修仙者，口气傲慢老气，蔑称七玄门守军为凡人，催贾天龙速攻。",
+  "attributes": {
+    "身份": "野狼帮请来的修仙者高手",
+    "性格": "傲慢、倨傲"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "野狼帮请来的修仙者高手",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79,
+        "note": "助阵"
+      }
+    ],
+    "性格": [
+      {
+        "value": "傲慢、倨傲",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79,
+      "note": "助阵"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.571Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-167f86f2",
+  "type": "place",
+  "name": "封魔塔",
+  "aliases": [],
+  "summary": "昆吾山内塔，第九层藏控制全山禁制的枢纽阵眼，入口疑在被大阵守护的宫殿内。",
+  "attributes": {
+    "类型": "封印塔",
+    "守护": "第九层枢纽阵眼"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "封印塔",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "守护": [
+      {
+        "value": "第九层枢纽阵眼",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ]
+  },
+  "firstSeq": 1033,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+  ],
+  "updatedAt": "2026-06-15T07:10:25.830Z"
+}

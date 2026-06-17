@@ -1,0 +1,56 @@
+{
+  "id": "ent.artifact.x-e2d3a7f6",
+  "type": "artifact",
+  "name": "黑髓飞刀",
+  "aliases": [
+    "黑髓短刃"
+  ],
+  "summary": "韩立的飞刀法宝，此前被元刹圣祖分神收走，本章由珑梦掷还。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "遁速极快、体形狂涨"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1063
+      }
+    ],
+    "能力": [
+      {
+        "value": "遁速极快",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "体形狂涨",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ]
+  },
+  "firstSeq": 1063,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1063
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.070Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "ent.person.x-92c1cb27",
+  "type": "person",
+  "name": "霓裳仙子",
+  "aliases": [
+    "霓裳",
+    "霓裳丫头",
+    "掩月宗带队少妇",
+    "霓裳师叔"
+  ],
+  "summary": "掩月宗此次试炼带队者，少妇打扮、风情万种的迷人女子。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "少妇打扮、风情万种、迷人",
+    "身份": "掩月宗师叔",
+    "阵营": "掩月宗",
+    "小阶段": "结丹期",
+    "称号": "霓裳仙子"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "外貌": [
+      {
+        "value": "少妇打扮、风情万种、迷人",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "身份": [
+      {
+        "value": "掩月宗此次带队",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "掩月宗师叔",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "阵营": [
+      {
+        "value": "掩月宗",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "称号": [
+      {
+        "value": "霓裳仙子",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ]
+  },
+  "firstSeq": 175,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit"
+  ],
+  "updatedAt": "2026-06-14T08:12:27.811Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ent.place.x-30e9c96d",
+  "type": "place",
+  "name": "藏经阁",
+  "aliases": [
+    "小极宫藏经阁",
+    "藏书阁"
+  ],
+  "summary": "小极宫藏经阁，共七层、各层结界相隔、玉简有禁制不能复制只能默记。",
+  "attributes": {
+    "所属势力": "小极宫",
+    "类型": "藏书阁"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "天符门",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "类型": [
+      {
+        "value": "藏书阁",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ]
+  },
+  "firstSeq": 955,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+  ],
+  "updatedAt": "2026-06-16T02:36:43.774Z"
+}

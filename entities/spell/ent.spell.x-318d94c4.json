@@ -1,0 +1,70 @@
+{
+  "id": "ent.spell.x-318d94c4",
+  "type": "spell",
+  "name": "蓝色寒焰",
+  "aliases": [
+    "寒属性神通"
+  ],
+  "summary": "韩立施展的冰属性蓝焰，可瞬间凝结元婴修士法体，远非普通冰属性功法可比，被视为克制火蟾之物。",
+  "attributes": {
+    "类型": "寒属性神通",
+    "威力": "瞬间凝结元婴法体",
+    "适用境界": "元婴期"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "冰属性焰",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "寒属性神通",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "威力": [
+      {
+        "value": "瞬间凝结元婴法体",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ]
+  },
+  "firstSeq": 721,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+  ],
+  "updatedAt": "2026-06-15T06:28:36.532Z"
+}

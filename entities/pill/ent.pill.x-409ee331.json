@@ -1,0 +1,98 @@
+{
+  "id": "ent.pill.x-409ee331",
+  "type": "pill",
+  "name": "绛云丹",
+  "aliases": [],
+  "summary": "玉简所载上古精进修为灵丹，蛮荒时期亦难得一见；主料含一种无法移植的上古火红小草，故只能在灵缈园内炼成。",
+  "attributes": {
+    "品阶": "上古灵丹",
+    "功效": "精进修为、压缩修炼时间数倍、助修为、对化神期亦有助力",
+    "适用境界": "元婴期",
+    "副作用": "元婴初期服用浪费药性且经脉膨胀撕裂"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上古灵丹",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "功效": [
+      {
+        "value": "精进修为",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "压缩修炼时间数倍",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "助修为",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      },
+      {
+        "value": "对化神期亦有助力",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "副作用": [
+      {
+        "value": "元婴初期服用浪费药性且经脉膨胀撕裂",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ]
+  },
+  "firstSeq": 853,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+  ],
+  "updatedAt": "2026-06-16T09:47:06.186Z"
+}

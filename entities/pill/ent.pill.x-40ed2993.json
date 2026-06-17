@@ -1,0 +1,83 @@
+{
+  "id": "ent.pill.x-40ed2993",
+  "type": "pill",
+  "name": "修髓丹",
+  "aliases": [],
+  "summary": "通体猩红、散发血腥的救命丹药，服后瞬间回复法力与伤势。",
+  "attributes": {
+    "功效": "瞬间回复法力、急速愈合伤痕",
+    "适用境界": "魔道修士",
+    "炼制者": "修特定魔功并自损修为者",
+    "副作用": "对他人是致命毒丸"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "瞬间回复法力",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "急速愈合伤痕",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "魔道修士",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "修特定魔功并自损修为者",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "副作用": [
+      {
+        "value": "对他人是致命毒丸",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325,
+        "note": "只能自服"
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325,
+      "note": "只能自服"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.384Z"
+}

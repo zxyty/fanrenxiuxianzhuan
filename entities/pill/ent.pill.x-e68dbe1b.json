@@ -1,0 +1,48 @@
+{
+  "id": "ent.pill.x-e68dbe1b",
+  "type": "pill",
+  "name": "天灵丹",
+  "aliases": [],
+  "summary": "黄脸修士秘制丹药，可补元气，盛于小瓶赠予凌玉灵。",
+  "attributes": {
+    "功效": "补元气/疗内伤",
+    "炼制者": "黄脸修士"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "补元气/疗内伤",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "黄脸修士",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ]
+  },
+  "firstSeq": 499,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-499-504-nanming-island"
+  ],
+  "updatedAt": "2026-06-14T17:26:54.227Z"
+}

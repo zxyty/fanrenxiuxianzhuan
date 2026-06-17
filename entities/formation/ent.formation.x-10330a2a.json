@@ -1,0 +1,53 @@
+{
+  "id": "ent.formation.x-10330a2a",
+  "type": "formation",
+  "name": "青木周天大阵",
+  "aliases": [],
+  "summary": "木青在本体附近布下的护阵，可扭曲空间幻化寻常景象掩藏，纵六足这等存在闯入也能困住一时半刻。",
+  "attributes": {
+    "效果": "困敌一时半刻、扭曲空间幻化景象以隐藏本体",
+    "布置者": "木青"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "困敌一时半刻",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "扭曲空间幻化景象以隐藏本体",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "布置者": [
+      {
+        "value": "木青",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1501,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.392Z"
+}

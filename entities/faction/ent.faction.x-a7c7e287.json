@@ -1,0 +1,53 @@
+{
+  "id": "ent.faction.x-a7c7e287",
+  "type": "faction",
+  "name": "突兀人圣殿",
+  "aliases": [],
+  "summary": "突兀人势力，布天罗地网搜捕韩立，欲夺其催育噬金虫之法，将动用圣器召圣兽分身搜人。",
+  "attributes": {
+    "阵营": "突兀人",
+    "镇派之宝": "圣器、圣兽"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "圣器",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "圣兽",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+  ],
+  "updatedAt": "2026-06-15T23:54:19.685Z"
+}

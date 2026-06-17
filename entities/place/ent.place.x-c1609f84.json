@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-c1609f84",
+  "type": "place",
+  "name": "春香酒楼",
+  "aliases": [],
+  "summary": "青牛镇内属七玄门所有的酒楼，三叔（韩胖子）任掌柜。",
+  "attributes": {
+    "所属势力": "七玄门",
+    "类型": "酒楼"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "类型": [
+      {
+        "value": "酒楼",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:51.591Z"
+}

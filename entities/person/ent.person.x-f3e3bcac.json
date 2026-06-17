@@ -1,0 +1,48 @@
+{
+  "id": "ent.person.x-f3e3bcac",
+  "type": "person",
+  "name": "华南",
+  "aliases": [],
+  "summary": "华伯父之孙,浓眉大眼、一脸稳重。",
+  "attributes": {
+    "性别": "男",
+    "外貌": "浓眉大眼、稳重"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "外貌": [
+      {
+        "value": "浓眉大眼、稳重",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu"
+  ],
+  "updatedAt": "2026-06-14T09:06:09.175Z"
+}

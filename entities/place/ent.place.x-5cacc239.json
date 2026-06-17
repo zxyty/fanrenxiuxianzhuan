@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-5cacc239",
+  "type": "place",
+  "name": "风悦客栈",
+  "aliases": [],
+  "summary": "燕翎堡东南角一家专门接待外来修士的客栈，不起眼、人少清净、近城墙，韩立入住于此。",
+  "attributes": {
+    "类型": "客栈",
+    "特产": "清净人少"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "客栈",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "特产": [
+      {
+        "value": "清净人少",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.297Z"
+}

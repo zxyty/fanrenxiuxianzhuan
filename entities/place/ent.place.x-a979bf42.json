@@ -1,0 +1,114 @@
+{
+  "id": "ent.place.x-a979bf42",
+  "type": "place",
+  "name": "慕兰大草原",
+  "aliases": [
+    "慕兰草原",
+    "大草原",
+    "慕兰人草原",
+    "慕兰人的地方",
+    "慕兰草原深处",
+    "慕兰草原一行",
+    "慕兰草原藏宝处"
+  ],
+  "summary": "慕兰族世居的广袤游牧草原，资源贫乏；另一头为突兀人。",
+  "attributes": {
+    "所属势力": "慕兰人",
+    "类型": "草原/藏宝处",
+    "危险度": "高（法士出没/战乱）",
+    "特产": "修仙资源匮乏"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "法士",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "慕兰人",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "类型": [
+      {
+        "value": "草原",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "草原/藏宝处",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "高（法士出没/战乱）",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "特产": [
+      {
+        "value": "修仙资源匮乏",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+  ],
+  "updatedAt": "2026-06-15T13:29:24.742Z"
+}

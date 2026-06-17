@@ -1,0 +1,81 @@
+{
+  "id": "ent.faction.x-43da3183",
+  "type": "faction",
+  "name": "极阴岛",
+  "aliases": [
+    "极阴岛一脉",
+    "极阴岛一方"
+  ],
+  "summary": "乱星海魔道势力，以极阴老祖为尊、乌丑为少岛主，修玄阴功一脉。",
+  "attributes": {
+    "阵营": "魔道/敌对",
+    "据点": "极阴岛",
+    "掌门": "极阴祖师"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "魔道/敌对",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      }
+    ],
+    "据点": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "极阴岛",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "掌门": [
+      {
+        "value": "极阴祖师",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ]
+  },
+  "firstSeq": 379,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 409
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.585Z"
+}

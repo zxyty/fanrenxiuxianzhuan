@@ -1,0 +1,98 @@
+{
+  "id": "ent.person.x-ca01019d",
+  "type": "person",
+  "name": "吴晓雨",
+  "aliases": [
+    "吴师弟"
+  ],
+  "summary": "犀灵宗修士，炼气期七层，深得掌门器重，为救官府要犯而找上曹梦容挑战。",
+  "attributes": {
+    "小阶段": "炼气期七层",
+    "身份": "犀利灵宗弟子",
+    "阵营": "犀灵宗",
+    "性别": "男",
+    "外貌": "大汉"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "炼气期七层",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "身份": [
+      {
+        "value": "犀灵宗修士",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "犀利灵宗弟子",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "阵营": [
+      {
+        "value": "犀灵宗",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "外貌": [
+      {
+        "value": "大汉",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 895,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+  ],
+  "updatedAt": "2026-06-16T00:43:53.246Z"
+}

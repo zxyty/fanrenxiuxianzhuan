@@ -1,0 +1,69 @@
+{
+  "id": "ent.artifact.x-faf6a2ff",
+  "type": "artifact",
+  "name": "精钢指环",
+  "aliases": [
+    "指环法器"
+  ],
+  "summary": "可自动飞出锁敌、大小自如变化的法器，注满法力可扩大至罩住茅屋。",
+  "attributes": {
+    "品阶": "法器",
+    "持有者": "韩立",
+    "能力": "锁敌、大小变化"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "法器",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "能力": [
+      {
+        "value": "锁敌",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "大小变化",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later"
+  ],
+  "updatedAt": "2026-06-14T04:21:00.145Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ent.place.x-9e619466",
+  "type": "place",
+  "name": "关宁府",
+  "aliases": [],
+  "summary": "大晋辽州的州府城，有孔、张、金、冯四大修仙世家；千光寺旧在此地。",
+  "attributes": {
+    "类型": "府城",
+    "所属界面": "大晋"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "州府城",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "府城",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋辽州",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+  ],
+  "updatedAt": "2026-06-16T00:43:53.254Z"
+}

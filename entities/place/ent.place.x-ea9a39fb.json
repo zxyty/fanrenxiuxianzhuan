@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-ea9a39fb",
+  "type": "place",
+  "name": "议事殿",
+  "aliases": [],
+  "summary": "黄枫谷处理弟子事务、登册名册之所，钟灵道在此办公。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "殿堂"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "类型": [
+      {
+        "value": "殿堂",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan"
+  ],
+  "updatedAt": "2026-06-14T06:31:18.969Z"
+}

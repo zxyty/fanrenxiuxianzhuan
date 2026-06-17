@@ -1,0 +1,78 @@
+{
+  "id": "ent.place.x-3d182feb",
+  "type": "place",
+  "name": "绿踪沼泽",
+  "aliases": [],
+  "summary": "位于云梦山中部、落云宗与古剑门势力交界处的偏僻沼泽,长年瘴气弥漫,雪云狐栖息地。",
+  "attributes": {
+    "类型": "沼泽",
+    "危险度": "长年瘴气出没",
+    "特产": "雪云狐",
+    "所属势力": "落云宗与古剑门交界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "沼泽",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "危险度": [
+      {
+        "value": "长年瘴气出没",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "特产": [
+      {
+        "value": "雪云狐",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "落云宗与古剑门交界",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601,
+        "note": "势力交界、人迹罕至"
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601,
+      "note": "势力交界、人迹罕至"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu"
+  ],
+  "updatedAt": "2026-06-14T19:44:58.684Z"
+}

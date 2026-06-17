@@ -1,0 +1,117 @@
+{
+  "id": "ent.artifact.x-ee11fcf2",
+  "type": "artifact",
+  "name": "紫言鼎",
+  "aliases": [
+    "紫鼎",
+    "紫赝鼎",
+    "紫言鼎小鼎",
+    "紫呼呼圆形东西"
+  ],
+  "summary": "血光圣祖之宝，紫色小鼎散淡黑光，韩立欲收取时被圣祖紫色雷电劈毁/收回。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "数寸迷你紫色小鼎，体表附文、外笼黑气",
+    "品阶": "玄天残宝",
+    "能力": "喷黑色光柱",
+    "禁制": "内藏血光圣祖一缕神念"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "血光圣祖",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903,
+        "note": "原主车骑恭，被夺并炼化"
+      },
+      {
+        "value": "血光圣祖（化身）",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915,
+        "note": "隔界降临灵界"
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "外形": [
+      {
+        "value": "紫色小鼎",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "数寸迷你紫色小鼎，体表附文、外笼黑气",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天残宝",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "能力": [
+      {
+        "value": "喷黑色光柱",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      }
+    ],
+    "禁制": [
+      {
+        "value": "内藏血光圣祖一缕神念",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921,
+        "note": "未驱除重炼前不敢使用"
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+      "dated": false,
+      "seq": 1915
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921,
+      "note": "未驱除重炼前不敢使用"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1929-1934-blood-saint-clones-battle",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.742Z"
+}

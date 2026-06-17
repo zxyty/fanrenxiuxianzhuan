@@ -1,0 +1,95 @@
+{
+  "id": "ent.artifact.x-f52a20d8",
+  "type": "artifact",
+  "name": "紫色古镜",
+  "aliases": [
+    "紫色小镜",
+    "紫色镜子",
+    "紫色古宝镜",
+    "紫镜",
+    "紫色镜"
+  ],
+  "summary": "古修遗骸储物袋中的紫色古宝镜，分宝时由韩立选取收走。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "紫色镜子",
+    "来历": "坠魔谷",
+    "能力": "喷紫色光柱"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "外形": [
+      {
+        "value": "紫色小镜",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "紫色镜子",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ],
+    "来历": [
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "能力": [
+      {
+        "value": "射紫濛光柱破雾",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "喷紫色光柱",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 817,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-984-xie-yue-huan-jing"
+  ],
+  "updatedAt": "2026-06-16T03:30:36.308Z"
+}

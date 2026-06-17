@@ -1,0 +1,64 @@
+{
+  "id": "ent.person.x-6e4fb564",
+  "type": "person",
+  "name": "穹老怪",
+  "aliases": [],
+  "summary": "掩月宗结丹期修士，硬插一手打赌，神情胸有成竹。",
+  "attributes": {
+    "小阶段": "结丹期",
+    "阵营": "掩月宗",
+    "称号": "穹老怪"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "阵营": [
+      {
+        "value": "掩月宗",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "称号": [
+      {
+        "value": "穹老怪",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.540Z"
+}

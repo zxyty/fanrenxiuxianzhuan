@@ -1,0 +1,58 @@
+{
+  "id": "ent.pill.x-103981b8",
+  "type": "pill",
+  "name": "绿色丹丸",
+  "aliases": [
+    "绿丸",
+    "绿丹"
+  ],
+  "summary": "御灵宗修士喷出的护身翠绿丹丸，疑为其结丹期金丹，与元神紧密相连，被血灵钻击爆后元神同损。",
+  "attributes": {
+    "功效": "发柔光护体、可旋转抵御攻击",
+    "副作用": "破裂则持有者元神剧痛重创"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "发柔光护体",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "可旋转抵御攻击",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ],
+    "副作用": [
+      {
+        "value": "破裂则持有者元神剧痛重创",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337,
+        "note": "疑因与元神相连"
+      }
+    ]
+  },
+  "firstSeq": 337,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337,
+      "note": "疑因与元神相连"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch338-bigong-quhun"
+  ],
+  "updatedAt": "2026-06-14T11:27:04.762Z"
+}

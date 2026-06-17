@@ -1,0 +1,50 @@
+{
+  "id": "ent.formation.x-f36cd33d",
+  "type": "formation",
+  "name": "封印法阵",
+  "aliases": [
+    "镇压魔气大阵"
+  ],
+  "summary": "镇压大漩涡下魔气的上古法阵，太真门一脉职责所系；三大修士据典籍研究出修复之法，需埋阵盘并由灵岛宗门共守。",
+  "attributes": {
+    "效果": "镇压魔气",
+    "布置者": "太真门一脉/极真门"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "镇压魔气",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ],
+    "布置者": [
+      {
+        "value": "太真门一脉/极真门",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ]
+  },
+  "firstSeq": 871,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "dated": false,
+      "seq": 871
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "dated": false,
+      "seq": 871
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+  ],
+  "updatedAt": "2026-06-15T15:00:04.882Z"
+}

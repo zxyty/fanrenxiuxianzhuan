@@ -1,0 +1,62 @@
+{
+  "id": "ent.technique.x-cba6b26a",
+  "type": "technique",
+  "name": "青阳魔火决",
+  "aliases": [],
+  "summary": "狂焰修士专修的功法，施放青阳魔火，以降低自身修为为代价。",
+  "attributes": {
+    "效果": "召唤青阳魔火",
+    "修炼条件": "狂焰修士专修",
+    "出处": "魔焰门"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "召唤青阳魔火",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "狂焰修士专修",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "出处": [
+      {
+        "value": "魔焰门",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou"
+  ],
+  "updatedAt": "2026-06-14T08:30:26.746Z"
+}

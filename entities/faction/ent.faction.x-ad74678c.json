@@ -1,0 +1,41 @@
+{
+  "id": "ent.faction.x-ad74678c",
+  "type": "faction",
+  "name": "六派",
+  "aliases": [
+    "越国六派",
+    "远遁六派",
+    "越国七派残部",
+    "我们六派"
+  ],
+  "summary": "原越国正道门派，远遁后于九国盟安顿，与当地宗派争夺资源并抵御慕兰法士，伤亡颇重。",
+  "attributes": {
+    "阵营": "正道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.372Z"
+}

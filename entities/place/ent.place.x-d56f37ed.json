@@ -1,0 +1,99 @@
+{
+  "id": "ent.place.x-d56f37ed",
+  "type": "place",
+  "name": "天鹏圣地",
+  "aliases": [
+    "天鹏圣城",
+    "圣城",
+    "天鹏族圣城"
+  ],
+  "summary": "天鹏族圣城：依山而建，洁白巨砖砌墙仅二十余丈，无城门，上覆白濛濛光幕，墙上立五彩巨柱供天鹏人穿行进出，外有禁制幻象与白濛濛通道。",
+  "attributes": {
+    "所属势力": "天鹏族",
+    "所属界面": "灵界",
+    "守护": "天鹏之禁",
+    "类型": "种族圣城、异族圣城、族城"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "守护": [
+      {
+        "value": "幻象禁制(伪山+雷云)、白濛濛光幕",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "天鹏之禁",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "类型": [
+      {
+        "value": "种族圣城",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "异族圣城",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "族城",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ]
+  },
+  "firstSeq": 1405,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1438-yin-zhu-feng"
+  ],
+  "updatedAt": "2026-06-16T16:33:50.648Z"
+}

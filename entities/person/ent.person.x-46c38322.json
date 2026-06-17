@@ -1,0 +1,52 @@
+{
+  "id": "ent.person.x-46c38322",
+  "type": "person",
+  "name": "银阶木灵",
+  "aliases": [
+    "高阶木灵"
+  ],
+  "summary": "黑叶森林一名银阶下位高阶木灵，身负重伤仍追杀韩立，肉身强横、可分身、放木甲银刺、显古树虚影。",
+  "attributes": {
+    "种族": "木族",
+    "存殁": "重伤"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "木族",
+        "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤",
+        "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381,
+        "note": "先前与叶颖天凤之魄大战所致"
+      }
+    ]
+  },
+  "firstSeq": 1381,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "dated": false,
+      "seq": 1381
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "dated": false,
+      "seq": 1381,
+      "note": "先前与叶颖天凤之魄大战所致"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+  ],
+  "updatedAt": "2026-06-16T14:51:31.337Z"
+}

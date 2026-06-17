@@ -1,0 +1,99 @@
+{
+  "id": "ent.material.x-8a422415",
+  "type": "material",
+  "name": "紫猴花",
+  "aliases": [
+    "紫色奇花"
+  ],
+  "summary": "筑基丹三味主药之一，百药园中没有，韩立从未听闻。",
+  "attributes": {
+    "类型": "灵草、灵药、灵药/灵草",
+    "用途": "筑基丹主药",
+    "稀有度": "稀有",
+    "产地": "环形山隐蔽山洞、秘洞紫色石壁"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "灵药",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "灵药/灵草",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制筑基丹主药",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "筑基丹主药",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "产地": [
+      {
+        "value": "环形山隐蔽山洞",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "秘洞紫色石壁",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.514Z"
+}

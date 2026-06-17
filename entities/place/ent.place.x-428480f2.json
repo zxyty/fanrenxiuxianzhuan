@@ -1,0 +1,134 @@
+{
+  "id": "ent.place.x-428480f2",
+  "type": "place",
+  "name": "奇渊岛",
+  "aliases": [
+    "奇渊",
+    "奇渊岛海域",
+    "本岛"
+  ],
+  "summary": "外星海一座妖兽岛，对外资料多为伪造，由一股连星宫也不愿得罪的强大势力统治，传送单向只出不进。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "类型": "妖兽岛、中型岛屿、海岛/海域、海外岛屿/势力聚集地、海岛",
+    "危险度": "极高（高阶妖兽聚集）",
+    "特产": "高阶妖兽、灵石矿",
+    "所属势力": "妙音门"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海外海",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ],
+    "类型": [
+      {
+        "value": "妖兽岛",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "中型岛屿",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "海岛/海域",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "海外岛屿/势力聚集地",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "极高（高阶妖兽聚集）",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "特产": [
+      {
+        "value": "高阶妖兽",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "灵石矿",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 505,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+  ],
+  "updatedAt": "2026-06-14T18:18:59.397Z"
+}

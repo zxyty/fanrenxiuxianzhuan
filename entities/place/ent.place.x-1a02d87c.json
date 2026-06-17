@@ -1,0 +1,74 @@
+{
+  "id": "ent.place.x-1a02d87c",
+  "type": "place",
+  "name": "蛮荒界",
+  "aliases": [
+    "蛮荒界之行",
+    "蛮荒界界面"
+  ],
+  "summary": "灵界中异族聚居的凶险界域。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "异族界域、凶险界域",
+    "危险度": "极高"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "类型": [
+      {
+        "value": "异族界域",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "凶险界域",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1351,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1369-1374-heiye-senlin-muzu",
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+    "plot.fanren-1387-1392-julji-tushan-zhentu"
+  ],
+  "updatedAt": "2026-06-16T14:59:17.652Z"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ent.place.x-ba074d93",
+  "type": "place",
+  "name": "天水河",
+  "aliases": [
+    "天水河主干",
+    "舜江"
+  ],
+  "summary": "天澜草原第一大河，上游为天水河、下游与大晋境内舜江为同一河流。",
+  "attributes": {
+    "所属界面": "大晋",
+    "类型": "大河、江流、江河",
+    "特产": "金焰石（曾在河滩散落）"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "类型": [
+      {
+        "value": "大河",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "江流",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "江河",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "特产": [
+      {
+        "value": "金焰石（曾在河滩散落）",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 889,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch895-jinpa-yincan"
+  ],
+  "updatedAt": "2026-06-16T00:26:16.669Z"
+}

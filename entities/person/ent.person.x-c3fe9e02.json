@@ -1,0 +1,136 @@
+{
+  "id": "ent.person.x-c3fe9e02",
+  "type": "person",
+  "name": "浮云子",
+  "aliases": [
+    "浮云子道长",
+    "清虚谷道士",
+    "牛鼻子",
+    "中年道士"
+  ],
+  "summary": "清虚门结丹期中年道士，为本派最晚结丹者，带队赴禁地之约；与李师祖有赌局旧情。",
+  "attributes": {
+    "身份": "清虚门道士",
+    "外貌": "中年道士、手持拂尘",
+    "性格": "诙谐圆滑、诡计多端、患得患失、有算计、沉稳老练",
+    "小阶段": "结丹期",
+    "阵营": "清虚门",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "清虚门结丹期修士",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "清虚谷道士",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "清虚门道士",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "外貌": [
+      {
+        "value": "中年道士、手持拂尘",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "性格": [
+      {
+        "value": "诙谐圆滑、诡计多端",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "患得患失、有算计",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "沉稳老练",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "阵营": [
+      {
+        "value": "清虚谷",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "清虚门",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 169,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch170-zhanlipin",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong"
+  ],
+  "updatedAt": "2026-06-14T06:15:01.507Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-102b2dd5",
+  "type": "place",
+  "name": "东石城",
+  "aliases": [],
+  "summary": "魁星岛东部城市，每三月一次开市日聚集东部十几城镇之人交易稀罕物品。",
+  "attributes": {
+    "类型": "城市",
+    "特产": "稀罕交易品"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "城市",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "特产": [
+      {
+        "value": "稀罕交易品",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367,
+        "note": "三月一次开市日"
+      }
+    ]
+  },
+  "firstSeq": 367,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367,
+      "note": "三月一次开市日"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch368-kuixingdao-guzhuang"
+  ],
+  "updatedAt": "2026-06-14T12:51:48.795Z"
+}

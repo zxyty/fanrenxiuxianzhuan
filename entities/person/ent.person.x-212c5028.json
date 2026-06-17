@@ -1,0 +1,106 @@
+{
+  "id": "ent.person.x-212c5028",
+  "type": "person",
+  "name": "碧眼大汉",
+  "aliases": [
+    "卓贤侄",
+    "黑甲修士",
+    "卓兄"
+  ],
+  "summary": "天渊城黑甲守卫，元婴后期大成，奉命带韩立去飞灵殿安顿。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "元婴后期",
+    "身份": "天渊城黑甲守卫",
+    "标志特征": "碧绿双目",
+    "阵营": "人族"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴后期大成",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "身份": [
+      {
+        "value": "天渊城黑甲守卫",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "碧绿双目",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1327-1332-tianyuan-fangshi"
+  ],
+  "updatedAt": "2026-06-16T12:39:22.058Z"
+}

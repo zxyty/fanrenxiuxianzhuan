@@ -1,0 +1,93 @@
+{
+  "id": "ent.person.x-45eaae47",
+  "type": "person",
+  "name": "靳姓大汉",
+  "aliases": [
+    "靳兄"
+  ],
+  "summary": "随人族队伍赶赴混沌谷的元婴期修士，提醒混沌谷凶险及上古巨人传闻。",
+  "attributes": {
+    "阵营": "人族",
+    "小阶段": "元婴期",
+    "种族": "人族",
+    "身份": "顶阶炼体士",
+    "标志特征": "巨大化炼体术"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "身份": [
+      {
+        "value": "顶阶炼体士",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "巨大化炼体术",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.043Z"
+}

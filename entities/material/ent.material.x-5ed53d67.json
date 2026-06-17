@@ -1,0 +1,92 @@
+{
+  "id": "ent.material.x-5ed53d67",
+  "type": "material",
+  "name": "玄冰花",
+  "aliases": [],
+  "summary": "炼玄冰丹主料，只生于万年玄冰，离冰一时三刻化水失效。",
+  "attributes": {
+    "类型": "灵药",
+    "用途": "玄冰丹主材",
+    "稀有度": "极难得（采下即速坏）",
+    "产地": "北冥岛万年玄冰"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "寒属性灵药",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制玄冰丹主料",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "玄冰丹主材",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极难得（采下即速坏）",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "产地": [
+      {
+        "value": "万年玄冰之地",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "北冥岛万年玄冰",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ]
+  },
+  "firstSeq": 1069,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1069
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+  ],
+  "updatedAt": "2026-06-15T08:59:02.641Z"
+}

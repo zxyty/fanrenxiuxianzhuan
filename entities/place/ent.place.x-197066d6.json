@@ -1,0 +1,61 @@
+{
+  "id": "ent.place.x-197066d6",
+  "type": "place",
+  "name": "华云州",
+  "aliases": [
+    "华云州修仙界"
+  ],
+  "summary": "大晋东部沿海大州，坊市兴隆、海外修士常出没。",
+  "attributes": {
+    "所属界面": "大晋皇朝",
+    "类型": "沿海大州、州域、修仙州域"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "类型": [
+      {
+        "value": "沿海大州",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "州域",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "修仙州域",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ]
+  },
+  "firstSeq": 955,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+  ],
+  "updatedAt": "2026-06-16T02:49:21.258Z"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ent.spell.x-deaf3975",
+  "type": "spell",
+  "name": "血灵钻",
+  "aliases": [
+    "血红尖锥",
+    "固化血灵钻",
+    "血芒",
+    "血芒钻"
+  ],
+  "summary": "越皇魔功杀招，将体内真元凝练压缩数十倍暗藏体内，一次性发出、拇指粗红光，可洞穿多重护盾。",
+  "attributes": {
+    "类型": "阴损暗器",
+    "出处": "越皇所修魔功",
+    "威力": "洞穿白磷盾、龟壳法器、秒溃青元剑盾",
+    "消耗": "一次性、凝练痛苦且耗时极久"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "凝练真元杀招",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "攻击利器",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "阴损暗器",
+        "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+        "seq": 421
+      }
+    ],
+    "出处": [
+      {
+        "value": "越皇所修魔功",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "威力": [
+      {
+        "value": "洞穿白磷盾、龟壳法器、秒溃青元剑盾",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "消耗": [
+      {
+        "value": "一次性、凝练痛苦且耗时极久",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-421-426-qixialian-yaoguanshe",
+      "dated": false,
+      "seq": 421
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.607Z"
+}

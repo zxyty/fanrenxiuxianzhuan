@@ -1,0 +1,57 @@
+{
+  "id": "ent.artifact.x-eb4a4ba0",
+  "type": "artifact",
+  "name": "白色宝镜",
+  "aliases": [
+    "白色镜子",
+    "宝镜",
+    "冷月镜"
+  ],
+  "summary": "白梦馨法宝，喷乳白光柱冰封万物，并可寄养灵虫（双尾人面蝎）。",
+  "attributes": {
+    "持有者": "白梦馨",
+    "能力": "乳白光柱冰封、寄养/释放灵虫"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "白梦馨",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      }
+    ],
+    "能力": [
+      {
+        "value": "乳白光柱冰封",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "寄养/释放灵虫",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      }
+    ]
+  },
+  "firstSeq": 1099,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "dated": false,
+      "seq": 1099
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "dated": false,
+      "seq": 1099
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1099-1104-xuanyu-cave-battle"
+  ],
+  "updatedAt": "2026-06-15T09:47:06.084Z"
+}

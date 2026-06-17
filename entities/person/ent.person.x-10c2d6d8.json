@@ -1,0 +1,109 @@
+{
+  "id": "ent.person.x-10c2d6d8",
+  "type": "person",
+  "name": "黄衣少女",
+  "aliases": [
+    "黄衫少女"
+  ],
+  "summary": "青灵门炼气期女弟子，十五六岁、脸蛋圆圆婴儿肥俏丽，逃亡中率先发现海雾与岛屿。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "炼气期",
+    "阵营": "青灵门",
+    "外貌": "脸圆婴儿肥、大眼乌黑",
+    "身份": "监视者『玉儿』",
+    "标志特征": "黄衫、擅土遁术"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "阵营": [
+      {
+        "value": "青灵门",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "外貌": [
+      {
+        "value": "脸圆婴儿肥、大眼乌黑",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "身份": [
+      {
+        "value": "监视者『玉儿』",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715,
+        "note": "伪装/假冒玉儿"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黄衫、擅土遁术",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715,
+      "note": "伪装/假冒玉儿"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.363Z"
+}

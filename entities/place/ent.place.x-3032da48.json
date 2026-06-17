@@ -1,0 +1,117 @@
+{
+  "id": "ent.place.x-3032da48",
+  "type": "place",
+  "name": "木精洞",
+  "aliases": [
+    "木精洞密室"
+  ],
+  "summary": "木青的洞府，三日后韩立将迁入由木青亲自指点驱雷之道。",
+  "attributes": {
+    "类型": "洞府、闭关洞府、洞府/静室",
+    "所属界面": "灵界",
+    "特产": "极浓木灵气",
+    "守护": "木青所布禁制",
+    "所属势力": "木青",
+    "危险度": "禁制玄奥、闭洞成囚笼"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "洞府",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "闭关洞府",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "洞府/静室",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "特产": [
+      {
+        "value": "极浓木灵气",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "守护": [
+      {
+        "value": "木青所布禁制",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "木青",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "危险度": [
+      {
+        "value": "禁制玄奥、闭洞成囚笼",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ]
+  },
+  "firstSeq": 1453,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1463-mujing-cave"
+  ],
+  "updatedAt": "2026-06-16T17:21:15.491Z"
+}

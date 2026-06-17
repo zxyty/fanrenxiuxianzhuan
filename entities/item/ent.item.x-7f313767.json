@@ -1,0 +1,51 @@
+{
+  "id": "ent.item.x-7f313767",
+  "type": "item",
+  "name": "印记",
+  "aliases": [
+    "封印印记",
+    "体内印记"
+  ],
+  "summary": "妖王种于韩立体内的封印印记，可被远程催动，是本段除患主线。",
+  "attributes": {
+    "类型": "禁制封印",
+    "用途": "妖王控制/追踪韩立"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "禁制封印",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "用途": [
+      {
+        "value": "妖王控制/追踪韩立",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ]
+  },
+  "firstSeq": 1495,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1495-1500-xutian-rescue-melee"
+  ],
+  "updatedAt": "2026-06-16T18:30:11.180Z"
+}

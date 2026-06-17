@@ -1,0 +1,82 @@
+{
+  "id": "ent.artifact.x-c1034ae9",
+  "type": "artifact",
+  "name": "寒冰珠",
+  "aliases": [],
+  "summary": "拇指大白濛圆珠，散发冻彻肌肤寒意，蛮胡子击杀寒鲤所得，借予韩立。",
+  "attributes": {
+    "能力": "散发阴寒凉气",
+    "来历": "击杀寒鲤所得",
+    "持有者": "韩立",
+    "五行属性": "冰/阴寒"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "散发寒气御热",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      },
+      {
+        "value": "散发阴寒凉气",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "来历": [
+      {
+        "value": "击杀寒鲤所得",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "冰/阴寒",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ]
+  },
+  "firstSeq": 457,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu"
+  ],
+  "updatedAt": "2026-06-14T16:19:26.431Z"
+}

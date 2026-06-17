@@ -1,0 +1,117 @@
+{
+  "id": "ent.place.x-1d884d1d",
+  "type": "place",
+  "name": "太南谷",
+  "aliases": [
+    "怪坡",
+    "迷雾山坡",
+    "太南会广场",
+    "太南会",
+    "太南小会"
+  ],
+  "summary": "位于太南山北面、终年浓雾锁门的修仙者聚集之地。",
+  "attributes": {
+    "所属界面": "越国",
+    "类型": "修仙者居所/聚会地、山谷/修仙者聚居地、散修聚会谷地、交易会场、交易场所、修仙交流集会／谷地",
+    "守护": "终年迷雾迷阵、迷雾+阵法封锁、楼阁禁法光幕"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "岚州",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "越国/岚州",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "类型": [
+      {
+        "value": "修仙者居所/聚会地",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "山谷/修仙者聚居地",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "散修聚会谷地",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "交易会场",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "交易场所",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "修仙交流集会／谷地",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "守护": [
+      {
+        "value": "终年迷雾迷阵",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "迷雾+阵法封锁",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "楼阁禁法光幕",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects"
+  ],
+  "updatedAt": "2026-06-14T05:15:30.175Z"
+}

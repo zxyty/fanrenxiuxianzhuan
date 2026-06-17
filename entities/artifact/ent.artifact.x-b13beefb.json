@@ -1,0 +1,141 @@
+{
+  "id": "ent.artifact.x-b13beefb",
+  "type": "artifact",
+  "name": "朱雀环",
+  "aliases": [
+    "圆环法宝",
+    "圆环",
+    "火红圆环"
+  ],
+  "summary": "掩月宗师祖的法宝，可胀大如屋、放出数百高温火球化火柱，并以「收速拘禁锁」五字诀收束禁锁敌身。",
+  "attributes": {
+    "持有者": "南宫婉",
+    "能力": "放火球/红炎、化旋风火柱、收拘禁锁套敌、禁制圈困、喷烈火焚烧、本体敲击、化火团火蛇",
+    "外形": "火红圆环",
+    "五行属性": "火",
+    "来历": "本命法宝"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "掩月宗师祖",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "南宫婉",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "能力": [
+      {
+        "value": "放火球/红炎",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "化旋风火柱",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "收拘禁锁套敌",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "禁制圈困",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "喷烈火焚烧",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "本体敲击",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "化火团火蛇",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "外形": [
+      {
+        "value": "圆环",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "火红圆环",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "来历": [
+      {
+        "value": "内含珍贵银精",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "本命法宝",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 199,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.393Z"
+}

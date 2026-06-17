@@ -1,0 +1,96 @@
+{
+  "id": "ent.faction.x-4a673470",
+  "type": "faction",
+  "name": "毒圣门",
+  "aliases": [
+    "毒圣门四老",
+    "毒圣门一宗"
+  ],
+  "summary": "人界势力，大长老花天奇被珑梦附身。",
+  "attributes": {
+    "阵营": "人界修士",
+    "据点": "镇魔塔(闯探中)",
+    "镇派之宝": "毒龙珠"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人界修士",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+        "seq": 997
+      },
+      {
+        "value": "夺宝势力",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "据点": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "镇魔塔(闯探中)",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "感灵珠",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "毒龙珠",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 973,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.431Z"
+}

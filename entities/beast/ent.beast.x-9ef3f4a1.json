@@ -1,0 +1,76 @@
+{
+  "id": "ent.beast.x-9ef3f4a1",
+  "type": "beast",
+  "name": "双首鹜",
+  "aliases": [
+    "双头怪鸟",
+    "双首怪鹰"
+  ],
+  "summary": "燕家圈养的灵禽：小牛般大小的双头怪鸟，灰羽、双翅数丈、镰刀利爪、四眼泛绿光，即席铁牛曾见的怪鹰。",
+  "attributes": {
+    "主人": "燕家",
+    "外形": "双首怪鹰",
+    "能力": "飞行坐骑"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "燕家",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "外形": [
+      {
+        "value": "双头灰羽巨鸟，镰刀爪，四眼泛绿光",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "双首怪鹰",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "能力": [
+      {
+        "value": "可作坐骑飞行",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "飞行坐骑",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch242-zhifu-biguan"
+  ],
+  "updatedAt": "2026-06-14T07:18:30.770Z"
+}

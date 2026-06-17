@@ -1,0 +1,89 @@
+{
+  "id": "ent.place.x-f8aa74f4",
+  "type": "place",
+  "name": "炙光潭",
+  "aliases": [
+    "炙光"
+  ],
+  "summary": "混沌谷深处的神秘潭水，凶险异常，唯具水性神通者方可勉强潜入；叛逆潜藏其下。",
+  "attributes": {
+    "类型": "潭、水潭、巨人化身之潭",
+    "危险度": "极高",
+    "守护": "需水性神通方可潜入",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "潭",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "水潭",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "巨人化身之潭",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "守护": [
+      {
+        "value": "需水性神通方可潜入",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.099Z"
+}

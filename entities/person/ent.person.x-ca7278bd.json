@@ -1,0 +1,95 @@
+{
+  "id": "ent.person.x-ca7278bd",
+  "type": "person",
+  "name": "金猿",
+  "aliases": [
+    "金灵",
+    "金虹",
+    "金色巨猿",
+    "金毛苍猿",
+    "金老",
+    "通灵苍猿",
+    "灵猿",
+    "金色猿猴"
+  ],
+  "summary": "木青属下妖修，化金虹，奉命监视韩立、招呼地血与蓝道友大军。",
+  "attributes": {
+    "种族": "通灵苍猿",
+    "身份": "木青属下",
+    "性别": "女",
+    "阵营": "暂与韩立同行"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "妖",
+        "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "通灵苍猿",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      }
+    ],
+    "身份": [
+      {
+        "value": "木青属下",
+        "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471,
+        "note": "口称木青为『主人』"
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      }
+    ],
+    "阵营": [
+      {
+        "value": "暂与韩立同行",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      }
+    ]
+  },
+  "firstSeq": 1471,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+      "dated": false,
+      "seq": 1471,
+      "note": "口称木青为『主人』"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.815Z"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ent.formation.x-e938d418",
+  "type": "formation",
+  "name": "上古护宝大阵",
+  "aliases": [
+    "祭坛石傀儡阵"
+  ],
+  "summary": "宫殿周围巨阵配合数十座祭坛白玉石人(披金甲、持金色巨刃)护卫八灵尺，石人被击碎可在祭坛白光中重凝。",
+  "attributes": {
+    "效果": "驱动白玉石傀儡攻敌、石人被毁可重凝",
+    "出处": "昆吾山镇魔塔上古大阵"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "驱动白玉石傀儡攻敌",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "石人被毁可重凝",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "出处": [
+      {
+        "value": "昆吾山镇魔塔上古大阵",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ]
+  },
+  "firstSeq": 1027,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+  ],
+  "updatedAt": "2026-06-16T04:59:45.007Z"
+}

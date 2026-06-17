@@ -1,0 +1,114 @@
+{
+  "id": "ent.person.x-aa140a04",
+  "type": "person",
+  "name": "雷万鹤",
+  "aliases": [
+    "雷大胖子",
+    "雷师叔",
+    "雷道友"
+  ],
+  "summary": "黄枫谷结丹期修士，体形肥胖，在密室密议中神色不安。",
+  "attributes": {
+    "性别": "男",
+    "身份": "黄枫谷修士",
+    "阵营": "越国六派",
+    "外貌": "大胖子",
+    "小阶段": "结丹"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "身份": [
+      {
+        "value": "结丹期修士",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "黄枫谷修士",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "越国六派",
+        "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+        "seq": 709
+      }
+    ],
+    "外貌": [
+      {
+        "value": "大胖子",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "dated": false,
+      "seq": 703
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+      "dated": false,
+      "seq": 709
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan"
+  ],
+  "updatedAt": "2026-06-15T02:08:50.354Z"
+}

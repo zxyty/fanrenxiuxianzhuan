@@ -1,0 +1,52 @@
+{
+  "id": "ent.formation.x-92e2f569",
+  "type": "formation",
+  "name": "小五行须弥禁法",
+  "aliases": [
+    "小五行须弥禁制"
+  ],
+  "summary": "由小五行符触发的禁法,令青石通道挤压弥合消失,封绝地下世界出入。",
+  "attributes": {
+    "效果": "通道挤压弥合、封绝出入",
+    "破解法": "需懂禁法者破禁"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "通道挤压弥合、封绝出入",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "破解法": [
+      {
+        "value": "需懂禁法者破禁",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205,
+        "note": "南宫婉称二人合力方能破禁离开"
+      }
+    ]
+  },
+  "firstSeq": 205,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205,
+      "note": "南宫婉称二人合力方能破禁离开"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c205-210-tujiao-yu-nangong"
+  ],
+  "updatedAt": "2026-06-14T06:15:01.494Z"
+}

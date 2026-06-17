@@ -1,0 +1,147 @@
+{
+  "id": "ent.event.x-49111d19",
+  "type": "event",
+  "name": "升仙会",
+  "aliases": [
+    "升仙大会",
+    "天雾台升仙大会",
+    "擂台赛"
+  ],
+  "summary": "岚州每十年举办一次的修仙者盛会，凭基础功法层数获参加资格，胜出者可获益。",
+  "attributes": {
+    "章节": "第128章（提及，约一月后）",
+    "地点": "岚州",
+    "参与方": "散修、七大派、越国七大仙派、修仙家族、蒙山五友、韩立",
+    "结果": "每届七十名胜出者入门并获筑基丹",
+    "影响": "修仙者隐匿苦修，不再出入世俗界",
+    "经过": "七座擂台两两胜进，每派取十名胜者"
+  },
+  "observations": {
+    "章节": [
+      {
+        "value": "106",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      },
+      {
+        "value": "第128章（提及，约一月后）",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "地点": [
+      {
+        "value": "岚州",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "参与方": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "七大派",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "越国七大仙派",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "修仙家族",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "蒙山五友",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "结果": [
+      {
+        "value": "每届七十名胜出者入门并获筑基丹",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "影响": [
+      {
+        "value": "化解野修对门派把持筑基丹的怨气",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "修仙者隐匿苦修，不再出入世俗界",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ],
+    "经过": [
+      {
+        "value": "七座擂台两两胜进，每派取十名胜者",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 103,
+  "attrProvenance": {
+    "章节": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.939Z"
+}

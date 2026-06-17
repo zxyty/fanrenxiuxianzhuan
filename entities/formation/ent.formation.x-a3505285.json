@@ -1,0 +1,61 @@
+{
+  "id": "ent.formation.x-a3505285",
+  "type": "formation",
+  "name": "黄沙阵",
+  "aliases": [
+    "黄沙大阵",
+    "黄沙阵禁制"
+  ],
+  "summary": "狂沙上人布下的困杀大阵，黄濛沙雾笼罩数里，掺入落魂沙绞杀阵中诸人。",
+  "attributes": {
+    "布置者": "狂沙上人",
+    "效果": "数里黄沙笼罩、掺落魂沙绞杀、克土遁"
+  },
+  "observations": {
+    "布置者": [
+      {
+        "value": "狂沙上人",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      }
+    ],
+    "效果": [
+      {
+        "value": "数里黄沙笼罩",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "掺落魂沙绞杀",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "克土遁",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      }
+    ]
+  },
+  "firstSeq": 913,
+  "attrProvenance": {
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-array",
+      "dated": false,
+      "seq": 913
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-array",
+      "dated": false,
+      "seq": 913
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-913-918-xueling-huangsha-array"
+  ],
+  "updatedAt": "2026-06-16T01:00:58.315Z"
+}

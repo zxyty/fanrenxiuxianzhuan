@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-d25bdfce",
+  "type": "person",
+  "name": "王府总管",
+  "aliases": [
+    "馨王府总管",
+    "精瘦小老头"
+  ],
+  "summary": "馨王府总管,能说会道;韩立感应不到其灵力却觉如妖兽靠近、毛骨悚然,身份可疑。",
+  "attributes": {
+    "身份": "馨王府总管",
+    "性格": "能说会道",
+    "标志特征": "给韩立强大压迫的危险感"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "馨王府总管",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "性格": [
+      {
+        "value": "能说会道",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "凑近时令韩立毛骨悚然、如妖兽靠近",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "给韩立强大压迫的危险感",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia"
+  ],
+  "updatedAt": "2026-06-14T09:14:36.139Z"
+}

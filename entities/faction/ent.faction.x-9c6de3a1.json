@@ -1,0 +1,82 @@
+{
+  "id": "ent.faction.x-9c6de3a1",
+  "type": "faction",
+  "name": "宁中冯家",
+  "aliases": [
+    "冯家"
+  ],
+  "summary": "大晋辽州关宁府四大修仙世家之一，祖上修佛门功法、出过修出舍利子的先祖，近年势弱遭孔家联合张、金两家暗算。",
+  "attributes": {
+    "据点": "冯家密窟(雪陵山脉)",
+    "理念": "暗中布子、交好入世修士以备后用",
+    "所属界面": "大晋"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "大晋辽州关宁府宁中",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "关宁府",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "冯家密窟(雪陵山脉)",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "理念": [
+      {
+        "value": "原修佛门功法,后改修儒家功法",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "暗中布子、交好入世修士以备后用",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+  ],
+  "updatedAt": "2026-06-16T01:08:34.286Z"
+}

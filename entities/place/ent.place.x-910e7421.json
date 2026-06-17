@@ -1,0 +1,70 @@
+{
+  "id": "ent.place.x-910e7421",
+  "type": "place",
+  "name": "黑冥雾",
+  "aliases": [
+    "黑冥雾气"
+  ],
+  "summary": "黑隐山一带极古老的危险黑雾,连半鬼半妖前辈也只能在边缘逗留,寻常妖兽入内片刻即被吸尽血肉化为枯骨;天鹏族因忌惮它不敢久留。",
+  "attributes": {
+    "类型": "诡异雾气",
+    "危险度": "极高",
+    "守护": "未知古怪存在"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "危险秘境/异雾",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "诡异雾气",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "守护": [
+      {
+        "value": "未知古怪存在",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ]
+  },
+  "firstSeq": 1399,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+  ],
+  "updatedAt": "2026-06-16T15:50:19.166Z"
+}

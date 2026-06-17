@@ -1,0 +1,53 @@
+{
+  "id": "ent.artifact.x-ab4b785d",
+  "type": "artifact",
+  "name": "冯家密窟钥匙",
+  "aliases": [
+    "银色钥匙",
+    "银白色钥匙"
+  ],
+  "summary": "开启冯家千余年收藏密窟的唯一法器，曾暂挡枫岳所中毒气，被枫岳抵押给韩立。",
+  "attributes": {
+    "能力": "开启冯家密窟;暂时抵挡毒气",
+    "持有者": "韩立"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "开启冯家密窟;暂时抵挡毒气",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883,
+        "note": "枫岳抵押转交"
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883,
+      "note": "枫岳抵押转交"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+  ],
+  "updatedAt": "2026-06-15T23:54:19.677Z"
+}

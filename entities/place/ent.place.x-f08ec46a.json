@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-f08ec46a",
+  "type": "place",
+  "name": "黑沙漠",
+  "aliases": [
+    "黑色沙漠"
+  ],
+  "summary": "熔岩路中由含黑铁矿粒铺成的沙漠，潜藏大量铁火蚁。",
+  "attributes": {
+    "类型": "矿粒沙漠",
+    "危险度": "极高",
+    "守护": "铁火蚁"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "矿粒沙漠",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "守护": [
+      {
+        "value": "铁火蚁",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ]
+  },
+  "firstSeq": 457,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu"
+  ],
+  "updatedAt": "2026-06-14T16:19:26.443Z"
+}

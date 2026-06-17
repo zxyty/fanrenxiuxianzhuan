@@ -1,0 +1,72 @@
+{
+  "id": "ent.artifact.x-5ad02c45",
+  "type": "artifact",
+  "name": "蓝色飞刀",
+  "aliases": [
+    "蓝汪汪的飞刀",
+    "飞刀",
+    "晶莹的蓝色飞刀"
+  ],
+  "summary": "韩立挑选的纯进攻性上品法器。",
+  "attributes": {
+    "品阶": "上品",
+    "外形": "晶莹蓝色飞刀",
+    "持有者": "翁某"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上品",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外形": [
+      {
+        "value": "蓝汪汪的飞刀",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "晶莹蓝色飞刀",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "持有者": [
+      {
+        "value": "翁某",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales"
+  ],
+  "updatedAt": "2026-06-16T12:56:39.977Z"
+}

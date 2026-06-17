@@ -1,0 +1,48 @@
+{
+  "id": "ent.formation.x-82f77f33",
+  "type": "formation",
+  "name": "备用法阵",
+  "aliases": [],
+  "summary": "昆吾山备用法阵，需天晶碑方能唤出。",
+  "attributes": {
+    "出处": "昆吾山",
+    "破解法": "需天晶碑唤出"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "昆吾山",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ],
+    "破解法": [
+      {
+        "value": "需天晶碑唤出",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ]
+  },
+  "firstSeq": 1063,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.116Z"
+}

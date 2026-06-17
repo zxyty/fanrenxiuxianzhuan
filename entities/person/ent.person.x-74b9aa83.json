@@ -1,0 +1,105 @@
+{
+  "id": "ent.person.x-74b9aa83",
+  "type": "person",
+  "name": "卖书少女",
+  "aliases": [
+    "少女",
+    "摊主少女",
+    "南宫师祖",
+    "南宫",
+    "掩月宗师祖",
+    "绝色女子"
+  ],
+  "summary": "太南会货摊甜美少女，售长春功法决与金竺笔，本片段未具名。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "结丹期",
+    "身份": "掩月宗师祖",
+    "性格": "心高气傲、清冷",
+    "外貌": "绝色"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "身份": [
+      {
+        "value": "掩月宗师祖",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "性格": [
+      {
+        "value": "心高气傲、清冷",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "外貌": [
+      {
+        "value": "年幼少女",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205,
+        "note": "修轮回功春颜永驻;破身后法力被破、容貌变大些"
+      },
+      {
+        "value": "绝色",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "dated": false,
+      "seq": 703
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+  ],
+  "updatedAt": "2026-06-15T02:06:15.373Z"
+}

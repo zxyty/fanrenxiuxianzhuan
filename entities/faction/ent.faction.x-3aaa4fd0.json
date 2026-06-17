@@ -1,0 +1,126 @@
+{
+  "id": "ent.faction.x-3aaa4fd0",
+  "type": "faction",
+  "name": "皇清观",
+  "aliases": [
+    "本观",
+    "贵观",
+    "皇清观一观",
+    "皇清观道观"
+  ],
+  "summary": "玉田山一山峰上的女观（道观），主体为女修，亦有火居道士及男性门人居于观外；华莲仙姑为其道姑。",
+  "attributes": {
+    "阵营": "大晋皇族",
+    "据点": "玉田山、玉田山灵脉之地（湳郡）、大晋",
+    "等级": "女观",
+    "理念": "入世修仙、议论朝政",
+    "镇派之宝": "护观大阵",
+    "所属界面": "大晋皇朝"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "道门",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "大晋皇族",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "据点": [
+      {
+        "value": "玉田山",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "玉田山灵脉之地（湳郡）",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "等级": [
+      {
+        "value": "女观",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "理念": [
+      {
+        "value": "入世修仙、议论朝政",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "护观大阵",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ]
+  },
+  "firstSeq": 919,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch943-jinjing-extortion-backstab"
+  ],
+  "updatedAt": "2026-06-16T02:11:44.902Z"
+}

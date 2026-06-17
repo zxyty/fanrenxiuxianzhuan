@@ -1,0 +1,72 @@
+{
+  "id": "ent.artifact.x-582cfa95",
+  "type": "artifact",
+  "name": "灵侍",
+  "aliases": [
+    "半傀儡",
+    "灵侍舞女",
+    "灵侍乐师"
+  ],
+  "summary": "地血老怪独门半傀儡，以温顺灵体打入傀儡之躯而成，外形酷似真人。",
+  "attributes": {
+    "来历": "血焰山所得无灵智灵体打入傀儡之躯",
+    "能力": "执行简单命令、精通百种宴舞/乐律",
+    "外形": "酷似真人，飞灵族女子状带淡青羽翅"
+  },
+  "observations": {
+    "来历": [
+      {
+        "value": "血焰山所得无灵智灵体打入傀儡之躯",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "能力": [
+      {
+        "value": "执行简单命令",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "精通百种宴舞/乐律",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "外形": [
+      {
+        "value": "酷似真人，飞灵族女子状带淡青羽翅",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ]
+  },
+  "firstSeq": 1459,
+  "attrProvenance": {
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.329Z"
+}

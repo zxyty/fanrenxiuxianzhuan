@@ -1,0 +1,42 @@
+{
+  "id": "ent.pill.x-640173cf",
+  "type": "pill",
+  "name": "粉红驻颜丹丸",
+  "aliases": [
+    "驻颜丹"
+  ],
+  "summary": "韩立赠予墨彩环的粉红色丹丸，不能令凡人成仙，但可使其容颜永驻、终生不老。",
+  "attributes": {
+    "功效": "驻颜固容"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "容颜永驻、不再衰老",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "驻颜固容",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "dated": false,
+      "seq": 1219
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-1219-1224-author-note-vote-request"
+  ],
+  "updatedAt": "2026-06-16T08:46:38.118Z"
+}

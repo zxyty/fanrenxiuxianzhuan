@@ -1,0 +1,76 @@
+{
+  "id": "ent.pill.x-228b37e2",
+  "type": "pill",
+  "name": "合欢丹",
+  "aliases": [
+    "合欢丸"
+  ],
+  "summary": "陆师兄喂给陈师妹的春药类丹药,使人迷醉难耐。",
+  "attributes": {
+    "功效": "催情迷醉、催情、使人神志不清求欢、媚药/淫毒、令人陷入幻觉、迷幻、令人失忆",
+    "副作用": "长时间不解会元气大伤"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "催情迷醉",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "催情、使人神志不清求欢",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "媚药/淫毒",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "令人陷入幻觉",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "迷幻、令人失忆",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "副作用": [
+      {
+        "value": "丧失神志",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "长时间不解会元气大伤",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 163,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.684Z"
+}

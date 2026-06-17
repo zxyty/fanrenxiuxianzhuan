@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-cf92565b",
+  "type": "place",
+  "name": "九玄明玉潭",
+  "aliases": [
+    "明玉潭"
+  ],
+  "summary": "金玉宗内的灵潭，深处之水对修仙者用处不大，却能助炼体士突破一次瓶颈（仅一次有效）。",
+  "attributes": {
+    "所属势力": "金玉宗",
+    "类型": "灵潭",
+    "特产": "助炼体士突破瓶颈之潭水（一次性）"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "金玉宗",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵潭",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "特产": [
+      {
+        "value": "助炼体士突破瓶颈之潭水（一次性）",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1279,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1287-chuancheng-zhu"
+  ],
+  "updatedAt": "2026-06-16T10:51:11.095Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ent.spell.x-2f79dc5e",
+  "type": "spell",
+  "name": "飞剑术",
+  "aliases": [
+    "飞剑之术"
+  ],
+  "summary": "金光上人所施修仙法术，自称无人可挡。",
+  "attributes": {
+    "类型": "修仙者飞剑攻击",
+    "出处": "修仙之流"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "御剑/攻击法术",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      },
+      {
+        "value": "修仙者飞剑攻击",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      }
+    ],
+    "出处": [
+      {
+        "value": "修仙之流",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch85-90-sikexie-doudou",
+      "dated": false,
+      "seq": 85
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch85-90-sikexie-doudou"
+  ],
+  "updatedAt": "2026-06-14T03:03:44.392Z"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ent.pill.x-1d8c5088",
+  "type": "pill",
+  "name": "饲灵丸",
+  "aliases": [],
+  "summary": "古修士专用饲养灵兽的丹药,妖兽爱吃且久服能催进灵兽提升阶级,但所需原料极珍稀。",
+  "attributes": {
+    "功效": "妖兽爱吃、久服催进灵兽提升阶级、调教灵兽、提升妖兽等阶、喂养灵虫升级、喂养升阶妖兽",
+    "主料": "珍稀罕见(堪比炼气散)、绿液、霓裳草",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "妖兽爱吃",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "久服催进灵兽提升阶级",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "调教灵兽",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "提升妖兽等阶",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "喂养灵虫升级",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "喂养升阶妖兽",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "主料": [
+      {
+        "value": "珍稀罕见(堪比炼气散)",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "绿液",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      },
+      {
+        "value": "霓裳草",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-398-jiedan-yu-fabao"
+  ],
+  "updatedAt": "2026-06-15T00:21:07.638Z"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ent.place.x-f231904e",
+  "type": "place",
+  "name": "双峰岛",
+  "aliases": [],
+  "summary": "拥有两座等高巨峰的岛屿，妙音门秘市坊市迁设于此，月余后开市。",
+  "attributes": {
+    "所属势力": "妙音门",
+    "类型": "海岛/坊市所在、坊市岛屿、海岛",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      }
+    ],
+    "类型": [
+      {
+        "value": "海岛/坊市所在",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "坊市岛屿",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海（外星海）",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ]
+  },
+  "firstSeq": 547,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "dated": false,
+      "seq": 547
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "dated": false,
+      "seq": 547
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch547-552-poison-three-demons",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+  ],
+  "updatedAt": "2026-06-14T18:52:01.167Z"
+}

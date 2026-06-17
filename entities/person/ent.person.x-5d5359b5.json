@@ -1,0 +1,79 @@
+{
+  "id": "ent.person.x-5d5359b5",
+  "type": "person",
+  "name": "吕姓修士",
+  "aliases": [
+    "吕姓元婴修士"
+  ],
+  "summary": "落云宗太上长老，元婴初期，近四百岁时进入元婴期；与程天坤一同延揽韩立。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "元婴初期",
+    "身份": "落云宗太上长老",
+    "阵营": "天道盟"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+        "seq": 637
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+        "seq": 637
+      }
+    ],
+    "身份": [
+      {
+        "value": "落云宗太上长老",
+        "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+        "seq": 637
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      }
+    ]
+  },
+  "firstSeq": 637,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+      "dated": false,
+      "seq": 637
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+      "dated": false,
+      "seq": 637
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+      "dated": false,
+      "seq": 637
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-636-641-hanli-jieying-luoyunzong",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao"
+  ],
+  "updatedAt": "2026-06-15T02:35:06.522Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-e26e55f1",
+  "type": "place",
+  "name": "宗祠",
+  "aliases": [
+    "祠堂"
+  ],
+  "summary": "韩家祠堂，韩立现身、留噬金灵剑、悬挂祖先画像之处。",
+  "attributes": {
+    "所属势力": "韩家",
+    "守护": "噬金灵剑"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "韩家",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "守护": [
+      {
+        "value": "噬金灵剑",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ]
+  },
+  "firstSeq": 661,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:46.013Z"
+}

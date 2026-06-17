@@ -1,0 +1,104 @@
+{
+  "id": "ent.material.x-90559b52",
+  "type": "material",
+  "name": "灵族神血",
+  "aliases": [
+    "紫色液体"
+  ],
+  "summary": "圣灵级灵族消亡后身体本源所生的神秘液体，可点化灵物为低阶灵族，亦为炼制血阳丹、修成血晶战衣之原料，是灵族保族至宝。",
+  "attributes": {
+    "类型": "灵族神血",
+    "用途": "点化灵物生灵族、炼制血阳丹、修血晶战衣、助炼体士突破瓶颈",
+    "稀有度": "极稀有",
+    "产地": "灵族"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵族本源液体",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "灵族神血",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "用途": [
+      {
+        "value": "点化灵物生灵族",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "炼制血阳丹",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "修血晶战衣",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "助炼体士突破瓶颈",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "产地": [
+      {
+        "value": "圣灵级灵族本源",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+  ],
+  "updatedAt": "2026-06-16T11:47:43.536Z"
+}

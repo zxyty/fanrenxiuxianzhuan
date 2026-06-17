@@ -1,0 +1,139 @@
+{
+  "id": "ent.place.x-a942e103",
+  "type": "place",
+  "name": "虚灵殿",
+  "aliases": [
+    "三座白玉宫殿",
+    "虚灵殿玄玉洞",
+    "虚灵殿主殿",
+    "虚灵殿外殿",
+    "虚灵殿内殿",
+    "虚灵殿大殿"
+  ],
+  "summary": "小极宫内宫三座白玉宫殿，式样同虚天殿而仅三分之一大，自立派起即存在，平时封闭需过半长老同意方可开启。",
+  "attributes": {
+    "所属势力": "小极宫",
+    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群",
+    "特产": "神识受限",
+    "守护": "冰魄寒烈阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ],
+    "类型": [
+      {
+        "value": "上古玉殿",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "秘境禁地",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "禁地",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "空间秘所",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "可撕破空间的庞然殿宇",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "殿宇",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "秘境大殿",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "上古秘殿",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      },
+      {
+        "value": "秘殿",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "殿宇群",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "特产": [
+      {
+        "value": "玄玉洞极寒之气",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "神识受限",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "守护": [
+      {
+        "value": "冰魄寒烈阵",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 1075,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.111Z"
+}

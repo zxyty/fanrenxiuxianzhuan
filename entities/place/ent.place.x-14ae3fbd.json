@@ -1,0 +1,103 @@
+{
+  "id": "ent.place.x-14ae3fbd",
+  "type": "place",
+  "name": "冰火道",
+  "aliases": [],
+  "summary": "虚天殿内的险道，入口在巨山大峡谷，红蓝两色异光分罩半山。",
+  "attributes": {
+    "类型": "试炼关卡",
+    "守护": "冰炎属性天生妖灵",
+    "危险度": "高、极高、极高(本次异变)",
+    "所属势力": "星宫"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "险道",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "关卡",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      },
+      {
+        "value": "试炼关卡",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "守护": [
+      {
+        "value": "红蓝异光",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "冰炎属性天生妖灵",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "极高(本次异变)",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ]
+  },
+  "firstSeq": 451,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu"
+  ],
+  "updatedAt": "2026-06-14T16:19:26.466Z"
+}

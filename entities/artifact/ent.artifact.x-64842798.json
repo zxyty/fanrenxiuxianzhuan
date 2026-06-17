@@ -1,0 +1,64 @@
+{
+  "id": "ent.artifact.x-64842798",
+  "type": "artifact",
+  "name": "士兵傀儡",
+  "aliases": [
+    "傀儡兵"
+  ],
+  "summary": "韩立放出的真人大小、手持兵器的傀儡，作解咒时的警戒手段。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "主动攻击靠近方圆十丈者",
+    "外形": "真人大小持兵器士兵"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "能力": [
+      {
+        "value": "主动攻击靠近方圆十丈者",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "外形": [
+      {
+        "value": "真人大小持兵器士兵",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ]
+  },
+  "firstSeq": 295,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin"
+  ],
+  "updatedAt": "2026-06-14T09:22:45.169Z"
+}

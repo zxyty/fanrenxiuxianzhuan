@@ -1,0 +1,103 @@
+{
+  "id": "ent.pill.x-34fe8b89",
+  "type": "pill",
+  "name": "降尘丹",
+  "aliases": [],
+  "summary": "乱星海名丹，据称对结丹大有助益，能增加结丹成功几率，为六连殿许诺的报酬。",
+  "attributes": {
+    "功效": "增加结丹成功几率、增加结丹几率、贵重报酬丹药、提升结丹几率",
+    "适用境界": "假丹/结丹、结丹",
+    "主料": "稀有妖兽内丹、罕见灵药",
+    "副作用": "结丹时仅可服一颗"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "增加结丹成功几率",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "增加结丹几率",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "贵重报酬丹药",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "提升结丹几率",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "假丹/结丹",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "主料": [
+      {
+        "value": "稀有妖兽内丹",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "罕见灵药",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "副作用": [
+      {
+        "value": "结丹时仅可服一颗",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.223Z"
+}

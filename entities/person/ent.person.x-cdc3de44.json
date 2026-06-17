@@ -1,0 +1,66 @@
+{
+  "id": "ent.person.x-cdc3de44",
+  "type": "person",
+  "name": "言师兄",
+  "aliases": [
+    "黄袍修士",
+    "黄袍青年"
+  ],
+  "summary": "落云宗锁烟峰筑基期修士，尖耳猴腮、市侩，欲强分弟子当制符苦力。",
+  "attributes": {
+    "小阶段": "筑基期",
+    "性格": "市侩",
+    "性别": "男"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "性格": [
+      {
+        "value": "市侩",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+  ],
+  "updatedAt": "2026-06-16T11:55:47.495Z"
+}

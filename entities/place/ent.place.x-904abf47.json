@@ -1,0 +1,59 @@
+{
+  "id": "ent.place.x-904abf47",
+  "type": "place",
+  "name": "晶龙阁",
+  "aliases": [],
+  "summary": "天晶真人好友所开、位于阗天城的阁楼，以幻术伪装、二层空间反大于外观，为元婴交换会场地。",
+  "attributes": {
+    "类型": "阁楼/交换会场地、交易阁楼、商铺",
+    "所属界面": "天南"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "阁楼/交换会场地",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      },
+      {
+        "value": "交易阁楼",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "商铺",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ]
+  },
+  "firstSeq": 673,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+      "dated": false,
+      "seq": 673
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "dated": false,
+      "seq": 679
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+  ],
+  "updatedAt": "2026-06-14T21:53:35.912Z"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "ent.person.x-4d964305",
+  "type": "person",
+  "name": "东门图",
+  "aliases": [
+    "御灵宗大长老",
+    "御灵宗东门图",
+    "东门道友",
+    "东门图大长老"
+  ],
+  "summary": "御灵宗大长老，碧绿衣衫长髯老者，执掌御灵宗大权，与谷双蒲情同手足，因谷双蒲被韩立所杀而记恨韩立。",
+  "attributes": {
+    "外貌": "绿袍老者",
+    "身份": "御灵宗大长老",
+    "阵营": "魔道",
+    "小阶段": "元婴",
+    "性别": "男"
+  },
+  "observations": {
+    "外貌": [
+      {
+        "value": "碧绿衣衫长髯老者",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "面色阴沉长髯绿袍",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "绿袍老者",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "身份": [
+      {
+        "value": "御灵宗大长老",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ],
+    "阵营": [
+      {
+        "value": "御灵宗",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue"
+  ],
+  "updatedAt": "2026-06-15T14:13:06.140Z"
+}

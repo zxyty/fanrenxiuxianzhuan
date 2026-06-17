@@ -1,0 +1,80 @@
+{
+  "id": "ent.pill.x-345aaea4",
+  "type": "pill",
+  "name": "聚灵丹",
+  "aliases": [
+    "聚灵丹古方"
+  ],
+  "summary": "韩立以一株灵草向雷万鹤换得的古方丹药之一。",
+  "attributes": {
+    "功效": "增长法力",
+    "炼制者": "韩立",
+    "适用境界": "筑基"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "聚灵",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "增进法力",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "增长法力",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241,
+        "note": "计划炼制，原料未齐"
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 235,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241,
+      "note": "计划炼制，原料未齐"
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.783Z"
+}

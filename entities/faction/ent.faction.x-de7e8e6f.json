@@ -1,0 +1,131 @@
+{
+  "id": "ent.faction.x-de7e8e6f",
+  "type": "faction",
+  "name": "七大派",
+  "aliases": [
+    "七大门派",
+    "七大仙派",
+    "七派",
+    "越国七派",
+    "七绝门?",
+    "正道七派",
+    "七派一方",
+    "七派大营",
+    "边界七派大营",
+    "七派联军"
+  ],
+  "summary": "越国七大修仙门派，主办升仙大会、把持筑基丹炼制。",
+  "attributes": {
+    "据点": "边界七派大营",
+    "阵营": "正道联盟",
+    "理念": "每次禁地之行低阶弟子上限25人",
+    "镇派之宝": "月阳宝珠（共有轮流执掌）",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "边界七派大营",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "阵营": [
+      {
+        "value": "越国正道",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "正道联盟",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "理念": [
+      {
+        "value": "每次禁地之行低阶弟子上限25人",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "月阳宝珠（共有轮流执掌）",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch170-zhanlipin",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-356-huofu-xiangyi"
+  ],
+  "updatedAt": "2026-06-14T12:17:41.307Z"
+}

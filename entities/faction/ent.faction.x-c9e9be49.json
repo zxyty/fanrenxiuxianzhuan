@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-c9e9be49",
+  "type": "faction",
+  "name": "红狼部",
+  "aliases": [
+    "红狼部落"
+  ],
+  "summary": "突兀人小部落，首领跋姓大汉，重金雇筑基初期枫仙师护送，途中并入苍鹭部车队。",
+  "attributes": {
+    "等级": "小部落",
+    "掌门": "跋姓大汉"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "小部落",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "掌门": [
+      {
+        "value": "跋姓大汉",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ]
+  },
+  "firstSeq": 877,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+  ],
+  "updatedAt": "2026-06-15T23:46:14.689Z"
+}

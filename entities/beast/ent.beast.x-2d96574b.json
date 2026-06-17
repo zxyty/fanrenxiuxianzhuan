@@ -1,0 +1,104 @@
+{
+  "id": "ent.beast.x-2d96574b",
+  "type": "beast",
+  "name": "碧眼真蟾",
+  "aliases": [
+    "真蟾",
+    "真蟾兽",
+    "成年碧眼真蟾",
+    "幼蟾"
+  ],
+  "summary": "蛮荒世界古兽，其灵血为真蟾液主料，罕见难求。",
+  "attributes": {
+    "栖息地": "蛮荒世界、蛮荒界地下深处巢穴、蛮荒界巨山地下巢穴",
+    "能力": "体内蕴含银白色灵血",
+    "等级": "炼虚中期(成年)、元婴级(幼蟾)",
+    "外形": "巨蟾，有大小之分(两大七小共九具尸体)"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "蛮荒世界",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "蛮荒界地下深处巢穴",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "蛮荒界巨山地下巢穴",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "能力": [
+      {
+        "value": "灵血可炼真蟾液",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "体内蕴含银白色灵血",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "等级": [
+      {
+        "value": "炼虚中期(成年)",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "元婴级(幼蟾)",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "外形": [
+      {
+        "value": "巨蟾，有大小之分(两大七小共九具尸体)",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ]
+  },
+  "firstSeq": 1327,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+      "dated": false,
+      "seq": 1387
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1401-black-mist-sea"
+  ],
+  "updatedAt": "2026-06-16T15:24:46.613Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ent.person.x-957a6a8a",
+  "type": "person",
+  "name": "韩铁",
+  "aliases": [
+    "大哥",
+    "黑大个"
+  ],
+  "summary": "韩立大哥，村中黑大个。",
+  "attributes": {
+    "性别": "男",
+    "存殁": "死亡"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 97,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:51.314Z"
+}

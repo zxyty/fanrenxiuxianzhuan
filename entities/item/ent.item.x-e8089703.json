@@ -1,0 +1,85 @@
+{
+  "id": "ent.item.x-e8089703",
+  "type": "item",
+  "name": "破界符",
+  "aliases": [
+    "最后一枚破界符",
+    "神秘符箓",
+    "黄色符箓"
+  ],
+  "summary": "玲珑赠韩立的最后一枚破界符，灵界用不上。",
+  "attributes": {
+    "类型": "符箓",
+    "用途": "破除空间障壁、破开空间障壁、破除/逃离禁制空间",
+    "产地": "玲珑仙子所赠"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "符箓",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1063
+      }
+    ],
+    "用途": [
+      {
+        "value": "破除空间障壁",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "破开空间障壁",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "破除/逃离禁制空间",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "产地": [
+      {
+        "value": "太一门",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "玲珑仙子所赠",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111,
+        "note": "临走相赠"
+      }
+    ]
+  },
+  "firstSeq": 1063,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1063
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111,
+      "note": "临走相赠"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.158Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ent.person.x-7d73cb37",
+  "type": "person",
+  "name": "赵子灵",
+  "aliases": [],
+  "summary": "五长老弟子，使拂柳剑法、拇指粗软剑，末场对阵厉师兄，剑法难缠但气势被压、败局已定。",
+  "attributes": {
+    "身份": "七玄门弟子",
+    "标志特征": "拂柳剑法、软剑",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "五长老弟子",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "七玄门弟子",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "拂柳剑法、软剑",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ]
+  },
+  "firstSeq": 13,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+      "dated": false,
+      "seq": 19
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch13-18-yixiang-qi",
+      "dated": false,
+      "seq": 13
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+      "dated": false,
+      "seq": 19
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch13-18-yixiang-qi",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan"
+  ],
+  "updatedAt": "2026-06-14T02:01:46.139Z"
+}

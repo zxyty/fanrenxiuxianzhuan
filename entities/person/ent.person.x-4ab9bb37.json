@@ -1,0 +1,103 @@
+{
+  "id": "ent.person.x-4ab9bb37",
+  "type": "person",
+  "name": "李氏兄弟",
+  "aliases": [
+    "李氏兄弟二人",
+    "鬼灵门两位长老",
+    "二老",
+    "李氏兄弟二长老"
+  ],
+  "summary": "鬼灵门两名结丹期修士，主持布置燕翎堡西峰的临时阴火大阵，自负可困住绝大多数筑基修士。",
+  "attributes": {
+    "身份": "鬼灵门长老",
+    "阵营": "魔道",
+    "小阶段": "结丹期",
+    "外貌": "白发老者、幼童模样"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "结丹期修士",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "鬼灵门长老",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "阵营": [
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "魔道六宗·鬼灵门",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发老者",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "幼童模样",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch362-nangong-ping"
+  ],
+  "updatedAt": "2026-06-14T12:34:03.860Z"
+}

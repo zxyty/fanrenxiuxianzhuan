@@ -1,0 +1,133 @@
+{
+  "id": "ent.person.x-66007d03",
+  "type": "person",
+  "name": "龙夫人",
+  "aliases": [
+    "鹤发老妪",
+    "龙道友",
+    "龙长老"
+  ],
+  "summary": "柳翠派大长老，元婴中期，修炼特殊功法可永葆年轻声音，受邀相助冲瓶。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "元婴",
+    "身份": "小极宫外门长老",
+    "标志特征": "拐杖、青色小锤",
+    "阵营": "柳翠派",
+    "外貌": "满脸皱纹老妪"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ],
+    "身份": [
+      {
+        "value": "柳翠派大长老",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "小极宫外门长老",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093,
+        "note": "对外以柳翠派掌门身份"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "声如处子、满头白发",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "拐杖、青色小锤",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "阵营": [
+      {
+        "value": "柳翠派",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满头鹤发的老妪",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "满脸皱纹老妪",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ]
+  },
+  "firstSeq": 1081,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093,
+      "note": "对外以柳翠派掌门身份"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1099-1104-xuanyu-cave-battle"
+  ],
+  "updatedAt": "2026-06-15T09:47:06.107Z"
+}

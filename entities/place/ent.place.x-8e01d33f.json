@@ -1,0 +1,102 @@
+{
+  "id": "ent.place.x-8e01d33f",
+  "type": "place",
+  "name": "晋京",
+  "aliases": [
+    "大晋第一城",
+    "晋京城",
+    "晋京都城",
+    "大晋都城",
+    "晋京皇城",
+    "晋京皇宫"
+  ],
+  "summary": "大晋修仙界京城，天机阁主商号及明暗交易会所在地。",
+  "attributes": {
+    "所属界面": "大晋皇朝",
+    "类型": "大晋都城",
+    "所属势力": "大晋皇朝",
+    "守护": "八极分光阵"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "大晋修仙界",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "类型": [
+      {
+        "value": "大晋都城",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "都城",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "守护": [
+      {
+        "value": "八极分光阵",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 931,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch973-minghe-zhiye"
+  ],
+  "updatedAt": "2026-06-16T03:09:29.429Z"
+}

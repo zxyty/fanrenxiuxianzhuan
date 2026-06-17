@@ -1,0 +1,115 @@
+{
+  "id": "ent.faction.x-044ea224",
+  "type": "faction",
+  "name": "秦家",
+  "aliases": [
+    "秦宅",
+    "秦府"
+  ],
+  "summary": "秦叶岭原威名不下叶家的修仙家族，与叶家有姻亲；后男丁稀少衰败，传家升仙令被叶家觊觎。",
+  "attributes": {
+    "据点": "秦叶岭、越京东区、越京、秦宅（越京）",
+    "理念": "宁传不滥用升仙令",
+    "阵营": "凡人世俗豪门",
+    "掌门": "秦言",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "秦叶岭",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "越京东区",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "越京",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "秦宅（越京）",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "理念": [
+      {
+        "value": "宁传不滥用升仙令",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "阵营": [
+      {
+        "value": "凡人世俗豪门",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "掌门": [
+      {
+        "value": "秦言",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.403Z"
+}

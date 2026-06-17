@@ -1,0 +1,178 @@
+{
+  "id": "ent.faction.x-26502816",
+  "type": "faction",
+  "name": "黑煞教",
+  "aliases": [
+    "黑煞教邪教",
+    "黑煞",
+    "黑煞之主势力",
+    "黑煞教一门",
+    "黑煞邪教"
+  ],
+  "summary": "抓掳修仙者修炼邪功的魔道邪教，以诱饵（声称教主可不用筑基丹强行筑基）发展内应，被擒者多遭血祭；其两名头目身份已被韩立判明。",
+  "attributes": {
+    "阵营": "魔道/邪教、邪道、魔道、邪修/魔道、邪修、魔道/敌对",
+    "理念": "掳人修邪功、许外围弟子以筑基机缘以驱使效命、血祭练功",
+    "据点": "越京城南区秘密据点、馨王府、越京城荒庙(临时)、越国皇宫、越京皇宫大内",
+    "掌门": "李破云、黑煞教教主、黑煞教主、越皇",
+    "镇派之宝": "玄阴经"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道/邪教",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "邪道",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "邪修/魔道",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "邪修",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "魔道/敌对",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "理念": [
+      {
+        "value": "掳人修邪功",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "许外围弟子以筑基机缘以驱使效命",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "血祭练功",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "据点": [
+      {
+        "value": "越京城南区秘密据点",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "馨王府",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "越京城荒庙(临时)",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "越国皇宫",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "越京皇宫大内",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "掌门": [
+      {
+        "value": "李破云",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "黑煞教教主",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "黑煞教主",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "越皇",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "四象阵",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "玄阴经",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 301,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.562Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ent.technique.x-f76c298a",
+  "type": "technique",
+  "name": "雷遁术",
+  "aliases": [
+    "雷遁之术",
+    "雷遁"
+  ],
+  "summary": "遁术中最神秘的一种，瞬息百丈、飘忽鬼魅，远胜普通五行遁术，由风雷翅注入雷电之力激发。",
+  "attributes": {
+    "出处": "天鹏族",
+    "效果": "瞬移般极速遁行，飘忽鬼魅、高速遁行、借雷之力隐匿身形、雷光瞬遁",
+    "五行属性": "风、雷"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "风雷翅",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "效果": [
+      {
+        "value": "瞬移般极速遁行，飘忽鬼魅",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "高速遁行",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "借雷之力隐匿身形",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "雷光瞬遁",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "风",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "雷",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      }
+    ]
+  },
+  "firstSeq": 547,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "dated": false,
+      "seq": 547
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "dated": false,
+      "seq": 547
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch547-552-poison-three-demons",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1407-jinsui-lianti"
+  ],
+  "updatedAt": "2026-06-16T15:42:40.170Z"
+}

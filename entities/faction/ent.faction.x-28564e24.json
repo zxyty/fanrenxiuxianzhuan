@@ -1,0 +1,70 @@
+{
+  "id": "ent.faction.x-28564e24",
+  "type": "faction",
+  "name": "青灵门",
+  "aliases": [
+    "青灵门一门"
+  ],
+  "summary": "小门小派，二十余年前兽潮中陨落唯一结丹期长老，门内仅余少数筑基期修士；本章弟子出海采药遭鹰鸢兽追杀。",
+  "attributes": {
+    "等级": "乱星海小门派",
+    "镇派之宝": "青灵功",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "小门小派",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "乱星海小门派",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "青灵功",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+  ],
+  "updatedAt": "2026-06-14T18:06:17.271Z"
+}

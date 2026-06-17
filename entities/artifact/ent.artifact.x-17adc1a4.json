@@ -1,0 +1,90 @@
+{
+  "id": "ent.artifact.x-17adc1a4",
+  "type": "artifact",
+  "name": "月阳宝珠",
+  "aliases": [
+    "月阳珠"
+  ],
+  "summary": "掩月宗修士炼制的法宝，不攻不防，唯能放奇光克制迷雾毒瘴，专为禁地破雾而设，后成七大派共有、轮流执掌之物。",
+  "attributes": {
+    "能力": "放奇光克制各种迷雾毒瘴、施法驱散环形山迷雾",
+    "来历": "掩月宗修士炼制",
+    "持有者": "七大派轮流执掌、天阙堡弟子",
+    "品阶": "高级法宝"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "放奇光克制各种迷雾毒瘴",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "施法驱散环形山迷雾",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "来历": [
+      {
+        "value": "掩月宗修士炼制",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "持有者": [
+      {
+        "value": "七大派轮流执掌",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193,
+        "note": "原属掩月宗，后献出成七派共有"
+      },
+      {
+        "value": "天阙堡弟子",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "品阶": [
+      {
+        "value": "高级法宝",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193,
+      "note": "原属掩月宗，后献出成七派共有"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.482Z"
+}

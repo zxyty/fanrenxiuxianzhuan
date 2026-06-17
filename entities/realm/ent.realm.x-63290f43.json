@@ -1,0 +1,86 @@
+{
+  "id": "ent.realm.x-63290f43",
+  "type": "realm",
+  "name": "大乘",
+  "aliases": [
+    "大乘期",
+    "大乘修士"
+  ],
+  "summary": "中境界第三层（最顶层）。",
+  "attributes": {
+    "阶序": "中境界第三层",
+    "上一境": "合体",
+    "下一境": "合体",
+    "突破关键": "度天劫，防域外天魔"
+  },
+  "observations": {
+    "阶序": [
+      {
+        "value": "中境界第三层",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "上一境": [
+      {
+        "value": "合体",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "下一境": [
+      {
+        "value": "渡劫",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "度天劫，防域外天魔",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "阶序": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.751Z"
+}

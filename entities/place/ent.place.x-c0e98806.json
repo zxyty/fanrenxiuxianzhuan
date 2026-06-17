@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-c0e98806",
+  "type": "place",
+  "name": "邡莽山",
+  "aliases": [
+    "邡莽山脉"
+  ],
+  "summary": "阴罗宗总坛所在山脉，韩立在外监视半年多。",
+  "attributes": {
+    "所属势力": "阴罗宗",
+    "类型": "宗门总坛"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "阴罗宗",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      }
+    ],
+    "类型": [
+      {
+        "value": "宗门总坛",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      }
+    ]
+  },
+  "firstSeq": 1225,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "dated": false,
+      "seq": 1225
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "dated": false,
+      "seq": 1225
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+  ],
+  "updatedAt": "2026-06-16T08:58:55.836Z"
+}

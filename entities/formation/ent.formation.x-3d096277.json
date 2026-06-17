@@ -1,0 +1,50 @@
+{
+  "id": "ent.formation.x-3d096277",
+  "type": "formation",
+  "name": "困魔大阵",
+  "aliases": [
+    "七色彩罩"
+  ],
+  "summary": "太真七修以七件古宝合成、围困圣禽的大阵。",
+  "attributes": {
+    "布置者": "太真七修",
+    "效果": "形成七色彩罩围困妖禽并托住青焰"
+  },
+  "observations": {
+    "布置者": [
+      {
+        "value": "太真七修",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "效果": [
+      {
+        "value": "形成七色彩罩围困妖禽并托住青焰",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ]
+  },
+  "firstSeq": 769,
+  "attrProvenance": {
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-769-774-border-war-6-8"
+  ],
+  "updatedAt": "2026-06-15T03:47:18.090Z"
+}

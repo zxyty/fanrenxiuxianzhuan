@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-d8cfd2a7",
+  "type": "artifact",
+  "name": "辟水玉犀角",
+  "aliases": [],
+  "summary": "蓝城主持有的法宝，传闻对进入炙光潭大有用处。",
+  "attributes": {
+    "持有者": "蓝城主",
+    "能力": "辟水/利于入潭"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "蓝城主",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "能力": [
+      {
+        "value": "辟水/利于入潭",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.094Z"
+}

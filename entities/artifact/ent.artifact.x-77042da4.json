@@ -1,0 +1,94 @@
+{
+  "id": "ent.artifact.x-77042da4",
+  "type": "artifact",
+  "name": "天机屋",
+  "aliases": [
+    "微型石屋"
+  ],
+  "summary": "天机阁特产法器，可缩小洞府随身携带，据芥子空间炼制术研究而来。",
+  "attributes": {
+    "来历": "天机阁特产",
+    "能力": "缩小洞府随身携带、缩放、隔音防窥视、高阶可附阵法禁制",
+    "品阶": "低阶至顶阶不等",
+    "外形": "塔/楼阁/宅院等多种"
+  },
+  "observations": {
+    "来历": [
+      {
+        "value": "天机阁特产",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "能力": [
+      {
+        "value": "缩小洞府随身携带",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "缩放",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "隔音防窥视",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "高阶可附阵法禁制",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "品阶": [
+      {
+        "value": "低阶至顶阶不等",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "外形": [
+      {
+        "value": "塔/楼阁/宅院等多种",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 901,
+  "attrProvenance": {
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+  ],
+  "updatedAt": "2026-06-16T00:43:53.259Z"
+}

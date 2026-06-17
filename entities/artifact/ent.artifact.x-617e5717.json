@@ -1,0 +1,51 @@
+{
+  "id": "ent.artifact.x-617e5717",
+  "type": "artifact",
+  "name": "紫光钹",
+  "aliases": [
+    "紫色钹形法器"
+  ],
+  "summary": "丰师兄所持法器，被其夸称威力。",
+  "attributes": {
+    "持有者": "丰师兄",
+    "外形": "紫色钹形"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "丰师兄",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "外形": [
+      {
+        "value": "紫色钹形",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.358Z"
+}

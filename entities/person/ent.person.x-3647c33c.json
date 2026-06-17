@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-3647c33c",
+  "type": "person",
+  "name": "叶豹",
+  "aliases": [
+    "马脸汉子",
+    "赤足马脸汉子"
+  ],
+  "summary": "自称秦叶岭叶家人，出价二十块欲换飞天符被拒，记恨草帽青年。",
+  "attributes": {
+    "出身地": "秦叶岭",
+    "身份": "散修",
+    "外貌": "赤足马脸"
+  },
+  "observations": {
+    "出身地": [
+      {
+        "value": "秦叶岭",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "外貌": [
+      {
+        "value": "赤足马脸",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "出身地": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan"
+  ],
+  "updatedAt": "2026-06-14T03:45:50.863Z"
+}

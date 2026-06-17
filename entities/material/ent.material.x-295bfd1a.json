@@ -1,0 +1,72 @@
+{
+  "id": "ent.material.x-295bfd1a",
+  "type": "material",
+  "name": "乌凤翎",
+  "aliases": [
+    "乌风翎",
+    "乌凤尾翎",
+    "乌凤长翎"
+  ],
+  "summary": "乌凤尾部长翎，晶莹红光如炽焰，火属性炼器材料，可增强三焰扇；本支灵性已流失大半。",
+  "attributes": {
+    "类型": "灵禽尾翎",
+    "用途": "炼制傀儡相关",
+    "稀有度": "极稀有"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵禽尾翎",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼器（增强三焰扇威力）",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "炼制傀儡相关",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+  ],
+  "updatedAt": "2026-06-16T02:36:43.793Z"
+}

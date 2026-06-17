@@ -1,0 +1,68 @@
+{
+  "id": "ent.technique.x-88ecca41",
+  "type": "technique",
+  "name": "魔银手",
+  "aliases": [],
+  "summary": "墨大夫成名绝技，双臂膨胀银化坚不可摧。",
+  "attributes": {
+    "出处": "墨大夫成名绝技",
+    "效果": "刀枪不入、护住要害",
+    "外显异象": "手臂膨胀、皮肤银白反光"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "墨大夫成名绝技",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ],
+    "效果": [
+      {
+        "value": "双臂变银白金属、坚不可摧",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      },
+      {
+        "value": "刀枪不入、护住要害",
+        "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+        "seq": 49
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "手臂膨胀、皮肤银白反光",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ]
+  },
+  "firstSeq": 43,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+      "dated": false,
+      "seq": 43
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch49-54-mo-dafu-duoshe",
+      "dated": false,
+      "seq": 49
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+      "dated": false,
+      "seq": 43
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-ch49-54-mo-dafu-duoshe"
+  ],
+  "updatedAt": "2026-06-14T02:17:26.068Z"
+}

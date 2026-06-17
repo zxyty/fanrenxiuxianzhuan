@@ -1,0 +1,115 @@
+{
+  "id": "ent.material.x-91c66c23",
+  "type": "material",
+  "name": "北极元光",
+  "aliases": [
+    "元光",
+    "北极元光光丝",
+    "银色光丝"
+  ],
+  "summary": "坠魔谷中可杀人于无形的特殊元光，需两仪环阴环护身方能穿越。",
+  "attributes": {
+    "类型": "天地异光、上古禁制之光、危险灵光、凶险光区、禁制灵光、元光幻阵禁制",
+    "用途": "封路杀阵",
+    "产地": "坠魔谷亦有"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "天地异光",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "上古禁制之光",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "危险灵光",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "凶险光区",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "禁制灵光",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "元光幻阵禁制",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ],
+    "用途": [
+      {
+        "value": "可被阳环操纵杀敌",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "灭杀闯入者/守护内谷通道",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "封路杀阵",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "产地": [
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "坠魔谷山洞",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "坠魔谷亦有",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 721,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+  ],
+  "updatedAt": "2026-06-16T04:46:03.705Z"
+}

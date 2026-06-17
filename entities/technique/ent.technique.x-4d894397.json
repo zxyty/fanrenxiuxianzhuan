@@ -1,0 +1,50 @@
+{
+  "id": "ent.technique.x-4d894397",
+  "type": "technique",
+  "name": "鬼煞决",
+  "aliases": [
+    "鬼煞诀"
+  ],
+  "summary": "钺姓修士修习的功法，修成煞气冲天，于圣树附近修习进境一日千里。",
+  "attributes": {
+    "效果": "煞气冲天",
+    "外显异象": "一脸惊人煞气"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "煞气冲天",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "一脸惊人煞气",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ]
+  },
+  "firstSeq": 625,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+  ],
+  "updatedAt": "2026-06-14T20:12:07.183Z"
+}

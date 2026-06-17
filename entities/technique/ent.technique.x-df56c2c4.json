@@ -1,0 +1,80 @@
+{
+  "id": "ent.technique.x-df56c2c4",
+  "type": "technique",
+  "name": "虫甲术",
+  "aliases": [
+    "驱虫术",
+    "驱虫驱兽秘术",
+    "御灵宗驱虫秘术",
+    "驱虫秘术",
+    "驭虫术"
+  ],
+  "summary": "御灵宗驱虫秘术，可驱役灵虫并以噬金虫凝结虫云护罩与三色护甲。",
+  "attributes": {
+    "出处": "御灵宗",
+    "效果": "驱役灵虫、凝结虫甲护罩、以灵虫凝结防护战甲",
+    "适用境界": "虫修"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "御灵宗",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "效果": [
+      {
+        "value": "驱役灵虫",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "凝结虫甲护罩",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "以灵虫凝结防护战甲",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "虫修",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ]
+  },
+  "firstSeq": 493,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch493-huazhou-zhimi"
+  ],
+  "updatedAt": "2026-06-15T01:52:53.214Z"
+}

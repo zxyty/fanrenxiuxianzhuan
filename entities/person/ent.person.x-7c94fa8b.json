@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-7c94fa8b",
+  "type": "person",
+  "name": "无珐子",
+  "aliases": [
+    "清虚门无珐子"
+  ],
+  "summary": "清虚门年长道士，筑基修士，无游子之师兄。",
+  "attributes": {
+    "身份": "无游子师兄",
+    "小阶段": "筑基",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "清虚门修士",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "无游子师兄",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.303Z"
+}

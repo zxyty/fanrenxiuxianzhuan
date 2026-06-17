@@ -1,0 +1,78 @@
+{
+  "id": "ent.person.x-d79920e8",
+  "type": "person",
+  "name": "黑袍人",
+  "aliases": [
+    "黑袍修士",
+    "魔道修士",
+    "黑袍魔修",
+    "黑袍魔修士"
+  ],
+  "summary": "冷傲魔道修士，独自携啼魂兽闯鬼冤之地，先入鬼雾为后来者开路。",
+  "attributes": {
+    "阵营": "魔修",
+    "外貌": "黑袍",
+    "性格": "心高气傲、傲慢"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "魔修",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑袍",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷傲",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "心高气傲、傲慢",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      }
+    ]
+  },
+  "firstSeq": 433,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-439-444-guiwang-xutiandian"
+  ],
+  "updatedAt": "2026-06-14T15:23:19.033Z"
+}

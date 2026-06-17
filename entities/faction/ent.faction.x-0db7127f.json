@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-0db7127f",
+  "type": "faction",
+  "name": "正道联盟",
+  "aliases": [
+    "风都国正道联盟"
+  ],
+  "summary": "风都国的正道修仙联盟，是本地区抵挡天罗国魔道六宗的主要力量。",
+  "attributes": {
+    "阵营": "正道",
+    "据点": "风都国"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "据点": [
+      {
+        "value": "风都国",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng"
+  ],
+  "updatedAt": "2026-06-14T07:31:27.724Z"
+}

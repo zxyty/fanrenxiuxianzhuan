@@ -1,0 +1,213 @@
+{
+  "id": "ent.faction.x-787c3e97",
+  "type": "faction",
+  "name": "掩月宗",
+  "aliases": [
+    "掩月宗一门"
+  ],
+  "summary": "越国实力最强的修仙门派。",
+  "attributes": {
+    "所属界面": "越国",
+    "等级": "乱星海六派之一",
+    "阵营": "正道",
+    "镇派之宝": "镇派大阵",
+    "据点": "北凉国玲珑山",
+    "理念": "媚功了得"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "等级": [
+      {
+        "value": "越国最强",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "七大派最强",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "七大派中实力最强",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "越国第一修仙派",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "越国第一大派",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "越国第一仙派",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "七派最强",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "乱星海六派之一",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "正道七派",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "七派",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "（弟子）双修之术",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "月阳宝珠",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193,
+        "note": "后献出成七派共有"
+      },
+      {
+        "value": "多种不外传秘术",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "镇派大阵",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "北凉国玲珑山",
+        "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+        "seq": 709
+      }
+    ],
+    "理念": [
+      {
+        "value": "双修之术",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "媚功了得",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+      "dated": false,
+      "seq": 709
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.043Z"
+}

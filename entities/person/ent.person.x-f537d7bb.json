@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-f537d7bb",
+  "type": "person",
+  "name": "玉儿",
+  "aliases": [
+    "玉"
+  ],
+  "summary": "掩月宗大长老安插监视南宫婉的弟子,被黄衫少女假冒其身份。",
+  "attributes": {
+    "性别": "女",
+    "身份": "掩月宗弟子/监视者"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "身份": [
+      {
+        "value": "掩月宗弟子/监视者",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 715,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.366Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-cbefdf63",
+  "type": "faction",
+  "name": "开天门",
+  "aliases": [],
+  "summary": "门主刘真人，弟子必备白水剑法器；弟子辛明在盘查中获放行。",
+  "attributes": {
+    "掌门": "刘真人",
+    "镇派之宝": "白水剑(弟子必备法器)"
+  },
+  "observations": {
+    "掌门": [
+      {
+        "value": "刘真人",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "白水剑(弟子必备法器)",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ]
+  },
+  "firstSeq": 499,
+  "attrProvenance": {
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-499-504-nanming-island"
+  ],
+  "updatedAt": "2026-06-14T17:26:54.179Z"
+}

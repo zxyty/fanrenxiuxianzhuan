@@ -1,0 +1,57 @@
+{
+  "id": "ent.place.x-f585c0dc",
+  "type": "place",
+  "name": "深渊",
+  "aliases": [
+    "深渊中心区",
+    "深渊边缘"
+  ],
+  "summary": "乱星海高阶妖兽聚集地，两年前妖兽暴动后成禁区，闯入高阶修士有进无回。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "危险度": "极高"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高(禁区)",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+  ],
+  "updatedAt": "2026-06-14T18:18:59.398Z"
+}

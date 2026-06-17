@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-f99526b3",
+  "type": "faction",
+  "name": "隐宗",
+  "aliases": [
+    "隐宗一脉"
+  ],
+  "summary": "藏身黑水山脉的人族隐秘宗门，天马门曾欲投靠。",
+  "attributes": {
+    "阵营": "人族",
+    "据点": "黑水山脉"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "据点": [
+      {
+        "value": "黑水山脉",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 1921,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.783Z"
+}

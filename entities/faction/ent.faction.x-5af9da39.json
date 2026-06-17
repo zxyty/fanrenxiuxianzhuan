@@ -1,0 +1,77 @@
+{
+  "id": "ent.faction.x-5af9da39",
+  "type": "faction",
+  "name": "化刀坞",
+  "aliases": [],
+  "summary": "越国七大修仙门派之一。",
+  "attributes": {
+    "所属界面": "越国",
+    "阵营": "正道",
+    "据点": "越国"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-793-798-zhuimo-zhi-di"
+  ],
+  "updatedAt": "2026-06-15T05:43:18.523Z"
+}

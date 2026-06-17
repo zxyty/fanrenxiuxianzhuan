@@ -1,0 +1,38 @@
+{
+  "id": "ent.faction.x-84a0170b",
+  "type": "faction",
+  "name": "四大商盟",
+  "aliases": [
+    "四大商盟之一"
+  ],
+  "summary": "乱星海星宫之外的一股商贸势力。",
+  "attributes": {
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ]
+  },
+  "firstSeq": 385,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+  ],
+  "updatedAt": "2026-06-14T17:41:23.005Z"
+}

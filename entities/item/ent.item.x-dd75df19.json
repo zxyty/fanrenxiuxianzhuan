@@ -1,0 +1,75 @@
+{
+  "id": "ent.item.x-dd75df19",
+  "type": "item",
+  "name": "升仙令牌",
+  "aliases": [
+    "三角形令牌"
+  ],
+  "summary": "金光上人遗物，三角形黑色牌，一面金篆‘升仙’、一面银字‘令’，沉甸甸非金属，用途不明。",
+  "attributes": {
+    "类型": "令牌",
+    "用途": "未知、凭令获筑基丹与入门资格、待遇等同升仙会胜出者",
+    "产地": "越国七大仙派"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ],
+    "用途": [
+      {
+        "value": "未知",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      },
+      {
+        "value": "凭令获筑基丹与入门资格",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "待遇等同升仙会胜出者",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "产地": [
+      {
+        "value": "越国七大仙派",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 91,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.570Z"
+}

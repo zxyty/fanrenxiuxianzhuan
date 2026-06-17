@@ -1,0 +1,122 @@
+{
+  "id": "ent.person.x-49d020e3",
+  "type": "person",
+  "name": "柳姓女子",
+  "aliases": [
+    "柳师妹"
+  ],
+  "summary": "御灵宗女修，柳眉凤眸、慵懒模样的妙龄女子，与菡云芝同行追查灵婴一事。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "柳眉凤眸",
+    "身份": "御灵宗修士",
+    "阵营": "御灵宗、魔道",
+    "小阶段": "结丹期",
+    "存殁": "存活"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "外貌": [
+      {
+        "value": "柳眉凤眸、妙龄慵懒",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "柳眉凤眸",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "身份": [
+      {
+        "value": "御灵宗长辈",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "御灵宗修士",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "阵营": [
+      {
+        "value": "御灵宗",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:48.328Z"
+}

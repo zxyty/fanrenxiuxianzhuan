@@ -1,0 +1,175 @@
+{
+  "id": "ent.faction.x-10b94e6a",
+  "type": "faction",
+  "name": "天符门",
+  "aliases": [
+    "天符门一门",
+    "天符门一派",
+    "天符真人门下",
+    "天赋门"
+  ],
+  "summary": "大晋国势力，云道友(红脸老者)所属；托韩立送交骨盒之处。",
+  "attributes": {
+    "所属界面": "人界(大晋)",
+    "据点": "晋国华云州、华云州开江镇白竹山、华云州、白竹山",
+    "镇派之宝": "三灵符（含降灵符）、三大密符、化灵符、六丁天甲符、降灵符",
+    "理念": "符箓之道",
+    "等级": "末流小派、小宗门、小宗派",
+    "掌门": "岳真、云师兄"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋国",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "人界(大晋)",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ],
+    "据点": [
+      {
+        "value": "晋国华云州",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      },
+      {
+        "value": "华云州开江镇白竹山",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "华云州",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "白竹山",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "三灵符（含降灵符）",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      },
+      {
+        "value": "三大密符",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "化灵符",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "六丁天甲符",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "降灵符",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "理念": [
+      {
+        "value": "符箓之道",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      }
+    ],
+    "等级": [
+      {
+        "value": "末流小派",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "小宗门",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "小宗派",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "掌门": [
+      {
+        "value": "岳真",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "云师兄",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ]
+  },
+  "firstSeq": 583,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "dated": false,
+      "seq": 1255
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "dated": false,
+      "seq": 1057
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+  ],
+  "updatedAt": "2026-06-16T09:55:48.387Z"
+}

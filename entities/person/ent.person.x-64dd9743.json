@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-64dd9743",
+  "type": "person",
+  "name": "鲍某",
+  "aliases": [
+    "鲍大哥",
+    "鲍姓汉子"
+  ],
+  "summary": "淡黄枯瘦的炼体士，持木匣兜售地蛟筋；劝阻同伙勿对韩立劫财。",
+  "attributes": {
+    "性别": "男",
+    "身份": "炼体士",
+    "外貌": "面容淡黄、枯瘦"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容淡黄、枯瘦",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao"
+  ],
+  "updatedAt": "2026-06-16T10:12:05.264Z"
+}

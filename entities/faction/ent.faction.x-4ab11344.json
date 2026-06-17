@@ -1,0 +1,268 @@
+{
+  "id": "ent.faction.x-4ab11344",
+  "type": "faction",
+  "name": "鬼灵门",
+  "aliases": [
+    "鬼灵门一宗",
+    "鬼灵门绿袍人",
+    "鬼灵宗",
+    "鬼灵派",
+    "鬼灵门一门",
+    "碎魂门"
+  ],
+  "summary": "魔道势力，精通阴损法术与毒术，上门与燕家比试并占上风。",
+  "attributes": {
+    "阵营": "魔道、邪道、邪派、魔道六宗、魔道六宗（最弱）、魔道（疑）、天南魔道、天南鬼道",
+    "理念": "玩毒、驱鬼役妖、毒术暗术、联姻控制燕家、驱鬼斩魂",
+    "等级": "天罗国魔道六宗之一（最弱）",
+    "所属界面": "天罗国",
+    "镇派之宝": "万灵真经、血灵**、阴火大阵、骷髅头/小幡类鬼物法器、骷髅头法器、惊魂咒等密术",
+    "据点": "燕翎堡（临时设局）、越国、掩月宗旧址(总坛)、太岳山脉分坛、坠魔谷活动",
+    "掌门": "魏无涯"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "邪道",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "邪派",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "魔道六宗（最弱）",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "魔道（疑）",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "天南魔道",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      },
+      {
+        "value": "天南鬼道",
+        "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
+        "seq": 775
+      }
+    ],
+    "理念": [
+      {
+        "value": "玩毒",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "驱鬼役妖、毒术暗术",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "联姻控制燕家",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "驱鬼斩魂",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      }
+    ],
+    "等级": [
+      {
+        "value": "天罗国魔道六宗之一（最弱）",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天罗国",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "万灵真经",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "血灵**",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "阴火大阵",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "骷髅头/小幡类鬼物法器",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "骷髅头法器",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "惊魂咒等密术",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ],
+    "据点": [
+      {
+        "value": "燕翎堡（临时设局）",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253,
+        "note": "假冒燕家"
+      },
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "掩月宗旧址(总坛)",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "太岳山脉分坛",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "坠魔谷活动",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "掌门": [
+      {
+        "value": "王天古",
+        "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "王天胜",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "魏无涯",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253,
+      "note": "假冒燕家"
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "dated": false,
+      "seq": 829
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.039Z"
+}

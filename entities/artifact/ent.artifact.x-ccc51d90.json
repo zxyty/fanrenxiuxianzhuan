@@ -1,0 +1,69 @@
+{
+  "id": "ent.artifact.x-ccc51d90",
+  "type": "artifact",
+  "name": "天月神舟",
+  "aliases": [],
+  "summary": "掩月宗的巨型飞行法宝，青玉雕成、金箔描龙画凤，外罩白色光罩。",
+  "attributes": {
+    "持有者": "掩月宗",
+    "能力": "载人量大",
+    "外形": "青玉巨船、金箔龙凤、白色光罩"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "掩月宗",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "能力": [
+      {
+        "value": "高速飞行、载众多弟子",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "载人量大",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "外形": [
+      {
+        "value": "青玉巨船、金箔龙凤、白色光罩",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 175,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.549Z"
+}

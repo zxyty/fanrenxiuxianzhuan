@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-85c83531",
+  "type": "artifact",
+  "name": "银环古宝",
+  "aliases": [
+    "银环"
+  ],
+  "summary": "妖兽战利品中的一只银环古宝，品阶尚可但已入不了此时韩立的眼界。",
+  "attributes": {
+    "品阶": "古宝",
+    "外形": "银环"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "外形": [
+      {
+        "value": "银环",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ]
+  },
+  "firstSeq": 1111,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.107Z"
+}

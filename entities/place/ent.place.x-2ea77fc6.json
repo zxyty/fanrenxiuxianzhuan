@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-2ea77fc6",
+  "type": "place",
+  "name": "隐剑峰",
+  "aliases": [],
+  "summary": "落云宗下属一峰，奎焕出身处。",
+  "attributes": {
+    "所属势力": "落云宗",
+    "类型": "宗门内山峰、宗门山峰、山峰"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "类型": [
+      {
+        "value": "宗门内山峰",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "宗门山峰",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "山峰",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+  ],
+  "updatedAt": "2026-06-14T19:58:38.278Z"
+}

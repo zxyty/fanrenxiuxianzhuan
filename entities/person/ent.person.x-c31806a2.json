@@ -1,0 +1,112 @@
+{
+  "id": "ent.person.x-c31806a2",
+  "type": "person",
+  "name": "梦祥",
+  "aliases": [
+    "梦祥大人",
+    "金瞳异族首领",
+    "金色瞳孔异族",
+    "不死王",
+    "斩巨山夜叉首领"
+  ],
+  "summary": "带翅异族大军首领，瞳孔淡金、肌肤赤红、肉翅倍大，以鲜红光片配合巨大异族之力一击斩开万丈巨山。",
+  "attributes": {
+    "性别": "男",
+    "种族": "夜叉族",
+    "身份": "夜叉王",
+    "标志特征": "淡金瞳孔、赤红肌肤、倍大肉翅",
+    "称号": "不死王、夜叉王"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "种族": [
+      {
+        "value": "带翅异族",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "夜叉族",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
+    ],
+    "身份": [
+      {
+        "value": "异族大军首领",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "夜叉王",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "淡金瞳孔、赤红肌肤、倍大肉翅",
+        "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "称号": [
+      {
+        "value": "不死王",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      },
+      {
+        "value": "夜叉王",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
+    ]
+  },
+  "firstSeq": 1387,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+      "dated": false,
+      "seq": 1387
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+      "dated": false,
+      "seq": 1387
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1393-1398-yecha-wang-changnu"
+  ],
+  "updatedAt": "2026-06-16T15:11:49.223Z"
+}

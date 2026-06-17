@@ -1,0 +1,54 @@
+{
+  "id": "ent.technique.x-89d2aff1",
+  "type": "technique",
+  "name": "七鬼噬魂大法",
+  "aliases": [],
+  "summary": "余子童传授墨大夫的功法，可短时间获得一定法力施展简单法术，但以身喂鬼、耗损精元为代价。",
+  "attributes": {
+    "出处": "墨大夫遗法",
+    "效果": "短时获法力施简单法术"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "余子童所传",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      },
+      {
+        "value": "墨大夫遗法",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      }
+    ],
+    "效果": [
+      {
+        "value": "短时获法力施简单法术",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      }
+    ]
+  },
+  "firstSeq": 55,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+      "dated": false,
+      "seq": 73
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+      "dated": false,
+      "seq": 55
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch55-60-third-person-duoshe-failed",
+    "plot.fanren-ch73-78-lifeiyu-yufengjue"
+  ],
+  "updatedAt": "2026-06-14T02:48:17.048Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ent.person.x-d53e86f8",
+  "type": "person",
+  "name": "蒙氏五友",
+  "aliases": [
+    "蒙面四人"
+  ],
+  "summary": "魔道本教新吸纳的外围炼气期修士，奉命生擒/杀韩立失败被擒，身受血咒仅余半日命。",
+  "attributes": {
+    "身份": "魔道本教新吸纳的外围修士",
+    "存殁": "将死"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "魔道本教新吸纳的外围修士",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "存殁": [
+      {
+        "value": "将死",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295,
+        "note": "身受血咒禁制,顶多还有半日可活"
+      }
+    ]
+  },
+  "firstSeq": 295,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295,
+      "note": "身受血咒禁制,顶多还有半日可活"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin"
+  ],
+  "updatedAt": "2026-06-14T09:22:45.156Z"
+}

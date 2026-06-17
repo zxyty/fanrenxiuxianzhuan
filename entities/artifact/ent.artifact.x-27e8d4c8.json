@@ -1,0 +1,68 @@
+{
+  "id": "ent.artifact.x-27e8d4c8",
+  "type": "artifact",
+  "name": "青冥甲",
+  "aliases": [
+    "清鸣甲",
+    "青甲",
+    "战甲",
+    "青冥战甲"
+  ],
+  "summary": "吊眉汉子护身青甲，可如泥鳅般卸去大半拳力。",
+  "attributes": {
+    "持有者": "吊眉汉子",
+    "能力": "卸力护身",
+    "来历": "天甲殿配发"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "吊眉汉子",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "能力": [
+      {
+        "value": "卸力护身",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "来历": [
+      {
+        "value": "天甲殿配发",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ]
+  },
+  "firstSeq": 1315,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1323-xuantian-fruit"
+  ],
+  "updatedAt": "2026-06-16T12:27:08.892Z"
+}

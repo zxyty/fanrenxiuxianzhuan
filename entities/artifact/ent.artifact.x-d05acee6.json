@@ -1,0 +1,105 @@
+{
+  "id": "ent.artifact.x-d05acee6",
+  "type": "artifact",
+  "name": "皇鳞甲",
+  "aliases": [
+    "内甲",
+    "银白色鳞片内甲",
+    "皇鳞甲甲"
+  ],
+  "summary": "蛮胡子的异宝内甲，黑色镶银白鳞片、沉甸甸，护身用；蛮胡子托天功大成后已无用，故暂借韩立。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "银白色鳞片内甲",
+    "能力": "护身",
+    "来历": "蛮胡子所赠"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463,
+        "note": "蛮胡子暂借保命"
+      }
+    ],
+    "外形": [
+      {
+        "value": "黝黑内甲、镶银白鳞片",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "银白色鳞片内甲",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      }
+    ],
+    "能力": [
+      {
+        "value": "挡九级妖兽一击",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "超常防御",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "护身",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ],
+    "来历": [
+      {
+        "value": "蛮胡子",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547
+      },
+      {
+        "value": "蛮胡子所赠",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ]
+  },
+  "firstSeq": 463,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463,
+      "note": "蛮胡子暂借保命"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "dated": false,
+      "seq": 547
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-ch547-552-poison-three-demons",
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-1141-1146-capture-jiyin-zushi"
+  ],
+  "updatedAt": "2026-06-15T10:58:17.840Z"
+}

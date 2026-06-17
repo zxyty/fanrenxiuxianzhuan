@@ -1,0 +1,67 @@
+{
+  "id": "ent.pill.x-8b4b79e0",
+  "type": "pill",
+  "name": "护心丸",
+  "aliases": [],
+  "summary": "华伯父精心调制的丹药,可应付一般小病小伤,赠韩立防身,名气不小。",
+  "attributes": {
+    "炼制者": "华伯父、华兄",
+    "功效": "应付一般小病小伤、防身",
+    "副作用": "千金难买"
+  },
+  "observations": {
+    "炼制者": [
+      {
+        "value": "华伯父",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "华兄",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "功效": [
+      {
+        "value": "应付一般小病小伤、防身",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "副作用": [
+      {
+        "value": "千金难买",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu"
+  ],
+  "updatedAt": "2026-06-14T09:06:09.188Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ent.material.x-d191825f",
+  "type": "material",
+  "name": "青罗果",
+  "aliases": [
+    "青罗果种子",
+    "天罗果",
+    "青罗果果核",
+    "赤红果核",
+    "青罗果核"
+  ],
+  "summary": "圣药天罗丹的主材料，成熟需五六千年、每树仅一枚、采后树废，极难培育与保存。",
+  "attributes": {
+    "类型": "灵果/丹药主料",
+    "用途": "催育灵兽、入药",
+    "稀有度": "珍稀",
+    "产地": "天鹏族"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵果",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "灵果/药材",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "灵果/丹药主料",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制天罗丹",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "催育灵兽、入药",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极罕见",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "产地": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ]
+  },
+  "firstSeq": 1411,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1516-bamboo-leaves"
+  ],
+  "updatedAt": "2026-06-16T19:14:17.495Z"
+}

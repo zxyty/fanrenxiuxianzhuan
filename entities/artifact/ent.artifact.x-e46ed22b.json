@@ -1,0 +1,93 @@
+{
+  "id": "ent.artifact.x-e46ed22b",
+  "type": "artifact",
+  "name": "雷火弓",
+  "aliases": [
+    "赤焰小弓",
+    "红色小弓",
+    "仿制穿蛟弓",
+    "小弓"
+  ],
+  "summary": "人形傀儡所用法宝，射出漫天炙热火矢，威能不下顶阶古宝。",
+  "attributes": {
+    "能力": "射赤红火矢",
+    "持有者": "人形傀儡（韩立）",
+    "来历": "赤火蛟灵骨灵筋仿制穿蛟弓而成",
+    "外形": "弓臂呈蛟龙形、鳞片清晰，可由数寸涨为正常弓箭"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "射赤红火矢",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "蓄发相当元婴后期庞大灵力，威力在穿蛟弓之上",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "放火矢",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ],
+    "持有者": [
+      {
+        "value": "人形傀儡（韩立）",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "来历": [
+      {
+        "value": "赤火蛟灵骨灵筋仿制穿蛟弓而成",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "外形": [
+      {
+        "value": "弓臂呈蛟龙形、鳞片清晰，可由数寸涨为正常弓箭",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ]
+  },
+  "firstSeq": 967,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "dated": false,
+      "seq": 1099
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.141Z"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ent.material.x-c5d5955f",
+  "type": "material",
+  "name": "沉水",
+  "aliases": [
+    "沉水液体"
+  ],
+  "summary": "阴冥之地浸泡阴兽骨骼的液体，使骨器更坚硬并附阴火之力。",
+  "attributes": {
+    "类型": "液体、特有液体、阴寒液体",
+    "用途": "浸泡阴兽骨制兵器、取万年玄玉、法器临时附阴火",
+    "产地": "鬼雾阴冥之地"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "液体",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "特有液体",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "阴寒液体",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "用途": [
+      {
+        "value": "浸泡阴兽骨制兵器",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "取万年玄玉",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "法器临时附阴火",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "产地": [
+      {
+        "value": "阴冥之地",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "鬼雾阴冥之地",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ]
+  },
+  "firstSeq": 583,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+  ],
+  "updatedAt": "2026-06-16T06:12:07.040Z"
+}

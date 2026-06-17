@@ -1,0 +1,80 @@
+{
+  "id": "ent.material.x-05d57540",
+  "type": "material",
+  "name": "万年灵草",
+  "aliases": [
+    "万年灵药"
+  ],
+  "summary": "炼制所有化神级灵丹必须的药引或辅助材料，奇缺，是坊市中仅次于灵石的最佳流通物；韩立持有多株用作抵押。",
+  "attributes": {
+    "类型": "灵药",
+    "用途": "炼丹突破",
+    "稀有度": "极稀(有价无市)"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "万年灵药",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "用途": [
+      {
+        "value": "化神级灵丹药引/辅料",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "炼丹突破",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极奇缺",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "极稀(有价无市)",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ]
+  },
+  "firstSeq": 1333,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+  ],
+  "updatedAt": "2026-06-16T13:17:17.902Z"
+}

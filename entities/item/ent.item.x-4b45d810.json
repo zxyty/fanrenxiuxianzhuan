@@ -1,0 +1,57 @@
+{
+  "id": "ent.item.x-4b45d810",
+  "type": "item",
+  "name": "银光书页",
+  "aliases": [
+    "银色书页",
+    "银页"
+  ],
+  "summary": "韩立从巨剑门赤脚汉处所得的战利品，凹凸奇特花纹，神秘莫测，研究无果。",
+  "attributes": {
+    "类型": "功法书页",
+    "用途": "藏青元剑诀(金夹层)"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "神秘书页",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "功法书页",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "用途": [
+      {
+        "value": "藏青元剑诀(金夹层)",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ]
+  },
+  "firstSeq": 211,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-ch235-240-guifang-lvbo-dong"
+  ],
+  "updatedAt": "2026-06-14T07:00:03.354Z"
+}

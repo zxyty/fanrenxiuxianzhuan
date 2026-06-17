@@ -1,0 +1,166 @@
+{
+  "id": "ent.person.x-deeff4e8",
+  "type": "person",
+  "name": "王氏",
+  "aliases": [
+    "五夫人",
+    "五师母",
+    "五妹",
+    "冷艳少妇",
+    "纤细人影"
+  ],
+  "summary": "墨大夫五夫人，冷艳寡言、内力精湛的高手，负责巡查与内功烘干信纸。",
+  "attributes": {
+    "性别": "女",
+    "身份": "墨大夫五夫人、墨大夫之妻、黑煞教外围弟子、内应",
+    "性格": "冷艳寡言",
+    "标志特征": "内力精湛",
+    "称号": "五夫人",
+    "存殁": "死亡",
+    "死因": "韩立预埋禁制激发无常丹残余药力转化为剧毒",
+    "阵营": "黑煞教"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "身份": [
+      {
+        "value": "墨大夫五夫人",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "墨大夫之妻",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "黑煞教外围弟子",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "内应",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷艳、寡言",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "冷艳寡言",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "内力精湛",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "称号": [
+      {
+        "value": "五夫人",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "死因": [
+      {
+        "value": "墨府突围中丧命",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "韩立预埋禁制激发无常丹残余药力转化为剧毒",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 109,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.941Z"
+}

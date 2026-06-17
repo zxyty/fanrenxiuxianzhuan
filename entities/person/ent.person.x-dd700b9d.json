@@ -1,0 +1,94 @@
+{
+  "id": "ent.person.x-dd700b9d",
+  "type": "person",
+  "name": "云逸",
+  "aliases": [
+    "乌冠老者",
+    "乌冠锦袍老者"
+  ],
+  "summary": "叶家长老，向韩长老传递同名之人的消息，并向二长老汇报。",
+  "attributes": {
+    "性别": "男",
+    "身份": "叶家长老",
+    "阵营": "叶家",
+    "外貌": "乌冠锦袍老者",
+    "小阶段": "元婴初期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "身份": [
+      {
+        "value": "叶家长老",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "外貌": [
+      {
+        "value": "乌冠锦袍老者",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:47.002Z"
+}

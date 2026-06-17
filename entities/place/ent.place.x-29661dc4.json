@@ -1,0 +1,63 @@
+{
+  "id": "ent.place.x-29661dc4",
+  "type": "place",
+  "name": "元龟岛",
+  "aliases": [],
+  "summary": "乱星海岛屿，赤火老怪独霸的据点。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "守护": "赤火老怪",
+    "所属势力": "赤火一方"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "守护": [
+      {
+        "value": "赤火老怪",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "赤火一方",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ]
+  },
+  "firstSeq": 397,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "dated": false,
+      "seq": 403
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.614Z"
+}

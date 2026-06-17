@@ -1,0 +1,84 @@
+{
+  "id": "ent.artifact.x-0150ea5a",
+  "type": "artifact",
+  "name": "青冥针",
+  "aliases": [
+    "青丝"
+  ],
+  "summary": "飞针类符宝，催动化漫天青色丝芒，威力极大；为青易居士在虚天殿所赠。",
+  "attributes": {
+    "品阶": "符宝",
+    "来历": "青易居士于虚天殿所赠",
+    "持有者": "韩立",
+    "能力": "青丝洞穿护罩"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "飞针类符宝",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "符宝",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "来历": [
+      {
+        "value": "青易居士于虚天殿所赠",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "能力": [
+      {
+        "value": "青丝洞穿护罩",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ]
+  },
+  "firstSeq": 565,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+  ],
+  "updatedAt": "2026-06-14T22:20:41.262Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-829ffd4b",
+  "type": "faction",
+  "name": "圣皇宫",
+  "aliases": [],
+  "summary": "人族最高势力之一，下令落日城接应灵族叛逆并派出特使，位于天元城。",
+  "attributes": {
+    "阵营": "人族",
+    "据点": "天元城"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "据点": [
+      {
+        "value": "天元城",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan"
+  ],
+  "updatedAt": "2026-06-16T11:04:31.847Z"
+}

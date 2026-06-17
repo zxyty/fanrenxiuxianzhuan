@@ -1,0 +1,73 @@
+{
+  "id": "ent.beast.x-69e7b7f1",
+  "type": "beast",
+  "name": "琉璃兽",
+  "aliases": [],
+  "summary": "六级海兽，通体淡白晶莹、放射乳白长丝、喷白色晶球，喜食三色藻；难缠却被韩立一剑瞬杀。",
+  "attributes": {
+    "等级": "六级",
+    "栖息地": "外星海珊瑚岛",
+    "外形": "晶莹琉璃兽皮"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "六级",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "三色藻海底",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "外星海珊瑚岛",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "外形": [
+      {
+        "value": "淡白晶莹、放射乳白长丝",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "晶莹琉璃兽皮",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-523-528-zhongmo-xuming"
+  ],
+  "updatedAt": "2026-06-14T17:58:18.053Z"
+}

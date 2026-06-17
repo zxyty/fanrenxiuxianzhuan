@@ -1,0 +1,34 @@
+{
+  "id": "ent.faction.x-072d6de1",
+  "type": "faction",
+  "name": "天圣宗",
+  "aliases": [],
+  "summary": "儒门颇负盛名的宗门，孔家出自其门下并受其支持。",
+  "attributes": {
+    "理念": "儒门"
+  },
+  "observations": {
+    "理念": [
+      {
+        "value": "儒门",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 901,
+  "attrProvenance": {
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+  ],
+  "updatedAt": "2026-06-16T00:43:53.253Z"
+}

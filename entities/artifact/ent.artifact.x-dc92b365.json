@@ -1,0 +1,113 @@
+{
+  "id": "ent.artifact.x-dc92b365",
+  "type": "artifact",
+  "name": "花篮古宝",
+  "aliases": [
+    "花篮",
+    "竹篮",
+    "古老花篮"
+  ],
+  "summary": "土山岛主怪人所持洪荒古宝，可化白气困住敌方法宝，被韩立夺取。",
+  "attributes": {
+    "品阶": "古宝",
+    "能力": "化白气困缚法宝、白光卷收/困锁、化白气护身、白光困物",
+    "持有者": "银月",
+    "来历": "古宝"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "洪荒古宝",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "能力": [
+      {
+        "value": "化白气困缚法宝",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "白光卷收/困锁",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "化白气护身",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "白光困物",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "银月",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ],
+    "来历": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 415,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+      "dated": false,
+      "seq": 415
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+      "dated": false,
+      "seq": 739
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+  ],
+  "updatedAt": "2026-06-15T03:00:06.901Z"
+}

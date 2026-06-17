@@ -1,0 +1,135 @@
+{
+  "id": "ent.place.x-e7ef43e0",
+  "type": "place",
+  "name": "玄玉洞",
+  "aliases": [
+    "玄玉洞窟",
+    "玄玉洞裂缝"
+  ],
+  "summary": "位于其中一座虚灵殿内的洞府，极寒之气可助冲击化神瓶颈。",
+  "attributes": {
+    "所属势力": "小极宫",
+    "特产": "极寒之气、万年玄玉、太阳精石、玄玉寒气、万年玄玉寒气",
+    "类型": "地下洞窟、洞窟/秘地、极寒之地、秘地洞窟、地下洞窟矿脉、矿洞、洞府",
+    "危险度": "极高（玄玉寒气）"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      }
+    ],
+    "特产": [
+      {
+        "value": "极寒之气",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "万年玄玉",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "太阳精石",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "玄玉寒气",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "万年玄玉寒气",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "类型": [
+      {
+        "value": "地下洞窟",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "洞窟/秘地",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "极寒之地",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "秘地洞窟",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "地下洞窟矿脉",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "矿洞",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "洞府",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（玄玉寒气）",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 1081,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.342Z"
+}

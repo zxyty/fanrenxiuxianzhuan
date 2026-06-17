@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-061ba896",
+  "type": "faction",
+  "name": "金罗宗",
+  "aliases": [
+    "金罗门"
+  ],
+  "summary": "佛门在大晋的四大宗门之一，千光寺为其分支。",
+  "attributes": {
+    "阵营": "佛门",
+    "理念": "正宗佛门功法"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "佛门",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "理念": [
+      {
+        "value": "正宗佛门功法",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+  ],
+  "updatedAt": "2026-06-15T23:54:19.683Z"
+}

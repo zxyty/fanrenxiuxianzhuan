@@ -1,0 +1,102 @@
+{
+  "id": "ent.technique.x-ed16981f",
+  "type": "technique",
+  "name": "六极真魔功",
+  "aliases": [
+    "六极真魔"
+  ],
+  "summary": "温天仁所修，号称乱星海第一魔功；施展时狂吸数十里天地灵气，云团由紫转灰白、雷鸣巨响。",
+  "attributes": {
+    "出处": "魔道",
+    "效果": "幻化六极真魔虚影",
+    "适用境界": "魔修",
+    "修炼条件": "需坐化尸体"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "乱星海第一魔功",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "六道极圣",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "六道极圣/六道传人",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ],
+    "效果": [
+      {
+        "value": "幻化六极真魔虚影",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "需高阶魔修",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "魔修",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需坐化尸体",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      }
+    ]
+  },
+  "firstSeq": 565,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+      "dated": false,
+      "seq": 571
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "lore.fanren-1215-linggen-wuxing-heyi"
+  ],
+  "updatedAt": "2026-06-16T08:34:31.947Z"
+}

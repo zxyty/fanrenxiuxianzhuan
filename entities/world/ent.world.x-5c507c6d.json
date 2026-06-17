@@ -1,0 +1,59 @@
+{
+  "id": "ent.world.x-5c507c6d",
+  "type": "world",
+  "name": "上古魔界",
+  "aliases": [
+    "古魔界",
+    "古魔界圣族"
+  ],
+  "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
+  "attributes": {
+    "特点": "魔功源头、曾入侵人界",
+    "通道": "上古曾开通向人界的通道"
+  },
+  "observations": {
+    "特点": [
+      {
+        "value": "与人界最相似，古魔聚居",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "魔功源头、曾入侵人界",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "通道": [
+      {
+        "value": "上古曾开通向人界的通道",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ]
+  },
+  "firstSeq": 793,
+  "attrProvenance": {
+    "特点": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1190-huajiezhu-jifengjiubian"
+  ],
+  "updatedAt": "2026-06-16T07:03:34.625Z"
+}

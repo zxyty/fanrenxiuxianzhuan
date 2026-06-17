@@ -1,0 +1,54 @@
+{
+  "id": "ent.spell.x-c4a251de",
+  "type": "spell",
+  "name": "困心术",
+  "aliases": [],
+  "summary": "掩月宗师姐以自身精血种下的操控法术，关键系于一块禁制令牌，百里内可控制目标简单动作。",
+  "attributes": {
+    "类型": "禁制法术",
+    "消耗": "施术者精血"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "操控类禁制",
+        "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+        "seq": 709
+      },
+      {
+        "value": "禁制法术",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "消耗": [
+      {
+        "value": "施术者精血",
+        "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+        "seq": 709
+      }
+    ]
+  },
+  "firstSeq": 709,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+      "dated": false,
+      "seq": 709
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.428Z"
+}

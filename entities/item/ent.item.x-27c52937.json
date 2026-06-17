@@ -1,0 +1,65 @@
+{
+  "id": "ent.item.x-27c52937",
+  "type": "item",
+  "name": "升仙令",
+  "aliases": [],
+  "summary": "数百年一遇的入门凭证，持令者可入七大修仙派并获一粒筑基丹；上次收回已是四五百年前。",
+  "attributes": {
+    "类型": "信令",
+    "用途": "持令入黄枫谷拜门"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "入门凭证",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "信令",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "用途": [
+      {
+        "value": "持令入七大修仙派并得筑基丹",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "拜入仙派",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "持令入黄枫谷拜门",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan"
+  ],
+  "updatedAt": "2026-06-14T06:31:18.980Z"
+}

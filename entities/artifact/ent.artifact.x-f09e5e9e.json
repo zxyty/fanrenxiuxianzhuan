@@ -1,0 +1,84 @@
+{
+  "id": "ent.artifact.x-f09e5e9e",
+  "type": "artifact",
+  "name": "金书银笔",
+  "aliases": [
+    "金书",
+    "银笔",
+    "巨笔金书",
+    "金书银笔法宝",
+    "金书银笔法器"
+  ],
+  "summary": "陈某的成对法器，银光巨笔与金光金书，挥展间漫天银符金光。",
+  "attributes": {
+    "持有者": "陈巧天",
+    "能力": "挡毒粉",
+    "外形": "银光巨笔、金光金书"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "陈某",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "陈巧天",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "能力": [
+      {
+        "value": "漫天银符金光攻击",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "挡毒粉",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "外形": [
+      {
+        "value": "银光巨笔",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "金光金书",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+  ],
+  "updatedAt": "2026-06-15T05:51:36.828Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ent.place.x-60e6915b",
+  "type": "place",
+  "name": "黄龙山",
+  "aliases": [
+    "火龙山",
+    "黄龙峰"
+  ],
+  "summary": "虞国离州边上的九国盟据点，琼台楼阁群，外覆方圆数十里绿色雾海禁制大阵。",
+  "attributes": {
+    "所属势力": "九国盟",
+    "类型": "据点/山头、防御阵地/雾海、山峰/守阵要地",
+    "守护": "千音幻化阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "九国盟",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      }
+    ],
+    "类型": [
+      {
+        "value": "据点/山头",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "防御阵地/雾海",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "山峰/守阵要地",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "守护": [
+      {
+        "value": "雾海禁制大阵",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "千音幻化阵",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ]
+  },
+  "firstSeq": 727,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "dated": false,
+      "seq": 733
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+  ],
+  "updatedAt": "2026-06-15T02:52:00.059Z"
+}

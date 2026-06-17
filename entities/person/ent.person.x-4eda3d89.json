@@ -1,0 +1,119 @@
+{
+  "id": "ent.person.x-4eda3d89",
+  "type": "person",
+  "name": "许云",
+  "aliases": [
+    "疤脸汉子",
+    "疤脸修士",
+    "灰袍修士",
+    "许兄",
+    "许道友",
+    "许仙师",
+    "疤脸修士许云"
+  ],
+  "summary": "满脸疤痕的灰袍散修，筑基后期，来外星海数年想回内海给儿子炼丹却受阻于单向传送；向众人介绍奇渊岛黑石城内情。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "筑基后期",
+    "身份": "向导修士",
+    "外貌": "满脸疤痕、灰袍",
+    "阵营": "散修",
+    "标志特征": "疤脸"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "向导修士",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满脸疤痕、灰袍",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "疤脸",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ]
+  },
+  "firstSeq": 505,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-ch547-552-poison-three-demons"
+  ],
+  "updatedAt": "2026-06-14T18:39:49.880Z"
+}

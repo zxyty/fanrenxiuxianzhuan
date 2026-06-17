@@ -1,0 +1,54 @@
+{
+  "id": "ent.faction.x-4ac35b3e",
+  "type": "faction",
+  "name": "秘店",
+  "aliases": [
+    "黑市",
+    "秘店竞卖会",
+    "秘密交易会场",
+    "秘密交易会"
+  ],
+  "summary": "藏于天星宗坊市的隐秘黑市，由三名装束一致的店主主持月度竞卖会，地道由筑基期黑衣人把守，客人多为筑基修士。",
+  "attributes": {
+    "阵营": "中立黑市",
+    "据点": "天星宗坊市"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "中立黑市",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "据点": [
+      {
+        "value": "天星宗坊市",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.541Z"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ent.faction.x-45f513f6",
+  "type": "faction",
+  "name": "太一门",
+  "aliases": [
+    "太一宗",
+    "太一门一门"
+  ],
+  "summary": "名声极大的大派，玄青子所属，内有特殊存在下密令掌控昆吾山事。",
+  "attributes": {
+    "阵营": "正道",
+    "据点": "大晋",
+    "理念": "正道第一门",
+    "所属界面": "人界",
+    "等级": "正魔第一大宗"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1003
+      }
+    ],
+    "据点": [
+      {
+        "value": "真桓山",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ],
+    "理念": [
+      {
+        "value": "正道第一宗",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "正道第一门",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "正魔为首",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ],
+    "等级": [
+      {
+        "value": "正魔第一大宗",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1003
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "dated": false,
+      "seq": 1057
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan"
+  ],
+  "updatedAt": "2026-06-16T09:06:56.045Z"
+}

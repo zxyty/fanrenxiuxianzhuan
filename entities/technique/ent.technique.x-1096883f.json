@@ -1,0 +1,139 @@
+{
+  "id": "ent.technique.x-1096883f",
+  "type": "technique",
+  "name": "血影遁",
+  "aliases": [
+    "血魔剑遁",
+    "血影遁术",
+    "血光遁术",
+    "血影遁秘术"
+  ],
+  "summary": "妖族秘术，借精血瞬间化血影逃匿百里：距离不可控、精血固定且自燃（不足则爆体）、须有翅膀维持平衡，是逃匿强敌的诡异遁术。",
+  "attributes": {
+    "效果": "高速遁逃",
+    "出处": "疾风九变",
+    "修炼条件": "大损元气",
+    "适用境界": "化神期、化神后方能掌控方向速度、化神"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "瞬遁百里",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "急遁逃命",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "遁逃",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "瞬间逃遁",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "极速遁走",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "高速遁逃",
+        "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+        "seq": 1363
+      }
+    ],
+    "出处": [
+      {
+        "value": "疾风九变",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "须有翅膀",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "施展须掐准方向以免撞入空间裂缝",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "大损元气",
+        "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+        "seq": 1363
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      },
+      {
+        "value": "化神后方能掌控方向速度",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303,
+        "note": "结丹元婴期无法掌控"
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+        "seq": 1369
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+      "dated": false,
+      "seq": 1363
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+      "dated": false,
+      "seq": 1363
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1363-1368-ying-clan-mirage-city",
+    "plot.fanren-1369-1374-heiye-senlin-muzu"
+  ],
+  "updatedAt": "2026-06-16T14:31:24.756Z"
+}

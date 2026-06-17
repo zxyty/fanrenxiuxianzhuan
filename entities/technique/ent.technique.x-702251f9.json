@@ -1,0 +1,62 @@
+{
+  "id": "ent.technique.x-702251f9",
+  "type": "technique",
+  "name": "傀儡真经",
+  "aliases": [
+    "傀儡炼制术",
+    "傀儡术"
+  ],
+  "summary": "记载制造机关傀儡之法的典籍，韩立研习以图短时间造出简单机关傀儡。",
+  "attributes": {
+    "效果": "制造机关傀儡、炼制有灵性的机关傀儡、炼制傀儡，最高四级傀儡相当筑基后期假丹",
+    "修炼条件": "需魂魄及炼器材料"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "制造机关傀儡",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "炼制有灵性的机关傀儡",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "炼制傀儡，最高四级傀儡相当筑基后期假丹",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需魂魄及炼器材料",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing"
+  ],
+  "updatedAt": "2026-06-14T16:36:44.457Z"
+}

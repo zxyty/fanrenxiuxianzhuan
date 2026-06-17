@@ -1,0 +1,78 @@
+{
+  "id": "ent.person.x-56ba8ebd",
+  "type": "person",
+  "name": "黑衫老者",
+  "aliases": [],
+  "summary": "原合欢宗弟子，犯门规改名潜逃入鬼灵门隐藏；曾在董璇儿手下奉命寻找韩立，因认出韩立画像被其读忆后焚灭。",
+  "attributes": {
+    "性别": "男",
+    "身份": "鬼灵门修士",
+    "存殁": "死亡",
+    "死因": "被韩立读取记忆后焚化"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "身份": [
+      {
+        "value": "鬼灵门修士",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655,
+        "note": "合欢宗弃徒潜逃改名隐藏"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立读取记忆后焚化",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655,
+      "note": "合欢宗弃徒潜逃改名隐藏"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:50.718Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ent.spell.x-335ef65a",
+  "type": "spell",
+  "name": "炼魂术",
+  "aliases": [
+    "聚魂术"
+  ],
+  "summary": "炼制改造魂魄以与傀儡融炼的法术，习傀儡术必修。",
+  "attributes": {
+    "类型": "魂魄/魔道",
+    "出处": "门派与大家族用以惩戒叛门背族者"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "魂魄/魔道",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "出处": [
+      {
+        "value": "傀儡真经",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "门派与大家族用以惩戒叛门背族者",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch338-bigong-quhun"
+  ],
+  "updatedAt": "2026-06-14T11:27:04.734Z"
+}

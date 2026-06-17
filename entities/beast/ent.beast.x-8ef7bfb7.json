@@ -1,0 +1,95 @@
+{
+  "id": "ent.beast.x-8ef7bfb7",
+  "type": "beast",
+  "name": "银甲角蟒",
+  "aliases": [
+    "银色巨蟒"
+  ],
+  "summary": "李师祖降服驱使的飞行坐骑，飞速远胜御器，两日可达建州。",
+  "attributes": {
+    "主人": "李长老",
+    "能力": "飞行载人",
+    "外形": "二十余丈长银色巨蟒，头生乌黑巨角",
+    "等级": "筑基中期"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "李师祖",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "李长老",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "能力": [
+      {
+        "value": "飞行迅捷",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "服内丹潜修可进阶",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "飞行载人",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "外形": [
+      {
+        "value": "二十余丈长银色巨蟒，头生乌黑巨角",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "等级": [
+      {
+        "value": "筑基中期",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 169,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei"
+  ],
+  "updatedAt": "2026-06-14T06:22:43.855Z"
+}

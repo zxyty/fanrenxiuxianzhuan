@@ -1,0 +1,77 @@
+{
+  "id": "ent.race.x-6c9db189",
+  "type": "race",
+  "name": "魔族",
+  "aliases": [
+    "魔族大军",
+    "魔族精锐",
+    "高阶魔族"
+  ],
+  "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
+  "attributes": {
+    "代表人物": "魔族圣祖、黑甲大汉、白袍少年",
+    "阵营": "魔界",
+    "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影"
+  },
+  "observations": {
+    "代表人物": [
+      {
+        "value": "魔族圣祖",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "黑甲大汉",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "白袍少年",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "特性": [
+      {
+        "value": "紫甲魔纹、可放出鹿首蝠身魔禽虚影",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 1909,
+  "attrProvenance": {
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.784Z"
+}

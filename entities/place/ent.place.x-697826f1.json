@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-697826f1",
+  "type": "place",
+  "name": "玄阳火地",
+  "aliases": [
+    "玄阳之地",
+    "地火之地",
+    "地火之屋",
+    "地火间"
+  ],
+  "summary": "黄枫谷蕴藏地肺之火的火地，经岳麓殿无标记通道进入，交灵石可借用地火炼丹炼器，入口有五彩禁法石门与丑汉把守。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "炼丹炼器地火间",
+    "特产": "地肺之火",
+    "守护": "丑汉"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "类型": [
+      {
+        "value": "火地",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "炼丹炼器地火间",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "特产": [
+      {
+        "value": "地肺之火",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "守护": [
+      {
+        "value": "五彩禁法石门+守门丑汉",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "丑汉",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei"
+  ],
+  "updatedAt": "2026-06-14T06:22:43.859Z"
+}

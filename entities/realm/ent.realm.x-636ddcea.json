@@ -1,0 +1,193 @@
+{
+  "id": "ent.realm.x-636ddcea",
+  "type": "realm",
+  "name": "炼虚",
+  "aliases": [
+    "炼虚期",
+    "炼虚初期",
+    "炼虚中期",
+    "炼虚级",
+    "炼虚后期",
+    "炼虚初级",
+    "炼虚中阶",
+    "炼虚境界",
+    "炼虚初中期"
+  ],
+  "summary": "中境界第一层。",
+  "attributes": {
+    "阶序": "炼虚期",
+    "上一境": "化神",
+    "下一境": "化神",
+    "突破关键": "化神大圆满、黑炎丹与天罗丹辅助",
+    "寿元": "理论无穷尽(元气充足)",
+    "小阶段": "炼虚初期、炼虚中期、后期、炼虚后期",
+    "突破征兆": "五色光霞天象、聚天地元气"
+  },
+  "observations": {
+    "阶序": [
+      {
+        "value": "中境界第一层",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "上一境": [
+      {
+        "value": "化神",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "下一境": [
+      {
+        "value": "合体",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "化神期",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "突破关键": [
+      {
+        "value": "五行合一",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      },
+      {
+        "value": "三千年一次大天劫",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "度劫",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "化神大圆满、黑炎丹与天罗丹辅助",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "寿元": [
+      {
+        "value": "理论无穷尽(元气充足)",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼虚初期",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "炼虚中期",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "后期",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "炼虚后期",
+        "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "五色光霞天象、聚天地元气",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1363-1368-ying-clan-mirage-city",
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.269Z"
+}

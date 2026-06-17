@@ -1,0 +1,81 @@
+{
+  "id": "ent.artifact.x-cd4135b7",
+  "type": "artifact",
+  "name": "玩偶法器",
+  "aliases": [
+    "玩偶",
+    "士兵玩偶",
+    "野兽玩偶"
+  ],
+  "summary": "韩立的傀儡法器，有铁甲持弓/持刀士兵及虎豹野兽造型，如真人般围攻制敌。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "持弓射红芒追踪箭、持厚背长刀近战、如真人般夹攻",
+    "外形": "铁甲士兵、虎豹野兽"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "能力": [
+      {
+        "value": "持弓射红芒追踪箭",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "持厚背长刀近战",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "如真人般夹攻",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "外形": [
+      {
+        "value": "铁甲士兵",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "虎豹野兽",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ]
+  },
+  "firstSeq": 295,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin"
+  ],
+  "updatedAt": "2026-06-14T09:22:45.149Z"
+}

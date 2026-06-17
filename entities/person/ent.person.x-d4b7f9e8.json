@@ -1,0 +1,104 @@
+{
+  "id": "ent.person.x-d4b7f9e8",
+  "type": "person",
+  "name": "鸣老怪",
+  "aliases": [
+    "鸣道友",
+    "鸣兄",
+    "鸣某",
+    "翡翠小蛟"
+  ],
+  "summary": "翁姓汉子之师，已躲过六次大天劫，闭关二百年祭炼灵宝以御第七次天劫。",
+  "attributes": {
+    "称号": "老怪",
+    "标志特征": "已躲过六次大天劫",
+    "小阶段": "炼虚",
+    "身份": "翁姓汉子之师",
+    "外貌": "翡翠小蛟/翡翠蛟龙"
+  },
+  "observations": {
+    "称号": [
+      {
+        "value": "老怪",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "已躲过六次大天劫",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "身份": [
+      {
+        "value": "翁姓汉子之师",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "外貌": [
+      {
+        "value": "翡翠小蛟/翡翠蛟龙",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333,
+        "note": "化身之体"
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333,
+      "note": "化身之体"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales"
+  ],
+  "updatedAt": "2026-06-16T12:56:39.972Z"
+}

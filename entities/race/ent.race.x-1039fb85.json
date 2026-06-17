@@ -1,0 +1,77 @@
+{
+  "id": "ent.race.x-1039fb85",
+  "type": "race",
+  "name": "蛟龙",
+  "aliases": [
+    "蛟龙一族",
+    "蛟龙族"
+  ],
+  "summary": "海族强大种族，天生精水属性功法；本章部分高阶妖修参与万丈海攻人类。",
+  "attributes": {
+    "特性": "喜食龙鳞果、可化人形",
+    "代表人物": "金蛟王",
+    "聚居地": "外海"
+  },
+  "observations": {
+    "特性": [
+      {
+        "value": "蛟灵之体,精水属性",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "喜食龙鳞果、可化人形",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "毒蛟",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "金蛟王",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "外海",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ]
+  },
+  "firstSeq": 541,
+  "attrProvenance": {
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fan-ren-541-bi-yan-jiu",
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.405Z"
+}

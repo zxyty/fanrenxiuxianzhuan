@@ -1,0 +1,54 @@
+{
+  "id": "ent.spell.x-c80095c5",
+  "type": "spell",
+  "name": "灵魂吞噬",
+  "aliases": [],
+  "summary": "银月狼族天赋，元神出窍攻击吞噬他人元神魂魄并暂居其躯，限制苛刻、为双刃剑。",
+  "attributes": {
+    "类型": "灵魂类神通",
+    "出处": "银月狼族"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "元神攻击/夺舍类天赋",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "灵魂类神通",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ],
+    "出处": [
+      {
+        "value": "银月狼族",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      }
+    ]
+  },
+  "firstSeq": 613,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "dated": false,
+      "seq": 613
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.145Z"
+}

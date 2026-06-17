@@ -1,0 +1,82 @@
+{
+  "id": "ent.person.x-aaa61f83",
+  "type": "person",
+  "name": "陆夫人",
+  "aliases": [],
+  "summary": "慕兰联军一方，将本宗蛮荒巨兽借予枯瘦老者用于冲阵。",
+  "attributes": {
+    "阵营": "阴罗宗",
+    "标志特征": "黑袍",
+    "性别": "女",
+    "外貌": "黑袍"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "慕兰联军",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "阴罗宗",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黑袍",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑袍",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ]
+  },
+  "firstSeq": 763,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-769-774-border-war-6-8"
+  ],
+  "updatedAt": "2026-06-15T03:47:18.083Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ent.artifact.x-d7ba14c8",
+  "type": "artifact",
+  "name": "傀儡弓手",
+  "aliases": [
+    "手持弓箭木偶"
+  ],
+  "summary": "木雕铁甲铜弓玩偶状上品法器，须修分神秘术注入神识方可驱使，炼气期不能用。",
+  "attributes": {
+    "品阶": "上阶法器",
+    "持有者": "韩立",
+    "禁制": "需会分神秘术,注神识方可驱使",
+    "外形": "铁甲铜弓木偶"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上品法器",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "上阶法器",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "禁制": [
+      {
+        "value": "需会分神秘术,注神识方可驱使",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "外形": [
+      {
+        "value": "铁甲铜弓木偶",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ]
+  },
+  "firstSeq": 211,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.529Z"
+}

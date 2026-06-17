@@ -1,0 +1,36 @@
+{
+  "id": "ent.faction.x-79d48d9d",
+  "type": "faction",
+  "name": "铁枪会",
+  "aliases": [],
+  "summary": "被野狼帮挟持家属、逼迫助攻七玄门的中小帮派之一。",
+  "attributes": {
+    "阵营": "野狼帮附庸"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "野狼帮附庸",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79,
+        "note": "家属被挟持而被迫助战"
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79,
+      "note": "家属被挟持而被迫助战"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.574Z"
+}

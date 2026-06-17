@@ -1,0 +1,100 @@
+{
+  "id": "ent.pill.x-93640339",
+  "type": "pill",
+  "name": "玉清丹",
+  "aliases": [
+    "玉清丹药"
+  ],
+  "summary": "主利化神初期的丹药，主料为两三千年药龄珍稀灵草，可降年限炼制。",
+  "attributes": {
+    "适用境界": "化神",
+    "主料": "两三千年药龄灵草",
+    "功效": "辅助修炼",
+    "品阶": "化神级",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "适用境界": [
+      {
+        "value": "化神初期",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "主料": [
+      {
+        "value": "两三千年药龄灵草",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "功效": [
+      {
+        "value": "辅助修炼",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "品阶": [
+      {
+        "value": "化神级",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ]
+  },
+  "firstSeq": 1327,
+  "attrProvenance": {
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+  ],
+  "updatedAt": "2026-06-16T13:17:17.909Z"
+}

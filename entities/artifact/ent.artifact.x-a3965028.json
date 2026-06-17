@@ -1,0 +1,52 @@
+{
+  "id": "ent.artifact.x-a3965028",
+  "type": "artifact",
+  "name": "黑色玉瓶",
+  "aliases": [
+    "乌黑玉瓶",
+    "黑色玉瓶子"
+  ],
+  "summary": "韩立用以封存五子同心魔的数寸乌黑玉瓶。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "禁锢五子同心魔"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      }
+    ],
+    "能力": [
+      {
+        "value": "禁锢五子同心魔",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ]
+  },
+  "firstSeq": 1099,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "dated": false,
+      "seq": 1099
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+  ],
+  "updatedAt": "2026-06-16T06:12:07.047Z"
+}

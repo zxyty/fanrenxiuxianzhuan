@@ -1,0 +1,98 @@
+{
+  "id": "ent.formation.x-9e3e9d3a",
+  "type": "formation",
+  "name": "冰魄寒烈阵",
+  "aliases": [
+    "冰柱寒阵"
+  ],
+  "summary": "上古名阵，由一千零八根万年玄冰柱构成，无相关法器入阵者会被玄寒之气永久冰封；封闭千年自生冰寒之气。",
+  "attributes": {
+    "品阶": "上古",
+    "布置者": "上古修士",
+    "效果": "释放极寒之气",
+    "破解法": "持相关阵盘法器引路",
+    "出处": "上古奇阵"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上古",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "布置者": [
+      {
+        "value": "上古修士",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "效果": [
+      {
+        "value": "玄寒之气永久冰封",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "释放极寒之气",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "破解法": [
+      {
+        "value": "持相关阵盘法器引路",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古奇阵",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ]
+  },
+  "firstSeq": 1087,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "dated": false,
+      "seq": 1105
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+  ],
+  "updatedAt": "2026-06-16T06:12:07.061Z"
+}

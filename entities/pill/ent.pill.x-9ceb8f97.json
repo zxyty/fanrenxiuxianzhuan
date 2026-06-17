@@ -1,0 +1,54 @@
+{
+  "id": "ent.pill.x-9ceb8f97",
+  "type": "pill",
+  "name": "长生丹",
+  "aliases": [],
+  "summary": "可延长寿元的丹药，蛮胡子欲取寿元果炼制以延寿五六十年。",
+  "attributes": {
+    "功效": "延长寿元",
+    "主料": "寿元果（之类）"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "延长寿元",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      }
+    ],
+    "主料": [
+      {
+        "value": "寿元果",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "寿元果（之类）",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ]
+  },
+  "firstSeq": 427,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c433-438-xutiandian-juji"
+  ],
+  "updatedAt": "2026-06-14T15:15:07.591Z"
+}

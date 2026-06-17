@@ -1,0 +1,130 @@
+{
+  "id": "ent.person.x-a1266967",
+  "type": "person",
+  "name": "宣乐",
+  "aliases": [
+    "宣师兄"
+  ],
+  "summary": "掩月宗对外管事之一，筑基后期，曾随霓裳师叔参与血色试炼，凭征调令征调韩立并布防灵矿。",
+  "attributes": {
+    "小阶段": "筑基后期",
+    "身份": "掩月宗对外管事之一、领队、采药团修士",
+    "阵营": "掩月宗、越国七派、七派守矿方、七派、魔道/六宗",
+    "存殁": "死亡",
+    "死因": "暗算韩立反被反杀（白蜘蛛一战，往事追述）"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "身份": [
+      {
+        "value": "掩月宗对外管事之一",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "领队",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "采药团修士",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "阵营": [
+      {
+        "value": "掩月宗",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "越国七派",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "七派守矿方",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "七派",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "魔道/六宗",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立青元剑芒斩首",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265,
+        "note": "护甲先被墨蛟雏角自爆法器击破"
+      },
+      {
+        "value": "暗算韩立反被反杀（白蜘蛛一战，往事追述）",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch338-bigong-quhun"
+  ],
+  "updatedAt": "2026-06-14T11:27:04.749Z"
+}

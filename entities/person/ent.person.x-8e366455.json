@@ -1,0 +1,40 @@
+{
+  "id": "ent.person.x-8e366455",
+  "type": "person",
+  "name": "疯婆子",
+  "aliases": [],
+  "summary": "万法门人物，长老提及。",
+  "attributes": {
+    "阵营": "正道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "万法门",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 463,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.541Z"
+}

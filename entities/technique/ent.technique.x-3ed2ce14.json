@@ -1,0 +1,51 @@
+{
+  "id": "ent.technique.x-3ed2ce14",
+  "type": "technique",
+  "name": "封灵大法",
+  "aliases": [
+    "封灵之法",
+    "封灵秘术"
+  ],
+  "summary": "封印记忆/灵识的秘术，仅封印有关小瓶的极少事情，需器灵配合，除非一方陨落或解除器灵身份否则不解。",
+  "attributes": {
+    "效果": "永久封印特定记忆",
+    "修炼条件": "需器灵配合"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "永久封印特定记忆",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需器灵配合",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ]
+  },
+  "firstSeq": 1063,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "dated": false,
+      "seq": 1063
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.144Z"
+}

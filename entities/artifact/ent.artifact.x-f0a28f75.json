@@ -1,0 +1,52 @@
+{
+  "id": "ent.artifact.x-f0a28f75",
+  "type": "artifact",
+  "name": "金色小剑符宝",
+  "aliases": [
+    "小剑符宝"
+  ],
+  "summary": "韩立转交给曲魂的符宝，结丹修为可瞬间驱动攻敌。",
+  "attributes": {
+    "能力": "瞬发攻击",
+    "持有者": "曲魂"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "瞬发攻击",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "持有者": [
+      {
+        "value": "曲魂",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385,
+        "note": "本章由韩立转交"
+      }
+    ]
+  },
+  "firstSeq": 385,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385,
+      "note": "本章由韩立转交"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.197Z"
+}

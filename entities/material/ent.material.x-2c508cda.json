@@ -1,0 +1,99 @@
+{
+  "id": "ent.material.x-2c508cda",
+  "type": "material",
+  "name": "万年灵乳",
+  "aliases": [
+    "灵乳"
+  ],
+  "summary": "灵眼之泉万年积累的极品灵液，一小口可瞬间回复全部法力，上万灵石难求一滴。",
+  "attributes": {
+    "类型": "灵液",
+    "用途": "瞬间回复全部法力、助行/恢复法力、弥补精血亏损",
+    "稀有度": "极稀（万灵石难求一滴）、极稀有、万年级",
+    "产地": "灵眼之泉"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵液",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      }
+    ],
+    "用途": [
+      {
+        "value": "瞬间回复全部法力",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "助行/恢复法力",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "弥补精血亏损",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀（万灵石难求一滴）",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "万年级",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "产地": [
+      {
+        "value": "灵眼之泉",
+        "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      }
+    ]
+  },
+  "firstSeq": 493,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "dated": false,
+      "seq": 493
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch889-894-tianlan-jinyanshi"
+  ],
+  "updatedAt": "2026-06-16T00:12:42.898Z"
+}

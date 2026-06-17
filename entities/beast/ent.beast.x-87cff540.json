@@ -1,0 +1,50 @@
+{
+  "id": "ent.beast.x-87cff540",
+  "type": "beast",
+  "name": "白色小雕",
+  "aliases": [
+    "小雕"
+  ],
+  "summary": "绿衣少女驱使的白色小雕灵兽。",
+  "attributes": {
+    "主人": "绿衣少女",
+    "外形": "白色小雕"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "绿衣少女",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外形": [
+      {
+        "value": "白色小雕",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.538Z"
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ent.material.x-c8aa46a9",
+  "type": "material",
+  "name": "灵石",
+  "aliases": [
+    "低阶灵石",
+    "中阶灵石",
+    "高阶灵石",
+    "超阶灵石",
+    "金灵石",
+    "木灵石",
+    "水灵石",
+    "土灵石",
+    "火灵石",
+    "风灵石",
+    "雷灵石",
+    "金属性高阶灵石"
+  ],
+  "summary": "蕴含天地灵气的石头，修仙界通用货币，可加速修炼、布阵、增幅施法、恢复法力。",
+  "attributes": {
+    "类型": "修炼资源/货币",
+    "用途": "修炼大补、布设法阵、施法增幅、恢复法力、交易/保命持久战、驱动古传送阵、催动上古法阵/禁制、补充元婴修士灵力、灵具供能、修炼、特殊交易",
+    "稀有度": "极稀有（天南近绝迹）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵气矿石/货币",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "灵石",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "修炼资源/货币",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "用途": [
+      {
+        "value": "修炼大补",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "布设法阵",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "施法增幅",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "恢复法力",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "交易/保命持久战",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "驱动古传送阵",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "催动上古法阵/禁制",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "补充元婴修士灵力",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "灵具供能、修炼、特殊交易",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "珍贵奢侈品",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "极稀有（天南近绝迹）",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-1267-1272-anyuan-city-shoujao"
+  ],
+  "updatedAt": "2026-06-16T10:12:05.265Z"
+}

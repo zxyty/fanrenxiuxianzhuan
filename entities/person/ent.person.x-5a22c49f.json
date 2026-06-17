@@ -1,0 +1,134 @@
+{
+  "id": "ent.person.x-5a22c49f",
+  "type": "person",
+  "name": "杜东",
+  "aliases": [
+    "杜师兄",
+    "大汉杜东",
+    "杜师侄",
+    "巨汉(大罗千幻决所化)"
+  ],
+  "summary": "憨厚外表的大汉，疑为二百年前灭族的杜家后人，持寒月轮，被白发蒋师伯收为重点培养符修，被怀疑别有图谋潜入落云宗。",
+  "attributes": {
+    "小阶段": "结丹中期",
+    "身份": "刚入门弟子",
+    "标志特征": "持寒月轮，精于制符",
+    "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)",
+    "称号": "千幻宗少主"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "炼气期十层",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631,
+        "note": "大罗千幻决伪装修为"
+      }
+    ],
+    "身份": [
+      {
+        "value": "落云宗天泉峰弟子",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619,
+        "note": "疑杜家后人隐姓埋名潜入"
+      },
+      {
+        "value": "魔道千幻宗嫡传弟子",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625,
+        "note": "卧底/伪装憨厚大汉"
+      },
+      {
+        "value": "刚入门弟子",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631,
+        "note": "假扮潜入"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "持寒月轮，精于制符",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "魔道千幻宗",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "正魔两道(内奸)",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631,
+        "note": "三派欲引出之内奸"
+      }
+    ],
+    "称号": [
+      {
+        "value": "千幻宗少主",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 619,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631,
+      "note": "大罗千幻决伪装修为"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631,
+      "note": "假扮潜入"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.634Z"
+}

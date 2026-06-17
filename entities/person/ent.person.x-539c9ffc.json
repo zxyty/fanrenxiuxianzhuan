@@ -1,0 +1,80 @@
+{
+  "id": "ent.person.x-539c9ffc",
+  "type": "person",
+  "name": "白书君",
+  "aliases": [
+    "白姓青年",
+    "白师兄"
+  ],
+  "summary": "天极门鲁卫英门下弟子,结丹期;纠缠慕沛灵实为代师邀见韩立。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹期",
+    "身份": "天极门弟子",
+    "外貌": "相貌儒雅青年"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "身份": [
+      {
+        "value": "天极门弟子",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "外貌": [
+      {
+        "value": "相貌儒雅青年",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ]
+  },
+  "firstSeq": 715,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+  ],
+  "updatedAt": "2026-06-15T05:51:36.820Z"
+}

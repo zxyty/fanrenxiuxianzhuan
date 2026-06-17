@@ -1,0 +1,127 @@
+{
+  "id": "ent.person.x-b82bb7f0",
+  "type": "person",
+  "name": "黑煞教主",
+  "aliases": [
+    "蓝袍人",
+    "自称黑煞教主者"
+  ],
+  "summary": "黑煞教之主，本章正在闭关，为韩立一行的剿灭目标。",
+  "attributes": {
+    "身份": "黑煞教主",
+    "存殁": "死亡",
+    "外貌": "蓝袍",
+    "阵营": "魔道",
+    "死因": "被韩立天雷子炸死、天雷子所杀"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "黑煞教教主",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "黑煞教创立者",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      },
+      {
+        "value": "黑煞教主",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313,
+        "note": "本章闭关中"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "外貌": [
+      {
+        "value": "约四十、白净无须、眼角鱼尾纹、慈祥",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      },
+      {
+        "value": "蓝袍",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立天雷子炸死",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "天雷子所杀",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 313,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha"
+  ],
+  "updatedAt": "2026-06-14T15:06:59.694Z"
+}

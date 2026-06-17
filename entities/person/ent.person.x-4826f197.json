@@ -1,0 +1,62 @@
+{
+  "id": "ent.person.x-4826f197",
+  "type": "person",
+  "name": "付家青年",
+  "aliases": [],
+  "summary": "付家修士，性情傲慢易怒；透露付家因齐云霄杀人而追杀他，本章被韩立瞬杀。",
+  "attributes": {
+    "阵营": "付家",
+    "存殁": "死亡",
+    "死因": "被韩立瞬杀"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "付家",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立瞬杀",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.751Z"
+}

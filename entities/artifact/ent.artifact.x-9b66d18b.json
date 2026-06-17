@@ -1,0 +1,65 @@
+{
+  "id": "ent.artifact.x-9b66d18b",
+  "type": "artifact",
+  "name": "蜥蜴傀儡兽",
+  "aliases": [
+    "蜥蜴机关兽",
+    "蜥蜴傀儡"
+  ],
+  "summary": "韩立操控的傀儡机关兽，可挖掘探路，助其从塌方中脱困。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "蜥蜴模样傀儡",
+    "能力": "挖掘探路"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "外形": [
+      {
+        "value": "蜥蜴模样傀儡",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "能力": [
+      {
+        "value": "挖掘探路",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou"
+  ],
+  "updatedAt": "2026-06-14T08:30:26.758Z"
+}

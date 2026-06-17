@@ -1,0 +1,37 @@
+{
+  "id": "ent.faction.x-7ed7e6ec",
+  "type": "faction",
+  "name": "厉家",
+  "aliases": [
+    "厉姓子弟"
+  ],
+  "summary": "以武传家的江湖家族，与韩家世代交好。",
+  "attributes": {
+    "理念": "以武传家"
+  },
+  "observations": {
+    "理念": [
+      {
+        "value": "以武传家",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:45.971Z"
+}

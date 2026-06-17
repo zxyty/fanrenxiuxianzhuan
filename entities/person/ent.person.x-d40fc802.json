@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-d40fc802",
+  "type": "person",
+  "name": "林鸾",
+  "aliases": [
+    "林鸾仙子"
+  ],
+  "summary": "人族顶阶存在，与银光仙子联手对敌、形势不妙。",
+  "attributes": {
+    "阵营": "人族",
+    "性别": "女",
+    "标志特征": "以血符催动合息兽"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "以血符催动合息兽",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.292Z"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ent.spell.x-d4e40a42",
+  "type": "spell",
+  "name": "惊神刺",
+  "aliases": [
+    "大衍诀惊神刺",
+    "惊神刺秘术"
+  ],
+  "summary": "大衍诀中的神通，大衍神君承诺危急时破例助韩立施展。",
+  "attributes": {
+    "出处": "大衍神君",
+    "类型": "神识/神念攻击",
+    "适用境界": "对元婴后期效果短暂"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "大衍诀",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "大衍神君",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      }
+    ],
+    "类型": [
+      {
+        "value": "神念攻击",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "神魂秘术",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "神识/神念攻击",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "对元婴后期效果短暂",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "dated": false,
+      "seq": 1225
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "dated": false,
+      "seq": 1225
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+  ],
+  "updatedAt": "2026-06-16T12:14:21.115Z"
+}

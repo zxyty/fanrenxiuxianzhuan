@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-980903e8",
+  "type": "person",
+  "name": "卓如婷",
+  "aliases": [
+    "右使卓如婷",
+    "卓师姐"
+  ],
+  "summary": "妙音门女修，共理门务三人之一，担心韩长老仗修为插手门务。",
+  "attributes": {
+    "性别": "女",
+    "身份": "妙音门长老/主事之一、妙音门右使、妙音门门使、妙音门长老",
+    "外貌": "荷绿色衣裙、黛眉凤眸、秀目隐带煞气",
+    "小阶段": "结丹"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 397
+      }
+    ],
+    "身份": [
+      {
+        "value": "妙音门长老/主事之一",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      },
+      {
+        "value": "妙音门右使",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      },
+      {
+        "value": "妙音门门使",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      },
+      {
+        "value": "妙音门长老",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ],
+    "外貌": [
+      {
+        "value": "荷绿色衣裙、黛眉凤眸、秀目隐带煞气",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ]
+  },
+  "firstSeq": 397,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 397
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.578Z"
+}

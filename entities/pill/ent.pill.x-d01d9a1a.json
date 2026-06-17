@@ -1,0 +1,48 @@
+{
+  "id": "ent.pill.x-d01d9a1a",
+  "type": "pill",
+  "name": "乾元丹",
+  "aliases": [],
+  "summary": "白霞中老者所炼丹药，所缺主料为一味五千年以上、不限种类的灵草。",
+  "attributes": {
+    "炼制者": "白霞中老者",
+    "主料": "五千年以上灵草"
+  },
+  "observations": {
+    "炼制者": [
+      {
+        "value": "白霞中老者",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "主料": [
+      {
+        "value": "五千年以上灵草",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1327,
+  "attrProvenance": {
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1327-1332-tianyuan-fangshi"
+  ],
+  "updatedAt": "2026-06-16T12:39:22.081Z"
+}

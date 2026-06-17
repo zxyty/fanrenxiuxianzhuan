@@ -1,0 +1,86 @@
+{
+  "id": "ent.artifact.x-ad580cb2",
+  "type": "artifact",
+  "name": "化龙玺",
+  "aliases": [
+    "绿色玉玺",
+    "碧绿色印玺",
+    "半化龙玺"
+  ],
+  "summary": "重固古魔封印所需之宝，对真正封印地会有反应。",
+  "attributes": {
+    "能力": "加固古魔封印、感应封印地、克制古魔妖魔、加固昆吾山封印",
+    "外形": "数寸绿色玉玺、五爪真龙幻影",
+    "持有者": "木夫人"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "加固古魔封印、感应封印地",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "克制古魔妖魔",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "加固昆吾山封印",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "外形": [
+      {
+        "value": "数寸绿色玉玺、五爪真龙幻影",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "碧绿色印玺，雕五爪真龙",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "持有者": [
+      {
+        "value": "木夫人",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.146Z"
+}

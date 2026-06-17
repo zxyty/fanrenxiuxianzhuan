@@ -1,0 +1,102 @@
+{
+  "id": "ent.artifact.x-08cfcf92",
+  "type": "artifact",
+  "name": "雷蛟剪",
+  "aliases": [
+    "天雷剪",
+    "青色剪刀",
+    "天鹏族雷蛟剪"
+  ],
+  "summary": "天鹏族镇族之宝，半尺青色古朴剪刀、表面淡银色玄奥花纹、森然寒气；灌注灵力即可祭出伤敌、威力奇大，但易被强者夺取。",
+  "attributes": {
+    "品阶": "镇族之宝",
+    "外形": "半尺青色剪刀、淡银玄奥花纹",
+    "能力": "化两条青色雷蛟",
+    "持有者": "韩立",
+    "来历": "天鹏族"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "镇族之宝",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "外形": [
+      {
+        "value": "半尺青色剪刀、淡银玄奥花纹",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "能力": [
+      {
+        "value": "灌灵祭出伤敌、威力奇大",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "化两条青色雷蛟",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429,
+        "note": "由金悦暂借作地渊自保"
+      }
+    ],
+    "来历": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ]
+  },
+  "firstSeq": 1429,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429,
+      "note": "由金悦暂借作地渊自保"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1495-1500-xutian-rescue-melee"
+  ],
+  "updatedAt": "2026-06-16T18:30:11.150Z"
+}

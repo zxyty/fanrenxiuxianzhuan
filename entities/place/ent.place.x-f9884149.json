@@ -1,0 +1,82 @@
+{
+  "id": "ent.place.x-f9884149",
+  "type": "place",
+  "name": "海猿岛",
+  "aliases": [],
+  "summary": "乱星海偏僻中型岛屿，有大而质劣的庞大灵脉、低阶修士自由出入，因产海猿得名，是韩立藏身结丹之地。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "类型": "海岛",
+    "特产": "海猿",
+    "危险度": "低（低阶修士天下）"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "类型": [
+      {
+        "value": "中型海岛",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "特产": [
+      {
+        "value": "海猿",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "危险度": [
+      {
+        "value": "低（低阶修士天下）",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ]
+  },
+  "firstSeq": 379,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.202Z"
+}

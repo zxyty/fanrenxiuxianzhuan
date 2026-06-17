@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-790fb495",
+  "type": "artifact",
+  "name": "白狼傀儡",
+  "aliases": [
+    "白狼傀儡兽"
+  ],
+  "summary": "韩立的速度型傀儡兽，用以入洞诱出火蟾兽，后被火蟾火球灰飞烟灭。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "高速遁逃"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "能力": [
+      {
+        "value": "高速遁逃",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ]
+  },
+  "firstSeq": 811,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch811-gang-yin-sha"
+  ],
+  "updatedAt": "2026-06-15T06:11:29.091Z"
+}

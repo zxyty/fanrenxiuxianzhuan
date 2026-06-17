@@ -1,0 +1,150 @@
+{
+  "id": "ent.place.x-6c92978f",
+  "type": "place",
+  "name": "黑石城",
+  "aliases": [
+    "黑石小城"
+  ],
+  "summary": "奇渊岛上唯一城市，黑石砌成、方圆二十余里，凡修混居、多艳丽凡人女子，号称修士乐园，有元婴期前辈坐镇、严禁私斗。",
+  "attributes": {
+    "所属势力": "奇渊岛",
+    "类型": "修仙城市、修士城镇、城镇、城市、城池、人类修士城池",
+    "守护": "数座大阵、数千修士及元婴期前辈（已毁）",
+    "特产": "双修炉鼎、法宝、灵兽、稀有材料",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "奇渊岛神秘势力",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "众势力联手",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "奇渊岛",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "类型": [
+      {
+        "value": "修仙城市",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "修士城镇",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "城镇",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "城市",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "人类修士城池",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "守护": [
+      {
+        "value": "元婴期前辈",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "数座大阵、数千修士及元婴期前辈（已毁）",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "特产": [
+      {
+        "value": "双修炉鼎",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "法宝",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "灵兽",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "稀有材料",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ]
+  },
+  "firstSeq": 505,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+  ],
+  "updatedAt": "2026-06-14T18:06:17.278Z"
+}

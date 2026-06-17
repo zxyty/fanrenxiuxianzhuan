@@ -1,0 +1,55 @@
+{
+  "id": "ent.faction.x-ee5817b3",
+  "type": "faction",
+  "name": "魔焰门",
+  "aliases": [
+    "魔焰门一门",
+    "魔焰宗"
+  ],
+  "summary": "魔道六宗之一，红衣修士为狂焰修士，持金乌烈阳大旗放青阳魔火。",
+  "attributes": {
+    "阵营": "魔道",
+    "据点": "元武国"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "据点": [
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-1161-kunpeng-zhi-yu"
+  ],
+  "updatedAt": "2026-06-15T11:41:39.725Z"
+}

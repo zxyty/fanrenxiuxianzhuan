@@ -1,0 +1,143 @@
+{
+  "id": "ent.faction.x-3f5e8dc8",
+  "type": "faction",
+  "name": "万妖谷",
+  "aliases": [
+    "群妖",
+    "万妖谷妖族",
+    "万妖谷一门"
+  ],
+  "summary": "大晋可与太一门、天魔宗并驾齐驱的妖族大势力，万年尸熊为其副谷主。",
+  "attributes": {
+    "阵营": "妖族、妖兽、妖修",
+    "据点": "大晋境内",
+    "等级": "大势力",
+    "镇派之宝": "仿制万妖幡",
+    "理念": "妖修聚集",
+    "所属界面": "人界"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "妖修",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "据点": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "大晋境内",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
+    ],
+    "等级": [
+      {
+        "value": "大势力",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "万妖幡",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 901
+      },
+      {
+        "value": "仿制万妖幡",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "理念": [
+      {
+        "value": "万妖齐聚",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "妖修聚集",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ]
+  },
+  "firstSeq": 901,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan"
+  ],
+  "updatedAt": "2026-06-16T09:06:56.045Z"
+}

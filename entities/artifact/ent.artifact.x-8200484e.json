@@ -1,0 +1,91 @@
+{
+  "id": "ent.artifact.x-8200484e",
+  "type": "artifact",
+  "name": "凝光宝镜",
+  "aliases": [
+    "凝光镜"
+  ],
+  "summary": "南宫婉师姐成名古宝之一，乌黑镜身射五色光柱，可禁制困住敌方法宝。",
+  "attributes": {
+    "持有者": "南宫婉师姐、冰冷女子、南宫婉、白衣女子",
+    "能力": "放五色光柱困敌",
+    "外形": "通体乌黑、正面深邃阴森却射出五色光柱"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "南宫婉师姐",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "冰冷女子",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "南宫婉",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "白衣女子",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "能力": [
+      {
+        "value": "射五色光柱禁制困住法宝",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "五色光柱禁制",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "放五色光柱困敌",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "外形": [
+      {
+        "value": "通体乌黑、正面深邃阴森却射出五色光柱",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 715,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-841-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-841-lianshou-kangmo"
+  ],
+  "updatedAt": "2026-06-15T14:00:34.661Z"
+}

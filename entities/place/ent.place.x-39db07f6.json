@@ -1,0 +1,54 @@
+{
+  "id": "ent.place.x-39db07f6",
+  "type": "place",
+  "name": "火云峰",
+  "aliases": [],
+  "summary": "落云宗以炼符为主的山峰,能炼制中阶符箓者亦寥寥。",
+  "attributes": {
+    "所属势力": "落云宗",
+    "类型": "山峰"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "类型": [
+      {
+        "value": "宗门山峰(以炼符为主)",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "山峰",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+  ],
+  "updatedAt": "2026-06-14T19:58:38.276Z"
+}

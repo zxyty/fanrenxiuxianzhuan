@@ -1,0 +1,69 @@
+{
+  "id": "ent.artifact.x-0c850a33",
+  "type": "artifact",
+  "name": "黑血妖刀",
+  "aliases": [
+    "黑刀"
+  ],
+  "summary": "越皇所持妖刀，刀芒威力极强、挟恶腥血光，能击毁符宝；众人疑为某件法宝的残片。",
+  "attributes": {
+    "持有者": "越皇",
+    "能力": "巨大黑色刀芒、血光护体",
+    "外形": "黑色妖刀"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "越皇",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "能力": [
+      {
+        "value": "巨大黑色刀芒",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "血光护体",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑色妖刀",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.370Z"
+}

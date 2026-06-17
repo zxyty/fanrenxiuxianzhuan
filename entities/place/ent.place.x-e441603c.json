@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-e441603c",
+  "type": "place",
+  "name": "地火殿",
+  "aliases": [
+    "地火殿密室"
+  ],
+  "summary": "炼器殿最重要建筑，分上中下三层，下层借地火之精炼高阶灵器，韩立平常在中层密室提炼材料。",
+  "attributes": {
+    "类型": "炼器殿堂",
+    "特产": "地火之精"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼器殿堂",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "特产": [
+      {
+        "value": "地火之精",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu"
+  ],
+  "updatedAt": "2026-06-16T01:21:22.362Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.technique.x-e176fee0",
+  "type": "technique",
+  "name": "魔功",
+  "aliases": [],
+  "summary": "小王爷修炼的魔道功法，需以修士血祭。",
+  "attributes": {
+    "出处": "魔道",
+    "修炼条件": "以修士血祭"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "以修士血祭",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.566Z"
+}

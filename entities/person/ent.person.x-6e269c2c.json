@@ -1,0 +1,120 @@
+{
+  "id": "ent.person.x-6e269c2c",
+  "type": "person",
+  "name": "魁梧男子",
+  "aliases": [
+    "斗篷魁梧男子",
+    "千竹教魁梧男子",
+    "斗篷巨汉",
+    "黄发大汉",
+    "焦黄短发大汉",
+    "黄师弟",
+    "黄某"
+  ],
+  "summary": "千竹教修士、非元武国人，竞卖会买走傀儡机关兽，以傀儡大军及巨型傀儡虎围杀偷跟的元武国修士。",
+  "attributes": {
+    "身份": "护教法王",
+    "阵营": "千竹教",
+    "出身地": "他国",
+    "性别": "男",
+    "外貌": "焦黄短发、相貌凶狠的大汉",
+    "性格": "心狠手辣、阴险"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "傀儡操纵者",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "护教法王",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      }
+    ],
+    "阵营": [
+      {
+        "value": "千竹教",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "出身地": [
+      {
+        "value": "他国",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223,
+        "note": "非元武国人"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      }
+    ],
+    "外貌": [
+      {
+        "value": "焦黄短发、相貌凶狠的大汉",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      }
+    ],
+    "性格": [
+      {
+        "value": "心狠手辣、阴险",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      }
+    ]
+  },
+  "firstSeq": 223,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223,
+      "note": "非元武国人"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong"
+  ],
+  "updatedAt": "2026-06-14T06:52:19.589Z"
+}

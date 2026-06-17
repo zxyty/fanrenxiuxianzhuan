@@ -1,0 +1,74 @@
+{
+  "id": "ent.event.x-2538ffc0",
+  "type": "event",
+  "name": "乱星海妖修之战",
+  "aliases": [
+    "乱星海人妖大战"
+  ],
+  "summary": "由韩立目睹的人妖大战引发，蛟类一族加入高阶妖兽屠杀人类修士，人类损失惨重。",
+  "attributes": {
+    "地点": "乱星海",
+    "参与方": "人类修士、高阶妖兽、蛟类一族",
+    "结果": "人类修士损失惨重"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "参与方": [
+      {
+        "value": "人类修士",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "高阶妖兽",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "蛟类一族",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "结果": [
+      {
+        "value": "人类修士损失惨重",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
+  ],
+  "updatedAt": "2026-06-14T17:49:48.494Z"
+}

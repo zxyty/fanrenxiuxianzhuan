@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-d09d490c",
+  "type": "artifact",
+  "name": "灭魔箭",
+  "aliases": [
+    "金雷竹灭魔箭"
+  ],
+  "summary": "玄骨上人所持、由金雷竹炼成的灭魔箭，曾令鬼道残魂吃苦头。",
+  "attributes": {
+    "持有者": "玄骨上人",
+    "来历": "金雷竹炼制"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "玄骨上人",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "来历": [
+      {
+        "value": "金雷竹炼制",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju"
+  ],
+  "updatedAt": "2026-06-14T15:46:06.995Z"
+}

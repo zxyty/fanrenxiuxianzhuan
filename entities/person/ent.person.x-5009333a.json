@@ -1,0 +1,52 @@
+{
+  "id": "ent.person.x-5009333a",
+  "type": "person",
+  "name": "叶老二",
+  "aliases": [
+    "白霞中人影",
+    "叶某",
+    "主持交换会者"
+  ],
+  "summary": "叶家修士，交换会主持人，亲自鉴定魔髓钻并用极品眩光晶换走一枚。",
+  "attributes": {
+    "身份": "交换会主持人",
+    "阵营": "叶家"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "交换会主持人",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 949,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:47.001Z"
+}

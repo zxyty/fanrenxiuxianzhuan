@@ -1,0 +1,93 @@
+{
+  "id": "ent.place.x-78d80c64",
+  "type": "place",
+  "name": "岳麓殿",
+  "aliases": [],
+  "summary": "黄枫谷法器、丹药配方、书籍、密术的专门收藏处，禁制阵法层叠、弟子巡逻，传闻有结丹期师叔祖坐镇。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "藏宝藏书重地、殿堂/藏书室、殿堂、殿宇/传送阵",
+    "守护": "百余弟子巡逻、结丹期师叔祖",
+    "危险度": "高"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "类型": [
+      {
+        "value": "藏宝藏书重地",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "殿堂/藏书室",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "殿堂",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "殿宇/传送阵",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "守护": [
+      {
+        "value": "百余弟子巡逻、结丹期师叔祖",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei"
+  ],
+  "updatedAt": "2026-06-14T06:22:43.870Z"
+}

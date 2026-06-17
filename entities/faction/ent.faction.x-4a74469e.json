@@ -1,0 +1,39 @@
+{
+  "id": "ent.faction.x-4a74469e",
+  "type": "faction",
+  "name": "三皇观",
+  "aliases": [
+    "皇阳观",
+    "皇圣观",
+    "三观"
+  ],
+  "summary": "含皇清观（女观）、皇阳观、皇圣观（男修主持）三脉的道门势力。",
+  "attributes": {
+    "所属界面": "大晋皇朝"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ]
+  },
+  "firstSeq": 919,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "dated": false,
+      "seq": 943
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-ch943-jinjing-extortion-backstab"
+  ],
+  "updatedAt": "2026-06-16T02:11:44.916Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ent.beast.x-193d11c5",
+  "type": "beast",
+  "name": "火蟒",
+  "aliases": [
+    "火红巨蟒"
+  ],
+  "summary": "极阴祖师的灵兽，取宝候选（成功率逊于血玉蜘蛛），极阴原打算用其装作取宝失败掩人耳目。",
+  "attributes": {
+    "主人": "极阴老祖",
+    "能力": "耐乾蓝冰焰",
+    "外形": "火红磷片巨蟒，七寸处有符文花纹"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "极阴祖师",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "极阴老祖",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ],
+    "能力": [
+      {
+        "value": "耐乾蓝冰焰",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ],
+    "外形": [
+      {
+        "value": "火红磷片巨蟒，七寸处有符文花纹",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 451,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.575Z"
+}

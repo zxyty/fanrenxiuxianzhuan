@@ -1,0 +1,74 @@
+{
+  "id": "ent.artifact.x-f26a5875",
+  "type": "artifact",
+  "name": "金骷髅头",
+  "aliases": [
+    "金骷髅头符宝",
+    "金光骷髅头"
+  ],
+  "summary": "王蝉的金光骷髅符宝，可张口咬住法器使其无法前进；王蝉中毒撤退时舍弃，被韩立收走（已多次使用、威能将尽）。",
+  "attributes": {
+    "持有者": "曲魂",
+    "能力": "巨口咬住/钳制法器",
+    "外形": "金光灿灿骷髅头"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259,
+        "note": "本章前为王蝉所有，王蝉撤退时舍弃后被韩立收走"
+      },
+      {
+        "value": "曲魂",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385,
+        "note": "本章由韩立转交"
+      }
+    ],
+    "能力": [
+      {
+        "value": "巨口咬住/钳制法器",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "外形": [
+      {
+        "value": "金光灿灿骷髅头",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385,
+      "note": "本章由韩立转交"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.198Z"
+}

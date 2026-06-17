@@ -1,0 +1,122 @@
+{
+  "id": "ent.faction.x-870b22bf",
+  "type": "faction",
+  "name": "陇家",
+  "aliases": [
+    "泷家",
+    "陇家双修"
+  ],
+  "summary": "上古流传的隐秘真灵世家,传承真龙血脉,操控遍布三境之地的拍卖行,血痣青年为其公子。",
+  "attributes": {
+    "等级": "上古真灵家族",
+    "镇派之宝": "真龙血脉传承、真龙之血、血晶摩诃剑",
+    "据点": "遍布三境之地的拍卖行",
+    "阵营": "人族、真灵世家·真龙血脉、人族真灵世家",
+    "理念": "掌控人族拍卖行"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "隐秘真灵世家",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "上古真灵家族",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "真龙血脉传承",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "真龙之血",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "血晶摩诃剑",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ],
+    "据点": [
+      {
+        "value": "遍布三境之地的拍卖行",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "真灵世家·真龙血脉",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "人族真灵世家",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ],
+    "理念": [
+      {
+        "value": "掌控人族拍卖行",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1333,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+      "dated": false,
+      "seq": 1375
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1369-1374-heiye-senlin-muzu",
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+  ],
+  "updatedAt": "2026-06-16T14:51:31.349Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ent.person.x-2eccff4a",
+  "type": "person",
+  "name": "冰魄仙子",
+  "aliases": [
+    "冰魄先祖",
+    "冰魄仙子本体"
+  ],
+  "summary": "昔日修士，小极宫为其留在人界的一脉，已成往事人物。",
+  "attributes": {
+    "身份": "上古飞升修士/许家先祖",
+    "称号": "上古修士",
+    "存殁": "失踪",
+    "性别": "女"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "小极宫一脉之源",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "小极宫创派祖师",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "上古飞升修士/许家先祖",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "称号": [
+      {
+        "value": "冰魄仙子",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "上古修士",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ],
+    "存殁": [
+      {
+        "value": "失踪",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087,
+        "note": "飞升前冰封冰渊岛时莫名失踪"
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1087,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "dated": false,
+      "seq": 1117
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087,
+      "note": "飞升前冰封冰渊岛时莫名失踪"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.757Z"
+}

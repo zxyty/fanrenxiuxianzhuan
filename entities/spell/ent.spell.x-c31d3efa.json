@@ -1,0 +1,57 @@
+{
+  "id": "ent.spell.x-c31d3efa",
+  "type": "spell",
+  "name": "土牢术",
+  "aliases": [
+    "土牢术符箓",
+    "黄色光罩"
+  ],
+  "summary": "初级高阶土属性符箓，激发后化黄色光罩牢困目标，使其无法移动。",
+  "attributes": {
+    "类型": "土系/困敌",
+    "出处": "符箓"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "土属性符箓/困敌",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "土系/困敌",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "出处": [
+      {
+        "value": "符箓",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.486Z"
+}

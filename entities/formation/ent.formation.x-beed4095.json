@@ -1,0 +1,57 @@
+{
+  "id": "ent.formation.x-beed4095",
+  "type": "formation",
+  "name": "四象玄武阵",
+  "aliases": [
+    "四象玄武阵阵旗"
+  ],
+  "summary": "上古土属性大阵，仅凭四面土黄小旗即可布成，能禁制方圆数十丈山石泥土使其坚硬似铁，用以困住九曲灵参；本章由玄骨炼制并交韩立布置（实为困杀韩立之陷阱，阵旗疑被动手脚）。",
+  "attributes": {
+    "效果": "禁制方圆数十丈山石泥土使坚硬似铁、困住九曲灵参",
+    "布置者": "韩立"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "禁制方圆数十丈山石泥土使坚硬似铁",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "困住九曲灵参",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "布置者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445,
+        "note": "玄骨炼制后交韩立布置，暗藏手脚"
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445,
+      "note": "玄骨炼制后交韩立布置，暗藏手脚"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju"
+  ],
+  "updatedAt": "2026-06-14T15:46:07.024Z"
+}

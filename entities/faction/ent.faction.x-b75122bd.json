@@ -1,0 +1,90 @@
+{
+  "id": "ent.faction.x-b75122bd",
+  "type": "faction",
+  "name": "天东商号",
+  "aliases": [
+    "天东商会",
+    "本商会",
+    "天东商号车队"
+  ],
+  "summary": "灵界一支大型商号，以护卫队护送贵重货物穿越青罗沙漠；以血咒文书招募效力者。",
+  "attributes": {
+    "所属界面": "灵界、灵界·天元境",
+    "等级": "天元境三大商号之一",
+    "据点": "天元圣城(总部)、天元境、如云客栈西院、灵界人类城市"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "灵界·天元境",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ],
+    "等级": [
+      {
+        "value": "天元境三大商号之一",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ],
+    "据点": [
+      {
+        "value": "天元圣城(总部)",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "如云客栈西院",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "灵界人类城市",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ]
+  },
+  "firstSeq": 1261,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1287-chuancheng-zhu"
+  ],
+  "updatedAt": "2026-06-16T10:51:11.079Z"
+}

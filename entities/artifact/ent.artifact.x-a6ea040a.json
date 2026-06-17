@@ -1,0 +1,62 @@
+{
+  "id": "ent.artifact.x-a6ea040a",
+  "type": "artifact",
+  "name": "红色飞刀",
+  "aliases": [],
+  "summary": "化刀坞青年所持的两道红色飞刀法器，可化光幕防御。",
+  "attributes": {
+    "持有者": "化刀坞青年",
+    "能力": "攻防兼备、化光幕",
+    "外形": "两道红色飞刀"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "化刀坞青年",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "能力": [
+      {
+        "value": "攻防兼备、化光幕",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外形": [
+      {
+        "value": "两道红色飞刀",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.532Z"
+}

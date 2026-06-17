@@ -1,0 +1,109 @@
+{
+  "id": "ent.faction.x-7cf61d9a",
+  "type": "faction",
+  "name": "天星宗",
+  "aliases": [],
+  "summary": "元武国修仙大派，七大派之一，在元武国设有坊市。",
+  "attributes": {
+    "等级": "元武国三大正派之一",
+    "据点": "星尘阁",
+    "阵营": "正派",
+    "理念": "阵法",
+    "所属界面": "元武国"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "七大派之一",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "元武国三大正派之一",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "据点": [
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "星尘阁",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "阵营": [
+      {
+        "value": "正派",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "理念": [
+      {
+        "value": "阵法立派",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "阵法",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi"
+  ],
+  "updatedAt": "2026-06-14T12:17:41.312Z"
+}

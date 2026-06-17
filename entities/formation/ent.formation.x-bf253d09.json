@@ -1,0 +1,79 @@
+{
+  "id": "ent.formation.x-bf253d09",
+  "type": "formation",
+  "name": "四象阵",
+  "aliases": [],
+  "summary": "黑煞教护法大阵，将敌人传送困入冰天雪地，属较冷僻阵法，蛮力破阵耗时耗法力。",
+  "attributes": {
+    "效果": "困敌于冰天雪地幻境、消耗破阵者法力、白雾困敌、拖延时间",
+    "布置者": "黑煞教",
+    "破解法": "韩立借水晶球法器寻得破绽、集中法器攻击灵气稀薄之破绽"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "困敌于冰天雪地幻境",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "消耗破阵者法力",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "白雾困敌、拖延时间",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "布置者": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "破解法": [
+      {
+        "value": "韩立借水晶球法器寻得破绽",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313,
+        "note": "本章仅发现破绽，尚未破阵"
+      },
+      {
+        "value": "集中法器攻击灵气稀薄之破绽",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 313,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313,
+      "note": "本章仅发现破绽，尚未破阵"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:35.015Z"
+}

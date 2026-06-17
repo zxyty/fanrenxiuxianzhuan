@@ -1,0 +1,59 @@
+{
+  "id": "ent.artifact.x-aa496bb5",
+  "type": "artifact",
+  "name": "妙音宝镜",
+  "aliases": [],
+  "summary": "天魔宗七妙真人之破形法宝，被阴罗宗借去祭炼，欲破韩立幻化之术。",
+  "attributes": {
+    "能力": "察觉隐匿/感应",
+    "持有者": "林银屏"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "破形（破除幻化伪装）",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "察觉隐匿/感应",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "持有者": [
+      {
+        "value": "七妙真人",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "林银屏",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:46.991Z"
+}

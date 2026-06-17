@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-37ef59b7",
+  "type": "place",
+  "name": "风元大陆",
+  "aliases": [],
+  "summary": "灵界已知三片大陆中最小的一块，却种族最多；西北角含人族、妖族、灵族、木族、夜叉族、影族等。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "大陆"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "类型": [
+      {
+        "value": "大陆",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ]
+  },
+  "firstSeq": 1351,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1407-jinsui-lianti"
+  ],
+  "updatedAt": "2026-06-16T15:42:40.183Z"
+}

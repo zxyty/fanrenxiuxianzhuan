@@ -1,0 +1,92 @@
+{
+  "id": "ent.person.x-de02eb12",
+  "type": "person",
+  "name": "徐老",
+  "aliases": [
+    "徐老哥",
+    "白发老者",
+    "徐某",
+    "白发店主"
+  ],
+  "summary": "天星宗坊市炼器店主，仅炼气期但家学渊源，靠徐家世代供养的火鸦妖火可炼顶阶法器。",
+  "attributes": {
+    "小阶段": "炼气期",
+    "身份": "炼器师",
+    "外貌": "白发老者",
+    "性格": "炼器成痴"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼器高手",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "炼器师",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发红光老者",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "性格": [
+      {
+        "value": "炼器成痴",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.544Z"
+}

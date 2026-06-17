@@ -1,0 +1,129 @@
+{
+  "id": "ent.material.x-1b885b06",
+  "type": "material",
+  "name": "瓶中绿液",
+  "aliases": [
+    "碧绿液体",
+    "神秘液",
+    "绿液",
+    "豆粒绿液",
+    "神秘绿液"
+  ],
+  "summary": "神秘瓶子内一滴黄豆大小、缓缓滚动的碧绿色液体，映得瓶壁绿莹莹，用途未明。",
+  "attributes": {
+    "类型": "神秘灵液",
+    "用途": "未明、本片段表现为致兔膨胀爆裂的剧毒之效（实效未明）、催熟草药年份（可叠加）、稀释后洒大量草药催出普通药材、催生珍稀药材、催熟药草、配制丹药、催生灵草、催生草木",
+    "产地": "神秘瓶子"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "神秘液体",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "神秘绿色液体",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      },
+      {
+        "value": "神秘灵液",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "用途": [
+      {
+        "value": "未明",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "本片段表现为致兔膨胀爆裂的剧毒之效（实效未明）",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "催熟草药年份（可叠加）",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "稀释后洒大量草药催出普通药材",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "催生珍稀药材",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      },
+      {
+        "value": "催熟药草",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "配制丹药",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "催生灵草",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "催生草木",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "产地": [
+      {
+        "value": "神秘瓶子内",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "神秘瓶子",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      }
+    ]
+  },
+  "firstSeq": 13,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch13-18-yixiang-qi",
+      "dated": false,
+      "seq": 13
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch13-18-yixiang-qi",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch242-zhifu-biguan"
+  ],
+  "updatedAt": "2026-06-14T07:18:30.696Z"
+}

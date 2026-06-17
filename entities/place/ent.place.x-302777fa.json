@@ -1,0 +1,124 @@
+{
+  "id": "ent.place.x-302777fa",
+  "type": "place",
+  "name": "药园",
+  "aliases": [
+    "药田",
+    "百药园"
+  ],
+  "summary": "神手谷内的药材园圃，韩立在此取材配药、试药兔，绿液溅及数株药草。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "灵药园",
+    "特产": "千结花、黑芍草、金精参",
+    "守护": "马师兄（小老头）"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "类型": [
+      {
+        "value": "药圃",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "药园",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      },
+      {
+        "value": "药草园",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "灵药园圃",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "灵药园",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "特产": [
+      {
+        "value": "千结花",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "黑芍草",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "金精参",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "守护": [
+      {
+        "value": "马师兄（小老头）",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ]
+  },
+  "firstSeq": 19,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch55-60-third-person-duoshe-failed",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.387Z"
+}

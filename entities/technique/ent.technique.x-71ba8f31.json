@@ -1,0 +1,78 @@
+{
+  "id": "ent.technique.x-71ba8f31",
+  "type": "technique",
+  "name": "附灵术",
+  "aliases": [
+    "附灵之术",
+    "附灵密术"
+  ],
+  "summary": "修士对智慧不高的妖兽施展之秘术：修为叠加数倍、签生死之约、最终诞生独立神智的半人半妖新个体；代价是寿元惊人消耗、寿短即灭，传言术者死后魂坠无尽深渊。",
+  "attributes": {
+    "效果": "修为叠加数倍、结生死之约、形成独立新个体、与灵兽合体，战力近高一阶、妖魂附体增幅（有透支寿元/失神智之害）",
+    "修炼条件": "已失传秘术"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "修为叠加数倍",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "结生死之约",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "形成独立新个体",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "与灵兽合体，战力近高一阶",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "妖魂附体增幅（有透支寿元/失神智之害）",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "对智慧不高之妖兽施展",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "已失传秘术",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ]
+  },
+  "firstSeq": 439,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "dated": false,
+      "seq": 733
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-439-444-guiwang-xutiandian",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-769-774-border-war-6-8"
+  ],
+  "updatedAt": "2026-06-15T03:47:18.110Z"
+}

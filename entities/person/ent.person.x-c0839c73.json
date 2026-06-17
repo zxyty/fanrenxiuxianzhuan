@@ -1,0 +1,112 @@
+{
+  "id": "ent.person.x-c0839c73",
+  "type": "person",
+  "name": "欧阳飞天",
+  "aliases": [],
+  "summary": "独霸山庄人物，练霸王甲横练硬功，被韩立以剑符削首身亡。",
+  "attributes": {
+    "身份": "独霸山庄庄主",
+    "存殁": "死亡",
+    "死因": "被韩立刺杀",
+    "标志特征": "身有独有伤痕与胎记",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "独霸山庄人物",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "独霸山庄主",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "独霸山庄庄主",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立剑符削首",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "被韩立所杀",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "被韩立刺杀",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身有独有伤痕与胎记",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence"
+  ],
+  "updatedAt": "2026-06-14T08:51:46.203Z"
+}

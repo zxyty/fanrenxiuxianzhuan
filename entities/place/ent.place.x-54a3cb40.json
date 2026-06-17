@@ -1,0 +1,64 @@
+{
+  "id": "ent.place.x-54a3cb40",
+  "type": "place",
+  "name": "落云宗药园",
+  "aliases": [
+    "培育园"
+  ],
+  "summary": "落云宗一处药草品级普通的破药园，韩立接管并借其掩护暗建洞府。",
+  "attributes": {
+    "所属势力": "落云宗",
+    "类型": "宗门药园",
+    "特产": "普通药草"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "类型": [
+      {
+        "value": "宗门药园",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "特产": [
+      {
+        "value": "普通药草",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu"
+  ],
+  "updatedAt": "2026-06-14T19:44:58.616Z"
+}

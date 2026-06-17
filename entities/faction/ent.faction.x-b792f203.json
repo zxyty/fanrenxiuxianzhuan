@@ -1,0 +1,35 @@
+{
+  "id": "ent.faction.x-b792f203",
+  "type": "faction",
+  "name": "异灵堂",
+  "aliases": [],
+  "summary": "天渊城下属机构，负责处置巡逻队俘获的异族。",
+  "attributes": {
+    "据点": "天渊城"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1321,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1327-1332-tianyuan-fangshi"
+  ],
+  "updatedAt": "2026-06-16T12:39:22.075Z"
+}

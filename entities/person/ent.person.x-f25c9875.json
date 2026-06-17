@@ -1,0 +1,69 @@
+{
+  "id": "ent.person.x-f25c9875",
+  "type": "person",
+  "name": "灰衣人",
+  "aliases": [
+    "七玄门三大高手之一"
+  ],
+  "summary": "王绝楚师叔，使无上剑技‘剑芒’；震落灰芒后受伤吐血，是三大高手中唯一存活者。",
+  "attributes": {
+    "身份": "七玄门高手/王绝楚师叔",
+    "存殁": "存活、死亡",
+    "死因": "被灰芒斩首(第91章)"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "七玄门高手/王绝楚师叔",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ],
+    "死因": [
+      {
+        "value": "被灰芒斩首(第91章)",
+        "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+        "seq": 91
+      }
+    ]
+  },
+  "firstSeq": 91,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "dated": false,
+      "seq": 91
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch"
+  ],
+  "updatedAt": "2026-06-14T03:06:36.589Z"
+}

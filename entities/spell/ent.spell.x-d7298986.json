@@ -1,0 +1,60 @@
+{
+  "id": "ent.spell.x-d7298986",
+  "type": "spell",
+  "name": "冰锥术",
+  "aliases": [],
+  "summary": "凝结尖锐冰锥激射的法术；黄衣人以之偷袭并连射二十余根冰锥。",
+  "attributes": {
+    "类型": "冰系攻击/搜索",
+    "威力": "可一次激射二十余根冰锥"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "冰属性攻击",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "冰系攻击",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "冰系攻击/搜索",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "威力": [
+      {
+        "value": "可一次激射二十余根冰锥",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+  ],
+  "updatedAt": "2026-06-14T05:36:55.210Z"
+}

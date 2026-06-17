@@ -1,0 +1,54 @@
+{
+  "id": "ent.artifact.x-3f63a58b",
+  "type": "artifact",
+  "name": "天尸珠",
+  "aliases": [
+    "金珠",
+    "天尸宝珠"
+  ],
+  "summary": "炫烨王随身至宝，喷出可化金色大手御敌，三魔围杀目的即为夺此珠。",
+  "attributes": {
+    "持有者": "炫烨王",
+    "能力": "化金色大手抓制敌法"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "炫烨王",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      }
+    ],
+    "能力": [
+      {
+        "value": "化金色大手抓制敌法",
+        "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      }
+    ]
+  },
+  "firstSeq": 913,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-array",
+      "dated": false,
+      "seq": 913
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-array",
+      "dated": false,
+      "seq": 913
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.291Z"
+}

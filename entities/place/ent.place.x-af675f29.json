@@ -1,0 +1,81 @@
+{
+  "id": "ent.place.x-af675f29",
+  "type": "place",
+  "name": "岚州",
+  "aliases": [],
+  "summary": "越国十三州之一，富足排第二、产粮第一，水道纵横。",
+  "attributes": {
+    "类型": "州",
+    "特产": "谷稻",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "州府",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      },
+      {
+        "value": "州域",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      },
+      {
+        "value": "州",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "特产": [
+      {
+        "value": "谷稻",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 97,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:47.203Z"
+}

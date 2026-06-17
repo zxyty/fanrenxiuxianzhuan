@@ -1,0 +1,121 @@
+{
+  "id": "ent.material.x-396da54a",
+  "type": "material",
+  "name": "千年灵药",
+  "aliases": [
+    "千年灵草",
+    "千余年药草",
+    "千年黄精芝",
+    "黄精芝",
+    "年久灵草"
+  ],
+  "summary": "韩立四个多月培出两株，用以换取灵石；百余年药材难寻的当世颇为珍稀。",
+  "attributes": {
+    "用途": "换取灵石/以物易物、入药/交易、炼丹突破/提升法力、治病、炼丹药引",
+    "稀有度": "珍稀、千年极品,极其罕见、千年极品、近百年仅现世数次、稀有",
+    "类型": "千年灵药"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "换取灵石/以物易物",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "入药/交易",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "炼丹突破/提升法力",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "治病",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "炼丹药引",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "千年极品,极其罕见",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "千年极品",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "近百年仅现世数次",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "千年灵草",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "千年灵药",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-272-jingu-yuan-war-one-year"
+  ],
+  "updatedAt": "2026-06-14T08:43:23.896Z"
+}

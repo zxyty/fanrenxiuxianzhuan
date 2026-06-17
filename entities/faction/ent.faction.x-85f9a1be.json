@@ -1,0 +1,59 @@
+{
+  "id": "ent.faction.x-85f9a1be",
+  "type": "faction",
+  "name": "四平帮",
+  "aliases": [
+    "四平帮总舵"
+  ],
+  "summary": "嘉元城码头小帮会，孙二狗所属；与铁拳会同盟对抗毒龙帮。",
+  "attributes": {
+    "据点": "嘉元城码头",
+    "掌门": "孙二狗"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "嘉元城码头",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "掌门": [
+      {
+        "value": "沈重山",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "孙二狗",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ]
+  },
+  "firstSeq": 97,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:46.747Z"
+}

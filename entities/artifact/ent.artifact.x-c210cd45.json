@@ -1,0 +1,98 @@
+{
+  "id": "ent.artifact.x-c210cd45",
+  "type": "artifact",
+  "name": "七色宝塔",
+  "aliases": [
+    "七层巨塔",
+    "七色巨塔",
+    "七色小塔",
+    "迷你宝塔",
+    "七色光霞"
+  ],
+  "summary": "须弥宝物外化内现而成的七层巨塔，内为无边须弥空间，逐层有守塔傀儡，节点藏于第七层；塔顶有眼珠状巨大晶球。",
+  "attributes": {
+    "外形": "七层灰白巨塔、塔顶晶球、数千丈高七色巨塔、数寸迷你宝塔",
+    "禁制": "七色符文禁制（外部攻击被摄走）",
+    "能力": "化七色光霞收物",
+    "持有者": "魔族圣祖"
+  },
+  "observations": {
+    "外形": [
+      {
+        "value": "七层灰白巨塔、塔顶晶球",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "数千丈高七色巨塔",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "数寸迷你宝塔",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "禁制": [
+      {
+        "value": "七色符文禁制（外部攻击被摄走）",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "能力": [
+      {
+        "value": "摄人入须弥空间",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "化七色光霞收物",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "持有者": [
+      {
+        "value": "魔族圣祖",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.302Z"
+}

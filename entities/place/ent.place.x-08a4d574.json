@@ -1,0 +1,397 @@
+{
+  "id": "ent.place.x-08a4d574",
+  "type": "place",
+  "name": "坠魔谷",
+  "aliases": [
+    "暗魔谷",
+    "坠魔谷秘谷",
+    "坠魔谷外谷",
+    "坠魔谷入口",
+    "天南第一凶地",
+    "堕魔谷",
+    "外谷",
+    "魔谷",
+    "坠魔谷一隅"
+  ],
+  "summary": "天南第一凶地，传说中上古战场，空间裂缝紊乱、古阵禁制密布，入内寻宝者几无生还。",
+  "attributes": {
+    "所属界面": "人界天南",
+    "类型": "上古战场/凶地、凶险秘境、秘境/谷地、秘境、古险地、凶地秘境、秘谷、上古秘地、上古秘境、凶地/上古禁地、上古战场遗迹、秘境山谷、古魔封禁之地、险地秘境、秘境危地、秘境/谷、险地/魔物封印之地、上古遗迹/禁地、凶地、凶地秘谷",
+    "危险度": "天南第一凶地、极高、高、高（得其秘密恐成众矢之的）、天南第一险地、极高(天南第一凶地)、极高（紫纹蝎、隐形空间裂缝、熔岩火海）、内谷极高，外谷渐弱、内谷极危（空间裂缝）、高(血红闪电禁制、上古妖兽)",
+    "守护": "火蟾/北极元光/上古禁制、上古禁制、空间裂缝、上古禁制、空间裂缝、层层上古禁制、血色禁制、禁制光霞、三首乌蛇、北极元光、灵缈园、古魔、上古修士封印、上古妖魔、空间裂缝、禁制",
+    "特产": "灵烛果、上古火蟾兽妖丹、罡银沙、古修遗宝、火蟾兽妖丹、上古遗骸宝物、古宝、金阳芝、幻灵草等灭绝灵草、上古遗宝、延寿灵丹、功法、幻灵草"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      },
+      {
+        "value": "人界·大晋",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "类型": [
+      {
+        "value": "上古战场/凶地",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      },
+      {
+        "value": "凶险秘境",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "秘境/谷地",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      },
+      {
+        "value": "秘境",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      },
+      {
+        "value": "古险地",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "凶地秘境",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "秘谷",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "上古秘地",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "上古秘境",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "凶地/上古禁地",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "上古战场遗迹",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "秘境山谷",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "古魔封禁之地",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "险地秘境",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "秘境危地",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "秘境/谷",
+        "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "险地/魔物封印之地",
+        "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+        "seq": 847
+      },
+      {
+        "value": "上古遗迹/禁地",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "凶地",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "凶地秘谷",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "危险度": [
+      {
+        "value": "天南第一凶地",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "高（得其秘密恐成众矢之的）",
+        "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "天南第一险地",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "极高(天南第一凶地)",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "极高（紫纹蝎、隐形空间裂缝、熔岩火海）",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "内谷极高，外谷渐弱",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "内谷极危（空间裂缝）",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "高(血红闪电禁制、上古妖兽)",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ],
+    "守护": [
+      {
+        "value": "火蟾/北极元光/上古禁制",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "上古禁制、空间裂缝",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "上古禁制",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "空间裂缝",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "层层上古禁制",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "血色禁制",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "禁制光霞",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "三首乌蛇",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "北极元光",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "灵缈园",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "上古修士封印",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      },
+      {
+        "value": "上古妖魔、空间裂缝、禁制",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "特产": [
+      {
+        "value": "灵烛果",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "上古火蟾兽妖丹",
+        "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+        "seq": 787
+      },
+      {
+        "value": "罡银沙",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "古修遗宝",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "火蟾兽妖丹、上古遗骸宝物",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "金阳芝",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "幻灵草等灭绝灵草",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "上古遗宝",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "延寿灵丹",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "功法",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "幻灵草",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ]
+  },
+  "firstSeq": 673,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+      "dated": false,
+      "seq": 673
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+      "dated": false,
+      "seq": 673
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1167-1172-return-luoyunzong",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+  ],
+  "updatedAt": "2026-06-16T09:55:48.391Z"
+}

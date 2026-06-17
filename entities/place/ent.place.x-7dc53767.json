@@ -1,0 +1,75 @@
+{
+  "id": "ent.place.x-7dc53767",
+  "type": "place",
+  "name": "银蛇山",
+  "aliases": [
+    "银蛟山"
+  ],
+  "summary": "南疆常年火山喷发的著名火脉之地，修士多来此炼制法宝法器，韩立拟来此炼三焰扇灵料并赴九幽宗之约。",
+  "attributes": {
+    "所属界面": "南疆",
+    "类型": "火山炼器之地",
+    "特产": "火脉"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "类型": [
+      {
+        "value": "火脉之地",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "火山炼器之地",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "特产": [
+      {
+        "value": "地火/火山",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "火脉",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ]
+  },
+  "firstSeq": 967,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-ch973-minghe-zhiye"
+  ],
+  "updatedAt": "2026-06-16T03:09:29.426Z"
+}

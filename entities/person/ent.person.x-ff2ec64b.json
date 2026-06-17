@@ -1,0 +1,63 @@
+{
+  "id": "ent.person.x-ff2ec64b",
+  "type": "person",
+  "name": "红莲散人",
+  "aliases": [],
+  "summary": "在场散修之一，对散修失踪一事一脸茫然。",
+  "attributes": {
+    "身份": "散修",
+    "性别": "女",
+    "阵营": "散修"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:58:07.178Z"
+}

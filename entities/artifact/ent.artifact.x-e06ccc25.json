@@ -1,0 +1,67 @@
+{
+  "id": "ent.artifact.x-e06ccc25",
+  "type": "artifact",
+  "name": "翡翠壶",
+  "aliases": [],
+  "summary": "较罕见的辅助性法器，可喷绿濛濛毒雾困敌；因五行护罩可挡而被视为鸡肋，主要用于暂时遮蔽敌人视物。",
+  "attributes": {
+    "品阶": "上品",
+    "能力": "喷绿色毒雾、暂困敌人视物",
+    "外形": "翡翠壶"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上品",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "能力": [
+      {
+        "value": "喷绿色毒雾",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "暂困敌人视物",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外形": [
+      {
+        "value": "翡翠壶",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.484Z"
+}

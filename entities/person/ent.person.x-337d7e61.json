@@ -1,0 +1,126 @@
+{
+  "id": "ent.person.x-337d7e61",
+  "type": "person",
+  "name": "顾东主",
+  "aliases": [
+    "顾先生",
+    "顾家东主",
+    "顾某",
+    "顾家庄主"
+  ],
+  "summary": "魁星岛海船船主、商人，原做附属岛屿短途生意，为争大岛行商资格急聘韩立出手斗法。",
+  "attributes": {
+    "性别": "男",
+    "种族": "凡人",
+    "身份": "魁星岛商人/船主、顾家东主、凡人商家家主、顾家庄主",
+    "出身地": "魁星岛附属岛屿",
+    "阵营": "顾家",
+    "外貌": "头发花白、龙钟之像"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "身份": [
+      {
+        "value": "魁星岛商人/船主",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "顾家东主",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "凡人商家家主",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "顾家庄主",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "出身地": [
+      {
+        "value": "魁星岛附属岛屿",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "阵营": [
+      {
+        "value": "顾家",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "外貌": [
+      {
+        "value": "头发花白、龙钟之像",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.673Z"
+}

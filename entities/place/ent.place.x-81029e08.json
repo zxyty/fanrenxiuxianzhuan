@@ -1,0 +1,54 @@
+{
+  "id": "ent.place.x-81029e08",
+  "type": "place",
+  "name": "万藤道",
+  "aliases": [],
+  "summary": "地渊二层通往三层的入口之一，许多古藤连接二三层，仅有妖虫、相对安全，约半月可达。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "通道"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ],
+    "类型": [
+      {
+        "value": "层间通道入口",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "通道",
+        "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      }
+    ]
+  },
+  "firstSeq": 1435,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "dated": false,
+      "seq": 1435
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "dated": false,
+      "seq": 1447
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+  ],
+  "updatedAt": "2026-06-16T16:49:29.713Z"
+}

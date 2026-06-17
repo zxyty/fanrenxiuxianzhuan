@@ -1,0 +1,42 @@
+{
+  "id": "ent.faction.x-5795041f",
+  "type": "faction",
+  "name": "须弥宗",
+  "aliases": [
+    "须弥宗一门"
+  ],
+  "summary": "南疆大宗之一，镇宗之宝为须弥五行壁，与毒圣门有渊源。",
+  "attributes": {
+    "镇派之宝": "晶墙"
+  },
+  "observations": {
+    "镇派之宝": [
+      {
+        "value": "须弥五行壁",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "晶墙",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.399Z"
+}

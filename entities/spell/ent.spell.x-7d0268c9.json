@@ -1,0 +1,59 @@
+{
+  "id": "ent.spell.x-7d0268c9",
+  "type": "spell",
+  "name": "青元剑芒",
+  "aliases": [
+    "青色剑芒",
+    "青元剑芒剑光"
+  ],
+  "summary": "青元剑诀的剑芒神通，韩立已修至第四层，可脱手击敌，本章用以激活金色书页。",
+  "attributes": {
+    "类型": "剑芒攻击",
+    "出处": "金页"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "剑芒攻击",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "出处": [
+      {
+        "value": "青元剑诀",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "金页",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 235,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-421-426-qixialian-yaoguanshe"
+  ],
+  "updatedAt": "2026-06-15T00:56:43.600Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-c55f6ca7",
+  "type": "place",
+  "name": "翡翠草原",
+  "aliases": [],
+  "summary": "青狼兽的栖息地。",
+  "attributes": {
+    "所属界面": "灵界",
+    "特产": "青狼兽"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "特产": [
+      {
+        "value": "青狼兽",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ]
+  },
+  "firstSeq": 1273,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1273-1278-anyuan-beast-tide"
+  ],
+  "updatedAt": "2026-06-16T10:20:06.361Z"
+}

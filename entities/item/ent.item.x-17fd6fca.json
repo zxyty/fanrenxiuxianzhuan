@@ -1,0 +1,75 @@
+{
+  "id": "ent.item.x-17fd6fca",
+  "type": "item",
+  "name": "混沌万灵榜",
+  "aliases": [
+    "万灵榜",
+    "百丈金银符文玉璧",
+    "混沌万灵宝"
+  ],
+  "summary": "灵界灵宝威能榜单，唯威能前百的真正通天灵宝方能占有一席；八灵尺、七焰扇等未能上榜。",
+  "attributes": {
+    "类型": "灵宝榜单/名录、灵宝排名榜单、灵宝榜单、宝物榜单、灵宝排行榜单",
+    "用途": "记录通灵的玄天之物与通天灵宝"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵宝榜单/名录",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "灵宝排名榜单",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "灵宝榜单",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "宝物榜单",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "灵宝排行榜单",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "用途": [
+      {
+        "value": "记录通灵的玄天之物与通天灵宝",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1159,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1353-ling-chong-da-cheng"
+  ],
+  "updatedAt": "2026-06-16T14:02:15.404Z"
+}

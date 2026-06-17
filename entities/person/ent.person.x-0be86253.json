@@ -1,0 +1,154 @@
+{
+  "id": "ent.person.x-0be86253",
+  "type": "person",
+  "name": "花天奇",
+  "aliases": [
+    "毒圣门大长老花天奇",
+    "花天奇(被附身)",
+    "花姓修士",
+    "花道友",
+    "花兄",
+    "毒圣门大长老"
+  ],
+  "summary": "毒圣门大长老，被珑梦附身夺舍，成为珑梦现世的躯壳。",
+  "attributes": {
+    "身份": "毒圣门长老",
+    "存殁": "被夺舍",
+    "小阶段": "元婴期",
+    "外貌": "蓝袍红巾、脸现碧纹",
+    "阵营": "毒圣门",
+    "标志特征": "脸上碧纹",
+    "性格": "阴沉多谋"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "毒圣门大长老",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 991
+      },
+      {
+        "value": "毒圣门长老",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "存殁": [
+      {
+        "value": "被夺舍",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033,
+        "note": "珑梦附身占据其躯体"
+      },
+      {
+        "value": "重伤/受制",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015,
+        "note": "七窍流血、神色木然如死人"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "外貌": [
+      {
+        "value": "脸带碧纹",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "蓝袍红巾、脸现碧纹",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+        "seq": 997
+      },
+      {
+        "value": "毒圣门",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "脸上碧纹",
+        "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+        "seq": 997
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉多谋",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033,
+      "note": "珑梦附身占据其躯体"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+      "dated": false,
+      "seq": 997
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.396Z"
+}

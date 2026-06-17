@@ -1,0 +1,50 @@
+{
+  "id": "ent.spell.x-99cc10f2",
+  "type": "spell",
+  "name": "风刃术",
+  "aliases": [
+    "风刃"
+  ],
+  "summary": "陆师兄借青蛟旗瞬发的风系攻击法术，速度极快、经旗增幅后单枚威力可比中阶法术，并可追踪。",
+  "attributes": {
+    "类型": "风系攻击",
+    "威力": "速度极快，经青蛟旗增幅单枚可比中阶法术，可追踪"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "风系攻击",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "威力": [
+      {
+        "value": "速度极快，经青蛟旗增幅单枚可比中阶法术，可追踪",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ]
+  },
+  "firstSeq": 163,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch163-168-fubao-yeyu-henda"
+  ],
+  "updatedAt": "2026-06-14T04:44:35.348Z"
+}

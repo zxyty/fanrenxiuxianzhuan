@@ -1,0 +1,137 @@
+{
+  "id": "ent.material.x-d4a7db3a",
+  "type": "material",
+  "name": "太阳精火",
+  "aliases": [
+    "精火",
+    "太阳真火",
+    "太阳镜火",
+    "银翅小马",
+    "白色带翅小马",
+    "火灵",
+    "银翅太阳精火",
+    "太阳火灵"
+  ],
+  "summary": "韩立欲探听线索的至阳之火。",
+  "attributes": {
+    "类型": "火灵/仙灵之焰",
+    "用途": "配制回阳水",
+    "产地": "火狱",
+    "稀有度": "极稀"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "至阳灵火",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "精火",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "至阳真灵之火",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "极火/异火",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "火灵/仙灵之焰",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "用途": [
+      {
+        "value": "淬炼寒髓炼制回阳真水",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "极火灵物",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "炼制回阳水",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "配制回阳水",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "产地": [
+      {
+        "value": "万丈熔岩之下",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "火狱",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "极稀",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+  ],
+  "updatedAt": "2026-06-16T11:47:43.535Z"
+}

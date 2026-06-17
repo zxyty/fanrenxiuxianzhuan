@@ -1,0 +1,70 @@
+{
+  "id": "ent.event.x-533bf10d",
+  "type": "event",
+  "name": "魔道大败三国联军",
+  "aliases": [
+    "魔道大败三国联军之战",
+    "三国联军惨败"
+  ],
+  "summary": "越国等三国联军被魔道击败，消息传到元武国引发人心浮动与坊市珍品涌现。",
+  "attributes": {
+    "参与方": "魔道、三国联军(含越国)",
+    "结果": "三国联军惨败",
+    "影响": "元武国人心浮动、坊市珍品现世"
+  },
+  "observations": {
+    "参与方": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "三国联军(含越国)",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "结果": [
+      {
+        "value": "三国联军惨败",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "影响": [
+      {
+        "value": "元武国人心浮动、坊市珍品现世",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.787Z"
+}

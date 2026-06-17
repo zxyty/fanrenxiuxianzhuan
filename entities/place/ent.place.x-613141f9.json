@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-613141f9",
+  "type": "place",
+  "name": "绿波洞",
+  "aliases": [],
+  "summary": "李化元的洞府，位于太岳山脉东部巨大瀑布水幕之后，方圆数百亩，内有天然小谷与论剑堂。",
+  "attributes": {
+    "类型": "洞府",
+    "所属势力": "黄枫谷"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "洞府",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "李化元一脉",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "掩月宗",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 235,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-272-jingu-yuan-war-one-year"
+  ],
+  "updatedAt": "2026-06-14T08:43:23.877Z"
+}

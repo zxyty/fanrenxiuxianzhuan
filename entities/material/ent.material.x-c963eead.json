@@ -1,0 +1,70 @@
+{
+  "id": "ent.material.x-c963eead",
+  "type": "material",
+  "name": "铁木",
+  "aliases": [
+    "数百年铁木"
+  ],
+  "summary": "炼制二级傀儡的主要原料，需有年份，价格不菲。",
+  "attributes": {
+    "类型": "灵木",
+    "用途": "二级傀儡主料",
+    "稀有度": "需数百年份,不菲"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵木",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制二级机关傀儡主料",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "二级傀儡主料",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "需数百年份,不菲",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.667Z"
+}

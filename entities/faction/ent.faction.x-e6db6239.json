@@ -1,0 +1,76 @@
+{
+  "id": "ent.faction.x-e6db6239",
+  "type": "faction",
+  "name": "岳阳宫",
+  "aliases": [
+    "岳阳宫一门"
+  ],
+  "summary": "大晋一宗门，昔有年轻女修饲养昊阳鸟，或可寻昊阳鸟长翎。",
+  "attributes": {
+    "据点": "天岳山脉南天峰",
+    "阵营": "正道",
+    "镇派之宝": "昊阳鸟"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "天岳山脉南天峰",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "两只昊阳鸟（传承灵禽）",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "昊阳鸟",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 853,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.202Z"
+}

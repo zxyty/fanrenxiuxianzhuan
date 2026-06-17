@@ -1,0 +1,116 @@
+{
+  "id": "ent.faction.x-417ec30d",
+  "type": "faction",
+  "name": "合欢宗",
+  "aliases": [
+    "合欢宗一门",
+    "魔门合欢宗",
+    "合欢"
+  ],
+  "summary": "魔道六宗之一，宗主第二子田不缺率众突袭抢走鬼灵门擒获的女修士。",
+  "attributes": {
+    "阵营": "魔门",
+    "镇派之宝": "阴阳魔尸（黑白双棺）",
+    "理念": "采补之道",
+    "据点": "灵凤岛"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "天南魔道",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "魔门",
+        "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+        "seq": 673
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "玄月吸阴功(秘术)",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "阴阳魔尸（黑白双棺）",
+        "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "理念": [
+      {
+        "value": "采补之道",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ],
+    "据点": [
+      {
+        "value": "灵凤岛",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
+      "dated": false,
+      "seq": 673
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-border-war-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:29.991Z"
+}

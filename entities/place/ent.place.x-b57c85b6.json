@@ -1,0 +1,53 @@
+{
+  "id": "ent.place.x-b57c85b6",
+  "type": "place",
+  "name": "麒麟阁",
+  "aliases": [],
+  "summary": "黄枫谷专门放养、驯化灵兽之地，所在山为灵兽山/奇兽山。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "灵兽驯养之所、灵兽阁"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵兽驯养之所",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "灵兽阁",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan"
+  ],
+  "updatedAt": "2026-06-14T06:31:19.000Z"
+}

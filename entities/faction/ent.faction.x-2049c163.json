@@ -1,0 +1,36 @@
+{
+  "id": "ent.faction.x-2049c163",
+  "type": "faction",
+  "name": "净火宗",
+  "aliases": [
+    "佛门净火宗"
+  ],
+  "summary": "佛门宗派，碧月禅师所属。",
+  "attributes": {
+    "阵营": "佛门"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "佛门",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 949,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:46.989Z"
+}

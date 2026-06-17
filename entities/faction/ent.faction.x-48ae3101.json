@@ -1,0 +1,34 @@
+{
+  "id": "ent.faction.x-48ae3101",
+  "type": "faction",
+  "name": "云梦宗",
+  "aliases": [],
+  "summary": "三派之一，红衫老者等结丹修士在试剑大会后忧心忡忡。",
+  "attributes": {
+    "阵营": "天道盟"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 631,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.648Z"
+}

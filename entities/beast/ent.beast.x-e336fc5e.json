@@ -1,0 +1,48 @@
+{
+  "id": "ent.beast.x-e336fc5e",
+  "type": "beast",
+  "name": "追风兔",
+  "aliases": [],
+  "summary": "栖息于环形山的一级下阶妖兽。",
+  "attributes": {
+    "等级": "一级下阶",
+    "栖息地": "环形山脉"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "一级下阶",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "环形山脉",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.479Z"
+}

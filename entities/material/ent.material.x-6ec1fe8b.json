@@ -1,0 +1,101 @@
+{
+  "id": "ent.material.x-6ec1fe8b",
+  "type": "material",
+  "name": "伴妖草",
+  "aliases": [
+    "八级伴妖草"
+  ],
+  "summary": "妖兽巢穴附近受妖气熏陶而生的灵草，须为八级妖兽身畔者其汁液（千叶露）方有效。",
+  "attributes": {
+    "类型": "炼丹辅料",
+    "产地": "高阶妖兽巢穴附近",
+    "稀有度": "天南无处可寻",
+    "用途": "炼九曲灵参丹"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "炼丹辅料",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "产地": [
+      {
+        "value": "妖兽巢穴附近",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      },
+      {
+        "value": "高阶妖兽巢穴附近",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "天南无处可寻",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼丹材料",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "炼九曲灵参丹",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 511,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.687Z"
+}

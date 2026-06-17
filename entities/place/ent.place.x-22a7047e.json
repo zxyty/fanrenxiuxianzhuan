@@ -1,0 +1,87 @@
+{
+  "id": "ent.place.x-22a7047e",
+  "type": "place",
+  "name": "馨王府",
+  "aliases": [
+    "王府"
+  ],
+  "summary": "馨王在越京南区的府邸,规模宏大、黄铜包门、皇城禁卫把守。",
+  "attributes": {
+    "所属界面": "越国(世俗界)",
+    "类型": "王府邸宅、王府",
+    "守护": "十六名皇城禁卫",
+    "所属势力": "黑煞教"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国(世俗界)",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "类型": [
+      {
+        "value": "王府邸宅",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "王府",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "守护": [
+      {
+        "value": "十六名皇城禁卫",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.599Z"
+}

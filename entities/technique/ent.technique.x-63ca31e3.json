@@ -1,0 +1,48 @@
+{
+  "id": "ent.technique.x-63ca31e3",
+  "type": "technique",
+  "name": "叱目神光",
+  "aliases": [],
+  "summary": "失传数百年的神通，可克制天下所有阴魂鬼怪，需玄阴之眼方可修炼。",
+  "attributes": {
+    "效果": "克制阴魂鬼怪",
+    "修炼条件": "玄阴之眼"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "克制阴魂鬼怪",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "玄阴之眼",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later"
+  ],
+  "updatedAt": "2026-06-14T04:21:00.155Z"
+}

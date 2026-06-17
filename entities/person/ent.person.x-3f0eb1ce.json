@@ -1,0 +1,145 @@
+{
+  "id": "ent.person.x-3f0eb1ce",
+  "type": "person",
+  "name": "白衣少女",
+  "aliases": [
+    "掩月宗少女",
+    "精灵一样的少女",
+    "掩月宗师祖",
+    "精灵少女",
+    "年幼少女",
+    "师祖"
+  ],
+  "summary": "约十五六岁、相貌清纯却老气横生的掩月宗门下，暗中观察并精准点评韩立后用木遁术离去，对其产生兴趣。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "十五六岁清纯少女、精灵一样的少女、面似童真清纯、笼罩银辉、看似年幼少女",
+    "阵营": "掩月宗",
+    "标志特征": "看人精准毒辣、老气横生、身上法力仅炼气期顶峰",
+    "身份": "掩月宗师祖",
+    "小阶段": "结丹期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "外貌": [
+      {
+        "value": "十五六岁清纯少女",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "精灵一样的少女",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "面似童真清纯、笼罩银辉",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "看似年幼少女",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199,
+        "note": "实为结丹期高手"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "掩月宗",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "看人精准毒辣",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "老气横生",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "身上法力仅炼气期顶峰",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199,
+        "note": "疑点未解"
+      }
+    ],
+    "身份": [
+      {
+        "value": "掩月宗弟子首领",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "掩月宗师祖",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou"
+  ],
+  "updatedAt": "2026-06-14T06:06:29.058Z"
+}

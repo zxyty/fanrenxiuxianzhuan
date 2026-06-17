@@ -1,0 +1,53 @@
+{
+  "id": "ent.place.x-d27a083e",
+  "type": "place",
+  "name": "天瑞岛",
+  "aliases": [],
+  "summary": "万法门三大灵岛之一，灵脉品质高、产珍稀灵花灵草，被许诺让予金莲门。",
+  "attributes": {
+    "所属势力": "万法门",
+    "特产": "高品灵脉、珍稀灵花灵草"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "万法门",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "特产": [
+      {
+        "value": "高品灵脉",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "珍稀灵花灵草",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ]
+  },
+  "firstSeq": 1201,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+  ],
+  "updatedAt": "2026-06-16T07:30:46.472Z"
+}

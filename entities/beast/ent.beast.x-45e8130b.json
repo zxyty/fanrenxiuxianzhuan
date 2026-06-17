@@ -1,0 +1,118 @@
+{
+  "id": "ent.beast.x-45e8130b",
+  "type": "beast",
+  "name": "云翅鸟",
+  "aliases": [
+    "小黄鸟",
+    "黄羽小鸟",
+    "黄色小鸟"
+  ],
+  "summary": "墨大夫所养黄羽灵鸟，号称比强弓利箭还快、极有灵性，受命昼夜监视韩立、一旦其离开山脉即飞回报信。",
+  "attributes": {
+    "主人": "韩立",
+    "能力": "远距离跟踪监视",
+    "外形": "黄色小鸟",
+    "种族": "灵禽",
+    "栖息地": "太岳山脉（放养后）"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "墨大夫",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "能力": [
+      {
+        "value": "飞速极快(号称胜强弓利箭)、灵性极高",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "通灵、跟踪传讯",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "远距离跟踪监视",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "外形": [
+      {
+        "value": "黄羽小鸟",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "黄色小鸟",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "种族": [
+      {
+        "value": "灵禽",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "太岳山脉（放养后）",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 37,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+      "dated": false,
+      "seq": 61
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects"
+  ],
+  "updatedAt": "2026-06-14T05:15:30.207Z"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ent.place.x-a64336ab",
+  "type": "place",
+  "name": "血祭祭坛",
+  "aliases": [
+    "血祭坛",
+    "血湖祭坛"
+  ],
+  "summary": "远方腥气冲天、血雾笼罩的巨大祭坛，下有同形血色法阵与漂满各族白骨的血红巨湖，十几名人影于此施血祭召夺玄天之宝。",
+  "attributes": {
+    "类型": "血祭法阵祭坛",
+    "守护": "十几名施法人影",
+    "特产": "血红巨湖、各族白骨残骸"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "血祭法阵祭坛",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "守护": [
+      {
+        "value": "十几名施法人影",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "特产": [
+      {
+        "value": "血红巨湖、各族白骨残骸",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525,
+        "note": "祭坛之下"
+      }
+    ]
+  },
+  "firstSeq": 1525,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525,
+      "note": "祭坛之下"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.265Z"
+}

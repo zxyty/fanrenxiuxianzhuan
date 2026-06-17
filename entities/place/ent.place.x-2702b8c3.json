@@ -1,0 +1,55 @@
+{
+  "id": "ent.place.x-2702b8c3",
+  "type": "place",
+  "name": "万雷坊",
+  "aliases": [],
+  "summary": "交易大殿第九层的中型店铺，掌柜鱼兄出售青罗果。",
+  "attributes": {
+    "所属势力": "天鹏族",
+    "类型": "商铺"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "类型": [
+      {
+        "value": "店铺",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "商铺",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ]
+  },
+  "firstSeq": 1411,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "dated": false,
+      "seq": 1417
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+  ],
+  "updatedAt": "2026-06-16T16:12:01.571Z"
+}

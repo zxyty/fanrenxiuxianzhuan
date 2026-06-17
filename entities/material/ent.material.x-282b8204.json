@@ -1,0 +1,104 @@
+{
+  "id": "ent.material.x-282b8204",
+  "type": "material",
+  "name": "阴冥兽晶",
+  "aliases": [
+    "兽晶",
+    "绿色晶石",
+    "阴冥之力兽晶",
+    "阴兽晶",
+    "阴冥兽晶石"
+  ],
+  "summary": "阴兽头颅内偶生的绿色晶石，是借阴冥之力施法的消耗品，稀少难得，由村中长老分管；韩立疑其与虚天殿傀儡残骸中的绿色晶石相同。",
+  "attributes": {
+    "类型": "兽晶",
+    "用途": "供修士施法依仗",
+    "稀有度": "高",
+    "产地": "阴冥之地"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "能量晶石",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "兽晶",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "用途": [
+      {
+        "value": "配合法阵施展阴冥之力",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "供修士施法依仗",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀少（全年仅十来块）",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ],
+    "产地": [
+      {
+        "value": "阴兽头颅",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "阴冥之地",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ]
+  },
+  "firstSeq": 577,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-589-594-jiangling-fu-baofengshan"
+  ],
+  "updatedAt": "2026-06-14T19:30:06.963Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-43b846a7",
+  "type": "artifact",
+  "name": "丝线法器",
+  "aliases": [
+    "无形丝线"
+  ],
+  "summary": "韩立所用无形丝线法器，可将妖兽整齐切割成两半。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "无形丝线切割"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "能力": [
+      {
+        "value": "无形丝线切割",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.501Z"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ent.person.x-7fe6af3a",
+  "type": "person",
+  "name": "金胖子",
+  "aliases": [
+    "金性胖子",
+    "金某胖子"
+  ],
+  "summary": "天渊城飞升修士，新得一件上古宝物；点破韩立飞升身份并挑拨翁姓汉子，祖父为鸣前辈。",
+  "attributes": {
+    "性别": "男",
+    "身份": "金老魔之小徒",
+    "外貌": "身材臃肿",
+    "性格": "笑嘻嘻、人畜无害状、城府深",
+    "小阶段": "化神期、化神后期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "身份": [
+      {
+        "value": "飞升修士",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "金老魔之小徒",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      }
+    ],
+    "外貌": [
+      {
+        "value": "肥胖",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "小眼胖子",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "身材臃肿",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      }
+    ],
+    "性格": [
+      {
+        "value": "笑嘻嘻、人畜无害状、城府深",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "化神后期",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      }
+    ]
+  },
+  "firstSeq": 1315,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "dated": false,
+      "seq": 1333
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1341-leipao-xianshi",
+      "dated": false,
+      "seq": 1339
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1341-leipao-xianshi",
+      "dated": false,
+      "seq": 1339
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1341-leipao-xianshi"
+  ],
+  "updatedAt": "2026-06-16T13:09:39.514Z"
+}

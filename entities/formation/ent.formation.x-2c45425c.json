@@ -1,0 +1,51 @@
+{
+  "id": "ent.formation.x-2c45425c",
+  "type": "formation",
+  "name": "小极宫镇宫大阵",
+  "aliases": [
+    "禁制大阵",
+    "镇宫大阵"
+  ],
+  "summary": "小极宫笼罩冰城的防御大阵，由长老开启全部禁制。",
+  "attributes": {
+    "效果": "护宫防御",
+    "布置者": "小极宫"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "护宫防御",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "布置者": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 1087,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1088-bingpo-hanlie-zhen"
+  ],
+  "updatedAt": "2026-06-15T09:30:06.970Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "ent.person.x-9f9941ad",
+  "type": "person",
+  "name": "秦平",
+  "aliases": [
+    "秦府长随",
+    "秦宅下人"
+  ],
+  "summary": "秦府下人，由先前冷淡转为巴结，奉命充当韩立贴身长随。",
+  "attributes": {
+    "性别": "男",
+    "身份": "秦府仆人",
+    "性格": "看风使舵、巴结",
+    "种族": "凡人"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "身份": [
+      {
+        "value": "秦府下人/韩立长随",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "秦宅下人/韩立长随",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "秦府仆人",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "性格": [
+      {
+        "value": "看风使舵、巴结",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 277,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.927Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ent.spell.x-bc1470fc",
+  "type": "spell",
+  "name": "血箭阴魂咒",
+  "aliases": [
+    "血咒",
+    "阴魂咒",
+    "言咒"
+  ],
+  "summary": "余子童化全身精血为血咒喷于敌人头上的诅咒之术，使中咒者以日老一年的速度急速衰老。",
+  "attributes": {
+    "类型": "控制类咒术",
+    "消耗": "全身精血",
+    "出处": "黑煞教"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "诅咒/血咒",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      },
+      {
+        "value": "控制类咒术",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "消耗": [
+      {
+        "value": "全身精血",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      }
+    ],
+    "出处": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 55,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+      "dated": false,
+      "seq": 55
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch55-60-third-person-duoshe-failed",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.951Z"
+}

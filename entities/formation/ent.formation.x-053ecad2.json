@@ -1,0 +1,103 @@
+{
+  "id": "ent.formation.x-053ecad2",
+  "type": "formation",
+  "name": "传送阵",
+  "aliases": [
+    "破损传送阵"
+  ],
+  "summary": "岳麓殿入口与内部大厅相连的传送法阵，正常使用收一块低阶灵石。",
+  "attributes": {
+    "效果": "传送回内海",
+    "出处": "岳麓殿",
+    "破解法": "需阵法师修复",
+    "布置者": "妙音门"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "瞬间传送",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "传送",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "远距传送",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      },
+      {
+        "value": "送修士回内星海",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "传送回内海",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "出处": [
+      {
+        "value": "岳麓殿",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "破解法": [
+      {
+        "value": "需阵法师修复",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "布置者": [
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 151,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-1113-yaoqi-chongtian"
+  ],
+  "updatedAt": "2026-06-16T06:28:51.170Z"
+}

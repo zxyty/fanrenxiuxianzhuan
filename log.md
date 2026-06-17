@@ -1,0 +1,400 @@
+# knowledge 活动日志 (activity log)
+
+Append-only; newest at the bottom. One line per pipeline action. Rotated to `log-<timestamp>.md` once it grows past ~1 MiB.
+
+- **2026-06-13T13:10:10.416Z** `ingest` plot.fanren-xiuxian-chapters-1-12 — 凡人修仙传 第1-12章：韩立入七玄门与神秘小瓶 · kind=plot asOf=2026-06-13 entities=27 relations=25 src=1-12-2026-06-13.md
+- **2026-06-13T13:17:49.748Z** `ingest` plot.fanren-xiuxian-zhuan-ch01-12-shanbian-village-to-mysterious-bottle — 凡人修仙传 第1-12章：从山边小村到神秘小瓶 · kind=plot asOf=2026-06-13 entities=25 relations=22 src=00001-00012.md
+- **2026-06-13T13:20:07.326Z** `ingest` plot.fanren-xiuxian-ch13-24 — 凡人修仙传 第13-24章：神秘小瓶异象、四年苦修与结识厉飞雨 · kind=plot asOf=2026-06-13 entities=20 relations=16 src=00013-00024.md
+- **2026-06-13T13:22:49.275Z** `ingest` plot.fanren-xiuxianzhuan-ch25-36-mibing-cuiyao — 凡人修仙传 第25-36章｜神秘小瓶催药、墨大夫摊牌与尸虫丸要挟 · kind=plot asOf=2026-06-13 entities=24 relations=22 src=00025-00036.md
+- **2026-06-13T13:25:07.804Z** `ingest` plot.fanren-ch37-48-hanli-vs-modaifu — 凡人修仙传 第37-48章｜眨眼剑谱与韩立大战墨大夫 · kind=plot asOf=2026-06-13 entities=24 relations=23 src=00037-00048.md
+- **2026-06-13T13:27:22.272Z** `ingest` plot.fanren-xiuxian-ch49-60-modafu-duoshe — 凡人修仙传 第49-60章：墨大夫夺舍韩立失败身亡，余子童真相揭晓 · kind=plot asOf=2026-06-13 entities=15 relations=18 src=00049-00060.md
+- **2026-06-13T13:30:09.201Z** `ingest` plot.fanren-xiuxian-chapter-61-72-shen-mie-to-ba-du — 凡人修仙传 第61-72章｜灭余子童元神、得曲魂、成韩神医、初学法术 · kind=plot asOf=2026-06-13 entities=28 relations=21 src=00061-00072.md
+- **2026-06-13T13:32:42.253Z** `ingest` plot.fanren-xiuxian-ch73-84-yelangbang-gongshan — 凡人修仙传 第73-84章：御风决初成与野狼帮夜袭七玄门 · kind=plot asOf=2026-06-13 entities=30 relations=25 src=00073-00084.md
+- **2026-06-13T13:35:06.839Z** `ingest` plot.fanren-ch85-96-sicixuedou — 凡人修仙传 第85-96章｜死契血斗：韩立初显修仙手段、灭杀金光上人与野狼帮 · kind=plot asOf=2026-06-13 entities=26 relations=25 src=00085-00096.md
+- **2026-06-13T13:37:35.098Z** `ingest` plot.fanren-xiuxian-ch097-108-leave-qixuanmen-enter-jiayuancheng — 凡人修仙传 第97-108章：辞别七玄门、归乡，初入嘉元城探墨府 · kind=plot asOf=2026-06-13 entities=28 relations=22 src=00097-00108.md
+- **2026-06-13T13:40:00.553Z** `ingest` plot.fanren-xiuxian-chapter-109-120-mofu-dengmen — 凡人修仙传 第109-120章｜登门墨府与定计夺帮 · kind=plot asOf=2026-06-13 entities=35 relations=21 src=00109-00120.md
+- **2026-06-13T13:42:31.297Z** `ingest` plot.fanren-xiuxian-zhuan-ch121-132 — 凡人修仙传 第121-132章｜潇湘院毒杀至太南谷太南小会 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00121-00132.md
+- **2026-06-13T13:45:05.239Z** `ingest` plot.fanren-xiuxian-133-145-shengxian-dahui — 凡人修仙传 第133-145章｜升仙大会、太南会见闻与黄枫谷筑基丹之争 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00133-00144.md
+- **2026-06-13T13:47:53.045Z** `ingest` plot.fanren-145-156-huangfenggu-rumen — 凡人修仙传 第146-156章｜韩立让丹入黄枫谷·岳麓殿寻方得地火线索 · kind=plot asOf=2026-06-13 entities=36 relations=36 src=00145-00156.md
+- **2026-06-13T13:53:12.008Z** `ingest` plot.fanren-170-181-blood-trial-departure — 凡人修仙传 第170-181章｜战利品、筑基丹困境与血色试炼破禁 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00169-00180.md
+- **2026-06-13T14:00:37.026Z** `ingest` plot.fanren-xiuxian-ch1-12-shanbian-xiaocun — 凡人修仙传 第1-12章：韩立入七玄门拜墨大夫、得神秘绿瓶 · kind=plot asOf=2026-06-13 entities=24 relations=25 src=00001-00012.md
+- **2026-06-13T14:02:43.543Z** `ingest` plot.fanren-xiuxian-zhuan-ch13-24 — 《凡人修仙传》第13-24章｜瓶子异象、四年苦修与厉飞雨结识 · kind=plot asOf=2026-06-13 entities=21 relations=18 src=00013-00024.md
+- **2026-06-13T14:38:46.181Z** `ingest` plot.fanren-ch1-6-han-li-ru-qixuanmen — 凡人修仙传 第1-6章：韩立入七玄门、拜师墨大夫 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00001-00006.md
+- **2026-06-13T14:41:43.007Z** `ingest` plot.fanren-ch07-12-mysterious-bottle — 凡人修仙传 第7-12章｜入门考核与神秘绿瓶 · kind=plot asOf=2026-06-13 entities=16 relations=12 src=00007-00012.md
+- **2026-06-13T14:44:20.781Z** `ingest` plot.fanren-xiuxian-ch01-06-qixuanmen-rumen — 凡人修仙传 第1-6章：韩立离乡入七玄门，拜墨大夫学无名口诀 · kind=plot asOf=2026-06-13 entities=24 relations=26 src=00001-00006.md
+- **2026-06-13T14:46:40.705Z** `ingest` plot.fanren-ch07-12-mysterious-bottle — 凡人修仙传 第7-12章｜拜师墨大夫·象甲功·神秘绿瓶 · kind=plot asOf=2026-06-13 entities=12 relations=11 src=00007-00012.md
+- **2026-06-13T14:48:57.733Z** `ingest` plot.fanren-xiuxian-ch13-18-yixiang-bimu — 凡人修仙传 第13-18章 异象起·神秘液·四年后·彩霞山比武 · kind=plot asOf=2026-06-13 entities=19 relations=27 src=00013-00018.md
+- **2026-06-13T14:51:51.523Z** `ingest` plot.fanren-ch19-24-li-feiyu-chousui-wan — 凡人修仙传 第19-24章：救厉飞雨、抽髓丸与绿液试兔 · kind=plot asOf=2026-06-13 entities=14 relations=12 src=00019-00024.md
+- **2026-06-13T14:54:26.694Z** `ingest` plot.fanren-xiuxian-ch25-30-cuiyao-modafu-tanpai — 凡人修仙传 第25-30章｜小瓶催药与墨大夫摊牌 · kind=plot asOf=2026-06-13 entities=16 relations=15 src=00025-00030.md
+- **2026-06-13T14:57:08.652Z** `ingest` plot.fanren-ch31-36-shichongwan — 凡人修仙传 第31-36章：尸虫丸要挟与眨眼剑谱 · kind=plot asOf=2026-06-13 entities=20 relations=13 src=00031-00036.md
+- **2026-06-13T14:59:34.155Z** `ingest` plot.fanren-ch37-42-blink-sword-and-spy — 凡人修仙传 第37-42章｜眨眼剑谱·夜遇奸细·留言闭关 · kind=plot asOf=2026-06-13 entities=22 relations=23 src=00037-00042.md
+- **2026-06-13T15:01:43.170Z** `ingest` plot.fanren-43-48-han-li-vs-mo-dafu-juedou — 凡人修仙传 第43-48章｜韩立与墨大夫的木屋决战 · kind=plot asOf=2026-06-13 entities=19 relations=15 src=00043-00048.md
+- **2026-06-13T15:03:49.897Z** `ingest` plot.fanren-ch49-54-tao-zhong-tao-ding-shen-fu — 凡人修仙传 第49-54章：墨大夫七鬼噬魂返老还童，定神符制住韩立欲夺舍 · kind=plot asOf=2026-06-13 entities=11 relations=9 src=00049-00054.md
+- **2026-06-13T15:05:58.533Z** `ingest` plot.fanren-c55-60-mo-dafu-duoshe — 凡人修仙传 第55-60章：墨大夫夺舍之谋与余子童的真相 · kind=plot asOf=2026-06-13 entities=13 relations=15 src=00055-00060.md
+- **2026-06-13T15:11:19.457Z** `ingest` plot.fanren-ch1-6-hanli-rumen-qixuanmen — 第1-6章｜韩立离乡入七玄门，拜墨大夫为记名弟子 · kind=plot asOf=2026-06-13 entities=26 relations=30 src=00001-00006.md
+- **2026-06-13T15:13:11.790Z** `ingest` plot.fanren-ch07-12-han-li-becomes-disciple-and-finds-mysterious-bottle — 凡人修仙传 第7-12章｜韩立拜入墨大夫门下与拾得神秘小瓶 · kind=plot asOf=2026-06-13 entities=12 relations=11 src=00007-00012.md
+- **2026-06-13T15:15:49.553Z** `ingest` plot.fanren-xiuxian-ch13-18-mystery-bottle-and-li-shixiong — 凡人修仙传 第13-18章｜神秘小瓶异象、四年苦修与彩霞山少年比武 · kind=plot asOf=2026-06-13 entities=19 relations=20 src=00013-00018.md
+- **2026-06-13T15:18:28.223Z** `ingest` plot.fanren-ch19-24-lifeiyu-choususui-shiyaotu — 凡人修仙传 第19-24章：韩立救厉飞雨识破抽髓丸 · 心魔与试药兔 · kind=plot asOf=2026-06-13 entities=15 relations=13 src=00019-00024.md
+- **2026-06-13T15:24:55.229Z** `ingest` plot.fanren-ch01-06-shanbian-xiaocun-to-wuming-koujue — 凡人修仙传 第1-6章：韩立出山入七玄门，拜墨大夫习无名口诀 · kind=plot asOf=2026-06-13 entities=20 relations=22 src=00001-00006.md
+- **2026-06-13T15:26:59.189Z** `ingest` plot.fanren-ch07-12-rumen-dizi-shenmi-pingzi — 凡人修仙传 第7-12章｜修炼难·入门弟子·象甲功·神秘瓶子 · kind=plot asOf=2026-06-13 entities=17 relations=13 src=00007-00012.md
+- **2026-06-13T15:29:54.660Z** `ingest` plot.fanren-13-18-yixiang-shenmiye-bishi — 凡人修仙传 第13-18章｜瓶子异象、神秘液与彩霞山少年比试 · kind=plot asOf=2026-06-13 entities=21 relations=22 src=00013-00018.md
+- **2026-06-13T15:31:47.574Z** `ingest` plot.fanren-ch19-24-li-feiyu-and-green-liquid — 凡人修仙传 第19-24章｜江湖斗·抽髓丸·心魔与试药兔 · kind=plot asOf=2026-06-13 entities=13 relations=12 src=00019-00024.md
+- **2026-06-13T15:34:15.034Z** `ingest` plot.fanren-ch25-30-cuiyao-modaifu-tanpai — 凡人修仙传 第25-30章：小瓶催药、突破第四层与墨大夫摊牌 · kind=plot asOf=2026-06-13 entities=17 relations=17 src=00025-00030.md
+- **2026-06-13T15:36:25.060Z** `ingest` plot.fanren-ch31-36-shichongwan-zhayanjian — 凡人修仙传 第31-36章｜尸虫丸要挟与眨眼剑法 · kind=plot asOf=2026-06-13 entities=18 relations=15 src=00031-00036.md
+- **2026-06-13T15:39:18.124Z** `ingest` plot.fanren-ch37-42-zhayan-jianpu-yu-biguan — 凡人修仙传 第37-42章｜眨眼剑谱三不练·夜遇野狼帮奸细·墨大夫云翅鸟监视 · kind=plot asOf=2026-06-13 entities=23 relations=21 src=00037-00042.md
+- **2026-06-13T15:41:44.037Z** `ingest` plot.fanren-ch43-48-jue-yu-mo-da-fu — 凡人修仙传 第43-48章 与墨大夫的生死决斗 · kind=plot asOf=2026-06-13 entities=21 relations=19 src=00043-00048.md
+- **2026-06-13T15:43:45.559Z** `ingest` plot.fanren-ch49-54-mo-dafu-duoshe — 凡人修仙传 第49-54章｜韩立大战墨大夫·七鬼噬魂与定神符夺舍 · kind=plot asOf=2026-06-13 entities=14 relations=16 src=00049-00054.md
+- **2026-06-13T15:46:25.503Z** `ingest` plot.fanren-ch55-60-duoshe-mubigang-yuzitong — 凡人修仙传 第55-60章：墨大夫夺舍之谋与韩立反吞噬 · kind=plot asOf=2026-06-13 entities=17 relations=20 src=00055-00060.md
+- **2026-06-13T15:49:14.210Z** `ingest` plot.fanren-ch61-66-shenmie-quhun-hanshenyi — 凡人修仙传 第61-66章｜灭余子童元神·收曲魂·韩立成七玄门神医 · kind=plot asOf=2026-06-13 entities=18 relations=20 src=00061-00066.md
+- **2026-06-13T15:52:14.227Z** `ingest` plot.fanren-ch67-72-huodanshu-lichanglao-zhongdu-jiedu — 第67-72章｜韩立练成火弹术·天眼术，七玄门李长老中毒由韩立解救 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00067-00072.md
+- **2026-06-13T15:57:37.248Z** `ingest` plot.fanren-ch79-84-luorit-feng-trap — 凡人修仙传 第79-84章：拷问执法、贾天龙攻七玄门与落日峰大陷阱 · kind=plot asOf=2026-06-13 entities=33 relations=39 src=00079-00084.md
+- **2026-06-13T15:59:55.936Z** `ingest` plot.frxxz-ch85-90-sikan-xuedou — 凡人修仙传 第85-90章｜死契血斗与金光上人的飞剑 · kind=plot asOf=2026-06-13 entities=21 relations=33 src=00085-00090.md
+- **2026-06-13T16:02:44.153Z** `ingest` plot.fanren-xiuxian-ch91-96 — 凡人修仙传 第91-96章｜抢宝·剑符·烈火焚敌·魔名赫起 · kind=plot asOf=2026-06-13 entities=25 relations=28 src=00091-00096.md
+- **2026-06-13T16:05:20.316Z** `ingest` plot.fanren-ch097-102-leave-qixuanmen-to-jiayuancheng — 凡人修仙传 第97-102章：背后交易、辞别故里与嘉元城遇劫 · kind=plot asOf=2026-06-13 entities=26 relations=32 src=00097-00102.md
+- **2026-06-13T16:08:20.474Z** `ingest` plot.fanren-ch103-108-shoufu-mofu — 凡人修仙传 第103-108章｜收服孙二狗·夜探墨府 · kind=plot asOf=2026-06-13 entities=28 relations=30 src=00103-00108.md
+- **2026-06-13T16:10:51.455Z** `ingest` plot.fanren-109-114-dengmen-mofu — 凡人修仙传 第109-114章｜韩立登门墨府，初会墨大夫诸夫人 · kind=plot asOf=2026-06-13 entities=21 relations=21 src=00109-00114.md
+- **2026-06-13T16:13:42.577Z** `ingest` plot.fanren-xiuxian-ch115-120-mofu-tanpai — 凡人修仙传 第115-120章｜墨府摊牌、神仙大会消息与定计夺四平帮 · kind=plot asOf=2026-06-13 entities=28 relations=31 src=00115-00120.md
+- **2026-06-13T16:31:59.818Z** `ingest` plot.fanren-ch73-75-lifeiyu-yufengjue-fawu-bingyong — 凡人修仙传 第73-75章｜厉飞雨的抉择、御风决与法武并用 · kind=plot asOf=2026-06-13 entities=28 relations=24 src=00073-00078.md
+- **2026-06-13T16:47:31.950Z** `ingest` plot.fanren-ch121-126-poison-shen-chongshan-and-mufu-deal — 凡人修仙传 第121-126章｜潇湘院毒杀沈重山·墨府交易 · kind=plot asOf=2026-06-13 entities=47 relations=49 src=00121-00126.md
+- **2026-06-13T16:52:48.185Z** `ingest` lore.xiuxian-lingen-jingjie-system — 修仙界灵根与境界体系（越国设定） · kind=lore asOf=2026-06-13 entities=26 relations=27 src=00127-00132.md
+- **2026-06-13T16:54:24.839Z** `ingest` lore.shengxian-dahui-zhuji-dan — 升仙大会与筑基丹机制 · kind=lore asOf=2026-06-13 entities=16 relations=6 src=00133-00138.md
+- **2026-06-13T17:02:55.701Z** `ingest` plot.fanren-ch139-144-shengxianling-and-ambush — 凡人修仙传 第139-144章｜势在必得·升仙令·袭杀 · kind=plot asOf=2026-06-13 entities=51 relations=42 src=00139-00144.md
+- **2026-06-13T17:05:43.351Z** `ingest` plot.fanren-ch146-151-join-huangfenggu-baiyaoyuan — 凡人修仙传 第146-151章：韩立让出筑基丹、拜入黄枫谷、接管百药园 · kind=plot asOf=2026-06-13 entities=29 relations=28 src=00145-00150.md
+- **2026-06-13T17:08:27.548Z** `ingest` plot.fanren-ch152-156-yuelu-dian-dihuo — 凡人修仙传 第152-156章：两年潜修与岳麓殿求方得地火 · kind=plot asOf=2026-06-13 entities=42 relations=38 src=00151-00156.md
+- **2026-06-13T17:11:21.218Z** `ingest` plot.fanren-ch158-163-blood-trial-and-fangshi — 凡人修仙传 第158-163章｜蓝衣女子相助·韩立得知血禁试炼·赴坊市万宝楼换宝 · kind=plot asOf=2026-06-13 entities=31 relations=18 src=00157-00162.md
+- **2026-06-13T17:18:56.811Z** `ingest` plot.fanren-ch163-168-fubao-yeyu-lushixiong — 万宝楼成交·符宝之秘与太岳山脉夜遇陆师兄（第163-168章） · kind=plot asOf=2026-06-13 entities=30 relations=26 src=00163-00168.md
+- **2026-06-13T17:27:35.483Z** `ingest` plot.fanren-ch169-174-zhanlipin-fanhui-xuanze — 凡人修仙传 第169-174章：战利品·返回·选择 · kind=plot asOf=2026-06-13 entities=47 relations=41 src=00169-00174.md
+- **2026-06-13T17:29:46.054Z** `ingest` plot.fanren-176-181-blood-forbidden-area-bet-wulongtan — 凡人修仙传 第176-181章｜结丹期赌约·破禁入血色禁地·乌龙潭 · kind=plot asOf=2026-06-13 entities=0 relations=0 src=00175-00180.md
+- **2026-06-13T17:37:32.899Z** `ingest` plot.fanren-181-186-yixiantian-fuji — 凡人修仙传 第181-186章｜掩月宗少女、丝线法器与一线天伏击 · kind=plot asOf=2026-06-13 entities=40 relations=44 src=00181-00186.md
+- **2026-06-13T17:45:24.567Z** `ingest` plot.fanren-188-193-hanli-kills-fengyue-gains-taqunxue — 韩立血色禁地击杀封岳、夺踏云靴，遇灵兽山钟吾（第188-193章） · kind=plot asOf=2026-06-13 entities=32 relations=29 src=00187-00192.md
+- **2026-06-13T18:01:47.659Z** `ingest` lore.forbidden-land-center-region — 禁地中心区秘闻与月阳宝珠由来 · kind=lore asOf=2026-06-13 entities=55 relations=52 src=00193-00198.md
+- **2026-06-13T18:10:29.712Z** `ingest` plot.fanren-vol3-ch199-204-shaonv-yu-shaonv — 禁地夺药·武痴之死(第199-204章) · kind=plot asOf=2026-06-13 entities=47 relations=53 src=00199-00204.md
+- **2026-06-13T18:13:31.451Z** `ingest` plot.fanren-c206-211-tujiao-yu-nangongwan-qiyu — 凡人修仙传 第206-211章：屠墨蛟、与南宫婉的意外，及禁地赌局 · kind=plot asOf=2026-06-13 entities=25 relations=21 src=00205-00210.md
+- **2026-06-13T18:15:52.227Z** `ingest` plot.fanren-c211-217-hanli-zhuji-chengong — 凡人修仙传 第211-217章｜韩立拜师李化元、炼制筑基丹并地火屋筑基成功 · kind=plot asOf=2026-06-13 entities=25 relations=28 src=00211-00216.md
+- **2026-06-13T18:18:12.712Z** `ingest` plot.fanren-ch218-222-cave-establishment-and-secret-shop — 韩立筑基后开辟洞府、得灵眼之泉、入天星宗坊市与秘店竞卖会（第218-222章） · kind=plot asOf=2026-06-13 entities=27 relations=29 src=00217-00222.md
+- **2026-06-13T18:20:52.498Z** `ingest` plot.fanren-c224-228-mizhi-jingmaihui-yu-qianzhujiao-kuilei — 凡人修仙传 第224-228章｜秘店竞卖会与千竹教傀儡屠杀 · kind=plot asOf=2026-06-13 entities=24 relations=21 src=00223-00228.md
+- **2026-06-13T18:28:54.052Z** `ingest` plot.fanren-229-234-quantao-dayanjue — 凡人修仙传 第229-234章｜圈套·大衍决 · kind=plot asOf=2026-06-13 entities=30 relations=44 src=00229-00234.md
+- **2026-06-13T18:31:25.526Z** `ingest` plot.fanren-236-241-danfang-lihuayuan-shoutu-sanzhuanchongyuangong — 凡人修仙传 第236-241章｜换丹方·正式拜入李化元门下·金银书页与三转重元功 · kind=plot asOf=2026-06-13 entities=30 relations=28 src=00235-00240.md
+- **2026-06-13T18:39:09.331Z** `ingest` plot.hanli-zhifu-lianqisan-shixiao-shuangxiu-241-246 — 韩立兼修制符、炼气散因抗药性失效、红拂提议双修(第241-246章) · kind=plot asOf=2026-06-13 entities=41 relations=48 src=00241-00246.md
+- **2026-06-13T18:50:53.555Z** `ingest` plot.fanren-c247-252-yanlingbao-zhengfeng-mocaihuan — 凡人修仙传 第247-252章｜燕翎堡争风比试与重遇墨彩环 · kind=plot asOf=2026-06-13 entities=55 relations=69 src=00247-00252.md
+- **2026-06-13T19:03:17.330Z** `ingest` plot.fanren-254-yanjia-laozu — 第254章 燕家老祖——鬼灵门少主夜访燕翎堡 · kind=plot asOf=2026-06-13 entities=60 relations=74 src=00253-00258.md
+- **2026-06-13T19:18:19.754Z** `ingest` plot.fanren-c265-270-lingkuang-battle-white-spider — 凡人修仙传 第265-270章：灵石矿激斗、青阳魔火屠杀与地下白蜘蛛 · kind=plot asOf=2026-06-13 entities=49 relations=61 src=00265-00270.md
+- **2026-06-13T19:25:16.337Z** `ingest` plot.fanren-271-276-jingudayuan-one-year-war — 凡人修仙传 第271-276章｜金鼓原一年炮灰生涯与赴约前奏 · kind=plot asOf=2026-06-13 entities=35 relations=38 src=00271-00276.md
+- **2026-06-13T19:32:06.109Z** `ingest` plot.fanren-277-282-ban-nian-zhi-yue-yu-qian-zhai — 半年之约与潜入秦宅护卫(第277-282章) · kind=plot asOf=2026-06-13 entities=23 relations=35 src=00277-00282.md
+- **2026-06-13T19:34:54.400Z** `ingest` plot.fmxxz-c284-289-qinzhai-xinwang-mihun — 凡人修仙传 第284-289章：越京酒楼私语、馨王府仙缘与梦魇交锋 · kind=plot asOf=2026-06-13 entities=33 relations=40 src=00283-00288.md
+- **2026-06-13T19:37:56.029Z** `ingest` plot.fanren-289-295-xinwangfu-qianru-xiaojia — 馨王府赴宴潜入与萧家祖孙、弄焰决 · kind=plot asOf=2026-06-13 entities=29 relations=30 src=00289-00294.md
+- **2026-06-13T19:46:37.090Z** `ingest` plot.fanren-v3-ch295-300-baishi-yu-shengqin — 凡人修仙传 第295-300章：收道书、荐拜师与生擒蒙氏五友 · kind=plot asOf=2026-06-13 entities=34 relations=48 src=00295-00300.md
+- **2026-06-13T19:49:30.247Z** `ingest` plot.fanren-302-307-heisha-jiao-neiying-jici — 凡人修仙传 第302-307章：蒙山五友内应败露与馨王府刺杀黑煞教 · kind=plot asOf=2026-06-13 entities=39 relations=45 src=00301-00306.md
+- **2026-06-13T19:52:29.981Z** `ingest` plot.fanren-307-313-poyao-huangshi-mishu — 凡人修仙传 第307-313章｜破庙血战、黑煞教皇宫隐秘与师兄援兵抵达 · kind=plot asOf=2026-06-13 entities=28 relations=35 src=00307-00312.md
+- **2026-06-13T19:59:44.300Z** `ingest` plot.fanren-c313-318-huihe-buzhen-shizong — 凡人修仙传 第313-318章｜会和·后手·失踪 · kind=plot asOf=2026-06-13 entities=48 relations=48 src=00313-00318.md
+- **2026-06-13T20:02:14.173Z** `ingest` plot.fanren-319-325-poshi-zhanyao-heisha-jiaozhu — 凡人修仙传 第319-325章｜破茧·斩妖·黑煞教主 · kind=plot asOf=2026-06-13 entities=23 relations=28 src=00319-00324.md
+- **2026-06-13T20:17:45.730Z** `ingest` plot.fanren-325-330-blood-diamond-reverse-five-elements-array — 凡人修仙传 第325-330章｜血灵钻、入阵与黑血刀 · kind=plot asOf=2026-06-13 entities=55 relations=79 src=00325-00330.md
+- **2026-06-13T20:20:40.954Z** `ingest` plot.fanren-331-337-jiayuan-revisit — 凡人修仙传 第332-337章｜旧地重游:陈巧倩诀别、五色门复仇与曲魂异变 · kind=plot asOf=2026-06-13 entities=33 relations=43 src=00331-00336.md
+- **2026-06-13T20:23:38.421Z** `ingest` plot.frxxz-c338-343-quhun-bigong-tanglang-luvhuangjian — 凡人修仙传 第338-343章｜逼供曲魂·巨螳螂圈套·收绿煌剑 · kind=plot asOf=2026-06-13 entities=23 relations=23 src=00337-00342.md
+- **2026-06-13T20:35:12.648Z** `ingest` plot.fanren-c344-da-zhen-mie-yao — 凡人修仙传 第344章 大阵灭妖 · kind=plot asOf=2026-06-13 entities=31 relations=32 src=00343-00348.md
+- **2026-06-13T20:42:45.514Z** `ingest` plot.fanren-ch349-354-shunsha-qiyunxiao-death — 瞬杀付家修士与齐云霄之死(第349-354章) · kind=plot asOf=2026-06-13 entities=33 relations=34 src=00349-00354.md
+- **2026-06-13T20:50:56.958Z** `ingest` plot.fanren-c355-360-baichishan-tanqing — 凡人修仙传 第355-360章｜定颜丹换宝、炼器失利、白池山探听越国战况 · kind=plot asOf=2026-06-13 entities=27 relations=23 src=00355-00360.md
+- **2026-06-13T20:53:57.743Z** `ingest` plot.fanren-c362-367-chuansong-luanxinghai — 凡人修仙传 第362-367章｜南宫屏赠物、古传送阵逃脱、初入乱星海 · kind=plot asOf=2026-06-13 entities=35 relations=30 src=00361-00366.md
+- **2026-06-13T20:57:02.391Z** `ingest` plot.fanren-367-373-kuixing-island-settlement — 韩立落脚魁星岛：代顾家挑战夺商资、登仙阁定居、择小寰岛筑分身基业 · kind=plot asOf=2026-06-13 entities=40 relations=33 src=00367-00372.md
+- **2026-06-13T21:14:02.320Z** `ingest` plot.fanren-373-378-qihun-fenshen-tiandujie — 凡人修仙传 第373-378章｜祭炼分身曲魂·天都街求购雪灵水天火液 · kind=plot asOf=2026-06-13 entities=64 relations=69 src=00373-00378.md
+- **2026-06-13T21:21:46.815Z** `ingest` plot.fanren-379-384-yingli-beast-ambush — 凡人修仙传 第379-384章｜六连殿伏杀婴鲤兽与乌丑夺丹 · kind=plot asOf=2026-06-13 entities=37 relations=46 src=00379-00384.md
+- **2026-06-13T21:30:14.765Z** `ingest` plot.fanren-385-390-siyear-jiedan-shijinchong — 凡人修仙传 第385-390章｜四年结丹·噬金虫·曲魂魔威 · kind=plot asOf=2026-06-13 entities=44 relations=50 src=00385-00390.md
+- **2026-06-13T21:42:18.894Z** `ingest` plot.fanren-392-yu-chong — 凡人修仙传 第392章 育虫——韩立摸索噬金虫培育与出海前的准备 · kind=plot asOf=2026-06-13 entities=39 relations=45 src=00391-00396.md
+- **2026-06-13T21:50:23.783Z** `ingest` plot.fanren-397-402-jiedan-yu-miaoyinmen — 凡人修仙传 第397-402章｜韩立结丹与妙音门设局 · kind=plot asOf=2026-06-13 entities=44 relations=47 src=00397-00402.md
+- **2026-06-13T22:10:03.483Z** `ingest` plot.fanren-410-zhangglao-miaoyinmen-keqing — 第410章 长老：紫灵仙子识破曲魂分身，以天雷竹聘韩立为妙音门名义长老 · kind=plot asOf=2026-06-13 entities=33 relations=42 src=00409-00414.md
+- **2026-06-13T22:18:03.968Z** `ingest` plot.fanren-415-420-tushan-pozhen — 第415-420章 土山古修士遗址·以阵破阵 · kind=plot asOf=2026-06-13 entities=35 relations=44 src=00415-00420.md
+- **2026-06-13T22:20:58.712Z** `ingest` plot.fanren-422-427-qixialian-yaoguanshe-xuanhunlianyao — 凡人修仙传 第422-427章｜七霞莲夺命局与玄魂炼妖老怪 · kind=plot asOf=2026-06-13 entities=22 relations=20 src=00421-00426.md
+- **2026-06-13T22:23:39.236Z** `ingest` plot.fanren-428-433-xutiandian-arc — 凡人修仙传 第428-433章｜与玄骨上人交锋、虚天残图引路、初入虚天殿 · kind=plot asOf=2026-06-13 entities=29 relations=29 src=00427-00432.md
+- **2026-06-13T22:31:47.447Z** `ingest` plot.xutian-dian-juji-433-438 — 虚天殿外厅聚集：正魔双方与星宫监督下的开门入殿（第433-438章） · kind=plot asOf=2026-06-13 entities=49 relations=56 src=00433-00438.md
+- **2026-06-13T22:34:49.534Z** `ingest` plot.fanren-ch440-445-guiwang-heipao-yuanyao — 鬼王（2-5）·黑袍·元瑶：韩立虚天殿斩三首虎妖，黑袍人现身为元瑶 · kind=plot asOf=2026-06-13 entities=31 relations=25 src=00439-00444.md
+- **2026-06-13T22:43:12.557Z** `ingest` plot.fanren-445-450-xutiandian-zaiju-kongjian — 凡人修仙传 第445-450章｜鬼雾再聚·空间·小石山 · kind=plot asOf=2026-06-13 entities=39 relations=44 src=00445-00450.md
+- **2026-06-13T22:50:36.883Z** `ingest` plot.fanren-451-456-leiting-jiyin-xiji — 凡人修仙传 第451-456章：雷霆之击·夺九曲灵参·极阴祖师为血玉蜘蛛而来 · kind=plot asOf=2026-06-13 entities=15 relations=18 src=00451-00456.md
+- **2026-06-13T23:02:30.147Z** `ingest` plot.fanren-ch456-binghuodao — 第456章 冰火道：魔道分赃虚天鼎，韩立入熔岩路 · kind=plot asOf=2026-06-13 entities=46 relations=55 src=00457-00462.md
+- **2026-06-13T23:10:56.840Z** `ingest` plot.fanren-ch463-468-tihunshou-lianjing — 凡人修仙传 第463-468章｜熔岩路得啼魂兽与炼晶、星宫操纵虚天殿禁制 · kind=plot asOf=2026-06-13 entities=47 relations=53 src=00463-00468.md
+- **2026-06-13T23:20:23.090Z** `ingest` plot.fanren-469-474-heijia-wuse-tonghuan-jimiao-huanjing — 凡人修仙传 第469-474章｜诡异黑甲取宝·极妙幻境黑殿现小妹 · kind=plot asOf=2026-06-13 entities=16 relations=16 src=00469-00474.md
+- **2026-06-13T23:43:08.960Z** `ingest` plot.fanren-ch474-neidian-second-layer — 韩立随魔道一行闯内殿二层·蛇卫傀儡与上古异石 · kind=plot asOf=2026-06-13 entities=49 relations=76 src=00475-00480.md
+- **2026-06-13T23:57:00.585Z** `ingest` plot.fanren-480-da-zhan-qi — 第四卷 第480章 大战起：虚天鼎争夺战爆发 · kind=plot asOf=2026-06-13 entities=44 relations=65 src=00481-00486.md
+- **2026-06-14T00:05:41.572Z** `ingest` plot.fanren-vol487-492-489-butian-dan-xutian-ding — 风起海外·虚天殿夺宝：补天丹之争、乌丑之死与韩立收虚天鼎 · kind=plot asOf=2026-06-14 entities=41 relations=50 src=00487-00492.md
+- **2026-06-14T00:17:58.231Z** `ingest` plot.fanren-493-498-huazhou-lingquan — 虚天殿脱困：画轴逃生路与灵眼之泉再遇元瑶（第493-498章） · kind=plot asOf=2026-06-14 entities=48 relations=61 src=00493-00498.md
+- **2026-06-14T00:25:20.289Z** `ingest` plot.fanren-499-504-nanming-island — 凡人修仙传 第499-504章｜南明岛盘查与逆星盟之谋 · kind=plot asOf=2026-06-14 entities=43 relations=51 src=00499-00504.md
+- **2026-06-14T00:28:14.636Z** `ingest` plot.frw-v4-505-510-hunru-heishicheng — 凡人修仙传 第505-510章｜柳暗花明·混入传送阵·初临黑石城 · kind=plot asOf=2026-06-14 entities=23 relations=26 src=00505-00510.md
+- **2026-06-14T00:43:02.642Z** `ingest` plot.fanren-vol259-264-262-wangchan-trap-escape — 凡人修仙传 第259-264章｜王蝉设阴火圈套 韩立血云脱身 · kind=plot asOf=2026-06-14 entities=22 relations=24 src=00259-00264.md
+- **2026-06-14T00:51:38.828Z** `ingest` plot.fanren-ch01-06-hanli-rumen-qixuanmen — 凡人修仙传 第1-6章｜韩立入七玄门，拜墨大夫为记名弟子 · kind=plot asOf=2026-06-14 entities=27 relations=36 src=00001-00006.md
+- **2026-06-14T00:54:33.164Z** `ingest` plot.fanren-ch7-12-cultivation-and-mystery-bottle — 凡人修仙传 第7-12章：拜师墨大夫、象甲功与神秘小瓶 · kind=plot asOf=2026-06-14 entities=20 relations=21 src=00007-00012.md
+- **2026-06-14T00:56:50.595Z** `ingest` plot.fanren-ch13-18-mysterious-bottle-li-shixiong — 凡人修仙传 第13-18章：瓶子异象·四年后·厉师兄登场 · kind=plot asOf=2026-06-14 entities=22 relations=33 src=00013-00018.md
+- **2026-06-14T00:59:33.660Z** `ingest` plot.fanren-ch19-24-choushwan-xinmo-shiyao — 凡人修仙传 第19-24章｜江湖斗·抽髓丸·心魔与试药兔 · kind=plot asOf=2026-06-14 entities=18 relations=21 src=00019-00024.md
+- **2026-06-14T01:04:06.482Z** `ingest` concept.fanren-xiuxian-ch1-6-han-li-rumen — 《凡人修仙传》第1-6章：韩立入七玄门设定与剧情梗概 · kind=concept asOf=2026-06-14 entities=21 relations=24 src=00001-00006.md
+- **2026-06-14T01:05:52.308Z** `ingest` concept.fanren-xiuxian-ch7-12 — 《凡人修仙传》第7-12章 剧情梳理：修炼难·入门·象甲功·神秘绿瓶 · kind=concept asOf=2026-06-14 entities=10 relations=14 src=00007-00012.md
+- **2026-06-14T01:07:36.036Z** `ingest` concept.fanren-xiuxian-zhuan-ch13-18 — 《凡人修仙传》第13-18章 剧情梳理：神秘小瓶异象与七玄门比武 · kind=concept asOf=2026-06-14 entities=16 relations=22 src=00013-00018.md
+- **2026-06-14T01:09:37.371Z** `ingest` concept.fanren-xiuxian-chapter-19-24 — 《凡人修仙传》第19-24章 剧情与设定梳理（江湖斗·抽髓丸·心魔·试药兔） · kind=concept asOf=2026-06-14 entities=12 relations=16 src=00019-00024.md
+- **2026-06-14T01:11:21.944Z** `ingest` concept.fanren-xiuxian-zhuan-ch25-30 — 《凡人修仙传》第25-30章 情节梗概（神秘小瓶催药与墨大夫的真面目） · kind=concept asOf=2026-06-14 entities=10 relations=13 src=00025-00030.md
+- **2026-06-14T01:13:05.435Z** `ingest` concept.fanren-xiuxian-chapters-31-36 — 《凡人修仙传》第31-36章 剧情梳理：尸虫丸要挟与眨眼剑法 · kind=concept asOf=2026-06-14 entities=15 relations=19 src=00031-00036.md
+- **2026-06-14T01:14:54.215Z** `ingest` concept.fanren-xiuxian-ch37-42-zhayan-jianfa-and-mo-daifu-surveillance — 《凡人修仙传》第37-42章：眨眼剑谱三不练与墨大夫的云翅鸟监视 · kind=concept asOf=2026-06-14 entities=11 relations=11 src=00037-00042.md
+- **2026-06-14T01:16:19.290Z** `ingest` concept.fanren-xiuxian-chapter-43-48 — 凡人修仙传 第43-48章 情节梗概：韩立与墨大夫的决斗 · kind=concept asOf=2026-06-14 entities=11 relations=13 src=00043-00048.md
+- **2026-06-14T01:17:49.425Z** `ingest` concept.fanren-xiuxian-zhuan-ch49-54-hanli-vs-modaifu — 《凡人修仙传》第49-54章｜韩立与墨大夫的连环搏杀及夺舍危机 · kind=concept asOf=2026-06-14 entities=9 relations=10 src=00049-00054.md
+- **2026-06-14T01:19:34.046Z** `ingest` concept.fanren-xiuxian-ch55-60-duoshe — 《凡人修仙传》第55-60章：夺舍之争与夺舍三大铁则 · kind=concept asOf=2026-06-14 entities=13 relations=10 src=00055-00060.md
+- **2026-06-14T01:21:16.626Z** `ingest` concept.fanren-xiuxian-ch61-66-shenmie-quhun — 凡人修仙传 第61-66章：神灭·交易·曲魂·韩神医 · kind=concept asOf=2026-06-14 entities=13 relations=14 src=00061-00066.md
+- **2026-06-14T01:23:08.268Z** `ingest` concept.fanren-xiuxian-chapter-67-72-huodanshu-detox — 《凡人修仙传》第67-72章：韩立习法术与为李长老解毒 · kind=concept asOf=2026-06-14 entities=20 relations=21 src=00067-00072.md
+- **2026-06-14T01:25:31.362Z** `ingest` project.fanren-xiuxian-ch73-78 — 《凡人修仙传》第73-78章 剧情纪要：厉飞雨心事、御风决与彩霞山遭袭 · kind=project asOf=2026-06-14 entities=16 relations=14 src=00073-00078.md
+- **2026-06-14T01:27:38.470Z** `ingest` concept.fanren-xiuxian-79-84 — 凡人修仙传 第79-84章｜七玄门落日峰决战与大陷阱 · kind=concept asOf=2026-06-14 entities=15 relations=16 src=00079-00084.md
+- **2026-06-14T01:29:49.009Z** `ingest` meeting.fanren-xiuxian-85-90-sikexuedou — 《凡人修仙传》第85-90章：七玄门与野狼帮的死契血斗 · kind=meeting asOf=2026-06-14 entities=14 relations=18 src=00085-00090.md
+- **2026-06-14T01:31:42.254Z** `ingest` concept.fanren-xiuxian-chapters-91-96 — 《凡人修仙传》第91-96章 剧情梗概：抢宝、烈火焚敌与魔名赫起 · kind=concept asOf=2026-06-14 entities=17 relations=17 src=00091-00096.md
+- **2026-06-14T01:33:23.553Z** `ingest` concept.fanren-xiuxian-ch97-102-departure-and-jiayuan — 凡人修仙传 第97-102章｜韩立背后交易、离别故乡与初入嘉元城 · kind=concept asOf=2026-06-14 entities=17 relations=20 src=00097-00102.md
+- **2026-06-14T01:35:40.979Z** `ingest` project.fanren-xiuxian-ch103-108-hanli-jiayuancheng — 《凡人修仙传》第103-108章：韩立潜入嘉元城与墨府夺宝任务 · kind=project asOf=2026-06-14 entities=21 relations=20 src=00103-00108.md
+- **2026-06-14T01:39:36.642Z** `ingest` concept.fanren-xiuxian-chapter-115-120-mofu-confrontation — 凡人修仙传 第115-120章：墨府对峙与定计夺帮剧情梳理 · kind=concept asOf=2026-06-14 entities=25 relations=20 src=00115-00120.md
+- **2026-06-14T01:42:06.867Z** `ingest` project.fanren-xiuxian-zhuan-ch121-126 — 凡人修仙传 第121-126章：毒杀沈重山·墨府交易·奔赴太南谷 · kind=project asOf=2026-06-14 entities=30 relations=24 src=00121-00126.md
+- **2026-06-14T01:45:26.794Z** `ingest` plot.fanren-ch1-6-shanbian-village-to-qixuanmen — 凡人修仙传 第1-6章：从山边小村到神手谷拜师墨大夫 · kind=plot asOf=2026-06-14 entities=27 relations=31 src=00001-00006.md
+- **2026-06-14T01:47:40.519Z** `ingest` plot.fanren-ch7-12-cultivation-and-mystery-bottle — 凡人修仙传 第7-12章｜修炼难·入门弟子·象甲功·神秘瓶子 · kind=plot asOf=2026-06-14 entities=16 relations=18 src=00007-00012.md
+- **2026-06-14T01:54:33.495Z** `ingest` plot.fanren-ch13-18-yixiang-qi — 凡人修仙传 第13-18章｜神秘瓶子异象与四年后 · kind=plot asOf=2026-06-14 entities=22 relations=32 src=00013-00018.md
+- **2026-06-14T02:01:46.171Z** `ingest` plot.fanren-ch19-24-jianghu-dou-chousui-wan — 第19-24章 江湖斗·抽髓丸·止痛药 · kind=plot asOf=2026-06-14 entities=20 relations=22 src=00019-00024.md
+- **2026-06-14T02:03:55.481Z** `ingest` plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai — 凡人修仙传 第25-30章｜绿液催药·墨大夫摊牌身份 · kind=plot asOf=2026-06-14 entities=15 relations=20 src=00025-00030.md
+- **2026-06-14T02:10:24.057Z** `ingest` plot.fanren-ch31-36-shichongwan — 凡人修仙传 第31-36章：尸虫丸要挟与厉飞雨的私下交易 · kind=plot asOf=2026-06-14 entities=13 relations=15 src=00031-00036.md
+- **2026-06-14T02:12:54.414Z** `ingest` plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird — 凡人修仙传 第37-42章：三不练剑谱、夜遇野狼帮奸细、墨大夫遣云翅鸟监视 · kind=plot asOf=2026-06-14 entities=20 relations=23 src=00037-00042.md
+- **2026-06-14T02:15:03.823Z** `ingest` plot.fanren-ch43-48-modafu-juelie-jiaoshou — 凡人修仙传 第43-48章｜万事具备·韩立与墨大夫翻脸交手 · kind=plot asOf=2026-06-14 entities=17 relations=19 src=00043-00048.md
+- **2026-06-14T02:17:26.077Z** `ingest` plot.fanren-ch49-54-mo-dafu-duoshe — 凡人修仙传 第49-54章：套中套·缠香丝·七鬼噬魂·墨大夫欲夺舍韩立 · kind=plot asOf=2026-06-14 entities=12 relations=14 src=00049-00054.md
+- **2026-06-14T02:24:50.881Z** `ingest` plot.fanren-ch55-60-third-person-duoshe-failed — 凡人修仙传 第55-60章｜第三人·光球之战·身醒敌亡：墨大夫夺舍失败身亡 · kind=plot asOf=2026-06-14 entities=22 relations=32 src=00055-00060.md
+- **2026-06-14T02:33:03.141Z** `ingest` plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong — 凡人修仙传 第61-66章：神灭·交易·真容（灭余子童元神、墨大夫遗书、铁奴真容现） · kind=plot asOf=2026-06-14 entities=26 relations=36 src=00061-00066.md
+- **2026-06-14T02:39:39.123Z** `ingest` plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu — 凡人修仙传 第67-72章｜火弹术·中毒·厉飞雨与少女 · kind=plot asOf=2026-06-14 entities=25 relations=35 src=00067-00072.md
+- **2026-06-14T02:48:17.069Z** `ingest` plot.fanren-ch73-78-lifeiyu-yufengjue — 凡人修仙传 第73-78章｜厉飞雨的心思·御风决·法武并用 · kind=plot asOf=2026-06-14 entities=34 relations=42 src=00073-00078.md
+- **2026-06-14T02:56:11.602Z** `ingest` plot.fanren-ch79-84-luori-feng-siege — 第79-84章 拷问·遇敌·贾天龙：野狼帮连弩破落日峰 · kind=plot asOf=2026-06-14 entities=32 relations=43 src=00079-00084.md
+- **2026-06-14T03:03:44.419Z** `ingest` plot.fanren-ch85-90-sikexie-doudou — 凡人修仙传 第85-90章｜死契血斗：韩立、厉飞雨签生死契参战 · kind=plot asOf=2026-06-14 entities=26 relations=44 src=00085-00090.md
+- **2026-06-14T03:06:36.612Z** `ingest` plot.fanren-ch91-96-qiangbao-completes-deathmatch — 凡人修仙传 第91-96章：抢宝·烈火焚敌·魔名赫起 · kind=plot asOf=2026-06-14 entities=27 relations=31 src=00091-00096.md
+- **2026-06-14T03:09:31.540Z** `ingest` plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan — 凡人修仙传 第97-102章｜暗中交易、辞别故乡、初入岚州遇劫 · kind=plot asOf=2026-06-14 entities=26 relations=28 src=00097-00102.md
+- **2026-06-14T03:17:46.552Z** `ingest` plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel — 凡人修仙传 第103-108章：收服孙二狗、惊蛟会情报与吴剑鸣抢身份 · kind=plot asOf=2026-06-14 entities=22 relations=26 src=00103-00108.md
+- **2026-06-14T03:20:09.503Z** `ingest` plot.fanren-ch109-114-mofu-dengmen — 凡人修仙传 第109-114章｜韩立登门墨府、初会墨大夫妻女 · kind=plot asOf=2026-06-14 entities=22 relations=24 src=00109-00114.md
+- **2026-06-14T03:22:42.974Z** `ingest` plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui — 凡人修仙传 第115-120章：墨府摊牌、修仙者亮相与神仙大会消息 · kind=plot asOf=2026-06-14 entities=27 relations=25 src=00115-00120.md
+- **2026-06-14T03:34:23.010Z** `ingest` plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal — 凡人修仙传 第121-126章：潇湘院毒杀沈重山·墨府交易杀欧阳飞天 · kind=plot asOf=2026-06-14 entities=32 relations=32 src=00121-00126.md
+- **2026-06-14T03:45:50.888Z** `ingest` lore.fanren-ch127-132-linggen-realms-taonan — 凡人修仙传 第127-132章｜灵根之说与修仙界境界体系（太南小会） · kind=lore asOf=2026-06-14 entities=49 relations=53 src=00127-00132.md
+- **2026-06-14T03:58:07.285Z** `ingest` lore.fanren-ch134-shengxian-dahui — 升仙大会与筑基丹（越国七大派招徒擂台） · kind=lore asOf=2026-06-14 entities=50 relations=46 src=00133-00138.md
+- **2026-06-14T04:06:34.736Z** `ingest` plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush — 凡人修仙传 第139-144章：换购法宝残片、识得升仙令、出谷遭袭杀 · kind=plot asOf=2026-06-14 entities=53 relations=53 src=00139-00144.md
+- **2026-06-14T04:09:18.354Z** `ingest` plot.fanren-146-151-han-li-joins-huangfenggu — 凡人修仙传 第146-151章：韩立让丹入门黄枫谷，接管百药园 · kind=plot asOf=2026-06-14 entities=27 relations=30 src=00145-00150.md
+- **2026-06-14T04:21:00.189Z** `ingest` plot.fanren-ch152-two-years-later — 第152章 两年后：韩立黄枫谷药园潜修、绿液存储试验与新弟子风波 · kind=plot asOf=2026-06-14 entities=43 relations=43 src=00151-00156.md
+- **2026-06-14T04:37:08.858Z** `ingest` plot.fanren-ch158-blue-robed-woman — 第158章 蓝衣女子 · kind=plot asOf=2026-06-14 entities=53 relations=64 src=00157-00162.md
+- **2026-06-14T04:44:35.362Z** `ingest` plot.fanren-ch163-168-fubao-yeyu-henda — 凡人修仙传 第163-168章｜符宝之秘 · 夜遇陆师兄 · kind=plot asOf=2026-06-14 entities=33 relations=36 src=00163-00168.md
+- **2026-06-14T05:02:14.847Z** `ingest` plot.fanren-ch170-zhanlipin — 凡人修仙传 第170章·战利品 · kind=plot asOf=2026-06-14 entities=45 relations=60 src=00169-00174.md
+- **2026-06-14T05:15:30.241Z** `ingest` plot.fanren-ch175-180-blood-trial-bet-and-seven-sects — 凡人修仙传 第175-180章｜血色禁地试炼前的赌约与越国七大派 · kind=plot asOf=2026-06-14 entities=52 relations=56 src=00175-00180.md
+- **2026-06-14T05:23:36.517Z** `ingest` plot.fanren-181-186-jindi-yixiantian-jisha — 凡人修仙传 第181-186章｜禁地一线天：丝线斩首与金光砖灭敌 · kind=plot asOf=2026-06-14 entities=40 relations=45 src=00181-00186.md
+- **2026-06-14T05:36:55.300Z** `ingest` plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue — 凡人修仙传 第187-192章｜禁地诛杀封岳，得乌靴法器 · kind=plot asOf=2026-06-14 entities=46 relations=54 src=00187-00192.md
+- **2026-06-14T05:58:42.552Z** `ingest` lore.fanren-ch194-forbidden-land-center-region — 禁地中心区三层结构与月阳宝珠（第194章） · kind=lore asOf=2026-06-14 entities=68 relations=74 src=00193-00198.md
+- **2026-06-14T06:06:29.089Z** `ingest` plot.fanren-199-204-shaonv-yu-wuchi-miekou — 凡人修仙传 第199-204章｜禁地采药·救绿衣少女·灭口巨剑门武痴 · kind=plot asOf=2026-06-14 entities=28 relations=28 src=00199-00204.md
+- **2026-06-14T06:15:01.554Z** `ingest` plot.fanren-c205-210-tujiao-yu-nangong — 凡人修仙传 第205-210章 意外·屠蛟与战利品·合 · kind=plot asOf=2026-06-14 entities=37 relations=34 src=00205-00210.md
+- **2026-06-14T06:22:43.886Z** `ingest` plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei — 第211-216章 恍然·拜师李华元与炼丹准备 · kind=plot asOf=2026-06-14 entities=30 relations=39 src=00211-00216.md
+- **2026-06-14T06:31:19.023Z** `ingest` plot.fanren-217-222-jizhidian-dongfu-lingyan-quan — 凡人修仙传 第217-222章｜韩立筑基后登册、租双瞳鼠寻得灵眼之泉 · kind=plot asOf=2026-06-14 entities=36 relations=34 src=00217-00222.md
+- **2026-06-14T06:39:00.567Z** `ingest` plot.fanren-223-228-midian-jingmai-auction — 第223-228章 秘店竞卖会：傀儡机关兽、铁精与颠倒五行阵 · kind=plot asOf=2026-06-14 entities=34 relations=36 src=00223-00228.md
+- **2026-06-14T06:52:19.644Z** `ingest` plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong — 第230章 圈套：千竹教诱杀诈死的林师兄 · kind=plot asOf=2026-06-14 entities=27 relations=46 src=00229-00234.md
+- **2026-06-14T07:00:03.380Z** `ingest` plot.fanren-ch235-240-guifang-lvbo-dong — 凡人修仙传 第235-240章：古方换灵草、林师兄遗简（大衍决/傀儡真解）、拜见师傅李化元 · kind=plot asOf=2026-06-14 entities=35 relations=35 src=00235-00240.md
+- **2026-06-14T07:18:30.791Z** `ingest` plot.fanren-ch242-zhifu-biguan — 第242章 制符——韩立决意兼修制符并四年闭关 · kind=plot asOf=2026-06-14 entities=51 relations=66 src=00241-00246.md
+- **2026-06-14T07:31:27.755Z** `ingest` plot.fanren-247-252-yanlingbao-zhengfeng — 凡人修仙传 第247-252章｜燕翎堡争风、燕家与鬼灵门比试、街头巧遇墨彩环 · kind=plot asOf=2026-06-14 entities=57 relations=66 src=00247-00252.md
+- **2026-06-14T07:54:04.387Z** `ingest` plot.fanren-ch254-yanjia-laozu — 第254章 燕家老祖——鬼灵门少主夜访燕翎堡 · kind=plot asOf=2026-06-14 entities=57 relations=75 src=00253-00258.md
+- **2026-06-14T08:12:27.892Z** `ingest` plot.fanren-ch259-264-guilingmen-trap-blood-spirit — 凡人修仙传 第259-264章：鬼灵门圈套与血灵大法围杀，韩立脱身 · kind=plot asOf=2026-06-14 entities=61 relations=76 src=00259-00264.md
+- **2026-06-14T08:30:26.895Z** `ingest` plot.fanren-ch266-jidou — 凡人修仙传 第266章 激斗——七派守矿对阵魔焰门、天煞宗 · kind=plot asOf=2026-06-14 entities=61 relations=73 src=00265-00270.md
+- **2026-06-14T08:43:23.933Z** `ingest` plot.fanren-272-jingu-yuan-war-one-year — 凡人修仙传 第272章 一年——金鼓原战场上的韩立 · kind=plot asOf=2026-06-14 entities=52 relations=59 src=00271-00276.md
+- **2026-06-14T08:51:46.345Z** `ingest` plot.fanren-ch277-282-half-year-pact-and-qin-residence — 凡人修仙传 第277-282章｜半年之约与潜入秦宅 · kind=plot asOf=2026-06-14 entities=27 relations=39 src=00277-00282.md
+- **2026-06-14T09:06:09.217Z** `ingest` plot.fanren-c283-288-yuejing-qinzhai-xinwangfu — 第283-288章：韩立化身秦府少爷潜伏越京、酒楼偷听蒙山五友、初赴馨王府 · kind=plot asOf=2026-06-14 entities=33 relations=35 src=00283-00288.md
+- **2026-06-14T09:14:36.181Z** `ingest` plot.fanren-vol3-c289-294-xiaowangye-xiaojia — 凡人修仙传 第289-294章｜小王爷·萧家（越京城试灵根与敛气道书交易） · kind=plot asOf=2026-06-14 entities=37 relations=42 src=00289-00294.md
+- **2026-06-14T09:22:45.194Z** `ingest` plot.fanren-ch295-300-baishi-yuandao-shengqin — 凡人修仙传 第295-300章：少女拜师、紫光珠破、生擒蒙面四人 · kind=plot asOf=2026-06-14 entities=32 relations=41 src=00295-00300.md
+- **2026-06-14T09:36:40.984Z** `ingest` plot.fanren-301-306-mengshan-wuyou-neiying — 凡人修仙传 第301-306章｜蒙山五友脱困、识破韩立旧貌与五妹内应败露 · kind=plot asOf=2026-06-14 entities=38 relations=55 src=00301-00306.md
+- **2026-06-14T10:09:18.621Z** `ingest` plot.fanren-ch308-da-zhan-shenshou — 第308章 大展身手：韩立屠戮黑衣修士、擒王总管困血侍 · kind=plot asOf=2026-06-14 entities=56 relations=76 src=00307-00312.md
+- **2026-06-14T10:27:35.045Z** `ingest` plot.fanren-ch314-huihe-jiaomie-heishajiao — 凡人修仙传 第314章 会和——刘靖一行集结筹备剿灭黑煞教、夜闯皇城 · kind=plot asOf=2026-06-14 entities=45 relations=59 src=00313-00318.md
+- **2026-06-14T10:30:34.155Z** `ingest` plot.fanren-c320-c325-heisha-jiao-poji-zhanyao — 凡人修仙传 第320-325章｜破茧·斩妖·黑煞教主现身 · kind=plot asOf=2026-06-14 entities=30 relations=34 src=00319-00324.md
+- **2026-06-14T10:52:27.424Z** `ingest` plot.fanren-ch326-xueling-zuan — 凡人修仙传 第326章 血灵钻：越皇服修髓丹复原、血灵钻重伤韩立 · kind=plot asOf=2026-06-14 entities=59 relations=70 src=00325-00330.md
+- **2026-06-14T11:09:43.177Z** `ingest` plot.fanren-331-336-jiayuan-cheng-jiudi — 凡人修仙传 第331-336章｜旧地·重返嘉元城 · kind=plot asOf=2026-06-14 entities=29 relations=46 src=00331-00336.md
+- **2026-06-14T11:27:04.836Z** `ingest` plot.fanren-ch338-bigong-quhun — 第338章 逼供：韩立以聚魂钵恫吓套问“曲魂”来历 · kind=plot asOf=2026-06-14 entities=38 relations=47 src=00337-00342.md
+- **2026-06-14T11:50:57.090Z** `ingest` plot.fanren-ch344-formation-slays-mantis — 凡人修仙传 第344章 大阵灭妖 · kind=plot asOf=2026-06-14 entities=46 relations=65 src=00343-00348.md
+- **2026-06-14T12:04:23.816Z** `ingest` plot.fanren-ch350-instant-kill — 凡人修仙传 第350章 瞬杀——韩立秒杀付家二修士、探访辛如音 · kind=plot asOf=2026-06-14 entities=39 relations=52 src=00349-00354.md
+- **2026-06-14T12:17:41.373Z** `ingest` plot.fanren-356-huofu-xiangyi — 凡人修仙传 第356章 祸福相依｜韩立换丹方、炼器失利、辛如音赠阵旗 · kind=plot asOf=2026-06-14 entities=57 relations=58 src=00355-00360.md
+- **2026-06-14T12:34:03.921Z** `ingest` plot.fanren-ch362-nangong-ping — 第362章 南宫屏——韩立选灵石酬恩，得知轮回真决之秘 · kind=plot asOf=2026-06-14 entities=46 relations=47 src=00361-00366.md
+- **2026-06-14T12:51:48.951Z** `ingest` plot.fanren-ch368-kuixingdao-guzhuang — 凡人修仙传 第368章 庄园：韩立登魁星岛、领令牌、入顾家庄养伤备战 · kind=plot asOf=2026-06-14 entities=48 relations=57 src=00367-00372.md
+- **2026-06-14T13:10:01.713Z** `ingest` plot.fanren-ch374-xiulian-wu-suiyue — 凡人修仙传 第374章 修炼无岁月——韩立小寰岛闭关、祭炼曲魂分身与三转重元功 · kind=plot asOf=2026-06-14 entities=64 relations=73 src=00373-00378.md
+- **2026-06-14T13:18:46.641Z** `ingest` plot.fanren-ch379-384-yinglishou-wuchou — 凡人修仙传 第379-384章｜婴鲤兽·异宝伏妖·乌丑搅局 · kind=plot asOf=2026-06-14 entities=39 relations=38 src=00379-00384.md
+- **2026-06-14T13:37:46.263Z** `ingest` plot.fanren-ch386-four-years-jiedan — 凡人修仙传 第386章 四年结丹——曲魂结煞丹、韩立结丹未成 · kind=plot asOf=2026-06-14 entities=51 relations=58 src=00385-00390.md
+- **2026-06-14T13:56:50.485Z** `ingest` plot.fanren-ch392-yuchong — 凡人修仙传 第392章 育虫｜韩立摸索噬金虫、量产傀儡符箓备战出海 · kind=plot asOf=2026-06-14 entities=42 relations=54 src=00391-00396.md
+- **2026-06-14T14:27:42.121Z** `ingest` plot.fanren-410-miaoyinmen-mingyi-zhanglao — 第410章 长老：韩立受聘妙音门名义长老，换得天雷竹 · kind=plot asOf=2026-06-14 entities=32 relations=41 src=00409-00414.md
+- **2026-06-14T14:30:38.023Z** `ingest` plot.fanren-ch416-421-tushan-fengling-zhu — 凡人修仙传 第416-421章｜土山破阵·封灵柱与噬金虫初显威 · kind=plot asOf=2026-06-14 entities=27 relations=37 src=00415-00420.md
+- **2026-06-14T15:06:59.783Z** `ingest` plot.fanren-ch428-xuangu-shangren-xiaocha — 第428章 萧诧——韩立与玄魂老魔的试探对峙 · kind=plot asOf=2026-06-14 entities=44 relations=64 src=00427-00432.md
+- **2026-06-14T15:15:07.645Z** `ingest` plot.fanren-c433-438-xutiandian-juji — 凡人修仙传 第433-438章：虚天殿前群雄聚集与紫灵再遇 · kind=plot asOf=2026-06-14 entities=43 relations=39 src=00433-00438.md
+- **2026-06-14T15:23:19.102Z** `ingest` plot.fanren-439-444-guiwang-xutiandian — 凡人修仙传 第439-444章｜虚天殿鬼冤之地·鬼王恶战 · kind=plot asOf=2026-06-14 entities=38 relations=37 src=00439-00444.md
+- **2026-06-14T15:46:07.070Z** `ingest` plot.fanren-ch446-zaiju — 凡人修仙传 第446章 再聚——闯过鬼雾后的群修汇聚 · kind=plot asOf=2026-06-14 entities=44 relations=51 src=00445-00450.md
+- **2026-06-14T15:59:37.832Z** `ingest` plot.fanren-ch452-leiting-zhiji — 第452章 雷霆之击：韩立反杀绿影鬼王、逼玄骨交出九曲灵参 · kind=plot asOf=2026-06-14 entities=39 relations=48 src=00451-00456.md
+- **2026-06-14T16:02:30.913Z** `ingest` plot.fanren-456-461-binghuo-dao-heishamo — 凡人修仙传 第456-461章｜冰火道·熔岩路与黑沙漠铁火蚁 · kind=plot asOf=2026-06-14 entities=34 relations=31 src=00457-00462.md
+- **2026-06-14T16:19:26.539Z** `ingest` plot.fanren-ch462-mingyhunzhu — 凡人修仙传 第462章 鸣魂珠——韩立索取啼魂兽 · kind=plot asOf=2026-06-14 entities=42 relations=49 src=00463-00468.md
+- **2026-06-14T16:36:44.495Z** `ingest` plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing — 凡人修仙传 第469-474章：黑甲取双宝、妖异古宝与极妙幻境黑殿 · kind=plot asOf=2026-06-14 entities=44 relations=56 src=00469-00474.md
+- **2026-06-14T17:26:54.336Z** `ingest` plot.fanren-499-504-nanming-island — 凡人修仙传 第499-504章｜南明岛盘查与逆星盟夺城 · kind=plot asOf=2026-06-14 entities=42 relations=55 src=00499-00504.md
+- **2026-06-14T17:29:32.720Z** `ingest` plot.fanren-ch505-510-hunru-heishicheng — 凡人修仙传 第505-510章：韩立化名「曲谋」混传送阵赴外星海，初临奇渊岛黑石城 · kind=plot asOf=2026-06-14 entities=24 relations=24 src=00505-00510.md
+- **2026-06-14T17:41:23.103Z** `ingest` plot.fanren-ch511-516-qiyuan-island-heishi-city — 凡人修仙传 第511-516章｜奇渊岛黑石城见闻：海渊妖兽、明珠轩拍卖与寸金阁求药 · kind=plot asOf=2026-06-14 entities=41 relations=42 src=00511-00516.md
+- **2026-06-14T17:49:48.543Z** `ingest` plot.fanren-517-522-xuanyinjing-huaxing-dujiao — 凡人修仙传 第517-522章｜玄阴经、化形雷劫与毒蛟 · kind=plot asOf=2026-06-14 entities=47 relations=51 src=00517-00522.md
+- **2026-06-14T17:58:18.136Z** `ingest` plot.fanren-523-528-zhongmo-xuming — 凡人修仙传 第523-528章｜真假虫魔·凶名滔天 · kind=plot asOf=2026-06-14 entities=32 relations=33 src=00523-00528.md
+- **2026-06-14T18:06:17.337Z** `ingest` plot.fanren-529-534-gongsun-xing-yu-shou-chao — 凡人修仙传 第529-534章｜公孙杏舍身救父与韩立赠宝 · kind=plot asOf=2026-06-14 entities=19 relations=21 src=00529-00534.md
+- **2026-06-14T18:18:59.470Z** `ingest` plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi — 凡人修仙传 535-537章：秘市换消息·剑威初现·震慑群修 · kind=plot asOf=2026-06-14 entities=43 relations=47 src=00535-00540.md
+- **2026-06-14T18:31:38.151Z** `ingest` plot.fan-ren-541-bi-yan-jiu — 第541章 碧焰酒：韩立遇裂风兽风希，被胁饮酒困入珊瑚密室 · kind=plot asOf=2026-06-14 entities=25 relations=31 src=00541-00546.md
+- **2026-06-14T18:39:49.959Z** `ingest` plot.fanren-ch547-552-poison-three-demons — 凡人修仙传 第547-552章：韩立稀释灵液暗算三妖、噬蛟夺翅 · kind=plot asOf=2026-06-14 entities=30 relations=33 src=00547-00552.md
+- **2026-06-14T18:52:01.243Z** `ingest` plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi — 凡人修仙传 第553-558章｜范夫人识破韩立·铲除云天啸换取传送阵之约 · kind=plot asOf=2026-06-14 entities=37 relations=53 src=00553-00558.md
+- **2026-06-14T19:00:29.917Z** `ingest` plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui — 第559-564章 诡异错认·元瑶与青阳门·借头颅 · kind=plot asOf=2026-06-14 entities=37 relations=44 src=00559-00564.md
+- **2026-06-14T19:09:06.331Z** `ingest` plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao — 第565-570章 元瑶还魂术·天兆引修士聚岛 · kind=plot asOf=2026-06-14 entities=40 relations=45 src=00565-00570.md
+- **2026-06-14T19:11:47.957Z** `ingest` plot.fanren-571-576-han-li-vs-wen-tianren-guiwu — 凡人修仙传 第571-576章｜韩立大战温天仁与鬼雾吞岛 · kind=plot asOf=2026-06-14 entities=28 relations=32 src=00571-00576.md
+- **2026-06-14T19:14:35.893Z** `ingest` plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo — 第577-582章 无名之地·阴冥之地：韩立与梅凝被鬼雾卷入异界高墙村落 · kind=plot asOf=2026-06-14 entities=20 relations=22 src=00577-00582.md
+- **2026-06-14T19:22:19.269Z** `ingest` plot.fanren-583-588-yinmingzhidi-yaowen-meining — 凡人修仙传 第583-588章｜阴冥之地：妖文石碑、折臂封天极、梅凝献通灵之气 · kind=plot asOf=2026-06-14 entities=31 relations=36 src=00583-00588.md
+- **2026-06-14T19:30:07.105Z** `ingest` plot.fanren-589-594-jiangling-fu-baofengshan — 凡人修仙传 第589-594章｜降灵符·啖魂·暴风山 · kind=plot asOf=2026-06-14 entities=40 relations=37 src=00589-00594.md
+- **2026-06-14T19:32:47.721Z** `ingest` plot.fanren-594-599-luoyunzong-rumen — 凡人修仙传 第594-599章｜拒纳梅凝·丹药失效·混入落云宗 · kind=plot asOf=2026-06-14 entities=30 relations=29 src=00595-00600.md
+- **2026-06-14T19:44:58.825Z** `ingest` plot.fanren-ch560-guishu — 凡人修仙传 第560章 归属——韩立入天泉峰当外事弟子，分得药园 · kind=plot asOf=2026-06-14 entities=41 relations=38 src=00601-00606.md
+- **2026-06-14T19:52:54.612Z** `ingest` plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi — 凡人修仙传 第607-612章｜追匿雪云狐 · 青金石室遇黑衣残臂少妇 · kind=plot asOf=2026-06-14 entities=27 relations=30 src=00607-00612.md
+- **2026-06-14T19:55:44.699Z** `ingest` plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui — 凡人修仙传 612-617章：银月认主成器灵 & 落云宗试剑大会 · kind=plot asOf=2026-06-14 entities=28 relations=30 src=00613-00618.md
+- **2026-06-14T19:58:38.363Z** `ingest` plot.fanren-618-622-luoyunzong-zongnei-xuanba — 凡人修仙传 第618-622章｜落云宗宗内选拔与啼魂兽进化 · kind=plot asOf=2026-06-14 entities=34 relations=39 src=00619-00624.md
+- **2026-06-14T20:12:08.060Z** `ingest` plot.fanren-625-630-san-pai-shi-jian-jin-di — 第625-630章 三派试剑·三派禁地：韩立以符箓夺第九名、获准入禁地洗目 · kind=plot asOf=2026-06-14 entities=46 relations=55 src=00625-00630.md
+- **2026-06-14T20:25:51.068Z** `ingest` plot.fanren-631-636-lingyan-tree-yunmeng-mountain — 云梦山灵眼之树：正魔火并与韩立窃取灵根（第631-636章） · kind=plot asOf=2026-06-14 entities=51 relations=60 src=00631-00636.md
+- **2026-06-14T20:28:13.386Z** `ingest` plot.fanren-636-641-hanli-jieying-luoyunzong — 凡人修仙传 第636-641章｜韩立结婴、加入落云宗与三十年之约 · kind=plot asOf=2026-06-14 entities=14 relations=16 src=00637-00642.md
+- **2026-06-14T20:41:22.155Z** `ingest` plot.fanren-ch642-dianfeng-peiyuan-gong — 凡人修仙传 第642章 颠凤培元功——韩立纳慕沛灵为妾、得魔道双修秘术、炼明清灵水修天眼术 · kind=plot asOf=2026-06-14 entities=36 relations=42 src=00643-00648.md
+- **2026-06-14T20:54:29.357Z** `ingest` plot.fanren-ch648-zhimu-lingying — 凡人修仙传 第648章 至木灵婴｜韩立以辟邪神雷凝网禁锢妖婴 · kind=plot asOf=2026-06-14 entities=42 relations=54 src=00649-00654.md
+- **2026-06-14T21:07:52.079Z** `ingest` plot.fanren-ch654-xuanmu-huaying-dafa — 第654章 玄牡化婴大法：韩立得第二元婴秘功，御灵宗失灵婴 · kind=plot asOf=2026-06-14 entities=57 relations=68 src=00655-00660.md
+- **2026-06-14T21:29:49.849Z** `ingest` plot.fanren-ch660-shijin-lingjian — 第660章 噬金灵剑——韩立返乡赠剑护韩家 · kind=plot asOf=2026-06-14 entities=63 relations=75 src=00661-00666.md
+- **2026-06-14T21:42:49.425Z** `ingest` plot.fanren-ch666-liuyu — 第666章 柳玉——御灵宗追踪韩立，揭至木灵婴秘辛 · kind=plot asOf=2026-06-14 entities=44 relations=57 src=00667-00672.md
+- **2026-06-14T21:45:17.144Z** `ingest` plot.fanren-672-676-tiantian-exchange-meeting — 凡人修仙传 第672-676章｜南陇侯强行交易·阗天城元婴交换会 · kind=plot asOf=2026-06-14 entities=20 relations=18 src=00673-00678.md
+- **2026-06-14T21:53:36.004Z** `ingest` plot.fanren-679-684-hunshi-canfu-tiantiancheng — 第679-684章 魂石交易与残符相认（阗天城·落云宗长老韩立） · kind=plot asOf=2026-06-14 entities=41 relations=48 src=00679-00684.md
+- **2026-06-14T22:12:35.883Z** `ingest` plot.fanren-685-690-cangkun-yibao-mulan-caoyuan — 凡人修仙传 第685-690章｜苍坤遗宝与慕兰草原寻宝之行 · kind=plot asOf=2026-06-14 entities=54 relations=55 src=00685-00690.md
+- **2026-06-14T22:20:41.441Z** `ingest` plot.fanren-ch691-696-bingjing-heifeng-zaiju — 凡人修仙传 第691-696章：冰晶与黑峰·冰封·再聚 · kind=plot asOf=2026-06-14 entities=34 relations=43 src=00691-00696.md
+- **2026-06-14T22:38:16.853Z** `ingest` plot.fanren-ch696-poji-yuji-pavilion-scroll — 凡人修仙传 第696章 破禁与卷轴：韩立破上古禁制，玉矶阁现宝 · kind=plot asOf=2026-06-14 entities=46 relations=69 src=00697-00702.md
+- **2026-06-15T00:21:07.732Z** `ingest` plot.fanren-398-jiedan-yu-fabao — 凡人修仙传 第398章 结丹与法宝：韩立金丹大成 · kind=plot asOf=2026-06-15 entities=44 relations=58 src=00397-00402.md
+- **2026-06-15T00:56:43.650Z** `ingest` plot.fanren-421-426-qixialian-yaoguanshe — 七霞莲圈套与妖冠蛇——封灵柱古修洞府之险 · kind=plot asOf=2026-06-15 entities=39 relations=37 src=00421-00426.md
+- **2026-06-15T01:52:53.289Z** `ingest` plot.fanren-ch493-huazhou-zhimi — 凡人修仙传 第493章 画轴之谜 · kind=plot asOf=2026-06-15 entities=44 relations=49 src=00493-00498.md
+- **2026-06-15T02:06:15.445Z** `ingest` plot.fanren-ch702-lianying-zhuimoguanthrough — 第702章 炼婴：鬼灵门追杀南陇侯，韩立秘术伤敌、尤姓修士元婴被蓝冰炼化 · kind=plot asOf=2026-06-15 entities=63 relations=68 src=00703-00708.md
+- **2026-06-15T02:08:50.402Z** `ingest` plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan — 凡人修仙传 第709-714章｜韩立化形潜入掩月宗，与南宫婉重逢并设伏师姐 · kind=plot asOf=2026-06-15 entities=22 relations=29 src=00709-00714.md
+- **2026-06-15T02:26:43.496Z** `ingest` plot.fanren-ch714-luori-dian-shipo-yu-fuji — 凡人修仙传 第714章 识破与伏击——南宫婉洞府反杀掩月宗大长老 · kind=plot asOf=2026-06-15 entities=54 relations=72 src=00715-00720.md
+- **2026-06-15T02:35:06.616Z** `ingest` plot.fanren-721-726-dianyi-linghu-zhiyao — 凡人修仙传 第721-726章｜九国盟殿议慕兰异变 & 令狐老祖三宝相邀 · kind=plot asOf=2026-06-15 entities=46 relations=49 src=00721-00726.md
+- **2026-06-15T02:43:39.816Z** `ingest` plot.fanren-727-732-huanglongshan-yingning-ziluojihuo — 凡人修仙传 第727-732章｜黄龙山御敌·重逢李缨宁·紫罗极火 · kind=plot asOf=2026-06-15 entities=52 relations=62 src=00727-00732.md
+- **2026-06-15T02:52:00.105Z** `ingest` plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy — 第733-738章 黄龙山揭奸细：韩立诛慕兰内应谷双蒲 · kind=plot asOf=2026-06-15 entities=38 relations=43 src=00733-00738.md
+- **2026-06-15T03:00:06.960Z** `ingest` plot.fanren-ch739-744-pozhen-dazhan-4-5-6 — 凡人修仙传 第739-744章 破阵大战（四）（五）（六）｜韩立力战慕兰绿衫女子 · kind=plot asOf=2026-06-15 entities=35 relations=43 src=00739-00744.md
+- **2026-06-15T03:06:41.909Z** `ingest` plot.fanren-745-750-huigui-tiaojian — 凡人修仙传 第745-750章：回归·义妹·条件 · kind=plot asOf=2026-06-15 entities=0 relations=0 src=00745-00750.md
+- **2026-06-15T03:18:50.482Z** `ingest` plot.fanren-751-756-huayan-leizhu-yunlu-laomo — 第751-756章 化焰·雷珠·云露老魔 · kind=plot asOf=2026-06-15 entities=58 relations=61 src=00751-00756.md
+- **2026-06-15T03:26:48.426Z** `ingest` plot.fanren-757-762-gengjing-jiangling-fu — 凡人修仙传 第757-762章｜换取庚精、玄天仙藤与降灵符炼制 · kind=plot asOf=2026-06-15 entities=46 relations=49 src=00757-00762.md
+- **2026-06-15T03:34:19.311Z** `ingest` plot.fanren-763-768-border-war-gamble-battle — 凡人修仙传 第763-768章｜边界之战开端与赌战布局 · kind=plot asOf=2026-06-15 entities=30 relations=29 src=00763-00768.md
+- **2026-06-15T03:47:18.161Z** `ingest` plot.fanren-769-774-border-war-6-8 — 凡人修仙传 第769-774章 边界之战(六)(七)(八) · kind=plot asOf=2026-06-15 entities=46 relations=59 src=00769-00774.md
+- **2026-06-15T03:50:06.928Z** `ingest` plot.fanren-775-780-border-war-end-yuanming-lamp — 凡人修仙传 第775-780章｜边界大战收尾：夺元明灯、灭阴罗宗主伴侣、突兀人插手停战 · kind=plot asOf=2026-06-15 entities=28 relations=26 src=00775-00780.md
+- **2026-06-15T03:58:16.736Z** `ingest` plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng — 凡人修仙传 第781-786章｜南宫惊变·密室炼剑·剑阵初成 · kind=plot asOf=2026-06-15 entities=31 relations=40 src=00781-00786.md
+- **2026-06-15T04:28:54.662Z** `ingest` plot.fanren-404-guiju-miaoyin-vs-yinshamen — 第404章 诡局——妙音门误袭隐煞门，双方同中圈套 · kind=plot asOf=2026-06-15 entities=52 relations=60 src=00403-00408.md
+- **2026-06-15T04:53:25.620Z** `ingest` plot.fanren-ch474-xutiandian-inner-hall-layer2 — 第474章 二层：魔道一行闯虚天殿内殿第二层，破蛇卫傀儡 · kind=plot asOf=2026-06-15 entities=50 relations=70 src=00475-00480.md
+- **2026-06-15T05:30:32.557Z** `ingest` plot.fanren-787-792-tunmo-jigui-jixizhidi — 凡人修仙传 第787-792章｜吞魔啖鬼·路遇·极西之地 · kind=plot asOf=2026-06-15 entities=44 relations=54 src=00787-00792.md
+- **2026-06-15T05:43:18.566Z** `ingest` plot.fanren-793-798-zhuimo-zhi-di — 第793-798章 坠魔之地·韩立回归·大衍神君 · kind=plot asOf=2026-06-15 entities=49 relations=55 src=00793-00798.md
+- **2026-06-15T05:51:36.905Z** `ingest` plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo — 凡人修仙传 第799-804章｜结丹级傀儡·寻觅·谷现 · kind=plot asOf=2026-06-15 entities=46 relations=48 src=00799-00804.md
+- **2026-06-15T05:59:16.482Z** `ingest` plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path — 凡人修仙传 第805-810章｜坠魔谷外谷历险与内谷之路 · kind=plot asOf=2026-06-15 entities=38 relations=43 src=00805-00810.md
+- **2026-06-15T06:11:29.152Z** `ingest` plot.fanren-ch811-gang-yin-sha — 第811章 罡银沙——坠魔谷罡银沙矿脉与噬金虫采矿 · kind=plot asOf=2026-06-15 entities=43 relations=50 src=00811-00816.md
+- **2026-06-15T06:28:36.631Z** `ingest` plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai — 凡人修仙传 第817-822章｜斩火蟾兽·古修遗骸分宝 · kind=plot asOf=2026-06-15 entities=45 relations=68 src=00817-00822.md
+- **2026-06-15T06:43:46.955Z** `ingest` plot.fanren-937-942-tianjifu-jiezi-space — 凡人修仙传 第937-942章｜天机阁交易·天机府与芥子空间·地下交易会 · kind=plot asOf=2026-06-15 entities=38 relations=45 src=00937-00942.md
+- **2026-06-15T07:10:25.977Z** `ingest` plot.fanren-ch1033-poyzhen-yu-tuokun — 凡人修仙传 第1033章 破阵与脱困 · kind=plot asOf=2026-06-15 entities=64 relations=67 src=01033-01038.md
+- **2026-06-15T07:29:08.242Z** `ingest` plot.fanren-1039-hei-feng-qi — 第1039章 黑风旗——元刹圣祖催动通天灵宝，珑梦凭九真伏魔阵周旋 · kind=plot asOf=2026-06-15 entities=43 relations=55 src=01039-01044.md
+- **2026-06-15T07:43:01.618Z** `ingest` plot.fanren-1045-1050-tunying-xueren-poqiang — 凡人修仙传 第1045-1050章：元刹吞婴、血刃再现与破壁突变 · kind=plot asOf=2026-06-15 entities=48 relations=64 src=01045-01050.md
+- **2026-06-15T08:15:45.628Z** `ingest` plot.fanren-ch1057-sanbao-lianshou — 第1057章 三宝联手——平山印、赤鸣鼓、三焰扇合击古魔圣祖分神 · kind=plot asOf=2026-06-15 entities=54 relations=62 src=01057-01062.md
+- **2026-06-15T08:50:19.811Z** `ingest` plot.fanren-1069-soul-devour-longmeng-awaken — 凡人修仙传 第1069章 灵魂吞噬——银月吞噬元刹圣祖分神，珑梦神念主导现身 · kind=plot asOf=2026-06-15 entities=73 relations=78 src=01069-01074.md
+- **2026-06-15T08:59:02.708Z** `ingest` plot.fanren-1075-1080-beiming-island-xiaoji-palace — 第1075-1080章：韩立出关赴北冥岛，造访北地第一宗小极宫 · kind=plot asOf=2026-06-15 entities=35 relations=42 src=01075-01080.md
+- **2026-06-15T09:07:09.484Z** `ingest` plot.fanren-1081-1086-xiaoji-gong-bingling-hua — 凡人修仙传 第1081-1086章：小极宫借焰之约·冰海采玄冰花擒冰狞兽 · kind=plot asOf=2026-06-15 entities=39 relations=42 src=01081-01086.md
+- **2026-06-15T09:30:07.049Z** `ingest` plot.fanren-1088-bingpo-hanlie-zhen — 凡人修仙传 第1088章 冰魄寒烈阵——五人持极寒之焰深入虚灵殿 · kind=plot asOf=2026-06-15 entities=55 relations=64 src=01087-01092.md
+- **2026-06-15T09:38:32.830Z** `ingest` plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui — 凡人修仙传 第1093-1098章｜五焰洗髓助寒骊上人冲化神 & 万妖谷围攻小极宫 · kind=plot asOf=2026-06-15 entities=39 relations=50 src=01093-01098.md
+- **2026-06-15T09:47:06.198Z** `ingest` plot.fanren-1099-1104-xuanyu-cave-battle — 凡人修仙传 第1099-1104章｜玄玉洞激战：韩立力压小极宫双修 · kind=plot asOf=2026-06-15 entities=41 relations=50 src=01099-01104.md
+- **2026-06-15T10:22:05.351Z** `ingest` plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji — 凡人修仙传 第1117-1122章｜黄泉鬼母·传送之战·重返虚天故地 · kind=plot asOf=2026-06-15 entities=45 relations=47 src=01117-01122.md
+- **2026-06-15T10:30:15.548Z** `ingest` plot.fanren-ch1123-1128-houqi-chucheng — 凡人修仙传 第1123-1128章：韩立后期初成、脱困虚天殿、苦门岛黄沙门 · kind=plot asOf=2026-06-15 entities=38 relations=45 src=01123-01128.md
+- **2026-06-15T10:42:29.466Z** `ingest` plot.fanren-1131-jidan — 第1131章 忌惮：韩立与天星双圣温青的星宫对峙 · kind=plot asOf=2026-06-15 entities=32 relations=44 src=01129-01134.md
+- **2026-06-15T10:50:10.478Z** `ingest` plot.fanren-1135-1140-qingyu-leikongdao — 凡人修仙传 第1135-1140章：青羽·雷空岛·神念附灵 · kind=plot asOf=2026-06-15 entities=29 relations=38 src=01135-01140.md
+- **2026-06-15T10:58:17.930Z** `ingest` plot.fanren-1141-1146-capture-jiyin-zushi — 凡人修仙传 第1141-1146章｜阴煞血尸·再见极阴·擒魔 · kind=plot asOf=2026-06-15 entities=31 relations=34 src=01141-01146.md
+- **2026-06-15T11:10:08.020Z** `ingest` plot.fanren-ch1149-jinjiao-xiongyan — 凡人修仙传 第1149章 金蛟凶焰：金蛟王击杀清瘦老者，韩立潜伏险被察觉 · kind=plot asOf=2026-06-15 entities=37 relations=48 src=01147-01152.md
+- **2026-06-15T11:28:21.315Z** `ingest` plot.fanren-1155-yaoshou-zhi-luan — 凡人修仙传 第1155章 妖兽之乱 · kind=plot asOf=2026-06-15 entities=56 relations=75 src=01153-01158.md
+- **2026-06-15T11:41:39.859Z** `ingest` plot.fanren-1161-kunpeng-zhi-yu — 凡人修仙传 第1161章 鲲鹏之羽——天澜圣兽吐露来历与改炼风雷翅之议 · kind=plot asOf=2026-06-15 entities=58 relations=65 src=01159-01164.md
+- **2026-06-15T11:44:31.875Z** `ingest` plot.fanren-1167-1172-return-luoyunzong — 凡人修仙传 第1167-1172章｜前世今生·回宗压服两宗·坠魔谷被擒 · kind=plot asOf=2026-06-15 entities=29 relations=29 src=01165-01170.md
+- **2026-06-15T11:57:51.708Z** `ingest` plot.fanren-1173-second-yuanying-tiansha-moshi — 第1173章 第二元婴附身天煞魔尸、生擒慕沛灵三女 · kind=plot asOf=2026-06-15 entities=54 relations=65 src=01171-01176.md
+- **2026-06-15T13:16:27.512Z** `ingest` plot.fanren-823-828-xuezhou-jiejin-zhuimogu — 凡人修仙传 第823-828章｜血咒解禁·小须弥金刚阵·坠魔谷汇合 · kind=plot asOf=2026-06-15 entities=40 relations=48 src=00823-00828.md
+- **2026-06-15T13:29:24.830Z** `ingest` plot.fanren-ch829-yuanbo-duoshe-mo-dong — 凡人修仙传 第829章 魔动｜圆钵封印崩裂·南陇侯遭圣界之物夺舍 · kind=plot asOf=2026-06-15 entities=41 relations=50 src=00829-00834.md
+- **2026-06-15T13:46:31.578Z** `ingest` plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan — 凡人修仙传 第835-840章｜古魔魔躯·解体化形与韩立服造化丹 · kind=plot asOf=2026-06-15 entities=39 relations=55 src=00835-00840.md
+- **2026-06-15T14:00:34.744Z** `ingest` plot.fanren-841-lianshou-kangmo — 凡人修仙传 第841章 联手抗魔——韩立、令狐老祖等围攻夺舍南陇侯之古魔 · kind=plot asOf=2026-06-15 entities=40 relations=49 src=00841-00846.md
+- **2026-06-15T14:13:06.198Z** `ingest` plot.fanren-847-852-mojian-zaixian-mowei-sinue — 凡人修仙传 第847-852章：魔剑再现·黑刃·魔威肆虐 · kind=plot asOf=2026-06-15 entities=33 relations=42 src=00847-00852.md
+- **2026-06-15T14:26:36.671Z** `ingest` plot.fanren-853-858-jiangyundan-xuepowan-tuoshen — 凡人修仙传 第853-858章｜绛云丹与雪魄丸·滞留灵缈园·脱身宁州 · kind=plot asOf=2026-06-15 entities=50 relations=52 src=00853-00858.md
+- **2026-06-15T14:38:52.908Z** `ingest` plot.fanren-859-864-weidan-tanyan-qinghan — 凡人修仙传 第859-864章｜喂丹·坦言·请函：韩立归宗、喂丹救南宫婉与培养慕沛灵 · kind=plot asOf=2026-06-15 entities=49 relations=56 src=00859-00864.md
+- **2026-06-15T14:47:28.575Z** `ingest` plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel — 凡人修仙传 第865-870章：至阳上人邀约七灵岛 & 韩立力压古剑门定云梦山第一宗 · kind=plot asOf=2026-06-15 entities=45 relations=50 src=00865-00870.md
+- **2026-06-15T15:00:04.974Z** `ingest` plot.fanren-871-876-tan-xuanwo-bu-zhenpan — 凡人修仙传 第871-876章｜探漩涡·魔气之渊·得灵岛 · kind=plot asOf=2026-06-15 entities=44 relations=60 src=00871-00876.md
+- **2026-06-15T23:46:14.752Z** `ingest` plot.fanren-877-882-canglu-bu-wugui-suoshen — 第877-882章 苍鹭部·五鬼锁神大法·无妄之灾 · kind=plot asOf=2026-06-15 entities=43 relations=51 src=00877-00882.md
+- **2026-06-15T23:54:19.749Z** `ingest` plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu — 凡人修仙传 第883-888章｜天澜草原救枫岳·苦毒之劫 · kind=plot asOf=2026-06-15 entities=28 relations=36 src=00883-00888.md
+- **2026-06-16T00:12:42.959Z** `ingest` plot.fanren-ch889-894-tianlan-jinyanshi — 凡人修仙传 第889-894章：天澜草原·金焰石与九仙宫之战 · kind=plot asOf=2026-06-16 entities=50 relations=65 src=00889-00894.md
+- **2026-06-16T00:26:16.736Z** `ingest` plot.fanren-ch895-jinpa-yincan — 凡人修仙传 第895章 锦帕银蚕——分虫诱敌与天澜圣女对决 · kind=plot asOf=2026-06-16 entities=41 relations=60 src=00895-00900.md
+- **2026-06-16T00:43:53.355Z** `ingest` plot.fanren-ch901-906-canwang-dahui-tianjiwu — 凡人修仙传 第901-906章｜参王大会·棺中人·天机屋 · kind=plot asOf=2026-06-16 entities=54 relations=58 src=00901-00906.md
+- **2026-06-16T00:52:06.703Z** `ingest` plot.fanren-907-912-huorongjing-jinghua-yaodan — 凡人修仙传 第907-912章：火熔晶·晶化妖丹与飞针·小城客栈寻冯家密窟 · kind=plot asOf=2026-06-16 entities=34 relations=37 src=00907-00912.md
+- **2026-06-16T01:00:58.378Z** `ingest` plot.fanren-913-918-xueling-huangsha-array — 凡人修仙传 第913-918章：雪岭黄沙阵，韩立一战惊魔 · kind=plot asOf=2026-06-16 entities=21 relations=24 src=00913-00918.md
+- **2026-06-16T01:08:34.373Z** `ingest` plot.fanren-919-924-ganjia-bailu-shuyuan — 凡人修仙传 第919-924章｜韩立投甘家、入白露书院与皇清观之邀 · kind=plot asOf=2026-06-16 entities=35 relations=37 src=00919-00924.md
+- **2026-06-16T01:21:22.472Z** `ingest` plot.fanren-ch925-dajin-huangzu — 凡人修仙传 第925章 大晋皇族 · kind=plot asOf=2026-06-16 entities=50 relations=57 src=00925-00930.md
+- **2026-06-16T01:29:15.311Z** `ingest` plot.fanren-931-936-anliu-jinjing-route — 凡人修仙传 第931-936章：暗流·赴晋京途遇曹梦容 · kind=plot asOf=2026-06-16 entities=43 relations=45 src=00931-00936.md
+- **2026-06-16T02:11:44.992Z** `ingest` plot.fanren-ch943-jinjing-extortion-backstab — 凡人修仙传 第943章 敲诈：韩立（化名厉师兄）在晋京反杀敲诈者 · kind=plot asOf=2026-06-16 entities=60 relations=74 src=00943-00948.md
+- **2026-06-16T02:23:47.082Z** `ingest` plot.fanren-ch949-miaoyin-baojing — 第949章 妙音宝镜——韩立避过阴罗宗搜捕，借传送阵赴地下交易会 · kind=plot asOf=2026-06-16 entities=59 relations=55 src=00949-00954.md
+- **2026-06-16T02:36:43.855Z** `ingest` plot.fanren-955-960-zaiyu-gumo-tianfumen — 凡人修仙传 第955-960章｜再遇古魔·魔焰滔滔·天符门 · kind=plot asOf=2026-06-16 entities=49 relations=57 src=00955-00960.md
+- **2026-06-16T02:49:21.346Z** `ingest` plot.ch961-966-tianfu-keqing-slay-fire-jiao — 第961-966章 受聘天符门客卿、屠蛟大会斩杀八级赤火蛟 · kind=plot asOf=2026-06-16 entities=36 relations=38 src=00961-00966.md
+- **2026-06-16T02:56:45.399Z** `ingest` plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua — 第967-972章：苦竹岛斗法夺乌凤翎、大衍神君坐化、收服土甲龙 · kind=plot asOf=2026-06-16 entities=22 relations=20 src=00967-00972.md
+- **2026-06-16T03:09:29.520Z** `ingest` plot.fanren-ch973-minghe-zhiye — 凡人修仙传 第973章 冥河之页——富姓老者邀闯阴阳窟 · kind=plot asOf=2026-06-16 entities=48 relations=55 src=00973-00978.md
+- **2026-06-16T03:18:06.723Z** `ingest` plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo — 凡人修仙传 第979-984章｜阴阳窟寻阴芝马·阴罗宗五子同心魔灭何家 · kind=plot asOf=2026-06-16 entities=41 relations=59 src=00979-00984.md
+- **2026-06-16T03:30:36.397Z** `ingest` plot.fanren-984-xie-yue-huan-jing — 凡人修仙传 第984章 邪月幻镜——困魔阵中战银翅夜叉 · kind=plot asOf=2026-06-16 entities=19 relations=20 src=00985-00990.md
+- **2026-06-16T03:38:45.082Z** `ingest` plot.fanren-ch991-996-kunwu-shan-peiying-dan — 凡人修仙传 第991-996章：紫雾·毒圣门·分丹（昆吾山出世） · kind=plot asOf=2026-06-16 entities=40 relations=46 src=00991-00996.md
+- **2026-06-16T03:46:05.814Z** `ingest` plot.fanren-997-1002-kunwu-shan-qian-laomo — 凡人修仙传 第997-1002章｜昆吾山幻阵脱困与乾老魔杀心大起 · kind=plot asOf=2026-06-16 entities=24 relations=22 src=00997-01002.md
+- **2026-06-16T03:59:21.565Z** `ingest` plot.fanren-1003-qunmo-yinxian — 凡人修仙传 第1003章 群魔隐现 · kind=plot asOf=2026-06-16 entities=60 relations=58 src=01003-01008.md
+- **2026-06-16T04:18:42.393Z** `ingest` plot.fanren-1009-yinpo-ningxing — 凡人修仙传 第1009章 阴魄凝形——铸灵堂得手、镇魔塔群鬼围困 · kind=plot asOf=2026-06-16 entities=66 relations=81 src=01009-01014.md
+- **2026-06-16T04:38:13.537Z** `ingest` plot.fanren-1015-jinci-lingmu — 凡人修仙传 第1015章 金磁灵木——韩立硬闯昆吾殿磁光禁制 · kind=plot asOf=2026-06-16 entities=61 relations=76 src=01015-01020.md
+- **2026-06-16T04:46:03.803Z** `ingest` plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo — 凡人修仙传 第1021-1026章｜阳环降伏玄岩龟圭灵，北极元光劫杀乾老魔 · kind=plot asOf=2026-06-16 entities=29 relations=29 src=01021-01026.md
+- **2026-06-16T04:59:45.090Z** `ingest` plot.fanren-1027-1032-tongtian-lingbao-fanshi — 凡人修仙传 第1027-1032章｜生擒乾老魔、魔头反噬与通天灵宝现世 · kind=plot asOf=2026-06-16 entities=48 relations=60 src=01027-01032.md
+- **2026-06-16T06:03:53.230Z** `ingest` plot.fanren-1063-xuanwo-heifengqi — 凡人修仙传 第1063章 漩涡——黑甲女子引爆黑风旗，众人争夺八灵尺 · kind=plot asOf=2026-06-16 entities=55 relations=67 src=01063-01068.md
+- **2026-06-16T06:12:07.136Z** `ingest` plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu — 凡人修仙传 第1105-1110章｜剑阵重现·夺宝·沉水与玄玉 · kind=plot asOf=2026-06-16 entities=33 relations=43 src=01105-01110.md
+- **2026-06-16T06:28:51.247Z** `ingest` plot.fanren-1113-yaoqi-chongtian — 第1113章 妖气冲天——韩立紫罗极火灭九级妖兽、直逼虚灵殿大殿 · kind=plot asOf=2026-06-16 entities=53 relations=63 src=01111-01116.md
+- **2026-06-16T06:37:19.361Z** `ingest` plot.fanren-1177-1182-xueyue-miling-rescue-three-women — 凡人修仙传 第1177-1182章｜血月觅灵·解救三女·重临七灵 · kind=plot asOf=2026-06-16 entities=36 relations=46 src=01177-01182.md
+- **2026-06-16T06:44:53.511Z** `ingest` plot.fanren-1183-1188-fuzhong-tonghua-dujie — 凡人修仙传 第1183-1188章：府中安排门人、同化第二元婴、护天澜圣兽度化形雷劫 · kind=plot asOf=2026-06-16 entities=35 relations=38 src=01183-01188.md
+- **2026-06-16T07:03:34.738Z** `ingest` plot.fanren-1190-huajiezhu-jifengjiubian — 第1190章 化界珠和疾风九变：天澜兽化形、金角炼宝与上界之路 · kind=plot asOf=2026-06-16 entities=62 relations=81 src=01189-01194.md
+- **2026-06-16T07:22:30.152Z** `ingest` plot.fanren-1196-er-nv — 凡人修仙传 第1196章 二女：菡云芝谢恩、董萱儿求度心魔 · kind=plot asOf=2026-06-16 entities=76 relations=96 src=01195-01200.md
+- **2026-06-16T07:30:46.574Z** `ingest` plot.fanren-1201-1206-xinggong-zhi-zhan-3-5 — 凡人修仙传 第1201-1206章 星宫之战（三~五） · kind=plot asOf=2026-06-16 entities=38 relations=49 src=01201-01206.md
+- **2026-06-16T08:34:32.069Z** `ingest` lore.fanren-1215-linggen-wuxing-heyi — 凡人修仙传 第1215章｜灵根与五行合一·灵界修炼体系与天劫 · kind=lore asOf=2026-06-16 entities=50 relations=59 src=01213-01218.md
+- **2026-06-16T08:46:38.214Z** `ingest` plot.fanren-1219-1224-author-note-vote-request — 凡人修仙传 第1219-1224章｜作者求月票感言（无正文剧情） · kind=plot asOf=2026-06-16 entities=54 relations=60 src=01219-01224.md
+- **2026-06-16T08:58:55.925Z** `ingest` plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu — 凡人修仙传 第1225-1230章｜天机阁斗元智、半途截杀阴罗宗宗主 · kind=plot asOf=2026-06-16 entities=41 relations=47 src=01225-01230.md
+- **2026-06-16T09:06:56.139Z** `ingest` plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan — 凡人修仙传 第1231-1236章｜韩立与化神老怪化敌为友，结盟探查空间节点，赴魔陀山 · kind=plot asOf=2026-06-16 entities=31 relations=40 src=01231-01236.md
+- **2026-06-16T09:15:15.487Z** `ingest` plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike — 凡人修仙传 第1237-1242章｜寒髓换紫灵·硬接呼老魔一击 · kind=plot asOf=2026-06-16 entities=36 relations=45 src=01237-01242.md
+- **2026-06-16T09:33:28.481Z** `ingest` plot.fanren-1245-sun-essence-fire-appears — 凡人修仙传 第1245章 精火现——韩立熔岩诱捕太阳精火 · kind=plot asOf=2026-06-16 entities=55 relations=66 src=01243-01248.md
+- **2026-06-16T09:47:06.288Z** `ingest` plot.fanren-1249-1254-han-li-advances-to-huashen — 凡人修仙传 第1249-1254章｜力压二妖·淬骨决·进阶化神 · kind=plot asOf=2026-06-16 entities=61 relations=70 src=01249-01254.md
+- **2026-06-16T09:55:48.473Z** `ingest` plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao — 凡人修仙传 第1255-1260章｜联手之仪 · 纵掠天下 · 回岛 · kind=plot asOf=2026-06-16 entities=37 relations=40 src=01255-01260.md
+- **2026-06-16T10:03:55.843Z** `ingest` plot.fanren-1261-1266-blood-curse-tiandong — 凡人修仙传 第1261-1266章：初入灵界·血咒文书与天东商号 · kind=plot asOf=2026-06-16 entities=44 relations=42 src=01261-01266.md
+- **2026-06-16T10:12:05.368Z** `ingest` plot.fanren-1267-1272-anyuan-city-shoujao — 凡人修仙传 第1267-1272章｜初入灵界·安远城与地蛟筋 · kind=plot asOf=2026-06-16 entities=33 relations=34 src=01267-01272.md
+- **2026-06-16T10:20:06.472Z** `ingest` plot.fanren-1273-1278-anyuan-beast-tide — 凡人修仙传 第1273-1278章｜初入灵界·安远城狂兽之潮 · kind=plot asOf=2026-06-16 entities=36 relations=34 src=01273-01278.md
+- **2026-06-16T10:33:15.865Z** `ingest` plot.fanren-1279-1284-anyuan-city-beast-tide-falls — 凡人修仙传 第1279-1284章｜安远城破·救女童黛儿·天东商号招揽韩立 · kind=plot asOf=2026-06-16 entities=39 relations=42 src=01279-01284.md
+- **2026-06-16T10:51:11.218Z** `ingest` plot.fanren-1287-chuancheng-zhu — 凡人修仙传 第1287章 传承珠——韩立以灭仙珠震慑黑凤族化神妖修，黛儿随族而去 · kind=plot asOf=2026-06-16 entities=49 relations=56 src=01285-01290.md
+- **2026-06-16T11:04:31.954Z** `ingest` plot.fanren-1293-yinxinshi-tianxindan — 凡人修仙传 第1293章 银芯石与天心丹｜韩立购材入落日之墓 · kind=plot asOf=2026-06-16 entities=53 relations=56 src=01291-01296.md
+- **2026-06-16T11:26:21.186Z** `ingest` plot.fanren-1299-shiyan-takeover — 凡人修仙传 第1299章 噬炎——韩立躯体遭灵族噬炎夺舍，潜入混沌谷 · kind=plot asOf=2026-06-16 entities=62 relations=80 src=01297-01302.md
+- **2026-06-16T11:47:43.630Z** `ingest` plot.fanren-1305-battle-of-the-giant-hundun-valley — 第1305章 巨人之战：混沌谷围杀独目巨人 · kind=plot asOf=2026-06-16 entities=54 relations=67 src=01303-01308.md
+- **2026-06-16T11:55:47.608Z** `ingest` plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng — 第1309-1314章 金庭舟与天渊卫：韩立飞升后初入天渊城 · kind=plot asOf=2026-06-16 entities=34 relations=40 src=01309-01314.md
+- **2026-06-16T12:14:21.239Z** `ingest` plot.fanren-1317-tianyuan-cheng-spirit-land-plot — 凡人修仙传 第1317章 莫名麻烦——天渊城灵地争夺战的杀机 · kind=plot asOf=2026-06-16 entities=52 relations=75 src=01315-01320.md
+- **2026-06-16T12:27:09.011Z** `ingest` plot.fanren-1323-xuantian-fruit — 凡人修仙传 第1323章 玄天果实——啼魂进化成茧·韩立研究玄天仙藤果实 · kind=plot asOf=2026-06-16 entities=36 relations=43 src=01321-01326.md
+- **2026-06-16T12:39:22.170Z** `ingest` plot.fanren-1327-1332-tianyuan-fangshi — 凡人修仙传 第1327-1332章｜天渊坊市与太玄殿暗市交易 · kind=plot asOf=2026-06-16 entities=32 relations=29 src=01327-01332.md
+- **2026-06-16T12:56:40.070Z** `ingest` plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales — 凡人修仙传 第1333-1338章：天渊城坊市拍卖会·墨麒麟真灵鳞片登场 · kind=plot asOf=2026-06-16 entities=53 relations=62 src=01333-01338.md
+- **2026-06-16T13:09:39.640Z** `ingest` plot.fanren-1341-leipao-xianshi — 凡人修仙传 第1341章 雷袍现世 · kind=plot asOf=2026-06-16 entities=40 relations=51 src=01339-01344.md
+- **2026-06-16T13:17:18.056Z** `ingest` plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying — 凡人修仙传 第1345-1350章｜百脉炼宝决·定修梵圣真魔功·擒杀绿影 · kind=plot asOf=2026-06-16 entities=32 relations=35 src=01345-01350.md
+- **2026-06-16T14:02:15.503Z** `ingest` plot.fanren-1353-ling-chong-da-cheng — 第1353章 灵虫大成：天渊城危险任务发布，韩立祭炼噬金虫成熟体后隐遁接秘任 · kind=plot asOf=2026-06-16 entities=64 relations=96 src=01351-01356.md
+- **2026-06-16T14:14:43.156Z** `ingest` plot.fanren-ch1359-shuanghuang-appears — 凡人修仙传 第1359章 双皇现：蛮荒界遇玄武天妙、灵云舟被毁 · kind=plot asOf=2026-06-16 entities=44 relations=55 src=01357-01362.md
+- **2026-06-16T14:23:28.016Z** `ingest` plot.fanren-1363-1368-ying-clan-mirage-city — 凡人修仙传 第1363-1368章｜影族幻城蜃兽设伏，韩立沙漠激战赤影 · kind=plot asOf=2026-06-16 entities=40 relations=50 src=01363-01368.md
+- **2026-06-16T14:31:24.869Z** `ingest` plot.fanren-1369-1374-heiye-senlin-muzu — 第1369-1374章 黑叶森林夺玉简与木族围杀 · kind=plot asOf=2026-06-16 entities=33 relations=46 src=01369-01374.md
+- **2026-06-16T14:43:54.511Z** `ingest` plot.fanren-1377-zhenlong-zhipo-vs-tianfeng — 凡人修仙传 第1377章 真灵之魄——天凤之魄对战真龙之魄 · kind=plot asOf=2026-06-16 entities=38 relations=50 src=01375-01380.md
+- **2026-06-16T14:51:31.448Z** `ingest` plot.fanren-1381-1386-zhenling-xie-muling-zhizhan — 凡人修仙传 第1381-1386章｜真灵血交易与木灵之战 · kind=plot asOf=2026-06-16 entities=27 relations=24 src=01381-01386.md
+- **2026-06-16T14:59:17.741Z** `ingest` plot.fanren-1387-1392-julji-tushan-zhentu — 凡人修仙传 第1387-1392章｜蛮荒界聚众图谋碧眼真蟾 · kind=plot asOf=2026-06-16 entities=34 relations=33 src=01387-01392.md
+- **2026-06-16T15:11:49.322Z** `ingest` plot.fanren-1393-1398-yecha-wang-changnu — 凡人修仙传 第1393-1398章｜夜叉王设赌·猖奴追杀 · kind=plot asOf=2026-06-16 entities=39 relations=43 src=01393-01398.md
+- **2026-06-16T15:24:46.733Z** `ingest` plot.fanren-1401-black-mist-sea — 凡人修仙传 第1401章 黑色雾海｜韩立探巨岛、遇黑雾、取碧眼真蟾灵血 · kind=plot asOf=2026-06-16 entities=45 relations=50 src=01399-01404.md
+- **2026-06-16T15:42:40.295Z** `ingest` plot.fanren-1407-jinsui-lianti — 凡人修仙传 第1407章 金髓炼体——韩立以木玲花换金髓晶虫、金母珊瑚砂 · kind=plot asOf=2026-06-16 entities=40 relations=53 src=01405-01410.md
+- **2026-06-16T15:50:19.296Z** `ingest` plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta — 凡人修仙传 第1411-1416章｜韩立潜入天鹏族圣城·封灵塔引动鲲鹏圣灵·大长老识破身份 · kind=plot asOf=2026-06-16 entities=32 relations=37 src=01411-01416.md
+- **2026-06-16T15:57:46.978Z** `ingest` plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian — 凡人修仙传 第1417-1422章｜鲲鹏舍利与天鹏之誓·惊蛰十二变 · kind=plot asOf=2026-06-16 entities=39 relations=39 src=01417-01422.md
+- **2026-06-16T16:12:01.695Z** `ingest` plot.fanren-1423-1428-jiangshou-yinleizhu-jidan — 凡人修仙传 第1423-1428章：降伏雷兽、引雷珠暗算与忌惮——韩立逼鱼姓店主交出青罗果核 · kind=plot asOf=2026-06-16 entities=49 relations=67 src=01423-01428.md
+- **2026-06-16T16:20:08.491Z** `ingest` plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan — 凡人修仙传 第1429-1434章：祝音子·较技场试探 · kind=plot asOf=2026-06-16 entities=36 relations=45 src=01429-01434.md
+- **2026-06-16T16:33:50.787Z** `ingest` plot.fanren-1438-yin-zhu-feng — 凡人修仙传 第1438章 阴蛛蜂——韩立三人深入地渊一层，灭妖蜂、斩巨灵花 · kind=plot asOf=2026-06-16 entities=41 relations=54 src=01435-01440.md
+- **2026-06-16T16:41:24.044Z** `ingest` plot.fanren-ch1441-1446-bingsha-wanteng — 凡人修仙传 第1441-1446章｜地渊试炼·霹雳灭黄风、冰煞之地与万藤道 · kind=plot asOf=2026-06-16 entities=21 relations=22 src=01441-01446.md
+- **2026-06-16T16:49:29.825Z** `ingest` plot.fanren-1447-1452-blood-puppets-and-pet-advance — 凡人修仙传 第1447-1452章｜血傀儡、豹麟兽进阶化神、地血借血蛟 · kind=plot asOf=2026-06-16 entities=37 relations=41 src=01447-01452.md
+- **2026-06-16T17:08:36.132Z** `ingest` plot.fanren-1457-taodun-didi-escape — 第1457章 逃遁——韩立携天鹏族圣子逃离地渊，遭妖王级黑影女子追杀 · kind=plot asOf=2026-06-16 entities=44 relations=61 src=01453-01458.md
+- **2026-06-16T17:21:15.585Z** `ingest` plot.fanren-1463-mujing-cave — 凡人修仙传 第1463章 木精洞——辟邪神雷真相与第二次雷劫 · kind=plot asOf=2026-06-16 entities=37 relations=48 src=01459-01464.md
+- **2026-06-16T17:35:43.519Z** `ingest` plot.fanren-1471-1476-jingkongmo-minghe-pojin — 第1471-1476章 惊空魔撕空·联手破冥河禁制 · kind=plot asOf=2026-06-16 entities=29 relations=37 src=01471-01476.md
+- **2026-06-16T17:48:19.609Z** `ingest` plot.fanren-1480-bai-ying — 凡人修仙传 第1480章 白影：韩立护元瑶妍丽出鬼雾，遭分身白影围困 · kind=plot asOf=2026-06-16 entities=30 relations=43 src=01477-01482.md
+- **2026-06-16T18:05:43.424Z** `ingest` plot.fanren-1486-yinshui-kuijing-wulong-zha — 凡人修仙传 第1486章 阴水葵精与五龙铡 · kind=plot asOf=2026-06-16 entities=36 relations=48 src=01483-01488.md
+- **2026-06-16T18:22:13.603Z** `ingest` plot.fanren-1489-1494-dazhan-minglei-shou — 凡人修仙传 第1489-1494章：大战冥雷兽与潜入神池之地 · kind=plot asOf=2026-06-16 entities=36 relations=56 src=01489-01494.md
+- **2026-06-16T18:30:11.282Z** `ingest` plot.fanren-1495-1500-xutian-rescue-melee — 凡人修仙传 第1495-1500章｜虚天殿混战：韩立趁妖王围攻金甲傀儡夺人脱身 · kind=plot asOf=2026-06-16 entities=29 relations=40 src=01495-01500.md
+- **2026-06-16T18:53:56.523Z** `ingest` plot.fanren-1504-cuijing-zhuan — 凡人修仙传 第1504章 淬晶砖——拔除木青印记与六足争神乳 · kind=plot asOf=2026-06-16 entities=56 relations=85 src=01501-01506.md
+- **2026-06-16T18:56:38.044Z** `ingest` plot.fanren-1510-1515-minghe-qingyuanzi — 凡人修仙传 第1510-1515章｜罗睺之谜·玉台·半个青元子 · kind=plot asOf=2026-06-16 entities=0 relations=0 src=01507-01512.md
+- **2026-06-16T19:14:17.622Z** `ingest` plot.fanren-1516-bamboo-leaves — 凡人修仙传 第1516章 竹叶——金雷竹叶换剑诀，冥河神乳之约 · kind=plot asOf=2026-06-16 entities=60 relations=69 src=01513-01518.md
+- **2026-06-16T19:22:06.996Z** `ingest` plot.fanren-1519-1524-zhongjian-jinjie-lianxu — 凡人修仙传 第1519-1524章：种剑、进阶炼虚与重祭元磁神山 · kind=plot asOf=2026-06-16 entities=39 relations=38 src=01519-01524.md
+- **2026-06-16T19:30:04.480Z** `ingest` plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian — 凡人修仙传 第1525-1530章｜九幽冥尸现世与青竹蜂云剑重炼 · kind=plot asOf=2026-06-16 entities=28 relations=38 src=01525-01530.md
+- **2026-06-16T19:37:10.243Z** `ingest` plot.fanren-1531-1536-escape-snakemen-huoyang — 凡人修仙传 第1531-1536章｜大难逃脱·蛇人·火阳族 · kind=plot asOf=2026-06-16 entities=20 relations=19 src=01531-01536.md
+- **2026-06-17T02:59:11.041Z** `ingest` plot.fanren-1903-1908-yitian-zhi-zhan-8-10 — 凡人修仙传 第1903-1908章 倚天之战（八～十）｜韩立闯七色宝塔、阴阳二刹美妇偷袭授首 · kind=plot asOf=2026-06-17 entities=38 relations=43 src=01903-01908.md
+- **2026-06-17T03:11:34.418Z** `ingest` plot.fanren-1923-blood-saint-descends — 第1923章 血腥魔影——魔族圣祖接体降临，韩立鲲鹏遁走 · kind=plot asOf=2026-06-17 entities=33 relations=40 src=01909-01914.md
+- **2026-06-17T03:14:10.992Z** `ingest` plot.fanren-1929-1934-blood-saint-clones-battle — 凡人修仙传 第1929-1934章｜韩立力战血光圣祖三化身、镇压玄天残宝 · kind=plot asOf=2026-06-17 entities=16 relations=18 src=01915-01920.md
+- **2026-06-17T03:26:19.887Z** `ingest` plot.fanren-1935-fei-cheng-zi-yan-ding — 第十卷 第1935章 废城——逼退血光圣祖三化身、夺炼紫言鼎 · kind=plot asOf=2026-06-17 entities=42 relations=56 src=01921-01926.md

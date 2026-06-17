@@ -1,0 +1,183 @@
+{
+  "id": "ent.beast.x-f6e51060",
+  "type": "beast",
+  "name": "天澜兽",
+  "aliases": [
+    "澜道友",
+    "天澜道友",
+    "鼎中男童",
+    "牛首蛟首圣兽",
+    "黄衣小童",
+    "天澜兽童子"
+  ],
+  "summary": "传说中的守护神兽，突兀人世代信奉。",
+  "attributes": {
+    "栖息地": "人界",
+    "等级": "经历十一波化形雷劫",
+    "外形": "数尺高童子",
+    "种族": "天澜兽",
+    "主人": "韩立",
+    "能力": "参悟符箓之道；灵界本体后手"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "天澜草原（传说）",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "虚天鼎内",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189,
+        "note": "降分神避大劫"
+      }
+    ],
+    "等级": [
+      {
+        "value": "八级（未历化形雷劫）",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "经历十一波化形雷劫",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "外形": [
+      {
+        "value": "尺许高白胖男童",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159,
+        "note": "借虚天鼎灵气幻化"
+      },
+      {
+        "value": "牛首蛟首、牛角剔透如水晶",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "唇红齿白黄衣小童",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189,
+        "note": "化形人身；本体为妖兽"
+      },
+      {
+        "value": "化形童子",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "数尺高童子",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ],
+    "种族": [
+      {
+        "value": "圣兽",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "天澜兽",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ],
+    "主人": [
+      {
+        "value": "天澜圣女",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243,
+        "note": "原为虚天鼎器灵，本卷脱离虚天鼎获自由"
+      }
+    ],
+    "能力": [
+      {
+        "value": "辨认真伪",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "化形人身、通晓灵界天材地宝与功法",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "参悟符箓之道；灵界本体后手",
+        "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189,
+      "note": "降分神避大劫"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "dated": false,
+      "seq": 1255
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "dated": false,
+      "seq": 1255
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243,
+      "note": "原为虚天鼎器灵，本卷脱离虚天鼎获自由"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "dated": false,
+      "seq": 1255
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+  ],
+  "updatedAt": "2026-06-16T09:55:48.343Z"
+}

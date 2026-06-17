@@ -1,0 +1,95 @@
+{
+  "id": "ent.spell.x-68f3470c",
+  "type": "spell",
+  "name": "青阳魔火",
+  "aliases": [
+    "青色魔火",
+    "青色火焰"
+  ],
+  "summary": "魔焰门狂焰修士借金乌烈阳大旗群体作法放出的青色魔火，威力惊人，吕天蒙极为忌惮。",
+  "attributes": {
+    "类型": "魔火/火系、真火/魔火、魔火",
+    "出处": "魔焰门狂焰修士、青阳魔火决",
+    "威力": "极强(法器道术皆被消融)",
+    "消耗": "释放须降低自身修为"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "魔火/火系",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "真火/魔火",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "魔火",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ],
+    "出处": [
+      {
+        "value": "魔焰门狂焰修士",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "青阳魔火决",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "威力": [
+      {
+        "value": "极强(法器道术皆被消融)",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "消耗": [
+      {
+        "value": "释放须降低自身修为",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.591Z"
+}

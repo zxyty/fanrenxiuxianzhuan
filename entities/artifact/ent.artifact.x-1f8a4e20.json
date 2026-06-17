@@ -1,0 +1,65 @@
+{
+  "id": "ent.artifact.x-1f8a4e20",
+  "type": "artifact",
+  "name": "踏云靴",
+  "aliases": [
+    "老封的灵靴",
+    "灵靴"
+  ],
+  "summary": "封岳遗物，可加速飞奔的灵靴，被韩立从其尸体扒下穿用；钟吾凭此认出来历。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "加速飞奔",
+    "来历": "原封岳所有，韩立自其尸体扒下"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "能力": [
+      {
+        "value": "加速飞奔",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "来历": [
+      {
+        "value": "原封岳所有，韩立自其尸体扒下",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ]
+  },
+  "firstSeq": 187,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+  ],
+  "updatedAt": "2026-06-14T05:36:55.244Z"
+}

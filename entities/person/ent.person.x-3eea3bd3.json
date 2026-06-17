@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-3eea3bd3",
+  "type": "person",
+  "name": "叶蛇",
+  "aliases": [],
+  "summary": "黑煞教魔修，天生资质佳，已感应到进入筑基中期的征兆。",
+  "attributes": {
+    "阵营": "黑煞教",
+    "小阶段": "即将筑基中期",
+    "身份": "四大血侍"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "即将筑基中期",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313,
+        "note": "借此偷跑血牢练功"
+      }
+    ],
+    "身份": [
+      {
+        "value": "四大血侍",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313,
+      "note": "借此偷跑血牢练功"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:35.004Z"
+}

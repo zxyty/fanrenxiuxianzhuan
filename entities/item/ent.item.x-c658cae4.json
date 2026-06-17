@@ -1,0 +1,66 @@
+{
+  "id": "ent.item.x-c658cae4",
+  "type": "item",
+  "name": "大挪移令",
+  "aliases": [
+    "大挪移令牌",
+    "大挪移令法器",
+    "蓝灿灿令牌"
+  ],
+  "summary": "置于骸骨之上的令牌，为禁地中众修士争夺之物，吕天蒙因贪图此令而倒戈。",
+  "attributes": {
+    "类型": "传送令牌",
+    "用途": "传送/挪移"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "传送令牌",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "用途": [
+      {
+        "value": "禁地中众人争夺的标的",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "传送/挪移",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "dated": false,
+      "seq": 559
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+  ],
+  "updatedAt": "2026-06-15T10:22:05.173Z"
+}

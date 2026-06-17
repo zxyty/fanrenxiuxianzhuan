@@ -1,0 +1,49 @@
+{
+  "id": "ent.artifact.x-317aa7c1",
+  "type": "artifact",
+  "name": "火云剑",
+  "aliases": [],
+  "summary": "秘店竞卖会首件竞卖品，一件顶阶法器。",
+  "attributes": {
+    "品阶": "顶阶法器",
+    "能力": "火云攻击"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "顶阶法器",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      }
+    ],
+    "能力": [
+      {
+        "value": "火云攻击",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ]
+  },
+  "firstSeq": 217,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "dated": false,
+      "seq": 217
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.522Z"
+}

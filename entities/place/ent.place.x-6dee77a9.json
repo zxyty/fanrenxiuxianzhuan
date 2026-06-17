@@ -1,0 +1,63 @@
+{
+  "id": "ent.place.x-6dee77a9",
+  "type": "place",
+  "name": "玉阙阁",
+  "aliases": [],
+  "summary": "天渊城内负责分配洞府灵地的三层阁楼，一层接待黑铁卫、二层供化神修士，配有筑基侍女。",
+  "attributes": {
+    "所属势力": "天渊城",
+    "类型": "灵地分配机构",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵地分配机构",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+  ],
+  "updatedAt": "2026-06-16T12:14:21.101Z"
+}

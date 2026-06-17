@@ -1,0 +1,88 @@
+{
+  "id": "ent.artifact.x-b09cd07f",
+  "type": "artifact",
+  "name": "灰光符宝",
+  "aliases": [
+    "符宝",
+    "画着小剑的符箓",
+    "伪法宝"
+  ],
+  "summary": "韩立木匣中放出的丈许灰光，如剑似蛟龙斩物锋利，连斩两名追兵。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "化丈许灰光如剑斩物",
+    "外形": "画着小剑",
+    "来历": "斩杀黄衣人所获"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "能力": [
+      {
+        "value": "化丈许灰光如剑斩物",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "外形": [
+      {
+        "value": "丈许灰光剑芒",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "画着小剑",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "来历": [
+      {
+        "value": "斩杀黄衣人所获",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao"
+  ],
+  "updatedAt": "2026-06-14T10:30:34.128Z"
+}

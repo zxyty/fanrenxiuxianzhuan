@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-fa2df2e5",
+  "type": "place",
+  "name": "天岳山脉",
+  "aliases": [],
+  "summary": "陇州西川府境内方圆十余万里的荒山野岭，岳阳宫据点所在。",
+  "attributes": {
+    "所属势力": "岳阳宫",
+    "类型": "山脉"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "岳阳宫",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "类型": [
+      {
+        "value": "山脉",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.226Z"
+}

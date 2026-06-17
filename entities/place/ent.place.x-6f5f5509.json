@@ -1,0 +1,113 @@
+{
+  "id": "ent.place.x-6f5f5509",
+  "type": "place",
+  "name": "落日峰",
+  "aliases": [
+    "落日峰顶"
+  ],
+  "summary": "彩霞山主峰，奇高陡峭仅一条路、设十三哨卡，七玄门总堂所在。",
+  "attributes": {
+    "所属势力": "七玄门",
+    "类型": "山峰、门派总堂、门派主峰/最险关卡、山峰/总堂",
+    "危险度": "极高",
+    "特产": "先天石乳洞",
+    "守护": "大陷阱机关"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "类型": [
+      {
+        "value": "山峰",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      },
+      {
+        "value": "门派总堂",
+        "docId": "plot.fanren-ch73-78-lifeiyu-yufengjue",
+        "seq": 73
+      },
+      {
+        "value": "门派主峰/最险关卡",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      },
+      {
+        "value": "山峰/总堂",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "特产": [
+      {
+        "value": "先天石乳洞",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "守护": [
+      {
+        "value": "大陷阱机关",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch85-90-sikexie-doudou",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch158-blue-robed-woman"
+  ],
+  "updatedAt": "2026-06-14T04:37:08.779Z"
+}

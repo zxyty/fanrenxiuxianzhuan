@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-63a51887",
+  "type": "place",
+  "name": "外星海",
+  "aliases": [
+    "妖海",
+    "乱星海外海"
+  ],
+  "summary": "乱星海未探明的外围海域，妖兽强大，又称妖海。",
+  "attributes": {
+    "类型": "海域",
+    "危险度": "高(妖兽横行)",
+    "特产": "妖丹",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "未探明海域",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      },
+      {
+        "value": "海域",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（妖兽力敌元婴期）",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      },
+      {
+        "value": "高(妖兽横行)",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "特产": [
+      {
+        "value": "妖丹",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ]
+  },
+  "firstSeq": 385,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+  ],
+  "updatedAt": "2026-06-14T18:18:59.350Z"
+}

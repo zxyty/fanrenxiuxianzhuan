@@ -1,0 +1,72 @@
+{
+  "id": "ent.person.x-9d63e7ab",
+  "type": "person",
+  "name": "王师弟",
+  "aliases": [
+    "王仙师",
+    "黄枫谷接引人",
+    "黄枫谷引路人"
+  ],
+  "summary": "黄枫谷接引人/引路人，淡绿色中年人，于升仙大会带韩立回门并测其灵根。",
+  "attributes": {
+    "性别": "男",
+    "身份": "黄枫谷弟子",
+    "外貌": "淡绿色中年人"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "身份": [
+      {
+        "value": "黄枫谷接引人/引路人",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "黄枫谷弟子",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "外貌": [
+      {
+        "value": "淡绿色中年人",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu"
+  ],
+  "updatedAt": "2026-06-14T04:09:18.330Z"
+}

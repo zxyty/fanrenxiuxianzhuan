@@ -1,0 +1,41 @@
+{
+  "id": "ent.place.x-854d8070",
+  "type": "place",
+  "name": "玄晶道",
+  "aliases": [],
+  "summary": "冰火路中奇寒入骨的通道，稍不慎便寒冰封体。",
+  "attributes": {
+    "类型": "冰寒通道"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "极寒通道",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "冰寒通道",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu"
+  ],
+  "updatedAt": "2026-06-14T16:19:26.442Z"
+}

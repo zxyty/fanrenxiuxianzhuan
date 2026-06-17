@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-7400e72c",
+  "type": "person",
+  "name": "头陀",
+  "aliases": [
+    "蓝城主身后头陀"
+  ],
+  "summary": "人族一方的化神期修士，僧人打扮，于炙光潭边与妖族对峙。",
+  "attributes": {
+    "阵营": "人族、蓝城主一方",
+    "小阶段": "化神期",
+    "存殁": "生死不明"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "蓝城主一方",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "存殁": [
+      {
+        "value": "生死不明",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297,
+        "note": "被上古巨人吸入潭水失踪"
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297,
+      "note": "被上古巨人吸入潭水失踪"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.089Z"
+}

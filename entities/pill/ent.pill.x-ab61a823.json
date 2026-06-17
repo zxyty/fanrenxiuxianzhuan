@@ -1,0 +1,48 @@
+{
+  "id": "ent.pill.x-ab61a823",
+  "type": "pill",
+  "name": "幻灭丹",
+  "aliases": [],
+  "summary": "突破瓶颈所用丹药，以幻灵草为主料，不宜多服。",
+  "attributes": {
+    "功效": "助突破瓶颈",
+    "主料": "幻灵草"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ],
+    "主料": [
+      {
+        "value": "幻灵草",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ]
+  },
+  "firstSeq": 1183,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie"
+  ],
+  "updatedAt": "2026-06-16T06:44:53.416Z"
+}

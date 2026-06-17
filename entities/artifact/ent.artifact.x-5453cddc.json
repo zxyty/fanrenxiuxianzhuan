@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-5453cddc",
+  "type": "artifact",
+  "name": "青镜",
+  "aliases": [
+    "巨大青镜"
+  ],
+  "summary": "寰天奇点化而成的晶莹巨镜，将撞来的妖狼缓缓反弹卸力。",
+  "attributes": {
+    "持有者": "寰天奇",
+    "能力": "反弹卸力"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "寰天奇",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "能力": [
+      {
+        "value": "反弹卸力",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.096Z"
+}

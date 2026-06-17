@@ -1,0 +1,48 @@
+{
+  "id": "ent.pill.x-b4cc1fa2",
+  "type": "pill",
+  "name": "腐心丸",
+  "aliases": [],
+  "summary": "毒丹，孙二狗所中之毒，使其寝食难安。",
+  "attributes": {
+    "功效": "下毒控制",
+    "副作用": "中毒者寝食难安"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "下毒控制",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "副作用": [
+      {
+        "value": "中毒者寝食难安",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal"
+  ],
+  "updatedAt": "2026-06-14T03:34:23.002Z"
+}

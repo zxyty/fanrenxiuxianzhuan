@@ -1,0 +1,48 @@
+{
+  "id": "ent.item.x-709e6892",
+  "type": "item",
+  "name": "奇物异志",
+  "aliases": [],
+  "summary": "记载世间异物的古书，王师叔据此查证「龙鳞果」。",
+  "attributes": {
+    "类型": "古书",
+    "用途": "记载异物"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "古书",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "用途": [
+      {
+        "value": "记载异物",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 169,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.701Z"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ent.pill.x-e120ad6e",
+  "type": "pill",
+  "name": "金髓丸",
+  "aliases": [],
+  "summary": "韩立炼成的圣药，增功力、脱胎换骨；与黄龙丹同服助其冲破第四层。",
+  "attributes": {
+    "功效": "增功力、脱胎换骨、洗髓、助长春功突破、凡人圣药、助修仙者突破瓶颈(需多瓶)、精进法力、提升修为",
+    "炼制者": "韩立",
+    "品阶": "低阶"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "增功力",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "脱胎换骨",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "洗髓",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "助长春功突破",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "凡人圣药",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "助修仙者突破瓶颈(需多瓶)",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "精进法力",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "提升修为",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      }
+    ],
+    "品阶": [
+      {
+        "value": "低阶",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ]
+  },
+  "firstSeq": 25,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch31-36-shichongwan",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.634Z"
+}

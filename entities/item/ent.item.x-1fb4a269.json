@@ -1,0 +1,68 @@
+{
+  "id": "ent.item.x-1fb4a269",
+  "type": "item",
+  "name": "火蟾兽妖丹",
+  "aliases": [],
+  "summary": "赤红圆球状妖丹，韩立用以喂南宫婉试解封魂咒。",
+  "attributes": {
+    "类型": "妖丹",
+    "用途": "缓解封魂咒",
+    "产地": "坠魔谷"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "妖丹",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "用途": [
+      {
+        "value": "试解封魂咒",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      },
+      {
+        "value": "缓解封魂咒",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "产地": [
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ]
+  },
+  "firstSeq": 859,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.508Z"
+}

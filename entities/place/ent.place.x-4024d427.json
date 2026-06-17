@@ -1,0 +1,87 @@
+{
+  "id": "ent.place.x-4024d427",
+  "type": "place",
+  "name": "万毒谷",
+  "aliases": [],
+  "summary": "南疆势力/地域，阴阳窟即位于其内。",
+  "attributes": {
+    "所属界面": "大晋、南疆、人界",
+    "危险度": "高（毒雾毒虫、禁空禁制）",
+    "守护": "禁空禁制",
+    "类型": "山谷"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（毒雾毒虫、禁空禁制）",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "守护": [
+      {
+        "value": "禁空禁制",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "类型": [
+      {
+        "value": "山谷",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 973,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+  ],
+  "updatedAt": "2026-06-16T03:38:44.994Z"
+}

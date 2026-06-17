@@ -1,0 +1,80 @@
+{
+  "id": "ent.race.x-7c98f213",
+  "type": "race",
+  "name": "圣族",
+  "aliases": [
+    "圣界圣族"
+  ],
+  "summary": "来自圣界的魔族，曾可经通道往返人界补充魔气；通道堵死后神通大减。",
+  "attributes": {
+    "聚居地": "圣界",
+    "代表人物": "元刹圣祖、古魔（血焰）、圣祖、古魔",
+    "特性": "寿元远超修士"
+  },
+  "observations": {
+    "聚居地": [
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1015
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "元刹圣祖",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "古魔（血焰）",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "特性": [
+      {
+        "value": "寿元远超修士",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1015,
+  "attrProvenance": {
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1015
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.434Z"
+}

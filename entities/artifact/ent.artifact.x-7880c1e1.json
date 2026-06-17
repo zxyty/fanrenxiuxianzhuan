@@ -1,0 +1,98 @@
+{
+  "id": "ent.artifact.x-7880c1e1",
+  "type": "artifact",
+  "name": "青色绳索",
+  "aliases": [
+    "青色绳索状法器"
+  ],
+  "summary": "陆师兄的青色绳索状法器,可无声缠绕偷袭。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "青色绳索状",
+    "能力": "无声缠绕",
+    "品阶": "上品法器",
+    "来历": "夺自陆师兄"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "陆师兄",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "外形": [
+      {
+        "value": "青色绳索状",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "能力": [
+      {
+        "value": "无声缠绕",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上品法器",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "来历": [
+      {
+        "value": "夺自陆师兄",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 163,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.385Z"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "ent.material.x-63a589b2",
+  "type": "material",
+  "name": "极品灵石",
+  "aliases": [
+    "顶阶灵石",
+    "顶阶极品灵石",
+    "木属性极品灵石"
+  ],
+  "summary": "人界至宝，布上古奇阵的必须物，亦助结丹至化神突破瓶颈；本岛矿脉新采出一块，引发海族万里奔袭。",
+  "attributes": {
+    "类型": "灵石",
+    "用途": "布人界上古奇阵、助突破瓶颈、吸纳精纯灵气、突破瓶颈时苦修",
+    "稀有度": "极品(顶阶)",
+    "产地": "碧灵岛"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "顶阶灵石",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "灵石",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "用途": [
+      {
+        "value": "布人界上古奇阵",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "吸纳精纯灵气、突破瓶颈时苦修",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "人界可望不可及",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "极品(顶阶)",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "产地": [
+      {
+        "value": "乱星海岛屿灵矿",
+        "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "碧灵岛",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ]
+  },
+  "firstSeq": 1141,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-ch1149-jinjiao-xiongyan"
+  ],
+  "updatedAt": "2026-06-15T11:10:07.940Z"
+}

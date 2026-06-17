@@ -1,0 +1,102 @@
+{
+  "id": "ent.material.x-cb5e03f4",
+  "type": "material",
+  "name": "罡银沙",
+  "aliases": [
+    "罡银沙原矿",
+    "罡银沙矿脉",
+    "罡银沙结晶",
+    "罡银沙矿"
+  ],
+  "summary": "罕见炼器材料，可使法宝更坚固，效果仅次于炼晶，提炼率极低、本身极硬。",
+  "attributes": {
+    "类型": "炼器灵矿",
+    "用途": "炼制机关傀儡",
+    "稀有度": "近乎绝迹",
+    "产地": "坠魔谷、坠魔谷洞口、坠魔谷内谷"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "炼器灵矿",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "用途": [
+      {
+        "value": "掺入法宝使其坚固",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "炼制机关傀儡",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "近乎绝迹",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "产地": [
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "坠魔谷洞口",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "坠魔谷内谷",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ]
+  },
+  "firstSeq": 811,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu"
+  ],
+  "updatedAt": "2026-06-15T13:16:27.423Z"
+}

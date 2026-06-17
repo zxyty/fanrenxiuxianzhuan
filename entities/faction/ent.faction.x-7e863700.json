@@ -1,0 +1,49 @@
+{
+  "id": "ent.faction.x-7e863700",
+  "type": "faction",
+  "name": "煞阳宗",
+  "aliases": [],
+  "summary": "中等宗门，疑为逼迫天符门交坊市的幕后推手。",
+  "attributes": {
+    "等级": "中等宗门",
+    "阵营": "魔道"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "中等宗门",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ]
+  },
+  "firstSeq": 955,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+  ],
+  "updatedAt": "2026-06-16T02:49:21.240Z"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "ent.faction.x-6719c00b",
+  "type": "faction",
+  "name": "六连殿",
+  "aliases": [
+    "六连殿六家殿阁",
+    "六连殿白水楼",
+    "本殿",
+    "贵殿",
+    "六连殿一门",
+    "六连殿店铺"
+  ],
+  "summary": "云梦阁下方广场四周等距耸立的六家殿阁联盟，同体共进退，各以旗幡标识分行经营。",
+  "attributes": {
+    "理念": "同体共进退、经商",
+    "据点": "天都街云梦阁广场、白水楼、魁星岛、乱星海、魁星岛一带海域",
+    "阵营": "乱星海",
+    "掌门": "殿主",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "理念": [
+      {
+        "value": "同体共进退",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "经商",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "据点": [
+      {
+        "value": "天都街云梦阁广场",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "白水楼",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "魁星岛",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "魁星岛一带海域",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "阵营": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "掌门": [
+      {
+        "value": "殿主",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 409
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-1135-1140-qingyu-leikongdao"
+  ],
+  "updatedAt": "2026-06-15T10:50:10.377Z"
+}

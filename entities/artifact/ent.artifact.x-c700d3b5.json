@@ -1,0 +1,56 @@
+{
+  "id": "ent.artifact.x-c700d3b5",
+  "type": "artifact",
+  "name": "狼首傀儡",
+  "aliases": [
+    "金色狼首傀儡"
+  ],
+  "summary": "虚天殿第一层守卫，金色狼首、银色金属躯体配乌黑刀刃，实力在结丹初期修士之上，被蛮胡子击碎；残件含一颗阴寒碧绿色宝石。",
+  "attributes": {
+    "能力": "实力在结丹初期修士之上",
+    "外形": "狼首机关傀儡"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "实力在结丹初期修士之上",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ],
+    "外形": [
+      {
+        "value": "金色狼首、银色金属躯体、乌黑刀刃",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      },
+      {
+        "value": "狼首机关傀儡",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 469,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "dated": false,
+      "seq": 469
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.517Z"
+}

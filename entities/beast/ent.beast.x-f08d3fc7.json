@@ -1,0 +1,54 @@
+{
+  "id": "ent.beast.x-f08d3fc7",
+  "type": "beast",
+  "name": "圣禽",
+  "aliases": [],
+  "summary": "慕兰族凭圣灯与灵油召唤、维持临界时间的圣鸟，为大战关键战力。",
+  "attributes": {
+    "栖息地": "慕兰族",
+    "能力": "投影召唤幻影"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "能力": [
+      {
+        "value": "依圣灯灯油维持现世时间",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      },
+      {
+        "value": "投影召唤幻影",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 757,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-ch889-894-tianlan-jinyanshi"
+  ],
+  "updatedAt": "2026-06-16T00:12:42.890Z"
+}

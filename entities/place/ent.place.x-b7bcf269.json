@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-b7bcf269",
+  "type": "place",
+  "name": "小石山洞府",
+  "aliases": [
+    "小石山洞府石室"
+  ],
+  "summary": "韩立在药园后小石山中以飞剑暗开的小型洞府，内设虫室、灵兽室、小药园，外布隐匿阵与拘灵阵。",
+  "attributes": {
+    "类型": "私人洞府",
+    "守护": "隐匿阵法、拘灵阵、巨猿傀儡"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "私人洞府",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "守护": [
+      {
+        "value": "隐匿阵法",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "拘灵阵",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "巨猿傀儡",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu"
+  ],
+  "updatedAt": "2026-06-14T19:44:58.618Z"
+}

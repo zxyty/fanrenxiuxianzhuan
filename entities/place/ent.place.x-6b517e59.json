@@ -1,0 +1,54 @@
+{
+  "id": "ent.place.x-6b517e59",
+  "type": "place",
+  "name": "天一城",
+  "aliases": [],
+  "summary": "四大势力临时修建、汇聚高层以抗慕兰的前线城池，落云宗在此设驻地。",
+  "attributes": {
+    "所属界面": "天南",
+    "类型": "修士据点城池"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ],
+    "类型": [
+      {
+        "value": "临时前线城池",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "修士据点城池",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-757-762-gengjing-jiangling-fu"
+  ],
+  "updatedAt": "2026-06-15T03:26:48.377Z"
+}

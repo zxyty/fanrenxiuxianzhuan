@@ -1,0 +1,119 @@
+{
+  "id": "ent.person.x-bcb2e63b",
+  "type": "person",
+  "name": "吴姓老者",
+  "aliases": [
+    "吴师兄"
+  ],
+  "summary": "黄枫谷长老，鹰勾鼻、出名足智多谋，献策劝叶姓老者出资买下韩立的筑基丹。",
+  "attributes": {
+    "性别": "男",
+    "身份": "黄枫谷长老、传功弟子、谷内管事",
+    "性格": "阴沉算计",
+    "外貌": "满脸皱纹的灰袍老者",
+    "小阶段": "结丹后期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "身份": [
+      {
+        "value": "黄枫谷长老",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "传功弟子",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "谷内管事",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "性格": [
+      {
+        "value": "足智多谋",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "阴沉算计",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "外貌": [
+      {
+        "value": "鹰勾鼻老者",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "三十来岁青衣弟子",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "满脸皱纹的灰袍老者",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹后期",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-1155-yaoshou-zhi-luan"
+  ],
+  "updatedAt": "2026-06-15T11:28:21.070Z"
+}

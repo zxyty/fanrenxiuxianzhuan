@@ -1,0 +1,163 @@
+{
+  "id": "ent.faction.x-786753c3",
+  "type": "faction",
+  "name": "御灵宗",
+  "aliases": [
+    "魔道御灵宗",
+    "天都国御灵宗",
+    "御灵宗一门",
+    "御灵宗一脉"
+  ],
+  "summary": "魔道门派，数千年前在越国埋下灵兽山这一潜伏暗桩。",
+  "attributes": {
+    "阵营": "天南一方参战",
+    "所属界面": "天都国",
+    "理念": "驱虫术名闻天南",
+    "据点": "奇灵山、元武国、天罗国奇灵山、越国",
+    "镇派之宝": "灵虫(毒蛾)"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "魔道六宗之一",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "天南/九国盟",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "天南一方参战",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天都国",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ],
+    "理念": [
+      {
+        "value": "御灵/驯兽",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "驱使灵虫灵兽、控虫之道",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "驱虫术名闻天南",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "据点": [
+      {
+        "value": "奇灵山",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "天罗国奇灵山",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      },
+      {
+        "value": "越国",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "至木灵婴等五行灵婴",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "灵虫(毒蛾)",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.038Z"
+}

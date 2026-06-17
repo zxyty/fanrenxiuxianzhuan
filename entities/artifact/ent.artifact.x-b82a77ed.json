@@ -1,0 +1,76 @@
+{
+  "id": "ent.artifact.x-b82a77ed",
+  "type": "artifact",
+  "name": "龟壳法器",
+  "aliases": [
+    "龟壳"
+  ],
+  "summary": "韩立的护身法器，入阵迎敌时放出环绕其身。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "涨大硬挡、防御",
+    "外形": "龟壳"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "能力": [
+      {
+        "value": "防御",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "涨大硬挡、防御",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "外形": [
+      {
+        "value": "龟壳状",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "龟壳",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.062Z"
+}

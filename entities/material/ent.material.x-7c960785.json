@@ -1,0 +1,73 @@
+{
+  "id": "ent.material.x-7c960785",
+  "type": "material",
+  "name": "千叶露",
+  "aliases": [],
+  "summary": "九曲灵参所缺原料，疑为上古修士旧称、如今已改名的某种普通灵药。",
+  "attributes": {
+    "类型": "灵草汁液",
+    "用途": "炼丹",
+    "稀有度": "极稀有"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "灵草汁液",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制九曲灵参",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "炼丹",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+        "seq": 511
+      }
+    ]
+  },
+  "firstSeq": 499,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "dated": false,
+      "seq": 511
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-ch511-516-qiyuan-island-heishi-city"
+  ],
+  "updatedAt": "2026-06-14T17:41:23.012Z"
+}

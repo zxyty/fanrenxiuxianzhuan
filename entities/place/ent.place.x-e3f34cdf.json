@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-e3f34cdf",
+  "type": "place",
+  "name": "玄坤山",
+  "aliases": [],
+  "summary": "黄枫谷弟子基础功法练至十层后可迁居之地，居住自由。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "弟子居所"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "类型": [
+      {
+        "value": "弟子居所",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu"
+  ],
+  "updatedAt": "2026-06-14T04:09:18.336Z"
+}

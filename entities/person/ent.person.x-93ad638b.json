@@ -1,0 +1,92 @@
+{
+  "id": "ent.person.x-93ad638b",
+  "type": "person",
+  "name": "化刀坞青年",
+  "aliases": [
+    "化刀坞弟子"
+  ],
+  "summary": "化刀坞弟子，相貌阴柔俊美、声音可似女子，驱两道红色飞刀；战败服软后随钟吾离去。",
+  "attributes": {
+    "性别": "男",
+    "身份": "化刀坞弟子",
+    "外貌": "青衣、阴柔俊美",
+    "阵营": "化刀坞",
+    "标志特征": "声音忽如女子忽如翩翩公子"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "身份": [
+      {
+        "value": "化刀坞弟子",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外貌": [
+      {
+        "value": "青衣、阴柔俊美",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "阵营": [
+      {
+        "value": "化刀坞",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "声音忽如女子忽如翩翩公子",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.532Z"
+}

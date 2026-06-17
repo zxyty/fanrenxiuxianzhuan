@@ -1,0 +1,78 @@
+{
+  "id": "ent.event.x-ef9d2943",
+  "type": "event",
+  "name": "黄枫谷撤离越国之决",
+  "aliases": [
+    "撤离越国"
+  ],
+  "summary": "因七派前方大败、灵兽山叛变、元婴受毒誓不能出手，令狐老祖决定黄枫谷与六派共同撤离越国。",
+  "attributes": {
+    "章节": "346",
+    "地点": "黄枫谷议事大殿",
+    "起因": "七派联军前方大败、灵兽山放魔道入阵",
+    "结果": "决定整门派撤离越国，日后东山再起"
+  },
+  "observations": {
+    "章节": [
+      {
+        "value": "346",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "地点": [
+      {
+        "value": "黄枫谷议事大殿",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "起因": [
+      {
+        "value": "七派联军前方大败、灵兽山放魔道入阵",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "结果": [
+      {
+        "value": "决定整门派撤离越国，日后东山再起",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ]
+  },
+  "firstSeq": 343,
+  "attrProvenance": {
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.037Z"
+}

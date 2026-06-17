@@ -1,0 +1,102 @@
+{
+  "id": "ent.person.x-8b96f089",
+  "type": "person",
+  "name": "杨仙师",
+  "aliases": [
+    "黄脸老者",
+    "黄脸修士",
+    "枯黄老者",
+    "赵护法",
+    "赵道友"
+  ],
+  "summary": "魁星岛港口坐镇的筑基期修士，为外来者发放身份玉牌；察觉曲魂灵气外放而起疑。",
+  "attributes": {
+    "小阶段": "结丹",
+    "身份": "魁星岛港口发牌仙师",
+    "外貌": "面色枯黄的老者",
+    "称号": "护法",
+    "阵营": "星宫"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "身份": [
+      {
+        "value": "魁星岛港口发牌仙师",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面色枯黄的老者",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "称号": [
+      {
+        "value": "护法",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "阵营": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ]
+  },
+  "firstSeq": 367,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-499-504-nanming-island"
+  ],
+  "updatedAt": "2026-06-14T17:26:54.204Z"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "ent.pill.x-674b7269",
+  "type": "pill",
+  "name": "天罗丹",
+  "aliases": [
+    "传闻天罗丹"
+  ],
+  "summary": "传闻中的圣药，与其他灵药同服有概率增药效三到五成，价值远超黑炎丹。",
+  "attributes": {
+    "品阶": "圣药",
+    "功效": "助化神突破瓶颈、与他药同服概率增药效三到五成、配合黑炎丹增药效、助突破瓶颈、辅助冲击炼虚、增黑炎丹效果两三成",
+    "主料": "青罗果",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "圣药",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "功效": [
+      {
+        "value": "助化神突破瓶颈",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "与他药同服概率增药效三到五成",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "配合黑炎丹增药效、助突破瓶颈",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "辅助冲击炼虚、增黑炎丹效果两三成",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "主料": [
+      {
+        "value": "青罗果",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1411,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.762Z"
+}

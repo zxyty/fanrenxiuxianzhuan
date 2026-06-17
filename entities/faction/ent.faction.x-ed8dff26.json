@@ -1,0 +1,66 @@
+{
+  "id": "ent.faction.x-ed8dff26",
+  "type": "faction",
+  "name": "长老会",
+  "aliases": [
+    "天渊城长老会"
+  ],
+  "summary": "天渊城最高决策机构，外族大战时三皇七妖名义上须听其调遣。",
+  "attributes": {
+    "据点": "天渊城",
+    "理念": "镇守蛮荒入口、培育飞升修士",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "理念": [
+      {
+        "value": "镇守蛮荒入口、培育飞升修士",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1353-ling-chong-da-cheng"
+  ],
+  "updatedAt": "2026-06-16T14:02:15.391Z"
+}

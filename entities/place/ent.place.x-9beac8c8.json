@@ -1,0 +1,89 @@
+{
+  "id": "ent.place.x-9beac8c8",
+  "type": "place",
+  "name": "浮黎沼泽",
+  "aliases": [
+    "Fuli Swamp"
+  ],
+  "summary": "天渊城划定的一级危险巡查区，地形可掩蔽神念，异族常潜伏其中。",
+  "attributes": {
+    "类型": "沼泽",
+    "危险度": "第一类危险区、高（异族探子频出）、极高",
+    "守护": "天渊城巡逻队",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "沼泽",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "危险度": [
+      {
+        "value": "第一类危险区",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "高（异族探子频出）",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "守护": [
+      {
+        "value": "天渊城巡逻队",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ]
+  },
+  "firstSeq": 1321,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+  ],
+  "updatedAt": "2026-06-16T13:17:17.893Z"
+}

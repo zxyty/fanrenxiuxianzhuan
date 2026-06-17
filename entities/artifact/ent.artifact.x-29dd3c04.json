@@ -1,0 +1,69 @@
+{
+  "id": "ent.artifact.x-29dd3c04",
+  "type": "artifact",
+  "name": "血木傀儡",
+  "aliases": [
+    "泥傀儡"
+  ],
+  "summary": "血袍人所炼傀儡，灵帅初阶；泥傀儡可寄付分神远程感应，血木傀儡受血丝操控外出杀敌拘魂。",
+  "attributes": {
+    "持有者": "血袍人",
+    "品阶": "灵帅初阶",
+    "能力": "分神感应、拘魂"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "血袍人",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ],
+    "品阶": [
+      {
+        "value": "灵帅初阶",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ],
+    "能力": [
+      {
+        "value": "分神感应",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "拘魂",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ]
+  },
+  "firstSeq": 1435,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "dated": false,
+      "seq": 1435
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "dated": false,
+      "seq": 1435
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "dated": false,
+      "seq": 1435
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1438-yin-zhu-feng"
+  ],
+  "updatedAt": "2026-06-16T16:33:50.683Z"
+}

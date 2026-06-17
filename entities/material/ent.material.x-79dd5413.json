@@ -1,0 +1,76 @@
+{
+  "id": "ent.material.x-79dd5413",
+  "type": "material",
+  "name": "落阳晶",
+  "aliases": [
+    "落日晶",
+    "洛阳晶"
+  ],
+  "summary": "巨人光球中心金灿圆球状之物，炼制至阳灵宝的最佳材料，后坠入巨人独目。",
+  "attributes": {
+    "用途": "炼制至阳灵宝最佳材料",
+    "类型": "灵材、晶石、晶石宝物",
+    "产地": "落日之墓"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "炼制至阳灵宝最佳材料",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵材",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      },
+      {
+        "value": "晶石",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      },
+      {
+        "value": "晶石宝物",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "产地": [
+      {
+        "value": "落日之墓",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+  ],
+  "updatedAt": "2026-06-16T11:47:43.536Z"
+}

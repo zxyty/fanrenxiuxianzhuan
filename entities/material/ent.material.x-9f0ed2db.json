@@ -1,0 +1,87 @@
+{
+  "id": "ent.material.x-9f0ed2db",
+  "type": "material",
+  "name": "炼晶",
+  "aliases": [],
+  "summary": "韩立在熔岩路所得特殊材质，耗近一年炼入青竹蜂云剑使其近乎不可摧。",
+  "attributes": {
+    "类型": "炼器材料",
+    "用途": "锻炼本命法宝",
+    "产地": "熔岩路",
+    "稀有度": "逆天罕见"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼器灵材",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼化进飞剑增其坚硬",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "锻炼本命法宝",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "产地": [
+      {
+        "value": "熔岩路",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "逆天罕见",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-ch811-gang-yin-sha"
+  ],
+  "updatedAt": "2026-06-15T06:11:29.047Z"
+}

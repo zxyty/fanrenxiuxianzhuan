@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-d4e7cb47",
+  "type": "person",
+  "name": "石长老",
+  "aliases": [],
+  "summary": "天鹏族石长老，出身被吞并的乌翎族，察觉韩立金色精血有异。",
+  "attributes": {
+    "性别": "男",
+    "种族": "乌翎族",
+    "身份": "长老",
+    "外貌": "黑袍、乌翅",
+    "阵营": "天鹏族"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "种族": [
+      {
+        "value": "乌翎族",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "身份": [
+      {
+        "value": "天鹏族石长老",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "长老",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑袍、乌翅",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ]
+  },
+  "firstSeq": 1423,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "dated": false,
+      "seq": 1429
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+  ],
+  "updatedAt": "2026-06-16T16:20:08.376Z"
+}

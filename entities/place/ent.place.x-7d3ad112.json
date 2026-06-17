@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-7d3ad112",
+  "type": "place",
+  "name": "南天峰",
+  "aliases": [],
+  "summary": "天岳山脉中心巨峰，岳阳宫主峰，布有十三层禁断大阵。",
+  "attributes": {
+    "所属势力": "岳阳宫",
+    "守护": "十三层禁断大阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "岳阳宫",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "守护": [
+      {
+        "value": "十三层禁断大阵",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu"
+  ],
+  "updatedAt": "2026-06-16T01:21:22.393Z"
+}

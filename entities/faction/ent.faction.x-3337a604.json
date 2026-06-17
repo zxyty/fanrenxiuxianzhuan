@@ -1,0 +1,134 @@
+{
+  "id": "ent.faction.x-3337a604",
+  "type": "faction",
+  "name": "魔道六宗五关",
+  "aliases": [
+    "魔道六宗",
+    "六宗",
+    "魔道",
+    "六道",
+    "魔道之人",
+    "本教",
+    "魔道一方",
+    "六道盟",
+    "六道魔头",
+    "六道大哥",
+    "六道老魔",
+    "那老魔"
+  ],
+  "summary": "魔道势力集团；韩立揣测鬼灵门此行或与之相关。",
+  "attributes": {
+    "阵营": "敌对",
+    "据点": "天南",
+    "理念": "金蝉脱壳——核心弟子借傀儡师傅在修仙界另立明面身份、掳掠修士血祭练功"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "天星双圣之敌",
+        "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      },
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "敌对",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "据点": [
+      {
+        "value": "天罗国",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "天南",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "理念": [
+      {
+        "value": "金蝉脱壳——核心弟子借傀儡师傅在修仙界另立明面身份",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "掳掠修士血祭练功",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ]
+  },
+  "firstSeq": 253,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1015-jinci-lingmu",
+    "lore.fanren-1215-linggen-wuxing-heyi"
+  ],
+  "updatedAt": "2026-06-16T08:34:31.928Z"
+}

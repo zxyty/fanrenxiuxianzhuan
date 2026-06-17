@@ -1,0 +1,61 @@
+{
+  "id": "ent.item.x-bddc3733",
+  "type": "item",
+  "name": "平安符",
+  "aliases": [
+    "野猪牙平安符"
+  ],
+  "summary": "韩母用兽皮缝制的防水皮袋中所装、用野猪牙制成的平安符，韩立贴身佩戴。",
+  "attributes": {
+    "类型": "护身符",
+    "用途": "保佑平安无灾、平安护身、驱散心魔/清心"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "护身符",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      }
+    ],
+    "用途": [
+      {
+        "value": "保佑平安无灾",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      },
+      {
+        "value": "平安护身",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "驱散心魔/清心",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      }
+    ]
+  },
+  "firstSeq": 7,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+      "dated": false,
+      "seq": 7
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+      "dated": false,
+      "seq": 7
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan"
+  ],
+  "updatedAt": "2026-06-14T02:01:46.158Z"
+}

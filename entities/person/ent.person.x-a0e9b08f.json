@@ -1,0 +1,66 @@
+{
+  "id": "ent.person.x-a0e9b08f",
+  "type": "person",
+  "name": "辛某",
+  "aliases": [
+    "披发大汉",
+    "辛贤弟",
+    "姓辛的大汉"
+  ],
+  "summary": "披发背金枪的炼体士，与鲍某同伙兜售地蛟筋，一度起劫财之心被劝止。",
+  "attributes": {
+    "性别": "男",
+    "身份": "炼体士",
+    "外貌": "身材高大、长发披肩、背金枪"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身材高大、长发披肩、背金枪",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao"
+  ],
+  "updatedAt": "2026-06-16T10:12:05.264Z"
+}

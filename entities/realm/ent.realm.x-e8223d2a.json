@@ -1,0 +1,233 @@
+{
+  "id": "ent.realm.x-e8223d2a",
+  "type": "realm",
+  "name": "筑基",
+  "aliases": [
+    "筑基期",
+    "筑基初期",
+    "筑基中期",
+    "筑基后期"
+  ],
+  "summary": "修仙正式入门的境界；未筑基者不算修士、无法涉足修仙界，能否筑基受灵根资质所限。",
+  "attributes": {
+    "突破关键": "服筑基丹",
+    "阶序": "炼气之上",
+    "寿元": "两百多岁",
+    "上一境": "结丹",
+    "下一境": "结丹期",
+    "小阶段": "中期、后期、初期、筑基中期、筑基后期、筑基初期"
+  },
+  "observations": {
+    "突破关键": [
+      {
+        "value": "灵根资质",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      },
+      {
+        "value": "基础功法练至七层并服用筑基丹",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "服筑基丹",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "阶序": [
+      {
+        "value": "下境界第二层",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "炼气之上、结丹之下",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "炼气之上",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "寿元": [
+      {
+        "value": "两百多岁",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "上一境": [
+      {
+        "value": "炼气",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "下一境": [
+      {
+        "value": "结丹",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼气期",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "中期",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "后期",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "初期",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "筑基中期",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "筑基初期",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ]
+  },
+  "firstSeq": 55,
+  "attrProvenance": {
+    "突破关键": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "阶序": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "上一境": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch55-60-third-person-duoshe-failed",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1273-1278-anyuan-beast-tide"
+  ],
+  "updatedAt": "2026-06-16T10:20:06.372Z"
+}

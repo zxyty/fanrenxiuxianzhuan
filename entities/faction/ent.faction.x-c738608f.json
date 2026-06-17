@@ -1,0 +1,111 @@
+{
+  "id": "ent.faction.x-c738608f",
+  "type": "faction",
+  "name": "巨剑门",
+  "aliases": [],
+  "summary": "越国七大修仙门派之一，万家祖先曾为其正式弟子。",
+  "attributes": {
+    "所属界面": "越国",
+    "阵营": "中立",
+    "据点": "越国",
+    "理念": "剑修、全男弟子",
+    "镇派之宝": "御剑之术"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "理念": [
+      {
+        "value": "剑修、全男弟子",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "巨剑（法器）",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "巨剑法门",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "御剑之术",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+  ],
+  "updatedAt": "2026-06-15T02:06:15.387Z"
+}

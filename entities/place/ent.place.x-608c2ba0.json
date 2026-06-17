@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-608c2ba0",
+  "type": "place",
+  "name": "黑风宫",
+  "aliases": [
+    "黑凤宫"
+  ],
+  "summary": "黑凤族的据点宫殿，妖女欲将黛儿带回此处。",
+  "attributes": {
+    "所属势力": "黑凤族",
+    "类型": "妖族宫殿"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黑凤族",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "类型": [
+      {
+        "value": "妖族宫殿",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1279,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+  ],
+  "updatedAt": "2026-06-16T10:33:15.761Z"
+}

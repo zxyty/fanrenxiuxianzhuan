@@ -1,0 +1,143 @@
+{
+  "id": "ent.event.x-d3c58ace",
+  "type": "event",
+  "name": "兽潮",
+  "aliases": [
+    "奇渊岛兽潮",
+    "大兽潮",
+    "蝎潮",
+    "狼潮",
+    "蛇潮"
+  ],
+  "summary": "约二十余年前发生的妖兽之祸，青灵门唯一的结丹期长老于此役陨落；韩立对此事表现出意外与关注。",
+  "attributes": {
+    "结果": "黑石城被毁、人类修士几近全灭、外海人类聚居村镇尽毁",
+    "参与方": "青灵门、妖兽",
+    "地点": "奇渊岛、黑石城、深渊海域、安远城",
+    "起因": "深渊海域妖兽无征兆狂涌、强大兽群迁入或千年大兽潮、兽类繁衍争地盘、协议禁高阶清剿",
+    "影响": "奇渊岛成高阶妖兽聚集地，幸存修士被持续清剿；内星海断绝消息未派援兵、城主雇全城炼体士守城、低阶伤亡巨大，亦多生死突破"
+  },
+  "observations": {
+    "结果": [
+      {
+        "value": "青灵门结丹长老陨落",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "黑石城被毁、人类修士几近全灭、外海人类聚居村镇尽毁",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "参与方": [
+      {
+        "value": "青灵门",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "地点": [
+      {
+        "value": "奇渊岛",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "黑石城",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "深渊海域",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "安远城",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "起因": [
+      {
+        "value": "深渊海域妖兽无征兆狂涌",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "强大兽群迁入或千年大兽潮",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "兽类繁衍争地盘、协议禁高阶清剿",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "影响": [
+      {
+        "value": "奇渊岛成高阶妖兽聚集地，幸存修士被持续清剿；内星海断绝消息未派援兵",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "城主雇全城炼体士守城",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "低阶伤亡巨大，亦多生死突破",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-1267-1272-anyuan-city-shoujao"
+  ],
+  "updatedAt": "2026-06-16T10:12:05.280Z"
+}

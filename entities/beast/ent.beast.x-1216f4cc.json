@@ -1,0 +1,51 @@
+{
+  "id": "ent.beast.x-1216f4cc",
+  "type": "beast",
+  "name": "吃金鼠",
+  "aliases": [
+    "银色小鼠",
+    "银鼠"
+  ],
+  "summary": "黑汉袖中所藏的一级妖兽。",
+  "attributes": {
+    "等级": "一级妖兽",
+    "外形": "银色小鼠"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "一级妖兽",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "外形": [
+      {
+        "value": "银色小鼠",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:58:07.245Z"
+}

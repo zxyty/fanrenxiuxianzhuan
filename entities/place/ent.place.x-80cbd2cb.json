@@ -1,0 +1,87 @@
+{
+  "id": "ent.place.x-80cbd2cb",
+  "type": "place",
+  "name": "银鲨岛",
+  "aliases": [
+    "银鲨"
+  ],
+  "summary": "乱星海外海岛屿，传发现高阶矿脉吸引大半外海修士，可购白鹭鱼妖内丹；田姓夫妇偷渡欲往此岛求药。",
+  "attributes": {
+    "类型": "外海岛屿",
+    "所属界面": "乱星海",
+    "所属势力": "星宫",
+    "守护": "蓝色光幕防御大阵"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "外海岛屿",
+        "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海(外海)",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "守护": [
+      {
+        "value": "蓝色光幕防御大阵",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ]
+  },
+  "firstSeq": 1123,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+      "dated": false,
+      "seq": 1123
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1131-jidan",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+  ],
+  "updatedAt": "2026-06-16T07:30:46.475Z"
+}

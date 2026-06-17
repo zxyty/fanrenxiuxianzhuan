@@ -1,0 +1,86 @@
+{
+  "id": "ent.pill.x-c5872c6a",
+  "type": "pill",
+  "name": "清灵散",
+  "aliases": [],
+  "summary": "韩立炼成的世间少有解毒圣药，能解千百种剧毒。",
+  "attributes": {
+    "功效": "解千百种剧毒、驱毒、解百毒、解毒、解合欢丹之毒",
+    "炼制者": "韩立",
+    "副作用": "对韩立自身阴毒无效"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "解千百种剧毒",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "驱毒",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      },
+      {
+        "value": "解百毒",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      },
+      {
+        "value": "解毒",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      },
+      {
+        "value": "解合欢丹之毒",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      }
+    ],
+    "副作用": [
+      {
+        "value": "对韩立自身阴毒无效",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      }
+    ]
+  },
+  "firstSeq": 25,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+      "dated": false,
+      "seq": 67
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+    "plot.fanren-ch170-zhanlipin",
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.513Z"
+}

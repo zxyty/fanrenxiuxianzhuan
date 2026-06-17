@@ -1,0 +1,51 @@
+{
+  "id": "ent.person.x-c548adf6",
+  "type": "person",
+  "name": "大黑",
+  "aliases": [
+    "壮汉",
+    "店员大黑"
+  ],
+  "summary": "徐掌柜的弟子/店员，曾在炼制乌龙夺时打下手，认得此法器。",
+  "attributes": {
+    "性别": "男",
+    "身份": "徐掌柜的弟子（店员）"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "身份": [
+      {
+        "value": "徐掌柜的弟子（店员）",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.766Z"
+}

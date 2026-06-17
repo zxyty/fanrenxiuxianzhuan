@@ -1,0 +1,74 @@
+{
+  "id": "ent.place.x-4b1bfa49",
+  "type": "place",
+  "name": "圣山",
+  "aliases": [],
+  "summary": "天星城内的圣山，其第一层设有占地过半的大型坊市。",
+  "attributes": {
+    "类型": "重地/修炼圣地",
+    "特产": "第一层大型坊市",
+    "所属势力": "星宫"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "山",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "山岳/洞府区",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "重地/修炼圣地",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "特产": [
+      {
+        "value": "第一层大型坊市",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ]
+  },
+  "firstSeq": 391,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+  ],
+  "updatedAt": "2026-06-16T07:30:46.464Z"
+}

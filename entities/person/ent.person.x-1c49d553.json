@@ -1,0 +1,76 @@
+{
+  "id": "ent.person.x-1c49d553",
+  "type": "person",
+  "name": "英珊",
+  "aliases": [
+    "英姓少女",
+    "清秀少女"
+  ],
+  "summary": "十五六岁清秀少女，英鹭晚辈，部落中查出有灵根者之一，被命在车旁伺候『寒仙师』。",
+  "attributes": {
+    "性别": "女",
+    "身份": "突兀人少女、待参加开灵仪式",
+    "种族": "突兀族"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "身份": [
+      {
+        "value": "苍鹭部有灵根子弟",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "突兀人少女、待参加开灵仪式",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "种族": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "突兀族",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 877,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch889-894-tianlan-jinyanshi"
+  ],
+  "updatedAt": "2026-06-16T00:12:42.842Z"
+}

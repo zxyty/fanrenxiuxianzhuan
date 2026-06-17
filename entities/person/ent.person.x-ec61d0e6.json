@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-ec61d0e6",
+  "type": "person",
+  "name": "鬼灵门少门主",
+  "aliases": [
+    "少门主",
+    "银色鬼脸神秘人"
+  ],
+  "summary": "鬼灵门首领，面戴银色鬼脸，声音年轻温文，提议待燕家生死堂血修士到齐再续比试。",
+  "attributes": {
+    "性别": "男",
+    "身份": "鬼灵门少门主",
+    "外貌": "银色鬼脸",
+    "标志特征": "暗灵根",
+    "阵营": "鬼灵门"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "身份": [
+      {
+        "value": "鬼灵门少门主",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银色鬼脸",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247,
+        "note": "面具"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "暗灵根",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "阵营": [
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247,
+      "note": "面具"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.323Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ent.technique.x-2099f6ef",
+  "type": "technique",
+  "name": "百花阳春决",
+  "aliases": [
+    "百花阳春诀"
+  ],
+  "summary": "古剑门明馨修炼的顶阶木属性功法。",
+  "attributes": {
+    "品阶": "顶阶",
+    "五行属性": "木",
+    "效果": "以花香无形克敌",
+    "修炼条件": "需特殊体质"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "顶阶",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "木",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "效果": [
+      {
+        "value": "以花香无形克敌",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需特殊体质",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ]
+  },
+  "firstSeq": 859,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.497Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-baad72ee",
+  "type": "person",
+  "name": "燕铃",
+  "aliases": [
+    "燕家小妹"
+  ],
+  "summary": "燕雨之妹，十五六岁，活泼机灵；为兄长被董萱儿迷惑而不悦，愤述绿袍怪人闹事经过。",
+  "attributes": {
+    "性别": "女",
+    "身份": "燕家弟子",
+    "性格": "活泼机灵"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "身份": [
+      {
+        "value": "燕家弟子",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "性格": [
+      {
+        "value": "活泼机灵",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng"
+  ],
+  "updatedAt": "2026-06-14T07:31:27.664Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ent.place.x-4e34e699",
+  "type": "place",
+  "name": "天元城",
+  "aliases": [],
+  "summary": "天元圣皇居住的天元境主城，面积之大可比人界一小国，相对最『正常』。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "城市、大城、城池",
+    "所属势力": "圣皇宫"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "类型": [
+      {
+        "value": "城市",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "大城",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天元镜",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "圣皇宫",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1293-yinxinshi-tianxindan"
+  ],
+  "updatedAt": "2026-06-16T11:04:31.848Z"
+}

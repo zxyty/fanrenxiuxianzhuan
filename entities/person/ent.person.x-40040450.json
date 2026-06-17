@@ -1,0 +1,126 @@
+{
+  "id": "ent.person.x-40040450",
+  "type": "person",
+  "name": "王长青",
+  "aliases": [
+    "王先生",
+    "灰发老者",
+    "老朽"
+  ],
+  "summary": "魁星岛海船上的凡人帮工老者，年轻时学过仙家古语，为韩立充当翻译并讲解乱星海见闻。",
+  "attributes": {
+    "性别": "男",
+    "种族": "凡人",
+    "身份": "顾家凡人随从",
+    "标志特征": "黑白光霞玉瓶",
+    "阵营": "小极宫",
+    "外貌": "灰发老者"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "身份": [
+      {
+        "value": "海船帮工",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "顾家凡人随从",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "灰发、懂仙家古语",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "黑白光霞玉瓶",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ],
+    "阵营": [
+      {
+        "value": "顾家",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰发老者",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+  ],
+  "updatedAt": "2026-06-15T09:38:32.738Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ent.technique.x-1e772c22",
+  "type": "technique",
+  "name": "化龙决",
+  "aliases": [
+    "化龙诀"
+  ],
+  "summary": "蛟龙族顶尖功法，修炼至深处可化蛟成龙。",
+  "attributes": {
+    "出处": "蛟龙族",
+    "效果": "化龙护体/爆发秘术"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "蛟龙族",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      }
+    ],
+    "效果": [
+      {
+        "value": "化蛟成龙",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      },
+      {
+        "value": "化龙护体/爆发秘术",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ]
+  },
+  "firstSeq": 541,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "dated": false,
+      "seq": 541
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fan-ren-541-bi-yan-jiu",
+    "plot.fanren-ch1149-jinjiao-xiongyan"
+  ],
+  "updatedAt": "2026-06-15T11:10:07.876Z"
+}

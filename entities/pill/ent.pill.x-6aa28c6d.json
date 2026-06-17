@@ -1,0 +1,50 @@
+{
+  "id": "ent.pill.x-6aa28c6d",
+  "type": "pill",
+  "name": "真元丹",
+  "aliases": [
+    "真元丹丹方"
+  ],
+  "summary": "适合筑基期的丹药，丹方非古方，所需药材除年份久外易配齐；韩立以1500灵石购得其丹方。",
+  "attributes": {
+    "适用境界": "筑基期",
+    "主料": "药材年份久但易配齐"
+  },
+  "observations": {
+    "适用境界": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "主料": [
+      {
+        "value": "药材年份久但易配齐",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.783Z"
+}

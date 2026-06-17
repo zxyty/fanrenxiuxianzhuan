@@ -1,0 +1,42 @@
+{
+  "id": "ent.person.x-0ff5cb14",
+  "type": "person",
+  "name": "辉明",
+  "aliases": [
+    "辉明师伯"
+  ],
+  "summary": "李化元的同辈友人(师伯)，几名弟子正在南乌城处理师门事务，可供刘靖等求助。",
+  "attributes": {
+    "身份": "陈巧倩之师长"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "李化元同辈、师伯",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "陈巧倩之师长",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:34.963Z"
+}

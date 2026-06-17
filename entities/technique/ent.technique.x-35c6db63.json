@@ -1,0 +1,41 @@
+{
+  "id": "ent.technique.x-35c6db63",
+  "type": "technique",
+  "name": "鬼道功法",
+  "aliases": [
+    "鬼道"
+  ],
+  "summary": "玄骨上人等所修的鬼道功法，逃命手段神妙，但有法宝/神通可克制之。",
+  "attributes": {
+    "效果": "逃命神妙、可被特定法宝神通克制"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "逃命神妙",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "可被特定法宝神通克制",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju"
+  ],
+  "updatedAt": "2026-06-14T15:46:06.996Z"
+}

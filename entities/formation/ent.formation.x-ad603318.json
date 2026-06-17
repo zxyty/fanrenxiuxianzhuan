@@ -1,0 +1,110 @@
+{
+  "id": "ent.formation.x-ad603318",
+  "type": "formation",
+  "name": "风火天绝阵",
+  "aliases": [
+    "风火大阵"
+  ],
+  "summary": "上古禁断大阵，借天地风火之力、阵体庞大；万天明请阵法大家在天星城四周布设以困城。",
+  "attributes": {
+    "效果": "借天地风火之力、困城、阻挡中低阶修士与大型禁制、对单个神通惊人者效用有限、风火之力轰击、对筑基期巨大杀伤",
+    "出处": "上古禁断大阵",
+    "布置者": "逆星盟",
+    "破解法": "毁阵眼(青红色铜柱)"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "借天地风火之力",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "困城",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "阻挡中低阶修士与大型禁制",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "对单个神通惊人者效用有限",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "风火之力轰击、对筑基期巨大杀伤",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古禁断大阵",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "布置者": [
+      {
+        "value": "万天明",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "破解法": [
+      {
+        "value": "毁去三十六根关键风火柱中大半、先夺阵眼",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "毁阵眼(青红色铜柱)",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ]
+  },
+  "firstSeq": 1195,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "lore.fanren-1215-linggen-wuxing-heyi"
+  ],
+  "updatedAt": "2026-06-16T08:34:31.966Z"
+}

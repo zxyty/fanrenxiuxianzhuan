@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-1b181c01",
+  "type": "faction",
+  "name": "红衣铁卫",
+  "aliases": [],
+  "summary": "贾天龙亲自培养的五六十名子弟兵，武功精湛、忠心耿耿，平时舍不得动用。",
+  "attributes": {
+    "阵营": "野狼帮",
+    "等级": "精锐子弟兵"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "野狼帮",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "等级": [
+      {
+        "value": "精锐子弟兵",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.573Z"
+}

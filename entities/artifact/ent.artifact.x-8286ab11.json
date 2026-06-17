@@ -1,0 +1,90 @@
+{
+  "id": "ent.artifact.x-8286ab11",
+  "type": "artifact",
+  "name": "透明丝线",
+  "aliases": [
+    "透明丝线法器",
+    "线形法器",
+    "透明丝线团",
+    "丝条",
+    "透明的丝线"
+  ],
+  "summary": "黄枫谷黄衫同门所用透明丝线法器，可在最后关头偷袭割下敌首。",
+  "attributes": {
+    "能力": "割首偷袭、近似隐形、弹性锋利切割、可伸长至十余丈",
+    "外形": "近透明丝线团",
+    "持有者": "韩立"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "割首偷袭",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "近似隐形",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "弹性锋利切割",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "可伸长至十余丈",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "外形": [
+      {
+        "value": "缠于无名指的透明丝线",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "近透明丝线团",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ]
+  },
+  "firstSeq": 175,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-ch350-instant-kill"
+  ],
+  "updatedAt": "2026-06-14T12:04:23.757Z"
+}

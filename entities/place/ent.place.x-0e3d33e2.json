@@ -1,0 +1,74 @@
+{
+  "id": "ent.place.x-0e3d33e2",
+  "type": "place",
+  "name": "镜州",
+  "aliases": [],
+  "summary": "七玄门所在的州，隶属越国。",
+  "attributes": {
+    "类型": "州/边塞",
+    "所属势力": "越国",
+    "特产": "盗匪、镖局马帮"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "州",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      },
+      {
+        "value": "州/边塞",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "特产": [
+      {
+        "value": "盗匪",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "镖局马帮",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:51.504Z"
+}

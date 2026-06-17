@@ -1,0 +1,132 @@
+{
+  "id": "ent.person.x-3f6b7528",
+  "type": "person",
+  "name": "张奎",
+  "aliases": [
+    "疤面大汉",
+    "疤面骑士",
+    "张叔",
+    "张领队",
+    "张小子",
+    "疤面汉子",
+    "张奎连"
+  ],
+  "summary": "脸带刀疤，天东商号护卫队队长，以血咒文书招纳韩立。",
+  "attributes": {
+    "身份": "天东商号护卫队队长、车队领队、天东商号车队领队、天东商号护卫队领队、炼体士、天东商号领队",
+    "标志特征": "脸带刀疤、脸有疤;服丹变身生黄毛、瞳孔碧绿、金色短剑（金莹剑）",
+    "性别": "男",
+    "外貌": "疤面凶恶、脸有疤痕、粗壮、疤面"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "天东商号护卫队队长",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "车队领队",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "天东商号车队领队",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "天东商号护卫队领队",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "天东商号领队",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "脸带刀疤",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "脸有疤;服丹变身生黄毛、瞳孔碧绿",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "金色短剑（金莹剑）",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ],
+    "外貌": [
+      {
+        "value": "疤面凶恶",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "脸有疤痕、粗壮",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "疤面",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ]
+  },
+  "firstSeq": 1261,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+  ],
+  "updatedAt": "2026-06-16T10:33:15.736Z"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ent.formation.x-941dec78",
+  "type": "formation",
+  "name": "古传送阵",
+  "aliases": [
+    "地下传送阵",
+    "疑似古传送阵",
+    "古传送阵图纸",
+    "地下古传送阵",
+    "古阵",
+    "古法阵"
+  ],
+  "summary": "传说中可远传千万里的上古传送阵，地下洞穴那座已一角破损无法使用。",
+  "attributes": {
+    "效果": "动辄千万里超距传送、传送、远程传送至未知遥远地点、远程传送、远距离传送",
+    "出处": "韩立复制成图纸委托修复",
+    "破解法": "需中阶灵石驱动",
+    "品阶": "古阵",
+    "布置者": "辛如音、辛如音(修复)、上古遗留"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "动辄千万里超距传送",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "传送",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "远程传送至未知遥远地点",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "远程传送",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "远距离传送",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "疑似古阵",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "韩立复制成图纸委托修复",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277,
+        "note": "原物离此较远、无法移动"
+      }
+    ],
+    "破解法": [
+      {
+        "value": "需大挪移令防空间压力",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "需中阶灵石驱动",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古阵",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "布置者": [
+      {
+        "value": "辛如音",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349,
+        "note": "修复者，约一个月后完工"
+      },
+      {
+        "value": "辛如音(修复)",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "上古遗留",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277,
+      "note": "原物离此较远、无法移动"
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349,
+      "note": "修复者，约一个月后完工"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping"
+  ],
+  "updatedAt": "2026-06-14T12:34:03.863Z"
+}

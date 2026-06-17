@@ -1,0 +1,63 @@
+{
+  "id": "ent.item.x-f644d48a",
+  "type": "item",
+  "name": "灵具",
+  "aliases": [
+    "低阶灵具",
+    "灵戒",
+    "灵镯"
+  ],
+  "summary": "灵界一类外形似法器的器物，镶嵌灵石后凡人借兽皮灵石手套即可驱动，使凡人具备战力。",
+  "attributes": {
+    "类型": "炼体士专用法器",
+    "用途": "引灵石之力暂时激发威能"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "凡人可用之灵器",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "炼体士专用法器",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "用途": [
+      {
+        "value": "凡人借灵石驱动以战斗",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "引灵石之力暂时激发威能",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ]
+  },
+  "firstSeq": 1261,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1273-1278-anyuan-beast-tide"
+  ],
+  "updatedAt": "2026-06-16T10:20:06.385Z"
+}

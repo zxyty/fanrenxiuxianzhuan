@@ -1,0 +1,94 @@
+{
+  "id": "ent.artifact.x-8bcdbdb3",
+  "type": "artifact",
+  "name": "通天灵宝",
+  "aliases": [
+    "通天宝物",
+    "两件灵宝",
+    "两件通天灵宝",
+    "奇宝",
+    "逆天宝物",
+    "通天灵宝至宝"
+  ],
+  "summary": "叶家暗图夺取的真正通天灵宝，封印中的至宝；叶家另以仿制品声东击西。",
+  "attributes": {
+    "品阶": "通天灵宝",
+    "来历": "镇压于镇魔塔下层",
+    "能力": "镇压封印"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "通天灵宝",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "通天灵宝(至宝)",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "来历": [
+      {
+        "value": "修仙界传说威力巨大",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "昆吾山",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "镇压于镇魔塔下层",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "能力": [
+      {
+        "value": "传闻可逆转乾坤",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "镇压封印",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+  ],
+  "updatedAt": "2026-06-16T04:59:44.965Z"
+}

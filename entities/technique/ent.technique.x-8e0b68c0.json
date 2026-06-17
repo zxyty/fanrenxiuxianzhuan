@@ -1,0 +1,659 @@
+{
+  "id": "ent.technique.x-8e0b68c0",
+  "type": "technique",
+  "name": "大衍决",
+  "aliases": [
+    "半大衍决",
+    "下半部大衍决",
+    "大衍决第一层口诀",
+    "大衍诀",
+    "傀儡术",
+    "千竹教傀儡术",
+    "大衍决第四层",
+    "机关傀儡术",
+    "第四层大衍决",
+    "大衍决后三层",
+    "大衍决第五层",
+    "结丹傀儡炼制之法",
+    "大衍诀第一层口诀",
+    "大衍诀第四层口诀",
+    "大衍真经"
+  ],
+  "summary": "千竹教功法，分层修炼；炼成第三层可驱使二百余傀儡，分上、下半部，下半部被作为诱饵。",
+  "attributes": {
+    "出处": "千竹教、千竹教开派祖师、林师兄遗留玉简、无名典籍/极西之地千竹教一系、极西之地/千竹教一脉、大衍神君自创、大衍神君、大衍神君玉简、大衍神君所传、千竹教/大衍神君、大衍神君大衍宝经",
+    "效果": "分层修炼，高层可驱使大量傀儡、强大神识、修炼分神之术、操控大量傀儡、传言增结丹几率(约三成)、号称促进结丹几率（存疑）、大幅提升实力、壮大元神、分裂出更细更多的独立神念、第一层可分神控傀儡、第二层上百个、第三层数百个、驱使傀儡兽光柱攻击、增强战力/护身、大幅增强神识、灵气感应追踪方圆百余里、同时操纵十余柄法器、操纵机关兽傀儡作战、可同时御使多件（成套）法器、操控兽傀儡/傀儡士兵作战、操控傀儡作战、操控傀儡、驱使傀儡、傀儡之术/保命、壮大神识、神识强大数倍、可分神百余份、结合傀儡术、操控傀儡兽士兵、一心二用、傀儡术、凝神定魂、运转后可助看见九曲灵参的清灵之气、全力运行可洞察灵物的清灵之气、护持心神、护持心神、抵御幻境魅惑、增强神识、护主、清醒心神抗迷魅、强化神识、修炼分层推进、护住心神、抵御心神探测、神识达元婴初期水准、强化神识/元神、增长神识、炼制驱使傀儡、增益神识、扩展神识、笼罩范围、辨识目标、炼制傀儡、傀儡术、推衍、炼制操控傀儡兽、近距玩弄/幻术惑敌、神识攻击（惊神刺/精神刺）、炼制机关傀儡、神识化千分神、寄附他物搜索、炼制高阶傀儡、御神、抵御迷神夺魂、血月觅灵追踪术、傀儡操控、附体秘术、傀儡术、惊神刺等、强化神念、护持神识、傀儡之术、神识强于化神初大成、仅逊炼虚初期、神觉灵感极灵敏、身躯隐匿、凝聚神念、抵御震慑、傀儡操控/监视、凝神定识、抵御神识干扰、大幅增强神念、清明神识、驱散醉意、稳固神识、流转复明、运转可隔绝大半外来神念、强大神念、封印妖王印记、护神识、抗禁制吸引",
+    "适用境界": "修仙界、筑基起修、筑基期、筑基期最盛、元婴",
+    "修炼条件": "养魂木滋养神识",
+    "外显异象": "第四层瓶颈征兆:心绪烦躁、难以平心静气"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "千竹教",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "千竹教开派祖师",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "林师兄遗留玉简",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "无名典籍/极西之地千竹教一系",
+        "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+        "seq": 637
+      },
+      {
+        "value": "极西之地/千竹教一脉",
+        "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+        "seq": 787
+      },
+      {
+        "value": "大衍神君自创",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "大衍神君",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "大衍神君玉简",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "大衍神君所传",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "千竹教/大衍神君",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "大衍神君大衍宝经",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "效果": [
+      {
+        "value": "分层修炼，高层可驱使大量傀儡",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "强大神识",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "修炼分神之术",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "操控大量傀儡",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "传言增结丹几率(约三成)",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "号称促进结丹几率（存疑）",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "大幅提升实力",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "壮大元神",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "分裂出更细更多的独立神念",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "第一层可分神控傀儡",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "第二层上百个",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "第三层数百个",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "驱使傀儡兽光柱攻击",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "增强战力/护身",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "大幅增强神识",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      },
+      {
+        "value": "灵气感应追踪方圆百余里",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      },
+      {
+        "value": "同时操纵十余柄法器",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "操纵机关兽傀儡作战",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "可同时御使多件（成套）法器",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "操控兽傀儡/傀儡士兵作战",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      },
+      {
+        "value": "操控傀儡作战",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "操控傀儡",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      },
+      {
+        "value": "驱使傀儡",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      },
+      {
+        "value": "傀儡之术/保命",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "壮大神识",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "神识强大数倍",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "可分神百余份",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "结合傀儡术",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "操控傀儡兽士兵",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "一心二用",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      },
+      {
+        "value": "傀儡术",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      },
+      {
+        "value": "凝神定魂",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      },
+      {
+        "value": "运转后可助看见九曲灵参的清灵之气",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "全力运行可洞察灵物的清灵之气",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "护持心神",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "护持心神、抵御幻境魅惑",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      },
+      {
+        "value": "增强神识",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "护主、清醒心神抗迷魅",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "强化神识",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "修炼分层推进",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "护住心神、抵御心神探测",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "神识达元婴初期水准",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "强化神识/元神",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "增长神识",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "炼制驱使傀儡",
+        "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
+        "seq": 637
+      },
+      {
+        "value": "增益神识",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "扩展神识、笼罩范围、辨识目标",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "炼制傀儡",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      },
+      {
+        "value": "傀儡术、推衍",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "炼制操控傀儡兽",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "近距玩弄/幻术惑敌",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "神识攻击（惊神刺/精神刺）",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "炼制机关傀儡",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "神识化千分神、寄附他物搜索",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "炼制高阶傀儡",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "御神、抵御迷神夺魂",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "血月觅灵追踪术",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "傀儡操控、附体秘术",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      },
+      {
+        "value": "傀儡术、惊神刺等",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "强化神念",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "护持神识",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "傀儡之术",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "神识强于化神初大成、仅逊炼虚初期",
+        "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+        "seq": 1333
+      },
+      {
+        "value": "神觉灵感极灵敏、身躯隐匿",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      },
+      {
+        "value": "凝聚神念、抵御震慑",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "傀儡操控/监视",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "凝神定识、抵御神识干扰",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      },
+      {
+        "value": "大幅增强神念",
+        "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "清明神识",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "驱散醉意",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "稳固神识、流转复明",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "运转可隔绝大半外来神念",
+        "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      },
+      {
+        "value": "强大神念、封印妖王印记",
+        "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      },
+      {
+        "value": "护神识、抗禁制吸引",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "修仙界",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "筑基起修",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "筑基期最盛",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "不增法力且难修，高层仅教主及继承人可修",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "需长期苦修",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "第二层需多年强行锻炼神识，头痛脑胀",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "神识强大",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      },
+      {
+        "value": "第四层需入世磨炼心境，否则受心魔反噬",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      },
+      {
+        "value": "尚有数层口诀未得、需赴极西之地求取",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "养魂木滋养神识",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "第四层瓶颈征兆:心绪烦躁、难以平心静气",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601,
+        "note": "本片段"
+      }
+    ]
+  },
+  "firstSeq": 229,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "dated": false,
+      "seq": 229
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601,
+      "note": "本片段"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-439-444-guiwang-xutiandian",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-636-641-hanli-jieying-luoyunzong",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1135-1140-qingyu-leikongdao",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+  ],
+  "updatedAt": "2026-06-17T02:59:10.907Z"
+}

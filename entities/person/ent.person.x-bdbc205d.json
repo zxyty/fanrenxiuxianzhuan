@@ -1,0 +1,121 @@
+{
+  "id": "ent.person.x-bdbc205d",
+  "type": "person",
+  "name": "潘青",
+  "aliases": [
+    "少东主",
+    "潘清",
+    "潘师弟",
+    "天东商号少东主"
+  ],
+  "summary": "方夫人之子、蓝袍青年（二十五六），在金玉宗修炼仙术，筑基不久、灵气较弱。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "筑基初期",
+    "外貌": "蓝袍青年",
+    "身份": "天东商号少东主",
+    "标志特征": "资质极佳",
+    "阵营": "金玉宗"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基初期",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "外貌": [
+      {
+        "value": "蓝袍青年、二十五六、貌似方夫人",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "蓝袍青年",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "身份": [
+      {
+        "value": "金玉宗修士",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "天东商号少东主",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "资质极佳",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "阵营": [
+      {
+        "value": "金玉宗",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+  ],
+  "updatedAt": "2026-06-16T10:33:15.768Z"
+}

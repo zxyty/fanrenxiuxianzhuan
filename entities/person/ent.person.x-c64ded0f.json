@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-c64ded0f",
+  "type": "person",
+  "name": "王铁枪",
+  "aliases": [],
+  "summary": "大晋辽州舜江上的护船镖师，入行二十余年，护送官员家眷的半官船；章末其船旁发现冻人的大冰块。",
+  "attributes": {
+    "性别": "男",
+    "身份": "护船镖师、镖师",
+    "标志特征": "擅枪法"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "身份": [
+      {
+        "value": "护船镖师",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "镖师",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "擅枪法",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ]
+  },
+  "firstSeq": 895,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch895-jinpa-yincan"
+  ],
+  "updatedAt": "2026-06-16T00:26:16.662Z"
+}

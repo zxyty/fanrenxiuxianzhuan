@@ -1,0 +1,107 @@
+{
+  "id": "ent.faction.x-65ceaf40",
+  "type": "faction",
+  "name": "天魔宗",
+  "aliases": [
+    "天魔宗一门"
+  ],
+  "summary": "七妙真人所属宗门。",
+  "attributes": {
+    "阵营": "魔道",
+    "据点": "魔陀山",
+    "所属界面": "人界",
+    "等级": "魔道第一宗"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 943
+      }
+    ],
+    "据点": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "魔陀山·魔宫",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      },
+      {
+        "value": "魔陀山",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ],
+    "等级": [
+      {
+        "value": "正魔第一大宗",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "魔道第一宗",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 943
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+  ],
+  "updatedAt": "2026-06-16T09:47:06.208Z"
+}

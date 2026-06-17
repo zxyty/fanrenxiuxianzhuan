@@ -1,0 +1,68 @@
+{
+  "id": "ent.place.x-28d556f4",
+  "type": "place",
+  "name": "白凤峰",
+  "aliases": [],
+  "summary": "落云宗最东、六奇峰中最矮、景色最佳的山峰，多女修，两位峰主皆结丹女修；峰顶有朝凤阁，宋师祖所在；外峰男弟子入山须先通禀。",
+  "attributes": {
+    "所属势力": "落云宗",
+    "类型": "宗门山峰",
+    "守护": "女修禁制"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "类型": [
+      {
+        "value": "山峰",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "宗门山峰",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "守护": [
+      {
+        "value": "女修禁制",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ]
+  },
+  "firstSeq": 619,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch666-liuyu"
+  ],
+  "updatedAt": "2026-06-14T21:42:49.296Z"
+}

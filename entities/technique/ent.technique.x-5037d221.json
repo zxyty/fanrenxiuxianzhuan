@@ -1,0 +1,116 @@
+{
+  "id": "ent.technique.x-5037d221",
+  "type": "technique",
+  "name": "疾风九变",
+  "aliases": [
+    "疾风九变身法"
+  ],
+  "summary": "兽皮书所载妖族功法，专为禽类妖兽，含法决、身法及匿风术、血影遁两密术；法决身法须妖躯否则暴体而亡。",
+  "attributes": {
+    "品阶": "妖族功法",
+    "出处": "萧翠儿祖孙兽皮书",
+    "修炼条件": "禽类妖兽躯体、天生双翅+妖族强横身体、须先修明王决",
+    "效果": "瞬移闪现身法"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "妖族功法",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      }
+    ],
+    "出处": [
+      {
+        "value": "妖族兽皮书",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "萧翠儿祖孙兽皮书",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189,
+        "note": "妖文书写"
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "禽类妖兽躯体",
+        "docId": "plot.fanren-ch560-guishu",
+        "seq": 601
+      },
+      {
+        "value": "天生双翅+妖族强横身体",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "须先修明王决",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "效果": [
+      {
+        "value": "身法变幻为主",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "身躯化白丝闪避",
+        "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "诡异变化",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "瞬移闪现身法",
+        "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+        "seq": 1363
+      }
+    ]
+  },
+  "firstSeq": 601,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189,
+      "note": "妖文书写"
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch560-guishu",
+      "dated": false,
+      "seq": 601
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+      "dated": false,
+      "seq": 1363
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1363-1368-ying-clan-mirage-city",
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+  ],
+  "updatedAt": "2026-06-16T14:43:54.405Z"
+}

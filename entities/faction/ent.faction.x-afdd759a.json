@@ -1,0 +1,111 @@
+{
+  "id": "ent.faction.x-afdd759a",
+  "type": "faction",
+  "name": "蒙山五友",
+  "aliases": [
+    "蒙山五友五散修",
+    "蒙山五子",
+    "蒙山四友",
+    "黑脸老者一行",
+    "老二",
+    "黑脸老者一伙"
+  ],
+  "summary": "三男两女共五名炼气期散修结义而成,被幕后黑手擒住并下禁制、逼其害人。",
+  "attributes": {
+    "阵营": "随韩立一方",
+    "等级": "炼气期(十层以上)、炼气至筑基、炼气期",
+    "据点": "清音院",
+    "理念": "结拜同生共死"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "暂附韩立",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "随韩立一方",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "等级": [
+      {
+        "value": "炼气期(十层以上)",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "炼气至筑基",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "清音院",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "理念": [
+      {
+        "value": "结拜同生共死",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.582Z"
+}

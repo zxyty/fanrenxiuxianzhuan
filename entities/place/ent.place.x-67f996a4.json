@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-67f996a4",
+  "type": "place",
+  "name": "燕梁山",
+  "aliases": [
+    "雁翎山"
+  ],
+  "summary": "青良城附近风景不错的山脉，燕家重地燕翎堡座落其内。",
+  "attributes": {
+    "类型": "山脉",
+    "守护": "燕翎堡禁制"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "山脉",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "守护": [
+      {
+        "value": "燕翎堡禁制",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan"
+  ],
+  "updatedAt": "2026-06-14T07:18:30.768Z"
+}

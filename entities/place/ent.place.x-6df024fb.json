@@ -1,0 +1,93 @@
+{
+  "id": "ent.place.x-6df024fb",
+  "type": "place",
+  "name": "越京",
+  "aliases": [
+    "越国都城",
+    "越京城",
+    "京城"
+  ],
+  "summary": "越国第一大城、都城，位居全国腹心，分东西南北四区（北皇城、南官贵、东富商、西穷苦）。",
+  "attributes": {
+    "所属势力": "越国(实为黑煞教盘踞皇宫)",
+    "类型": "都城、城池、京城",
+    "所属界面": "人界·越国"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "越国(实为黑煞教盘踞皇宫)",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "类型": [
+      {
+        "value": "都城",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "京城",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "人界·越国",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 277,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.403Z"
+}

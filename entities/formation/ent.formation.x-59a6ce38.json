@@ -1,0 +1,53 @@
+{
+  "id": "ent.formation.x-59a6ce38",
+  "type": "formation",
+  "name": "上古封印法阵",
+  "aliases": [
+    "上古封印大阵",
+    "巨型封印大阵"
+  ],
+  "summary": "不知多少年前布下的巨型封印法阵，以大漩涡为阵眼、七灵岛为组成部分，封印无边魔气；阵眼已遭破坏。",
+  "attributes": {
+    "效果": "封印无边魔气",
+    "破解法": "资料载于太真门隐秘典籍/与大晋真极门相关"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "封印无边魔气",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "破解法": [
+      {
+        "value": "资料载于太真门隐秘典籍/与大晋真极门相关",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865,
+        "note": "尚在探究"
+      }
+    ]
+  },
+  "firstSeq": 865,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865,
+      "note": "尚在探究"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.515Z"
+}

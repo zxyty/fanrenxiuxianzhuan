@@ -1,0 +1,53 @@
+{
+  "id": "ent.person.x-28abe573",
+  "type": "person",
+  "name": "向老",
+  "aliases": [
+    "向前辈"
+  ],
+  "summary": "与化仙宗有渊源的大修士，随时可赶到，木夫人倚为后援。",
+  "attributes": {
+    "阵营": "化仙宗（渊源）",
+    "存殁": "下落不明"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "化仙宗（渊源）",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "存殁": [
+      {
+        "value": "下落不明",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009,
+        "note": "木夫人忧其遇险"
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009,
+      "note": "木夫人忧其遇险"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.267Z"
+}

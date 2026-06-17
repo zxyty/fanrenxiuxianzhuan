@@ -1,0 +1,55 @@
+{
+  "id": "ent.place.x-71b3d188",
+  "type": "place",
+  "name": "尾星岛",
+  "aliases": [],
+  "summary": "乱星海西南角三座大岛之一。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "类型": "岛屿"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "类型": [
+      {
+        "value": "大岛",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "岛屿",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.222Z"
+}

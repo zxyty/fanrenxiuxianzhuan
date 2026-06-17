@@ -1,0 +1,36 @@
+{
+  "id": "ent.faction.x-51c4fb94",
+  "type": "faction",
+  "name": "玄玉道",
+  "aliases": [
+    "玄玉道门"
+  ],
+  "summary": "辽州的无名小派，曹梦容记名弟子所属门派。",
+  "attributes": {
+    "等级": "辽州无名小派"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "辽州无名小派",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ]
+  },
+  "firstSeq": 895,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch895-jinpa-yincan"
+  ],
+  "updatedAt": "2026-06-16T00:26:16.665Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ent.pill.x-9aafad6e",
+  "type": "pill",
+  "name": "灭尘丹",
+  "aliases": [],
+  "summary": "天渊城每年发予飞升修士的丹药，洗去下界异界气息，连服三百年方可彻底清除。",
+  "attributes": {
+    "功效": "削弱/降低天劫威力",
+    "主料": "蛮荒世界珍稀材料",
+    "副作用": "瓶上重禁制，强破则爆毁",
+    "适用境界": "化神渡劫"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "洗去下界异界气息",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "奖励/灵丹",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "度两色天劫",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "任务奖励、解禁后恢复自由身",
+        "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+        "seq": 1363
+      },
+      {
+        "value": "韩立急需之物，关系其自由身",
+        "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "削弱/降低天劫威力",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "主料": [
+      {
+        "value": "蛮荒世界珍稀材料",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "副作用": [
+      {
+        "value": "被设禁制，未完成任务自行毁去",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "瓶上重禁制，强破则爆毁",
+        "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+        "seq": 1363
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神渡劫",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
+      "dated": false,
+      "seq": 1363
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1363-1368-ying-clan-mirage-city",
+    "plot.fanren-1369-1374-heiye-senlin-muzu",
+    "plot.fanren-1463-mujing-cave"
+  ],
+  "updatedAt": "2026-06-16T17:21:15.443Z"
+}

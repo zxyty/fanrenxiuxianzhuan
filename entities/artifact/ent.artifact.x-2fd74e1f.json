@@ -1,0 +1,118 @@
+{
+  "id": "ent.artifact.x-2fd74e1f",
+  "type": "artifact",
+  "name": "定法器小镜",
+  "aliases": [
+    "小镜子",
+    "青濛镜"
+  ],
+  "summary": "白衣女子(多宝女)的法器，放青光可定住敌方法器与法术，一次只定一片、每次半刻钟。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "喷青光定住法器与目标",
+    "禁制": "一次只能定一片、每次仅半刻钟",
+    "外形": "巴掌大小镜子",
+    "品阶": "顶级法器",
+    "来历": "掩月双娇护身法器，韩立自封岳处所得"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "掩月宗多宝女",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "能力": [
+      {
+        "value": "定住敌方法器与法术",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "喷青光定住法器与目标",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "禁制": [
+      {
+        "value": "一次只能定一片、每次仅半刻钟",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "外形": [
+      {
+        "value": "巴掌大小镜子",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "品阶": [
+      {
+        "value": "顶级法器",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "来历": [
+      {
+        "value": "掩月双娇护身法器，韩立自封岳处所得",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou"
+  ],
+  "updatedAt": "2026-06-14T06:06:29.051Z"
+}

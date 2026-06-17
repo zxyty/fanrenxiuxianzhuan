@@ -1,0 +1,126 @@
+{
+  "id": "ent.artifact.x-a5650aa2",
+  "type": "artifact",
+  "name": "元罡盾",
+  "aliases": [
+    "银盾",
+    "银色小盾",
+    "银幕",
+    "银色巨盾",
+    "银光小盾",
+    "银色光罩"
+  ],
+  "summary": "韩立防御法宝，被珑梦一击砸出数寸深凹痕。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "防御、化银色光罩防御、幻化凝厚光盾防御、盾面如镜反射光球攻击、凝光罩护身、消弭并反弹部分攻击、护罩防御",
+    "外形": "银色小盾，可化丈许"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1015
+      },
+      {
+        "value": "人形傀儡（韩立）",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "能力": [
+      {
+        "value": "防御",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "化银色光罩防御",
+        "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "幻化凝厚光盾防御",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "盾面如镜反射光球攻击",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "凝光罩护身",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "消弭并反弹部分攻击",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "护罩防御",
+        "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      }
+    ],
+    "外形": [
+      {
+        "value": "银色小盾",
+        "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "银色小盾，可化丈许",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "巴掌大银盾，可涨为银色巨盾",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "银光闪闪小盾",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ]
+  },
+  "firstSeq": 967,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1015
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "dated": false,
+      "seq": 1147
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.138Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ent.place.x-a2f75493",
+  "type": "place",
+  "name": "黄枫谷坊市",
+  "aliases": [
+    "坊市",
+    "黄枫谷坊市街道",
+    "双峰岛坊市"
+  ],
+  "summary": "黄枫谷本门坊市，位于太岳山脉东北边缘，因毗邻元武国而格外兴旺。",
+  "attributes": {
+    "所属势力": "妙音门",
+    "类型": "坊市、修仙坊市、修仙集市",
+    "特产": "元武国特殊物品",
+    "守护": "筑基期高手",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "类型": [
+      {
+        "value": "坊市",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "修仙坊市",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "修仙集市",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "特产": [
+      {
+        "value": "元武国特殊物品",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "守护": [
+      {
+        "value": "筑基期高手",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 409
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+  ],
+  "updatedAt": "2026-06-14T18:52:01.133Z"
+}

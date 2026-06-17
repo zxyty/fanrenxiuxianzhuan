@@ -1,0 +1,134 @@
+{
+  "id": "ent.person.x-2541e1e3",
+  "type": "person",
+  "name": "绿衣少女",
+  "aliases": [
+    "易羞少女",
+    "灵兽山少女",
+    "卖金竺笔的少女",
+    "菡姑娘"
+  ],
+  "summary": "某密林中指挥白色小雕苦战双头怪蛇的少女，蛇后火红大树结数枚红果。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "身穿绿衣、绿衣纤细、纤细单薄、面容苍白",
+    "小阶段": "炼气期十层",
+    "阵营": "灵兽山",
+    "性格": "倔强",
+    "身份": "灵兽山弟子",
+    "标志特征": "怕生害羞"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身穿绿衣",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "绿衣纤细",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "纤细单薄、面容苍白",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期十层",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵兽山",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "性格": [
+      {
+        "value": "倔强",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "身份": [
+      {
+        "value": "灵兽山弟子",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "怕生害羞",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou"
+  ],
+  "updatedAt": "2026-06-14T06:06:29.058Z"
+}

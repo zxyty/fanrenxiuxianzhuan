@@ -1,0 +1,99 @@
+{
+  "id": "ent.faction.x-071b95f9",
+  "type": "faction",
+  "name": "清虚门",
+  "aliases": [
+    "清虚谷"
+  ],
+  "summary": "越国七大修仙门派之一。",
+  "attributes": {
+    "所属界面": "越国",
+    "镇派之宝": "雪虹绫",
+    "理念": "道门，多真道士与俗家子弟",
+    "阵营": "中立",
+    "据点": "越国"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "雪虹绫",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "理念": [
+      {
+        "value": "道门，多真道士与俗家子弟",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+  ],
+  "updatedAt": "2026-06-15T02:43:39.741Z"
+}

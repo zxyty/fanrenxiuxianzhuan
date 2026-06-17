@@ -1,0 +1,9 @@
+# 待处理/瞬态(可从原著重生,无需入库)
+pending/inbox/
+pending/failed/
+pending/.quarantine/
+pending/.state/run.lock
+# 派生索引(每单元重建,churn 大;resume 时 rebuild 即可)
+indexes/
+# 运行记录(瞬态运维元数据)
+.runs/

@@ -1,0 +1,116 @@
+{
+  "id": "ent.person.x-87a225c3",
+  "type": "person",
+  "name": "叶姓老者",
+  "aliases": [
+    "叶师弟",
+    "叶师叔",
+    "叶仙师",
+    "叶堂主",
+    "叶师兄",
+    "叶师伯",
+    "监察长老"
+  ],
+  "summary": "黄枫谷长老，红脸老者，其侄孙筑基丹名额被取消，上门欲买下韩立的筑基丹。",
+  "attributes": {
+    "性别": "男",
+    "身份": "小极宫监察长老",
+    "外貌": "灰发老者",
+    "性格": "伪君子、以权谋私",
+    "阵营": "黄枫谷"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "身份": [
+      {
+        "value": "黄枫谷长老",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "百机堂堂主／谷内管事",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "小极宫监察长老",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "外貌": [
+      {
+        "value": "红脸老者",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "灰发老者",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "性格": [
+      {
+        "value": "伪君子、以权谋私",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-1088-bingpo-hanlie-zhen"
+  ],
+  "updatedAt": "2026-06-15T09:30:06.920Z"
+}

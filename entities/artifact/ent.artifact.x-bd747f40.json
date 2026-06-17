@@ -1,0 +1,64 @@
+{
+  "id": "ent.artifact.x-bd747f40",
+  "type": "artifact",
+  "name": "落尘珠",
+  "aliases": [
+    "黄色珠子"
+  ],
+  "summary": "马云龙的成名顶级法器，由蓝衫青年手托，是其与马云龙有关系的凭证。",
+  "attributes": {
+    "品阶": "顶级法器",
+    "持有者": "马云龙",
+    "来历": "马云龙成名法器"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "顶级法器",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "持有者": [
+      {
+        "value": "马云龙",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "来历": [
+      {
+        "value": "马云龙成名法器",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.518Z"
+}

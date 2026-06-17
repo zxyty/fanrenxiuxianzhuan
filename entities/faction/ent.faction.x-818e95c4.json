@@ -1,0 +1,134 @@
+{
+  "id": "ent.faction.x-818e95c4",
+  "type": "faction",
+  "name": "灵兽山",
+  "aliases": [
+    "灵兽门",
+    "奇兽山"
+  ],
+  "summary": "越国修仙门派，实力仅次于掩月宗。",
+  "attributes": {
+    "所属界面": "越国",
+    "等级": "越国第二",
+    "阵营": "魔道内应",
+    "据点": "越国",
+    "理念": "驭兽、驱兽/虫役见长"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "等级": [
+      {
+        "value": "越国第二",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "阵营": [
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "魔道御灵宗暗桩",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259,
+        "note": "本为暗桩，今已反水投越国七派"
+      },
+      {
+        "value": "御灵宗分支",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337,
+        "note": "表面属七派，实为魔道御灵宗暗线"
+      },
+      {
+        "value": "魔道内应",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343,
+        "note": "叛变通魔"
+      }
+    ],
+    "据点": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "理念": [
+      {
+        "value": "驭兽",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "驱兽/虫役见长",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343,
+      "note": "叛变通魔"
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:46.834Z"
+}

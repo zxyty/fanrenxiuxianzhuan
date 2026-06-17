@@ -1,0 +1,106 @@
+{
+  "id": "ent.person.x-4b21d6d1",
+  "type": "person",
+  "name": "欧阳",
+  "aliases": [
+    "欧阳道友",
+    "虬须大汉"
+  ],
+  "summary": "玉环居修士，筑基期，面色紫红、身材魁梧的虬须大汉，看似豪爽实则心机深沉，携雪灵水、天火液出售。",
+  "attributes": {
+    "小阶段": "筑基期",
+    "身份": "玉环居修士",
+    "外貌": "面色紫红、魁梧虬须大汉、虬须大汉",
+    "性格": "心机深沉",
+    "阵营": "小极宫"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "身份": [
+      {
+        "value": "玉环居修士",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面色紫红、魁梧虬须大汉",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "虬须大汉",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "性格": [
+      {
+        "value": "心机深沉",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373,
+        "note": "表面豪放直爽"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "六连殿",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373,
+      "note": "表面豪放直爽"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+  ],
+  "updatedAt": "2026-06-15T09:38:32.734Z"
+}

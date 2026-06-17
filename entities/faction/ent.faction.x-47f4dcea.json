@@ -1,0 +1,105 @@
+{
+  "id": "ent.faction.x-47f4dcea",
+  "type": "faction",
+  "name": "古剑门",
+  "aliases": [
+    "古剑院",
+    "古剑门一门",
+    "古剑宗"
+  ],
+  "summary": "擅御剑、镇派绝学太白剑诀、占云梦山主山脉，三派中实力最强。",
+  "attributes": {
+    "阵营": "天道盟",
+    "镇派之宝": "太白剑诀",
+    "理念": "剑修御剑",
+    "据点": "云梦山脉"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "太白剑诀",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "理念": [
+      {
+        "value": "剑修",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "剑修御剑",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ],
+    "据点": [
+      {
+        "value": "云梦山",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "云梦山脉",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "溪国",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-1167-1172-return-luoyunzong",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.485Z"
+}

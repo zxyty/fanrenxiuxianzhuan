@@ -1,0 +1,117 @@
+{
+  "id": "ent.artifact.x-930d292f",
+  "type": "artifact",
+  "name": "金刚符",
+  "aliases": [
+    "金刚罩符"
+  ],
+  "summary": "金属性初级中阶防御灵符，激发可放出金罩护身。",
+  "attributes": {
+    "品阶": "初级中阶",
+    "五行属性": "金",
+    "能力": "放出金罩护体、防法器攻击",
+    "外形": "金色漆字符箓",
+    "持有者": "韩立",
+    "来历": "得自金光上人，口诀习自苦桑和尚"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "初级中阶",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "金",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "能力": [
+      {
+        "value": "防御金罩",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "放出金罩护体、防法器攻击",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "外形": [
+      {
+        "value": "灵符",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "金色漆字符箓",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "来历": [
+      {
+        "value": "得自金光上人，口诀习自苦桑和尚",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.687Z"
+}

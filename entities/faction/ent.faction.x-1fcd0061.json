@@ -1,0 +1,49 @@
+{
+  "id": "ent.faction.x-1fcd0061",
+  "type": "faction",
+  "name": "天风部",
+  "aliases": [],
+  "summary": "慕兰联军十大部族之一，镇族法宝为御风车，穆上师为其上师，与黄沙部不睦。",
+  "attributes": {
+    "阵营": "慕兰",
+    "镇派之宝": "御风车"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "御风车",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ]
+  },
+  "firstSeq": 685,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+  ],
+  "updatedAt": "2026-06-15T03:00:06.888Z"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ent.person.x-6551db05",
+  "type": "person",
+  "name": "古魔圣祖",
+  "aliases": [
+    "圣祖分魂",
+    "双首四臂古魔",
+    "双首巨狼",
+    "黑色狼首",
+    "古魔尊者",
+    "双头怪狼"
+  ],
+  "summary": "被封昆吾山多年的古魔圣祖分魂，借五件魔器灌注魔气，化双首巨狼魔化脱困。",
+  "attributes": {
+    "种族": "古魔",
+    "身份": "圣祖分魂",
+    "外貌": "双首四臂",
+    "标志特征": "双首四臂",
+    "阵营": "魔道"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "身份": [
+      {
+        "value": "圣祖分魂",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "外貌": [
+      {
+        "value": "双首四臂／双首巨狼(银狼)",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "双首四臂",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "独角黑电、紫色魔焰",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "双首四臂",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ]
+  },
+  "firstSeq": 1033,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.090Z"
+}

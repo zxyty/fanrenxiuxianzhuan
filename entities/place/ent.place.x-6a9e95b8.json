@@ -1,0 +1,123 @@
+{
+  "id": "ent.place.x-6a9e95b8",
+  "type": "place",
+  "name": "小寰岛",
+  "aliases": [
+    "小寰",
+    "小环岛"
+  ],
+  "summary": "魁星岛旁的小岛，长六七十里，有小灵脉但灵气稀薄，韩立为之岛主。",
+  "attributes": {
+    "所属势力": "魁星岛（青云山）",
+    "类型": "海岛",
+    "特产": "低劣灵脉",
+    "守护": "三座法阵+真假洞府",
+    "所属界面": "西南海域"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "魁星岛（青云山）",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      }
+    ],
+    "类型": [
+      {
+        "value": "海外小岛",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "海岛洞府",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "特产": [
+      {
+        "value": "数里许长小灵脉",
+        "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+        "seq": 367
+      },
+      {
+        "value": "低劣灵脉",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "守护": [
+      {
+        "value": "白雾困人阵法",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "三座法阵+真假洞府",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      },
+      {
+        "value": "西南海域",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ]
+  },
+  "firstSeq": 367,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch368-kuixingdao-guzhuang",
+      "dated": false,
+      "seq": 367
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-1161-kunpeng-zhi-yu"
+  ],
+  "updatedAt": "2026-06-15T11:41:39.700Z"
+}

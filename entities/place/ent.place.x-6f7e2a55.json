@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-6f7e2a55",
+  "type": "place",
+  "name": "秘洞",
+  "aliases": [
+    "山洞",
+    "天然石厅"
+  ],
+  "summary": "数丈高洞口、淡青色山石的天然狭长秘洞，尽头石厅生有钟乳岩与紫猴花，由巨蜈蚣妖兽守护。",
+  "attributes": {
+    "类型": "天然秘洞",
+    "特产": "紫猴花",
+    "危险度": "高(中阶以上妖兽)"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "天然秘洞",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "特产": [
+      {
+        "value": "紫猴花",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高(中阶以上妖兽)",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.508Z"
+}

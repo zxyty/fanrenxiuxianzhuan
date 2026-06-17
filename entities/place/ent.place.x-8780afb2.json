@@ -1,0 +1,70 @@
+{
+  "id": "ent.place.x-8780afb2",
+  "type": "place",
+  "name": "建州",
+  "aliases": [],
+  "summary": "越国北部州，面积在十三州中排第二，多山川丘陵、人口稀少，与邻国元武国交界。",
+  "attributes": {
+    "所属界面": "越国北部",
+    "类型": "州域",
+    "所属势力": "越国"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国北部",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "类型": [
+      {
+        "value": "州",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "州域",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 139,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan"
+  ],
+  "updatedAt": "2026-06-14T06:31:18.978Z"
+}

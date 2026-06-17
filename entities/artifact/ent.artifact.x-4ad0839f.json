@@ -1,0 +1,103 @@
+{
+  "id": "ent.artifact.x-4ad0839f",
+  "type": "artifact",
+  "name": "法宝残片",
+  "aliases": [
+    "隐形布",
+    "半透明残片",
+    "布",
+    "隐形残片",
+    "法宝残片(布)"
+  ],
+  "summary": "可令所罩活物死物立即隐形且不泄灵气的法宝残片，结丹或元婴期修士所炼。",
+  "attributes": {
+    "能力": "罩物隐形且不泄灵气、隐匿物品、遮掩灵气、不阻被罩物吸纳外界灵气",
+    "来历": "结丹或元婴期修士法宝残片",
+    "外形": "残片如布",
+    "持有者": "韩立"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "罩物隐形且不泄灵气",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "隐匿物品",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "遮掩灵气",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "不阻被罩物吸纳外界灵气",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "来历": [
+      {
+        "value": "结丹或元婴期修士法宝残片",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "外形": [
+      {
+        "value": "皱巴巴半透明布料、闪白光",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "残片如布",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.564Z"
+}

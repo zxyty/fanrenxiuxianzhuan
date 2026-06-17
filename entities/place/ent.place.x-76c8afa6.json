@@ -1,0 +1,153 @@
+{
+  "id": "ent.place.x-76c8afa6",
+  "type": "place",
+  "name": "越国",
+  "aliases": [
+    "越国都城所在国"
+  ],
+  "summary": "韩立所在国度，下辖十三州。",
+  "attributes": {
+    "类型": "凡人国度",
+    "所属势力": "鬼灵门",
+    "危险度": "极高（魔道占据）",
+    "所属界面": "天南"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "国度",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      },
+      {
+        "value": "凡间国度",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "修仙国度",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "国家",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "凡俗国度",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "世俗国度",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "凡人国度",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "七大派",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "越国七派",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（魔道占据）",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ]
+  },
+  "firstSeq": 97,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.044Z"
+}

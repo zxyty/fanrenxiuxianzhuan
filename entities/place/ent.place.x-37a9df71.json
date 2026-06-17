@@ -1,0 +1,78 @@
+{
+  "id": "ent.place.x-37a9df71",
+  "type": "place",
+  "name": "虞国",
+  "aliases": [
+    "虞国边界",
+    "离州"
+  ],
+  "summary": "两年后将举行交易会的国度，韩立计划在此用鉄犀兽换珍稀之物。",
+  "attributes": {
+    "类型": "国/边界要地",
+    "特产": "交易会",
+    "所属界面": "天南"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "国度",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "国家",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "国/边界要地",
+        "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      }
+    ],
+    "特产": [
+      {
+        "value": "交易会",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ]
+  },
+  "firstSeq": 667,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "dated": false,
+      "seq": 721
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+  ],
+  "updatedAt": "2026-06-15T02:43:39.746Z"
+}

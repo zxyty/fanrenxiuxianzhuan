@@ -1,0 +1,39 @@
+{
+  "id": "ent.pill.x-60aa9634",
+  "type": "pill",
+  "name": "无常丹",
+  "aliases": [],
+  "summary": "韩立的战利品丹药，既是解毒圣药，亦可经特定手法转化为剧毒。",
+  "attributes": {
+    "功效": "解毒圣药、可转化为剧毒"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "解毒圣药",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "可转化为剧毒",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 301,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.949Z"
+}

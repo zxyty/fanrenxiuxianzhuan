@@ -1,0 +1,80 @@
+{
+  "id": "ent.item.x-cdc1bf61",
+  "type": "item",
+  "name": "虚天残图",
+  "aliases": [
+    "锦帕残图",
+    "锦帕地图",
+    "虚天图残片",
+    "被偷走的虚天残图"
+  ],
+  "summary": "进入虚天殿所需的锦帕地图，注入灵力可裹身穿过金色光罩。",
+  "attributes": {
+    "类型": "地图/信物、图录、残图",
+    "用途": "进入虚天殿、开启一面虚天殿石室门、指引虚天殿、虚天殿之行所用"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "地图/信物",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "图录",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      },
+      {
+        "value": "残图",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ],
+    "用途": [
+      {
+        "value": "进入虚天殿",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "开启一面虚天殿石室门",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      },
+      {
+        "value": "指引虚天殿",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      },
+      {
+        "value": "虚天殿之行所用",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ]
+  },
+  "firstSeq": 403,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "dated": false,
+      "seq": 403
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "dated": false,
+      "seq": 403
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.612Z"
+}

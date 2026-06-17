@@ -1,0 +1,283 @@
+{
+  "id": "ent.faction.x-1cc675f2",
+  "type": "faction",
+  "name": "黄枫谷",
+  "aliases": [
+    "黄枫谷一门",
+    "本门",
+    "本谷",
+    "贵谷"
+  ],
+  "summary": "越国七大修仙门派之一。",
+  "attributes": {
+    "所属界面": "越国",
+    "等级": "越国仙派、七大修仙派之一、七大仙派之一、越国七派之一",
+    "掌门": "令狐老怪",
+    "据点": "太岳山脉中部、太岳山脉、巫钧山一带、百药园、传功阁、岳麓殿、黄枫谷坊市、越国、黄枫谷、太岳山脉一带、太岳山脉(旧址)",
+    "理念": "壁虎断尾、金蝉脱壳保精锐",
+    "阵营": "天南正道"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "等级": [
+      {
+        "value": "越国仙派",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "七大修仙派之一",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "七大仙派之一",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "越国七派之一",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "掌门": [
+      {
+        "value": "钟灵道",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "钟掌门",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "令狐老怪",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "据点": [
+      {
+        "value": "太岳山脉中部",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      },
+      {
+        "value": "太岳山脉",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "巫钧山一带",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "百药园、传功阁、岳麓殿",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "黄枫谷坊市",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "太岳山脉一带",
+        "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+        "seq": 229
+      },
+      {
+        "value": "太岳山脉(旧址)",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "理念": [
+      {
+        "value": "凭结丹期以上修士镇派",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "壁虎断尾、金蝉脱壳保精锐",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355,
+        "note": "撤离时手段"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "越国正道修仙派",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "越国正道七大派之一",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "中立",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "正派",
+        "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+        "seq": 217
+      },
+      {
+        "value": "正道七派",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "七派/正道",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "七派",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "正道/越国七派之一",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "正道/七派之一",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "天南正道",
+        "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355,
+      "note": "撤离时手段"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "dated": false,
+      "seq": 757
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch344-formation-slays-mantis",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-439-444-guiwang-xutiandian",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan"
+  ],
+  "updatedAt": "2026-06-16T09:06:56.064Z"
+}

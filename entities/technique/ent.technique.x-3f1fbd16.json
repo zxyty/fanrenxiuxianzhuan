@@ -1,0 +1,68 @@
+{
+  "id": "ent.technique.x-3f1fbd16",
+  "type": "technique",
+  "name": "黑煞修罗功",
+  "aliases": [],
+  "summary": "魔道功法，修炼过急易致法力反噬，需修仙者精血压制真元，常于血牢练功。",
+  "attributes": {
+    "出处": "玄阴经",
+    "效果": "修炼过急致法力反噬，需精血压制",
+    "修炼条件": "于血牢练功"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      },
+      {
+        "value": "玄阴经",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "效果": [
+      {
+        "value": "修炼过急致法力反噬，需精血压制",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "于血牢练功",
+        "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+        "seq": 295
+      }
+    ]
+  },
+  "firstSeq": 295,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+      "dated": false,
+      "seq": 295
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.385Z"
+}

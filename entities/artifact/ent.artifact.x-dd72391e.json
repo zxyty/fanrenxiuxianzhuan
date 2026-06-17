@@ -1,0 +1,52 @@
+{
+  "id": "ent.artifact.x-dd72391e",
+  "type": "artifact",
+  "name": "银钩",
+  "aliases": [
+    "银光法器"
+  ],
+  "summary": "韩立的银光法器，本战被白衣女子水晶球喷出的粉红液体腐蚀成锈迹残刃、灵气大失。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "锈迹斑斑的残刃"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "外形": [
+      {
+        "value": "锈迹斑斑的残刃",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181,
+        "note": "被粉红腐蚀液体侵蚀后"
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181,
+      "note": "被粉红腐蚀液体侵蚀后"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha"
+  ],
+  "updatedAt": "2026-06-14T05:23:36.470Z"
+}

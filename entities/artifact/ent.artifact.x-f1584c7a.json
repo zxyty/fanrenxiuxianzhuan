@@ -1,0 +1,81 @@
+{
+  "id": "ent.artifact.x-f1584c7a",
+  "type": "artifact",
+  "name": "精钢环",
+  "aliases": [
+    "钢环"
+  ],
+  "summary": "韩立的上品法器，可巨大化旋转护身，本章被青蛟旗风刃流击碎。",
+  "attributes": {
+    "品阶": "上品法器",
+    "持有者": "韩立",
+    "能力": "巨大化旋转护身",
+    "禁制": "已损毁"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "上品法器",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "能力": [
+      {
+        "value": "巨大化旋转护身",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "禁制": [
+      {
+        "value": "已损毁",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169,
+        "note": "大战中粉碎"
+      }
+    ]
+  },
+  "firstSeq": 163,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169,
+      "note": "大战中粉碎"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.399Z"
+}

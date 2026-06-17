@@ -1,0 +1,53 @@
+{
+  "id": "ent.beast.x-36ffb0c6",
+  "type": "beast",
+  "name": "银头兽",
+  "aliases": [],
+  "summary": "浮黎沼泽密林古兽，可分裂身体、忽视斩杀，但行动缓慢、地域性极强。",
+  "attributes": {
+    "栖息地": "浮黎沼泽密林",
+    "能力": "自行分裂身体、忽视斩杀"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "浮黎沼泽密林",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "能力": [
+      {
+        "value": "自行分裂身体",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "忽视斩杀",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ]
+  },
+  "firstSeq": 1321,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-fruit",
+      "dated": false,
+      "seq": 1321
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1323-xuantian-fruit"
+  ],
+  "updatedAt": "2026-06-16T12:27:08.920Z"
+}

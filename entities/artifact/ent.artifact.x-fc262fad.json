@@ -1,0 +1,68 @@
+{
+  "id": "ent.artifact.x-fc262fad",
+  "type": "artifact",
+  "name": "乾蓝冰珠",
+  "aliases": [],
+  "summary": "光灿金丝球，韩立吞入腹中打算临死前以辟邪神雷引爆重创对方乃至同归于尽。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "拼命之宝,外层辟邪神雷",
+    "外形": "光灿金丝球"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "能力": [
+      {
+        "value": "可被辟邪神雷引爆，威力极大",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "拼命之宝,外层辟邪神雷",
+        "docId": "plot.fan-ren-541-bi-yan-jiu",
+        "seq": 541
+      }
+    ],
+    "外形": [
+      {
+        "value": "光灿金丝球",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 535,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "dated": false,
+      "seq": 541
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fan-ren-541-bi-yan-jiu"
+  ],
+  "updatedAt": "2026-06-14T18:31:38.058Z"
+}

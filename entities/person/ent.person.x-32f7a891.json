@@ -1,0 +1,135 @@
+{
+  "id": "ent.person.x-32f7a891",
+  "type": "person",
+  "name": "金老怪",
+  "aliases": [
+    "虬发老者",
+    "金老怪物",
+    "古剑门大长老"
+  ],
+  "summary": "古剑门大长老，元婴中期，曾与韩立交手，本卷被韩立隔绝气息神通震慑压服。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "元婴",
+    "阵营": "古剑门",
+    "身份": "古剑门大长老",
+    "外貌": "虬发魁梧、白发红润、环目凶残、双掌奇大",
+    "标志特征": "虬发",
+    "结局": "败于韩立、当场认输"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 859,
+        "note": "近顶峰"
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "阵营": [
+      {
+        "value": "古剑门",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "身份": [
+      {
+        "value": "古剑门大长老",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 865
+      },
+      {
+        "value": "古剑门长老",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "外貌": [
+      {
+        "value": "虬发魁梧、白发红润、环目凶残、双掌奇大",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "虬发",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "结局": [
+      {
+        "value": "败于韩立、当场认输",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ]
+  },
+  "firstSeq": 859,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 865
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1167-1172-return-luoyunzong",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.478Z"
+}

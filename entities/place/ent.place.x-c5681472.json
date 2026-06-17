@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-c5681472",
+  "type": "place",
+  "name": "蛮荒世界",
+  "aliases": [
+    "蛮荒之地",
+    "蛮荒古界",
+    "蛮荒"
+  ],
+  "summary": "凶险之地,寰苍奇邀黄粱灵君联手再闯以寻度大天劫之宝。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "凶险蛮荒之地",
+    "危险度": "极高",
+    "守护": "百目巨人等蛮荒存在"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "类型": [
+      {
+        "value": "异族凶险地域",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "凶险蛮荒之地",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "守护": [
+      {
+        "value": "百目巨人等蛮荒存在",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1297,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1359-shuanghuang-appears"
+  ],
+  "updatedAt": "2026-06-16T14:14:43.042Z"
+}

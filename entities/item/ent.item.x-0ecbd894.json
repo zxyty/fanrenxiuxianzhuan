@@ -1,0 +1,71 @@
+{
+  "id": "ent.item.x-0ecbd894",
+  "type": "item",
+  "name": "血线蛟内丹",
+  "aliases": [
+    "血线蛟的内丹"
+  ],
+  "summary": "五级妖兽血线蛟的内丹，白色布满血丝的圆球，可喂养妖兽助其进阶，是道士的赌注。",
+  "attributes": {
+    "类型": "妖兽内丹",
+    "用途": "炼药药引",
+    "品阶": "相当于结丹初期"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "妖兽内丹",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "用途": [
+      {
+        "value": "喂养妖兽助进阶",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "炼药药引",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      }
+    ],
+    "品阶": [
+      {
+        "value": "相当于结丹初期",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ]
+  },
+  "firstSeq": 175,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+      "dated": false,
+      "seq": 205
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-c205-210-tujiao-yu-nangong"
+  ],
+  "updatedAt": "2026-06-14T06:15:01.525Z"
+}

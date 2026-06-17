@@ -1,0 +1,52 @@
+{
+  "id": "ent.place.x-52fe4cfd",
+  "type": "place",
+  "name": "奎星岛",
+  "aliases": [
+    "奎星",
+    "奎星岛海域"
+  ],
+  "summary": "韩立交易后赶往的方向。",
+  "attributes": {
+    "所属界面": "乱星海",
+    "守护": "白濛濛护岛禁制"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "守护": [
+      {
+        "value": "白濛濛护岛禁制",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ]
+  },
+  "firstSeq": 1153,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1161-kunpeng-zhi-yu"
+  ],
+  "updatedAt": "2026-06-15T11:41:39.702Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-d545bc3b",
+  "type": "faction",
+  "name": "鬼魄门",
+  "aliases": [],
+  "summary": "由鬼婆统领的势力，门下有二女懂得毁去印记的秘术，曾助毁韩立体内的印记。",
+  "attributes": {
+    "所属界面": "灵界",
+    "掌门": "鬼婆"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "掌门": [
+      {
+        "value": "鬼婆",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1501,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.382Z"
+}

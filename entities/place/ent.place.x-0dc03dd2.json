@@ -1,0 +1,130 @@
+{
+  "id": "ent.place.x-0dc03dd2",
+  "type": "place",
+  "name": "内谷",
+  "aliases": [
+    "坠魔谷内谷",
+    "内谷之地"
+  ],
+  "summary": "用更厉害上古禁制将坠魔谷中心圈禁的核心区，外有十余条禁制重重的通道与血色禁制之光，火蟾兽与古修遗骸在其中。",
+  "attributes": {
+    "类型": "禁地/谷",
+    "危险度": "极高、高、高（空间裂缝、上古禁制、禁空禁制、灵禽失控）",
+    "守护": "血色禁制、北极元光通道、火蟾兽",
+    "所属势力": "坠魔谷",
+    "特产": "火蟾妖丹、灵烛果"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "禁地核心区",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "灵气紊乱秘境",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "禁地/谷",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "高（空间裂缝、上古禁制、禁空禁制、灵禽失控）",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "守护": [
+      {
+        "value": "血色禁制",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "北极元光通道",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "火蟾兽",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "特产": [
+      {
+        "value": "火蟾妖丹",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      },
+      {
+        "value": "灵烛果",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ]
+  },
+  "firstSeq": 805,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu"
+  ],
+  "updatedAt": "2026-06-15T13:16:27.447Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ent.artifact.x-438fdd1e",
+  "type": "artifact",
+  "name": "灵躯",
+  "aliases": [
+    "绿肤韩立",
+    "绿肤灵躯",
+    "绿肤灵躯练"
+  ],
+  "summary": "韩立放出的绿肤『韩立』分身躯体，与梵圣金身一同助战。",
+  "attributes": {
+    "持有者": "韩立",
+    "外形": "绿肤韩立",
+    "能力": "不死特性、墨绿战甲、绿色丝网、银色短尺"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "外形": [
+      {
+        "value": "绿肤韩立",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "能力": [
+      {
+        "value": "不死特性",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "墨绿战甲",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "绿色丝网",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "银色短尺",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      }
+    ]
+  },
+  "firstSeq": 1909,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+      "dated": false,
+      "seq": 1915
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1929-1934-blood-saint-clones-battle"
+  ],
+  "updatedAt": "2026-06-17T03:14:10.894Z"
+}

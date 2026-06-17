@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-de0b3907",
+  "type": "place",
+  "name": "越都",
+  "aliases": [
+    "越国京城"
+  ],
+  "summary": "越国京城，李化元所托护凡人世家所在地。",
+  "attributes": {
+    "所属势力": "越国",
+    "类型": "京城"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "类型": [
+      {
+        "value": "京城",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 271,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-272-jingu-yuan-war-one-year"
+  ],
+  "updatedAt": "2026-06-14T08:43:23.875Z"
+}

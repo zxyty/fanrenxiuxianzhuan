@@ -1,0 +1,72 @@
+{
+  "id": "ent.person.x-aa52eac6",
+  "type": "person",
+  "name": "丰师兄",
+  "aliases": [
+    "丰家小子",
+    "丰某"
+  ],
+  "summary": "杜师叔弟子，持法器紫光钹，与董萱儿传有双修之说，与燕雨争风吃醋。",
+  "attributes": {
+    "性别": "男",
+    "身份": "韩立同门师兄、筑基期修士",
+    "阵营": "黄枫谷"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "身份": [
+      {
+        "value": "韩立同门师兄",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "筑基期修士",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 247,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit"
+  ],
+  "updatedAt": "2026-06-14T08:12:27.788Z"
+}

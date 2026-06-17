@@ -1,0 +1,89 @@
+{
+  "id": "ent.person.x-b4f2259f",
+  "type": "person",
+  "name": "冯枕",
+  "aliases": [
+    "冯枕老贼"
+  ],
+  "summary": "原魔道散修，被冯家收留改姓为仆，暗中投靠孔家，以苦毒偷袭枫岳，本片段已被韩立击毙。",
+  "attributes": {
+    "小阶段": "结丹期",
+    "身份": "冯家修士",
+    "存殁": "死亡",
+    "死因": "被韩立击毙(尸体不成人形)"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "身份": [
+      {
+        "value": "冯家家仆",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883,
+        "note": "原魔道散修,改姓投靠;暗中投靠孔家"
+      },
+      {
+        "value": "冯家修士",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883,
+        "note": "第883章死亡，本章仅被提及"
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立击毙(尸体不成人形)",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883,
+      "note": "第883章死亡，本章仅被提及"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+  ],
+  "updatedAt": "2026-06-16T00:52:06.638Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ent.material.x-505964aa",
+  "type": "material",
+  "name": "木铃花",
+  "aliases": [
+    "木玲花"
+  ],
+  "summary": "紫色铃铛状奇香灵草，灵气不多不可炼丹，却在千年供奉中名列首位，黑隐山仅韩立灵山尚存。",
+  "attributes": {
+    "类型": "灵草、灵花",
+    "产地": "黑隐山韩立所居灵山",
+    "用途": "天鹏族供奉所需、天鹏族征收贡品、赤融族伏击争夺的目标物",
+    "稀有度": "珍稀"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "灵花",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "产地": [
+      {
+        "value": "黑隐山韩立所居灵山",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "用途": [
+      {
+        "value": "天鹏族供奉所需",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "天鹏族征收贡品",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "赤融族伏击争夺的目标物",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀少(他处枯竭)",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ]
+  },
+  "firstSeq": 1399,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1407-jinsui-lianti"
+  ],
+  "updatedAt": "2026-06-16T15:42:40.169Z"
+}

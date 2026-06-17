@@ -1,0 +1,98 @@
+{
+  "id": "ent.person.x-39dcb450",
+  "type": "person",
+  "name": "绿袍神秘人",
+  "aliases": [
+    "神秘人",
+    "斗篷人",
+    "高大神秘男子"
+  ],
+  "summary": "墨大夫从山下带回、寸步不离随行的神秘人物，头戴黑斗篷、身罩宽大绿袍不露肌肤，身材异常高大魁梧。",
+  "attributes": {
+    "外貌": "高大",
+    "标志特征": "随墨大夫寸步不离、体力惊人可整日站立不疲、背影令韩立感熟悉、悄然无声、隐匿如死物",
+    "性格": "沉默不语、绝对服从"
+  },
+  "observations": {
+    "外貌": [
+      {
+        "value": "黑斗篷绿袍罩身、不露肌肤、高大魁梧（高韩立两头）",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "顶斗篷的高大男子",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "高大",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "随墨大夫寸步不离",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "体力惊人可整日站立不疲",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "背影令韩立感熟悉",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "悄然无声、隐匿如死物",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉默不语",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "绝对服从",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      }
+    ]
+  },
+  "firstSeq": 25,
+  "attrProvenance": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+      "dated": false,
+      "seq": 43
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch31-36-shichongwan",
+      "dated": false,
+      "seq": 31
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch31-36-shichongwan",
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou"
+  ],
+  "updatedAt": "2026-06-14T02:15:03.810Z"
+}

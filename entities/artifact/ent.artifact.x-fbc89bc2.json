@@ -1,0 +1,86 @@
+{
+  "id": "ent.artifact.x-fbc89bc2",
+  "type": "artifact",
+  "name": "蓝色飞剑",
+  "aliases": [
+    "蓝元晶飞剑",
+    "五口蓝色小剑",
+    "五口巨剑"
+  ],
+  "summary": "由蓝元晶单一材料炼制的古旧飞剑，原主为数万年前结丹中后期修士，被韩立白瑶怡发现并取走。",
+  "attributes": {
+    "持有者": "蓝城主",
+    "外形": "蓝色飞剑",
+    "来历": "数万年前修士所遗，原主疑为洞内干尸",
+    "能力": "化数丈巨剑、削山"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "白瑶怡",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "蓝城主",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "外形": [
+      {
+        "value": "蓝色飞剑",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "来历": [
+      {
+        "value": "数万年前修士所遗，原主疑为洞内干尸",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "能力": [
+      {
+        "value": "化数丈巨剑、削山",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 973,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.094Z"
+}

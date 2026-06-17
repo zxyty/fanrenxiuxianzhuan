@@ -1,0 +1,85 @@
+{
+  "id": "ent.person.x-ae7d68dc",
+  "type": "person",
+  "name": "燕歌",
+  "aliases": [
+    "燕师兄",
+    "大师兄"
+  ],
+  "summary": "墨大夫第一个弟子（大师兄），自谦资质平平，自幼痴恋墨玉珠。",
+  "attributes": {
+    "性别": "男",
+    "身份": "墨府中人",
+    "外貌": "二十来岁、浓眉大眼",
+    "性格": "直爽、痴情"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "身份": [
+      {
+        "value": "墨大夫大弟子",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "墨府中人",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "外貌": [
+      {
+        "value": "二十来岁、浓眉大眼",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "性格": [
+      {
+        "value": "直爽、痴情",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ]
+  },
+  "firstSeq": 109,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:22:42.936Z"
+}

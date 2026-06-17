@@ -1,0 +1,63 @@
+{
+  "id": "ent.place.x-2b0a639f",
+  "type": "place",
+  "name": "天广殿",
+  "aliases": [],
+  "summary": "天渊城内长老讲道之所，每十年一次长老讲座，本次由刑长老讲授符箓之道。",
+  "attributes": {
+    "所属势力": "天渊城",
+    "类型": "讲道殿堂",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "类型": [
+      {
+        "value": "讲道殿堂",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ]
+  },
+  "firstSeq": 1345,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1353-ling-chong-da-cheng"
+  ],
+  "updatedAt": "2026-06-16T14:02:15.354Z"
+}

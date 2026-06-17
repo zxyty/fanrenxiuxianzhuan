@@ -1,0 +1,77 @@
+{
+  "id": "ent.place.x-7db91f23",
+  "type": "place",
+  "name": "深渊海域",
+  "aliases": [
+    "深渊海",
+    "深海区域",
+    "深海"
+  ],
+  "summary": "两年前妖兽狂暴、连元婴期修士都落荒而逃的禁区，韩立曾深入其中数年捕杀妖兽。",
+  "attributes": {
+    "危险度": "极高（妖兽渊薮）",
+    "类型": "深渊海域",
+    "所属界面": "乱星海"
+  },
+  "observations": {
+    "危险度": [
+      {
+        "value": "极高（妖兽狂暴，元婴期亦难立足）",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "极高（妖兽渊薮）",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "类型": [
+      {
+        "value": "深海禁区",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "深渊海域",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+  ],
+  "updatedAt": "2026-06-14T18:06:17.279Z"
+}

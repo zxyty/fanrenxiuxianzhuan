@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-d032223c",
+  "type": "faction",
+  "name": "白水剑宗",
+  "aliases": [],
+  "summary": "传承星宫一脉的分支宗门，原称中立，于星宫遭劫时前来援手，三名结丹修士被韩立所救。",
+  "attributes": {
+    "阵营": "星宫",
+    "据点": "长离岛"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "据点": [
+      {
+        "value": "长离岛",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ]
+  },
+  "firstSeq": 1195,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.063Z"
+}

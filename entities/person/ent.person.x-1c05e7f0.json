@@ -1,0 +1,65 @@
+{
+  "id": "ent.person.x-1c05e7f0",
+  "type": "person",
+  "name": "圆脸胖老者",
+  "aliases": [
+    "圆脸老者",
+    "脸庞肥硕的老者"
+  ],
+  "summary": "灵麟山共居三家之一的老者，向韩立解释东裕国小家族子弟难入大宗的无奈。",
+  "attributes": {
+    "性别": "男",
+    "外貌": "脸庞肥硕、圆胖",
+    "身份": "小家族长老"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "外貌": [
+      {
+        "value": "脸庞肥硕、圆胖",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "身份": [
+      {
+        "value": "小家族长老",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ]
+  },
+  "firstSeq": 853,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+  ],
+  "updatedAt": "2026-06-15T14:26:36.584Z"
+}

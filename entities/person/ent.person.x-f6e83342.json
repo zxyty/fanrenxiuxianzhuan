@@ -1,0 +1,104 @@
+{
+  "id": "ent.person.x-f6e83342",
+  "type": "person",
+  "name": "徐掌柜",
+  "aliases": [
+    "徐店主",
+    "徐老头",
+    "小老儿",
+    "满头白发的徐掌柜",
+    "徐店主白发老者",
+    "徐店主老者"
+  ],
+  "summary": "天星宗坊市炼器店铺店主，满头白发，曾为韩立炼制乌龙夺，因韩立留下珍稀材料而热情相迎。",
+  "attributes": {
+    "性别": "男",
+    "身份": "炼器店主、炼器店店主、炼器师/店主",
+    "外貌": "满头白发、白发老者",
+    "标志特征": "炼器技术不精，损毁稀有材料"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼器店主",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "炼器店店主",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "炼器师/店主",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满头白发",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "炼器高手，但不识罕见奇虫材料",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "炼器技术不精，损毁稀有材料",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ]
+  },
+  "firstSeq": 349,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch350-instant-kill",
+      "dated": false,
+      "seq": 349
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-356-huofu-xiangyi"
+  ],
+  "updatedAt": "2026-06-14T12:17:41.287Z"
+}

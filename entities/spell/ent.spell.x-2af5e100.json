@@ -1,0 +1,72 @@
+{
+  "id": "ent.spell.x-2af5e100",
+  "type": "spell",
+  "name": "梦引术",
+  "aliases": [],
+  "summary": "玄阴经记载的改动他人神识的秘术，可封印篡改记忆，仅修为远超者可解。",
+  "attributes": {
+    "类型": "神识/控魂",
+    "出处": "玄阴经"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "神识秘术",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "精神/审讯类",
+        "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+        "seq": 709
+      },
+      {
+        "value": "心神类",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "精神/控心类",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "神识/控魂",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "出处": [
+      {
+        "value": "玄阴经",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.243Z"
+}

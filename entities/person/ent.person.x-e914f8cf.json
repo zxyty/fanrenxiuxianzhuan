@@ -1,0 +1,81 @@
+{
+  "id": "ent.person.x-e914f8cf",
+  "type": "person",
+  "name": "梅姓男子",
+  "aliases": [
+    "梅兄",
+    "梅姓女子兄长"
+  ],
+  "summary": "梅姑娘之兄，四十余岁，一身黑衣、面容木然僵硬如僵尸的散修。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "筑基期",
+    "身份": "散修",
+    "外貌": "黑衣、面如僵尸"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑衣、面如僵尸",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565,
+        "note": "面容木然僵硬如死物"
+      }
+    ]
+  },
+  "firstSeq": 565,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565,
+      "note": "面容木然僵硬如死物"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+  ],
+  "updatedAt": "2026-06-14T19:09:06.155Z"
+}

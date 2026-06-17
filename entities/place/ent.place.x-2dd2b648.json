@@ -1,0 +1,60 @@
+{
+  "id": "ent.place.x-2dd2b648",
+  "type": "place",
+  "name": "天知阁",
+  "aliases": [],
+  "summary": "黄枫谷藏书众多的藏书阁，韩立在此查到大挪移令资料。",
+  "attributes": {
+    "所属势力": "天鹏族",
+    "类型": "藏书阁/阵法书阁"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ],
+    "类型": [
+      {
+        "value": "藏书阁",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "藏书阁/阵法书阁",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "dated": false,
+      "seq": 1417
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian"
+  ],
+  "updatedAt": "2026-06-16T15:57:46.860Z"
+}

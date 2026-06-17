@@ -1,0 +1,79 @@
+{
+  "id": "ent.person.x-0fa759fb",
+  "type": "person",
+  "name": "秦姓男子",
+  "aliases": [
+    "秦兄"
+  ],
+  "summary": "金玉宗弟子（结丹修士），邀韩立破金行禁制取七叶阴血芝，许以九玄明玉潭浸泡机会。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹",
+    "阵营": "金玉宗",
+    "身份": "金玉宗修士"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "阵营": [
+      {
+        "value": "金玉宗",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "身份": [
+      {
+        "value": "金玉宗修士",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ]
+  },
+  "firstSeq": 1279,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1287-chuancheng-zhu"
+  ],
+  "updatedAt": "2026-06-16T10:51:11.088Z"
+}

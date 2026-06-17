@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-17b7d656",
+  "type": "place",
+  "name": "大海",
+  "aliases": [
+    "海"
+  ],
+  "summary": "韩立首次亲眼所见的广阔海域，海水碧蓝、一望无际，颜色与传说中的无边海截然不同。",
+  "attributes": {
+    "类型": "海洋",
+    "特产": "巨鱼"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "海洋",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "特产": [
+      {
+        "value": "巨鱼",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping"
+  ],
+  "updatedAt": "2026-06-14T12:34:03.883Z"
+}

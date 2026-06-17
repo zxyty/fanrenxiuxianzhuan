@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-80920399",
+  "type": "place",
+  "name": "丰乐拍卖行",
+  "aliases": [],
+  "summary": "天星城第一拍卖行，售珍稀妖丹、高级炼器材料及千年灵草等，物入此行价格几乎再涨一多半。",
+  "attributes": {
+    "所属势力": "丰乐商盟",
+    "类型": "拍卖行"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "丰乐商盟",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "类型": [
+      {
+        "value": "拍卖行",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ]
+  },
+  "firstSeq": 391,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch392-yuchong"
+  ],
+  "updatedAt": "2026-06-14T13:56:50.405Z"
+}

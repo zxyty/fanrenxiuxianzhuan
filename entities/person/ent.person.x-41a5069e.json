@@ -1,0 +1,84 @@
+{
+  "id": "ent.person.x-41a5069e",
+  "type": "person",
+  "name": "田姓男子",
+  "aliases": [
+    "田道友",
+    "儒雅男子",
+    "文思月之夫",
+    "田姓修士",
+    "儒雅青年"
+  ],
+  "summary": "结丹期儒雅中年男子，月仙子之夫；贿赂星宫执事偷渡去外海银鲨岛，为患重症的爱女求白鹭鱼妖内丹。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹期、结丹、结丹初期",
+    "身份": "文思月夫君、田琴儿之父、田琴儿之父"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "结丹初期",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      }
+    ],
+    "身份": [
+      {
+        "value": "文思月夫君、田琴儿之父",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "田琴儿之父",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      }
+    ]
+  },
+  "firstSeq": 1123,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+      "dated": false,
+      "seq": 1123
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+      "dated": false,
+      "seq": 1123
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1131-jidan",
+      "dated": false,
+      "seq": 1129
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1131-jidan"
+  ],
+  "updatedAt": "2026-06-15T10:42:29.380Z"
+}

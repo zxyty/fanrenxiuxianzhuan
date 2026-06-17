@@ -1,0 +1,112 @@
+{
+  "id": "ent.person.x-0382c30f",
+  "type": "person",
+  "name": "陈巧天",
+  "aliases": [
+    "陈大哥"
+  ],
+  "summary": "黄枫谷陈氏家族锦袍儒生，结丹期，陈巧倩之兄，被韩立出手相救。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹期",
+    "出身地": "陈家",
+    "外貌": "锦袍中年儒生",
+    "阵营": "正道",
+    "身份": "陈家修士"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "出身地": [
+      {
+        "value": "黄枫谷陈氏家族",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "陈家",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "外貌": [
+      {
+        "value": "锦袍中年儒生",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ],
+    "身份": [
+      {
+        "value": "陈家修士",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ]
+  },
+  "firstSeq": 793,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+  ],
+  "updatedAt": "2026-06-15T05:51:36.817Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-1ff6f7e3",
+  "type": "place",
+  "name": "传功阁",
+  "aliases": [],
+  "summary": "黄枫谷传授功法之所，后半延入山腹，内设并列石门石室。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "传功之所"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "类型": [
+      {
+        "value": "传功之所",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch158-blue-robed-woman"
+  ],
+  "updatedAt": "2026-06-14T04:37:08.791Z"
+}

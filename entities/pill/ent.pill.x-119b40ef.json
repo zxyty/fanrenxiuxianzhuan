@@ -1,0 +1,117 @@
+{
+  "id": "ent.pill.x-119b40ef",
+  "type": "pill",
+  "name": "黑炎丹",
+  "aliases": [
+    "黑焰丹"
+  ],
+  "summary": "筱虹积累炼制、原备冲击炼虚之用，许作图谋天凤之血的报酬。",
+  "attributes": {
+    "炼制者": "筱虹",
+    "功效": "助冲击炼虚境界、助突破化神后期瓶颈、增化神后期突破几率、冲击炼虚期、助突破瓶颈、辅助突破炼虚境界",
+    "适用境界": "化神后期巅峰",
+    "副作用": "焰烈，修为/肉身不足者或被焚毙"
+  },
+  "observations": {
+    "炼制者": [
+      {
+        "value": "筱虹",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "功效": [
+      {
+        "value": "助冲击炼虚境界",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "助突破化神后期瓶颈",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "增化神后期突破几率",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "冲击炼虚期",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      },
+      {
+        "value": "辅助突破炼虚境界",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "化神后期",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "化神后期巅峰",
+        "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "副作用": [
+      {
+        "value": "焰烈，修为/肉身不足者或被焚毙",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ]
+  },
+  "firstSeq": 1351,
+  "attrProvenance": {
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-bamboo-leaves",
+      "dated": false,
+      "seq": 1513
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.763Z"
+}

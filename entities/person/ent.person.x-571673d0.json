@@ -1,0 +1,53 @@
+{
+  "id": "ent.person.x-571673d0",
+  "type": "person",
+  "name": "紫甲武将傀儡",
+  "aliases": [
+    "紫甲武将",
+    "紫甲傀儡"
+  ],
+  "summary": "蜉蝣族一方的为首傀儡，紫色盔甲背双金色大锤，由大神通者附身，自称傀儡之身可发挥本体一半实力。",
+  "attributes": {
+    "身份": "傀儡",
+    "外貌": "紫色盔甲、背两件金色大锤"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "傀儡",
+        "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477,
+        "note": "被大神通者附身操控"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "紫色盔甲、背两件金色大锤",
+        "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      }
+    ]
+  },
+  "firstSeq": 1477,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1480-bai-ying",
+      "dated": false,
+      "seq": 1477,
+      "note": "被大神通者附身操控"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1480-bai-ying",
+      "dated": false,
+      "seq": 1477
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1480-bai-ying"
+  ],
+  "updatedAt": "2026-06-16T17:48:19.463Z"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "ent.place.x-0eb6d692",
+  "type": "place",
+  "name": "禁地",
+  "aliases": [
+    "风属性古禁地",
+    "血色试炼禁地"
+  ],
+  "summary": "极险之地，被风属性古禁封闭；越国筑基丹主药唯一产地，每五年衰弱五天，仅炼气期可入内层采药。",
+  "attributes": {
+    "所属界面": "越国",
+    "类型": "禁地险境",
+    "危险度": "极高、极高（生存机率约四分之一）、极高（生还预计不足四分之一）、高",
+    "特产": "玉髓芝、紫猴话、天灵果、灵药、筑基丹（采药所得）",
+    "守护": "七大派监督"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "类型": [
+      {
+        "value": "上古禁地",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "禁地险境",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "极高（生存机率约四分之一）",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "极高（生还预计不足四分之一）",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "特产": [
+      {
+        "value": "玉髓芝",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "紫猴话",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "天灵果",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "筑基丹（采药所得）",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "守护": [
+      {
+        "value": "风属性古禁、内层挡筑基期的古怪禁制",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "七大派监督",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.796Z"
+}

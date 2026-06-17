@@ -1,0 +1,76 @@
+{
+  "id": "ent.technique.x-d99ba372",
+  "type": "technique",
+  "name": "云霄心术",
+  "aliases": [
+    "云霄心得",
+    "云霄心术心得",
+    "《云霄心得》",
+    "齐云霄炼器典籍"
+  ],
+  "summary": "齐云霄二十余年炼器心得，多为神兵门门中之密的炼器方法。",
+  "attributes": {
+    "出处": "炼器心得绢书",
+    "效果": "炼器之道"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "神兵门炼器术",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "齐云霄",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "炼器心得绢书",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      }
+    ],
+    "效果": [
+      {
+        "value": "炼器之法",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "炼器之术",
+        "docId": "plot.fanren-ch350-instant-kill",
+        "seq": 349
+      },
+      {
+        "value": "炼器之道",
+        "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+        "seq": 409
+      }
+    ]
+  },
+  "firstSeq": 223,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 409
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "dated": false,
+      "seq": 409
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch350-instant-kill",
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao"
+  ],
+  "updatedAt": "2026-06-14T14:27:42.066Z"
+}

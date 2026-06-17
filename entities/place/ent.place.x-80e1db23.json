@@ -1,0 +1,34 @@
+{
+  "id": "ent.place.x-80e1db23",
+  "type": "place",
+  "name": "姑雨山",
+  "aliases": [],
+  "summary": "第一修仙大族燕家的所在地。",
+  "attributes": {
+    "所属势力": "燕家"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "燕家",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:58:07.200Z"
+}

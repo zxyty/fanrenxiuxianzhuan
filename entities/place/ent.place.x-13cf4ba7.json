@@ -1,0 +1,87 @@
+{
+  "id": "ent.place.x-13cf4ba7",
+  "type": "place",
+  "name": "冯家密窟",
+  "aliases": [],
+  "summary": "宁中冯家千余年的收藏密窟，藏有大量珍宝及韩立所求的佛宗功法，需密窟钥匙开启。",
+  "attributes": {
+    "类型": "世家密窟",
+    "所属势力": "冯家",
+    "特产": "佛宗功法、千余年收藏",
+    "守护": "钥匙石门+凹槽传送阵禁制"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "家族秘藏密窟",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "世家密窟",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "宁中冯家",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "冯家",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "特产": [
+      {
+        "value": "佛宗功法、千余年收藏",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "守护": [
+      {
+        "value": "钥匙石门+凹槽传送阵禁制",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+  ],
+  "updatedAt": "2026-06-16T00:52:06.645Z"
+}

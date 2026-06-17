@@ -1,0 +1,76 @@
+{
+  "id": "ent.place.x-686a8650",
+  "type": "place",
+  "name": "黑隐山",
+  "aliases": [
+    "黑隐山脉"
+  ],
+  "summary": "妖兽聚居山脉，韩立洞府所在，须向天鹏族交供奉。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "山脉",
+    "特产": "血杏"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "类型": [
+      {
+        "value": "山脉/洞府所在",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "山脉",
+        "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "特产": [
+      {
+        "value": "木铃花",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "血杏",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1399,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1407-jinsui-lianti",
+      "dated": false,
+      "seq": 1405
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.838Z"
+}

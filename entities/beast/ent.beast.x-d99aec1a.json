@@ -1,0 +1,53 @@
+{
+  "id": "ent.beast.x-d99aec1a",
+  "type": "beast",
+  "name": "乌影蛇",
+  "aliases": [],
+  "summary": "镇魔塔上层妖蛇，可遁入影中暴起偷袭，暗影喷砂剧毒，重创叶明礼。",
+  "attributes": {
+    "能力": "遁入阴影、暗影喷砂剧毒",
+    "栖息地": "镇魔塔上层"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "遁入阴影",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "暗影喷砂剧毒",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "镇魔塔上层",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.206Z"
+}

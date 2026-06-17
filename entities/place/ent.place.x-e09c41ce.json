@@ -1,0 +1,51 @@
+{
+  "id": "ent.place.x-e09c41ce",
+  "type": "place",
+  "name": "越京城外荒庙",
+  "aliases": [
+    "荒庙",
+    "破庙"
+  ],
+  "summary": "越京城外一座荒庙，黑煞教临时据点，设落石阵护持，为中伏血战之地。",
+  "attributes": {
+    "所属势力": "黑煞教(临时据点)",
+    "守护": "落石阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黑煞教(临时据点)",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "守护": [
+      {
+        "value": "落石阵",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ]
+  },
+  "firstSeq": 301,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-301-306-mengshan-wuyou-neiying"
+  ],
+  "updatedAt": "2026-06-14T09:36:40.965Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ent.person.x-a1a840a6",
+  "type": "person",
+  "name": "闵",
+  "aliases": [
+    "独角青年",
+    "铜甲怪物",
+    "獠牙怪物"
+  ],
+  "summary": "角蚩族修士，身材高大俊美、头生银色独角，神识极强，合体级以上存在，识破并摧毁韩立的万珑珠。",
+  "attributes": {
+    "种族": "角蚩族",
+    "外貌": "高大俊美、头生银色独角",
+    "小阶段": "合体期",
+    "阵营": "异族",
+    "标志特征": "白色短角"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "外貌": [
+      {
+        "value": "高大俊美、头生银色独角",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体级以上",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519,
+        "note": "韩立推测"
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "阵营": [
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "白色短角",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ]
+  },
+  "firstSeq": 1519,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.184Z"
+}

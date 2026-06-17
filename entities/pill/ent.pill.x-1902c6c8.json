@@ -1,0 +1,75 @@
+{
+  "id": "ent.pill.x-1902c6c8",
+  "type": "pill",
+  "name": "养精丹",
+  "aliases": [],
+  "summary": "韩立炼成的疗伤灵药，对内外伤有奇效，可大减伤势、保住性命。",
+  "attributes": {
+    "功效": "疗内外伤、保命减伤、疗内伤、疗外伤止血结疤、消除疤痕、续命/延寿",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "疗内外伤",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "保命减伤",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      },
+      {
+        "value": "疗内伤",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      },
+      {
+        "value": "疗外伤止血结疤",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      },
+      {
+        "value": "消除疤痕",
+        "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+        "seq": 43
+      },
+      {
+        "value": "续命/延寿",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+        "seq": 25
+      }
+    ]
+  },
+  "firstSeq": 25,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+      "dated": false,
+      "seq": 25
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan"
+  ],
+  "updatedAt": "2026-06-14T03:09:31.532Z"
+}

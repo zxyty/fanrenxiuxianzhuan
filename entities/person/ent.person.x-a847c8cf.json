@@ -1,0 +1,48 @@
+{
+  "id": "ent.person.x-a847c8cf",
+  "type": "person",
+  "name": "李姓青年",
+  "aliases": [],
+  "summary": "墨玉珠之夫、五色门少门主，白天曾在香家酒楼与韩立有一面之缘。",
+  "attributes": {
+    "性别": "男",
+    "身份": "五色门少门主"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+        "seq": 331
+      }
+    ],
+    "身份": [
+      {
+        "value": "五色门少门主",
+        "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+        "seq": 331
+      }
+    ]
+  },
+  "firstSeq": 331,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+      "dated": false,
+      "seq": 331
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+      "dated": false,
+      "seq": 331
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-331-336-jiayuan-cheng-jiudi"
+  ],
+  "updatedAt": "2026-06-14T11:09:43.128Z"
+}

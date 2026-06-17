@@ -1,0 +1,77 @@
+{
+  "id": "ent.place.x-85962f73",
+  "type": "place",
+  "name": "越国皇宫",
+  "aliases": [
+    "大内皇宫",
+    "皇宫大内",
+    "冷宫"
+  ],
+  "summary": "越京皇城内的大内皇宫，占地广大、戒备森严，黑煞教据此活动，教主借其中阴穴之地闭关。",
+  "attributes": {
+    "所属势力": "黑煞教",
+    "类型": "皇城/禁地",
+    "守护": "四大血侍"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "类型": [
+      {
+        "value": "皇宫",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "皇城/禁地",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "守护": [
+      {
+        "value": "戒备森严、五步一哨",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "四大血侍",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:34.987Z"
+}

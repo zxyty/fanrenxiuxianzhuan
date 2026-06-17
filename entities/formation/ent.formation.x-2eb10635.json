@@ -1,0 +1,61 @@
+{
+  "id": "ent.formation.x-2eb10635",
+  "type": "formation",
+  "name": "金磁重光",
+  "aliases": [
+    "大五行磁力",
+    "磁光重力禁制"
+  ],
+  "summary": "金磁灵木自然产生的磁力禁制，重力加身、可叠加、神识不可察，含金属性法宝入内立即坠地生根。",
+  "attributes": {
+    "效果": "磁光重力加身、寸步难行、克金属性法宝、磁场叠加",
+    "破解法": "驱使不含金属性材料法宝砍倒灵木（本章证实难成）"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "磁光重力加身、寸步难行",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "克金属性法宝",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "磁场叠加",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "破解法": [
+      {
+        "value": "驱使不含金属性材料法宝砍倒灵木（本章证实难成）",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1015,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1015-jinci-lingmu"
+  ],
+  "updatedAt": "2026-06-16T04:38:13.373Z"
+}

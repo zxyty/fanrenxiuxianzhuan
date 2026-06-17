@@ -1,0 +1,97 @@
+{
+  "id": "ent.pill.x-1ba91b50",
+  "type": "pill",
+  "name": "定灵丹",
+  "aliases": [
+    "安魂丹"
+  ],
+  "summary": "溪国仅落云宗数位长老能炼的传闻圣药，可增修为、定心安魂、减轻结元婴时心魔幻象。",
+  "attributes": {
+    "功效": "增进修为、定心安魂、减轻结元婴心魔幻象、（可换顶阶法器之珍丹）、凝结元婴时降低难度、定心神、抗心魔",
+    "主料": "醇液（药引）",
+    "适用境界": "结婴/元婴"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "增进修为",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "定心安魂",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "减轻结元婴心魔幻象",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "（可换顶阶法器之珍丹）",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "凝结元婴时降低难度",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "定心神、抗心魔",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "主料": [
+      {
+        "value": "醇液（药引）",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹冲元婴",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "结婴/元婴",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.689Z"
+}

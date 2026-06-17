@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-26bf0695",
+  "type": "faction",
+  "name": "玄秒门",
+  "aliases": [],
+  "summary": "天卢国宗门，八十年前一夜之间被火灵宗灭门。",
+  "attributes": {
+    "据点": "天卢国",
+    "理念": "已灭门"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "天卢国",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "理念": [
+      {
+        "value": "已灭门",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ]
+  },
+  "firstSeq": 1159,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1161-kunpeng-zhi-yu"
+  ],
+  "updatedAt": "2026-06-15T11:41:39.730Z"
+}

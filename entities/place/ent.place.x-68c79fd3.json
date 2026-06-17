@@ -1,0 +1,54 @@
+{
+  "id": "ent.place.x-68c79fd3",
+  "type": "place",
+  "name": "冰渊岛",
+  "aliases": [],
+  "summary": "凤仙子坐镇的妖兽之岛，她两千年来于此闭关不出。",
+  "attributes": {
+    "守护": "凤仙子",
+    "所属势力": "冰凤一族"
+  },
+  "observations": {
+    "守护": [
+      {
+        "value": "凤仙子",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "冰海一族",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "冰凤一族",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ]
+  },
+  "firstSeq": 1087,
+  "attrProvenance": {
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "dated": false,
+      "seq": 1117
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+  ],
+  "updatedAt": "2026-06-15T10:22:05.198Z"
+}

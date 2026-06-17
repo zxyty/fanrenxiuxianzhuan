@@ -1,0 +1,115 @@
+{
+  "id": "ent.pill.x-98e51fc7",
+  "type": "pill",
+  "name": "腾龙丹",
+  "aliases": [],
+  "summary": "炼虚级修士才能服用的丹药，以芝龙果为主材料。",
+  "attributes": {
+    "品阶": "炼虚级",
+    "主料": "芝龙果、腾云胶",
+    "适用境界": "炼虚初中期",
+    "功效": "精进炼虚初中期修为",
+    "炼制者": "韩立",
+    "副作用": "成丹率极低(十炼七八败)"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "炼虚级",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      }
+    ],
+    "主料": [
+      {
+        "value": "芝龙果",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      },
+      {
+        "value": "腾云胶",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      },
+      {
+        "value": "炼虚初中期",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "功效": [
+      {
+        "value": "精进炼虚初中期修为",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "副作用": [
+      {
+        "value": "成丹率极低(十炼七八败)",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1357,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "dated": false,
+      "seq": 1357
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "dated": false,
+      "seq": 1357
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.794Z"
+}

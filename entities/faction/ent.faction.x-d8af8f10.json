@@ -1,0 +1,49 @@
+{
+  "id": "ent.faction.x-d8af8f10",
+  "type": "faction",
+  "name": "鸾鸣宗",
+  "aliases": [],
+  "summary": "龙晗所属门派。",
+  "attributes": {
+    "阵营": "天南",
+    "镇派之宝": "上古符箓"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "上古符箓",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-763-768-border-war-gamble-battle"
+  ],
+  "updatedAt": "2026-06-15T03:34:19.246Z"
+}

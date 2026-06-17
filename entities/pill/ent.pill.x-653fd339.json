@@ -1,0 +1,80 @@
+{
+  "id": "ent.pill.x-653fd339",
+  "type": "pill",
+  "name": "煞丹",
+  "aliases": [
+    "伪金丹"
+  ],
+  "summary": "以煞丹术服血凝五行丹结成的人造金丹，威力近真金丹但终生停于金丹初期、无法进元婴，且释煞气侵蚀神智。",
+  "attributes": {
+    "功效": "类金丹威力、延年益寿、助结丹（约三分之一几率）",
+    "适用境界": "筑基后期",
+    "副作用": "修为停于金丹初期、无法进军元婴期、释放煞妖之气侵蚀神智令人愚钝"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "类金丹威力",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "延年益寿",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "助结丹（约三分之一几率）",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "副作用": [
+      {
+        "value": "修为停于金丹初期、无法进军元婴期",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "释放煞妖之气侵蚀神智令人愚钝",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.689Z"
+}

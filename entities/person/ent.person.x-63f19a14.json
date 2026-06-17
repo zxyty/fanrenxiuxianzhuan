@@ -1,0 +1,84 @@
+{
+  "id": "ent.person.x-63f19a14",
+  "type": "person",
+  "name": "铁刃",
+  "aliases": [
+    "银色人影"
+  ],
+  "summary": "五行灵族灵将，化银光闪闪男子，以坚硬无比的银色大手撕杀蛇王；与赤灭联手追猎叛逆。",
+  "attributes": {
+    "种族": "金灵族",
+    "身份": "灵将",
+    "外貌": "银光闪闪、看不清面目",
+    "标志特征": "化银色巨人"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "金灵族",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "身份": [
+      {
+        "value": "灵将",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银光闪闪、看不清面目",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化银色巨人",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1299-shiyan-takeover",
+      "dated": false,
+      "seq": 1297
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.042Z"
+}

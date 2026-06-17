@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-31813bd1",
+  "type": "person",
+  "name": "姜前辈",
+  "aliases": [
+    "姜",
+    "洞中苍老声音"
+  ],
+  "summary": "隐居冥河之地洞府的苍老前辈，替蜉蝣族镇压空间阴气反噬，五龙铡之主，将其出借。",
+  "attributes": {
+    "称号": "姜前辈",
+    "身份": "洞中神秘强者",
+    "标志特征": "持五龙铡、通破界之术"
+  },
+  "observations": {
+    "称号": [
+      {
+        "value": "姜前辈",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      }
+    ],
+    "身份": [
+      {
+        "value": "替蜉蝣族镇压阴气反噬的隐居强者",
+        "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "洞中神秘强者",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "持五龙铡、通破界之术",
+        "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ]
+  },
+  "firstSeq": 1483,
+  "attrProvenance": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "dated": false,
+      "seq": 1483
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "dated": false,
+      "seq": 1501
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1504-cuijing-zhuan"
+  ],
+  "updatedAt": "2026-06-16T18:53:56.363Z"
+}

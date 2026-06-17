@@ -1,0 +1,90 @@
+{
+  "id": "ent.artifact.x-406c1054",
+  "type": "artifact",
+  "name": "魔龙刃",
+  "aliases": [
+    "魔道至宝魔龙刃",
+    "魔刃"
+  ],
+  "summary": "血刃所仿制的原版凶器，提及威名令在场妖修动容。",
+  "attributes": {
+    "品阶": "顶级魔道宝物",
+    "能力": "吸食修士血肉元神炼化增威",
+    "来历": "魔髓钻炼制"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "魔道至宝/法宝",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "顶级魔道宝物",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "能力": [
+      {
+        "value": "曾斩杀化神期修士",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "吸食修士血肉元神炼化增威",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "来历": [
+      {
+        "value": "上古炼成一柄",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "魔髓钻所炼",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "魔髓钻炼制",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ]
+  },
+  "firstSeq": 949,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+  ],
+  "updatedAt": "2026-06-16T04:59:44.963Z"
+}

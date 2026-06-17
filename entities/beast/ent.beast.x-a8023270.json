@@ -1,0 +1,48 @@
+{
+  "id": "ent.beast.x-a8023270",
+  "type": "beast",
+  "name": "六级妖兽",
+  "aliases": [],
+  "summary": "六连殿欲猎杀以取妖丹的目标妖兽。",
+  "attributes": {
+    "等级": "六级",
+    "栖息地": "乱星海"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "六级",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.669Z"
+}

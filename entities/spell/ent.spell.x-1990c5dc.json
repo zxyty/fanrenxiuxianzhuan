@@ -1,0 +1,70 @@
+{
+  "id": "ent.spell.x-1990c5dc",
+  "type": "spell",
+  "name": "禁神术",
+  "aliases": [
+    "禁神之术"
+  ],
+  "summary": "韩立施于慕沛灵的禁制秘术，可掌握其生死。",
+  "attributes": {
+    "类型": "禁制控制术",
+    "威力": "掌控对象生死",
+    "适用境界": "元婴期"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "禁制控制术",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "元神禁制",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ],
+    "威力": [
+      {
+        "value": "掌控对象生死",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ]
+  },
+  "firstSeq": 403,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "dated": false,
+      "seq": 403
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.589Z"
+}

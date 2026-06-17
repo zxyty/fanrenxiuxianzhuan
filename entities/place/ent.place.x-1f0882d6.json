@@ -1,0 +1,70 @@
+{
+  "id": "ent.place.x-1f0882d6",
+  "type": "place",
+  "name": "琼籁山",
+  "aliases": [
+    "琼籁山脉"
+  ],
+  "summary": "天渊城所辖山脉，原属元婴、近划归化神，灵气最薄但洞府稀疏、灵地范围极广（可独占方圆万里）；韩立选地于此，引发与翁姓汉子之争。",
+  "attributes": {
+    "所属势力": "天渊城",
+    "类型": "灵地山脉",
+    "特产": "范围广大但灵气稀薄"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵脉山脉",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "灵地山脉",
+        "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      }
+    ],
+    "特产": [
+      {
+        "value": "范围广大但灵气稀薄",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "dated": false,
+      "seq": 1315
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+  ],
+  "updatedAt": "2026-06-16T12:14:21.144Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ent.faction.x-6d5b8ad6",
+  "type": "faction",
+  "name": "天煞宗",
+  "aliases": [],
+  "summary": "魔道六宗之一，黄衣修士群攻四煞阵。",
+  "attributes": {
+    "阵营": "魔道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.697Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ent.place.x-10f872c2",
+  "type": "place",
+  "name": "溪国",
+  "aliases": [],
+  "summary": "天南地区极北端国家，约越国三分之二大，分七州，闵州最大且紧邻无边海。",
+  "attributes": {
+    "所属界面": "人界天南",
+    "类型": "国度",
+    "所属势力": "落云宗(天道盟)"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      },
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ],
+    "类型": [
+      {
+        "value": "国家",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      },
+      {
+        "value": "国度",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "落云宗(天道盟)",
+        "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ]
+  },
+  "firstSeq": 589,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch666-liuyu",
+      "dated": false,
+      "seq": 667
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-ch660-shijin-lingjian",
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-1196-er-nv"
+  ],
+  "updatedAt": "2026-06-16T07:22:30.046Z"
+}

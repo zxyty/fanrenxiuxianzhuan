@@ -1,0 +1,138 @@
+{
+  "id": "ent.person.x-543b51e7",
+  "type": "person",
+  "name": "云天啸",
+  "aliases": [
+    "云长老"
+  ],
+  "summary": "妙音门长老，结丹中期，施白骨阴火护体，阻拦韩立带走文思月，被青竹蜂云剑一击重创。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "结丹中期",
+    "身份": "妙音门实际掌权者",
+    "结局": "本章身首异处，储物袋被夺",
+    "存殁": "死亡",
+    "阵营": "魔道",
+    "死因": "被韩立青元剑诀斩首"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "身份": [
+      {
+        "value": "妙音门长老",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "妙音门实际掌权者",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "结局": [
+      {
+        "value": "被韩立一击重创(未死)",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "本章身首异处，储物袋被夺",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "存殁": [
+      {
+        "value": "下落不明",
+        "docId": "plot.fanren-ch547-552-poison-three-demons",
+        "seq": 547,
+        "note": "本章守门人称不知其下落"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立青元剑诀斩首",
+        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      }
+    ]
+  },
+  "firstSeq": 535,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "dated": false,
+      "seq": 553
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-ch547-552-poison-three-demons",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+  ],
+  "updatedAt": "2026-06-14T18:52:01.144Z"
+}

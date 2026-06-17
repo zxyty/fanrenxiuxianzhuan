@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-f6af03e8",
+  "type": "place",
+  "name": "青牛镇",
+  "aliases": [
+    "青牛城"
+  ],
+  "summary": "受七玄门控制的小镇，主街青牛街，有青牛客栈与春香酒楼。",
+  "attributes": {
+    "所属界面": "镜州",
+    "所属势力": "七玄门",
+    "类型": "城镇"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "镜州",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "类型": [
+      {
+        "value": "城镇",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:51.524Z"
+}

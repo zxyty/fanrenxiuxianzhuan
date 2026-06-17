@@ -1,0 +1,54 @@
+{
+  "id": "ent.place.x-35813c28",
+  "type": "place",
+  "name": "秦叶岭",
+  "aliases": [],
+  "summary": "叶豹自称的出身地，叶家所在。",
+  "attributes": {
+    "类型": "修仙家族聚居地",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "地名/家族据点",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "修仙家族聚居地",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.598Z"
+}

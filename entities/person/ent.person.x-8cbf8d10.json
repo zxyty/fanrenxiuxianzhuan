@@ -1,0 +1,106 @@
+{
+  "id": "ent.person.x-8cbf8d10",
+  "type": "person",
+  "name": "方夫人",
+  "aliases": [],
+  "summary": "天东商号主人二儿媳，夫早逝，主持十几城事务；自小收养四名贴身侍女，已包下安远城如云客栈。",
+  "attributes": {
+    "性别": "女",
+    "身份": "天东商号一方主事/二儿媳、天东商号主事、天东商号东主夫人",
+    "外貌": "容貌秀丽",
+    "种族": "凡人",
+    "性格": "七窍玲珑"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "天东商号一方主事/二儿媳",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "天东商号主事",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "天东商号东主夫人",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十余岁、肌肤白皙、面容秀丽",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "容貌秀丽",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ],
+    "性格": [
+      {
+        "value": "七窍玲珑",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+  ],
+  "updatedAt": "2026-06-16T10:33:15.767Z"
+}

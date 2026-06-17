@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-0c9a659b",
+  "type": "place",
+  "name": "天台谷",
+  "aliases": [],
+  "summary": "卜云鹤镇守的九国盟据点，设天风玄波阵，被慕兰法士与上古巨兽攻破。",
+  "attributes": {
+    "所属势力": "九国盟",
+    "守护": "天风玄波阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "九国盟",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      }
+    ],
+    "守护": [
+      {
+        "value": "天风玄波阵",
+        "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      }
+    ]
+  },
+  "firstSeq": 727,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "dated": false,
+      "seq": 727
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+  ],
+  "updatedAt": "2026-06-15T02:43:39.777Z"
+}

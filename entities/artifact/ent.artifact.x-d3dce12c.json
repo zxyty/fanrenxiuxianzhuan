@@ -1,0 +1,106 @@
+{
+  "id": "ent.artifact.x-d3dce12c",
+  "type": "artifact",
+  "name": "遮天钟",
+  "aliases": [
+    "黄色小钟",
+    "铜钟"
+  ],
+  "summary": "宣乐所持黄色法宝，巨大化后扣困妖兽，因掺入炼器材料铜精而极为坚固。",
+  "attributes": {
+    "持有者": "宣乐、韩立",
+    "能力": "巨大化扣困目标、扣困目标、困敌",
+    "来历": "掩月宗宣乐的战利品",
+    "外形": "黄色小钟,可变五六丈铜钟"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "宣乐",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265,
+        "note": "夺自宣乐"
+      }
+    ],
+    "能力": [
+      {
+        "value": "巨大化扣困目标",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "扣困目标",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "来历": [
+      {
+        "value": "掺铜精炼制",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "掩月宗宣乐的战利品",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "外形": [
+      {
+        "value": "黄色小钟，可巨大化",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "黄色小钟,可变五六丈铜钟",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.561Z"
+}

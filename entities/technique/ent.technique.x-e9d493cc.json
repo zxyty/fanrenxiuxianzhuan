@@ -1,0 +1,94 @@
+{
+  "id": "ent.technique.x-e9d493cc",
+  "type": "technique",
+  "name": "象甲功",
+  "aliases": [],
+  "summary": "罕见外功，共九层，前三层易、第四层起剧痛、过第六层畅通；高层刀枪不入、力大如巨象，几近失传。",
+  "attributes": {
+    "效果": "刀枪不入水火不近、渐得巨象之力、淬炼筋骨，号称速成一流高手、强横肉身",
+    "修炼条件": "第四至六层需忍受非人痛苦、定时泡难闻药汁、受木棒敲打淬骨、层数越高折磨越剧",
+    "出处": "天生无痛觉的高人所创"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "刀枪不入水火不近",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      },
+      {
+        "value": "渐得巨象之力",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      },
+      {
+        "value": "淬炼筋骨，号称速成一流高手",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "强横肉身",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "第四至六层需忍受非人痛苦",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      },
+      {
+        "value": "定时泡难闻药汁",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "受木棒敲打淬骨",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      },
+      {
+        "value": "层数越高折磨越剧",
+        "docId": "plot.fanren-ch13-18-yixiang-qi",
+        "seq": 13
+      }
+    ],
+    "出处": [
+      {
+        "value": "天生无痛觉的高人所创",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      }
+    ]
+  },
+  "firstSeq": 7,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+      "dated": false,
+      "seq": 7
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+      "dated": false,
+      "seq": 7
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+      "dated": false,
+      "seq": 7
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+    "plot.fanren-ch13-18-yixiang-qi",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong"
+  ],
+  "updatedAt": "2026-06-14T02:33:03.131Z"
+}

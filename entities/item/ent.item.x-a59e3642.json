@@ -1,0 +1,55 @@
+{
+  "id": "ent.item.x-a59e3642",
+  "type": "item",
+  "name": "血凝五行丹",
+  "aliases": [
+    "血凝五行丹珠子",
+    "火红色珠子",
+    "血凝五行丹丸"
+  ],
+  "summary": "五行宝珠，凑齐后对结丹大有益处的宝物；其中火红珠子为蓝袍人遗物，被越皇凑齐。",
+  "attributes": {
+    "用途": "助益结丹",
+    "类型": "结丹宝物"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "助益结丹",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "类型": [
+      {
+        "value": "结丹宝物",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch368-kuixingdao-guzhuang",
+    "plot.fanren-ch386-four-years-jiedan",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.568Z"
+}

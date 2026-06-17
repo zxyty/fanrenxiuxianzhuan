@@ -1,0 +1,138 @@
+{
+  "id": "ent.artifact.x-e46a8ce1",
+  "type": "artifact",
+  "name": "青火瘴",
+  "aliases": [
+    "青红色云团",
+    "青红双色圆球",
+    "青火瘴符宝",
+    "青红色圆球",
+    "青红圆球",
+    "青火毒雾"
+  ],
+  "summary": "蛟目所炼顶阶法器，化青红色巨大云团掩饰身形，掺墨蛟残余丹液令接触者中毒。",
+  "attributes": {
+    "品阶": "顶阶法器",
+    "持有者": "韩立",
+    "能力": "掩饰身形、令人中毒、释放青红色毒雾、幻化青红毒雾护身/藏身、毒雾伤敌",
+    "来历": "墨蛟蛟目炼制",
+    "外形": "青红双色圆球",
+    "禁制": "炼入墨蛟残余丹毒"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "顶阶法器",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "能力": [
+      {
+        "value": "掩饰身形",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "令人中毒",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "释放青红色毒雾",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "幻化青红毒雾护身/藏身",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      },
+      {
+        "value": "毒雾伤敌",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "来历": [
+      {
+        "value": "墨蛟蛟目炼制",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "外形": [
+      {
+        "value": "青红色云团",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      },
+      {
+        "value": "青红双色圆球",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ],
+    "禁制": [
+      {
+        "value": "炼入墨蛟残余丹毒",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 223,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.065Z"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ent.place.x-7183d622",
+  "type": "place",
+  "name": "百药园",
+  "aliases": [
+    "青石岭百药园",
+    "金蚨岭百药园"
+  ],
+  "summary": "马师伯的私人药地，两山丘间小盆地，设小型禁制，最难完成的种植任务。",
+  "attributes": {
+    "所属势力": "黄枫谷",
+    "类型": "药园",
+    "特产": "珍稀药材",
+    "守护": "白濛濛幻阵"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "类型": [
+      {
+        "value": "药园",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "特产": [
+      {
+        "value": "珍稀药材",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "守护": [
+      {
+        "value": "小型禁制",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "白濛濛幻阵",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
+      "dated": false,
+      "seq": 343
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch295-300-baishi-yuandao-shengqin",
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.030Z"
+}

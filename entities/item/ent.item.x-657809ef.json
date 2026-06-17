@@ -1,0 +1,56 @@
+{
+  "id": "ent.item.x-657809ef",
+  "type": "item",
+  "name": "金色书页",
+  "aliases": [
+    "金页"
+  ],
+  "summary": "与银色书页式样相同的金色书页，需以剑芒激活后将功法光字灌入修者脑中；一页载凝元功，李化元藏书中另一页载青竹蜂云剑炼制法。",
+  "attributes": {
+    "类型": "功法书页",
+    "用途": "记载法宝炼制图谱"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "功法书页",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "用途": [
+      {
+        "value": "以剑芒激活后灌输功法",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "记载法宝炼制图谱",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ]
+  },
+  "firstSeq": 235,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-398-jiedan-yu-fabao"
+  ],
+  "updatedAt": "2026-06-15T00:21:07.641Z"
+}

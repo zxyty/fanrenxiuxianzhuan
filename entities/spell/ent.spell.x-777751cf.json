@@ -1,0 +1,68 @@
+{
+  "id": "ent.spell.x-777751cf",
+  "type": "spell",
+  "name": "火蛇术",
+  "aliases": [],
+  "summary": "初级中阶火属性法术，吴风在传功阁向少年弟子讲解示范。",
+  "attributes": {
+    "类型": "火系符箓攻击",
+    "适用境界": "炼气期",
+    "出处": "黄枫谷传功阁"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "火属性攻击法术",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "火系符箓攻击",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "出处": [
+      {
+        "value": "黄枫谷传功阁",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+  ],
+  "updatedAt": "2026-06-14T05:36:55.250Z"
+}

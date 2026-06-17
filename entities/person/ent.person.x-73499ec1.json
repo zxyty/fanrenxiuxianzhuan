@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-73499ec1",
+  "type": "person",
+  "name": "丁老",
+  "aliases": [
+    "丁老头",
+    "丁老者"
+  ],
+  "summary": "万宝楼请来的鉴宝老者，头发灰白、需人搀扶，德高望重，亦为普通人；被请来鉴定疑似千年的黄精芝。",
+  "attributes": {
+    "身份": "灵药鉴定师",
+    "种族": "凡人",
+    "外貌": "灰白头发的老者"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "鉴宝师",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "灵药鉴定师",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰白头发的老者",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda"
+  ],
+  "updatedAt": "2026-06-14T04:44:35.318Z"
+}

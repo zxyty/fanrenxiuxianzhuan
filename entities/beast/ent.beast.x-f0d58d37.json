@@ -1,0 +1,73 @@
+{
+  "id": "ent.beast.x-f0d58d37",
+  "type": "beast",
+  "name": "妖龟",
+  "aliases": [
+    "巨龟",
+    "龟类妖兽",
+    "陆行龟",
+    "龟车"
+  ],
+  "summary": "近千丈的龟类妖兽，乌黑硬壳青色蛟首银色巨尾，在奇渊岛海域渡化形雷劫由七级进阶八级。",
+  "attributes": {
+    "等级": "七级（渡化形雷劫进八级）",
+    "栖息地": "奇渊岛海域",
+    "外形": "缩首化青色巨石"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "七级（渡化形雷劫进八级）",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "奇渊岛海域",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "外形": [
+      {
+        "value": "近千丈、乌黑硬壳、蛟首、银色巨尾",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "缩首化青色巨石",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-1261-1266-blood-curse-tiandong"
+  ],
+  "updatedAt": "2026-06-16T10:03:55.739Z"
+}

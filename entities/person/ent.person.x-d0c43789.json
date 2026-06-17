@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-d0c43789",
+  "type": "person",
+  "name": "玉姨",
+  "aliases": [
+    "绿秀郡主之师"
+  ],
+  "summary": "绿秀郡主的师傅，携其在山中洞府修行，叮嘱其勿丢皇族脸面。",
+  "attributes": {
+    "性别": "女",
+    "身份": "绿秀郡主师傅"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "身份": [
+      {
+        "value": "绿秀郡主师傅",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu"
+  ],
+  "updatedAt": "2026-06-16T01:21:22.356Z"
+}

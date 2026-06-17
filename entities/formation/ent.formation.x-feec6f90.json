@@ -1,0 +1,51 @@
+{
+  "id": "ent.formation.x-feec6f90",
+  "type": "formation",
+  "name": "黑色光阵",
+  "aliases": [
+    "黑色禁制",
+    "黑色法阵"
+  ],
+  "summary": "由冥雷兽操控、不断喷出黑风黑沙下压的强大禁制，众妖王合力难敌。",
+  "attributes": {
+    "效果": "喷黑风黑色晶沙、徐徐压落",
+    "破解法": "牵制操纵之冥雷兽以削其威"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "喷黑风黑色晶沙、徐徐压落",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "破解法": [
+      {
+        "value": "牵制操纵之冥雷兽以削其威",
+        "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ]
+  },
+  "firstSeq": 1495,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "dated": false,
+      "seq": 1495
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1495-1500-xutian-rescue-melee"
+  ],
+  "updatedAt": "2026-06-16T18:30:11.143Z"
+}

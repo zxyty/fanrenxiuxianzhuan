@@ -1,0 +1,49 @@
+{
+  "id": "ent.faction.x-31c65fe4",
+  "type": "faction",
+  "name": "天极门",
+  "aliases": [
+    "天机门",
+    "天极门一门"
+  ],
+  "summary": "正道门派，南陇侯暗中结交其长老并有意加入、借其势力入坠魔谷取宝，遂招杀身之祸。",
+  "attributes": {
+    "阵营": "正道盟四大派之一"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 475
+      },
+      {
+        "value": "正道盟四大派之一",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 475,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path"
+  ],
+  "updatedAt": "2026-06-15T05:59:16.404Z"
+}

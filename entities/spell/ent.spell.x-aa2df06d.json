@@ -1,0 +1,48 @@
+{
+  "id": "ent.spell.x-aa2df06d",
+  "type": "spell",
+  "name": "暴血咒",
+  "aliases": [],
+  "summary": "古修打在三妖身上的咒术，使其神智全无、嗜血成狂。",
+  "attributes": {
+    "类型": "诅咒",
+    "威力": "夺神智致嗜血而狂"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "诅咒",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "威力": [
+      {
+        "value": "夺神智致嗜血而狂",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1003-qunmo-yinxian"
+  ],
+  "updatedAt": "2026-06-16T03:59:21.447Z"
+}

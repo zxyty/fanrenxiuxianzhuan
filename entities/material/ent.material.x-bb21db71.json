@@ -1,0 +1,70 @@
+{
+  "id": "ent.material.x-bb21db71",
+  "type": "material",
+  "name": "天元果",
+  "aliases": [
+    "天元灵果"
+  ],
+  "summary": "稀世灵果，食一颗即可延寿百年，藏于血咒之门后地下大厅供桌。",
+  "attributes": {
+    "类型": "灵果",
+    "用途": "增长寿元",
+    "稀有度": "稀世"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵果",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "用途": [
+      {
+        "value": "食一颗延寿百年",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "增长寿元",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "稀世",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ]
+  },
+  "firstSeq": 823,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "dated": false,
+      "seq": 829
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+  ],
+  "updatedAt": "2026-06-15T13:29:24.741Z"
+}

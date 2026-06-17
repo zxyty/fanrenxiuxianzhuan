@@ -1,0 +1,83 @@
+{
+  "id": "ent.item.x-a925a2d2",
+  "type": "item",
+  "name": "金角",
+  "aliases": [
+    "怪异金角",
+    "独角蚯金角",
+    "独角",
+    "金灿灿独角"
+  ],
+  "summary": "独角蚯头顶古怪金角，五六尺巨，表面有玄奥咒文，可吸纳天雷与火焰，被韩立收取。",
+  "attributes": {
+    "类型": "吸灵材料",
+    "用途": "吸纳天雷与火焰、炼制防御灵宝/战甲、炼制化界珠",
+    "产地": "独角蚯头部"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "妖兽材料/异宝",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      },
+      {
+        "value": "吸灵材料",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "用途": [
+      {
+        "value": "吸纳天雷与火焰",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      },
+      {
+        "value": "炼制防御灵宝/战甲",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "炼制化界珠",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "产地": [
+      {
+        "value": "独角蚯头部",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ]
+  },
+  "firstSeq": 1183,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+    "plot.fanren-1190-huajiezhu-jifengjiubian"
+  ],
+  "updatedAt": "2026-06-16T07:03:34.597Z"
+}

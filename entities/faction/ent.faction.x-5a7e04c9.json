@@ -1,0 +1,91 @@
+{
+  "id": "ent.faction.x-5a7e04c9",
+  "type": "faction",
+  "name": "惊蛟会",
+  "aliases": [],
+  "summary": "嘉元城江湖势力，墨大夫旧部，现衰弱，由严氏代理当家、最大支柱暗舵由五娘独掌，总舵设于墨府。",
+  "attributes": {
+    "阵营": "嘉元城江湖势力",
+    "据点": "岚州",
+    "掌门": "严氏（实际掌权）"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "嘉元城江湖势力",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "据点": [
+      {
+        "value": "墨府(总舵)",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      },
+      {
+        "value": "墨府",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "嘉元城",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "岚州",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "掌门": [
+      {
+        "value": "严氏",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103,
+        "note": "代理当家人"
+      },
+      {
+        "value": "严氏（实际执掌）",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "严氏（实际掌权）",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ]
+  },
+  "firstSeq": 103,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-247-252-yanlingbao-zhengfeng"
+  ],
+  "updatedAt": "2026-06-14T07:31:27.693Z"
+}

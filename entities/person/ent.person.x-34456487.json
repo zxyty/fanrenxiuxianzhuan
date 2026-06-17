@@ -1,0 +1,78 @@
+{
+  "id": "ent.person.x-34456487",
+  "type": "person",
+  "name": "萧二",
+  "aliases": [
+    "萧二立"
+  ],
+  "summary": "化刀坞弟子，同门被银剑赤脚大汉击杀后趁机逃走，被追数个时辰后仍被斩为两截而死。",
+  "attributes": {
+    "阵营": "化刀坞",
+    "身份": "化刀坞弟子",
+    "存殁": "死亡",
+    "死因": "被背银色巨剑的赤脚大汉以银剑斩为两截"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "化刀坞",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "身份": [
+      {
+        "value": "化刀坞弟子",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ],
+    "死因": [
+      {
+        "value": "被背银色巨剑的赤脚大汉以银剑斩为两截",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha"
+  ],
+  "updatedAt": "2026-06-14T05:23:36.440Z"
+}

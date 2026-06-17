@@ -1,0 +1,50 @@
+{
+  "id": "ent.item.x-dd8fd19e",
+  "type": "item",
+  "name": "丹道评鉴",
+  "aliases": [
+    "《丹道评鉴》"
+  ],
+  "summary": "记述高人对乱星海各种丹药（含降尘丹）描述点评的评鉴书，被韩立购回研读。",
+  "attributes": {
+    "类型": "书籍",
+    "用途": "研究丹药"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "书籍",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "用途": [
+      {
+        "value": "研究丹药",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue"
+  ],
+  "updatedAt": "2026-06-14T13:10:01.689Z"
+}

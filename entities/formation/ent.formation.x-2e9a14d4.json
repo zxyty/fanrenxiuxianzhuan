@@ -1,0 +1,73 @@
+{
+  "id": "ent.formation.x-2e9a14d4",
+  "type": "formation",
+  "name": "四煞阵",
+  "aliases": [],
+  "summary": "宣乐用十几个阵旗阵盘在幻阵下方布置的可攻可守之阵，用于灵矿防守。",
+  "attributes": {
+    "效果": "可攻可守、青红蓝黄四色禁制护身、四色光幕防御",
+    "布置者": "宣乐",
+    "破解法": "青阳魔火"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "可攻可守",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "青红蓝黄四色禁制护身",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "四色光幕防御",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "布置者": [
+      {
+        "value": "宣乐",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "破解法": [
+      {
+        "value": "青阳魔火",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou"
+  ],
+  "updatedAt": "2026-06-14T08:30:26.747Z"
+}

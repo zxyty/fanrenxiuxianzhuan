@@ -1,0 +1,49 @@
+{
+  "id": "ent.item.x-1ef9a920",
+  "type": "item",
+  "name": "奇虫榜",
+  "aliases": [],
+  "summary": "御灵宗修士搜集上古资料编排的奇虫排名，前三十多为绝迹古虫，可信度存疑。",
+  "attributes": {
+    "用途": "古虫排名",
+    "类型": "灵虫排名榜"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "古虫排名",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵虫排名榜",
+        "docId": "plot.fanren-ch660-shijin-lingjian",
+        "seq": 661
+      }
+    ]
+  },
+  "firstSeq": 391,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "dated": false,
+      "seq": 661
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch660-shijin-lingjian"
+  ],
+  "updatedAt": "2026-06-14T21:29:49.396Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ent.faction.x-8688fdb9",
+  "type": "faction",
+  "name": "断水门",
+  "aliases": [
+    "断水流"
+  ],
+  "summary": "被野狼帮胁迫助攻的中小帮派；其低级青衣弟子被厉飞雨与韩立尽歼。",
+  "attributes": {
+    "阵营": "野狼帮附庸"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "野狼帮附庸",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79,
+        "note": "被胁迫助战"
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79,
+      "note": "被胁迫助战"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch85-90-sikexie-doudou"
+  ],
+  "updatedAt": "2026-06-14T03:03:44.390Z"
+}

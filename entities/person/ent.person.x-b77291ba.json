@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-b77291ba",
+  "type": "person",
+  "name": "田兴",
+  "aliases": [
+    "枯瘦男子"
+  ],
+  "summary": "落日城炼气期修士、地头蛇，被韩立雇为向导。",
+  "attributes": {
+    "身份": "韩立在落日城的随行同伴/向导",
+    "性格": "口若悬河、会察言观色",
+    "外貌": "枯瘦"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "向导",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "韩立在落日城的随行同伴/向导",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "性格": [
+      {
+        "value": "口若悬河、会察言观色",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "外貌": [
+      {
+        "value": "枯瘦",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ]
+  },
+  "firstSeq": 1285,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1293-yinxinshi-tianxindan"
+  ],
+  "updatedAt": "2026-06-16T11:04:31.809Z"
+}

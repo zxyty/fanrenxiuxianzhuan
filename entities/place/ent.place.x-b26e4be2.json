@@ -1,0 +1,121 @@
+{
+  "id": "ent.place.x-b26e4be2",
+  "type": "place",
+  "name": "天澜草原",
+  "aliases": [
+    "草原"
+  ],
+  "summary": "突兀人对慕兰大草原的称呼，因信奉天澜兽得名。",
+  "attributes": {
+    "所属势力": "突兀人、突兀人/天澜圣殿、突兀族/天澜圣殿、天澜圣殿",
+    "类型": "草原势力",
+    "特产": "猿鹫等妖禽",
+    "守护": "突兀人",
+    "所属界面": "大晋"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "突兀人/天澜圣殿",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "突兀族/天澜圣殿",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "天澜圣殿",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "类型": [
+      {
+        "value": "草原",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      },
+      {
+        "value": "草原势力",
+        "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "特产": [
+      {
+        "value": "猿鹫等妖禽",
+        "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+        "seq": 877
+      }
+    ],
+    "守护": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "dated": false,
+      "seq": 877
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "dated": false,
+      "seq": 883
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "dated": false,
+      "seq": 889
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.245Z"
+}

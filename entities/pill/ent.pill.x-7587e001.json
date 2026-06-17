@@ -1,0 +1,69 @@
+{
+  "id": "ent.pill.x-7587e001",
+  "type": "pill",
+  "name": "玄冰丹",
+  "aliases": [],
+  "summary": "解封魂咒所需药引，寒属性丹药，主料为玄冰花，效用与雪魄丸不同。",
+  "attributes": {
+    "功效": "解封魂咒",
+    "主料": "玄冰花",
+    "炼制者": "韩立"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "解封魂咒之药引",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "解封魂咒",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ],
+    "主料": [
+      {
+        "value": "玄冰花",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ]
+  },
+  "firstSeq": 1069,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1069
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+  ],
+  "updatedAt": "2026-06-15T09:07:09.406Z"
+}

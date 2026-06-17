@@ -1,0 +1,121 @@
+{
+  "id": "ent.artifact.x-9d7a9cdf",
+  "type": "artifact",
+  "name": "白鳞盾",
+  "aliases": [
+    "白磷盾",
+    "白光小盾",
+    "白磷盾法器"
+  ],
+  "summary": "韩立的防御法器，硬顶天煞宗修士攻势返阵、入洞探险时持用。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "护身防御",
+    "外形": "盾形护身法器",
+    "品阶": "顶阶法器",
+    "来历": "墨蛟白磷炼制"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "能力": [
+      {
+        "value": "防御",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "极坚硬防御",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "护身防御",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "外形": [
+      {
+        "value": "散发耀眼白光、可涨大数倍",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "盾形",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "盾形护身法器",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "品阶": [
+      {
+        "value": "顶阶法器",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ],
+    "来历": [
+      {
+        "value": "墨蛟白磷炼制",
+        "docId": "plot.fanren-ch338-bigong-quhun",
+        "seq": 337
+      }
+    ]
+  },
+  "firstSeq": 265,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch338-bigong-quhun",
+      "dated": false,
+      "seq": 337
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.064Z"
+}

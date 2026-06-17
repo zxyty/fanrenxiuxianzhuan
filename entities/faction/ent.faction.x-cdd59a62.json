@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-cdd59a62",
+  "type": "faction",
+  "name": "百机堂",
+  "aliases": [],
+  "summary": "黄枫谷下属机构，负责杂务工作分配，叶姓老者任堂主。",
+  "attributes": {
+    "掌门": "叶姓老者（堂主）",
+    "所属界面": "黄枫谷"
+  },
+  "observations": {
+    "掌门": [
+      {
+        "value": "叶姓老者（堂主）",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch152-two-years-later",
+      "dated": false,
+      "seq": 151
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman"
+  ],
+  "updatedAt": "2026-06-14T04:37:08.836Z"
+}

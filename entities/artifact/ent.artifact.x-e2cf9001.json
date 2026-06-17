@@ -1,0 +1,72 @@
+{
+  "id": "ent.artifact.x-e2cf9001",
+  "type": "artifact",
+  "name": "辟火宝衣",
+  "aliases": [
+    "辟火衣"
+  ],
+  "summary": "百年冰蚕丝炼制的护身宝衣，等闲火焰无法近身；原属玉真人，本章被韩立取走。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "辟火",
+    "外形": "青光闪闪衣衫"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433,
+        "note": "原属玉真人，本章取得"
+      }
+    ],
+    "能力": [
+      {
+        "value": "御火，等闲火焰不能近身",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "辟火",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "外形": [
+      {
+        "value": "青光闪闪衣衫",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ]
+  },
+  "firstSeq": 433,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433,
+      "note": "原属玉真人，本章取得"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-456-461-binghuo-dao-heishamo"
+  ],
+  "updatedAt": "2026-06-14T16:02:30.864Z"
+}

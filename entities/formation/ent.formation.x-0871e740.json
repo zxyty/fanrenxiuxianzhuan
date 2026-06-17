@@ -1,0 +1,55 @@
+{
+  "id": "ent.formation.x-0871e740",
+  "type": "formation",
+  "name": "禁断大阵",
+  "aliases": [
+    "大阵"
+  ],
+  "summary": "韩立所布强大阵法，可瞬间挪移阵中敌人并原封反弹其攻击，将越皇困死。",
+  "attributes": {
+    "效果": "瞬间挪移敌人、反弹攻击",
+    "布置者": "韩立"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "瞬间挪移敌人",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "反弹攻击",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ],
+    "布置者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan"
+  ],
+  "updatedAt": "2026-06-14T10:52:27.373Z"
+}

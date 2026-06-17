@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-20df5e88",
+  "type": "person",
+  "name": "蒙某",
+  "aliases": [
+    "蒙兄",
+    "黑衣中年人"
+  ],
+  "summary": "巨剑门弟子，黑衣中年人，驱青色巨剑一剑斩三眼火狼，表面谦虚却暗藏异心。",
+  "attributes": {
+    "外貌": "黑衣中年人",
+    "身份": "巨剑门弟子",
+    "性格": "表面谦虚、暗藏阴厉异心"
+  },
+  "observations": {
+    "外貌": [
+      {
+        "value": "黑衣中年人",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "身份": [
+      {
+        "value": "巨剑门弟子",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "性格": [
+      {
+        "value": "表面谦虚、暗藏阴厉异心",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187,
+        "note": "背向同伴时露出阴厉神情"
+      }
+    ]
+  },
+  "firstSeq": 187,
+  "attrProvenance": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187,
+      "note": "背向同伴时露出阴厉神情"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+  ],
+  "updatedAt": "2026-06-14T05:36:55.170Z"
+}

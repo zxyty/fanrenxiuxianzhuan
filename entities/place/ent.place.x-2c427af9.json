@@ -1,0 +1,68 @@
+{
+  "id": "ent.place.x-2c427af9",
+  "type": "place",
+  "name": "小石山",
+  "aliases": [],
+  "summary": "一座寸草不生、灵气稀薄的不起眼小石山，九曲灵参潜伏其中。",
+  "attributes": {
+    "类型": "山",
+    "特产": "九曲灵参",
+    "所属势力": "落云宗"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "荒山",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "山",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "特产": [
+      {
+        "value": "九曲灵参",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.694Z"
+}

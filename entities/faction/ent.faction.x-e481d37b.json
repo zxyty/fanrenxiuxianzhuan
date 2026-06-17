@@ -1,0 +1,89 @@
+{
+  "id": "ent.faction.x-e481d37b",
+  "type": "faction",
+  "name": "太真门",
+  "aliases": [
+    "正道盟太真门",
+    "贵门"
+  ],
+  "summary": "正道盟宗派，以静心诀闻名；至阳上人出身于此。",
+  "attributes": {
+    "阵营": "正道",
+    "据点": "玄武大殿",
+    "理念": "天南第一正门"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道盟",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "据点": [
+      {
+        "value": "玄武大殿",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "灵龟岛",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "理念": [
+      {
+        "value": "天南第一正门",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "看守上古封印法阵",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865,
+        "note": "迁居天南之由"
+      },
+      {
+        "value": "镇守封印魔气",
+        "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ]
+  },
+  "firstSeq": 751,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "dated": false,
+      "seq": 1171
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "dated": false,
+      "seq": 1171
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+  ],
+  "updatedAt": "2026-06-15T15:00:04.871Z"
+}

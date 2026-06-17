@@ -1,0 +1,57 @@
+{
+  "id": "ent.person.x-f62d5cf5",
+  "type": "person",
+  "name": "昆吾三老",
+  "aliases": [],
+  "summary": "上古封印昆吾山被封印者的古修，其后人分为两脉，一脉创化仙宗、另一脉掌天晶碑。",
+  "attributes": {
+    "身份": "昆吾山上古修士",
+    "存殁": "死亡"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "昆吾前辈、灭绝大阵布置者",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "昆吾山上古修士",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.105Z"
+}

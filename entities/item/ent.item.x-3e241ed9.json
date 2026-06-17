@@ -1,0 +1,90 @@
+{
+  "id": "ent.item.x-3e241ed9",
+  "type": "item",
+  "name": "暖阳宝玉",
+  "aliases": [
+    "青玉",
+    "青色美玉"
+  ],
+  "summary": "墨大夫家传宝玉，唯一可解尸虫丸阴毒之物，被定为其女出阁嫁妆。",
+  "attributes": {
+    "类型": "宝玉/嫁妆",
+    "用途": "解阴毒",
+    "产地": "墨府"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "宝玉/解毒之物",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      },
+      {
+        "value": "宝玉",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      },
+      {
+        "value": "宝玉/嫁妆",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "用途": [
+      {
+        "value": "解尸虫丸所附阴毒",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      },
+      {
+        "value": "克制阴毒",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103,
+        "note": "韩立推测"
+      },
+      {
+        "value": "解阴毒",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "产地": [
+      {
+        "value": "墨府",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ]
+  },
+  "firstSeq": 61,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal"
+  ],
+  "updatedAt": "2026-06-14T03:34:23.000Z"
+}

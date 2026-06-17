@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-4978ea30",
+  "type": "person",
+  "name": "燕雨",
+  "aliases": [
+    "雨师兄",
+    "燕某"
+  ],
+  "summary": "燕家弟子、燕铃之兄，筑基期，骑双首鹜接引韩立董萱儿，被董萱儿狐媚所惑屡屡失神。",
+  "attributes": {
+    "性别": "男",
+    "小阶段": "筑基中期",
+    "身份": "韩立一行同伴",
+    "外貌": "英武"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "筑基中期",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "身份": [
+      {
+        "value": "燕家弟子",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "燕家演武堂精英弟子",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "韩立一行同伴",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      }
+    ],
+    "外貌": [
+      {
+        "value": "英武",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "dated": false,
+      "seq": 253
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu"
+  ],
+  "updatedAt": "2026-06-14T07:54:04.349Z"
+}

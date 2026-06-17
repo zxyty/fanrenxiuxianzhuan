@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-f10f398d",
+  "type": "person",
+  "name": "胥老",
+  "aliases": [
+    "胥掌柜",
+    "塌鼻子老者"
+  ],
+  "summary": "穹宇阁掌柜，原落日城高阶炼体士，中怪毒后肉身无力。",
+  "attributes": {
+    "身份": "苍穹阁掌柜",
+    "外貌": "老者",
+    "标志特征": "身染天心丹也无法解的奇毒",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "穹宇阁掌柜",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "苍穹阁掌柜",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面色焦黄、塌鼻子",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "肉身犹在却使不出力气",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285,
+        "note": "数十年前在落日之墓中怪毒"
+      },
+      {
+        "value": "身染天心丹也无法解的奇毒",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ]
+  },
+  "firstSeq": 1285,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1293-yinxinshi-tianxindan"
+  ],
+  "updatedAt": "2026-06-16T11:04:31.812Z"
+}

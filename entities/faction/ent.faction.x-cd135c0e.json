@@ -1,0 +1,130 @@
+{
+  "id": "ent.faction.x-cd135c0e",
+  "type": "faction",
+  "name": "天机阁",
+  "aliases": [
+    "天机阁晋京主商号",
+    "天机阁一阁",
+    "本阁"
+  ],
+  "summary": "大晋修仙界商号，以炼制天机屋/天机府及芥子空间秘术闻名，主商号在晋京。",
+  "attributes": {
+    "据点": "天机殿",
+    "镇派之宝": "天机府、天机屋、芥子空间炼制之法、芥子法阵布阵器具",
+    "所属界面": "大晋",
+    "等级": "大晋著名商号",
+    "掌门": "粲苦"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "晋京",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "晋西坊市",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 931
+      },
+      {
+        "value": "天机殿",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "天机府",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "天机屋",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "芥子空间炼制之法",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "芥子法阵布阵器具",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ],
+    "等级": [
+      {
+        "value": "大晋著名商号",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ],
+    "掌门": [
+      {
+        "value": "粲苦",
+        "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ]
+  },
+  "firstSeq": 901,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "dated": false,
+      "seq": 1219
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "dated": false,
+      "seq": 1219
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "dated": false,
+      "seq": 1219
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "dated": false,
+      "seq": 1219
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+  ],
+  "updatedAt": "2026-06-16T08:58:55.819Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-d346f3cd",
+  "type": "place",
+  "name": "雪岭山脉",
+  "aliases": [],
+  "summary": "大晋山脉，温石产地，隼云镇与雪江城邻近此处。",
+  "attributes": {
+    "类型": "山脉",
+    "特产": "温石"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "山脉",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "特产": [
+      {
+        "value": "温石",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ]
+  },
+  "firstSeq": 907,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-913-918-xueling-huangsha-array"
+  ],
+  "updatedAt": "2026-06-16T01:00:58.315Z"
+}

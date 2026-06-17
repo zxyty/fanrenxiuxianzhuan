@@ -1,0 +1,136 @@
+{
+  "id": "ent.person.x-e04f0ed2",
+  "type": "person",
+  "name": "孙师叔",
+  "aliases": [
+    "青灵门中年修士",
+    "中年修士",
+    "师叔",
+    "隐煞门中年人",
+    "孙长老",
+    "持白骨巨环的中年修士"
+  ],
+  "summary": "青灵门弟子中唯一筑基初期的中年人，带队出海采药被鹰鸢兽追杀，逃入雾海小岛后向阵主韩立求救并坦陈门派底细。",
+  "attributes": {
+    "小阶段": "元婴初期",
+    "身份": "星宫长老",
+    "阵营": "青灵门",
+    "性别": "男",
+    "标志特征": "白骨巨环护身"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "筑基初期",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "结丹后期",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      },
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "身份": [
+      {
+        "value": "青灵门弟子",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "青灵门修士/带队长辈",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      },
+      {
+        "value": "隐煞门为首",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      },
+      {
+        "value": "星宫长老",
+        "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "阵营": [
+      {
+        "value": "青灵门",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "隐煞门",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+        "seq": 529
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "白骨巨环护身",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 403,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "dated": false,
+      "seq": 1201
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "dated": false,
+      "seq": 529
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+  ],
+  "updatedAt": "2026-06-16T07:30:46.459Z"
+}

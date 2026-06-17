@@ -1,0 +1,42 @@
+{
+  "id": "ent.spell.x-d4659c10",
+  "type": "spell",
+  "name": "风缚之术",
+  "aliases": [
+    "风缚术"
+  ],
+  "summary": "陆师兄所用风属性束缚法术,可全身缚住目标使其无法动弹、无法张口。",
+  "attributes": {
+    "类型": "束缚类"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "风属性束缚术",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "束缚类",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 163,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.230Z"
+}

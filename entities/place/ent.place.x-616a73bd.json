@@ -1,0 +1,139 @@
+{
+  "id": "ent.place.x-616a73bd",
+  "type": "place",
+  "name": "阴阳窟",
+  "aliases": [
+    "阴阳窟入口",
+    "阴阳窟洞窟"
+  ],
+  "summary": "大晋公认七大绝地之一，位于万毒谷内地下数千丈，终年惊魄阴风、自生鬼物，传言深藏鬼王。",
+  "attributes": {
+    "所属界面": "大晋、南疆",
+    "类型": "绝地/上古废弃矿窟、地下洞窟绝地、阴气秘地/洞窟",
+    "危险度": "极高、极高（大晋七大绝地之一）、高",
+    "守护": "惊魄阴风、鬼物、鬼王（传言）",
+    "特产": "阴芝马、黑晶、暖玉原矿"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "类型": [
+      {
+        "value": "绝地/上古废弃矿窟",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "地下洞窟绝地",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "阴气秘地/洞窟",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "极高（大晋七大绝地之一）",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "守护": [
+      {
+        "value": "惊魄阴风",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "鬼物",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "鬼王（传言）",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      }
+    ],
+    "特产": [
+      {
+        "value": "阴芝马",
+        "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "黑晶",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "暖玉原矿",
+        "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ]
+  },
+  "firstSeq": 973,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "dated": false,
+      "seq": 973
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+  ],
+  "updatedAt": "2026-06-16T03:18:06.639Z"
+}

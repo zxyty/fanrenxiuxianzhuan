@@ -1,0 +1,54 @@
+{
+  "id": "ent.person.x-62fa2e37",
+  "type": "person",
+  "name": "青龙上人",
+  "aliases": [],
+  "summary": "人族修士，已复人形、面色苍白，与羊首擎天巨兽联手对阵黑甲大汉及不死魔族，勉强自保。",
+  "attributes": {
+    "阵营": "人族",
+    "标志特征": "体表七口短刃化五爪青龙、驱风雷"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "体表七口短刃化五爪青龙",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "驱风雷",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.317Z"
+}

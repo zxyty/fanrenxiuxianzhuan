@@ -1,0 +1,65 @@
+{
+  "id": "ent.pill.x-e451c5e4",
+  "type": "pill",
+  "name": "真蟾液",
+  "aliases": [
+    "真蟾灵液"
+  ],
+  "summary": "药性霸道的灵液，适合化神后期，主料为蛮荒古兽碧眼真蟾的灵血。",
+  "attributes": {
+    "适用境界": "化神后期",
+    "主料": "碧眼真蟾灵血",
+    "副作用": "化神中期服用风险大"
+  },
+  "observations": {
+    "适用境界": [
+      {
+        "value": "化神后期",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "主料": [
+      {
+        "value": "碧眼真蟾灵血",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ],
+    "副作用": [
+      {
+        "value": "化神中期服用风险大",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      }
+    ]
+  },
+  "firstSeq": 1327,
+  "attrProvenance": {
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "主料": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "dated": false,
+      "seq": 1327
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+  ],
+  "updatedAt": "2026-06-16T19:22:06.768Z"
+}

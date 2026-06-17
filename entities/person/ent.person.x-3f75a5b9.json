@@ -1,0 +1,58 @@
+{
+  "id": "ent.person.x-3f75a5b9",
+  "type": "person",
+  "name": "越国凡人皇帝",
+  "aliases": [
+    "越国皇帝",
+    "当今越国皇帝"
+  ],
+  "summary": "越国凡人皇帝，已被黑煞教教主李破云操纵成傀儡。",
+  "attributes": {
+    "身份": "越国皇帝",
+    "阵营": "越国"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "傀儡皇帝",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307,
+        "note": "被李破云操纵"
+      },
+      {
+        "value": "越国皇帝",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "阵营": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+  ],
+  "updatedAt": "2026-06-14T10:27:34.985Z"
+}

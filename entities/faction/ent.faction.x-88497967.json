@@ -1,0 +1,63 @@
+{
+  "id": "ent.faction.x-88497967",
+  "type": "faction",
+  "name": "化羽门",
+  "aliases": [],
+  "summary": "新近开派的宗门，七十年前迁入辛如音旧居山峰；掌门黄药真人为元婴修士，由结丹期长老执掌。",
+  "attributes": {
+    "掌门": "黄药真人",
+    "据点": "元武国辛如音旧居山峰",
+    "等级": "中小宗门"
+  },
+  "observations": {
+    "掌门": [
+      {
+        "value": "黄药真人",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "据点": [
+      {
+        "value": "元武国辛如音旧居山峰",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "等级": [
+      {
+        "value": "中小宗门",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ]
+  },
+  "firstSeq": 1159,
+  "attrProvenance": {
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1167-1172-return-luoyunzong"
+  ],
+  "updatedAt": "2026-06-15T11:44:31.803Z"
+}

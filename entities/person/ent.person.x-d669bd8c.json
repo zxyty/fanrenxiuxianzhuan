@@ -1,0 +1,81 @@
+{
+  "id": "ent.person.x-d669bd8c",
+  "type": "person",
+  "name": "冯师兄",
+  "aliases": [
+    "白须老者",
+    "冯姓老者",
+    "冯兄"
+  ],
+  "summary": "结丹后期的白须老者，主持试剑大会带队事宜，接收宋师祖密报并怀疑杜东身份。",
+  "attributes": {
+    "小阶段": "结丹后期",
+    "性别": "男",
+    "身份": "百巧院长老",
+    "外貌": "火红头发、黝黑皮肤"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "结丹后期",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "身份": [
+      {
+        "value": "百巧院长老",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "外貌": [
+      {
+        "value": "火红头发、黝黑皮肤",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ]
+  },
+  "firstSeq": 619,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-859-864-weidan-tanyan-qinghan"
+  ],
+  "updatedAt": "2026-06-15T14:38:52.835Z"
+}

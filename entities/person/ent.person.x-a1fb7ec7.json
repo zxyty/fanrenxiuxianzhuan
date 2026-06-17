@@ -1,0 +1,130 @@
+{
+  "id": "ent.person.x-a1fb7ec7",
+  "type": "person",
+  "name": "刘氏",
+  "aliases": [
+    "三夫人",
+    "三师母",
+    "三姐"
+  ],
+  "summary": "墨大夫三夫人，容貌艳绝、风情万种，修有迷魂的天狐大法，驻颜有术。",
+  "attributes": {
+    "性别": "女",
+    "身份": "墨大夫三夫人、墨大夫之妻、秦言三夫人、秦言妾室(三夫人)",
+    "外貌": "二十三四光景的绝艳少妇（实与二夫人年龄相仿）",
+    "标志特征": "善媚术",
+    "寿元": "四十余岁",
+    "性格": "心计过人"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "身份": [
+      {
+        "value": "墨大夫三夫人",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "墨大夫之妻",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      },
+      {
+        "value": "秦言三夫人",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      },
+      {
+        "value": "秦言妾室(三夫人)",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "外貌": [
+      {
+        "value": "二十三四光景的绝艳少妇（实与二夫人年龄相仿）",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "驻颜有术",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "善媚术",
+        "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+        "seq": 115
+      }
+    ],
+    "寿元": [
+      {
+        "value": "四十余岁",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ],
+    "性格": [
+      {
+        "value": "心计过人",
+        "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+        "seq": 277
+      }
+    ]
+  },
+  "firstSeq": 109,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+      "dated": false,
+      "seq": 115
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+      "dated": false,
+      "seq": 277
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch109-114-mofu-dengmen",
+    "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence"
+  ],
+  "updatedAt": "2026-06-14T08:51:46.193Z"
+}

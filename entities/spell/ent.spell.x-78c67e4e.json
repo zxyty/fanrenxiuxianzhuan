@@ -1,0 +1,49 @@
+{
+  "id": "ent.spell.x-78c67e4e",
+  "type": "spell",
+  "name": "地刺术",
+  "aliases": [],
+  "summary": "《基础咒决残本》中记载的初级中阶法术。",
+  "attributes": {
+    "类型": "土系攻击",
+    "适用境界": "初级中阶"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "土系攻击",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "初级中阶",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:58:07.267Z"
+}

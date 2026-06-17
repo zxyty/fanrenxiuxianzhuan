@@ -1,0 +1,95 @@
+{
+  "id": "ent.place.x-96a0818f",
+  "type": "place",
+  "name": "神手谷",
+  "aliases": [],
+  "summary": "彩霞山中仅一入口的翠绿山谷，左药田右屋舍，墨大夫专属居所，韩立张铁居此。",
+  "attributes": {
+    "所属势力": "七玄门",
+    "类型": "行医居所",
+    "特产": "药园珍稀草药"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "类型": [
+      {
+        "value": "山谷／药园居所",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      },
+      {
+        "value": "山谷",
+        "docId": "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+        "seq": 7
+      },
+      {
+        "value": "山谷/居所",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "谷地/据点",
+        "docId": "plot.fanren-ch55-60-third-person-duoshe-failed",
+        "seq": 55
+      },
+      {
+        "value": "行医居所",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      }
+    ],
+    "特产": [
+      {
+        "value": "药园珍稀草药",
+        "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+        "seq": 61
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+      "dated": false,
+      "seq": 67
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+      "dated": false,
+      "seq": 61
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
+    "plot.fanren-ch13-18-yixiang-qi",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+    "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
+    "plot.fanren-ch31-36-shichongwan",
+    "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-ch55-60-third-person-duoshe-failed",
+    "plot.fanren-ch61-66-shenmie-jiaoyi-zhenrong",
+    "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch"
+  ],
+  "updatedAt": "2026-06-14T03:06:36.596Z"
+}

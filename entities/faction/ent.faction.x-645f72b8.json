@@ -1,0 +1,52 @@
+{
+  "id": "ent.faction.x-645f72b8",
+  "type": "faction",
+  "name": "魔道千幻宗",
+  "aliases": [
+    "千幻宗"
+  ],
+  "summary": "魔道宗门，派杜东、白师叔等做内应，里应外合图谋灵眼之树/醇液。",
+  "attributes": {
+    "阵营": "魔道",
+    "镇派之宝": "大罗千幻决"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "大罗千幻决",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 625,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "dated": false,
+      "seq": 625
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo"
+  ],
+  "updatedAt": "2026-06-15T03:18:50.427Z"
+}

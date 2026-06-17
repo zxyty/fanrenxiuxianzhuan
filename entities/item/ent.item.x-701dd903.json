@@ -1,0 +1,51 @@
+{
+  "id": "ent.item.x-701dd903",
+  "type": "item",
+  "name": "巨型海船",
+  "aliases": [
+    "巨舟",
+    "海船"
+  ],
+  "summary": "韩立出海半日后发现的无桅无帆巨船，由十几只无灵气巨鱼拖行，疑为凡人船只。",
+  "attributes": {
+    "类型": "凡人海船",
+    "用途": "海上航行（巨鱼拖行）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "凡人海船",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ],
+    "用途": [
+      {
+        "value": "海上航行（巨鱼拖行）",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      }
+    ]
+  },
+  "firstSeq": 361,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch362-nangong-ping",
+      "dated": false,
+      "seq": 361
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch362-nangong-ping"
+  ],
+  "updatedAt": "2026-06-14T12:34:03.884Z"
+}

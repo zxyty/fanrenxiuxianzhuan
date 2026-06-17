@@ -1,0 +1,63 @@
+{
+  "id": "ent.faction.x-f5b32bd5",
+  "type": "faction",
+  "name": "真极门",
+  "aliases": [],
+  "summary": "大晋道门之一，道士乌辟在晋西坊市维持禁斗法规矩。",
+  "attributes": {
+    "阵营": "正道(三大道门之一)",
+    "所属界面": "大晋修仙界",
+    "等级": "大晋三大道门之一"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道(三大道门之一)",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋修仙界",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "等级": [
+      {
+        "value": "大晋三大道门之一",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ]
+  },
+  "firstSeq": 865,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "dated": false,
+      "seq": 865
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.511Z"
+}

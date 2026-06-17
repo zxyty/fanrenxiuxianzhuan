@@ -1,0 +1,82 @@
+{
+  "id": "ent.person.x-b73b896e",
+  "type": "person",
+  "name": "万妖谷幼童",
+  "aliases": [
+    "幼童",
+    "男童",
+    "万妖谷化身"
+  ],
+  "summary": "外貌如六七岁玉童、双眸泛血色，声音却苍老；实为万妖谷某妖修派出的化身，与青道友同伙。",
+  "attributes": {
+    "性别": "男",
+    "种族": "妖兽",
+    "身份": "万妖谷妖修化身",
+    "外貌": "六七岁男童、眸泛血色"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "种族": [
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "身份": [
+      {
+        "value": "万妖谷妖修化身",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087,
+        "note": "本体未现，派出化身"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "六七岁男童、眸泛血色",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 1087,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087,
+      "note": "本体未现，派出化身"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1088-bingpo-hanlie-zhen"
+  ],
+  "updatedAt": "2026-06-15T09:30:06.959Z"
+}

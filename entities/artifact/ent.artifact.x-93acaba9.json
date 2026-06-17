@@ -1,0 +1,84 @@
+{
+  "id": "ent.artifact.x-93acaba9",
+  "type": "artifact",
+  "name": "镇魔锁",
+  "aliases": [
+    "白色木盒"
+  ],
+  "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
+  "attributes": {
+    "持有者": "韩立",
+    "品阶": "玄天灵宝(未完成)",
+    "外形": "金银符文镶嵌的白色木盒",
+    "禁制": "神念化身入内无法脱身；内有多重禁制"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "血光圣祖",
+        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天灵宝(未完成)",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "外形": [
+      {
+        "value": "金银符文镶嵌的白色木盒",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ],
+    "禁制": [
+      {
+        "value": "神念化身入内无法脱身；内有多重禁制",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      }
+    ]
+  },
+  "firstSeq": 1903,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1923-blood-saint-descends"
+  ],
+  "updatedAt": "2026-06-17T03:11:34.318Z"
+}

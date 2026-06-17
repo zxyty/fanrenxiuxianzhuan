@@ -1,0 +1,105 @@
+{
+  "id": "ent.artifact.x-0033d112",
+  "type": "artifact",
+  "name": "四象尺",
+  "aliases": [
+    "白色玉尺",
+    "白尺"
+  ],
+  "summary": "仿制八灵尺炼成之宝，秀丽女子所持，对八灵尺或有奇效。",
+  "attributes": {
+    "来历": "仿制八灵尺炼成",
+    "持有者": "秀丽女子",
+    "品阶": "通天灵宝仿制品",
+    "能力": "困敌幻化（幻化白莲等）",
+    "外形": "白色玉尺"
+  },
+  "observations": {
+    "来历": [
+      {
+        "value": "仿制八灵尺炼成",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "八灵尺仿制品",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "持有者": [
+      {
+        "value": "秀丽女子",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "化仙宗秀丽女子",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "品阶": [
+      {
+        "value": "通天灵宝仿制品",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ],
+    "能力": [
+      {
+        "value": "困敌幻化（幻化白莲等）",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ],
+    "外形": [
+      {
+        "value": "白色玉尺",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "dated": false,
+      "seq": 1021
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "dated": false,
+      "seq": 1021
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "dated": false,
+      "seq": 1021
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+  ],
+  "updatedAt": "2026-06-16T04:46:03.695Z"
+}

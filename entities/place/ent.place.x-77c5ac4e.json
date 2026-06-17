@@ -1,0 +1,51 @@
+{
+  "id": "ent.place.x-77c5ac4e",
+  "type": "place",
+  "name": "李宅",
+  "aliases": [
+    "李长老的院子",
+    "李长老住处"
+  ],
+  "summary": "建于山坳的偏僻宅院，聚集七玄门帮众家属，由马荣与外刃堂弟子看守。",
+  "attributes": {
+    "所属势力": "七玄门",
+    "类型": "山坳宅院"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "七玄门",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "类型": [
+      {
+        "value": "山坳宅院",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 79,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch79-84-luori-feng-siege"
+  ],
+  "updatedAt": "2026-06-14T02:56:11.578Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "ent.item.x-c0cd8766",
+  "type": "item",
+  "name": "玄天果实",
+  "aliases": [
+    "棍子状玄天之物",
+    "玄天灵物玄天果实",
+    "玄天灵剑",
+    "玄天之争之宝",
+    "翠色灵剑"
+  ],
+  "summary": "韩立所得『棍子』状玄天之物，内有白色光点，唯神秘绿液可使其白光壮大。",
+  "attributes": {
+    "类型": "逆天宝物",
+    "用途": "蕴含一界法则之力"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "玄天灵物",
+        "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "逆天宝物",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ],
+    "用途": [
+      {
+        "value": "蕴含一界法则之力",
+        "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      }
+    ]
+  },
+  "firstSeq": 1321,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1401-black-mist-sea",
+      "dated": false,
+      "seq": 1399
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.229Z"
+}

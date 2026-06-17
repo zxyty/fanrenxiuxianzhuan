@@ -1,0 +1,121 @@
+{
+  "id": "ent.artifact.x-20083e11",
+  "type": "artifact",
+  "name": "血刃",
+  "aliases": [
+    "血红短刃",
+    "血刃血光",
+    "血色血刃",
+    "仿制魔龙刃",
+    "仿制魔龙刃的血刃",
+    "半尺血刃"
+  ],
+  "summary": "四散真人的法宝，仿制魔龙刃炼制，凶煞血气，可化血海吞噬元婴。",
+  "attributes": {
+    "持有者": "四散真人、万年尸熊、韩立",
+    "来历": "仿制魔龙刃、玲珑所赠、疑为地下拍卖会流出",
+    "能力": "化血海、吞噬元婴、吞噬血肉精魂以增威、吞噬血肉精魂增威",
+    "外形": "血光/巨大鬼脸"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "四散真人",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "万年尸熊",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "来历": [
+      {
+        "value": "仿制魔龙刃",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "玲珑所赠",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "疑为地下拍卖会流出",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "能力": [
+      {
+        "value": "化血海",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "吞噬元婴",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "吞噬血肉精魂以增威",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "吞噬血肉精魂增威",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069,
+        "note": "增威会随时间消退，仿制品缺陷"
+      }
+    ],
+    "外形": [
+      {
+        "value": "血光/巨大鬼脸",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ]
+  },
+  "firstSeq": 1045,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1063-xuanwo-heifengqi"
+  ],
+  "updatedAt": "2026-06-16T06:03:53.148Z"
+}

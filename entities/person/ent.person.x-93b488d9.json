@@ -1,0 +1,131 @@
+{
+  "id": "ent.person.x-93b488d9",
+  "type": "person",
+  "name": "冰妖",
+  "aliases": [],
+  "summary": "黑煞教魔修，浑身散发淡淡白气、身形难辨，留守皇宫冷殿。",
+  "attributes": {
+    "标志特征": "散发朦胧白色寒气",
+    "阵营": "黑煞教",
+    "身份": "四大血侍之一、四大血侍、黑煞教血侍",
+    "外貌": "清秀青年半妖化、白角白尾白鳞、晶莹透明利爪",
+    "存殁": "死亡",
+    "死因": "被韩立透明丝线缠爪、银剑切割"
+  },
+  "observations": {
+    "标志特征": [
+      {
+        "value": "浑身散发白气、身形飘忽难辨",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "散发朦胧白色寒气",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      },
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      }
+    ],
+    "身份": [
+      {
+        "value": "四大血侍之一",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "四大血侍",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "黑煞教血侍",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "外貌": [
+      {
+        "value": "藏于寒气、苍白面孔",
+        "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+        "seq": 313
+      },
+      {
+        "value": "清秀青年半妖化、白角白尾白鳞、晶莹透明利爪",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立透明丝线缠爪、银剑切割",
+        "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+        "seq": 319
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "dated": false,
+      "seq": 313
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
+      "dated": false,
+      "seq": 319
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao"
+  ],
+  "updatedAt": "2026-06-14T10:30:34.119Z"
+}

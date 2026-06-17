@@ -1,0 +1,103 @@
+{
+  "id": "ent.item.x-b4f73624",
+  "type": "item",
+  "name": "明清灵水",
+  "aliases": [
+    "清明灵水"
+  ],
+  "summary": "以圣树第一滴醇液加千年灵药配制，洗目可得穿雾透石神通，对炼气/筑基低阶最有效。",
+  "attributes": {
+    "用途": "擦目激发明清灵目",
+    "产地": "灵眼之树醇液调配",
+    "类型": "修炼用灵水"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "洗目得清目神通",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "洗目",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "清洗灵目/成就明清灵眼",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "修炼天眼术",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      },
+      {
+        "value": "擦目激发明清灵目",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "产地": [
+      {
+        "value": "云梦山三派",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "三派禁地",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "灵眼之树醇液调配",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵水",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "修炼用灵水",
+        "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+        "seq": 643
+      }
+    ]
+  },
+  "firstSeq": 613,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "dated": false,
+      "seq": 643
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan"
+  ],
+  "updatedAt": "2026-06-14T22:12:35.697Z"
+}

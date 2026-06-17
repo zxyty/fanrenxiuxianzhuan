@@ -1,0 +1,152 @@
+{
+  "id": "ent.place.x-c74d7213",
+  "type": "place",
+  "name": "北冥冰岛",
+  "aliases": [
+    "北冥岛",
+    "北冥岛半岛",
+    "北冥岛冰城"
+  ],
+  "summary": "赫赫有名的偏寒之地，小极宫所在。",
+  "attributes": {
+    "类型": "半岛/极寒之地",
+    "所属界面": "大晋(北地)",
+    "危险度": "极高(滴水成冰)",
+    "特产": "玄冰花、玄玉寒气、寒髓",
+    "所属势力": "小极宫",
+    "守护": "天元阴脉寒眼禁制、禁空禁制"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "极寒之地",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "半岛/极寒之地",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "极寒冰岛",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋(北地)",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高(滴水成冰)",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "极高(万里寒气)",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "特产": [
+      {
+        "value": "玄冰花",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "玄玉寒气",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "寒髓",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "北夜小极宫",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "守护": [
+      {
+        "value": "天元阴脉寒眼禁制",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "禁空禁制",
+        "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "dated": false,
+      "seq": 1075
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "dated": false,
+      "seq": 1081
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "dated": false,
+      "seq": 1087
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-ch943-jinjing-extortion-backstab"
+  ],
+  "updatedAt": "2026-06-16T02:11:44.889Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ent.place.x-ba411d66",
+  "type": "place",
+  "name": "皇城",
+  "aliases": [
+    "皇宫",
+    "皇城大内",
+    "大内"
+  ],
+  "summary": "越国皇城/皇宫，黑煞教老巢，七派弟子严禁踏入。",
+  "attributes": {
+    "所属势力": "越国皇室（实被黑煞教控制）"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "越国皇室（实被黑煞教控制）",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.568Z"
+}

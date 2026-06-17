@@ -1,0 +1,100 @@
+{
+  "id": "ent.pill.x-8a86ec60",
+  "type": "pill",
+  "name": "雪魄丸",
+  "aliases": [
+    "冰魄丸"
+  ],
+  "summary": "辅助灵药，可助冰寒属性功法修士修炼凡人冰寒之力更进一层；主料多可于药园凑齐，尚缺数种外界可得的珍稀料。",
+  "attributes": {
+    "功效": "助冰寒属性功法修士提升凡人冰寒之力、增强冰寒之力、增至阴寒气、助炼紫罗极火",
+    "适用境界": "冰寒属性功法修士",
+    "品阶": "上古灵丹",
+    "副作用": "坐化后力量溃散（此处指精魂力量，泛述）"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "助冰寒属性功法修士提升凡人冰寒之力",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "增强冰寒之力",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "增至阴寒气",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "助炼紫罗极火",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "冰寒属性功法修士",
+        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古灵丹",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "副作用": [
+      {
+        "value": "炼化间隔三四个月",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "坐化后力量溃散（此处指精魂力量，泛述）",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ]
+  },
+  "firstSeq": 853,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "dated": false,
+      "seq": 853
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+  ],
+  "updatedAt": "2026-06-16T02:49:21.269Z"
+}

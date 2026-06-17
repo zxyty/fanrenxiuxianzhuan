@@ -1,0 +1,40 @@
+{
+  "id": "ent.place.x-8f4c6334",
+  "type": "place",
+  "name": "九霄殿",
+  "aliases": [],
+  "summary": "向天机阁借来的单层白石大殿，悬于宝光殿上空，本届元婴级拍卖会场地。",
+  "attributes": {
+    "类型": "拍卖殿"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "拍卖殿堂",
+        "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "拍卖殿",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 943,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:46.975Z"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ent.technique.x-8251496e",
+  "type": "technique",
+  "name": "阴魔斩",
+  "aliases": [
+    "阴魔斩秘功",
+    "阴魔斩黑红光片"
+  ],
+  "summary": "出自玄阴经的一次性强攻秘术，凝精元为黑红光片，破移形换位之效，传闻至深可破界斩空。",
+  "attributes": {
+    "出处": "玄阴经",
+    "效果": "无坚不摧、破移形换位、传闻可破界斩空、手臂膨胀浮血光、射黑红光片",
+    "外显异象": "黑气浓稠、血光刺目"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "玄阴经",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      }
+    ],
+    "效果": [
+      {
+        "value": "无坚不摧",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "破移形换位",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "传闻可破界斩空",
+        "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "手臂膨胀浮血光",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "射黑红光片",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "黑气浓稠、血光刺目",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ]
+  },
+  "firstSeq": 571,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+      "dated": false,
+      "seq": 571
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+      "dated": false,
+      "seq": 571
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+      "dated": false,
+      "seq": 739
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+  ],
+  "updatedAt": "2026-06-15T06:28:36.530Z"
+}

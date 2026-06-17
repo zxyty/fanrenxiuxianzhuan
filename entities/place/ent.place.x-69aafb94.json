@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-69aafb94",
+  "type": "place",
+  "name": "黑水巷",
+  "aliases": [],
+  "summary": "嘉元城内偏僻肮脏巷子，黑熊设伏围杀韩立之地。",
+  "attributes": {
+    "类型": "巷子",
+    "危险度": "高（伏杀地点）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "巷子",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（伏杀地点）",
+        "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+        "seq": 97
+      }
+    ]
+  },
+  "firstSeq": 97,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+      "dated": false,
+      "seq": 97
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan"
+  ],
+  "updatedAt": "2026-06-14T03:09:31.528Z"
+}

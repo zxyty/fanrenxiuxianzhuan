@@ -1,0 +1,87 @@
+{
+  "id": "ent.material.x-5af61901",
+  "type": "material",
+  "name": "化界石",
+  "aliases": [],
+  "summary": "灵界都可遇不可求的稀材，分神降临下界须耗费一颗以克服界面之力。",
+  "attributes": {
+    "类型": "消耗性天材地宝",
+    "用途": "助分神隔界降临下界",
+    "稀有度": "极稀有",
+    "产地": "灵界"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "界面稀材",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "消耗性天材地宝",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "用途": [
+      {
+        "value": "助分神隔界降临下界",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极高（灵界亦罕见）",
+        "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "产地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ]
+  },
+  "firstSeq": 1159,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "dated": false,
+      "seq": 1159
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1190-huajiezhu-jifengjiubian"
+  ],
+  "updatedAt": "2026-06-16T07:03:34.600Z"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ent.artifact.x-7f010c66",
+  "type": "artifact",
+  "name": "婆罗珠",
+  "aliases": [
+    "婆罗珠手链",
+    "圆珠手链"
+  ],
+  "summary": "极阴祖师所赠四颗椭圆青光珠串成的手链，定神安魂，修炼时大减心魔干扰，珍稀之物。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "定神安魂、御心魔、助修士抵御恐惧心境/过关、遇邪祟灼热示警",
+    "外形": "似木非木、似金非金的四颗椭圆青光珠，带檀香"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463,
+        "note": "极阴所赠,料过关后会被收回"
+      }
+    ],
+    "能力": [
+      {
+        "value": "定神安魂",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "御心魔",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "助修士抵御恐惧心境/过关",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      },
+      {
+        "value": "遇邪祟灼热示警",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ],
+    "外形": [
+      {
+        "value": "似木非木、似金非金的四颗椭圆青光珠，带檀香",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ]
+  },
+  "firstSeq": 463,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463,
+      "note": "极阴所赠,料过关后会被收回"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-589-594-jiangling-fu-baofengshan"
+  ],
+  "updatedAt": "2026-06-14T19:30:06.966Z"
+}

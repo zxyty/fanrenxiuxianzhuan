@@ -1,0 +1,142 @@
+{
+  "id": "ent.person.x-b43c0a7a",
+  "type": "person",
+  "name": "陈某",
+  "aliases": [
+    "陈氏家族大公子",
+    "陈兄",
+    "陈师妹大哥",
+    "胖子",
+    "陈五伯",
+    "五伯"
+  ],
+  "summary": "黄枫谷弟子、陈氏家族大公子，持金书银笔威力惊人，击退钟吾与化刀坞青年并放二人离去；溺爱七妹。",
+  "attributes": {
+    "性别": "男",
+    "身份": "黄枫谷弟子、陈氏家族大公子、营内临时交易所摊主/商人、交易所经营者",
+    "外貌": "四十许、一脸书卷之气、胖乎乎、肥胖小眼",
+    "阵营": "黄枫谷、陈氏家族",
+    "性格": "稳重、宠妹",
+    "小阶段": "筑基中期"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "身份": [
+      {
+        "value": "黄枫谷弟子",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "陈氏家族大公子",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "营内临时交易所摊主/商人",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "交易所经营者",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四十许、一脸书卷之气",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "胖乎乎",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "肥胖小眼",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "陈氏家族",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "性格": [
+      {
+        "value": "稳重、宠妹",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基中期",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-272-jingu-yuan-war-one-year"
+  ],
+  "updatedAt": "2026-06-14T08:43:23.862Z"
+}

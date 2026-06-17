@@ -1,0 +1,107 @@
+{
+  "id": "ent.person.x-631f4603",
+  "type": "person",
+  "name": "清虚门道士",
+  "aliases": [
+    "道士",
+    "牛鼻子",
+    "李道长",
+    "灰道袍青年"
+  ],
+  "summary": "清虚门结丹期修士，以血线蛟内丹为注与李师祖立赌，狡黠老练（本章未具名）。",
+  "attributes": {
+    "身份": "道士",
+    "小阶段": "结丹期",
+    "阵营": "清虚门",
+    "性格": "老练、不卑不亢",
+    "外貌": "灰色道袍青年道士"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "清虚门结丹期修士",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175,
+        "note": "本章未具名"
+      },
+      {
+        "value": "道士",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "阵营": [
+      {
+        "value": "清虚门",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "性格": [
+      {
+        "value": "奸狡、善激将",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "老练、不卑不亢",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰色道袍青年道士",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ]
+  },
+  "firstSeq": 175,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue"
+  ],
+  "updatedAt": "2026-06-14T05:36:55.172Z"
+}

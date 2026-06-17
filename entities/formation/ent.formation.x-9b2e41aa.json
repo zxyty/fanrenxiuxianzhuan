@@ -1,0 +1,50 @@
+{
+  "id": "ent.formation.x-9b2e41aa",
+  "type": "formation",
+  "name": "冥河结界",
+  "aliases": [
+    "冥河之地结界"
+  ],
+  "summary": "以阴气为主、蕴含精纯冥魔之气的禁制，四人图谋以辟邪神雷与炮灰大军破之。",
+  "attributes": {
+    "效果": "阻隔冥河之地",
+    "破解法": "辟邪神雷克冥魔之气+玄鬼傀儡炮灰冲阵"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "阻隔冥河之地",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ],
+    "破解法": [
+      {
+        "value": "辟邪神雷克冥魔之气+玄鬼傀儡炮灰冲阵",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ]
+  },
+  "firstSeq": 1453,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1457-taodun-didi-escape"
+  ],
+  "updatedAt": "2026-06-16T17:08:35.977Z"
+}

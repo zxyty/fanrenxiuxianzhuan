@@ -1,0 +1,78 @@
+{
+  "id": "ent.pill.x-3cd02eee",
+  "type": "pill",
+  "name": "天心丹",
+  "aliases": [],
+  "summary": "黄粱前辈独门秘药，盛于碧绿瓷瓶，突破瓶颈圣药，可临时增长神念弥补炼体士神念不足，对修士效果微乎其微。",
+  "attributes": {
+    "功效": "临时增长神念、弥补炼体士神念不足、助突破瓶颈、临时增加神识",
+    "适用境界": "炼体士（修士效果微乎其微）",
+    "炼制者": "黄粱前辈"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "临时增长神念",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "弥补炼体士神念不足",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "临时增加神识",
+        "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "炼体士（修士效果微乎其微）",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "黄粱前辈",
+        "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ]
+  },
+  "firstSeq": 1291,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "dated": false,
+      "seq": 1291
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1299-shiyan-takeover"
+  ],
+  "updatedAt": "2026-06-16T11:26:21.064Z"
+}

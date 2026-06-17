@@ -1,0 +1,51 @@
+{
+  "id": "ent.place.x-f756a756",
+  "type": "place",
+  "name": "冰火路",
+  "aliases": [
+    "峡谷",
+    "第二关"
+  ],
+  "summary": "设有禁制的峡谷，含玄晶道与熔岩路两条通道，谷尽头的传送阵为通关之处，是闯关第二关。",
+  "attributes": {
+    "类型": "禁制峡谷",
+    "危险度": "极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "禁制峡谷",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ]
+  },
+  "firstSeq": 445,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch446-zaiju"
+  ],
+  "updatedAt": "2026-06-14T15:46:07.012Z"
+}

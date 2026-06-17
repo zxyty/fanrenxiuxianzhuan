@@ -1,0 +1,53 @@
+{
+  "id": "ent.faction.x-0b2ec9ed",
+  "type": "faction",
+  "name": "李家",
+  "aliases": [
+    "雪连峰李家",
+    "李家一族"
+  ],
+  "summary": "霜郡雪连峰的修仙小家族，家主李忠添。",
+  "attributes": {
+    "掌门": "李忠添",
+    "据点": "雪连峰"
+  },
+  "observations": {
+    "掌门": [
+      {
+        "value": "李忠添",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "据点": [
+      {
+        "value": "雪连峰",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069,
+        "note": "本章被迫放弃"
+      }
+    ]
+  },
+  "firstSeq": 1069,
+  "attrProvenance": {
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1069
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1069,
+      "note": "本章被迫放弃"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1069-soul-devour-longmeng-awaken"
+  ],
+  "updatedAt": "2026-06-15T08:50:19.664Z"
+}

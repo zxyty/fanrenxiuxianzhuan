@@ -1,0 +1,85 @@
+{
+  "id": "ent.place.x-27742f35",
+  "type": "place",
+  "name": "万丈魔渊",
+  "aliases": [
+    "魔渊",
+    "魔渊入口"
+  ],
+  "summary": "韩立所得魔髓钻自然凝炼之地。",
+  "attributes": {
+    "特产": "精纯魔气",
+    "危险度": "极高",
+    "类型": "魔气深渊",
+    "守护": "石柱光幕封印"
+  },
+  "observations": {
+    "特产": [
+      {
+        "value": "魔髓钻",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "精纯魔气",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "类型": [
+      {
+        "value": "魔气深渊",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      }
+    ],
+    "守护": [
+      {
+        "value": "石柱光幕封印",
+        "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 949,
+  "attrProvenance": {
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+      "dated": false,
+      "seq": 1177
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+      "dated": false,
+      "seq": 1177
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+  ],
+  "updatedAt": "2026-06-16T06:37:19.279Z"
+}

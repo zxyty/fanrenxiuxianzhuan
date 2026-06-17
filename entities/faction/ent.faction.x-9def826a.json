@@ -1,0 +1,102 @@
+{
+  "id": "ent.faction.x-9def826a",
+  "type": "faction",
+  "name": "百巧院",
+  "aliases": [
+    "百巧宗",
+    "本院",
+    "贵院"
+  ],
+  "summary": "以炼器闻名、藏顶尖法宝炼制法、由五大家族把持、占云梦山西部。",
+  "attributes": {
+    "阵营": "天道盟",
+    "据点": "云梦山脉",
+    "理念": "炼器",
+    "镇派之宝": "乾坤塔"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "天道盟",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "据点": [
+      {
+        "value": "云梦山西脉",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "云梦山脉",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "依山壁而建、地底有地肺火池",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      },
+      {
+        "value": "云梦山",
+        "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+        "seq": 865
+      }
+    ],
+    "理念": [
+      {
+        "value": "炼器",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "乾坤塔",
+        "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+        "seq": 859
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "dated": false,
+      "seq": 859
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-1167-1172-return-luoyunzong",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.486Z"
+}

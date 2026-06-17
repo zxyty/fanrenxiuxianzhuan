@@ -1,0 +1,96 @@
+{
+  "id": "ent.person.x-bc4af445",
+  "type": "person",
+  "name": "王长老",
+  "aliases": [
+    "银袍修士"
+  ],
+  "summary": "逆星盟在港口领队的元婴期老怪，曾以神识亲自探测离岛的结丹期修士(含韩立)以防变容伪冒。",
+  "attributes": {
+    "小阶段": "元婴初期",
+    "身份": "天机阁长老",
+    "阵营": "逆星盟",
+    "外貌": "银袍、面色微白"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499,
+        "note": "本章未正面现身，据韩立推断为领队元婴期老怪"
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "身份": [
+      {
+        "value": "逆星盟长老",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      },
+      {
+        "value": "天机阁长老",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "阵营": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-499-504-nanming-island",
+        "seq": 499
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银袍",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "面色微白",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ]
+  },
+  "firstSeq": 499,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-499-504-nanming-island",
+      "dated": false,
+      "seq": 499
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-499-504-nanming-island",
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-ch949-miaoyin-baojing"
+  ],
+  "updatedAt": "2026-06-16T02:23:46.973Z"
+}

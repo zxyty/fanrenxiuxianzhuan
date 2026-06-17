@@ -1,0 +1,78 @@
+{
+  "id": "ent.place.x-1e45c6e3",
+  "type": "place",
+  "name": "无名小山",
+  "aliases": [
+    "辛如音无名山",
+    "无名山",
+    "辛如音故居",
+    "辛如音隐居小山"
+  ],
+  "summary": "辛如音隐居之地，山上设阵法白雾，藏有待修复的古传送阵。",
+  "attributes": {
+    "类型": "隐居故居",
+    "守护": "禁制",
+    "所属界面": "元武国"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "隐居地",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "隐居故居",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "守护": [
+      {
+        "value": "阵法白雾",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "禁制",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch648-zhimu-lingying"
+  ],
+  "updatedAt": "2026-06-14T20:54:29.257Z"
+}

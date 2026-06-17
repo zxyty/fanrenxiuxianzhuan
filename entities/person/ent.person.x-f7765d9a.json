@@ -1,0 +1,127 @@
+{
+  "id": "ent.person.x-f7765d9a",
+  "type": "person",
+  "name": "赵无归",
+  "aliases": [
+    "白面无须金甲修士",
+    "赵前辈",
+    "赵天卫"
+  ],
+  "summary": "炼虚期修士，初见为金甲、再见作儒生装扮，为韩立申请并安排青冥卫身份与丙五十六队。",
+  "attributes": {
+    "小阶段": "炼虚",
+    "身份": "金甲修士、天卫、天渊城天卫、飞升修士、天渊城前辈/任务发布者",
+    "外貌": "白面无须中年",
+    "性格": "冷厉",
+    "阵营": "天渊城"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "身份": [
+      {
+        "value": "金甲修士",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "天卫",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "天渊城天卫",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "飞升修士",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "天渊城前辈/任务发布者",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白面无须",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "白面无须中年",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷厉",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      }
+    ]
+  },
+  "firstSeq": 1309,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "dated": false,
+      "seq": 1345
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1353-ling-chong-da-cheng"
+  ],
+  "updatedAt": "2026-06-16T14:02:15.363Z"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ent.spell.x-5d45cf73",
+  "type": "spell",
+  "name": "剑影分光术",
+  "aliases": [
+    "剑光分影术",
+    "剑光分影"
+  ],
+  "summary": "青元剑诀后三层大成神通，借飞剑剑光幻化同形剑影迷敌随攻，第九层可同时三道、各三分之一威力。",
+  "attributes": {
+    "类型": "飞剑分光神通",
+    "出处": "青元剑诀",
+    "适用境界": "青元剑诀第七层",
+    "威力": "24口飞剑化96道剑光"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "剑系神通",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "剑术神通",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "飞剑分光神通",
+        "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      }
+    ],
+    "出处": [
+      {
+        "value": "青元剑诀",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+        "seq": 211
+      },
+      {
+        "value": "青元剑诀第七层",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "威力": [
+      {
+        "value": "24口飞剑化96道剑光",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      }
+    ]
+  },
+  "firstSeq": 211,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "dated": false,
+      "seq": 565
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "dated": false,
+      "seq": 211
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "dated": false,
+      "seq": 559
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-757-762-gengjing-jiangling-fu"
+  ],
+  "updatedAt": "2026-06-15T03:26:48.343Z"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "ent.person.x-2e06a9f2",
+  "type": "person",
+  "name": "穆上师",
+  "aliases": [
+    "穆大上师",
+    "天风部穆上师",
+    "穆师"
+  ],
+  "summary": "天风部上师，送信令黄沙部尽力困敌，自去联络其他部落大上师，被黄沙部疑为意图坐收渔利、借机报复。",
+  "attributes": {
+    "身份": "天风部上师",
+    "阵营": "慕兰",
+    "存殁": "肉身被毁",
+    "种族": "慕兰",
+    "标志特征": "曾驾御风车"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "天风部上师",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      }
+    ],
+    "阵营": [
+      {
+        "value": "慕兰·天风部",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "存殁": [
+      {
+        "value": "肉身被毁",
+        "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "种族": [
+      {
+        "value": "慕兰",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "曾驾御风车",
+        "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      }
+    ]
+  },
+  "firstSeq": 685,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "dated": false,
+      "seq": 685
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "dated": false,
+      "seq": 733
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "dated": false,
+      "seq": 733
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+      "dated": false,
+      "seq": 739
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+      "dated": false,
+      "seq": 739
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+  ],
+  "updatedAt": "2026-06-15T03:00:06.867Z"
+}

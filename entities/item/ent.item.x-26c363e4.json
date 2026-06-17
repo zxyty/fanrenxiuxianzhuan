@@ -1,0 +1,74 @@
+{
+  "id": "ent.item.x-26c363e4",
+  "type": "item",
+  "name": "传送符",
+  "aliases": [],
+  "summary": "天星宫制符师炼制、外不出售的远程传送符，可作用一次，保护效果同大挪移令但传送距离远不及之。",
+  "attributes": {
+    "类型": "符箓",
+    "用途": "传送返回内星海",
+    "产地": "奇渊岛"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "符箓",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ],
+    "用途": [
+      {
+        "value": "远距离传送一次",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "启动传送阵",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "传送返回内星海",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "产地": [
+      {
+        "value": "奇渊岛",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ]
+  },
+  "firstSeq": 391,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
+  ],
+  "updatedAt": "2026-06-14T17:49:48.494Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-cd4d6acc",
+  "type": "place",
+  "name": "阴火殿",
+  "aliases": [
+    "血焰宫阴火殿"
+  ],
+  "summary": "血焰宫内殿，血袍人下令打开以『招待』韩立。",
+  "attributes": {
+    "所属势力": "地血老怪",
+    "类型": "殿堂"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "地血老怪",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ],
+    "类型": [
+      {
+        "value": "殿堂",
+        "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      }
+    ]
+  },
+  "firstSeq": 1459,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-mujing-cave",
+      "dated": false,
+      "seq": 1459
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1463-mujing-cave"
+  ],
+  "updatedAt": "2026-06-16T17:21:15.490Z"
+}

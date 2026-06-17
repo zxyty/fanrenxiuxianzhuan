@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-01836808",
+  "type": "person",
+  "name": "童景",
+  "aliases": [
+    "童胖子",
+    "童世侄"
+  ],
+  "summary": "圈内出名的好吃懒做废物,却被吴仙师查出身具仙根而获收为徒。",
+  "attributes": {
+    "种族": "凡人",
+    "标志特征": "罕见仙根",
+    "身份": "富家子"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "凡人",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身具仙根(灵根)",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      },
+      {
+        "value": "罕见仙根",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ],
+    "身份": [
+      {
+        "value": "富家子",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia"
+  ],
+  "updatedAt": "2026-06-14T09:14:36.133Z"
+}

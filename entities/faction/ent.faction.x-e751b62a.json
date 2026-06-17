@@ -1,0 +1,104 @@
+{
+  "id": "ent.faction.x-e751b62a",
+  "type": "faction",
+  "name": "野狼帮",
+  "aliases": [],
+  "summary": "由镜州马贼演变而来的势力，凶悍善战，控制乡镇较多但不善经营，与七玄门频繁冲突。",
+  "attributes": {
+    "等级": "本地两大霸主之一",
+    "理念": "吞并七玄门与中小帮派一家独大",
+    "阵营": "敌对",
+    "掌门": "贾天龙"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "本地两大霸主之一",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      }
+    ],
+    "理念": [
+      {
+        "value": "烧杀掳掠、敢杀敢拼",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      },
+      {
+        "value": "以马贼训法练众，见血疯狂、悍不畏死",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "吞并七玄门与中小帮派一家独大",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ],
+    "阵营": [
+      {
+        "value": "七玄门敌对",
+        "docId": "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+        "seq": 19
+      },
+      {
+        "value": "敌对",
+        "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+        "seq": 67
+      }
+    ],
+    "掌门": [
+      {
+        "value": "贾天龙(金狼)",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "贾天龙",
+        "docId": "plot.fanren-ch79-84-luori-feng-siege",
+        "seq": 79
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "dated": false,
+      "seq": 1
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+      "dated": false,
+      "seq": 67
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-ch79-84-luori-feng-siege",
+      "dated": false,
+      "seq": 79
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch19-24-jianghu-dou-chousui-wan",
+    "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
+    "plot.fanren-ch73-78-lifeiyu-yufengjue",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch85-90-sikexie-doudou",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch"
+  ],
+  "updatedAt": "2026-06-14T03:06:36.593Z"
+}

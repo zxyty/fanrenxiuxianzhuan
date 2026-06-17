@@ -1,0 +1,92 @@
+{
+  "id": "ent.person.x-f765d230",
+  "type": "person",
+  "name": "天悟子",
+  "aliases": [
+    "天悟子老道"
+  ],
+  "summary": "正道元婴期老道，鹤发童颜，与极阴等魔道对立。",
+  "attributes": {
+    "阵营": "正道",
+    "小阶段": "元婴期",
+    "外貌": "鹤发童颜、面目红润",
+    "身份": "道士、老道、天缘子同门师弟"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "外貌": [
+      {
+        "value": "鹤发童颜、面目红润",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "身份": [
+      {
+        "value": "道士",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      },
+      {
+        "value": "老道",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      },
+      {
+        "value": "天缘子同门师弟",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 433,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.559Z"
+}

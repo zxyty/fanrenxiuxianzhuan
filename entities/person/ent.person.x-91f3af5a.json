@@ -1,0 +1,90 @@
+{
+  "id": "ent.person.x-91f3af5a",
+  "type": "person",
+  "name": "吴剑鸣",
+  "aliases": [
+    "吴公子",
+    "姓吴的",
+    "冒牌货",
+    "吴大公子"
+  ],
+  "summary": "墨大夫对头派来的冒牌货/试探者，连败十六名情敌而暴名，与墨玉珠假定亲。",
+  "attributes": {
+    "性别": "男",
+    "身份": "墨大夫好弟子",
+    "外貌": "剑眉朗目、身材修长、英俊",
+    "标志特征": "连败十六名情敌"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "身份": [
+      {
+        "value": "墨玉珠未婚夫",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103,
+        "note": "敌方派来的冒牌货/试探"
+      },
+      {
+        "value": "墨大夫好弟子",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109,
+        "note": "冒充"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "剑眉朗目、身材修长、英俊",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "连败十六名情敌",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ]
+  },
+  "firstSeq": 103,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109,
+      "note": "冒充"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch109-114-mofu-dengmen"
+  ],
+  "updatedAt": "2026-06-14T03:20:09.484Z"
+}

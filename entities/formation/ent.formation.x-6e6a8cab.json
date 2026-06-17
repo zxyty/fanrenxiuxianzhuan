@@ -1,0 +1,53 @@
+{
+  "id": "ent.formation.x-6e6a8cab",
+  "type": "formation",
+  "name": "风炎龙烈阵",
+  "aliases": [],
+  "summary": "韩立与徐姓青年临时合布的攻击大阵，催生风火之蛟，可抵元婴后期一击。",
+  "attributes": {
+    "效果": "生风火之蛟/增幅攻击",
+    "布置者": "韩立、徐姓青年"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "生风火之蛟/增幅攻击",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ],
+    "布置者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "徐姓青年",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ]
+  },
+  "firstSeq": 1045,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1045-1050-tunying-xueren-poqiang"
+  ],
+  "updatedAt": "2026-06-15T07:43:01.506Z"
+}

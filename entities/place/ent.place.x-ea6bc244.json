@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-ea6bc244",
+  "type": "place",
+  "name": "木仙殿",
+  "aliases": [
+    "木仙谷",
+    "木仙骨"
+  ],
+  "summary": "木青在黑雾林中的住处，约定半月后四人于此聚会。",
+  "attributes": {
+    "所属势力": "木青",
+    "类型": "宫殿/谷地",
+    "守护": "木青"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "木青",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ],
+    "类型": [
+      {
+        "value": "宫殿/谷地",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ],
+    "守护": [
+      {
+        "value": "木青",
+        "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      }
+    ]
+  },
+  "firstSeq": 1453,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "dated": false,
+      "seq": 1453
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1457-taodun-didi-escape"
+  ],
+  "updatedAt": "2026-06-16T17:08:36.017Z"
+}

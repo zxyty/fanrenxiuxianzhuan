@@ -1,0 +1,105 @@
+{
+  "id": "ent.person.x-522b069b",
+  "type": "person",
+  "name": "四散真人",
+  "aliases": [
+    "郑某",
+    "白毛熊怪",
+    "四散真人魔修"
+  ],
+  "summary": "自称散修，持仿制魔龙刃的血刃，一路吞噬元婴，临时联手后背叛，化为尸气白毛熊怪。",
+  "attributes": {
+    "身份": "散修",
+    "外貌": "和蔼老者/白毛熊脸尸气怪物",
+    "性格": "阴险善变",
+    "阵营": "魔道",
+    "标志特征": "持血红长刀(疑似魔龙刃)"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045,
+        "note": "自称"
+      },
+      {
+        "value": "血刀偷袭者",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027,
+        "note": "存疑，未能确认身份"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "和蔼老者/白毛熊脸尸气怪物",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045,
+        "note": "现出本体后"
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴险善变",
+        "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "持血红长刀(疑似魔龙刃)",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ]
+  },
+  "firstSeq": 1027,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045,
+      "note": "自称"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045,
+      "note": "现出本体后"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "dated": false,
+      "seq": 1045
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+  ],
+  "updatedAt": "2026-06-16T04:59:44.981Z"
+}

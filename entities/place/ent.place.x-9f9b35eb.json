@@ -1,0 +1,47 @@
+{
+  "id": "ent.place.x-9f9b35eb",
+  "type": "place",
+  "name": "天都街",
+  "aliases": [
+    "天都街坊市"
+  ],
+  "summary": "魁星城北区被白濛濛巨大护罩覆盖的修仙者交易市集，含上百条街道，中央悬浮云梦阁。",
+  "attributes": {
+    "类型": "修仙坊市、街市、坊市"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "修仙坊市",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "街市",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "坊市",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-439-444-guiwang-xutiandian"
+  ],
+  "updatedAt": "2026-06-14T15:23:19.073Z"
+}

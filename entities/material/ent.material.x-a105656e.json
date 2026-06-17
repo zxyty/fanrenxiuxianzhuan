@@ -1,0 +1,81 @@
+{
+  "id": "ent.material.x-a105656e",
+  "type": "material",
+  "name": "天火液",
+  "aliases": [
+    "天火夜"
+  ],
+  "summary": "辅助结丹、增加结丹率所需的难求灵物，呈猩红如火液体、炙热之极。",
+  "attributes": {
+    "类型": "灵液",
+    "用途": "辅助结丹、增加结丹率、结丹用料、结丹必备灵物",
+    "稀有度": "世间难求、稀有"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵液",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ],
+    "用途": [
+      {
+        "value": "辅助结丹、增加结丹率",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "结丹用料",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "结丹必备灵物",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "世间难求",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+        "seq": 373
+      }
+    ]
+  },
+  "firstSeq": 373,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch374-xiulian-wu-suiyue",
+      "dated": false,
+      "seq": 373
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch374-xiulian-wu-suiyue",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.192Z"
+}

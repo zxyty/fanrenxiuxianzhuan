@@ -1,0 +1,88 @@
+{
+  "id": "ent.person.x-f61ca5fa",
+  "type": "person",
+  "name": "董璇儿",
+  "aliases": [],
+  "summary": "合欢宗修士，此时已结成金丹，曾派合欢宗弟子(含黑衫老者)四处搜寻韩立，缘由不明。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "结丹中期",
+    "身份": "魔宗弟子",
+    "阵营": "魔宗"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ],
+    "身份": [
+      {
+        "value": "合欢宗修士",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "魔宗弟子",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔宗",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+    "plot.fanren-757-762-gengjing-jiangling-fu"
+  ],
+  "updatedAt": "2026-06-15T03:26:48.335Z"
+}

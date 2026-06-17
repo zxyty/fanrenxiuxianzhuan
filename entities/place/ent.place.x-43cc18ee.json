@@ -1,0 +1,92 @@
+{
+  "id": "ent.place.x-43cc18ee",
+  "type": "place",
+  "name": "无边海",
+  "aliases": [
+    "黑魔海"
+  ],
+  "summary": "天南极北之地的浑浊无际之海，号称神仙难飞，鱼类凶猛，元婴期高人飞行年余不见尽头。",
+  "attributes": {
+    "类型": "海域",
+    "危险度": "极高（神仙难飞）",
+    "所属界面": "天南",
+    "特产": "馨牙兽"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "海",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      },
+      {
+        "value": "传说海域",
+        "docId": "plot.fanren-ch362-nangong-ping",
+        "seq": 361
+      },
+      {
+        "value": "海域",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（神仙难飞）",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ],
+    "特产": [
+      {
+        "value": "馨牙兽",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel"
+  ],
+  "updatedAt": "2026-06-15T14:47:28.516Z"
+}

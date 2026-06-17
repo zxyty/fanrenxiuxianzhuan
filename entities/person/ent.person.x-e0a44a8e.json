@@ -1,0 +1,153 @@
+{
+  "id": "ent.person.x-e0a44a8e",
+  "type": "person",
+  "name": "温夫人",
+  "aliases": [
+    "白壁山温夫人",
+    "温姓美妇",
+    "温夫人元婴"
+  ],
+  "summary": "白壁山元婴期高人，冷艳高傲，常擦拭乌黑长剑。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "元婴",
+    "身份": "六道极圣之妻",
+    "外貌": "洁白衣中年美妇、寒气逼人",
+    "阵营": "魔道",
+    "存殁": "死亡",
+    "死因": "自拍天灵盖兵解（散去元婴求轮回）",
+    "结局": "兵解消失"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "元婴",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "身份": [
+      {
+        "value": "白壁山修士",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "六道极圣之妻",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "外貌": [
+      {
+        "value": "洁白衣中年美妇、寒气逼人",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "死因": [
+      {
+        "value": "自拍天灵盖兵解（散去元婴求轮回）",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "结局": [
+      {
+        "value": "兵解消失",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ]
+  },
+  "firstSeq": 427,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "lore.fanren-1215-linggen-wuxing-heyi"
+  ],
+  "updatedAt": "2026-06-16T08:34:31.937Z"
+}

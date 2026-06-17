@@ -1,0 +1,119 @@
+{
+  "id": "ent.place.x-d3d7c6b6",
+  "type": "place",
+  "name": "灵石矿",
+  "aliases": [
+    "灵矿",
+    "大峡谷",
+    "灵矿峡谷",
+    "灵石矿洞",
+    "巨山"
+  ],
+  "summary": "越国荒原大峡谷内一座储量较大的灵石矿，被阵法掩饰，七派派人加强警备。",
+  "attributes": {
+    "类型": "灵石矿、矿脉、灵石矿脉、峡谷",
+    "所属势力": "七派",
+    "特产": "灵石",
+    "守护": "鬼灵门、合欢宗弟子",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵石矿",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "矿脉",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "灵石矿脉",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "峡谷",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "七派",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "特产": [
+      {
+        "value": "灵石",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "守护": [
+      {
+        "value": "四煞阵",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      },
+      {
+        "value": "鬼灵门、合欢宗弟子",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-356-huofu-xiangyi",
+    "plot.fanren-ch452-leiting-zhiji"
+  ],
+  "updatedAt": "2026-06-14T15:59:37.775Z"
+}

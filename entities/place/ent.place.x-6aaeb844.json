@@ -1,0 +1,49 @@
+{
+  "id": "ent.place.x-6aaeb844",
+  "type": "place",
+  "name": "天阳潭",
+  "aliases": [],
+  "summary": "合欢宗门中禁地，常年灰雾笼罩，元婴长老亦不敢轻入。",
+  "attributes": {
+    "所属势力": "合欢宗",
+    "类型": "宗门禁地"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "合欢宗",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ],
+    "类型": [
+      {
+        "value": "宗门禁地",
+        "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      }
+    ]
+  },
+  "firstSeq": 1171,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "dated": false,
+      "seq": 1189
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-1190-huajiezhu-jifengjiubian"
+  ],
+  "updatedAt": "2026-06-16T07:03:34.663Z"
+}

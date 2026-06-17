@@ -1,0 +1,54 @@
+{
+  "id": "ent.technique.x-29db6120",
+  "type": "technique",
+  "name": "葵水魔功",
+  "aliases": [],
+  "summary": "赤火老怪所修的魔功，变化莫测。",
+  "attributes": {
+    "效果": "变化莫测",
+    "出处": "乱星海"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "变化莫测",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      }
+    ],
+    "出处": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-398-jiedan-yu-fabao",
+        "seq": 397
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+        "seq": 403
+      }
+    ]
+  },
+  "firstSeq": 397,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
+      "dated": false,
+      "seq": 397
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "dated": false,
+      "seq": 403
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+  ],
+  "updatedAt": "2026-06-15T04:28:54.590Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ent.item.x-eb33fd61",
+  "type": "item",
+  "name": "坠魔谷地图",
+  "aliases": [
+    "绢布状地图"
+  ],
+  "summary": "用碳笔在非布非绢之物上勾出的坠魔谷地图，藏于青蚕袍夹层，上有显眼粗大标记。",
+  "attributes": {
+    "类型": "地图",
+    "用途": "指引坠魔谷秘宝之地",
+    "产地": "青蚕袍所得"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "地图",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "用途": [
+      {
+        "value": "标示坠魔谷某处（显眼粗大标记）",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "指引坠魔谷秘宝之地",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ],
+    "产地": [
+      {
+        "value": "青蚕袍所得",
+        "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+        "seq": 829
+      }
+    ]
+  },
+  "firstSeq": 817,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "dated": false,
+      "seq": 829
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "dated": false,
+      "seq": 829
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+  ],
+  "updatedAt": "2026-06-15T13:29:24.771Z"
+}

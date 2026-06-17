@@ -1,0 +1,37 @@
+{
+  "id": "ent.faction.x-4f3064cc",
+  "type": "faction",
+  "name": "魔道十宗",
+  "aliases": [
+    "魔道十宗联盟"
+  ],
+  "summary": "大晋魔道十大宗门的统称，血凄门为其一。",
+  "attributes": {
+    "阵营": "魔道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ]
+  },
+  "firstSeq": 949,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "dated": false,
+      "seq": 949
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan"
+  ],
+  "updatedAt": "2026-06-16T09:06:56.060Z"
+}

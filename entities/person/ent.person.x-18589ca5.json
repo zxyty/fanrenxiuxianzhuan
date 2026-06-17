@@ -1,0 +1,100 @@
+{
+  "id": "ent.person.x-18589ca5",
+  "type": "person",
+  "name": "韩铸",
+  "aliases": [
+    "二哥",
+    "黄衫人"
+  ],
+  "summary": "韩立的二哥。",
+  "attributes": {
+    "身份": "修仙者",
+    "性别": "男",
+    "称号": "二哥",
+    "外貌": "三十许岁",
+    "存殁": "死亡"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "韩立二哥",
+        "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+        "seq": 1
+      },
+      {
+        "value": "修仙者",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "称号": [
+      {
+        "value": "二哥",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十许岁",
+        "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+        "seq": 103
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 1,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+      "dated": false,
+      "seq": 103
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+    "plot.fanren-ch103-108-jiayuancheng-subdue-sun-ergou-jingjiaohui-intel",
+    "plot.fanren-ch654-xuanmu-huaying-dafa"
+  ],
+  "updatedAt": "2026-06-14T21:07:51.248Z"
+}

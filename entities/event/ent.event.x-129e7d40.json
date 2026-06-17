@@ -1,0 +1,154 @@
+{
+  "id": "ent.event.x-129e7d40",
+  "type": "event",
+  "name": "试剑大会",
+  "aliases": [
+    "宗内选拔比试",
+    "试剑大会引蛇出洞"
+  ],
+  "summary": "云梦山三派为按圣树流醇液之期瓜分灵液而办的新进弟子比试，胜出宗门独取醇液一半。",
+  "attributes": {
+    "地点": "溪国",
+    "参与方": "落云宗、古剑门、百巧院、云梦宗、天道盟三派、天煞宗、千幻宗",
+    "起因": "瓜分圣树醇液",
+    "章节": "618-622",
+    "结果": "三派引蛇出洞之计惨败,醇液被夺回但无效",
+    "影响": "三方提高戒备,百余年平静气氛重新紧张"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "云梦山",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "百巧院（云梦山西脉）",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "溪国",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "参与方": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "古剑门",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "百巧院",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "云梦宗",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "天道盟三派",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "天煞宗",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      },
+      {
+        "value": "千幻宗",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "起因": [
+      {
+        "value": "瓜分圣树醇液",
+        "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      }
+    ],
+    "章节": [
+      {
+        "value": "618-622",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "结果": [
+      {
+        "value": "落云宗内选出三筑基期、二十一炼气期共二十四人",
+        "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "三派引蛇出洞之计惨败,醇液被夺回但无效",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "影响": [
+      {
+        "value": "三方提高戒备,百余年平静气氛重新紧张",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ]
+  },
+  "firstSeq": 613,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "dated": false,
+      "seq": 613
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "dated": false,
+      "seq": 613
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "dated": false,
+      "seq": 619
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.676Z"
+}

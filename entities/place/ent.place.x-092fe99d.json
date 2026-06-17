@@ -1,0 +1,108 @@
+{
+  "id": "ent.place.x-092fe99d",
+  "type": "place",
+  "name": "燕翎堡",
+  "aliases": [
+    "燕家堡",
+    "燕家",
+    "燕翎堡燕家",
+    "燕家一族",
+    "燕家飞云阁",
+    "燕家老祖"
+  ],
+  "summary": "燕家家族重地，城墙高三四十丈，由令牌黄光禁制隐匿，夺宝大会举办地。",
+  "attributes": {
+    "所属势力": "燕家",
+    "类型": "堡垒",
+    "守护": "阵法禁制",
+    "所属界面": "越国"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "燕家",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      }
+    ],
+    "类型": [
+      {
+        "value": "城堡",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "城堡据点",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      },
+      {
+        "value": "城堡／聚会地",
+        "docId": "plot.fanren-ch254-yanjia-laozu",
+        "seq": 253
+      },
+      {
+        "value": "堡垒",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "守护": [
+      {
+        "value": "五色光禁制",
+        "docId": "plot.fanren-ch242-zhifu-biguan",
+        "seq": 241
+      },
+      {
+        "value": "阵法禁制",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "越国",
+        "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+        "seq": 247
+      }
+    ]
+  },
+  "firstSeq": 241,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "dated": false,
+      "seq": 241
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-247-252-yanlingbao-zhengfeng",
+      "dated": false,
+      "seq": 247
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-247-252-yanlingbao-zhengfeng",
+    "plot.fanren-ch254-yanjia-laozu",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence"
+  ],
+  "updatedAt": "2026-06-14T08:51:46.220Z"
+}

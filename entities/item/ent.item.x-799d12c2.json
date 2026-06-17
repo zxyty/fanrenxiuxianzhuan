@@ -1,0 +1,107 @@
+{
+  "id": "ent.item.x-799d12c2",
+  "type": "item",
+  "name": "储物袋",
+  "aliases": [
+    "十倍储物袋",
+    "黑色布袋",
+    "储物代",
+    "灵兽袋",
+    "三只灵兽袋",
+    "兽袋"
+  ],
+  "summary": "灵力锁定物品自动吸入的储物法器；有容量限制、不可放活物、低阶不认主。",
+  "attributes": {
+    "类型": "灵兽袋",
+    "用途": "收纳灵兽",
+    "品阶": "低阶（十倍）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "储物法器",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "盛物法器",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "灵兽袋",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "用途": [
+      {
+        "value": "收纳物品",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "收纳财物",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "储物",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "收纳灵兽灵虫",
+        "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "收纳灵兽",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "品阶": [
+      {
+        "value": "低阶（十倍）",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "dated": false,
+      "seq": 1069
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+  ],
+  "updatedAt": "2026-06-16T19:30:04.258Z"
+}

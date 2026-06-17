@@ -1,0 +1,49 @@
+{
+  "id": "ent.beast.x-5bec68a0",
+  "type": "beast",
+  "name": "蛮荒巨兽",
+  "aliases": [],
+  "summary": "慕兰法士寻来的巨兽,令九国盟措手不及连连惨败。",
+  "attributes": {
+    "能力": "皮糙肉厚、披甲冲阵",
+    "主人": "陆夫人"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "皮糙肉厚、披甲冲阵",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "主人": [
+      {
+        "value": "陆夫人",
+        "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ]
+  },
+  "firstSeq": 715,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "dated": false,
+      "seq": 763
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-763-768-border-war-gamble-battle"
+  ],
+  "updatedAt": "2026-06-15T03:34:19.257Z"
+}

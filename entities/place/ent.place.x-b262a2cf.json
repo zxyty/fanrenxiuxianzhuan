@@ -1,0 +1,91 @@
+{
+  "id": "ent.place.x-b262a2cf",
+  "type": "place",
+  "name": "黄泉地火",
+  "aliases": [
+    "黄泉地火高原",
+    "黄泉地火秘地"
+  ],
+  "summary": "黄濛濛、寸草不生的荒凉高原，藏天地阴火，可借以吸出镇魔锁中混沌二气；韩立飞抵此处布阵迎敌。",
+  "attributes": {
+    "类型": "凶险秘地",
+    "特产": "天地阴火、混沌二气、黄粱梦石、奇寒之力",
+    "危险度": "极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "天地阴火之地",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "凶险秘地",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "特产": [
+      {
+        "value": "天地阴火",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "混沌二气",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "黄粱梦石",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "奇寒之力",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 1909,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1923-blood-saint-descends",
+      "dated": false,
+      "seq": 1909
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "dated": false,
+      "seq": 1921
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+  ],
+  "updatedAt": "2026-06-17T03:26:19.780Z"
+}

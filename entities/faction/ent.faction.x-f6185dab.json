@@ -1,0 +1,49 @@
+{
+  "id": "ent.faction.x-f6185dab",
+  "type": "faction",
+  "name": "岣嵝山",
+  "aliases": [],
+  "summary": "南歧子等修士出身的门派，大多修炼驱虫神通，对付虫兽时门规顾忌甚多。",
+  "attributes": {
+    "理念": "多修驱虫神通,虫兽未主动攻击不出手",
+    "所属界面": "灵界"
+  },
+  "observations": {
+    "理念": [
+      {
+        "value": "多修驱虫神通,虫兽未主动攻击不出手",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1261,
+  "attrProvenance": {
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1267-1272-anyuan-city-shoujao"
+  ],
+  "updatedAt": "2026-06-16T10:12:05.253Z"
+}

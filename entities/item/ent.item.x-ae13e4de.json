@@ -1,0 +1,61 @@
+{
+  "id": "ent.item.x-ae13e4de",
+  "type": "item",
+  "name": "月光石",
+  "aliases": [],
+  "summary": "鸡蛋大小的照明灵石，散发柔和白光，韩立洞中照明所用。",
+  "attributes": {
+    "类型": "发光矿石",
+    "用途": "镶嵌通道照明"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "照明灵石",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "发光矿石",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ],
+    "用途": [
+      {
+        "value": "照明",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      },
+      {
+        "value": "镶嵌通道照明",
+        "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+        "seq": 691
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "dated": false,
+      "seq": 691
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region",
+    "plot.fanren-ch338-bigong-quhun",
+    "plot.fanren-ch362-nangong-ping",
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+  ],
+  "updatedAt": "2026-06-14T22:20:41.317Z"
+}

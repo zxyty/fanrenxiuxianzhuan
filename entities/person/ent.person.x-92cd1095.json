@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-92cd1095",
+  "type": "person",
+  "name": "女修元婴",
+  "aliases": [
+    "瓶中女修",
+    "面容模糊女修"
+  ],
+  "summary": "被六道禁锢于绿瓶中的女修，面容模糊、元婴已衰弱，被韩立放出后似认出其身份。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "元婴",
+    "外貌": "面容模糊"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容模糊",
+        "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213,
+        "note": "本章未明"
+      }
+    ]
+  },
+  "firstSeq": 1213,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "dated": false,
+      "seq": 1213,
+      "note": "本章未明"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-1215-linggen-wuxing-heyi"
+  ],
+  "updatedAt": "2026-06-16T08:34:31.930Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ent.technique.x-b58819f6",
+  "type": "technique",
+  "name": "眨眼剑法",
+  "aliases": [
+    "眨眼剑谱"
+  ],
+  "summary": "七绝堂绝学之一，不使用真气，自创立起无人修炼，因创派长老遗嘱才列入绝学；藏书中竟有七十四本同名剑谱。",
+  "attributes": {
+    "品阶": "七绝堂绝学",
+    "出处": "凡人武功",
+    "修炼条件": "不需真气、真气略有小成者不能练、无大毅力者不能练、无天赋者(五感过人)不能练",
+    "效果": "借光线/视觉错误一剑必杀、综合天时地利人和的刺杀秘术"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "七绝堂绝学",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      }
+    ],
+    "出处": [
+      {
+        "value": "七绝堂",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "七玄门某长老所创，遗命置于七绝堂",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "凡人武功",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "不需真气",
+        "docId": "plot.fanren-ch31-36-shichongwan",
+        "seq": 31
+      },
+      {
+        "value": "真气略有小成者不能练",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "无大毅力者不能练",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "无天赋者(五感过人)不能练",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      }
+    ],
+    "效果": [
+      {
+        "value": "借光线/视觉错误一剑必杀",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      },
+      {
+        "value": "综合天时地利人和的刺杀秘术",
+        "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+        "seq": 37
+      }
+    ]
+  },
+  "firstSeq": 31,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch31-36-shichongwan",
+      "dated": false,
+      "seq": 31
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch31-36-shichongwan",
+      "dated": false,
+      "seq": 31
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+      "dated": false,
+      "seq": 37
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch31-36-shichongwan",
+    "plot.fanren-ch37-42-three-no-practice-night-spies-yunchi-bird",
+    "plot.fanren-ch79-84-luori-feng-siege",
+    "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+    "plot.fanren-1273-1278-anyuan-beast-tide"
+  ],
+  "updatedAt": "2026-06-16T10:20:06.382Z"
+}

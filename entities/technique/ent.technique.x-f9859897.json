@@ -1,0 +1,61 @@
+{
+  "id": "ent.technique.x-f9859897",
+  "type": "technique",
+  "name": "金刚不坏功",
+  "aliases": [
+    "金光罩",
+    "金光"
+  ],
+  "summary": "金光上人以金光黄符施展的护身符咒/功法，生出寸许金芒罩体，刀枪不入、水火不浸，被打凹后自动复原，难以击破。",
+  "attributes": {
+    "效果": "刀枪不入、凹陷自复原、坚硬如钢铁",
+    "外显异象": "寸许长金色光罩"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "刀枪不入",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      },
+      {
+        "value": "凹陷自复原",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      },
+      {
+        "value": "坚硬如钢铁",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "寸许长金色光罩",
+        "docId": "plot.fanren-ch85-90-sikexie-doudou",
+        "seq": 85
+      }
+    ]
+  },
+  "firstSeq": 85,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch85-90-sikexie-doudou",
+      "dated": false,
+      "seq": 85
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch85-90-sikexie-doudou",
+      "dated": false,
+      "seq": 85
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch85-90-sikexie-doudou"
+  ],
+  "updatedAt": "2026-06-14T03:03:44.406Z"
+}

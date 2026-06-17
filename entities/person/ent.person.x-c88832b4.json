@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-c88832b4",
+  "type": "person",
+  "name": "鸠面老者",
+  "aliases": [
+    "秋兄",
+    "秋道友"
+  ],
+  "summary": "结丹中期修士，猎妖队中修为最高、威望最高者，谨慎多谋。",
+  "attributes": {
+    "小阶段": "结丹中期",
+    "外貌": "鸠面、神色阴厉",
+    "性格": "谨慎多疑、冷静"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "外貌": [
+      {
+        "value": "鸠面、神色阴厉",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎多谋",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "谨慎多疑、冷静",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ]
+  },
+  "firstSeq": 517,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-523-528-zhongmo-xuming"
+  ],
+  "updatedAt": "2026-06-14T17:58:18.057Z"
+}

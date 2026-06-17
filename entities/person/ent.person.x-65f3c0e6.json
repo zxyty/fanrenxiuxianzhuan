@@ -1,0 +1,143 @@
+{
+  "id": "ent.person.x-65f3c0e6",
+  "type": "person",
+  "name": "于执事",
+  "aliases": [
+    "于师兄",
+    "百机堂于执事",
+    "大师兄"
+  ],
+  "summary": "百机堂中年执事，负责派发杂务工作。",
+  "attributes": {
+    "性别": "男",
+    "身份": "李化元大弟子",
+    "阵营": "灵兽山",
+    "性格": "城府深、势利、狡诈、谨慎、热情啰嗦、能说、话多",
+    "小阶段": "炼气十二层高阶",
+    "外貌": "三十余岁瘦削儒生"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "身份": [
+      {
+        "value": "百机堂执事",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      },
+      {
+        "value": "执事",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "李化元大弟子",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "阵营": [
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-ch152-two-years-later",
+        "seq": 151
+      },
+      {
+        "value": "灵兽山",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "性格": [
+      {
+        "value": "城府深、势利",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      },
+      {
+        "value": "狡诈、谨慎",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "热情啰嗦、能说",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      },
+      {
+        "value": "话多",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气十二层高阶",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十余岁瘦削儒生",
+        "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+        "seq": 235
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+      "dated": false,
+      "seq": 175
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch235-240-guifang-lvbo-dong",
+      "dated": false,
+      "seq": 235
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu",
+    "plot.fanren-ch152-two-years-later",
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-ch235-240-guifang-lvbo-dong",
+    "plot.fanren-ch242-zhifu-biguan"
+  ],
+  "updatedAt": "2026-06-14T07:18:30.731Z"
+}

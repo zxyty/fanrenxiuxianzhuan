@@ -1,0 +1,65 @@
+{
+  "id": "ent.place.x-4759402a",
+  "type": "place",
+  "name": "玉阁",
+  "aliases": [
+    "阁楼",
+    "玉阁阁楼"
+  ],
+  "summary": "苍坤上人遗留的玉阁,一层陈列遗宝,二层为其寝室;墙壁布有无法击穿的禁制。",
+  "attributes": {
+    "类型": "藏宝阁楼/寝室",
+    "守护": "墙壁禁制",
+    "所属势力": "苍坤上人(已故)"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "藏宝阁楼/寝室",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ],
+    "守护": [
+      {
+        "value": "墙壁禁制",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "苍坤上人(已故)",
+        "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      }
+    ]
+  },
+  "firstSeq": 697,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "dated": false,
+      "seq": 697
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll"
+  ],
+  "updatedAt": "2026-06-14T22:38:16.622Z"
+}

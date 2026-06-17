@@ -1,0 +1,75 @@
+{
+  "id": "ent.item.x-75e5cea4",
+  "type": "item",
+  "name": "客卿令牌",
+  "aliases": [
+    "金令",
+    "客卿令",
+    "星宫客卿令牌",
+    "天星双圣客卿令牌"
+  ],
+  "summary": "星宫客卿令牌，持有者可调用星宫在外海的所有人手资源。",
+  "attributes": {
+    "类型": "令牌、身份令牌、身份信物",
+    "用途": "调用星宫外海人手资源、客卿身份/可被追踪行踪、证明星宫客卿身份"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "身份令牌",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "身份信物",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ],
+    "用途": [
+      {
+        "value": "调用星宫外海人手资源",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "客卿身份/可被追踪行踪",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "证明星宫客卿身份",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      }
+    ]
+  },
+  "firstSeq": 1129,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1131-jidan",
+      "dated": false,
+      "seq": 1129
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1131-jidan",
+      "dated": false,
+      "seq": 1129
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1131-jidan",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+  ],
+  "updatedAt": "2026-06-16T07:30:46.471Z"
+}

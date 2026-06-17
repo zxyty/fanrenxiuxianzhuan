@@ -1,0 +1,53 @@
+{
+  "id": "ent.place.x-566f6ad0",
+  "type": "place",
+  "name": "黑陵山脉",
+  "aliases": [],
+  "summary": "赤蟒兽与豹禽兽的栖息地。",
+  "attributes": {
+    "所属界面": "灵界",
+    "特产": "赤蟒兽、豹禽兽"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "特产": [
+      {
+        "value": "赤蟒兽",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "豹禽兽",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ]
+  },
+  "firstSeq": 1273,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1273-1278-anyuan-beast-tide"
+  ],
+  "updatedAt": "2026-06-16T10:20:06.362Z"
+}

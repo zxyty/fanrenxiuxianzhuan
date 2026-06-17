@@ -1,0 +1,50 @@
+{
+  "id": "ent.beast.x-3df20746",
+  "type": "beast",
+  "name": "荒原蜥蜴",
+  "aliases": [
+    "蜥蜴"
+  ],
+  "summary": "荒原上的蜥蜴，黄鼠天敌，魂魄较强，被韩立猎取用作二级傀儡魂魄来源。",
+  "attributes": {
+    "栖息地": "荒原",
+    "天敌": "(为)黄鼠之天敌"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "荒原",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ],
+    "天敌": [
+      {
+        "value": "(为)黄鼠之天敌",
+        "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+        "seq": 259
+      }
+    ]
+  },
+  "firstSeq": 259,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
+      "dated": false,
+      "seq": 259
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit"
+  ],
+  "updatedAt": "2026-06-14T08:12:27.847Z"
+}

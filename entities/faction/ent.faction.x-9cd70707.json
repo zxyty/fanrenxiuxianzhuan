@@ -1,0 +1,56 @@
+{
+  "id": "ent.faction.x-9cd70707",
+  "type": "faction",
+  "name": "魔木宗",
+  "aliases": [
+    "魔目宗"
+  ],
+  "summary": "十大魔宗之一，与岳阳宫东西并立把持陇州。",
+  "attributes": {
+    "阵营": "魔道",
+    "据点": "神木崖"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "据点": [
+      {
+        "value": "陇州",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "神木崖",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.203Z"
+}

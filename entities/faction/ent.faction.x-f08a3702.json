@@ -1,0 +1,63 @@
+{
+  "id": "ent.faction.x-f08a3702",
+  "type": "faction",
+  "name": "孔家",
+  "aliases": [
+    "关宁孔家"
+  ],
+  "summary": "关宁府四大修仙世家之一，据传持有苦毒，近年联合张、金两家暗算冯家，并收纳了冯枕。",
+  "attributes": {
+    "据点": "晋京/关宁",
+    "所属界面": "大晋"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "关宁府",
+        "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "隼云镇",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "晋京/关宁",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 883,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.235Z"
+}

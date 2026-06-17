@@ -1,0 +1,76 @@
+{
+  "id": "ent.material.x-62ecebb3",
+  "type": "material",
+  "name": "醇液",
+  "aliases": [
+    "灵树醇液"
+  ],
+  "summary": "灵眼之树每两百年流出的灵液，不可直服，是炼制定灵丹等灵药的绝佳原料/药引。",
+  "attributes": {
+    "类型": "灵液",
+    "用途": "浇灌玄天仙藤",
+    "产地": "灵眼之树"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵液",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼药药引",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "配制明清灵水",
+        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "浇灌玄天仙藤",
+        "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+        "seq": 631
+      }
+    ],
+    "产地": [
+      {
+        "value": "灵眼之树",
+        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ]
+  },
+  "firstSeq": 595,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "dated": false,
+      "seq": 631
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "dated": false,
+      "seq": 595
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+  ],
+  "updatedAt": "2026-06-14T20:25:50.664Z"
+}

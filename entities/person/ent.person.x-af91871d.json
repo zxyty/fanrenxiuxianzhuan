@@ -1,0 +1,85 @@
+{
+  "id": "ent.person.x-af91871d",
+  "type": "person",
+  "name": "宋玉",
+  "aliases": [
+    "宋师姐",
+    "宫姓女子"
+  ],
+  "summary": "落云宗白凤峰女修，结丹后期，沉稳，持紫灵所赠内谷路线图，入坠魔谷被擒后先醒。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "结丹",
+    "阵营": "落云宗",
+    "性格": "沉稳不躁"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹后期",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉稳不躁",
+        "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      }
+    ]
+  },
+  "firstSeq": 1165,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "dated": false,
+      "seq": 1171
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "dated": false,
+      "seq": 1165
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1167-1172-return-luoyunzong",
+    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+  ],
+  "updatedAt": "2026-06-15T11:57:51.437Z"
+}

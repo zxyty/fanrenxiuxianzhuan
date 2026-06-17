@@ -1,0 +1,53 @@
+{
+  "id": "ent.formation.x-45dfd64c",
+  "type": "formation",
+  "name": "困魔阵",
+  "aliases": [],
+  "summary": "当年专为围困银翅夜叉布下的法阵，多年后其小半禁制反被银翅夜叉所用，借石柱干尸黑色光柱形成光幕困敌，且不用灵石即可激活。",
+  "attributes": {
+    "效果": "黑色光幕封困广场、围困银翅夜叉",
+    "破解法": "未明"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "黑色光幕封困广场",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      },
+      {
+        "value": "围困银翅夜叉",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ],
+    "破解法": [
+      {
+        "value": "未明",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 985,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-984-xie-yue-huan-jing"
+  ],
+  "updatedAt": "2026-06-16T03:30:36.313Z"
+}

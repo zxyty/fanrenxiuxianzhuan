@@ -1,0 +1,63 @@
+{
+  "id": "ent.spell.x-74ac658e",
+  "type": "spell",
+  "name": "定神术",
+  "aliases": [
+    "定神符术",
+    "定身术"
+  ],
+  "summary": "韩立现有功力可凭初级下阶符纸施展的法术。",
+  "attributes": {
+    "适用境界": "炼气期",
+    "类型": "束缚类"
+  },
+  "observations": {
+    "适用境界": [
+      {
+        "value": "初级下阶",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "炼气期",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "类型": [
+      {
+        "value": "符术",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "束缚类",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "适用境界": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch170-zhanlipin"
+  ],
+  "updatedAt": "2026-06-14T05:02:14.212Z"
+}

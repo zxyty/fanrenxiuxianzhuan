@@ -1,0 +1,103 @@
+{
+  "id": "ent.artifact.x-cfbd3a5b",
+  "type": "artifact",
+  "name": "青凝镜",
+  "aliases": [],
+  "summary": "韩立法宝，能放青色光华困住飞剑法器（如银剑、金刃）。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "喷青光滞敌",
+    "品阶": "顶阶法器",
+    "外形": "明晃晃小镜",
+    "来历": "血色试炼所得"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      }
+    ],
+    "能力": [
+      {
+        "value": "青光困物",
+        "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+        "seq": 199
+      },
+      {
+        "value": "克制/定住敌方法器",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      },
+      {
+        "value": "喷青光滞敌",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "品阶": [
+      {
+        "value": "顶阶法器",
+        "docId": "plot.fanren-ch266-jidou",
+        "seq": 265
+      }
+    ],
+    "外形": [
+      {
+        "value": "明晃晃小镜",
+        "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+        "seq": 379
+      }
+    ],
+    "来历": [
+      {
+        "value": "血色试炼所得",
+        "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ]
+  },
+  "firstSeq": 199,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+      "dated": false,
+      "seq": 199
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch266-jidou",
+      "dated": false,
+      "seq": 265
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch379-384-yinglishou-wuchou",
+      "dated": false,
+      "seq": 379
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-199-204-shaonv-yu-wuchi-miekou",
+    "plot.fanren-ch266-jidou",
+    "plot.fanren-ch379-384-yinglishou-wuchou",
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+  ],
+  "updatedAt": "2026-06-15T02:26:43.391Z"
+}

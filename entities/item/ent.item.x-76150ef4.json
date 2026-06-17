@@ -1,0 +1,56 @@
+{
+  "id": "ent.item.x-76150ef4",
+  "type": "item",
+  "name": "龙形戒指",
+  "aliases": [
+    "纹龙戒",
+    "龙纹戒"
+  ],
+  "summary": "墨大夫信物，诸夫人各持一枚可两两对合验真；戒指夹层暗藏调制现形水的彩色药粉。",
+  "attributes": {
+    "类型": "信物/暗器机关",
+    "用途": "验明身份信物、夹层藏药粉调现形水"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "信物/暗器机关",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ],
+    "用途": [
+      {
+        "value": "验明身份信物",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      },
+      {
+        "value": "夹层藏药粉调现形水",
+        "docId": "plot.fanren-ch109-114-mofu-dengmen",
+        "seq": 109
+      }
+    ]
+  },
+  "firstSeq": 109,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch109-114-mofu-dengmen",
+      "dated": false,
+      "seq": 109
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch109-114-mofu-dengmen"
+  ],
+  "updatedAt": "2026-06-14T03:20:09.494Z"
+}

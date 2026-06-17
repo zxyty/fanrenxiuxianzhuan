@@ -1,0 +1,36 @@
+{
+  "id": "ent.race.x-1e52cb9b",
+  "type": "race",
+  "name": "燕族",
+  "aliases": [
+    "燕人"
+  ],
+  "summary": "越国、元武国等国之人所属民族，与慕兰族结为世仇。",
+  "attributes": {
+    "天敌": "慕兰族"
+  },
+  "observations": {
+    "天敌": [
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-356-huofu-xiangyi",
+        "seq": 355
+      }
+    ]
+  },
+  "firstSeq": 355,
+  "attrProvenance": {
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-356-huofu-xiangyi",
+      "dated": false,
+      "seq": 355
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-356-huofu-xiangyi"
+  ],
+  "updatedAt": "2026-06-14T12:17:41.324Z"
+}

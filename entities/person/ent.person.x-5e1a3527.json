@@ -1,0 +1,200 @@
+{
+  "id": "ent.person.x-5e1a3527",
+  "type": "person",
+  "name": "青易居士",
+  "aliases": [
+    "儒装老者",
+    "儒生老者",
+    "青某",
+    "青老怪",
+    "青易",
+    "青衫老者?",
+    "乌道友(误指)"
+  ],
+  "summary": "魔道元婴期儒装老者，老滑头，与极阴、蛮胡子合谋。",
+  "attributes": {
+    "阵营": "魔道一方",
+    "小阶段": "元婴",
+    "外貌": "儒衫枯瘦老者",
+    "性格": "贪婪谨慎",
+    "性别": "男",
+    "身份": "元婴期修士",
+    "寿元": "自言离大限不久",
+    "称号": "青易居士",
+    "标志特征": "青色刺芒/飞针",
+    "道号": "青易居士"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "魔道一方",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "外貌": [
+      {
+        "value": "儒装老者",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "儒衫老者",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      },
+      {
+        "value": "儒衫枯瘦老者",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "性格": [
+      {
+        "value": "贪婪谨慎",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      },
+      {
+        "value": "元婴期修士",
+        "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+        "seq": 469
+      }
+    ],
+    "寿元": [
+      {
+        "value": "自言离大限不久",
+        "docId": "plot.fanren-ch452-leiting-zhiji",
+        "seq": 451
+      }
+    ],
+    "称号": [
+      {
+        "value": "青易居士",
+        "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+        "seq": 457
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "青色刺芒/飞针",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      }
+    ],
+    "道号": [
+      {
+        "value": "青易居士",
+        "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+        "seq": 475
+      }
+    ]
+  },
+  "firstSeq": 433,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch446-zaiju",
+      "dated": false,
+      "seq": 445
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "dated": false,
+      "seq": 469
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-ch452-leiting-zhiji",
+      "dated": false,
+      "seq": 451
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-456-461-binghuo-dao-heishamo",
+      "dated": false,
+      "seq": 457
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch462-mingyhunzhu",
+      "dated": false,
+      "seq": 463
+    },
+    "道号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "dated": false,
+      "seq": 475
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch452-leiting-zhiji",
+    "plot.fanren-456-461-binghuo-dao-heishamo",
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+  ],
+  "updatedAt": "2026-06-15T04:53:25.572Z"
+}

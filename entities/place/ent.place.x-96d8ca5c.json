@@ -1,0 +1,98 @@
+{
+  "id": "ent.place.x-96d8ca5c",
+  "type": "place",
+  "name": "炫烨王巨墓",
+  "aliases": [
+    "上古巨墓",
+    "古墓",
+    "凶墓",
+    "陵墓",
+    "炫烨王墓室"
+  ],
+  "summary": "雪陵山脉深处的上古帝王巨墓，陪葬干尸化为行尸杀人，金元探墓后古墓离奇消失。",
+  "attributes": {
+    "类型": "尸王陵墓",
+    "危险度": "极高",
+    "守护": "禁制/玉华夫人",
+    "特产": "数千尸兵、天尸珠"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "上古墓葬",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "尸王陵墓",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "守护": [
+      {
+        "value": "刀枪不入的行尸",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "禁制/玉华夫人",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ],
+    "特产": [
+      {
+        "value": "数千尸兵",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      },
+      {
+        "value": "天尸珠",
+        "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+        "seq": 907
+      }
+    ]
+  },
+  "firstSeq": 901,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "dated": false,
+      "seq": 907
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+  ],
+  "updatedAt": "2026-06-16T00:52:06.646Z"
+}

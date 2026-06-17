@@ -1,0 +1,98 @@
+{
+  "id": "ent.place.x-7a9fb99e",
+  "type": "place",
+  "name": "天元境",
+  "aliases": [
+    "天元境内",
+    "天元圣山",
+    "天元境域"
+  ],
+  "summary": "灵界中的一处境域，韩立飞升后所在区域。",
+  "attributes": {
+    "所属界面": "灵界",
+    "类型": "界域(三境之一)",
+    "守护": "超级仙阵（阵眼天元圣山）",
+    "所属势力": "人族"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      }
+    ],
+    "类型": [
+      {
+        "value": "境域",
+        "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "人族境域",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "人族疆域",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "界域(三境之一)",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "守护": [
+      {
+        "value": "超级仙阵（阵眼天元圣山）",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1261,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "dated": false,
+      "seq": 1261
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1287-chuancheng-zhu"
+  ],
+  "updatedAt": "2026-06-16T10:51:11.124Z"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ent.artifact.x-027e80b4",
+  "type": "artifact",
+  "name": "翠绿木牌",
+  "aliases": [
+    "翠牌",
+    "绿牌"
+  ],
+  "summary": "店主的法宝，喷绿丝可强行抽拉并封印灵兽精魂。",
+  "attributes": {
+    "持有者": "鱼姓店主",
+    "能力": "抽拉、封印灵兽精魂"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "鱼姓店主",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "能力": [
+      {
+        "value": "抽拉、封印灵兽精魂",
+        "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ]
+  },
+  "firstSeq": 1423,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "dated": false,
+      "seq": 1423
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+  ],
+  "updatedAt": "2026-06-16T16:12:01.549Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ent.artifact.x-4faadc65",
+  "type": "artifact",
+  "name": "古镜铜镜",
+  "aliases": [
+    "古镜",
+    "铜镜",
+    "古宝铜镜"
+  ],
+  "summary": "黑袍人怀中古迹斑斑的铜镜，造型奇特、灵气隐露，曾射巨鸟白芒救其性命，旋即无故碎成七八块、灵气尽失成废品。",
+  "attributes": {
+    "持有者": "黑袍人",
+    "能力": "射巨鸟白芒护主"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "黑袍人",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      }
+    ],
+    "能力": [
+      {
+        "value": "射巨鸟白芒护主",
+        "docId": "plot.fanren-439-444-guiwang-xutiandian",
+        "seq": 439
+      }
+    ]
+  },
+  "firstSeq": 439,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "dated": false,
+      "seq": 439
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-439-444-guiwang-xutiandian"
+  ],
+  "updatedAt": "2026-06-14T15:23:19.042Z"
+}

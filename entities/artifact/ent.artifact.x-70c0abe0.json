@@ -1,0 +1,100 @@
+{
+  "id": "ent.artifact.x-70c0abe0",
+  "type": "artifact",
+  "name": "剑符",
+  "aliases": [
+    "符宝",
+    "灰色小剑",
+    "符箓巨剑"
+  ],
+  "summary": "韩立所用符箓类杀器，一击削掉欧阳飞天首级。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "化巨剑攻击",
+    "来历": "原为金光上人之物",
+    "外形": "符纸/巨剑"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      }
+    ],
+    "能力": [
+      {
+        "value": "削首杀敌",
+        "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+        "seq": 121
+      },
+      {
+        "value": "化灰芒巨剑攻敌，威力随驱动者法力深浅而增（尺许→数尺→丈许→两三丈巨剑形）",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "化巨剑攻击",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      }
+    ],
+    "来历": [
+      {
+        "value": "原为金光上人之物",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      }
+    ],
+    "外形": [
+      {
+        "value": "灰濛濛巨剑形灰芒",
+        "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+        "seq": 163
+      },
+      {
+        "value": "符纸/巨剑",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169,
+        "note": "战后自燃成灰报废"
+      }
+    ]
+  },
+  "firstSeq": 121,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+      "dated": false,
+      "seq": 121
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch163-168-fubao-yeyu-henda",
+      "dated": false,
+      "seq": 163
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch170-zhanlipin",
+      "dated": false,
+      "seq": 169,
+      "note": "战后自燃成灰报废"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch121-126-qianxiang-poison-and-mo-mansion-deal",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch259-264-guilingmen-trap-blood-spirit"
+  ],
+  "updatedAt": "2026-06-14T08:12:27.828Z"
+}

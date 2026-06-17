@@ -1,0 +1,72 @@
+{
+  "id": "ent.artifact.x-befb3234",
+  "type": "artifact",
+  "name": "小刀符宝",
+  "aliases": [
+    "黄色小刀",
+    "黄芒"
+  ],
+  "summary": "封岳的攻击符宝，化黄虹飞斩；主人已死后恢复符箓形态，被韩立拾得。",
+  "attributes": {
+    "品阶": "符宝",
+    "持有者": "韩立",
+    "能力": "化黄虹飞斩缠斗"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "符宝",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "持有者": [
+      {
+        "value": "封岳",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187,
+        "note": "封岳死后恢复符箓形态，被韩立拾走"
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch386-four-years-jiedan",
+        "seq": 385
+      }
+    ],
+    "能力": [
+      {
+        "value": "化黄虹飞斩缠斗",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ]
+  },
+  "firstSeq": 187,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "dated": false,
+      "seq": 385
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "plot.fanren-ch386-four-years-jiedan"
+  ],
+  "updatedAt": "2026-06-14T13:37:46.199Z"
+}

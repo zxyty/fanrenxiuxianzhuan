@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-0d7e0996",
+  "type": "artifact",
+  "name": "青叶法器",
+  "aliases": [
+    "叶形法器"
+  ],
+  "summary": "黄枫谷弟子人手一只的飞行法器，操纵简单但速度仅略快于骏马。",
+  "attributes": {
+    "能力": "飞行",
+    "外形": "青色叶形"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "飞行",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ],
+    "外形": [
+      {
+        "value": "青色叶形",
+        "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+        "seq": 145
+      }
+    ]
+  },
+  "firstSeq": 145,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
+      "dated": false,
+      "seq": 145
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-146-151-han-li-joins-huangfenggu"
+  ],
+  "updatedAt": "2026-06-14T04:09:18.340Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-24e96f0a",
+  "type": "person",
+  "name": "青颜真人",
+  "aliases": [
+    "青老"
+  ],
+  "summary": "太南谷前辈，万小山世伯，与其父至交，共同主持本届太南小会；对韩立有所提防。",
+  "attributes": {
+    "性别": "男",
+    "身份": "太南会前辈",
+    "外貌": "瘦高、青衫儒生、青色斑斑脸孔"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ],
+    "身份": [
+      {
+        "value": "太南谷前辈、太南小会主持者之一",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "太南会前辈",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ],
+    "外貌": [
+      {
+        "value": "瘦高、青衫儒生、青色斑斑脸孔",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.543Z"
+}

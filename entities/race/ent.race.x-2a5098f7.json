@@ -1,0 +1,54 @@
+{
+  "id": "ent.race.x-2a5098f7",
+  "type": "race",
+  "name": "角蚩族",
+  "aliases": [],
+  "summary": "跨洋而来天元大陆的强大异族，代表人物闵；可化身百丈带角巨怪。",
+  "attributes": {
+    "代表人物": "闵某",
+    "特性": "化身百丈带角巨怪"
+  },
+  "observations": {
+    "代表人物": [
+      {
+        "value": "闵",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "闵某",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      }
+    ],
+    "特性": [
+      {
+        "value": "化身百丈带角巨怪",
+        "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ]
+  },
+  "firstSeq": 1519,
+  "attrProvenance": {
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+      "dated": false,
+      "seq": 1531
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+  ],
+  "updatedAt": "2026-06-16T19:37:09.934Z"
+}

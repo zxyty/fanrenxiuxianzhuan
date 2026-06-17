@@ -1,0 +1,85 @@
+{
+  "id": "ent.material.x-9e2065f7",
+  "type": "material",
+  "name": "铁精",
+  "aliases": [],
+  "summary": "李师祖耗时十余年提炼出的炼器材料，赌局输给浮云子后炼入青钧剑增威。",
+  "attributes": {
+    "类型": "法宝原料",
+    "用途": "掺入法器增威/提阶",
+    "稀有度": "极稀（需结丹丹火提炼）"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "炼器矿材",
+        "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
+        "seq": 205
+      },
+      {
+        "value": "法宝原料",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼入法器增其威力",
+        "docId": "plot.fanren-ch170-zhanlipin",
+        "seq": 169
+      },
+      {
+        "value": "需真火提炼",
+        "docId": "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+        "seq": 175
+      },
+      {
+        "value": "掺入法器增威/提阶",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀（需结丹丹火提炼）",
+        "docId": "plot.fanren-223-228-midian-jingmai-auction",
+        "seq": 223
+      }
+    ]
+  },
+  "firstSeq": 169,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "dated": false,
+      "seq": 223
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch170-zhanlipin",
+    "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
+    "plot.fanren-c205-210-tujiao-yu-nangong",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.530Z"
+}

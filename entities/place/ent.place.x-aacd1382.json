@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-aacd1382",
+  "type": "place",
+  "name": "秘市",
+  "aliases": [
+    "交换会"
+  ],
+  "summary": "妙音门所设的修士交换会场所，以巨石为入口。",
+  "attributes": {
+    "所属势力": "妙音门",
+    "类型": "交易市集"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ],
+    "类型": [
+      {
+        "value": "交易市集",
+        "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      }
+    ]
+  },
+  "firstSeq": 535,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "dated": false,
+      "seq": 535
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+  ],
+  "updatedAt": "2026-06-14T18:18:59.347Z"
+}

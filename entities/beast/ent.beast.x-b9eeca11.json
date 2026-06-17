@@ -1,0 +1,70 @@
+{
+  "id": "ent.beast.x-b9eeca11",
+  "type": "beast",
+  "name": "千里鹂",
+  "aliases": [
+    "金黄小鸟"
+  ],
+  "summary": "南陇侯驯养的金黄羽小鸟，平日用于寻找灵药，被派入灰雾试探后遭巨蟒吞噬。",
+  "attributes": {
+    "主人": "南陇侯",
+    "外形": "金黄小鸟",
+    "能力": "远距搜查（方圆十里）"
+  },
+  "observations": {
+    "主人": [
+      {
+        "value": "南陇侯",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "外形": [
+      {
+        "value": "金黄色羽毛小鸟",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "金黄小鸟",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ],
+    "能力": [
+      {
+        "value": "远距搜查（方圆十里）",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ]
+  },
+  "firstSeq": 805,
+  "attrProvenance": {
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+  ],
+  "updatedAt": "2026-06-15T06:28:36.553Z"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ent.person.x-fb050300",
+  "type": "person",
+  "name": "黄泉鬼母",
+  "aliases": [
+    "本老母",
+    "本鬼母"
+  ],
+  "summary": "高阶鬼修，被封印于玄鬼令中，受美妇以同生咒制约，欲求解禁。",
+  "attributes": {
+    "种族": "鬼修",
+    "存殁": "存",
+    "小阶段": "元婴后期巅峰",
+    "称号": "黄泉鬼母"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "鬼修",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存",
+        "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093,
+        "note": "被封印于玄鬼令中"
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴后期巅峰",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ],
+    "称号": [
+      {
+        "value": "黄泉鬼母",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ]
+  },
+  "firstSeq": 1093,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "dated": false,
+      "seq": 1093,
+      "note": "被封印于玄鬼令中"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "dated": false,
+      "seq": 1117
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "dated": false,
+      "seq": 1117
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+  ],
+  "updatedAt": "2026-06-15T10:22:05.158Z"
+}

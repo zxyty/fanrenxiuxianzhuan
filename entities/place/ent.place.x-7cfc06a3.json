@@ -1,0 +1,59 @@
+{
+  "id": "ent.place.x-7cfc06a3",
+  "type": "place",
+  "name": "金马城",
+  "aliases": [],
+  "summary": "元武国一座繁华小城，城内有清泉茶馆。",
+  "attributes": {
+    "所属势力": "元武国",
+    "类型": "小城、城镇、城池"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "元武国",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      }
+    ],
+    "类型": [
+      {
+        "value": "小城",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "城镇",
+        "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+        "seq": 271
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-ch344-formation-slays-mantis",
+        "seq": 343
+      }
+    ]
+  },
+  "firstSeq": 271,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "dated": false,
+      "seq": 271
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-ch344-formation-slays-mantis"
+  ],
+  "updatedAt": "2026-06-14T11:50:57.067Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ent.place.x-e3a776e3",
+  "type": "place",
+  "name": "中心区",
+  "aliases": [
+    "禁地中心",
+    "禁地中心区"
+  ],
+  "summary": "禁地核心，有一级妖兽守护灵药，越近核心禁制陷阱与妖兽越凶。",
+  "attributes": {
+    "特产": "奇花异果天地灵物、火龙草、珍稀草药、天地灵药",
+    "守护": "一级妖兽、风系禁法石墙、青铜大门",
+    "危险度": "高",
+    "类型": "禁地/争夺核心区、洞天福地/灵药园、三层结构核心区"
+  },
+  "observations": {
+    "特产": [
+      {
+        "value": "奇花异果天地灵物",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "火龙草",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "珍稀草药",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "天地灵药",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "守护": [
+      {
+        "value": "一级妖兽",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "风系禁法石墙",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "青铜大门",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "危险度": [
+      {
+        "value": "核心处极高",
+        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+        "seq": 181
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      }
+    ],
+    "类型": [
+      {
+        "value": "禁地/争夺核心区",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "洞天福地/灵药园",
+        "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+        "seq": 187
+      },
+      {
+        "value": "三层结构核心区",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 181,
+  "attrProvenance": {
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "dated": false,
+      "seq": 181
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "dated": false,
+      "seq": 187
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.470Z"
+}

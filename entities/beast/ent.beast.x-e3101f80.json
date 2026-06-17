@@ -1,0 +1,117 @@
+{
+  "id": "ent.beast.x-e3101f80",
+  "type": "beast",
+  "name": "赤火蛟",
+  "aliases": [
+    "红蛟",
+    "八级赤火蛟",
+    "赤红蛟"
+  ],
+  "summary": "火属性蛟类妖兽，鳞片为三焰扇材料；大晋东部海边出现恶蛟上岸吞噬修士。",
+  "attributes": {
+    "栖息地": "华云州海域",
+    "种族": "蛟龙",
+    "等级": "八级",
+    "能力": "喷妖火/化火凝液、本命鳞片、妖丹",
+    "外形": "半人半蛟，赤红晶莹鳞片"
+  },
+  "observations": {
+    "栖息地": [
+      {
+        "value": "大晋东部海边",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "临江府海边",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955,
+        "note": "随群蛟转移"
+      },
+      {
+        "value": "华云州海域",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "种族": [
+      {
+        "value": "蛟龙",
+        "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "等级": [
+      {
+        "value": "八级",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "能力": [
+      {
+        "value": "喷妖火/化火凝液",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "本命鳞片",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "妖丹",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "外形": [
+      {
+        "value": "半人半蛟，赤红晶莹鳞片",
+        "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ]
+  },
+  "firstSeq": 925,
+  "attrProvenance": {
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "dated": false,
+      "seq": 955
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "dated": false,
+      "seq": 961
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+  ],
+  "updatedAt": "2026-06-16T02:49:21.247Z"
+}

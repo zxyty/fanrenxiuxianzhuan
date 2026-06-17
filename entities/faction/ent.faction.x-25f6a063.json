@@ -1,0 +1,69 @@
+{
+  "id": "ent.faction.x-25f6a063",
+  "type": "faction",
+  "name": "金玉宗",
+  "aliases": [
+    "金玉门",
+    "金玉宗修士",
+    "金玉宗一门"
+  ],
+  "summary": "修仙宗门，潘青、秦某等为其弟子；奉师命遣筑基弟子赴安远城助挡兽潮（亦借机突破瓶颈）。",
+  "attributes": {
+    "所属界面": "灵界",
+    "等级": "中小宗门",
+    "镇派之宝": "九玄明玉潭"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "等级": [
+      {
+        "value": "中小宗门",
+        "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "九玄明玉潭",
+        "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "dated": false,
+      "seq": 1267
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "dated": false,
+      "seq": 1279
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1287-chuancheng-zhu"
+  ],
+  "updatedAt": "2026-06-16T10:51:11.096Z"
+}

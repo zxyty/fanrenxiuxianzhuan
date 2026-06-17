@@ -1,0 +1,140 @@
+{
+  "id": "ent.place.x-6ca041c4",
+  "type": "place",
+  "name": "碧灵岛",
+  "aliases": [
+    "无名孤岛",
+    "碧灵岛灵矿"
+  ],
+  "summary": "银鲨岛最北部新发现高阶灵石矿脉的大岛，多产木系灵石，被海中妖兽、天星宫、逆星盟共同瓜分，渐成外海修士聚集地。",
+  "attributes": {
+    "类型": "海岛",
+    "特产": "顶阶/极品灵石",
+    "所属界面": "乱星海外海",
+    "所属势力": "逆星盟",
+    "守护": "极阴祖师",
+    "危险度": "极高"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵石矿岛",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      }
+    ],
+    "特产": [
+      {
+        "value": "木系灵石（高阶灵石矿脉）",
+        "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "高阶灵石矿脉",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      },
+      {
+        "value": "木属性灵石",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "顶阶/极品灵石",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界·乱星海",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "乱星海外海",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      }
+    ],
+    "守护": [
+      {
+        "value": "极阴祖师",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ]
+  },
+  "firstSeq": 1129,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "dated": false,
+      "seq": 1135
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "dated": false,
+      "seq": 1135
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "dated": false,
+      "seq": 1135
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1135-1140-qingyu-leikongdao",
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1155-yaoshou-zhi-luan"
+  ],
+  "updatedAt": "2026-06-15T11:28:21.040Z"
+}

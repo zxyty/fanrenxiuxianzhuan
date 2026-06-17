@@ -1,0 +1,87 @@
+{
+  "id": "ent.material.x-2964afbd",
+  "type": "material",
+  "name": "寿元果",
+  "aliases": [
+    "寿元果树"
+  ],
+  "summary": "虚天殿内可延长寿元的灵药，为炼制长生丹的主料。",
+  "attributes": {
+    "类型": "灵药",
+    "用途": "延寿/炼长生丹、炼长生丹、增益寿元、延寿",
+    "产地": "虚天殿"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵果",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      }
+    ],
+    "用途": [
+      {
+        "value": "延寿/炼长生丹",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      },
+      {
+        "value": "炼长生丹",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "增益寿元",
+        "docId": "plot.fanren-c433-438-xutiandian-juji",
+        "seq": 433
+      },
+      {
+        "value": "延寿",
+        "docId": "plot.fanren-ch446-zaiju",
+        "seq": 445
+      }
+    ],
+    "产地": [
+      {
+        "value": "虚天殿",
+        "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+        "seq": 427
+      }
+    ]
+  },
+  "firstSeq": 427,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
+      "dated": false,
+      "seq": 433
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
+      "dated": false,
+      "seq": 427
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch452-leiting-zhiji"
+  ],
+  "updatedAt": "2026-06-14T15:59:37.784Z"
+}

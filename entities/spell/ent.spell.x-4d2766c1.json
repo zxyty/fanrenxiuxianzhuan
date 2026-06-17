@@ -1,0 +1,51 @@
+{
+  "id": "ent.spell.x-4d2766c1",
+  "type": "spell",
+  "name": "青弧斩",
+  "aliases": [
+    "青弧",
+    "青弧光刃"
+  ],
+  "summary": "陆师兄的攻击法术，弯月形青色光刃，可喝声一分为二分头追击。",
+  "attributes": {
+    "类型": "攻击",
+    "威力": "可分裂为二、追击伤敌"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "攻击",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "威力": [
+      {
+        "value": "可分裂为二、追击伤敌",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman"
+  ],
+  "updatedAt": "2026-06-14T04:37:08.773Z"
+}

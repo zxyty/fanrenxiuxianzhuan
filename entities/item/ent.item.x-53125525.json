@@ -1,0 +1,73 @@
+{
+  "id": "ent.item.x-53125525",
+  "type": "item",
+  "name": "天凤之翎",
+  "aliases": [
+    "天凤之翎(三支)",
+    "凤翎",
+    "顶阶凤翎",
+    "天凤之羽"
+  ],
+  "summary": "木族所藏、供天凤浴火重生用的三支灵物，叶家与妖族均为之潜伏争夺。",
+  "attributes": {
+    "用途": "重炼宝物",
+    "产地": "木族",
+    "类型": "顶阶凤翎"
+  },
+  "observations": {
+    "用途": [
+      {
+        "value": "天凤浴火重生",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "重炼宝物",
+        "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "产地": [
+      {
+        "value": "木族",
+        "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ],
+    "类型": [
+      {
+        "value": "顶阶凤翎",
+        "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      }
+    ]
+  },
+  "firstSeq": 1375,
+  "attrProvenance": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "dated": false,
+      "seq": 1381
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+      "dated": false,
+      "seq": 1375
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "dated": false,
+      "seq": 1381
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+  ],
+  "updatedAt": "2026-06-16T14:51:31.345Z"
+}

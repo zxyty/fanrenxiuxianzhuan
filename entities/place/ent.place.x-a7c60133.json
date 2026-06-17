@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-a7c60133",
+  "type": "place",
+  "name": "血牢",
+  "aliases": [],
+  "summary": "黑煞教内供修士练功之所，青纹、叶蛇常在此修炼。",
+  "attributes": {
+    "所属势力": "黑煞教",
+    "类型": "牢狱/练功之地"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "黑煞教",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "类型": [
+      {
+        "value": "牢狱/练功之地",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ]
+  },
+  "firstSeq": 307,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch308-da-zhan-shenshou"
+  ],
+  "updatedAt": "2026-06-14T10:09:18.581Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ent.artifact.x-a135d078",
+  "type": "artifact",
+  "name": "青光拐杖",
+  "aliases": [
+    "拐杖"
+  ],
+  "summary": "李施主的法器拐杖，掷出可化一条青光，极快、后发先至拦人。",
+  "attributes": {
+    "持有者": "李施主",
+    "能力": "化青光后发先至",
+    "外形": "拐杖"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "李施主",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "能力": [
+      {
+        "value": "化青光后发先至",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ],
+    "外形": [
+      {
+        "value": "拐杖",
+        "docId": "lore.fanren-ch194-forbidden-land-center-region",
+        "seq": 193
+      }
+    ]
+  },
+  "firstSeq": 193,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "dated": false,
+      "seq": 193
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch194-forbidden-land-center-region"
+  ],
+  "updatedAt": "2026-06-14T05:58:42.523Z"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ent.artifact.x-300d1515",
+  "type": "artifact",
+  "name": "黑血刀",
+  "aliases": [
+    "黑色血刀",
+    "黑血长刀",
+    "邪刀",
+    "黑红色飞刀"
+  ],
+  "summary": "越皇以乌黑刀柄加大量精血祭炼而成、刀刃由黑血组成的凶险法宝，能斩破五色霞光并吞噬修士神识。",
+  "attributes": {
+    "持有者": "白袍儒生",
+    "能力": "斩出十余丈黑色刀芒、斩破霞光、自行吞噬靠近的修士神识、克上古凶禽、破紫色光环",
+    "来历": "叶家传承之宝",
+    "外形": "黑红色飞刀"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "越皇",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "白袍儒生",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "能力": [
+      {
+        "value": "斩出十余丈黑色刀芒、斩破霞光",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "自行吞噬靠近的修士神识",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "克上古凶禽、破紫色光环",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "来历": [
+      {
+        "value": "乌黑刀柄+精血/舌尖碎肉祭炼，含上古蛮荒之气",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "叶家传承之宝",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "外形": [
+      {
+        "value": "刀刃由黑血组成，散发惊人血气",
+        "docId": "plot.fanren-ch326-xueling-zuan",
+        "seq": 325
+      },
+      {
+        "value": "黑红色飞刀",
+        "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 325,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch326-xueling-zuan",
+      "dated": false,
+      "seq": 325
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch326-xueling-zuan",
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+  ],
+  "updatedAt": "2026-06-16T03:38:44.991Z"
+}

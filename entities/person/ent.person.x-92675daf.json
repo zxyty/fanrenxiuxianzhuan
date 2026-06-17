@@ -1,0 +1,84 @@
+{
+  "id": "ent.person.x-92675daf",
+  "type": "person",
+  "name": "马玉林",
+  "aliases": [
+    "双目细小的中年人"
+  ],
+  "summary": "犀灵宗执法弟子，与吴晓雨有姻亲关系，携飞行法器与木板状法器上门助拳。",
+  "attributes": {
+    "身份": "犀利灵宗弟子",
+    "阵营": "犀灵宗",
+    "性别": "男",
+    "小阶段": "炼气十层"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "犀灵宗执法弟子",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      },
+      {
+        "value": "犀利灵宗弟子",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "阵营": [
+      {
+        "value": "犀灵宗",
+        "docId": "plot.fanren-ch895-jinpa-yincan",
+        "seq": 895
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气十层",
+        "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ]
+  },
+  "firstSeq": 895,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "dated": false,
+      "seq": 895
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch895-jinpa-yincan",
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+  ],
+  "updatedAt": "2026-06-16T00:43:53.244Z"
+}

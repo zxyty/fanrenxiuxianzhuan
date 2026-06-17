@@ -1,0 +1,42 @@
+{
+  "id": "ent.artifact.x-f3accd7b",
+  "type": "artifact",
+  "name": "回风钵",
+  "aliases": [
+    "黄钵"
+  ],
+  "summary": "叶家摊主所持有奇怪花纹的黄钵，黑汉欲以法宝残片换取。",
+  "attributes": {
+    "外形": "钵"
+  },
+  "observations": {
+    "外形": [
+      {
+        "value": "有奇怪花纹的黄钵",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "钵",
+        "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+        "seq": 139
+      }
+    ]
+  },
+  "firstSeq": 133,
+  "attrProvenance": {
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+      "dated": false,
+      "seq": 139
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+  ],
+  "updatedAt": "2026-06-14T04:06:34.566Z"
+}

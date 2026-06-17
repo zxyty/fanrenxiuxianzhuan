@@ -1,0 +1,77 @@
+{
+  "id": "ent.person.x-53e525b8",
+  "type": "person",
+  "name": "苦桑",
+  "aliases": [
+    "苦桑大师",
+    "小和尚",
+    "和尚"
+  ],
+  "summary": "念诵金刚经的小和尚散修，所带之物已全部换出。",
+  "attributes": {
+    "身份": "散修僧人、僧人、和尚",
+    "阵营": "散修",
+    "称号": "苦桑大师"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "散修僧人",
+        "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+        "seq": 127
+      },
+      {
+        "value": "僧人",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      },
+      {
+        "value": "和尚",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ],
+    "称号": [
+      {
+        "value": "苦桑大师",
+        "docId": "lore.fanren-ch134-shengxian-dahui",
+        "seq": 133
+      }
+    ]
+  },
+  "firstSeq": 127,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "dated": false,
+      "seq": 127
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "dated": false,
+      "seq": 133
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "lore.fanren-ch134-shengxian-dahui"
+  ],
+  "updatedAt": "2026-06-14T03:58:07.233Z"
+}

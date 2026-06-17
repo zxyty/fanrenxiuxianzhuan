@@ -1,0 +1,72 @@
+{
+  "id": "ent.faction.x-bcabfbda",
+  "type": "faction",
+  "name": "青阳门",
+  "aliases": [],
+  "summary": "魔道门派，秘制青火雷。",
+  "attributes": {
+    "阵营": "乱星海势力",
+    "镇派之宝": "青阳雷、拘灵阵、阵法典籍（拘灵阵等）、阴阳轮回决"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch462-mingyhunzhu",
+        "seq": 463
+      },
+      {
+        "value": "乱星海势力",
+        "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+        "seq": 1135
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "青阳雷",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "拘灵阵",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "阵法典籍（拘灵阵等）",
+        "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "阴阳轮回决",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ]
+  },
+  "firstSeq": 463,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "dated": false,
+      "seq": 1135
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "dated": false,
+      "seq": 559
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch462-mingyhunzhu",
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-589-594-jiangling-fu-baofengshan",
+    "plot.fanren-1135-1140-qingyu-leikongdao"
+  ],
+  "updatedAt": "2026-06-15T10:50:10.372Z"
+}

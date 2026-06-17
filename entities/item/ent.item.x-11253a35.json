@@ -1,0 +1,67 @@
+{
+  "id": "ent.item.x-11253a35",
+  "type": "item",
+  "name": "坠魔令",
+  "aliases": [
+    "坠魔令牌",
+    "入谷令牌"
+  ],
+  "summary": "青铜令牌，由鬼灵门发放，持令者方可随鬼灵门修士入坠魔谷，一枚价值数万灵石。",
+  "attributes": {
+    "类型": "入谷凭证",
+    "用途": "入坠魔谷凭证、凭此安全入坠魔谷、入坠魔谷传送凭证"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "入谷凭证",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "用途": [
+      {
+        "value": "入坠魔谷凭证",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "凭此安全入坠魔谷",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "入坠魔谷传送凭证",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ]
+  },
+  "firstSeq": 793,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "dated": false,
+      "seq": 799
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+  ],
+  "updatedAt": "2026-06-15T05:51:36.860Z"
+}

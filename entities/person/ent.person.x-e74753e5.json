@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-e74753e5",
+  "type": "person",
+  "name": "叶大夫",
+  "aliases": [
+    "御医叶大夫"
+  ],
+  "summary": "专门给皇上看病的御医,与华伯父齐名(本片段仅被提及)。",
+  "attributes": {
+    "身份": "御医",
+    "称号": "越京两大神医之一"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "御医",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ],
+    "称号": [
+      {
+        "value": "越京两大神医之一",
+        "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+        "seq": 283
+      }
+    ]
+  },
+  "firstSeq": 283,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
+      "dated": false,
+      "seq": 283
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu"
+  ],
+  "updatedAt": "2026-06-14T09:06:09.176Z"
+}

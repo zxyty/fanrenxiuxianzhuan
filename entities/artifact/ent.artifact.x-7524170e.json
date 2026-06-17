@@ -1,0 +1,85 @@
+{
+  "id": "ent.artifact.x-7524170e",
+  "type": "artifact",
+  "name": "兽形傀儡",
+  "aliases": [
+    "兽傀儡"
+  ],
+  "summary": "韩立傀儡术所驭，四头高大兽形傀儡，可口吐碗口粗光柱攻阵。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "喷射光柱",
+    "外形": "高大兽形",
+    "来历": "数百年铁木为主料,聚魂钵孤魂为魂魄"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "能力": [
+      {
+        "value": "口吐巨大光柱",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "喷射光柱",
+        "docId": "plot.fanren-ch308-da-zhan-shenshou",
+        "seq": 307
+      }
+    ],
+    "外形": [
+      {
+        "value": "高大兽形",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      }
+    ],
+    "来历": [
+      {
+        "value": "数百年铁木为主料,聚魂钵孤魂为魂魄",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      }
+    ]
+  },
+  "firstSeq": 301,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "dated": false,
+      "seq": 307
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "dated": false,
+      "seq": 301
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch392-yuchong",
+      "dated": false,
+      "seq": 391
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-ch308-da-zhan-shenshou",
+    "plot.fanren-ch392-yuchong"
+  ],
+  "updatedAt": "2026-06-14T13:56:50.383Z"
+}

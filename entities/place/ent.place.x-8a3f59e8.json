@@ -1,0 +1,111 @@
+{
+  "id": "ent.place.x-8a3f59e8",
+  "type": "place",
+  "name": "暴风山",
+  "aliases": [
+    "暴风山之巅",
+    "暴风山之颠"
+  ],
+  "summary": "阴冥之地中传说可借以脱身离开此界之处，条件极为苛刻，几乎无人能成。",
+  "attributes": {
+    "类型": "脱身之地、山岳、高山/逃离关口、巨山、山",
+    "危险度": "高",
+    "守护": "飞行阴兽、阴兽、阴冥之风、幻雾",
+    "所属界面": "阴冥之地"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "脱身之地",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "山岳",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "高山/逃离关口",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "巨山",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      },
+      {
+        "value": "山",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+        "seq": 577
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "守护": [
+      {
+        "value": "飞行阴兽",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "阴兽、阴冥之风、幻雾",
+        "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "阴冥之地",
+        "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+        "seq": 589
+      }
+    ]
+  },
+  "firstSeq": 577,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+      "dated": false,
+      "seq": 577
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "dated": false,
+      "seq": 583
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
+      "dated": false,
+      "seq": 589
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-589-594-jiangling-fu-baofengshan"
+  ],
+  "updatedAt": "2026-06-14T19:30:07.003Z"
+}

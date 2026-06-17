@@ -1,0 +1,76 @@
+{
+  "id": "ent.person.x-58739fa4",
+  "type": "person",
+  "name": "钟姓长老",
+  "aliases": [
+    "鬼灵门钟姓长老"
+  ],
+  "summary": "鬼灵门元婴中期长老，率队先行，因弟子失误触发上古小禁制被耽搁。",
+  "attributes": {
+    "小阶段": "元婴期",
+    "身份": "鬼灵门长老",
+    "阵营": "鬼灵门"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-841-lianshou-kangmo",
+        "seq": 841
+      }
+    ],
+    "身份": [
+      {
+        "value": "鬼灵门长老",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+        "seq": 823
+      },
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+        "seq": 847
+      }
+    ]
+  },
+  "firstSeq": 823,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-841-lianshou-kangmo",
+      "dated": false,
+      "seq": 841
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "dated": false,
+      "seq": 823
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+      "dated": false,
+      "seq": 847
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue"
+  ],
+  "updatedAt": "2026-06-15T14:13:06.141Z"
+}

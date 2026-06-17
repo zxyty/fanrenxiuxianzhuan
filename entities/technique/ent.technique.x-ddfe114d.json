@@ -1,0 +1,69 @@
+{
+  "id": "ent.technique.x-ddfe114d",
+  "type": "technique",
+  "name": "金遁术",
+  "aliases": [
+    "金遁"
+  ],
+  "summary": "罕有的金属性遁术，人类修士寥寥能掌握，传说唯金身月尸炼尸具此神通，对无金属性材料的法器无效。",
+  "attributes": {
+    "五行属性": "金",
+    "效果": "金遁飞行、借力打力弹开金属性法器/穿透防御",
+    "修炼条件": "传说金身月尸方具此神通"
+  },
+  "observations": {
+    "五行属性": [
+      {
+        "value": "金",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ],
+    "效果": [
+      {
+        "value": "金遁飞行",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      },
+      {
+        "value": "借力打力弹开金属性法器/穿透防御",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "传说金身月尸方具此神通",
+        "docId": "plot.fanren-984-xie-yue-huan-jing",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 985,
+  "attrProvenance": {
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-984-xie-yue-huan-jing"
+  ],
+  "updatedAt": "2026-06-16T03:30:36.329Z"
+}

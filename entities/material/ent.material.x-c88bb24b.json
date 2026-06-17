@@ -1,0 +1,68 @@
+{
+  "id": "ent.material.x-c88bb24b",
+  "type": "material",
+  "name": "雷灵晶",
+  "aliases": [],
+  "summary": "炼制雷属性法宝的绝佳材料，富姓老者从罕见雷属性妖兽腹中所得（品质一般）。",
+  "attributes": {
+    "类型": "雷属性材料",
+    "用途": "炼制雷属性法宝",
+    "稀有度": "极稀有"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "雷属性材料",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "灵晶",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制雷属性法宝",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 931,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-931-936-anliu-jinjing-route"
+  ],
+  "updatedAt": "2026-06-16T01:29:15.248Z"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ent.faction.x-2926d8ac",
+  "type": "faction",
+  "name": "碧云门",
+  "aliases": [
+    "碧云门一家"
+  ],
+  "summary": "奇渊岛五大势力之一，四年前在虫魔成名战中损失近三分之一人手，与韩立结仇。",
+  "attributes": {
+    "据点": "奇渊岛、奇渊岛海域",
+    "等级": "奇渊岛五大势力之一"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "奇渊岛",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "奇渊岛海域",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "等级": [
+      {
+        "value": "奇渊岛五大势力之一",
+        "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ]
+  },
+  "firstSeq": 523,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "dated": false,
+      "seq": 523
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-1135-1140-qingyu-leikongdao"
+  ],
+  "updatedAt": "2026-06-15T10:50:10.374Z"
+}

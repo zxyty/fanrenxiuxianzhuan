@@ -1,0 +1,82 @@
+{
+  "id": "ent.place.x-7996f88c",
+  "type": "place",
+  "name": "星空殿",
+  "aliases": [
+    "星宫殿",
+    "星空殿大厅"
+  ],
+  "summary": "位于天星城第五十层的白色大理石大殿，内设多排标注目的地的传送阵，由天星宫修士管理。",
+  "attributes": {
+    "类型": "传送阵殿",
+    "守护": "结丹期星宫修士",
+    "所属势力": "星宫"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "传送阵大殿",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "殿宇/传送阵所在",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "传送阵殿",
+        "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "守护": [
+      {
+        "value": "天星宫修士",
+        "docId": "plot.fanren-ch392-yuchong",
+        "seq": 391
+      },
+      {
+        "value": "结丹期星宫修士",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ]
+  },
+  "firstSeq": 391,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+      "dated": false,
+      "seq": 1123
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "dated": false,
+      "seq": 505
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch392-yuchong",
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch1123-1128-houqi-chucheng"
+  ],
+  "updatedAt": "2026-06-15T10:30:15.485Z"
+}

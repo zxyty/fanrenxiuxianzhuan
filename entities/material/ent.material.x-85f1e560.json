@@ -1,0 +1,65 @@
+{
+  "id": "ent.material.x-85f1e560",
+  "type": "material",
+  "name": "乌凤之翎",
+  "aliases": [
+    "乌风之翎"
+  ],
+  "summary": "取自乌凤的翎羽，韩立赴苦竹岛斗法换得的炼制灵料/材料。",
+  "attributes": {
+    "类型": "灵禽翎羽",
+    "产地": "苦竹岛乌凤",
+    "用途": "炼制三焰扇"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "灵禽翎羽",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "产地": [
+      {
+        "value": "苦竹岛乌凤",
+        "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制三焰扇",
+        "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+        "seq": 1231
+      }
+    ]
+  },
+  "firstSeq": 967,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "dated": false,
+      "seq": 967
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "dated": false,
+      "seq": 1231
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan"
+  ],
+  "updatedAt": "2026-06-16T09:06:56.062Z"
+}

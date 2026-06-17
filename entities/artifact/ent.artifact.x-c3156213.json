@@ -1,0 +1,104 @@
+{
+  "id": "ent.artifact.x-c3156213",
+  "type": "artifact",
+  "name": "火龙柱",
+  "aliases": [
+    "赤蛟浮雕火柱",
+    "十几根火龙柱"
+  ],
+  "summary": "韩立以昆吾山所得火龙柱炼成的一套宝物，喷赤红光幕结火罩抵御红雾爆裂。",
+  "attributes": {
+    "持有者": "韩立",
+    "来历": "昆吾山",
+    "能力": "结火罩护体、赤红护罩、融入熔岩隐匿",
+    "外形": "刻赤蛟浮雕的晶莹圆柱",
+    "五行属性": "火"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "来历": [
+      {
+        "value": "昆吾山",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "能力": [
+      {
+        "value": "结火罩护体",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "赤红护罩",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "融入熔岩隐匿",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "外形": [
+      {
+        "value": "刻赤蛟浮雕的晶莹圆柱",
+        "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ]
+  },
+  "firstSeq": 1237,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "dated": false,
+      "seq": 1237
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.338Z"
+}

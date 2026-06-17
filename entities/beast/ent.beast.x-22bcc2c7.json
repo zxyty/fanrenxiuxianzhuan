@@ -1,0 +1,109 @@
+{
+  "id": "ent.beast.x-22bcc2c7",
+  "type": "beast",
+  "name": "雷龟",
+  "aliases": [
+    "雷龟古兽"
+  ],
+  "summary": "蛮荒古兽中体形最庞大的种族之一，诞生于天雷，靠吸纳雷电无限膨胀，现身必伴雷暴，需合体期方能正面对抗。",
+  "attributes": {
+    "种族": "蛮荒古兽",
+    "能力": "吸纳雷电无限膨胀、体内生引雷/辟雷异珠、招致雷暴、吞噬雷电、磁吸电弧入体",
+    "栖息地": "蛮荒界",
+    "外形": "巨山般、深灰金属光泽龟壳"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "蛮荒古兽",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "能力": [
+      {
+        "value": "吸纳雷电无限膨胀",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "体内生引雷/辟雷异珠",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "招致雷暴",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "吞噬雷电",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      },
+      {
+        "value": "磁吸电弧入体",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "蛮荒界地下",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "蛮荒界",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      }
+    ],
+    "外形": [
+      {
+        "value": "圆形巨大如山、灰色鳞片",
+        "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "巨山般、深灰金属光泽龟壳",
+        "docId": "plot.fanren-ch1359-shuanghuang-appears",
+        "seq": 1357
+      }
+    ]
+  },
+  "firstSeq": 1351,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "dated": false,
+      "seq": 1357
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "dated": false,
+      "seq": 1357
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1359-shuanghuang-appears"
+  ],
+  "updatedAt": "2026-06-16T14:14:43.022Z"
+}

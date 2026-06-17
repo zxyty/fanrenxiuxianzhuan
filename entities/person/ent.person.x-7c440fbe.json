@@ -1,0 +1,63 @@
+{
+  "id": "ent.person.x-7c440fbe",
+  "type": "person",
+  "name": "火老",
+  "aliases": [],
+  "summary": "某商号顶阶炼体士，实力堪比元婴，途经穿云山目睹韩立天劫。",
+  "attributes": {
+    "身份": "商号顶阶炼体士",
+    "标志特征": "十指数寸长、泛红光的指甲",
+    "性别": "男"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "商号顶阶炼体士",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "十指数寸长、泛红光的指甲",
+        "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ]
+  },
+  "firstSeq": 1303,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "dated": false,
+      "seq": 1303
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+  ],
+  "updatedAt": "2026-06-16T11:55:47.494Z"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "ent.person.x-6896fa3e",
+  "type": "person",
+  "name": "钟长老",
+  "aliases": [
+    "元婴中期老者",
+    "煞气老者",
+    "钟姓老者",
+    "钟道友",
+    "钟师兄"
+  ],
+  "summary": "鬼灵门元婴中期老者，须发皆白、煞气浓重，随王蝉先行入谷。",
+  "attributes": {
+    "小阶段": "元婴",
+    "阵营": "鬼灵门",
+    "外貌": "面容苍白老者",
+    "身份": "鬼灵门长老",
+    "性别": "男"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch811-gang-yin-sha",
+        "seq": 811
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面容苍白老者",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "身份": [
+      {
+        "value": "鬼灵门长老",
+        "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      }
+    ]
+  },
+  "firstSeq": 799,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "dated": false,
+      "seq": 811
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "dated": false,
+      "seq": 805
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "dated": false,
+      "seq": 817
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-1190-huajiezhu-jifengjiubian"
+  ],
+  "updatedAt": "2026-06-16T07:03:34.651Z"
+}

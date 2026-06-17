@@ -1,0 +1,53 @@
+{
+  "id": "ent.faction.x-8ee91731",
+  "type": "faction",
+  "name": "万宝楼",
+  "aliases": [
+    "万宝阁"
+  ],
+  "summary": "坊市内气势最大、信誉数一数二的商号，售卖原料符箓法器，藏室珍品众多，并以筑基期高手灵压看守防劫。",
+  "attributes": {
+    "据点": "黄枫谷坊市",
+    "理念": "信誉数一数二,必让客人满意而归"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "黄枫谷坊市",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ],
+    "理念": [
+      {
+        "value": "信誉数一数二,必让客人满意而归",
+        "docId": "plot.fanren-ch158-blue-robed-woman",
+        "seq": 157
+      }
+    ]
+  },
+  "firstSeq": 157,
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "dated": false,
+      "seq": 157
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch158-blue-robed-woman",
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-181-186-jindi-yixiantian-jisha",
+    "plot.fanren-223-228-midian-jingmai-auction"
+  ],
+  "updatedAt": "2026-06-14T06:39:00.536Z"
+}

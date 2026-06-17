@@ -1,0 +1,152 @@
+{
+  "id": "ent.person.x-7bb644c0",
+  "type": "person",
+  "name": "绿秀郡主",
+  "aliases": [
+    "秀竹郡主",
+    "宫装少女",
+    "翠绿宫装少女",
+    "玉姨弟子",
+    "绿秀"
+  ],
+  "summary": "十六七岁宫装少女，炼气期十层，随玉夫人来皇清观，求韩立精炼血丝银。",
+  "attributes": {
+    "性别": "女",
+    "小阶段": "炼气期十层",
+    "身份": "郡主、大晋四大散修之后、皇族郡主",
+    "外貌": "宫装少女、漆黑宝石般美目",
+    "性格": "言辞软糯、暗藏狡黠、古怪精灵、好奇、活泼狡黠",
+    "称号": "绿秀郡主",
+    "出身地": "大晋"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期十层",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "身份": [
+      {
+        "value": "郡主",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "大晋四大散修之后",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "皇族郡主",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "外貌": [
+      {
+        "value": "翠绿宫装、姿容秀丽",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "宫装少女、漆黑宝石般美目",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "性格": [
+      {
+        "value": "言辞软糯、暗藏狡黠",
+        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "古怪精灵、好奇",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "活泼狡黠",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "称号": [
+      {
+        "value": "绿秀郡主",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925,
+        "note": "大晋皇上亲封"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ]
+  },
+  "firstSeq": 919,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "dated": false,
+      "seq": 919
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925,
+      "note": "大晋皇上亲封"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "dated": false,
+      "seq": 925
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-ch925-dajin-huangzu"
+  ],
+  "updatedAt": "2026-06-16T01:21:22.370Z"
+}

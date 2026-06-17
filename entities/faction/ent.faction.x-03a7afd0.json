@@ -1,0 +1,35 @@
+{
+  "id": "ent.faction.x-03a7afd0",
+  "type": "faction",
+  "name": "陈氏家族",
+  "aliases": [],
+  "summary": "修仙家族，陈胖子(陈五伯)、陈巧倩出身于此。",
+  "attributes": {
+    "阵营": "正道"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      }
+    ]
+  },
+  "firstSeq": 271,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+      "dated": false,
+      "seq": 793
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-272-jingu-yuan-war-one-year",
+    "plot.fanren-793-798-zhuimo-zhi-di"
+  ],
+  "updatedAt": "2026-06-15T05:43:18.521Z"
+}

@@ -1,0 +1,406 @@
+{
+  "version": 2,
+  "sequenced": true,
+  "guidance": "本知识库是一部按【章节】顺序连载的修仙小说(凡人修仙传)。抽取要点:\n1) 许多属性会随章节变化(性别/外貌/称号/道号/性格/五行属性/小阶段/身份…),只需记录【本片段当时】的值,系统会按序号保留历史,后面变了不算矛盾;不要因为以后会变就不写。\n2) 会演变且具关系性的状态——境界、所属势力、修炼的功法/神通、持有的法宝、收服的灵兽——请用【关系】表达(reaches/memberOf/practices/casts/owns/tames…),可多条,各自锚定其出现的章节;不要塞进属性。\n3) 同一时刻同时成立的多个值(功效/能力/效果/称号/特产…)给【数组】。\n4) 冒充/化名/伪装/暂时 的事实,用对象形式带 note,例如 外貌:{value:\"白发老者\",note:\"伪装\"}、性别:{value:\"女\",note:\"假扮\"}、身份:{value:\"散修\",note:\"冒充潜入\"};关系同理可带 note(如 memberOf 某宗 note:\"卧底\")。\n5) 人物务必给全 aliases(本名/化名/外号/尊称)。\n6) 分类要选对,否则关系会因类型不符被丢弃:记载功法的经书/秘籍/口诀 → type=technique,用 practices;实体法宝/飞剑/法器 → artifact,用 owns;丹药 → pill;炼器/炼丹用的材料灵草矿石 → material;一般随身物件/钱财/杂物 → item,用 possesses。关系的对象类型必须匹配:owns 只接 artifact、practices 接 technique、possesses 接 item。\n7) 包含/归属关系:势力的下属场所(药园/大殿/分舵)、子门派、所属的联盟/大派 → 一律用 partOf(对象=那个势力);地点之间的方位包含才用 locatedIn;只有【人】入门派才用 memberOf。\n8) 兜底:若两实体确有联系但没有任何合适的具体关系,用 relatedTo,不要硬套别的关系、更不要漏掉;但能用具体关系时优先具体关系。\n9) 身份与生死:impersonates 仅用于【冒用某个具体且已命名人物的姓名/身份】(通常被冒者已死或不在场,如韩立顶替已死的厉飞雨);主语=真实行为人,宾语=被冒用的那个具体人物,note 写明类型(冒名/夺舍/转世/化形)与起始章。【严禁】把泛泛撒谎、诈称、假扮「某某的弟子/某门中人」等没有具体被冒名对象的情形抽成 impersonates——这类不要抽该关系。人物死亡时记属性 存殁=死亡(该观测所在章即死亡章)。\n10) 若提示词开头给出了【世界状态须知】,必须严格据此归属:其中标注的化名/冒名期间出现的名字,要归到真实人物(并 note 化名);已死之人若再出场,按回忆或被冒名处理,勿把新行动记到死者名下。",
+  "categories": [
+    {
+      "kind": "plot",
+      "title": "剧情",
+      "desc": "章节剧情梳理、事件、转折"
+    },
+    {
+      "kind": "character",
+      "title": "人物",
+      "desc": "人物志、关系、际遇"
+    },
+    {
+      "kind": "lore",
+      "title": "设定",
+      "desc": "境界体系、功法、法宝、势力、地理等设定"
+    }
+  ],
+  "entityTypes": [
+    {
+      "type": "person",
+      "title": "人物",
+      "attributes": [
+        "性别",
+        "种族",
+        "小阶段",
+        "身份",
+        "称号",
+        "道号",
+        "性格",
+        "出身地",
+        "阵营",
+        "寿元",
+        "外貌",
+        "标志特征",
+        "存殁",
+        "结局",
+        "死因"
+      ]
+    },
+    {
+      "type": "artifact",
+      "title": "法宝",
+      "attributes": [
+        "品阶",
+        "持有者",
+        "能力",
+        "五行属性",
+        "器灵",
+        "来历",
+        "禁制",
+        "外形"
+      ]
+    },
+    {
+      "type": "technique",
+      "title": "功法",
+      "attributes": [
+        "品阶",
+        "五行属性",
+        "出处",
+        "效果",
+        "适用境界",
+        "修炼条件",
+        "外显异象"
+      ]
+    },
+    {
+      "type": "spell",
+      "title": "神通",
+      "attributes": [
+        "类型",
+        "威力",
+        "出处",
+        "消耗",
+        "适用境界"
+      ]
+    },
+    {
+      "type": "beast",
+      "title": "灵兽",
+      "attributes": [
+        "种族",
+        "等级",
+        "主人",
+        "血脉",
+        "能力",
+        "栖息地",
+        "天敌",
+        "外形"
+      ]
+    },
+    {
+      "type": "faction",
+      "title": "势力",
+      "attributes": [
+        "阵营",
+        "等级",
+        "掌门",
+        "据点",
+        "所属界面",
+        "镇派之宝",
+        "理念"
+      ]
+    },
+    {
+      "type": "place",
+      "title": "地点",
+      "attributes": [
+        "所属界面",
+        "所属势力",
+        "类型",
+        "危险度",
+        "特产",
+        "守护"
+      ]
+    },
+    {
+      "type": "world",
+      "title": "界面",
+      "attributes": [
+        "层次",
+        "灵气浓度",
+        "主宰势力",
+        "通道",
+        "特点"
+      ]
+    },
+    {
+      "type": "realm",
+      "title": "境界",
+      "attributes": [
+        "阶序",
+        "小阶段",
+        "寿元",
+        "突破关键",
+        "突破征兆",
+        "上一境",
+        "下一境"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "物品",
+      "attributes": [
+        "类型",
+        "用途",
+        "品阶",
+        "产地"
+      ]
+    },
+    {
+      "type": "pill",
+      "title": "丹药",
+      "attributes": [
+        "品阶",
+        "功效",
+        "适用境界",
+        "炼制者",
+        "主料",
+        "副作用"
+      ]
+    },
+    {
+      "type": "material",
+      "title": "灵材",
+      "attributes": [
+        "类型",
+        "用途",
+        "稀有度",
+        "产地"
+      ]
+    },
+    {
+      "type": "formation",
+      "title": "阵法",
+      "attributes": [
+        "品阶",
+        "效果",
+        "出处",
+        "布置者",
+        "破解法"
+      ]
+    },
+    {
+      "type": "race",
+      "title": "种族",
+      "attributes": [
+        "特性",
+        "聚居地",
+        "阵营",
+        "天赋神通",
+        "代表人物",
+        "天敌"
+      ]
+    },
+    {
+      "type": "event",
+      "title": "事件",
+      "attributes": [
+        "章节",
+        "地点",
+        "参与方",
+        "起因",
+        "经过",
+        "结果",
+        "影响"
+      ]
+    }
+  ],
+  "relationTypes": [
+    {
+      "name": "master",
+      "domain": "person",
+      "range": "person",
+      "inverse": "disciple",
+      "card": "many"
+    },
+    {
+      "name": "companion",
+      "domain": "person",
+      "range": "person",
+      "inverse": "companion",
+      "card": "many"
+    },
+    {
+      "name": "fellow",
+      "domain": "person",
+      "range": "person",
+      "inverse": "fellow",
+      "card": "many"
+    },
+    {
+      "name": "sworn",
+      "domain": "person",
+      "range": "person",
+      "inverse": "sworn",
+      "card": "many"
+    },
+    {
+      "name": "kin",
+      "domain": "person",
+      "range": "person",
+      "inverse": "kin",
+      "card": "many"
+    },
+    {
+      "name": "enemy",
+      "domain": "person",
+      "range": "person",
+      "inverse": "enemy",
+      "card": "many"
+    },
+    {
+      "name": "ally",
+      "domain": "person",
+      "range": "person",
+      "inverse": "ally",
+      "card": "many"
+    },
+    {
+      "name": "owns",
+      "domain": "person",
+      "range": "artifact",
+      "inverse": "ownedBy",
+      "card": "many"
+    },
+    {
+      "name": "possesses",
+      "domain": "person",
+      "range": "item",
+      "inverse": "possessedBy",
+      "card": "many"
+    },
+    {
+      "name": "forges",
+      "domain": "person",
+      "range": "artifact",
+      "inverse": "forgedBy",
+      "card": "many"
+    },
+    {
+      "name": "practices",
+      "domain": "person",
+      "range": "technique",
+      "inverse": "practicedBy",
+      "card": "many"
+    },
+    {
+      "name": "casts",
+      "domain": "person",
+      "range": "spell",
+      "inverse": "castBy",
+      "card": "many"
+    },
+    {
+      "name": "refines",
+      "domain": "person",
+      "range": "pill",
+      "inverse": "refinedBy",
+      "card": "many"
+    },
+    {
+      "name": "memberOf",
+      "domain": "person",
+      "range": "faction",
+      "inverse": "hasMember",
+      "card": "many"
+    },
+    {
+      "name": "founded",
+      "domain": "person",
+      "range": "faction",
+      "inverse": "foundedBy",
+      "card": "many"
+    },
+    {
+      "name": "tames",
+      "domain": "person",
+      "range": "beast",
+      "inverse": "tamedBy",
+      "card": "many"
+    },
+    {
+      "name": "reaches",
+      "domain": "person",
+      "range": "realm",
+      "inverse": "reachedBy",
+      "card": "many"
+    },
+    {
+      "name": "ofRace",
+      "domain": "person",
+      "range": "race",
+      "inverse": "raceMember",
+      "card": "many"
+    },
+    {
+      "name": "advances",
+      "domain": "realm",
+      "range": "realm",
+      "inverse": "precededBy",
+      "card": "many"
+    },
+    {
+      "name": "locatedIn",
+      "domain": "*",
+      "range": "place",
+      "inverse": "contains",
+      "card": "many"
+    },
+    {
+      "name": "partOf",
+      "domain": "*",
+      "range": "*",
+      "inverse": "hasPart",
+      "card": "many"
+    },
+    {
+      "name": "relatedTo",
+      "domain": "*",
+      "range": "*",
+      "inverse": "relatedTo",
+      "card": "many"
+    },
+    {
+      "name": "impersonates",
+      "domain": "*",
+      "range": "person",
+      "inverse": "impersonatedBy",
+      "card": "many",
+      "borrowsIdentity": true
+    },
+    {
+      "name": "withinWorld",
+      "domain": "*",
+      "range": "world",
+      "inverse": "holds",
+      "card": "many"
+    },
+    {
+      "name": "guards",
+      "domain": "person",
+      "range": "place",
+      "inverse": "guardedBy",
+      "card": "many"
+    },
+    {
+      "name": "occursAt",
+      "domain": "event",
+      "range": "place",
+      "inverse": "hosts",
+      "card": "many"
+    },
+    {
+      "name": "involves",
+      "domain": "event",
+      "range": "person",
+      "inverse": "experienced",
+      "card": "many"
+    }
+  ]
+}

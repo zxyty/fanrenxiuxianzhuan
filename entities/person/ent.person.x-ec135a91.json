@@ -1,0 +1,71 @@
+{
+  "id": "ent.person.x-ec135a91",
+  "type": "person",
+  "name": "孙姓老妪",
+  "aliases": [
+    "孙道友",
+    "岳阳宫老妪"
+  ],
+  "summary": "岳阳宫元婴后期大修士，追查盗取昊阳鸟火翎之人。",
+  "attributes": {
+    "小阶段": "元婴",
+    "性别": "女",
+    "阵营": "正道"
+  },
+  "observations": {
+    "小阶段": [
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "阵营": [
+      {
+        "value": "正道",
+        "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ]
+  },
+  "firstSeq": 931,
+  "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "dated": false,
+      "seq": 1249
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "dated": false,
+      "seq": 931
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+  ],
+  "updatedAt": "2026-06-16T09:47:06.180Z"
+}

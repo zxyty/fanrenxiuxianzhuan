@@ -1,0 +1,74 @@
+{
+  "id": "ent.spell.x-4a19c5cb",
+  "type": "spell",
+  "name": "控神术",
+  "aliases": [],
+  "summary": "筑基期十大鸡肋法术之一，可使受术凡人一段时间内唯命是从，但只对凡人有效且要求神识远超常人。",
+  "attributes": {
+    "类型": "控心/操控类",
+    "适用境界": "筑基期",
+    "消耗": "心神消耗极大"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "控制",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      },
+      {
+        "value": "精神控制",
+        "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+        "seq": 301
+      },
+      {
+        "value": "控心/操控类",
+        "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+        "seq": 331
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ],
+    "消耗": [
+      {
+        "value": "心神消耗极大",
+        "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+        "seq": 289
+      }
+    ]
+  },
+  "firstSeq": 289,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-331-336-jiayuan-cheng-jiudi",
+      "dated": false,
+      "seq": 331
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+      "dated": false,
+      "seq": 289
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-vol3-c289-294-xiaowangye-xiaojia",
+    "plot.fanren-301-306-mengshan-wuyou-neiying",
+    "plot.fanren-331-336-jiayuan-cheng-jiudi"
+  ],
+  "updatedAt": "2026-06-14T11:09:43.133Z"
+}

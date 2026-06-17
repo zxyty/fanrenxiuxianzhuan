@@ -1,0 +1,98 @@
+{
+  "id": "ent.artifact.x-4569cf4f",
+  "type": "artifact",
+  "name": "九宫天乾符",
+  "aliases": [
+    "九宫天乾符光阵",
+    "九宫天乾符宫殿"
+  ],
+  "summary": "困敌用仙家符箓，韩立只参悟出一半，凭此研制出万珑珠。",
+  "attributes": {
+    "品阶": "仙家符箓",
+    "能力": "困敌、结成巨型光阵困敌、化宫殿楼台困敌、笼罩镇压",
+    "持有者": "韩立",
+    "外形": "一百零八张银符排成奇异图案"
+  },
+  "observations": {
+    "品阶": [
+      {
+        "value": "仙家符箓",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      }
+    ],
+    "能力": [
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "结成巨型光阵困敌",
+        "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      },
+      {
+        "value": "化宫殿楼台困敌",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "笼罩镇压",
+        "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      }
+    ],
+    "外形": [
+      {
+        "value": "一百零八张银符排成奇异图案",
+        "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      }
+    ]
+  },
+  "firstSeq": 1339,
+  "attrProvenance": {
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1341-leipao-xianshi",
+      "dated": false,
+      "seq": 1339
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1341-leipao-xianshi",
+      "dated": false,
+      "seq": 1339
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "dated": false,
+      "seq": 1489
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "dated": false,
+      "seq": 1489
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1495-1500-xutian-rescue-melee",
+    "plot.fanren-1929-1934-blood-saint-clones-battle"
+  ],
+  "updatedAt": "2026-06-17T03:14:10.897Z"
+}

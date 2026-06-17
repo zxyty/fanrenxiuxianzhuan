@@ -1,0 +1,65 @@
+{
+  "id": "ent.artifact.x-ba1c0b12",
+  "type": "artifact",
+  "name": "映月环",
+  "aliases": [
+    "映月环仿制品"
+  ],
+  "summary": "黑袍女子所用半透明圆珠法宝（实为仿制品），无声击杀叶家修士、击破白袍儒生幻影。",
+  "attributes": {
+    "外形": "拇指大小晶莹圆珠",
+    "来历": "仿制品",
+    "品阶": "上古灵宝"
+  },
+  "observations": {
+    "外形": [
+      {
+        "value": "拇指大小晶莹圆珠",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ],
+    "来历": [
+      {
+        "value": "仿制品",
+        "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古灵宝",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ]
+  },
+  "firstSeq": 1009,
+  "attrProvenance": {
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-hei-feng-qi",
+      "dated": false,
+      "seq": 1039
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1039-hei-feng-qi",
+    "plot.fanren-1009-yinpo-ningxing"
+  ],
+  "updatedAt": "2026-06-16T04:18:42.286Z"
+}

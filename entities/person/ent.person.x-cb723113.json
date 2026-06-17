@@ -1,0 +1,70 @@
+{
+  "id": "ent.person.x-cb723113",
+  "type": "person",
+  "name": "秀丽女子",
+  "aliases": [
+    "师妹"
+  ],
+  "summary": "化仙宗修士，木夫人之师妹，持仿制八灵尺而成的四象尺。",
+  "attributes": {
+    "阵营": "化仙宗",
+    "性别": "女",
+    "身份": "化仙宗师妹"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "化仙宗",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1021
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "身份": [
+      {
+        "value": "化仙宗师妹",
+        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "木夫人师妹",
+        "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      }
+    ]
+  },
+  "firstSeq": 1021,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1021
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "dated": false,
+      "seq": 1033
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+  ],
+  "updatedAt": "2026-06-16T04:46:03.688Z"
+}

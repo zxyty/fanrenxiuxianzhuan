@@ -1,0 +1,77 @@
+{
+  "id": "ent.place.x-7796759b",
+  "type": "place",
+  "name": "土山荒岛",
+  "aliases": [
+    "土山",
+    "荒岛",
+    "乱星海外海无名荒岛"
+  ],
+  "summary": "乱星海一座方圆千余里的灰黄荒岛，无灵脉草木不生，西侧土山藏古修士遗址大阵。",
+  "attributes": {
+    "类型": "海岛",
+    "所属界面": "人界",
+    "特产": "龙鳞果"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "荒岛/古修士遗址",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+        "seq": 415
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ],
+    "特产": [
+      {
+        "value": "龙鳞果",
+        "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      }
+    ]
+  },
+  "firstSeq": 415,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "dated": false,
+      "seq": 1243
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch416-421-tushan-fengling-zhu",
+    "plot.fanren-1245-sun-essence-fire-appears"
+  ],
+  "updatedAt": "2026-06-16T09:33:28.403Z"
+}

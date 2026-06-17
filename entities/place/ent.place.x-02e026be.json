@@ -1,0 +1,83 @@
+{
+  "id": "ent.place.x-02e026be",
+  "type": "place",
+  "name": "交易大殿",
+  "aliases": [],
+  "summary": "设于圣城边缘巨山山腹的交易场所，整座山腹供买卖，类同人妖坊市。",
+  "attributes": {
+    "所属势力": "天鹏族",
+    "类型": "坊市/交易大殿、交易市场、交易场所",
+    "特产": "青罗果、炼器灵材、灵花灵草"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ],
+    "类型": [
+      {
+        "value": "坊市/交易大殿",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "交易市场",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "交易场所",
+        "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      }
+    ],
+    "特产": [
+      {
+        "value": "青罗果",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "炼器灵材",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "灵花灵草",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      }
+    ]
+  },
+  "firstSeq": 1411,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "dated": false,
+      "seq": 1411
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian"
+  ],
+  "updatedAt": "2026-06-16T15:57:46.862Z"
+}
