@@ -17,15 +17,16 @@
   "attributes": {
     "品阶": "古宝",
     "持有者": "韩立",
-    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身、隐匿后束缚锁定目标",
-    "五行属性": "五行"
+    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身、隐匿后束缚锁定目标、五铜环锁缚",
+    "五行属性": "五行",
+    "禁制": "对异灵根/高修为/旁门修士无效"
   },
   "observations": {
     "品阶": [
       {
         "value": "古宝",
         "docId": "plot.fanren-499-504-nanming-island",
-        "seq": 499
+        "seq": 487
       }
     ],
     "持有者": [
@@ -70,6 +71,11 @@
         "value": "隐匿后束缚锁定目标",
         "docId": "plot.fanren-ch483-bingfeng",
         "seq": 483
+      },
+      {
+        "value": "五铜环锁缚",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "五行属性": [
@@ -77,6 +83,13 @@
         "value": "五行",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      }
+    ],
+    "禁制": [
+      {
+        "value": "对异灵根/高修为/旁门修士无效",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -86,7 +99,7 @@
       "asOf": null,
       "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 499
+      "seq": 487
     },
     "持有者": {
       "asOf": null,
@@ -105,6 +118,12 @@
       "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
       "dated": false,
       "seq": 571
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
     }
   },
   "contested": false,
@@ -117,7 +136,8 @@
     "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
     "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
     "plot.fanren-ch493-huazhou-zhimi",
-    "plot.fanren-ch483-bingfeng"
+    "plot.fanren-ch483-bingfeng",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:20:38.095Z"
+  "updatedAt": "2026-06-17T05:46:11.632Z"
 }

@@ -4,13 +4,15 @@
   "name": "补天丹",
   "aliases": [
     "Mending Heaven Pill",
-    "五色光团中丹丸"
+    "五色光团中丹丸",
+    "五色丹丸",
+    "补天灵丹"
   ],
   "summary": "藏于虚天鼎中的丹药，可弥补/修复人之五行灵根，修仙界独此一家。",
   "attributes": {
-    "功效": "弥补五行灵根、助突破寿元、助突破元婴期、改善修炼资质、所化五色珠改善灵根资质、改善资质、弥补灵根不纯、精炼先天灵根、助结丹修士凝练元婴",
+    "功效": "弥补五行灵根、助突破寿元、助突破元婴期、改善修炼资质、所化五色珠改善灵根资质、改善资质、弥补灵根不纯、精炼先天灵根、助结丹修士凝练元婴、洗炼结丹期修士先天灵根、助进军元婴期",
     "适用境界": "结丹",
-    "副作用": "炼化极难"
+    "副作用": "炼化灵根全程起码需上百年"
   },
   "observations": {
     "功效": [
@@ -53,6 +55,11 @@
         "value": "助结丹修士凝练元婴",
         "docId": "plot.fanren-ch484-huashenfu-butiandan",
         "seq": 484
+      },
+      {
+        "value": "洗炼结丹期修士先天灵根、助进军元婴期",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "适用境界": [
@@ -65,6 +72,11 @@
         "value": "结丹凝练元婴",
         "docId": "plot.fanren-ch484-huashenfu-butiandan",
         "seq": 484
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "副作用": [
@@ -72,6 +84,11 @@
         "value": "炼化极难",
         "docId": "plot.fanren-ch484-huashenfu-butiandan",
         "seq": 484
+      },
+      {
+        "value": "炼化灵根全程起码需上百年",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -91,9 +108,9 @@
     },
     "副作用": {
       "asOf": null,
-      "docId": "plot.fanren-ch484-huashenfu-butiandan",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 484
+      "seq": 487
     }
   },
   "contested": false,
@@ -112,7 +129,8 @@
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-ch484-huashenfu-butiandan",
-    "plot.fanren-ch485-yuanying-xian"
+    "plot.fanren-ch485-yuanying-xian",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:24:58.959Z"
+  "updatedAt": "2026-06-17T05:46:11.599Z"
 }

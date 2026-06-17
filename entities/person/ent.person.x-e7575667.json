@@ -18,12 +18,13 @@
     "极阴师祖",
     "为师",
     "极阴老贼",
-    "老贼"
+    "老贼",
+    "玄骨逆徒"
   ],
   "summary": "乌丑之祖，乱星海无人不知的魔枭巨头；百余年前做生死关，实为修炼盖世魔功，如今功成即将出关。",
   "attributes": {
-    "称号": "极阴祖师",
-    "身份": "极阴岛祖师、萧诧逆徒、玄骨之逆徒/叛徒弟子、玄骨的逆徒、元婴期老怪、魔道老怪、绿影的逆徒、玄骨逆徒、附身状态、魔道元婴、元婴老怪、逆星盟长老、逆星盟元婴修士、魔道巨枭、以乌丑之身行事",
+    "称号": "祖师",
+    "身份": "极阴岛祖师、萧诧逆徒、玄骨之逆徒/叛徒弟子、玄骨的逆徒、元婴期老怪、魔道老怪、绿影的逆徒、玄骨逆徒、附身状态、魔道元婴、元婴老怪、逆星盟长老、逆星盟元婴修士、魔道巨枭、以乌丑之身行事、乌丑家祖/玄阴一脉尊长、玄骨之徒",
     "存殁": "在世、存（被冰封擒获）、死亡",
     "小阶段": "元婴",
     "性格": "阴险贪婪",
@@ -47,6 +48,11 @@
         "value": "极阴祖师",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 475
+      },
+      {
+        "value": "祖师",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "身份": [
@@ -89,7 +95,7 @@
       {
         "value": "玄骨逆徒",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
-        "seq": 493
+        "seq": 487
       },
       {
         "value": "附身状态",
@@ -127,6 +133,16 @@
         "docId": "plot.fanren-ch485-yuanying-xian",
         "seq": 485,
         "note": "夺舍占据乌丑躯体,起于第403章"
+      },
+      {
+        "value": "乌丑家祖/玄阴一脉尊长",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      },
+      {
+        "value": "玄骨之徒",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "存殁": [
@@ -355,9 +371,9 @@
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 475
+      "seq": 487
     },
     "身份": {
       "asOf": null,
@@ -461,7 +477,8 @@
     "plot.fanren-ch482-guba-zhi-zheng",
     "plot.fanren-ch483-bingfeng",
     "plot.fanren-ch484-huashenfu-butiandan",
-    "plot.fanren-ch485-yuanying-xian"
+    "plot.fanren-ch485-yuanying-xian",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:24:58.952Z"
+  "updatedAt": "2026-06-17T05:46:11.624Z"
 }

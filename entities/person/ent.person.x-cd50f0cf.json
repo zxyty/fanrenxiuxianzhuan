@@ -17,12 +17,15 @@
   "attributes": {
     "性别": "男",
     "小阶段": "结丹初期",
-    "身份": "结丹期修士",
+    "身份": "极阴老祖后人",
     "外貌": "矮小枯瘦、满脸黑麻、矮小丑陋青年、小眼、矮瘦青年",
     "阵营": "魔道",
     "性格": "热情逢迎、热络、对宝物贪婪",
-    "存殁": "躯体被夺舍占据",
-    "标志特征": "蛇纹臂环"
+    "存殁": "躯体被夺舍、躯体被夺舍占据、躯体被占、死亡",
+    "标志特征": "蛇纹臂环",
+    "种族": "玄阴岛/极阴一脉",
+    "结局": "被玄骨化为灰烬",
+    "死因": "玄骨鬼爪贯穿小腹后绿火焚化"
   },
   "observations": {
     "性别": [
@@ -64,6 +67,11 @@
         "value": "极阴岛少主",
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
+      },
+      {
+        "value": "极阴老祖后人",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "外貌": [
@@ -120,6 +128,17 @@
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482,
         "note": "实为极阴老祖操控"
+      },
+      {
+        "value": "躯体被占",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487,
+        "note": "自第403章被极阴老祖夺舍"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "标志特征": [
@@ -127,6 +146,27 @@
         "value": "蛇纹臂环",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      }
+    ],
+    "种族": [
+      {
+        "value": "玄阴岛/极阴一脉",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      }
+    ],
+    "结局": [
+      {
+        "value": "被玄骨化为灰烬",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      }
+    ],
+    "死因": [
+      {
+        "value": "玄骨鬼爪贯穿小腹后绿火焚化",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -146,9 +186,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 469
+      "seq": 487
     },
     "外貌": {
       "asOf": null,
@@ -171,16 +211,34 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-ch482-guba-zhi-zheng",
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
       "dated": false,
-      "seq": 482,
-      "note": "实为极阴老祖操控"
+      "seq": 475,
+      "note": "由极阴老祖操控"
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
       "dated": false,
       "seq": 475
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
     }
   },
   "contested": false,
@@ -198,7 +256,8 @@
     "plot.fanren-ch481-huaxing-zhibao",
     "plot.fanren-ch482-guba-zhi-zheng",
     "plot.fanren-ch483-bingfeng",
-    "plot.fanren-ch485-yuanying-xian"
+    "plot.fanren-ch485-yuanying-xian",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:24:58.966Z"
+  "updatedAt": "2026-06-17T05:46:11.579Z"
 }

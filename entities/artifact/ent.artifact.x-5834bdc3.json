@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "金雷竹小箭",
   "aliases": [
-    "碧绿色小刀"
+    "碧绿色小刀",
+    "翠绿小箭",
+    "翠绿色小箭"
   ],
   "summary": "玄骨之宝，以法术遮去本来面目化作碧绿色小刀；实为金雷竹所化，当年极阴曾用此宝暗算玄骨。",
   "attributes": {
     "持有者": "玄骨",
     "外形": "碧绿色小刀",
-    "来历": "金雷竹所化"
+    "来历": "金雷竹所化",
+    "能力": "喷绿芒攻击"
   },
   "observations": {
     "持有者": [
@@ -33,6 +36,13 @@
         "docId": "plot.fanren-ch483-bingfeng",
         "seq": 483
       }
+    ],
+    "能力": [
+      {
+        "value": "喷绿芒攻击",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      }
     ]
   },
   "firstSeq": 483,
@@ -55,12 +65,19 @@
       "docId": "plot.fanren-ch483-bingfeng",
       "dated": false,
       "seq": 483
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch483-bingfeng"
+    "plot.fanren-ch483-bingfeng",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:20:38.097Z"
+  "updatedAt": "2026-06-17T05:46:11.634Z"
 }

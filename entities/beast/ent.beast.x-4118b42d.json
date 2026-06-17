@@ -4,15 +4,17 @@
   "name": "血玉蜘蛛",
   "aliases": [
     "白玉蜘蛛",
-    "两头血玉蜘蛛"
+    "两头血玉蜘蛛",
+    "血玉蜘蛛炼尸",
+    "蜘蛛炼尸"
   ],
   "summary": "韩立精血控神禁制孵养的两只白蛛，奇虫榜第一百多位，灵气达炼气期三四层。",
   "attributes": {
     "等级": "四级妖兽顶峰(近五级)",
-    "外形": "通体洁白发光、拳头大小、晶莹剔透、头颅般大白蜘蛛、白色蜘蛛、磨盘大小白色蜘蛛、通体晶莹如玉、血玉色蜘蛛、暴怒时通体血红、红光血玉蜘蛛",
+    "外形": "通体洁白发光、拳头大小、晶莹剔透、头颅般大白蜘蛛、白色蜘蛛、磨盘大小白色蜘蛛、通体晶莹如玉、血玉色蜘蛛、暴怒时通体血红、红光血玉蜘蛛、血色蜘蛛",
     "主人": "韩立",
-    "能力": "喷吐网孔奇小的蛛网、克制噬金虫、喷吐蛛丝结网、取虚天鼎最佳灵兽之一、认主、可自爆、取宝、喷射巨大白色蛛网、蛛丝耐乾蓝冰焰、红光护体、吐乳白蛛丝",
-    "栖息地": "—"
+    "能力": "喷吐网孔奇小的蛛网、克制噬金虫、喷吐蛛丝结网、取虚天鼎最佳灵兽之一、认主、可自爆、取宝、喷射巨大白色蛛网、蛛丝耐乾蓝冰焰、红光护体、吐乳白蛛丝、雌雄成对方可升阶越级、喷蛛网拉拽、狂暴状态、吐丝拉拽",
+    "栖息地": "虚天殿/玄阴一脉"
   },
   "observations": {
     "等级": [
@@ -97,6 +99,11 @@
         "value": "红光血玉蜘蛛",
         "docId": "plot.fanren-ch481-huaxing-zhibao",
         "seq": 481
+      },
+      {
+        "value": "血色蜘蛛",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "主人": [
@@ -156,6 +163,26 @@
         "value": "红光护体、吐乳白蛛丝",
         "docId": "plot.fanren-ch481-huaxing-zhibao",
         "seq": 481
+      },
+      {
+        "value": "雌雄成对方可升阶越级",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      },
+      {
+        "value": "喷蛛网拉拽",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      },
+      {
+        "value": "狂暴状态",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      },
+      {
+        "value": "吐丝拉拽",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "栖息地": [
@@ -163,6 +190,11 @@
         "value": "—",
         "docId": "plot.fanren-ch485-yuanying-xian",
         "seq": 485
+      },
+      {
+        "value": "虚天殿/玄阴一脉",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -194,9 +226,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-ch485-yuanying-xian",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 485
+      "seq": 487
     }
   },
   "contested": false,
@@ -219,7 +251,8 @@
     "plot.fanren-ch481-huaxing-zhibao",
     "plot.fanren-ch483-bingfeng",
     "plot.fanren-ch484-huashenfu-butiandan",
-    "plot.fanren-ch485-yuanying-xian"
+    "plot.fanren-ch485-yuanying-xian",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:24:58.964Z"
+  "updatedAt": "2026-06-17T05:46:11.619Z"
 }

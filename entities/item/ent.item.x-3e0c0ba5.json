@@ -1,34 +1,35 @@
 {
-  "id": "ent.person.x-b0c23606",
-  "type": "person",
-  "name": "极炫",
+  "id": "ent.item.x-3e0c0ba5",
+  "type": "item",
+  "name": "吸雷石",
   "aliases": [
-    "极炫逆徒"
+    "吸雷珠",
+    "晶石珠子"
   ],
-  "summary": "玄骨老魔的逆徒，曾拥有血玉蜘蛛，骸骨被炼化提炼出五色圆珠。",
+  "summary": "蛮胡子早年宰杀雷鲸妖兽所得，能吸纳雷电威力，化解了天罗真雷。",
   "attributes": {
-    "存殁": "死亡",
-    "身份": "玄骨逆徒",
-    "标志特征": "五色骸骨"
+    "类型": "灵宝晶石",
+    "用途": "吸纳雷电威力",
+    "产地": "雷鲸妖兽体内"
   },
   "observations": {
-    "存殁": [
+    "类型": [
       {
-        "value": "死亡",
-        "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
-        "seq": 487
-      }
-    ],
-    "身份": [
-      {
-        "value": "玄骨逆徒",
+        "value": "灵宝晶石",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
       }
     ],
-    "标志特征": [
+    "用途": [
       {
-        "value": "五色骸骨",
+        "value": "吸纳雷电威力",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      }
+    ],
+    "产地": [
+      {
+        "value": "雷鲸妖兽体内",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
       }
@@ -36,19 +37,19 @@
   },
   "firstSeq": 487,
   "attrProvenance": {
-    "存殁": {
-      "asOf": null,
-      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
-      "dated": false,
-      "seq": 487
-    },
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
       "seq": 487
     },
-    "标志特征": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
+    },
+    "产地": {
       "asOf": null,
       "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
@@ -58,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch511-516-qiyuan-island-heishi-city",
     "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:46:11.581Z"
+  "updatedAt": "2026-06-17T05:46:11.569Z"
 }

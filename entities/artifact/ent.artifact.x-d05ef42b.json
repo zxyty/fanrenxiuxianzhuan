@@ -10,8 +10,8 @@
   "summary": "韩立在内殿古宝阁所取古宝，五只连串铜环，困敌/防御类，可凭空隐现后套住目标偷袭，连强大神识也难及反应。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "套身困敌偷袭、重叠成巨环护身防御",
-    "外形": "五只臂粗、铭刻符文的铜环",
+    "能力": "套身困敌偷袭、重叠成巨环护身防御、束缚（套颈项四肢）",
+    "外形": "五色铜环",
     "来历": "内殿古宝阁楼"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "重叠成巨环护身防御",
         "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
         "seq": 469
+      },
+      {
+        "value": "束缚（套颈项四肢）",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "外形": [
@@ -39,6 +44,11 @@
         "value": "五只臂粗、铭刻符文的铜环",
         "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
         "seq": 469
+      },
+      {
+        "value": "五色铜环",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "来历": [
@@ -65,9 +75,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 469
+      "seq": 487
     },
     "来历": {
       "asOf": null,
@@ -79,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing"
+    "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-14T16:36:44.380Z"
+  "updatedAt": "2026-06-17T05:46:11.618Z"
 }

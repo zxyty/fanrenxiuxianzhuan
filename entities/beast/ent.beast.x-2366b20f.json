@@ -3,12 +3,14 @@
   "type": "beast",
   "name": "雷鲸兽",
   "aliases": [
-    "雷鲸"
+    "雷鲸",
+    "雷鲸妖兽"
   ],
   "summary": "珍稀七级妖兽，其妖丹蓝灿如珠；范姓修士与孙道友追杀三天三夜方得手。",
   "attributes": {
     "等级": "七级、六级",
-    "栖息地": "五龙海"
+    "栖息地": "五龙海",
+    "能力": "体内孕吸雷石"
   },
   "observations": {
     "等级": [
@@ -28,10 +30,22 @@
         "value": "五龙海",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "海域",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
+      }
+    ],
+    "能力": [
+      {
+        "value": "体内孕吸雷石",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
-  "firstSeq": 1249,
+  "firstSeq": 487,
   "attrProvenance": {
     "等级": {
       "asOf": null,
@@ -44,12 +58,19 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+      "dated": false,
+      "seq": 487
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-16T09:47:06.203Z"
+  "updatedAt": "2026-06-17T05:46:11.569Z"
 }

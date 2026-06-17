@@ -3,12 +3,13 @@
   "type": "formation",
   "name": "天罡罩",
   "aliases": [
-    "白色光罩"
+    "白色光罩",
+    "上古天罡罩"
   ],
   "summary": "上古名禁，护罩寒骊台；内蕴蓝光、边缘结冰霜，除台阶处特辟出口外别处短时间无法通过。",
   "attributes": {
-    "效果": "护台禁制、唯台阶可进出",
-    "出处": "上古"
+    "效果": "护台禁制、唯台阶可进出、隔绝神识感应，外人无法察觉内部异常",
+    "出处": "上古时期"
   },
   "observations": {
     "效果": [
@@ -21,6 +22,11 @@
         "value": "唯台阶可进出",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "隔绝神识感应，外人无法察觉内部异常",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "出处": [
@@ -28,6 +34,11 @@
         "value": "上古",
         "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
         "seq": 475
+      },
+      {
+        "value": "上古时期",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -41,15 +52,16 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 475
+      "seq": 487
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch474-xutiandian-inner-hall-layer2"
+    "plot.fanren-ch474-xutiandian-inner-hall-layer2",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-15T04:53:25.529Z"
+  "updatedAt": "2026-06-17T05:46:11.601Z"
 }

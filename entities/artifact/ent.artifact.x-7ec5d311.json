@@ -12,11 +12,12 @@
     "古宝披风",
     "血红披风",
     "赤红披风",
-    "赤红色披风"
+    "赤红色披风",
+    "血红色披风"
   ],
   "summary": "韩立所取另一件古宝，残次顶阶；披身可获极快速度却无法控制方向，灵力消耗巨大，宜作亡命逃生。",
   "attributes": {
-    "品阶": "残次顶阶古宝",
+    "品阶": "古宝",
     "持有者": "韩立",
     "能力": "极速飞行（化血光）",
     "外形": "赤红披风",
@@ -29,6 +30,11 @@
         "value": "残次顶阶古宝",
         "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
         "seq": 469
+      },
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "持有者": [
@@ -73,6 +79,11 @@
         "value": "极速飞遁",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
         "seq": 493
+      },
+      {
+        "value": "脱困逃遁后手",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ],
     "外形": [
@@ -106,9 +117,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
-      "seq": 469
+      "seq": 487
     },
     "持有者": {
       "asOf": null,
@@ -151,7 +162,8 @@
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
-    "plot.fanren-ch493-huazhou-zhimi"
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-15T01:52:53.228Z"
+  "updatedAt": "2026-06-17T05:46:11.633Z"
 }

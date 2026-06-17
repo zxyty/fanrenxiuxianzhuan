@@ -5,12 +5,13 @@
   "aliases": [
     "鸣魂",
     "珠子",
-    "灰黑色圆珠"
+    "灰黑色圆珠",
+    "灰黑色珠子"
   ],
   "summary": "灰黑色珠子，控制啼魂兽之物，需以炼化法宝之法炼化、抹除原主神识方能真正驯兽。",
   "attributes": {
     "类型": "灵珠",
-    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)"
+    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)、控制啼魂兽"
   },
   "observations": {
     "类型": [
@@ -55,6 +56,11 @@
         "value": "示警(发热)",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "控制啼魂兽",
+        "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
+        "seq": 487
       }
     ]
   },
@@ -85,7 +91,8 @@
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-775-780-border-war-end-yuanming-lamp",
     "plot.fanren-1323-xuantian-fruit",
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-16T16:33:50.662Z"
+  "updatedAt": "2026-06-17T05:46:11.637Z"
 }
