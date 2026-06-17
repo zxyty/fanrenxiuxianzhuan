@@ -2,12 +2,15 @@
   "id": "ent.person.x-c3bbb20d",
   "type": "person",
   "name": "言姓修士",
-  "aliases": [],
+  "aliases": [
+    "姓言的"
+  ],
   "summary": "筑基初期，尖耳猴腮，与慕姓女子有家族安排的婚约，对韩立心生怨毒。",
   "attributes": {
     "性别": "男",
     "小阶段": "筑基初期",
-    "外貌": "尖耳猴腮、三十余岁"
+    "外貌": "尖耳猴腮、三十余岁",
+    "性格": "贪婪阴寒、怨毒"
   },
   "observations": {
     "性别": [
@@ -28,6 +31,13 @@
       {
         "value": "尖耳猴腮、三十余岁",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      }
+    ],
+    "性格": [
+      {
+        "value": "贪婪阴寒、怨毒",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
       }
     ]
@@ -51,12 +61,19 @@
       "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
       "dated": false,
       "seq": 613
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
+      "dated": false,
+      "seq": 613
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui"
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-14T19:55:43.885Z"
+  "updatedAt": "2026-06-17T08:06:19.641Z"
 }

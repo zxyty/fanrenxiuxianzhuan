@@ -17,13 +17,15 @@
     "四瞳妖狐之灵",
     "化银狼",
     "小婢",
-    "银色狼首"
+    "银色狼首",
+    "银月姑娘",
+    "银月道友"
   ],
   "summary": "银月狼族妖灵，本为玉如意器灵，以灵魂吞噬夺舍四瞳灵狐躯体后自愿转为韩立青竹蜂云剑器灵。",
   "attributes": {
     "种族": "银月狼族、器灵、银狼族、妖狐、白狐、银月狼族妖灵、银月天狼/银月狼族、银月狼妖",
-    "能力": "灵魂吞噬、幻化变形、高明幻术、化形、幻术、隐匿、精通遁术、口喷粉红香雾迷昏敌人、遁术神妙、可掩身形、粉红香雾迷魂、天赋遁术、妖狐化形、加持法宝（器灵）、眩光（紫光眩晕）、土遁术、化形冒充韩立、器灵不灭之身、化形成韩立、恢复部分记忆、通晓三大真灵之火等知识、明清灵目神通透视、自主施法、喷银团自爆、夺舍",
-    "外形": "银色巨狼、白狐、少妇、雪白皮毛、乌黑眼珠的白狐、妙龄女子、小狐、雪白小狐、白色小狐、白衫妩媚少妇、丈余银色巨狼、身高丈许的银色巨狼（红黄二狼合体）",
+    "能力": "灵魂吞噬、幻化变形、高明幻术、化形、幻术、隐匿、精通遁术、口喷粉红香雾迷昏敌人、遁术神妙、可掩身形、粉红香雾迷魂、天赋遁术、妖狐化形、加持法宝（器灵）、眩光（紫光眩晕）、土遁术、化形冒充韩立、器灵不灭之身、化形成韩立、恢复部分记忆、通晓三大真灵之火等知识、明清灵目神通透视、自主施法、喷银团自爆、夺舍、灵魂吞噬/夺舍、化人形密术（暂提修为至七八级妖兽）、可暂封身入灵兽袋",
+    "外形": "银色巨狼、白狐、少妇、雪白皮毛、乌黑眼珠的白狐、妙龄女子、小狐、雪白小狐、白色小狐、白衫妩媚少妇、丈余银色巨狼、身高丈许的银色巨狼（红黄二狼合体）、优雅温雅的少妇人形（黑瞳）",
     "主人": "韩立",
     "天敌": "妖气无法瞒过元婴期修士"
   },
@@ -180,6 +182,21 @@
         "value": "夺舍",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "灵魂吞噬/夺舍",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      },
+      {
+        "value": "化人形密术（暂提修为至七八级妖兽）",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      },
+      {
+        "value": "可暂封身入灵兽袋",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "外形": [
@@ -191,7 +208,8 @@
       {
         "value": "白狐",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-        "seq": 613
+        "seq": 613,
+        "note": "附身白狐躯体期间"
       },
       {
         "value": "少妇",
@@ -222,7 +240,7 @@
       {
         "value": "白色小狐",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
-        "seq": 703
+        "seq": 613
       },
       {
         "value": "白衫妩媚少妇",
@@ -239,6 +257,11 @@
         "value": "身高丈许的银色巨狼（红黄二狼合体）",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "优雅温雅的少妇人形（黑瞳）",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "主人": [
@@ -341,7 +364,8 @@
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-ch485-yuanying-xian",
-    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-17T07:58:36.465Z"
+  "updatedAt": "2026-06-17T08:06:19.637Z"
 }

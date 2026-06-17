@@ -2,11 +2,15 @@
   "id": "ent.spell.x-c80095c5",
   "type": "spell",
   "name": "灵魂吞噬",
-  "aliases": [],
+  "aliases": [
+    "银月狼族灵魂吞噬"
+  ],
   "summary": "银月狼族天赋，元神出窍攻击吞噬他人元神魂魄并暂居其躯，限制苛刻、为双刃剑。",
   "attributes": {
-    "类型": "灵魂类神通",
-    "出处": "银月狼族"
+    "类型": "元神攻击/夺舍类天赋、灵魂类神通、天赋神通/夺舍类",
+    "出处": "银月狼族",
+    "消耗": "元神出窍，限制苛刻",
+    "威力": "可吞魂夺舍"
   },
   "observations": {
     "类型": [
@@ -19,6 +23,11 @@
         "value": "灵魂类神通",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "天赋神通/夺舍类",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "出处": [
@@ -27,19 +36,45 @@
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
         "seq": 613
       }
+    ],
+    "消耗": [
+      {
+        "value": "元神出窍，限制苛刻",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      }
+    ],
+    "威力": [
+      {
+        "value": "可吞魂夺舍",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      }
     ]
   },
   "firstSeq": 613,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
       "dated": false,
-      "seq": 1063
+      "seq": 613
     },
     "出处": {
       "asOf": null,
       "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "dated": false,
+      "seq": 613
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
+      "dated": false,
+      "seq": 613
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
       "seq": 613
     }
@@ -48,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-16T06:03:53.145Z"
+  "updatedAt": "2026-06-17T08:06:19.613Z"
 }

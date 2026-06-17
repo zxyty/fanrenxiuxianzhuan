@@ -2,11 +2,14 @@
   "id": "ent.item.x-adb7aaab",
   "type": "item",
   "name": "圣树",
-  "aliases": [],
+  "aliases": [
+    "云梦山圣树"
+  ],
   "summary": "云梦山三派共管灵物，定期流出醇液，醇液为配制明清灵水的关键材料。",
   "attributes": {
     "类型": "灵木/灵物",
-    "用途": "产醇液配明清灵水"
+    "用途": "产醇液配明清灵水、流淌醇液、配制明清灵水",
+    "产地": "云梦山"
   },
   "observations": {
     "类型": [
@@ -20,6 +23,18 @@
       {
         "value": "产醇液配明清灵水",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+        "seq": 613
+      },
+      {
+        "value": "流淌醇液、配制明清灵水",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      }
+    ],
+    "产地": [
+      {
+        "value": "云梦山",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
       "dated": false,
       "seq": 613
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
+      "dated": false,
+      "seq": 613
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui"
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-14T19:55:43.834Z"
+  "updatedAt": "2026-06-17T08:06:19.648Z"
 }

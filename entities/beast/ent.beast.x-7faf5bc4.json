@@ -7,14 +7,15 @@
     "黑衣少妇（幻化）",
     "天地灵尸",
     "通灵行尸",
-    "凶灵尸魈"
+    "凶灵尸魈",
+    "绿毛尸魈"
   ],
   "summary": "上古蛮荒时期凶名赫赫的特殊僵尸类凶灵，半人半尸半鬼，被金符玉盒封印禁锢于青金石石室。",
   "attributes": {
     "种族": "天地灵尸",
-    "能力": "金铁难伤、幻化人形、剧毒绿雾、利爪伸缩如蟒、保有生前功法记忆、拘魂以尸火折磨、尸毒、尸火、妖狐化形（曾控银月之形）、喷绿色剧毒烟雾、利爪如蟒蛇伸缩",
+    "能力": "金铁难伤、幻化人形、剧毒绿雾、利爪伸缩如蟒、保有生前功法记忆、拘魂以尸火折磨、尸毒、尸火、妖狐化形（曾控银月之形）、喷绿色剧毒烟雾、利爪如蟒蛇伸缩、尸毒（虽未列天下十绝毒）",
     "外形": "浑身粗硬绿毛、骷髅獠牙、独臂利爪、尸臭、绿毛巨怪、全身绿毛、独臂、独臂、浑身粗硬绿毛、骷髅般死灰面容、巨大獠牙、尸臭",
-    "栖息地": "云梦山山腹、沼泽山腹石屋",
+    "栖息地": "云梦山山腹、沼泽山腹石屋、云梦山沼泽石室",
     "天敌": "真火炼化、抽魂术封印、克它的金符"
   },
   "observations": {
@@ -85,6 +86,11 @@
         "value": "利爪如蟒蛇伸缩",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "尸毒（虽未列天下十绝毒）",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "外形": [
@@ -120,6 +126,11 @@
         "value": "沼泽山腹石屋",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "云梦山沼泽石室",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "天敌": [
@@ -163,9 +174,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
-      "seq": 787
+      "seq": 613
     },
     "天敌": {
       "asOf": null,
@@ -180,7 +191,8 @@
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
-    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-17T07:58:36.462Z"
+  "updatedAt": "2026-06-17T08:06:19.610Z"
 }

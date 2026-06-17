@@ -8,7 +8,7 @@
   "summary": "慕沛灵留给韩立的低阶冰系功法，威力极弱，优点是修炼容易、瓶颈易破。",
   "attributes": {
     "品阶": "低阶",
-    "效果": "修炼容易、瓶颈易突破",
+    "效果": "小成后施展水属性法术、筑基后可转主修",
     "出处": "慕师叔所授",
     "五行属性": "冰",
     "适用境界": "炼气/筑基"
@@ -26,6 +26,11 @@
         "value": "修炼容易、瓶颈易突破",
         "docId": "plot.fanren-ch560-guishu",
         "seq": 601
+      },
+      {
+        "value": "小成后施展水属性法术、筑基后可转主修",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "出处": [
@@ -38,6 +43,11 @@
         "value": "慕师叔所授",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "慕沛灵所授",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "五行属性": [
@@ -75,9 +85,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-ch560-guishu",
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
-      "seq": 601
+      "seq": 613
     },
     "出处": {
       "asOf": null,
@@ -104,7 +114,8 @@
     "plot.fanren-ch560-guishu",
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-17T07:51:04.377Z"
+  "updatedAt": "2026-06-17T08:06:19.653Z"
 }

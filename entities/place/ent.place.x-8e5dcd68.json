@@ -20,7 +20,7 @@
     "类型": "灵气圣脉、山脉、山脉/区域、灵山、山脉/门派据点、灵山圣脉",
     "特产": "灵眼之树/醇液、灵眼之树、醇液",
     "守护": "灵眼之树圣地禁制",
-    "所属势力": "天道盟、落云宗、云梦山三宗"
+    "所属势力": "天道盟、落云宗、云梦山三宗、古剑门、百巧院"
   },
   "observations": {
     "所属界面": [
@@ -110,12 +110,22 @@
       {
         "value": "落云宗",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-        "seq": 631
+        "seq": 613
       },
       {
         "value": "云梦山三宗",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
         "seq": 1165
+      },
+      {
+        "value": "古剑门",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      },
+      {
+        "value": "百巧院",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ]
   },
@@ -149,7 +159,7 @@
       "asOf": null,
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
-      "seq": 631
+      "seq": 613
     }
   },
   "contested": false,
@@ -174,7 +184,8 @@
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-ch595-600-join-luoyunzong"
+    "plot.fanren-ch595-600-join-luoyunzong",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-17T07:43:47.994Z"
+  "updatedAt": "2026-06-17T08:06:19.646Z"
 }

@@ -9,12 +9,12 @@
   ],
   "summary": "陈巧倩的师兄、黄枫谷修士，以三道绿芒助韩立夹击青纹。",
   "attributes": {
-    "阵营": "黄枫谷",
+    "阵营": "落云宗",
     "存殁": "死亡",
     "死因": "被黑煞教主（蓝袍人）抽心，因私拿青色珠子（五行血凝丹）",
     "性别": "男",
     "小阶段": "炼气期十一层",
-    "身份": "隐剑峰弟子",
+    "身份": "落云宗外事弟子、隐剑峰弟子、落云宗弟子、落云宗隐剑峰外事弟子",
     "外貌": "白衣飘飘、相貌儒雅、三十五六",
     "性格": "沉稳、气宇不凡"
   },
@@ -24,6 +24,11 @@
         "value": "黄枫谷",
         "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
         "seq": 313
+      },
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "存殁": [
@@ -64,6 +69,16 @@
         "value": "隐剑峰弟子",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "落云宗弟子",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
+      },
+      {
+        "value": "落云宗隐剑峰外事弟子",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "外貌": [
@@ -85,9 +100,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
-      "seq": 313
+      "seq": 613
     },
     "存殁": {
       "asOf": null,
@@ -115,9 +130,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+      "docId": "plot.fanren-ch560-guishu",
       "dated": false,
-      "seq": 607
+      "seq": 601
     },
     "外貌": {
       "asOf": null,
@@ -139,7 +154,8 @@
     "plot.fanren-c320-c325-heisha-jiao-poji-zhanyao",
     "plot.fanren-ch560-guishu",
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
-    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui"
+    "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-14T19:55:43.903Z"
+  "updatedAt": "2026-06-17T08:06:19.642Z"
 }

@@ -3,13 +3,14 @@
   "type": "material",
   "name": "醇液",
   "aliases": [
-    "灵树醇液"
+    "灵树醇液",
+    "圣树醇液"
   ],
   "summary": "灵眼之树每两百年流出的灵液，不可直服，是炼制定灵丹等灵药的绝佳原料/药引。",
   "attributes": {
     "类型": "灵液",
-    "用途": "炼药药引、配制明清灵水、浇灌玄天仙藤、炼药原料、定灵丹药引",
-    "产地": "灵眼之树",
+    "用途": "炼药药引、配制明清灵水、浇灌玄天仙藤、炼药原料、定灵丹药引、瓜分灵液、配制明清灵水",
+    "产地": "圣树",
     "稀有度": "极稀有"
   },
   "observations": {
@@ -40,6 +41,11 @@
         "value": "炼药原料、定灵丹药引",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "瓜分灵液、配制明清灵水",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "产地": [
@@ -47,6 +53,11 @@
         "value": "灵眼之树",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "圣树",
+        "docId": "plot.fanren-613-yinyue-becomes-qiling",
+        "seq": 613
       }
     ],
     "稀有度": [
@@ -73,9 +84,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
-      "seq": 595
+      "seq": 613
     },
     "稀有度": {
       "asOf": null,
@@ -90,7 +101,8 @@
     "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-ch595-600-join-luoyunzong"
+    "plot.fanren-ch595-600-join-luoyunzong",
+    "plot.fanren-613-yinyue-becomes-qiling"
   ],
-  "updatedAt": "2026-06-17T07:43:47.974Z"
+  "updatedAt": "2026-06-17T08:06:19.649Z"
 }
