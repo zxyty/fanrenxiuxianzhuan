@@ -466,3 +466,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T14:30:01.172Z** `ingest` plot.fanren-841-846-zhuimogu-lianshou-kangmo — 凡人修仙传 第841-846章｜坠魔谷·联手抗魔与古魔双头四臂 · kind=plot asOf=2026-06-17 entities=43 relations=60 src=00841-00846.md
 - **2026-06-17T14:37:43.397Z** `ingest` plot.fanren-847-852-mojian-zaixian — 凡人修仙传 第847-852章｜魔剑再现·黑刃·魔威肆虐 · kind=plot asOf=2026-06-17 entities=28 relations=28 src=00847-00852.md
 - **2026-06-17T14:50:26.496Z** `ingest` plot.fanren-ch853-858-jiangyun-dan-tuoshen — 凡人修仙传 第853-858章｜绛云丹、雪魄丸与滞留脱身 · kind=plot asOf=2026-06-17 entities=51 relations=56 src=00853-00858.md
+- **2026-06-17T14:57:33.286Z** `ingest` plot.fanren-ch859-864-feed-pill-confession-invitation — 凡人修仙传 第859-864章：喂丹养魂、坦言慕沛灵、百巧院请函 · kind=plot asOf=2026-06-17 entities=0 relations=0 src=00859-00864.md
