@@ -1,32 +1,24 @@
 {
-  "id": "ent.material.x-5c468b7e",
+  "id": "ent.material.x-7db7eb61",
   "type": "material",
-  "name": "赤火蛟鳞片",
+  "name": "菀梦果",
   "aliases": [],
-  "summary": "炼制三焰扇所需稀料，可遇不可求，赴大晋或可解决。",
+  "summary": "药园残骸所见上古灵药，万年以上药性方现其色。",
   "attributes": {
-    "用途": "炼制三焰扇",
-    "类型": "炼器灵料",
-    "稀有度": "可遇不可求"
+    "用途": "上古丹方原料",
+    "稀有度": "外界已灭绝/极稀"
   },
   "observations": {
     "用途": [
       {
-        "value": "炼制三焰扇",
-        "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
-        "seq": 853
-      }
-    ],
-    "类型": [
-      {
-        "value": "炼器灵料",
+        "value": "上古丹方原料",
         "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ],
     "稀有度": [
       {
-        "value": "可遇不可求",
+        "value": "外界已灭绝/极稀",
         "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
@@ -35,12 +27,6 @@
   "firstSeq": 853,
   "attrProvenance": {
     "用途": {
-      "asOf": null,
-      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
-      "dated": false,
-      "seq": 853
-    },
-    "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
       "dated": false,
@@ -56,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-17T14:50:26.255Z"
+  "updatedAt": "2026-06-17T14:50:25.985Z"
 }

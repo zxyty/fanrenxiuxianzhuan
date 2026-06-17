@@ -14,7 +14,8 @@
     "外貌": "白面无须老者",
     "称号": "灵麟山第一修士",
     "性别": "男",
-    "阵营": "黄家"
+    "阵营": "黄家、东裕国末流修仙家族",
+    "性格": "恭谨、圆滑"
   },
   "observations": {
     "小阶段": [
@@ -67,6 +68,23 @@
         "value": "黄家",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "东裕国末流修仙家族",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "性格": [
+      {
+        "value": "恭谨",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "圆滑",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ]
   },
@@ -107,12 +125,19 @@
       "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
       "dated": false,
       "seq": 853
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.597Z"
+  "updatedAt": "2026-06-17T14:50:26.195Z"
 }

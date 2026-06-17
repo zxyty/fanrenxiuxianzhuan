@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "风都国一山，逃出坠魔谷的上古妖魔在此被围杀，主峰被削成平地。",
   "attributes": {
-    "类型": "山岳",
-    "所属势力": "风都国"
+    "类型": "山岳、山峰/决战之地",
+    "所属势力": "风都国",
+    "所属界面": "人界天南"
   },
   "observations": {
     "类型": [
@@ -14,12 +15,24 @@
         "value": "山岳",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "山峰/决战之地",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "所属势力": [
       {
         "value": "风都国",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
       "dated": false,
       "seq": 853
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.592Z"
+  "updatedAt": "2026-06-17T14:50:26.076Z"
 }

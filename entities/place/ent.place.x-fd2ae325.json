@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "天南中立之国，夹处三大势力之间互不插手，宗门正魔混杂。",
   "attributes": {
-    "类型": "国家、国度、中立之国",
-    "所属界面": "人界"
+    "类型": "国家、国度、中立之国、国、凡间国度/修仙地域",
+    "所属界面": "天南、人界、人界天南"
   },
   "observations": {
     "类型": [
@@ -24,6 +24,16 @@
         "value": "中立之国",
         "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
+      },
+      {
+        "value": "国",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "凡间国度/修仙地域",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "所属界面": [
@@ -35,6 +45,11 @@
       {
         "value": "人界",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ]
@@ -49,9 +64,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
       "dated": false,
-      "seq": 853
+      "seq": 793
     }
   },
   "contested": false,
@@ -59,7 +74,8 @@
   "docs": [
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
-    "plot.fanren-793-798-zhuimo-valley-hanli-return"
+    "plot.fanren-793-798-zhuimo-valley-hanli-return",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-17T13:15:57.719Z"
+  "updatedAt": "2026-06-17T14:50:26.075Z"
 }

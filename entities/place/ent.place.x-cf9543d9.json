@@ -15,10 +15,10 @@
   ],
   "summary": "位于灵界与人界交界处的空间，坠魔谷专为看守它而建。",
   "attributes": {
-    "类型": "交界空间秘境、秘境/园林、秘境、传说灵药秘地、上古药园(独立空间)、上古药园残骸/独立空间、交界空间、中间界空间、上古灵药秘境、上古药园空间",
+    "类型": "交界空间秘境、秘境/园林、秘境、传说灵药秘地、上古药园(独立空间)、上古药园残骸/独立空间、交界空间、中间界空间、上古灵药秘境、上古药园空间、上古药园空间残骸",
     "所属界面": "坠魔谷、介于灵界与人界之间、坠魔谷内谷一带、天南",
     "特产": "天地灵药、灵草、灵药、紫色浆果灵草、万年以上上古灵药",
-    "守护": "银色火焰禁制",
+    "守护": "银色火焰禁制(银焰)、银色火焰禁制、坠魔谷、银色火焰禁制(针对古魔)",
     "危险度": "高（空间趋于泯灭）"
   },
   "observations": {
@@ -72,6 +72,11 @@
         "value": "上古药园空间",
         "docId": "plot.fanren-847-852-mojian-zaixian",
         "seq": 847
+      },
+      {
+        "value": "上古药园空间残骸",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "所属界面": [
@@ -140,6 +145,11 @@
         "value": "坠魔谷",
         "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
+      },
+      {
+        "value": "银色火焰禁制(针对古魔)",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "危险度": [
@@ -177,10 +187,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
       "dated": false,
-      "seq": 853,
-      "note": "只击杀古魔，对人类修士无碍"
+      "seq": 817
     },
     "危险度": {
       "asOf": null,
@@ -202,7 +211,8 @@
     "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
     "plot.fanren-ch829-834-modong-tunying-yishou",
     "plot.fanren-835-840-mozu-jietihuaxing",
-    "plot.fanren-847-852-mojian-zaixian"
+    "plot.fanren-847-852-mojian-zaixian",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-17T14:37:43.154Z"
+  "updatedAt": "2026-06-17T14:50:26.048Z"
 }

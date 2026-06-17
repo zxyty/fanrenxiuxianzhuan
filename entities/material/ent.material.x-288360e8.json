@@ -10,7 +10,8 @@
   "attributes": {
     "用途": "炼器材料",
     "产地": "昊阳鸟",
-    "类型": "灵禽羽翎"
+    "类型": "灵禽羽翎",
+    "稀有度": "可遇不可求"
   },
   "observations": {
     "用途": [
@@ -42,6 +43,18 @@
         "value": "灵禽羽翎",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "炼器灵料",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "可遇不可求",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ]
   },
@@ -64,6 +77,12 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
@@ -71,7 +90,8 @@
   "docs": [
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-ch925-dajin-huangzu",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-16T01:29:15.220Z"
+  "updatedAt": "2026-06-17T14:50:26.253Z"
 }

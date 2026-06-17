@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "正道联盟所在之国，对天罗国魔道六宗虎视眈眈。",
   "attributes": {
-    "类型": "国度",
-    "所属势力": "正道盟"
+    "类型": "凡间国度/修仙地域",
+    "所属势力": "正道盟",
+    "所属界面": "人界天南"
   },
   "observations": {
     "类型": [
@@ -19,6 +20,11 @@
         "value": "国度",
         "docId": "plot.fanren-ch254-yanjia-laozu",
         "seq": 253
+      },
+      {
+        "value": "凡间国度/修仙地域",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "所属势力": [
@@ -27,21 +33,34 @@
         "docId": "plot.fanren-ch254-yanjia-laozu",
         "seq": 253
       }
+    ],
+    "所属界面": [
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      }
     ]
   },
   "firstSeq": 247,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
       "dated": false,
-      "seq": 253
+      "seq": 853
     },
     "所属势力": {
       "asOf": null,
       "docId": "plot.fanren-ch254-yanjia-laozu",
       "dated": false,
       "seq": 253
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
@@ -50,7 +69,8 @@
     "plot.fanren-247-252-yanlingbao-zhengfeng",
     "plot.fanren-ch254-yanjia-laozu",
     "plot.fanren-356-huofu-xiangyi",
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.590Z"
+  "updatedAt": "2026-06-17T14:50:26.077Z"
 }

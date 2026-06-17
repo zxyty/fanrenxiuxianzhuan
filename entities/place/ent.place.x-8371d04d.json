@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "天南东裕国宁州西南的灵脉山岭，黄李王三家共居共守可洗髓易经的灵泉。",
   "attributes": {
-    "所属界面": "人界、人界·天南",
-    "所属势力": "黄、李、王三家",
+    "所属界面": "人界、人界·天南、人界天南",
+    "所属势力": "黄、李、王三家、黄李王三家",
     "特产": "可洗髓易经的灵泉、灵茶、灵泉之水",
-    "类型": "灵脉山岭、修仙家族据点"
+    "类型": "灵脉山岭、修仙家族据点、修仙家族聚居山峰"
   },
   "observations": {
     "所属界面": [
@@ -21,12 +21,22 @@
         "value": "人界·天南",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "人界天南",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "所属势力": [
       {
         "value": "黄、李、王三家",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "黄李王三家",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ],
@@ -56,6 +66,11 @@
       {
         "value": "修仙家族据点",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "修仙家族聚居山峰",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ]
@@ -90,7 +105,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.588Z"
+  "updatedAt": "2026-06-17T14:50:26.074Z"
 }

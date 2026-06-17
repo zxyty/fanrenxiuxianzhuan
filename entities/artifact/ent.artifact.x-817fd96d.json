@@ -4,13 +4,14 @@
   "name": "断金戈",
   "aliases": [
     "一对金戈",
-    "金灿灿短戈"
+    "金灿灿短戈",
+    "金戈"
   ],
   "summary": "一对上阶法器短戈，韩立赠予黄元明三人。",
   "attributes": {
     "品阶": "上阶法器",
     "外形": "一对金灿灿短戈",
-    "能力": "配合使用不逊顶阶法器"
+    "能力": "配合使用不逊顶阶法器、配合使用近顶阶法器"
   },
   "observations": {
     "品阶": [
@@ -31,6 +32,11 @@
       {
         "value": "配合使用不逊顶阶法器",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "配合使用近顶阶法器",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ]
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.603Z"
+  "updatedAt": "2026-06-17T14:50:26.259Z"
 }

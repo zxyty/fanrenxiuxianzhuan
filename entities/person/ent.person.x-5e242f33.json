@@ -7,8 +7,9 @@
   ],
   "summary": "天南三大修士之一，曾出手灭杀坠魔谷放出的上古妖魔之一。",
   "attributes": {
-    "称号": "大修士",
-    "阵营": "天南三大修士"
+    "称号": "大修士、前辈",
+    "阵营": "天南三大修士",
+    "身份": "天南三大修士之一"
   },
   "observations": {
     "称号": [
@@ -16,12 +17,24 @@
         "value": "大修士",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "前辈",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "阵营": [
       {
         "value": "天南三大修士",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      }
+    ],
+    "身份": [
+      {
+        "value": "天南三大修士之一",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
       "dated": false,
       "seq": 853
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.585Z"
+  "updatedAt": "2026-06-17T14:50:26.182Z"
 }

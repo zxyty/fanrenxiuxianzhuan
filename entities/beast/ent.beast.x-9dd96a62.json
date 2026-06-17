@@ -5,12 +5,13 @@
   "aliases": [
     "天南魔影",
     "逃出坠魔谷的妖魔",
-    "吞噬元婴的上古妖魔"
+    "吞噬元婴的上古妖魔",
+    "逃魔"
   ],
   "summary": "坠魔谷内谷被鬼灵门无意放出的两只吞噬元婴的上古妖魔之一，逃出后血洗天南，终在落魂山被围杀。",
   "attributes": {
-    "种族": "上古妖魔",
-    "能力": "吞噬元婴元气、长时间滞留人界",
+    "种族": "上古妖魔、上古异界妖魔",
+    "能力": "吞噬元婴元气、长时间滞留人界、吞噬元婴",
     "等级": "几近化神期",
     "栖息地": "坠魔谷内谷"
   },
@@ -19,6 +20,11 @@
       {
         "value": "上古妖魔",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "上古异界妖魔",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ],
@@ -31,6 +37,11 @@
       {
         "value": "长时间滞留人界",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "吞噬元婴",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
       }
     ],
@@ -81,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-15T14:26:36.585Z"
+  "updatedAt": "2026-06-17T14:50:26.103Z"
 }

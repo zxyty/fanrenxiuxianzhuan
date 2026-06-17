@@ -15,11 +15,12 @@
   "summary": "天南所称的『魔器』，血红小剑内含黑气，可虚空一斩几乎无物可挡，使用耗精血且会魔气反噬。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "虚空一斩、几乎无物可挡、血色剑芒、魔化驱使者、破坏力极大、煞气极重，多用致邪气缠身、虚空一斩、禁锢对手、吸取灵气、威力极大、魔气反噬、斩断黑矛、邪气冲天",
+    "能力": "虚空一斩、几乎无物可挡、血色剑芒、魔化驱使者、破坏力极大、煞气极重，多用致邪气缠身、虚空一斩、禁锢对手、吸取灵气、威力极大、魔气反噬、斩断黑矛、邪气冲天、破坏力最强、强大但增煞气",
     "禁制": "无法炼化认主、用后魔气反噬、魔气反噬、动用贪噬真元，后患不小、可收入体内但无法炼化认主，谁得皆可用、可被金弧（辟邪神雷）克制、人类驱使有魔化之险",
     "外形": "血红晶莹小剑、内有黑气游走、血红小剑、数寸血红晶莹小剑，内有一丝黑气游走、血光闪动、血色长剑，血芒可涨十余丈、血色小剑、数寸至尺许血红晶莹、内有黑气游走",
     "品阶": "逆天魔器、圣器、圣界圣器、魔器",
-    "来历": "原为掩月宗大长老所有、得自白衣女子（上古魔界/圣界遗留）、得自白衣女子；魔魂称为圣界遗留圣器、圣界/魔界圣器"
+    "来历": "原为掩月宗大长老所有、得自白衣女子（上古魔界/圣界遗留）、得自白衣女子；魔魂称为圣界遗留圣器、圣界/魔界圣器",
+    "五行属性": "魔/煞"
   },
   "observations": {
     "持有者": [
@@ -75,6 +76,16 @@
         "value": "斩断黑矛、邪气冲天",
         "docId": "plot.fanren-847-852-mojian-zaixian",
         "seq": 847
+      },
+      {
+        "value": "破坏力最强",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      },
+      {
+        "value": "强大但增煞气",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
       }
     ],
     "禁制": [
@@ -190,6 +201,13 @@
         "docId": "plot.fanren-847-852-mojian-zaixian",
         "seq": 847
       }
+    ],
+    "五行属性": [
+      {
+        "value": "魔/煞",
+        "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+        "seq": 853
+      }
     ]
   },
   "firstSeq": 715,
@@ -230,6 +248,12 @@
       "dated": false,
       "seq": 715,
       "note": "本章转赠韩立"
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+      "dated": false,
+      "seq": 853
     }
   },
   "contested": false,
@@ -240,7 +264,8 @@
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-714-shipo-yu-fuji",
-    "plot.fanren-847-852-mojian-zaixian"
+    "plot.fanren-847-852-mojian-zaixian",
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
   ],
-  "updatedAt": "2026-06-17T14:37:43.159Z"
+  "updatedAt": "2026-06-17T14:50:26.237Z"
 }
