@@ -6,17 +6,20 @@
     "杜师兄",
     "大汉杜东",
     "杜师侄",
-    "巨汉(大罗千幻决所化)"
+    "巨汉(大罗千幻决所化)",
+    "杜东师侄"
   ],
   "summary": "憨厚外表的大汉，疑为二百年前灭族的杜家后人，持寒月轮，被白发蒋师伯收为重点培养符修，被怀疑别有图谋潜入落云宗。",
   "attributes": {
     "小阶段": "结丹中期",
-    "身份": "刚入门弟子",
-    "标志特征": "持寒月轮，精于制符",
+    "身份": "落云宗天泉峰弟子、魔道千幻宗嫡传弟子、刚入门弟子、天泉峰外事弟子、天泉峰弟子",
+    "标志特征": "持寒月轮，精于制符、身上带有诡异寒气异状、制符天分",
     "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)",
     "称号": "千幻宗少主",
     "性别": "男",
-    "外貌": "络腮胡子大汉、憨厚"
+    "外貌": "络腮胡子大汉、憨厚",
+    "性格": "貌似憨厚、心怀鬼胎",
+    "出身地": "杜家后人"
   },
   "observations": {
     "小阶段": [
@@ -55,6 +58,12 @@
         "value": "天泉峰外事弟子",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "天泉峰弟子",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619,
+        "note": "身份不明、疑似混入"
       }
     ],
     "标志特征": [
@@ -67,6 +76,11 @@
         "value": "身上带有诡异寒气异状",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "制符天分",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "阵营": [
@@ -112,6 +126,21 @@
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
       }
+    ],
+    "性格": [
+      {
+        "value": "貌似憨厚、心怀鬼胎",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "出身地": [
+      {
+        "value": "杜家后人",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619,
+        "note": "疑似/隐姓埋名"
+      }
     ]
   },
   "firstSeq": 601,
@@ -125,16 +154,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 631,
-      "note": "假扮潜入"
+      "seq": 601
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 619
+      "seq": 601
     },
     "阵营": {
       "asOf": null,
@@ -159,6 +187,19 @@
       "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
       "seq": 601
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619,
+      "note": "疑似/隐姓埋名"
     }
   },
   "contested": false,
@@ -167,7 +208,8 @@
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T07:51:04.361Z"
+  "updatedAt": "2026-06-17T08:14:39.736Z"
 }

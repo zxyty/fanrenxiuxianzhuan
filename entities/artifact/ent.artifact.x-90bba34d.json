@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "火浪珠",
   "aliases": [
-    "红色圆珠"
+    "红色圆珠",
+    "询家火浪珠"
   ],
   "summary": "溪国询家鼎鼎大名的火属性法器，鸡蛋大红珠，询通比试时使用。",
   "attributes": {
     "持有者": "询通",
     "五行属性": "火",
-    "来历": "询家"
+    "来历": "询家、溪国询家",
+    "能力": "释放火浪",
+    "外形": "鸡蛋大红色圆珠"
   },
   "observations": {
     "持有者": [
@@ -30,6 +33,25 @@
       {
         "value": "询家",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "溪国询家",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "能力": [
+      {
+        "value": "释放火浪",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "外形": [
+      {
+        "value": "鸡蛋大红色圆珠",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
       }
     ]
@@ -53,12 +75,25 @@
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
       "seq": 619
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.251Z"
+  "updatedAt": "2026-06-17T08:14:39.717Z"
 }

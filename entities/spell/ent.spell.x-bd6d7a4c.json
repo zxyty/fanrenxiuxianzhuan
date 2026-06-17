@@ -8,8 +8,9 @@
   "summary": "宋师祖所怀探测心神的神通，能让强如韩立者也有被窥视干净之感，被韩立以大衍决护住心神抵御。",
   "attributes": {
     "类型": "探测心神神通",
-    "出处": "宋师祖",
-    "适用境界": "结丹期"
+    "出处": "宋师祖、白凤峰宋师妹",
+    "适用境界": "结丹期",
+    "威力": "可窥探强大神识者的心神真伪"
   },
   "observations": {
     "类型": [
@@ -24,12 +25,24 @@
         "value": "宋师祖",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "白凤峰宋师妹",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "适用境界": [
       {
         "value": "结丹期",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "威力": [
+      {
+        "value": "可窥探强大神识者的心神真伪",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
       }
     ]
@@ -53,12 +66,19 @@
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
       "seq": 619
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.257Z"
+  "updatedAt": "2026-06-17T08:14:39.756Z"
 }

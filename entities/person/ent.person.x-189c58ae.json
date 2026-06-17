@@ -14,7 +14,8 @@
     "身份": "天泉峰峰主",
     "性别": "男",
     "外貌": "黑肤少年",
-    "性格": "老实"
+    "性格": "老实",
+    "阵营": "落云宗"
   },
   "observations": {
     "小阶段": [
@@ -56,6 +57,13 @@
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
       }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
     ]
   },
   "firstSeq": 601,
@@ -89,13 +97,20 @@
       "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
       "seq": 601
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T07:51:04.368Z"
+  "updatedAt": "2026-06-17T08:14:39.745Z"
 }

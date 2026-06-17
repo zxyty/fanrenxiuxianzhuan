@@ -5,13 +5,15 @@
   "aliases": [
     "俞姓青年",
     "英气青年",
-    "英挺青年"
+    "英挺青年",
+    "君儿",
+    "俞师兄"
   ],
   "summary": "落云宗筑基初期青年，英气勃勃，带领韩立等候选弟子入门。",
   "attributes": {
-    "小阶段": "筑基初期",
+    "小阶段": "筑基期",
     "性别": "男",
-    "身份": "落云宗弟子"
+    "身份": "天泉峰弟子"
   },
   "observations": {
     "小阶段": [
@@ -19,6 +21,11 @@
         "value": "筑基初期",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "筑基期",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "性别": [
@@ -33,6 +40,11 @@
         "value": "落云宗弟子",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "天泉峰弟子",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ]
   },
@@ -40,9 +52,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
-      "seq": 595
+      "seq": 619
     },
     "性别": {
       "asOf": null,
@@ -52,16 +64,17 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
-      "seq": 595
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-594-599-luoyunzong-rumen",
-    "plot.fanren-ch595-600-join-luoyunzong"
+    "plot.fanren-ch595-600-join-luoyunzong",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T07:43:47.997Z"
+  "updatedAt": "2026-06-17T08:14:39.702Z"
 }

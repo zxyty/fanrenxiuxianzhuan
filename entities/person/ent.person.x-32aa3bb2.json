@@ -11,7 +11,9 @@
     "小阶段": "炼气期十二层",
     "身份": "火云峰弟子",
     "标志特征": "天阳火脉",
-    "出身地": "溪国询家"
+    "出身地": "溪国询家",
+    "性别": "男",
+    "外貌": "相貌英俊挺拔"
   },
   "observations": {
     "小阶段": [
@@ -41,6 +43,20 @@
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "外貌": [
+      {
+        "value": "相貌英俊挺拔",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
     ]
   },
   "firstSeq": 619,
@@ -68,12 +84,25 @@
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
       "seq": 619
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.248Z"
+  "updatedAt": "2026-06-17T08:14:39.707Z"
 }

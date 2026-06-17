@@ -4,11 +4,12 @@
   "name": "天泉峰",
   "aliases": [
     "洗心殿",
-    "迎松居"
+    "迎松居",
+    "天泉峰一脉"
   ],
   "summary": "落云宗六奇峰之一，韩立与络腮胡子大汉被分至此为外事弟子。",
   "attributes": {
-    "所属势力": "落云宗",
+    "所属势力": "天泉峰",
     "类型": "大殿"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "落云宗",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "天泉峰",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "类型": [
@@ -41,9 +47,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
-      "seq": 595
+      "seq": 619
     },
     "类型": {
       "asOf": null,
@@ -61,7 +67,8 @@
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-ch595-600-join-luoyunzong",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T08:06:19.648Z"
+  "updatedAt": "2026-06-17T08:14:39.752Z"
 }

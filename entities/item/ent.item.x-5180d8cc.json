@@ -10,8 +10,8 @@
   ],
   "summary": "灰黑色珠子，控制啼魂兽之物，需以炼化法宝之法炼化、抹除原主神识方能真正驯兽。",
   "attributes": {
-    "类型": "灵珠",
-    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)、控制啼魂兽、与啼魂兽生死相关，炼化后可与神识相通"
+    "类型": "灵兽相系灵珠",
+    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)、控制啼魂兽、与啼魂兽生死相关，炼化后可与神识相通、感应、亲附啼魂兽"
   },
   "observations": {
     "类型": [
@@ -29,6 +29,11 @@
         "value": "灵珠",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "灵兽相系灵珠",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "用途": [
@@ -66,6 +71,11 @@
         "value": "与啼魂兽生死相关，炼化后可与神识相通",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "感应、亲附啼魂兽",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ]
   },
@@ -73,9 +83,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
-      "seq": 583
+      "seq": 619
     },
     "用途": {
       "asOf": null,
@@ -100,7 +110,8 @@
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-559-564-haiwai-cuoren-jietoulu",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T07:51:04.392Z"
+  "updatedAt": "2026-06-17T08:14:39.757Z"
 }

@@ -3,16 +3,17 @@
   "type": "artifact",
   "name": "寒月轮",
   "aliases": [
-    "轮状法器"
+    "轮状法器",
+    "不知名冰属性顶阶法器"
   ],
   "summary": "杜东所持冰属性顶阶法器，轮状直径尺许、雕弯月图案，可激发冰属性护罩并喷寒气大鸟化形攻击，疑为二百年前灭族的杜家镇族之宝。",
   "attributes": {
     "品阶": "顶阶法器",
     "持有者": "杜东",
-    "五行属性": "冰",
-    "能力": "冰属性护罩、寒气大鸟化形攻击",
-    "来历": "杜家镇族之宝",
-    "外形": "轮状·雕弯月"
+    "五行属性": "冰、冰/水",
+    "能力": "冰属性护罩、寒气大鸟化形攻击、瞬发冰属性护罩、喷出大鸟状寒气化形攻击、照面冻僵对手",
+    "来历": "杜家镇族之宝、二百年前灭族的杜家镇族之宝",
+    "外形": "轮状·雕弯月、轮状、直径尺许、雕弯月图案"
   },
   "observations": {
     "品阶": [
@@ -34,6 +35,11 @@
         "value": "冰",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "冰/水",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "能力": [
@@ -46,6 +52,21 @@
         "value": "寒气大鸟化形攻击",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "瞬发冰属性护罩",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      },
+      {
+        "value": "喷出大鸟状寒气化形攻击",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      },
+      {
+        "value": "照面冻僵对手",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "来历": [
@@ -53,12 +74,22 @@
         "value": "杜家镇族之宝",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "二百年前灭族的杜家镇族之宝",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "外形": [
       {
         "value": "轮状·雕弯月",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      },
+      {
+        "value": "轮状、直径尺许、雕弯月图案",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
       }
     ]
@@ -105,7 +136,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.249Z"
+  "updatedAt": "2026-06-17T08:14:39.755Z"
 }

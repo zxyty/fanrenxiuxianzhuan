@@ -426,3 +426,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T07:51:04.502Z** `ingest` plot.fanren-601-606-luoyunzong-yaoyuan-anzha — 凡人修仙传 第601-606章：韩立入落云宗天泉峰、药园安身与解除后患 · kind=plot asOf=2026-06-17 entities=28 relations=34 src=00601-00606.md
 - **2026-06-17T07:58:36.601Z** `ingest` plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu — 凡人修仙传 第607-612章｜追匿雪云狐·青金石室黑衣少妇与灵眼之玉 · kind=plot asOf=2026-06-17 entities=23 relations=25 src=00607-00612.md
 - **2026-06-17T08:06:19.756Z** `ingest` plot.fanren-613-yinyue-becomes-qiling — 凡人修仙传 第613-618章｜银月狼族现世，自请为韩立器灵 · kind=plot asOf=2026-06-17 entities=31 relations=37 src=00613-00618.md
+- **2026-06-17T08:14:39.867Z** `ingest` plot.fanren-ch619-624-luoyunzong-shijian-neixuan — 凡人修仙传 第619-624章｜落云宗试剑大会宗内选拔（杜东觐见·牛刀杀鸡） · kind=plot asOf=2026-06-17 entities=44 relations=56 src=00619-00624.md

@@ -10,7 +10,7 @@
   "summary": "以炼器闻名、藏顶尖法宝炼制法、由五大家族把持、占云梦山西部。",
   "attributes": {
     "阵营": "天道盟",
-    "据点": "云梦山脉",
+    "据点": "云梦山西脉、云梦山脉、依山壁而建、地底有地肺火池、云梦山、云梦山西部、云梦山西部山谷",
     "理念": "炼器",
     "镇派之宝": "乾坤塔"
   },
@@ -47,6 +47,11 @@
         "value": "云梦山西部",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "云梦山西部山谷",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "理念": [
@@ -79,9 +84,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
-      "seq": 1165
+      "seq": 595
     },
     "理念": {
       "asOf": null,
@@ -108,7 +113,8 @@
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-ch595-600-join-luoyunzong",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T08:06:19.645Z"
+  "updatedAt": "2026-06-17T08:14:39.749Z"
 }

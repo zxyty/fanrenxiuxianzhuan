@@ -24,11 +24,11 @@
   ],
   "summary": "落云宗女修，药园名义管辖者，留下玄冰决与培育心得交韩立打理，对其不冷不热。",
   "attributes": {
-    "身份": "落云宗修士、天泉峰长辈、天泉峰筑基期弟子/指点者、落云宗天泉峰弟子、韩立侍妾、韩立侍女/随从、韩立侍女、韩立侍妾/记名弟子、落云宗弟子、韩立名义侍妾、天泉峰内门弟子（韩立的带管师叔）、落云宗天泉峰修士",
-    "阵营": "落云宗",
+    "身份": "落云宗修士、天泉峰长辈、天泉峰筑基期弟子/指点者、落云宗天泉峰弟子、韩立侍妾、韩立侍女/随从、韩立侍女、韩立侍妾/记名弟子、落云宗弟子、韩立名义侍妾、天泉峰内门弟子（韩立的带管师叔）、落云宗天泉峰修士、天泉峰弟子",
+    "阵营": "落云宗天泉峰",
     "性别": "女",
     "小阶段": "结丹后期",
-    "外貌": "婀娜貌美",
+    "外貌": "面容若桃花、冷似冰霜、艳冷貌美、艳冷、艳冷美貌、冷艳貌美、婀娜貌美、脸如白玉、相貌俊秀、二十七八岁、冷艳无表情、冷艳、艳冷女子",
     "称号": "慕师叔",
     "出身地": "落云宗",
     "性格": "聪慧乖巧",
@@ -97,6 +97,11 @@
         "value": "落云宗天泉峰修士",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "天泉峰弟子",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "阵营": [
@@ -104,6 +109,11 @@
         "value": "落云宗",
         "docId": "plot.fanren-ch560-guishu",
         "seq": 601
+      },
+      {
+        "value": "落云宗天泉峰",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "性别": [
@@ -127,7 +137,7 @@
       {
         "value": "筑基期",
         "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
-        "seq": 637
+        "seq": 619
       },
       {
         "value": "筑基(遇结丹瓶颈)",
@@ -205,6 +215,16 @@
         "value": "脸如白玉、相貌俊秀、二十七八岁、冷艳无表情",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "冷艳",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      },
+      {
+        "value": "艳冷女子",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "称号": [
@@ -289,9 +309,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch560-guishu",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
-      "seq": 601
+      "seq": 619
     },
     "性别": {
       "asOf": null,
@@ -307,9 +327,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 787
+      "seq": 601
     },
     "称号": {
       "asOf": null,
@@ -374,7 +394,8 @@
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T08:06:19.640Z"
+  "updatedAt": "2026-06-17T08:14:39.745Z"
 }

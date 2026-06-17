@@ -4,14 +4,17 @@
   "name": "宋师祖",
   "aliases": [
     "宋师妹",
-    "白凤峰宋师祖"
+    "白凤峰宋师祖",
+    "白凤峰宋师妹"
   ],
   "summary": "白凤峰女峰主，结丹初期，号称落云宗第一美女，怀通明灵犀探心神通，在朝凤阁指点韩立三天。",
   "attributes": {
     "小阶段": "结丹初期",
     "身份": "白凤峰峰主",
     "性别": "女",
-    "称号": "落云宗第一美女"
+    "称号": "落云宗第一美女",
+    "外貌": "看似二十五六的绝色蓝衣女子",
+    "阵营": "落云宗白凤峰"
   },
   "observations": {
     "小阶段": [
@@ -41,6 +44,20 @@
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
       }
+    ],
+    "外貌": [
+      {
+        "value": "看似二十五六的绝色蓝衣女子",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗白凤峰",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
     ]
   },
   "firstSeq": 619,
@@ -68,12 +85,25 @@
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
       "seq": 619
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.240Z"
+  "updatedAt": "2026-06-17T08:14:39.738Z"
 }

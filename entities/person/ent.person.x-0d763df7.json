@@ -8,8 +8,10 @@
   ],
   "summary": "火云峰峰主，相貌端正四方脸的红衫老者，揽下本届试剑大会带队之责。",
   "attributes": {
-    "身份": "火云峰峰主",
-    "性别": "男"
+    "身份": "火云峰峰主、火云峰之主",
+    "性别": "男",
+    "外貌": "四方脸相貌端正的红衫老者",
+    "阵营": "落云宗"
   },
   "observations": {
     "身份": [
@@ -17,12 +19,31 @@
         "value": "火云峰峰主",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "火云峰之主",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+        "seq": 619
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四方脸相貌端正的红衫老者",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
       }
     ]
@@ -40,12 +61,25 @@
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
       "seq": 619
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T19:58:38.247Z"
+  "updatedAt": "2026-06-17T08:14:39.742Z"
 }

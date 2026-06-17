@@ -9,7 +9,7 @@
   "summary": "天泉峰副峰主，结丹初期，面目狰狞、平素不管事，本届协助段师弟带队。",
   "attributes": {
     "小阶段": "结丹初期",
-    "身份": "天泉峰副峰主",
+    "身份": "天泉峰副峰主、天泉峰峰主之一",
     "性别": "男",
     "阵营": "落云宗",
     "外貌": "灰衣老者"
@@ -27,6 +27,11 @@
         "value": "天泉峰副峰主",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "天泉峰峰主之一",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "性别": [
@@ -40,7 +45,7 @@
       {
         "value": "落云宗",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-        "seq": 625
+        "seq": 619
       }
     ],
     "外貌": [
@@ -48,6 +53,11 @@
         "value": "灰衣老者",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "面目狰狞的灰衣老者",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ]
   },
@@ -75,7 +85,7 @@
       "asOf": null,
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
-      "seq": 625
+      "seq": 619
     },
     "外貌": {
       "asOf": null,
@@ -88,7 +98,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-14T20:12:07.600Z"
+  "updatedAt": "2026-06-17T08:14:39.743Z"
 }

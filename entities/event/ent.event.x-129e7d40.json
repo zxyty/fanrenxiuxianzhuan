@@ -4,16 +4,19 @@
   "name": "试剑大会",
   "aliases": [
     "宗内选拔比试",
-    "试剑大会引蛇出洞"
+    "试剑大会引蛇出洞",
+    "试剑大会宗内选拔",
+    "云梦山三派试剑大会"
   ],
   "summary": "云梦山三派为按圣树流醇液之期瓜分灵液而办的新进弟子比试，胜出宗门独取醇液一半。",
   "attributes": {
     "地点": "溪国",
     "参与方": "落云宗、古剑门、百巧院、云梦宗、天道盟三派、天煞宗、千幻宗",
-    "起因": "瓜分圣树醇液",
-    "章节": "618-622",
-    "结果": "三派引蛇出洞之计惨败,醇液被夺回但无效",
-    "影响": "三方提高戒备,百余年平静气氛重新紧张"
+    "起因": "三派联合比试、分配四分之一醇液并维持和睦",
+    "章节": "618-622、第615-617章、第618-620章",
+    "结果": "落云宗内选出三筑基期、二十一炼气期共二十四人、三派引蛇出洞之计惨败,醇液被夺回但无效、胜方独取醇液一半、韩立宗内连胜两场、落云宗历来败北、古剑门大露脸面",
+    "影响": "三方提高戒备,百余年平静气氛重新紧张",
+    "经过": "三派各出三十人，落云宗六峰主各指定一人免试、余二十四名经宗内比试产生"
   },
   "observations": {
     "地点": [
@@ -75,6 +78,11 @@
         "value": "瓜分圣树醇液",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
         "seq": 613
+      },
+      {
+        "value": "三派联合比试、分配四分之一醇液并维持和睦",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "章节": [
@@ -87,6 +95,11 @@
         "value": "第615-617章",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "第618-620章",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ],
     "结果": [
@@ -104,6 +117,17 @@
         "value": "胜方独取醇液一半",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "韩立宗内连胜两场",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
+      },
+      {
+        "value": "落云宗历来败北、古剑门大露脸面",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619,
+        "note": "本片段为赛前选拔阶段"
       }
     ],
     "影响": [
@@ -111,6 +135,13 @@
         "value": "三方提高戒备,百余年平静气氛重新紧张",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      }
+    ],
+    "经过": [
+      {
+        "value": "三派各出三十人，落云宗六峰主各指定一人免试、余二十四名经宗内比试产生",
+        "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+        "seq": 619
       }
     ]
   },
@@ -130,27 +161,33 @@
     },
     "起因": {
       "asOf": null,
-      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-      "dated": false,
-      "seq": 613
-    },
-    "章节": {
-      "asOf": null,
-      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
       "dated": false,
       "seq": 619
     },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
+      "dated": false,
+      "seq": 613
+    },
     "结果": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-613-yinyue-becomes-qiling",
       "dated": false,
-      "seq": 631
+      "seq": 613
     },
     "影响": {
       "asOf": null,
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+      "dated": false,
+      "seq": 619
     }
   },
   "contested": false,
@@ -159,7 +196,8 @@
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
   ],
-  "updatedAt": "2026-06-17T08:06:19.657Z"
+  "updatedAt": "2026-06-17T08:14:39.747Z"
 }
