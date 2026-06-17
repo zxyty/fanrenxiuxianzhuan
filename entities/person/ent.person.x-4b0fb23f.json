@@ -9,9 +9,11 @@
   ],
   "summary": "太昌城甘家家主、富商，五十余岁发福老者；实为冯家长期安插于世俗的暗子，凭半截玉佩信物认主韩立并恭敬听命。",
   "attributes": {
-    "身份": "甘家家主、太昌城富商、冯家暗子",
+    "身份": "甘家家主、太昌城富商、冯家暗子、富商（近二十余家酒楼）、冯家世俗暗子",
     "种族": "凡人",
-    "外貌": "五十余岁发福老者，蓝色员外袍"
+    "外貌": "五十余岁发福老者，蓝色员外袍、五十余岁发福老者、蓝色员外袍",
+    "性别": "男",
+    "出身地": "大晋湳郡太昌城"
   },
   "observations": {
     "身份": [
@@ -29,6 +31,16 @@
         "value": "冯家暗子",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "富商（近二十余家酒楼）",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "冯家世俗暗子",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "种族": [
@@ -42,6 +54,25 @@
       {
         "value": "五十余岁发福老者，蓝色员外袍",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "五十余岁发福老者、蓝色员外袍",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "出身地": [
+      {
+        "value": "大晋湳郡太昌城",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -65,12 +96,25 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.282Z"
+  "updatedAt": "2026-06-17T16:48:45.255Z"
 }

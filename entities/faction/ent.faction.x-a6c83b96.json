@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "玉田山相邻山峰上的佛宗，藏有每日三次鸣响的‘青蝉钟’。",
   "attributes": {
-    "阵营": "佛门",
-    "据点": "玉田山相邻山峰",
+    "阵营": "佛门、佛宗",
+    "据点": "玉田山相邻山峰、大晋湳郡玉田山",
     "镇派之宝": "青蝉钟"
   },
   "observations": {
@@ -15,12 +15,22 @@
         "value": "佛门",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "佛宗",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "据点": [
       {
         "value": "玉田山相邻山峰",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "大晋湳郡玉田山",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ],
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.288Z"
+  "updatedAt": "2026-06-17T16:48:45.331Z"
 }

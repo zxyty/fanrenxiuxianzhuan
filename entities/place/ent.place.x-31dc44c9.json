@@ -2,10 +2,14 @@
   "id": "ent.place.x-31dc44c9",
   "type": "place",
   "name": "炼器殿",
-  "aliases": [],
+  "aliases": [
+    "地火大殿"
+  ],
   "summary": "设有地火殿等建筑的炼器机构。",
   "attributes": {
-    "类型": "炼器机构"
+    "类型": "炼器机构",
+    "所属势力": "皇清观",
+    "特产": "地火池、炼器阁"
   },
   "observations": {
     "类型": [
@@ -13,22 +17,54 @@
         "value": "炼器机构",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "炼器别院",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "皇清观",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "特产": [
+      {
+        "value": "地火池、炼器阁",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ]
   },
-  "firstSeq": 925,
+  "firstSeq": 919,
   "attrProvenance": {
     "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:21:22.363Z"
+  "updatedAt": "2026-06-17T16:48:45.432Z"
 }

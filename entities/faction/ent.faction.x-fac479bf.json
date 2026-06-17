@@ -4,13 +4,16 @@
   "name": "白露书院",
   "aliases": [
     "白露书院一门",
-    "书院"
+    "书院",
+    "白露书院一院",
+    "儒门"
   ],
   "summary": "建于玉田山幻云峰的儒门书院，建院千余年，神秘低调；招收有灵根弟子，分下院上院，须培养‘浩然之气’方能升入上院修行。",
   "attributes": {
     "阵营": "正道·儒门、儒门",
-    "据点": "玉田山幻云峰",
-    "理念": "以浩然之气辅助修炼、入世、培养浩然之气"
+    "据点": "玉田山幻云峰、大晋湳郡玉田山幻云峰",
+    "理念": "以浩然之气辅助修炼、入世、培养浩然之气、培养浩然之气、以儒门功法修仙、入世、议论朝政",
+    "所属界面": "大晋皇朝、人界·大晋皇朝"
   },
   "observations": {
     "阵营": [
@@ -30,6 +33,11 @@
         "value": "玉田山幻云峰",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "大晋湳郡玉田山幻云峰",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "理念": [
@@ -41,6 +49,28 @@
       {
         "value": "入世、培养浩然之气",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "培养浩然之气、以儒门功法修仙",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "入世、议论朝政",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "人界·大晋皇朝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -64,12 +94,19 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.307Z"
+  "updatedAt": "2026-06-17T16:48:45.429Z"
 }

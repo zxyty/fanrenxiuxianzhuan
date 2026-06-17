@@ -8,8 +8,9 @@
   ],
   "summary": "黑阳宗外事执法的魔修，灭严家之仇，鲁、严密谋要诛灭的对象。",
   "attributes": {
-    "身份": "黑阳宗外事执法",
-    "阵营": "魔道"
+    "身份": "黑阳宗外事执法、黑阳宗外事执法魔修",
+    "阵营": "魔道、黑阳宗（魔道）",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -17,12 +18,29 @@
         "value": "黑阳宗外事执法",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "黑阳宗外事执法魔修",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "阵营": [
       {
         "value": "魔道",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "黑阳宗（魔道）",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -40,12 +58,19 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.303Z"
+  "updatedAt": "2026-06-17T16:48:45.415Z"
 }

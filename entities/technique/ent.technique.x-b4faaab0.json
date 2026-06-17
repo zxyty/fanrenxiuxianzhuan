@@ -7,8 +7,9 @@
   ],
   "summary": "鲁大先生欲修成的神通，需吞噬献身者暗含怨气的浩然之气并化为己用。",
   "attributes": {
-    "效果": "吞噬并继承他人浩然之气",
-    "修炼条件": "需献身者以身相助"
+    "效果": "吞噬并继承他人浩然之气、继承所助之人的浩然之气",
+    "修炼条件": "需献身者以身相助、需以一人之身相助",
+    "出处": "儒门相关"
   },
   "observations": {
     "效果": [
@@ -16,12 +17,29 @@
         "value": "吞噬并继承他人浩然之气",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "继承所助之人的浩然之气",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "修炼条件": [
       {
         "value": "需献身者以身相助",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "需以一人之身相助",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "出处": [
+      {
+        "value": "儒门相关",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -39,12 +57,19 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.305Z"
+  "updatedAt": "2026-06-17T16:48:45.445Z"
 }

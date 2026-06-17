@@ -1,24 +1,26 @@
 {
-  "id": "ent.place.x-34c7fb65",
-  "type": "place",
-  "name": "幻云峰",
-  "aliases": [],
-  "summary": "玉田山山峰之一，白露书院建于此峰半山腰至峰顶。",
+  "id": "ent.item.x-e63a72b3",
+  "type": "item",
+  "name": "半截白玉佩",
+  "aliases": [
+    "半截玉佩"
+  ],
+  "summary": "韩立认亲甘池的信物，甘池见之动容确认其身份。",
   "attributes": {
-    "类型": "山峰",
-    "所属势力": "白露书院"
+    "类型": "信物",
+    "用途": "韩立与冯家暗子甘家认亲对接"
   },
   "observations": {
     "类型": [
       {
-        "value": "山峰",
-        "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "value": "信物",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ],
-    "所属势力": [
+    "用途": [
       {
-        "value": "白露书院",
+        "value": "韩立与冯家暗子甘家认亲对接",
         "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
@@ -28,11 +30,11 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
       "dated": false,
       "seq": 919
     },
-    "所属势力": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-919-924-ganjia-bailu-academy",
       "dated": false,
@@ -42,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan",
     "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-17T16:48:45.350Z"
+  "updatedAt": "2026-06-17T16:48:45.379Z"
 }

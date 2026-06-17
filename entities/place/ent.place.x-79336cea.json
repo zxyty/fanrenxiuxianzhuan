@@ -3,17 +3,34 @@
   "type": "place",
   "name": "太昌城",
   "aliases": [
-    "太昌府城"
+    "太昌府城",
+    "太昌府府城"
   ],
   "summary": "湳郡太昌府府城，书院遍布、达官富商聚居，甘家居于城西。",
   "attributes": {
-    "类型": "府城"
+    "类型": "府城",
+    "所属界面": "大晋皇朝",
+    "所属势力": "湳郡太昌府"
   },
   "observations": {
     "类型": [
       {
         "value": "府城",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "湳郡太昌府",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -25,12 +42,25 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.294Z"
+  "updatedAt": "2026-06-17T16:48:45.353Z"
 }

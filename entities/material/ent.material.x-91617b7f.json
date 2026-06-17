@@ -7,7 +7,7 @@
   ],
   "summary": "非常罕见的炼器材料，绿秀郡主求韩立精炼。",
   "attributes": {
-    "类型": "炼器材料、炼器矿料、金属材料",
+    "类型": "炼器材料、炼器矿料、金属材料、炼器银料",
     "稀有度": "罕见、极稀有、稀有",
     "用途": "炼器"
   },
@@ -27,6 +27,11 @@
         "value": "金属材料",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "炼器银料",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "稀有度": [
@@ -51,6 +56,11 @@
         "value": "炼器",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "炼制法器",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ]
   },
@@ -79,7 +89,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-919-924-ganjia-bailu-shuyuan",
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:21:22.383Z"
+  "updatedAt": "2026-06-17T16:48:45.473Z"
 }

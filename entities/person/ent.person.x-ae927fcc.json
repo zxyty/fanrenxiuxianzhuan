@@ -8,14 +8,16 @@
     "华莲道姑",
     "华莲道友",
     "华莲前辈",
-    "年轻道姑"
+    "年轻道姑",
+    "皇清观道姑"
   ],
   "summary": "皇清观道姑，筑基后期女修，乌发雪肤、黄色道袍、持银光拂尘；为借炼器弟子而至白露书院做客，得知韩立懂炼器术后力邀其改投皇清观。",
   "attributes": {
     "性别": "女",
     "身份": "皇清观道姑、皇清观弟子",
     "小阶段": "筑基后期",
-    "外貌": "二十余岁乌发雪肤、黄色道袍、持银光拂尘、年轻道姑、玉指白皙"
+    "外貌": "二十余岁乌发雪肤、黄色道袍、持银光拂尘、年轻道姑、玉指白皙、二十余岁、乌发雪肤、黄色道袍、持银光拂尘",
+    "阵营": "道门/皇清观、皇清观"
   },
   "observations": {
     "性别": [
@@ -54,6 +56,23 @@
         "value": "年轻道姑、玉指白皙",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "二十余岁、乌发雪肤、黄色道袍、持银光拂尘",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "阵营": [
+      {
+        "value": "道门/皇清观",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "皇清观",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ]
   },
@@ -82,12 +101,19 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.300Z"
+  "updatedAt": "2026-06-17T16:48:45.392Z"
 }

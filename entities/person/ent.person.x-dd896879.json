@@ -9,14 +9,15 @@
   ],
   "summary": "雍华书院执教的中年儒生，凡人无灵根；昔受甘池大恩，重恩义，受托引荐韩立入白露书院，并力主其入院。",
   "attributes": {
-    "身份": "雍华书院儒生、儒生",
+    "身份": "雍华书院儒生、儒生、雍华书院儒生、甘池恩人、白露书院相关凡人儒生",
     "种族": "凡人",
     "外貌": "相貌威严的中年儒生",
-    "性格": "重恩义、办事尽心、悲愤、慎重",
+    "性格": "重恩义、办事尽心、悲愤、慎重、重恩义、尽心",
     "出身地": "严家（已灭族）",
     "结局": "约定献身助修噬真合元决",
     "存殁": "死亡",
-    "死因": "突发大病（疑有蹊跷）"
+    "死因": "突发大病（疑有蹊跷）",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -28,6 +29,16 @@
       {
         "value": "儒生",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "雍华书院儒生、甘池恩人",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "白露书院相关凡人儒生",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ],
@@ -54,6 +65,11 @@
       {
         "value": "悲愤、慎重",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "重恩义、尽心",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ],
@@ -83,6 +99,13 @@
         "value": "突发大病（疑有蹊跷）",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ]
   },
@@ -135,13 +158,20 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-919-924-ganjia-bailu-shuyuan",
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:21:22.373Z"
+  "updatedAt": "2026-06-17T16:48:45.399Z"
 }

@@ -2,18 +2,26 @@
   "id": "ent.material.x-b3e14e28",
   "type": "material",
   "name": "紫精铜",
-  "aliases": [],
+  "aliases": [
+    "紫色铜精",
+    "紫精铜精"
+  ],
   "summary": "炼制顶阶法器乃至法宝的上佳材料，鲁大先生借予皇清观。",
   "attributes": {
-    "类型": "炼器矿料",
-    "用途": "炼制顶阶法器/法宝",
-    "稀有度": "珍稀"
+    "类型": "炼器矿料、金石矿料",
+    "用途": "炼制顶阶法器/法宝、炼顶阶法器/法宝",
+    "稀有度": "珍稀、珍稀（对结丹/筑基修士）"
   },
   "observations": {
     "类型": [
       {
         "value": "炼器矿料",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "金石矿料",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ],
@@ -22,12 +30,22 @@
         "value": "炼制顶阶法器/法宝",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "炼顶阶法器/法宝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "稀有度": [
       {
         "value": "珍稀",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "珍稀（对结丹/筑基修士）",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -56,7 +74,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.310Z"
+  "updatedAt": "2026-06-17T16:48:45.466Z"
 }

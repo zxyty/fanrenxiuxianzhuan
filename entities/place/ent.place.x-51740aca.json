@@ -3,14 +3,15 @@
   "type": "place",
   "name": "玉田山",
   "aliases": [
-    "玉田山灵脉之地"
+    "玉田山灵脉之地",
+    "玉田山灵脉"
   ],
   "summary": "湳郡十三灵山之一的太昌府名山，十余座山峰、四季如春、奇花遍地，产数种珍稀灵蔬灵果；山上分布白露书院、宝灵寺、皇清观等。",
   "attributes": {
     "类型": "灵山、灵脉之地",
     "特产": "珍稀灵蔬灵果",
-    "所属界面": "大晋湳郡",
-    "所属势力": "皇清观/白露书院等"
+    "所属界面": "大晋湳郡、大晋皇朝、人界·大晋皇朝",
+    "所属势力": "皇清观/白露书院等、湳郡"
   },
   "observations": {
     "类型": [
@@ -37,12 +38,27 @@
         "value": "大晋湳郡",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
         "seq": 919
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      },
+      {
+        "value": "人界·大晋皇朝",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
       }
     ],
     "所属势力": [
       {
         "value": "皇清观/白露书院等",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "湳郡",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -77,7 +93,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.308Z"
+  "updatedAt": "2026-06-17T16:48:45.436Z"
 }

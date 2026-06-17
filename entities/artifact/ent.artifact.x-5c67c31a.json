@@ -6,7 +6,8 @@
   "summary": "宝灵寺所藏宝物，每日三次鸣响，声清鸣悠扬、振人精神；韩立看出实为一件上阶法器。",
   "attributes": {
     "品阶": "上阶法器",
-    "能力": "钟鸣清越、振奋精神"
+    "能力": "钟鸣清越、振奋精神、钟鸣清扬振奋精神",
+    "持有者": "宝灵寺"
   },
   "observations": {
     "品阶": [
@@ -20,6 +21,18 @@
       {
         "value": "钟鸣清越、振奋精神",
         "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+        "seq": 919
+      },
+      {
+        "value": "钟鸣清扬振奋精神",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+        "seq": 919
+      }
+    ],
+    "持有者": [
+      {
+        "value": "宝灵寺",
+        "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
       "dated": false,
       "seq": 919
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
+      "dated": false,
+      "seq": 919
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-919-924-ganjia-bailu-shuyuan"
+    "plot.fanren-919-924-ganjia-bailu-shuyuan",
+    "plot.fanren-919-924-ganjia-bailu-academy"
   ],
-  "updatedAt": "2026-06-16T01:08:34.291Z"
+  "updatedAt": "2026-06-17T16:48:45.371Z"
 }
