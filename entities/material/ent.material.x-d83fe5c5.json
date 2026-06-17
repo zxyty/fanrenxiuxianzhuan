@@ -8,10 +8,10 @@
   ],
   "summary": "上古时期称呼的碧绿晶石，散发阴寒之极的波动，比阴魂之力精纯，暗含于上古傀儡中；即韩立从阴冥之地所得「兽晶」。",
   "attributes": {
-    "类型": "上古魂石、炼制材料",
+    "类型": "上古魂石、炼制材料、傀儡炼制材料",
     "用途": "制作/驱动上古傀儡、炼制上古傀儡",
-    "产地": "阴冥之地、阴冥兽体内",
-    "稀有度": "极罕见、极稀"
+    "产地": "阴冥之地、阴冥兽体内、阴冥兽体内（阴冥之地）",
+    "稀有度": "极罕见、极稀、极罕"
   },
   "observations": {
     "类型": [
@@ -23,6 +23,11 @@
       {
         "value": "炼制材料",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "傀儡炼制材料",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ],
@@ -48,6 +53,11 @@
         "value": "阴冥兽体内",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "阴冥兽体内（阴冥之地）",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ],
     "稀有度": [
@@ -59,6 +69,11 @@
       {
         "value": "极稀",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "极罕",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ]
@@ -93,7 +108,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.917Z"
+  "updatedAt": "2026-06-17T10:09:47.322Z"
 }

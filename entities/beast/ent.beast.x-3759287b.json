@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "栖于凶险绝地的妖兽，体内产出被古修士称为魂石之物。",
   "attributes": {
-    "栖息地": "凶险绝地",
-    "能力": "体内产魂石"
+    "栖息地": "凶险绝地、阴冥之地",
+    "能力": "体内产魂石、体内生魂石"
   },
   "observations": {
     "栖息地": [
@@ -14,12 +14,22 @@
         "value": "凶险绝地",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "阴冥之地",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ],
     "能力": [
       {
         "value": "体内产魂石",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "体内生魂石",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.918Z"
+  "updatedAt": "2026-06-17T10:09:47.323Z"
 }

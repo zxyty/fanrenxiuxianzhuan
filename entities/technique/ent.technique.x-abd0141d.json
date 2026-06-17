@@ -4,19 +4,26 @@
   "name": "上古傀儡术",
   "aliases": [
     "上古傀儡炼制术",
-    "上古傀儡炼制之法"
+    "上古傀儡炼制之法",
+    "古傀儡术"
   ],
   "summary": "上古修士遗址所得的傀儡炼制法，可造全力一击媲美元婴中期的傀儡，需魂石与万年铁木等材料。",
   "attributes": {
-    "出处": "上古修士遗址",
-    "效果": "炼制媲美元婴中期/结丹期威力的傀儡",
-    "修炼条件": "魂石+万年铁木等珍稀材料"
+    "出处": "上古修士遗址、上古修士遗址玉简",
+    "效果": "炼制媲美元婴中期/结丹期威力的傀儡、炼制最高媲美元婴中期威力的傀儡",
+    "修炼条件": "魂石+万年铁木等珍稀材料、万年铁木、魂石、诸多稀绝辅料",
+    "品阶": "上古"
   },
   "observations": {
     "出处": [
       {
         "value": "上古修士遗址",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "上古修士遗址玉简",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ],
@@ -25,12 +32,39 @@
         "value": "炼制媲美元婴中期/结丹期威力的傀儡",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "炼制最高媲美元婴中期威力的傀儡",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ],
     "修炼条件": [
       {
         "value": "魂石+万年铁木等珍稀材料",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "万年铁木",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
+      },
+      {
+        "value": "魂石",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
+      },
+      {
+        "value": "诸多稀绝辅料",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ]
@@ -54,12 +88,19 @@
       "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
       "dated": false,
       "seq": 679
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.919Z"
+  "updatedAt": "2026-06-17T10:09:47.324Z"
 }

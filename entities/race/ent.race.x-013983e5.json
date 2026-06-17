@@ -20,11 +20,11 @@
   "summary": "纯粹游牧民族，修仙者称法士，自创灵术流派；与燕人世仇、与突兀人世敌。",
   "attributes": {
     "特性": "游牧、彪悍、尚武、精通灵术、修炼灵术/冰属性、由众多部落组成、以法术为道，称法士/神师",
-    "聚居地": "慕兰草原",
+    "聚居地": "幕兰草原",
     "天敌": "突兀人、燕族",
     "代表人物": "法士、仲神师、乐姓女子、枯瘦老者、仲姓儒生、毕姓矮子、徐姓青年、慕兰法士、慕兰神师、慕兰大上师",
     "阵营": "敌对天南、与天南敌对、天南敌对、天南之敌、天南修仙界之敌、魔道/入侵方、与天南修士交战的法士一方、敌方入侵者、慕兰草原、法士、慕兰、敌方、草原法士、突兀族死对头",
-    "天赋神通": "法士之术、驱使上古巨兽、法士灵术、召唤供奉圣禽"
+    "天赋神通": "法士之术、驱使上古巨兽、法士灵术、召唤供奉圣禽、瞬发灵术"
   },
   "observations": {
     "特性": [
@@ -64,6 +64,11 @@
         "value": "慕兰草原",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
         "seq": 595
+      },
+      {
+        "value": "幕兰草原",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ],
     "天敌": [
@@ -144,7 +149,7 @@
       {
         "value": "天南敌对",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
-        "seq": 703
+        "seq": 679
       },
       {
         "value": "天南之敌",
@@ -217,6 +222,11 @@
         "value": "召唤供奉圣禽",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "瞬发灵术",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ]
   },
@@ -230,9 +240,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
       "dated": false,
-      "seq": 595
+      "seq": 679
     },
     "天敌": {
       "asOf": null,
@@ -254,9 +264,9 @@
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
       "dated": false,
-      "seq": 727
+      "seq": 679
     }
   },
   "contested": false,
@@ -292,7 +302,8 @@
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-ch595-600-join-luoyunzong",
-    "plot.fanren-666-liuyu"
+    "plot.fanren-666-liuyu",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-17T10:04:47.633Z"
+  "updatedAt": "2026-06-17T10:09:47.334Z"
 }

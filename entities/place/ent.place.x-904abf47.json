@@ -7,9 +7,10 @@
   ],
   "summary": "天晶真人好友所开、位于阗天城的阁楼，以幻术伪装、二层空间反大于外观，为元婴交换会场地。",
   "attributes": {
-    "类型": "阁楼/交换会场地、交易阁楼、商铺、交换会场所",
+    "类型": "阁楼/交换会场地、交易阁楼、商铺、交换会场所、阁楼/交易场所",
     "所属界面": "天南",
-    "守护": "幻术伪装、需戴乌灵面具入内"
+    "守护": "幻术伪装、需戴乌灵面具入内",
+    "所属势力": "阗天城"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,11 @@
         "value": "交换会场所",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      },
+      {
+        "value": "阁楼/交易场所",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ],
     "所属界面": [
@@ -46,6 +52,13 @@
         "value": "幻术伪装、需戴乌灵面具入内",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "阗天城",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
       }
     ]
   },
@@ -68,6 +81,12 @@
       "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
       "dated": false,
       "seq": 673
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
@@ -75,7 +94,8 @@
   "docs": [
     "plot.fanren-672-676-tiantian-exchange-meeting",
     "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
-    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-17T10:06:57.373Z"
+  "updatedAt": "2026-06-17T10:09:47.332Z"
 }

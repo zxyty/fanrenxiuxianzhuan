@@ -3,20 +3,26 @@
   "type": "person",
   "name": "武斐",
   "aliases": [
-    "黄发老者"
+    "黄发老者",
+    "执法使武斐"
   ],
   "summary": "阗天城执法使，九国盟成员，结丹中期，胸绣金色小剑标志，负责交易会秩序。",
   "attributes": {
-    "身份": "阗天城执法使",
+    "身份": "阗天城执法使、九国盟阗天城执法使",
     "小阶段": "结丹中期",
     "标志特征": "胸前绣金色小剑",
-    "外貌": "黄发老者"
+    "外貌": "黄发老者、黄发老者，胸绣金色小剑"
   },
   "observations": {
     "身份": [
       {
         "value": "阗天城执法使",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "九国盟阗天城执法使",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ],
@@ -38,6 +44,11 @@
       {
         "value": "黄发老者",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      },
+      {
+        "value": "黄发老者，胸绣金色小剑",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ]
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.867Z"
+  "updatedAt": "2026-06-17T10:09:47.321Z"
 }

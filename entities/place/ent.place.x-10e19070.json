@@ -6,7 +6,9 @@
   "summary": "南陇侯密会众修士的目的地，令在座修士色变之地。",
   "attributes": {
     "所属界面": "天南",
-    "危险度": "高"
+    "危险度": "高",
+    "类型": "草原",
+    "所属势力": "慕兰族"
   },
   "observations": {
     "所属界面": [
@@ -20,6 +22,20 @@
       {
         "value": "高",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+        "seq": 679
+      }
+    ],
+    "类型": [
+      {
+        "value": "草原",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
       }
     ]
@@ -37,12 +53,25 @@
       "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
       "dated": false,
       "seq": 679
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "dated": false,
+      "seq": 679
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.916Z"
+  "updatedAt": "2026-06-17T10:09:47.333Z"
 }

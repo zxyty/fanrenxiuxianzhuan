@@ -11,7 +11,8 @@
     "等级": "越国第一家族",
     "据点": "原越国",
     "镇派之宝": "化骨宝扇",
-    "理念": "随鬼灵门"
+    "理念": "随鬼灵门",
+    "阵营": "鬼灵门附庸"
   },
   "observations": {
     "等级": [
@@ -71,6 +72,13 @@
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
       }
+    ],
+    "阵营": [
+      {
+        "value": "鬼灵门附庸",
+        "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+        "seq": 679
+      }
     ]
   },
   "firstSeq": 133,
@@ -98,6 +106,12 @@
       "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
       "dated": false,
       "seq": 679
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "dated": false,
+      "seq": 679
     }
   },
   "contested": false,
@@ -107,7 +121,8 @@
     "lore.fanren-ch194-forbidden-land-center-region",
     "plot.fanren-ch242-zhifu-biguan",
     "plot.fanren-247-252-yanlingbao-zhengfeng",
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-678-683-hunshi-gulei-mihui"
   ],
-  "updatedAt": "2026-06-14T21:53:35.926Z"
+  "updatedAt": "2026-06-17T10:09:47.340Z"
 }
