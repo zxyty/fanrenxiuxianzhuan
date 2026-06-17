@@ -14,8 +14,9 @@
   "attributes": {
     "类型": "攻击型、攻击型法术、火系法术、火系攻击、火属性攻击、攻击法术、火系、火系攻击法术、火属性攻击法术、火系攻击/焚烧、火系符术、火属性符箓/法术、火系符箓攻击、火属性攻击/焚化、火属攻击/符箓",
     "出处": "长春功秘籍附录",
-    "威力": "数十张齐发可碎护罩",
-    "适用境界": "修仙入门、低级修仙者、初级下阶、筑基、炼气-筑基、炼气期、炼气/筑基、筑基期、低阶"
+    "威力": "一次数十枚连发，可化火焰小鸟",
+    "适用境界": "修仙入门、低级修仙者、初级下阶、筑基、炼气-筑基、炼气期、炼气/筑基、筑基期、低阶",
+    "消耗": "每发数十灵石符箓"
   },
   "observations": {
     "类型": [
@@ -142,6 +143,11 @@
         "value": "数十张齐发可碎护罩",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "一次数十枚连发，可化火焰小鸟",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "适用境界": [
@@ -190,6 +196,13 @@
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
+    ],
+    "消耗": [
+      {
+        "value": "每发数十灵石符箓",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
     ]
   },
   "firstSeq": 67,
@@ -208,15 +221,21 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
-      "seq": 619
+      "seq": 625
     },
     "适用境界": {
       "asOf": null,
       "docId": "plot.fanren-ch67-72-huodanshu-zhongdu-lifeiyu",
       "dated": false,
       "seq": 67
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
@@ -256,7 +275,8 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-ch973-minghe-zhiye",
-    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T08:14:39.714Z"
+  "updatedAt": "2026-06-17T08:27:05.767Z"
 }

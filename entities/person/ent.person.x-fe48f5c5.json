@@ -10,8 +10,10 @@
     "性别": "女",
     "阵营": "落云宗",
     "小阶段": "结丹",
-    "标志特征": "天灵根",
-    "外貌": "绝色蓝衣"
+    "标志特征": "天灵根、天灵根、不足百年结丹",
+    "外貌": "绝色蓝衣、蓝衣绝色、恬静温婉",
+    "身份": "白凤峰弟子",
+    "称号": "白凤仙子"
   },
   "observations": {
     "性别": [
@@ -40,12 +42,36 @@
         "value": "天灵根",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "天灵根、不足百年结丹",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "外貌": [
       {
         "value": "绝色蓝衣",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "蓝衣绝色、恬静温婉",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "身份": [
+      {
+        "value": "白凤峰弟子",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "称号": [
+      {
+        "value": "白凤仙子",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -81,12 +107,25 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.000Z"
+  "updatedAt": "2026-06-17T08:27:05.744Z"
 }

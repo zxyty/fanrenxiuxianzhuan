@@ -2,15 +2,20 @@
   "id": "ent.person.x-2f5e2da3",
   "type": "person",
   "name": "孙火",
-  "aliases": [],
+  "aliases": [
+    "孙师弟",
+    "坚毅面孔青年"
+  ],
   "summary": "落云宗火云峰青年弟子，面色冷毅，本届试剑大会取得第三名。",
   "attributes": {
     "阵营": "落云宗",
     "小阶段": "结丹",
     "出身地": "溪国",
-    "性格": "坚毅豪兴",
+    "性格": "坚毅豪兴、豪迈",
     "身份": "落云宗火云峰弟子",
-    "外貌": "黑衣英挺"
+    "外貌": "黑衣英挺",
+    "性别": "男",
+    "标志特征": "面色冷毅"
   },
   "observations": {
     "阵营": [
@@ -44,6 +49,11 @@
         "value": "坚毅豪兴",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "豪迈",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "身份": [
@@ -51,6 +61,11 @@
         "value": "落云宗火云峰弟子",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "火云峰弟子",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "外貌": [
@@ -58,6 +73,20 @@
         "value": "黑衣英挺",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "面色冷毅",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -98,13 +127,26 @@
       "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
       "dated": false,
       "seq": 679
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T21:53:35.862Z"
+  "updatedAt": "2026-06-17T08:27:05.799Z"
 }

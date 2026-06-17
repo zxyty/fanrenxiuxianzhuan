@@ -9,10 +9,10 @@
   "summary": "云梦山中部迷雾山谷中的三派共有禁地，内藏灵眼之树，产明清灵水供洗目，禁制由元婴期师叔施设、结丹修士轮值镇守。",
   "attributes": {
     "所属势力": "落云宗、古剑门、百巧院",
-    "类型": "禁地",
-    "危险度": "高",
+    "类型": "禁地、禁地/圣地",
+    "危险度": "高、极高，禁制重重",
     "特产": "灵眼之树、明清灵水",
-    "守护": "结丹修士轮值，元婴期师叔布禁制"
+    "守护": "结丹修士轮值，元婴期师叔布禁制、钺、阗"
   },
   "observations": {
     "所属势力": [
@@ -37,12 +37,22 @@
         "value": "禁地",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "禁地/圣地",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "危险度": [
       {
         "value": "高",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "极高，禁制重重",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -62,6 +72,16 @@
       {
         "value": "结丹修士轮值，元婴期师叔布禁制",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "钺",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "阗",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -102,7 +122,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:06.718Z"
+  "updatedAt": "2026-06-17T08:27:05.762Z"
 }

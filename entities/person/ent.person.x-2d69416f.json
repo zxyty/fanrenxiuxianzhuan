@@ -6,12 +6,13 @@
     "付姓老者",
     "付兄",
     "魁梧老者",
-    "付老者"
+    "付老者",
+    "付师兄"
   ],
   "summary": "百巧院结丹期长老，魁梧老者，东道主接待主事，言谈圆滑。",
   "attributes": {
     "阵营": "百巧院",
-    "外貌": "身材魁梧",
+    "外貌": "身材魁梧、身材魁梧老者",
     "小阶段": "结丹期",
     "性格": "心机深沉",
     "身份": "百巧院弟子"
@@ -28,6 +29,11 @@
       {
         "value": "身材魁梧",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "身材魁梧老者",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -50,6 +56,11 @@
         "value": "百巧院弟子",
         "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
         "seq": 859
+      },
+      {
+        "value": "百巧院长老/院主",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -90,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-859-864-weidan-tanyan-qinghan"
+    "plot.fanren-859-864-weidan-tanyan-qinghan",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-15T14:38:52.841Z"
+  "updatedAt": "2026-06-17T08:27:05.755Z"
 }

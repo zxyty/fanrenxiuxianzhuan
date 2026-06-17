@@ -8,7 +8,8 @@
   "summary": "钺姓修士修习的功法，修成煞气冲天，于圣树附近修习进境一日千里。",
   "attributes": {
     "效果": "煞气冲天",
-    "外显异象": "一脸惊人煞气"
+    "外显异象": "一脸惊人煞气、煞气冲天",
+    "修炼条件": "宜在圣树附近苦修"
   },
   "observations": {
     "效果": [
@@ -22,6 +23,18 @@
       {
         "value": "一脸惊人煞气",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "煞气冲天",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "宜在圣树附近苦修",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.183Z"
+  "updatedAt": "2026-06-17T08:27:05.769Z"
 }

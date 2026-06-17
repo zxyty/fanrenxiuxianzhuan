@@ -4,19 +4,26 @@
   "name": "灵眼之树圣地",
   "aliases": [
     "圣树洞窟",
-    "钟乳洞窟"
+    "钟乳洞窟",
+    "钟乳石窟"
   ],
   "summary": "长宽数百丈、高二三十丈的钟乳石窟，地面石林迷宫布禁制，中心藏灵眼之树，由卫师兄看守。",
   "attributes": {
-    "类型": "藏宝圣地/灵脉洞窟",
+    "类型": "藏宝圣地/灵脉洞窟、灵眼圣地",
     "守护": "卫师兄",
-    "危险度": "高（遇袭）"
+    "危险度": "高（遇袭）、禁制重重",
+    "所属势力": "落云宗等正道"
   },
   "observations": {
     "类型": [
       {
         "value": "藏宝圣地/灵脉洞窟",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "灵眼圣地",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -31,6 +38,18 @@
       {
         "value": "高（遇袭）",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "禁制重重",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "落云宗等正道",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -54,12 +73,19 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.748Z"
+  "updatedAt": "2026-06-17T08:27:05.806Z"
 }

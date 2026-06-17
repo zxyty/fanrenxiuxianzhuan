@@ -10,7 +10,7 @@
   "attributes": {
     "阵营": "落云宗",
     "身份": "火云峰峰主",
-    "外貌": "红衫"
+    "外貌": "红衫、红衫老者"
   },
   "observations": {
     "阵营": [
@@ -31,6 +31,11 @@
       {
         "value": "红衫",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "红衫老者",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -59,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.051Z"
+  "updatedAt": "2026-06-17T08:27:05.741Z"
 }

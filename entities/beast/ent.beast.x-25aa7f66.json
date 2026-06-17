@@ -7,15 +7,20 @@
   ],
   "summary": "落云宗代步异种妖兽，可变化体形大小，五级妖兽，巨翅散青光、遁速惊人。",
   "attributes": {
-    "等级": "五级",
+    "等级": "五级、五级妖兽",
     "能力": "变化体形大小",
-    "外形": "散青光巨翅怪鸟"
+    "外形": "散青光巨翅怪鸟、体形巨大、青光巨翅"
   },
   "observations": {
     "等级": [
       {
         "value": "五级",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "五级妖兽",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -30,6 +35,11 @@
       {
         "value": "散青光巨翅怪鸟",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "体形巨大、青光巨翅",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.134Z"
+  "updatedAt": "2026-06-17T08:27:05.766Z"
 }

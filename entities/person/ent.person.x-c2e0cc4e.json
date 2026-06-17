@@ -4,15 +4,18 @@
   "name": "卫师兄",
   "aliases": [
     "披发老者",
-    "卫兄"
+    "卫兄",
+    "披头散发之人"
   ],
   "summary": "落云宗修士，看守灵眼之树圣地，结丹后期巅峰假婴境界，发毒誓不凝婴不出山。",
   "attributes": {
-    "小阶段": "结丹后期、假婴",
+    "小阶段": "结丹后期、假婴、结丹后期巅峰（假婴）",
     "阵营": "合欢宗",
-    "外貌": "披头散发、头发灰白",
-    "身份": "圣地守护者",
-    "标志特征": "碧绿符文铜牌"
+    "外貌": "披头散发、头发灰白、灰白头发、披头散发",
+    "身份": "圣地守护者、灵眼之树守护者",
+    "标志特征": "碧绿符文铜牌",
+    "性别": "男",
+    "性格": "稳重平静"
   },
   "observations": {
     "小阶段": [
@@ -24,6 +27,11 @@
       {
         "value": "假婴",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "结丹后期巅峰（假婴）",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -44,12 +52,22 @@
         "value": "披头散发、头发灰白",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "灰白头发、披头散发",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "身份": [
       {
         "value": "圣地守护者",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "灵眼之树守护者",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -58,6 +76,20 @@
         "value": "碧绿符文铜牌",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "性格": [
+      {
+        "value": "稳重平静",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -92,13 +124,26 @@
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
       "seq": 769
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-15T03:47:18.101Z"
+  "updatedAt": "2026-06-17T08:27:05.794Z"
 }

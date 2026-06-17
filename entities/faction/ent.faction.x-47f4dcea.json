@@ -9,8 +9,8 @@
   ],
   "summary": "擅御剑、镇派绝学太白剑诀、占云梦山主山脉，三派中实力最强。",
   "attributes": {
-    "阵营": "天道盟",
-    "镇派之宝": "太白剑诀",
+    "阵营": "正道",
+    "镇派之宝": "太白化气手",
     "理念": "剑修御剑",
     "据点": "云梦山脉"
   },
@@ -20,6 +20,11 @@
         "value": "天道盟",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "正道",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "镇派之宝": [
@@ -27,6 +32,11 @@
         "value": "太白剑诀",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "太白化气手",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "理念": [
@@ -73,15 +83,15 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
-      "seq": 595
+      "seq": 625
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
-      "seq": 595
+      "seq": 625
     },
     "理念": {
       "asOf": null,
@@ -112,7 +122,8 @@
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-ch595-600-join-luoyunzong",
     "plot.fanren-613-yinyue-becomes-qiling",
-    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T08:14:39.748Z"
+  "updatedAt": "2026-06-17T08:27:05.808Z"
 }

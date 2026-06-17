@@ -7,9 +7,9 @@
   ],
   "summary": "溪国仅落云宗数位长老能炼的传闻圣药，可增修为、定心安魂、减轻结元婴时心魔幻象。",
   "attributes": {
-    "功效": "增进修为、定心安魂、减轻结元婴心魔幻象、（可换顶阶法器之珍丹）、凝结元婴时降低难度、定心神、抗心魔、定心安魂减轻心魔、可换三四件顶阶法器",
+    "功效": "增进修为、定心安魂、减轻结元婴心魔幻象、（可换顶阶法器之珍丹）、凝结元婴时降低难度、定心神、抗心魔、定心安魂减轻心魔、可换三四件顶阶法器、助凝结元婴",
     "主料": "醇液（药引）、醇液",
-    "适用境界": "结婴/元婴",
+    "适用境界": "结丹冲元婴、结婴/元婴、凝结元婴前、结丹高人、结丹圆满冲元婴",
     "品阶": "圣药"
   },
   "observations": {
@@ -53,6 +53,11 @@
         "value": "可换三四件顶阶法器",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "助凝结元婴",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "主料": [
@@ -87,6 +92,11 @@
         "value": "结丹高人",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "结丹圆满冲元婴",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "品阶": [
@@ -113,9 +123,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
-      "seq": 631
+      "seq": 595
     },
     "品阶": {
       "asOf": null,
@@ -132,7 +142,8 @@
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-ch595-600-join-luoyunzong",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T08:06:19.652Z"
+  "updatedAt": "2026-06-17T08:27:05.773Z"
 }

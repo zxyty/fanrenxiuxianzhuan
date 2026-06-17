@@ -8,18 +8,22 @@
     "青袍儒生",
     "白姓儒生",
     "白师侄",
-    "白师叔"
+    "白师叔",
+    "白师弟",
+    "白某"
   ],
   "summary": "古剑门修士，白璧双剑之一，与白衣少妇为夫妇；曾为当年试剑大会十弟子之一，熟悉禁地。",
   "attributes": {
     "阵营": "古剑门",
     "称号": "白璧双剑",
-    "外貌": "青袍儒生",
+    "外貌": "青袍儒生、青袍玉带儒雅",
     "小阶段": "结丹期、结丹",
-    "身份": "浩然阁阁主关门弟子、魔道千幻宗同伙",
+    "身份": "浩然阁阁主关门弟子、魔道千幻宗同伙、正道盟奸细",
     "结局": "被擒关入困龙窟",
     "存殁": "死亡",
-    "死因": "被付姓老者等当场击毙"
+    "死因": "被付姓老者等当场击毙",
+    "标志特征": "白璧双剑（夫妇）、修炼太白化气手",
+    "性别": "男"
   },
   "observations": {
     "阵营": [
@@ -40,6 +44,11 @@
       {
         "value": "青袍儒生",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "青袍玉带儒雅",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -67,6 +76,12 @@
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625,
         "note": "表面古剑门/正道，实为内应"
+      },
+      {
+        "value": "正道盟奸细",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625,
+        "note": "潜伏古剑门"
       }
     ],
     "结局": [
@@ -82,6 +97,11 @@
         "value": "死亡",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      },
+      {
+        "value": "被擒（暂未杀）",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "死因": [
@@ -89,6 +109,25 @@
         "value": "被付姓老者等当场击毙",
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "白璧双剑（夫妇）",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "修炼太白化气手",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -143,13 +182,26 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:25:50.642Z"
+  "updatedAt": "2026-06-17T08:27:05.798Z"
 }

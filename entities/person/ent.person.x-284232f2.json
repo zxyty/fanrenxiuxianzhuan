@@ -7,8 +7,9 @@
   ],
   "summary": "百巧院结丹修士，拜见蓝前辈。",
   "attributes": {
-    "小阶段": "结丹期",
-    "阵营": "百巧院"
+    "小阶段": "结丹期、结丹",
+    "阵营": "百巧院",
+    "身份": "百巧院修士"
   },
   "observations": {
     "小阶段": [
@@ -16,12 +17,24 @@
         "value": "结丹期",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "阵营": [
       {
         "value": "百巧院",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      }
+    ],
+    "身份": [
+      {
+        "value": "百巧院修士",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.433Z"
+  "updatedAt": "2026-06-17T08:27:05.783Z"
 }

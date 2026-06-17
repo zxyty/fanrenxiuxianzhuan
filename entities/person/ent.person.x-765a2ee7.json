@@ -13,10 +13,10 @@
   "summary": "外貌七八岁、小辫赤足手带金环的孩童，实为元婴初期修士、古剑门前辈，精于棋艺与剑气化丝，揭破并制住卧底白姓修士。",
   "attributes": {
     "小阶段": "元婴初期",
-    "外貌": "七八岁孩童，唇红齿白、童子模样、童子",
-    "标志特征": "小辫赤足、手带金环",
-    "性格": "老气横生、深藏不露",
-    "身份": "鼎中精怪/谋士"
+    "外貌": "七八岁孩童，唇红齿白、童子模样、童子、唇红齿白、小辫赤足、手带金环的七八岁童子",
+    "标志特征": "小辫赤足、手带金环、剑气化丝、一剑破万法",
+    "性格": "老气横生、深藏不露、老气横生、大模大样",
+    "身份": "主持大阵者、鼎中精怪/谋士、古剑门前辈、圣地主事者"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +42,11 @@
         "value": "童子",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
         "seq": 1225
+      },
+      {
+        "value": "唇红齿白、小辫赤足、手带金环的七八岁童子",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "标志特征": [
@@ -54,12 +59,22 @@
         "value": "手带金环",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
         "seq": 625
+      },
+      {
+        "value": "剑气化丝、一剑破万法",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "性格": [
       {
         "value": "老气横生、深藏不露",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "老气横生、大模大样",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
@@ -73,6 +88,16 @@
         "value": "鼎中精怪/谋士",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "古剑门前辈",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "圣地主事者",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -104,9 +129,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
-      "seq": 1243
+      "seq": 625
     }
   },
   "contested": false,
@@ -114,7 +139,8 @@
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-16T09:33:28.365Z"
+  "updatedAt": "2026-06-17T08:27:05.801Z"
 }

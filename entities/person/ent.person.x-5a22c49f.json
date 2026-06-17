@@ -12,13 +12,13 @@
   "summary": "憨厚外表的大汉，疑为二百年前灭族的杜家后人，持寒月轮，被白发蒋师伯收为重点培养符修，被怀疑别有图谋潜入落云宗。",
   "attributes": {
     "小阶段": "结丹中期",
-    "身份": "落云宗天泉峰弟子、魔道千幻宗嫡传弟子、刚入门弟子、天泉峰外事弟子、天泉峰弟子",
+    "身份": "落云宗天泉峰弟子、魔道千幻宗嫡传弟子、刚入门弟子、天泉峰外事弟子、天泉峰弟子、火云峰弟子、千幻宗内应",
     "标志特征": "持寒月轮，精于制符、身上带有诡异寒气异状、制符天分",
     "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)",
     "称号": "千幻宗少主",
     "性别": "男",
-    "外貌": "络腮胡子大汉、憨厚",
-    "性格": "貌似憨厚、心怀鬼胎",
+    "外貌": "大汉",
+    "性格": "貌似憨厚、心怀鬼胎、紧张、阴狠（伪装憨厚）",
     "出身地": "杜家后人"
   },
   "observations": {
@@ -64,6 +64,16 @@
         "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619,
         "note": "身份不明、疑似混入"
+      },
+      {
+        "value": "火云峰弟子",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "千幻宗内应",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "标志特征": [
@@ -125,6 +135,11 @@
         "value": "络腮胡子大汉、憨厚",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "大汉",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "性格": [
@@ -132,6 +147,16 @@
         "value": "貌似憨厚、心怀鬼胎",
         "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
+      },
+      {
+        "value": "紧张",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "阴狠（伪装憨厚）",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "出身地": [
@@ -184,9 +209,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
-      "seq": 601
+      "seq": 625
     },
     "性格": {
       "asOf": null,
@@ -209,7 +234,8 @@
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T08:14:39.736Z"
+  "updatedAt": "2026-06-17T08:27:05.797Z"
 }

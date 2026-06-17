@@ -10,10 +10,10 @@
   ],
   "summary": "修仙界三大神木之一，长于云梦山深处，每两百年从根部流出醇液。",
   "attributes": {
-    "类型": "神木、顶级灵眼之物、上古灵树、灵树、灵药树、三大神木",
+    "类型": "神木、顶级灵眼之物、上古灵树、灵树、灵药树、三大神木、圣树、灵眼之物",
     "稀有度": "三大神木之一、极高、顶级、极稀有",
-    "产地": "云梦山、三派禁地、韩立药园、云梦山深处",
-    "用途": "产明清灵水、灵根/丹方来源、提供精纯灵气、产醇液配明清灵水、配制明清灵水、醇液炼制明清灵水、产醇液（炼药原料）"
+    "产地": "云梦山、三派禁地、韩立药园、云梦山深处、圣树洞窟",
+    "用途": "产明清灵水、灵根/丹方来源、提供精纯灵气、产醇液配明清灵水、配制明清灵水、醇液炼制明清灵水、产醇液（炼药原料）、产灵根、丹方，提炼明清灵水洗目、醇液配制明清灵水、洗目开灵眼"
   },
   "observations": {
     "类型": [
@@ -46,6 +46,16 @@
         "value": "三大神木",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "圣树",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "灵眼之物",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "稀有度": [
@@ -90,6 +100,11 @@
         "value": "云梦山深处",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "圣树洞窟",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "用途": [
@@ -122,6 +137,16 @@
         "value": "产醇液（炼药原料）",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "产灵根、丹方，提炼明清灵水洗目",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      },
+      {
+        "value": "醇液配制明清灵水、洗目开灵眼",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ]
   },
@@ -159,7 +184,8 @@
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-ch642-dianfeng-peiyuan-gong",
-    "plot.fanren-ch595-600-join-luoyunzong"
+    "plot.fanren-ch595-600-join-luoyunzong",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T07:43:47.972Z"
+  "updatedAt": "2026-06-17T08:27:05.803Z"
 }

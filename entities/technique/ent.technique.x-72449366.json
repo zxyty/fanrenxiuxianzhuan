@@ -6,7 +6,7 @@
   "summary": "古剑门擒拿神通，可化出白茫茫光手罩擒目标；白姓修士修炼颇精。",
   "attributes": {
     "出处": "古剑门",
-    "效果": "化出白色光手擒拿"
+    "效果": "化出白色光手擒拿、化白光大手擒拿"
   },
   "observations": {
     "出处": [
@@ -20,6 +20,11 @@
       {
         "value": "化出白色光手擒拿",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "化白光大手擒拿",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.460Z"
+  "updatedAt": "2026-06-17T08:27:05.788Z"
 }

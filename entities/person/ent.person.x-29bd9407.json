@@ -10,7 +10,8 @@
     "阵营": "古剑门",
     "标志特征": "九灵剑体",
     "结局": "本届试剑大会冠军",
-    "外貌": "黑衣青年"
+    "外貌": "黑衣青年、黑衣青年、神情如出鞘利剑",
+    "性别": "男"
   },
   "observations": {
     "阵营": [
@@ -38,6 +39,18 @@
       {
         "value": "黑衣青年",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "黑衣青年、神情如出鞘利剑",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -67,13 +80,20 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:25:50.526Z"
+  "updatedAt": "2026-06-17T08:27:05.782Z"
 }

@@ -3,12 +3,13 @@
   "type": "item",
   "name": "灵眼之玉",
   "aliases": [
-    "化形之玉"
+    "化形之玉",
+    "灵眼玉"
   ],
   "summary": "灵眼之石中的最高存在，内孕青色小牛化形之物，提供精纯清灵之气，可助稳固假婴、加速凝结元婴。",
   "attributes": {
     "类型": "辅助修炼灵宝、至宝、灵眼之物、灵眼之石(吸灵助修灵物)",
-    "用途": "稳固假婴境界、加速结婴、提供精纯清灵之气助修、稳固假婴境界三分、缩短结婴前苦修时间三分之一以上",
+    "用途": "稳固假婴境界、加速结婴、提供精纯清灵之气助修、稳固假婴境界三分、缩短结婴前苦修时间三分之一以上、灵眼修炼",
     "产地": "蛮荒时即极罕见、未知"
   },
   "observations": {
@@ -54,6 +55,11 @@
         "value": "缩短结婴前苦修时间三分之一以上",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "灵眼修炼",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
       }
     ],
     "产地": [
@@ -95,7 +101,8 @@
   "docs": [
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T07:58:36.443Z"
+  "updatedAt": "2026-06-17T08:27:05.804Z"
 }

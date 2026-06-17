@@ -1,31 +1,24 @@
 {
-  "id": "ent.person.x-8827a454",
-  "type": "person",
-  "name": "胡师兄",
-  "aliases": [
-    "胡兄"
-  ],
-  "summary": "守方修士，禀报圣地暴露遭围攻，调度迎敌并令卫师兄格杀擅入者。",
+  "id": "ent.race.x-72cc7912",
+  "type": "race",
+  "name": "九灵剑体",
+  "aliases": [],
+  "summary": "号称修仙界三大剑修灵体之一的特殊剑修灵体，配顶阶剑器剑气无敌，孟笛即具此体。",
   "attributes": {
-    "外貌": "长脸老者、长脸",
-    "性别": "男"
+    "特性": "三大剑修灵体之一，剑气纵横无敌",
+    "代表人物": "孟笛"
   },
   "observations": {
-    "外貌": [
+    "特性": [
       {
-        "value": "长脸老者",
-        "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-        "seq": 625
-      },
-      {
-        "value": "长脸",
+        "value": "三大剑修灵体之一，剑气纵横无敌",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ],
-    "性别": [
+    "代表人物": [
       {
-        "value": "男",
+        "value": "孟笛",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
@@ -33,13 +26,13 @@
   },
   "firstSeq": 625,
   "attrProvenance": {
-    "外貌": {
+    "特性": {
       "asOf": null,
-      "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
       "seq": 625
     },
-    "性别": {
+    "代表人物": {
       "asOf": null,
       "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
       "dated": false,
@@ -49,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
     "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-17T08:27:05.800Z"
+  "updatedAt": "2026-06-17T08:27:05.774Z"
 }

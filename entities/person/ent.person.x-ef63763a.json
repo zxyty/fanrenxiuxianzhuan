@@ -3,17 +3,31 @@
   "type": "person",
   "name": "胡师侄",
   "aliases": [
-    "长脸老者"
+    "长脸老者",
+    "锦衣长脸老者"
   ],
   "summary": "锦衣长脸、约五十多岁的古剑门修士，与蓝前辈对弈，奉命将白姓修士押入困龙窟。",
   "attributes": {
-    "外貌": "锦衣长脸、约五十多岁"
+    "外貌": "锦衣长脸、约五十多岁、五十多岁锦衣长脸老者",
+    "身份": "古剑门修士"
   },
   "observations": {
     "外貌": [
       {
         "value": "锦衣长脸、约五十多岁",
         "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+        "seq": 625
+      },
+      {
+        "value": "五十多岁锦衣长脸老者",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+        "seq": 625
+      }
+    ],
+    "身份": [
+      {
+        "value": "古剑门修士",
+        "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
       }
     ]
@@ -25,12 +39,19 @@
       "docId": "plot.fanren-625-630-san-pai-shi-jian-jin-di",
       "dated": false,
       "seq": 625
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
+      "dated": false,
+      "seq": 625
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-625-630-san-pai-shi-jian-jin-di"
+    "plot.fanren-625-630-san-pai-shi-jian-jin-di",
+    "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land"
   ],
-  "updatedAt": "2026-06-14T20:12:07.401Z"
+  "updatedAt": "2026-06-17T08:27:05.780Z"
 }
