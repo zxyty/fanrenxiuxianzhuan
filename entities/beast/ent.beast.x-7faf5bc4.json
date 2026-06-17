@@ -14,9 +14,10 @@
   "attributes": {
     "种族": "天地灵尸",
     "能力": "金铁难伤、幻化人形、剧毒绿雾、利爪伸缩如蟒、保有生前功法记忆、拘魂以尸火折磨、尸毒、尸火、妖狐化形（曾控银月之形）、喷绿色剧毒烟雾、利爪如蟒蛇伸缩、尸毒（虽未列天下十绝毒）",
-    "外形": "浑身粗硬绿毛、骷髅獠牙、独臂利爪、尸臭、绿毛巨怪、全身绿毛、独臂、独臂、浑身粗硬绿毛、骷髅般死灰面容、巨大獠牙、尸臭",
+    "外形": "浑身粗硬绿毛、骷髅獠牙、独臂利爪、尸臭、绿毛巨怪、全身绿毛、独臂、独臂、浑身粗硬绿毛、骷髅般死灰面容、巨大獠牙、尸臭、全身绿毛独臂",
     "栖息地": "云梦山山腹、沼泽山腹石屋、云梦山沼泽石室",
-    "天敌": "真火炼化、抽魂术封印、克它的金符"
+    "天敌": "真火炼化、抽魂术封印、克它的金符",
+    "等级": "魔尸、天地灵尸"
   },
   "observations": {
     "种族": [
@@ -114,6 +115,11 @@
         "value": "独臂、浑身粗硬绿毛、骷髅般死灰面容、巨大獠牙、尸臭",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "全身绿毛独臂",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
       }
     ],
     "栖息地": [
@@ -149,6 +155,18 @@
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
+    ],
+    "等级": [
+      {
+        "value": "魔尸",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
+      },
+      {
+        "value": "天地灵尸",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
+      }
     ]
   },
   "firstSeq": 607,
@@ -183,6 +201,12 @@
       "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
       "dated": false,
       "seq": 607
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-787-tun-mo-dan-gui",
+      "dated": false,
+      "seq": 787
     }
   },
   "contested": false,
@@ -192,7 +216,8 @@
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-17T08:06:19.610Z"
+  "updatedAt": "2026-06-17T13:07:38.901Z"
 }

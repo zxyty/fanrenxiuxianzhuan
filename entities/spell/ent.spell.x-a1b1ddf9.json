@@ -3,7 +3,8 @@
   "type": "spell",
   "name": "搜魂术",
   "aliases": [
-    "搜魂之术"
+    "搜魂之术",
+    "搜魂"
   ],
   "summary": "强行搜取他人神识记忆的秘术，对修炼托天魔功者无效。",
   "attributes": {
@@ -20,10 +21,15 @@
         "value": "魂识神通",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "神魂类/搜取记忆",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
       }
     ]
   },
-  "firstSeq": 1141,
+  "firstSeq": 787,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -37,7 +43,8 @@
   "docs": [
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1407-jinsui-lianti"
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-16T15:42:40.156Z"
+  "updatedAt": "2026-06-17T13:07:38.853Z"
 }

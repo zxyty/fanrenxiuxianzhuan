@@ -9,7 +9,9 @@
   "summary": "乌黑符箓密布、中刻古文‘罗’的古宝，可证阴罗宗长老身份。",
   "attributes": {
     "来历": "阴罗宗",
-    "外形": "乌黑令牌，刻古文‘罗’"
+    "外形": "乌黑令牌，刻古文‘罗’、乌黑令牌，密布符箓咒文，中刻古文‘罗’",
+    "品阶": "古宝",
+    "持有者": "韩立"
   },
   "observations": {
     "来历": [
@@ -23,6 +25,25 @@
       {
         "value": "乌黑令牌，刻古文‘罗’",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+        "seq": 787
+      },
+      {
+        "value": "乌黑令牌，密布符箓咒文，中刻古文‘罗’",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
         "seq": 787
       }
     ]
@@ -40,12 +61,25 @@
       "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
       "dated": false,
       "seq": 787
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-787-tun-mo-dan-gui",
+      "dated": false,
+      "seq": 787
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-787-tun-mo-dan-gui",
+      "dated": false,
+      "seq": 787
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-787-792-tunmo-jigui-jixizhidi"
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-15T05:30:32.485Z"
+  "updatedAt": "2026-06-17T13:07:38.857Z"
 }

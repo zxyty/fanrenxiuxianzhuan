@@ -8,7 +8,7 @@
   "summary": "玄阴经所载秘法，配合离针法器逐步削弱目标本源神识，用于侵占至木灵婴。",
   "attributes": {
     "出处": "玄阴经",
-    "效果": "逐步消散削弱目标神识",
+    "效果": "逐步消散削弱目标神识、削弱消散神识",
     "修炼条件": "配合离针法器"
   },
   "observations": {
@@ -23,6 +23,11 @@
       {
         "value": "逐步消散削弱目标神识",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+        "seq": 787
+      },
+      {
+        "value": "削弱消散神识",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
         "seq": 787
       }
     ],
@@ -59,7 +64,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-16T00:43:53.291Z"
+  "updatedAt": "2026-06-17T13:07:38.894Z"
 }

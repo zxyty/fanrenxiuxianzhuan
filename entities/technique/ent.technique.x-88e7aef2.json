@@ -10,7 +10,8 @@
     "出处": "轮回功",
     "修炼条件": "须借阴月之力布阵汇集",
     "适用境界": "元婴期",
-    "外显异象": "阴月之力有害他人修炼"
+    "外显异象": "阴月之力有害他人修炼",
+    "效果": "置之死地而后生（极危险）"
   },
   "observations": {
     "出处": [
@@ -45,6 +46,13 @@
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
       }
+    ],
+    "效果": [
+      {
+        "value": "置之死地而后生（极危险）",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
+      }
     ]
   },
   "firstSeq": 787,
@@ -72,6 +80,12 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-787-tun-mo-dan-gui",
+      "dated": false,
+      "seq": 787
     }
   },
   "contested": false,
@@ -79,7 +93,8 @@
   "docs": [
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-1167-1172-return-luoyunzong",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-16T07:03:34.636Z"
+  "updatedAt": "2026-06-17T13:07:38.846Z"
 }

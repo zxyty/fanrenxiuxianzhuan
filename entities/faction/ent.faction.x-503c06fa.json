@@ -12,8 +12,8 @@
   ],
   "summary": "大晋十大魔宗之一，与慕兰族结盟参战，以巨兽铜甲炼尸助阵换取战死生魂。",
   "attributes": {
-    "阵营": "大晋魔宗、晋国魔道、魔道、敌对韩立、魔道/正魔十宗",
-    "所属界面": "大晋、晋国、大晋皇朝、大晋皇朝/晋国、晋国/大晋皇朝",
+    "阵营": "大晋魔宗、晋国魔道、魔道、敌对韩立、魔道/正魔十宗、敌对（与韩立）",
+    "所属界面": "大晋、晋国、大晋皇朝、大晋皇朝/晋国、晋国/大晋皇朝、人界",
     "镇派之宝": "阴罗幡(十八杆)",
     "掌门": "阴罗宗宗主",
     "据点": "晋国、晋京、南疆、邡莽山、阴罗宗总坛",
@@ -46,6 +46,11 @@
         "value": "魔道/正魔十宗",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "敌对（与韩立）",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
       }
     ],
     "所属界面": [
@@ -73,6 +78,11 @@
         "value": "晋国/大晋皇朝",
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
       }
     ],
     "镇派之宝": [
@@ -110,6 +120,11 @@
         "value": "鬼罗幡（十二鬼罗幡）",
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
+      },
+      {
+        "value": "封魂咒解咒秘术（仅宗主/大长老掌）",
+        "docId": "plot.fanren-787-tun-mo-dan-gui",
+        "seq": 787
       }
     ],
     "掌门": [
@@ -263,7 +278,8 @@
     "plot.fanren-757-bingxuecan-yu-gengjing",
     "plot.fanren-769-774-bianjie-zhizhan-6-8",
     "plot.fanren-775-780-giant-ape-appears",
-    "plot.fanren-781-nangong-jingbian"
+    "plot.fanren-781-nangong-jingbian",
+    "plot.fanren-787-tun-mo-dan-gui"
   ],
-  "updatedAt": "2026-06-17T12:53:58.106Z"
+  "updatedAt": "2026-06-17T13:07:38.906Z"
 }
