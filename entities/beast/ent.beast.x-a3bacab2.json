@@ -9,7 +9,8 @@
   "summary": "疯婆子珍藏的灵兽，数丈白色小蛟，被借来护宝拦截魔道攻击。",
   "attributes": {
     "主人": "万天明",
-    "外形": "白色蛟"
+    "外形": "白色蛟",
+    "能力": "喷白光寒气"
   },
   "observations": {
     "主人": [
@@ -35,6 +36,13 @@
         "docId": "plot.fanren-ch480-da-zhan-qi",
         "seq": 480
       }
+    ],
+    "能力": [
+      {
+        "value": "喷白光寒气",
+        "docId": "plot.fanren-ch481-huaxing-zhibao",
+        "seq": 481
+      }
     ]
   },
   "firstSeq": 475,
@@ -50,13 +58,20 @@
       "docId": "plot.fanren-ch480-da-zhan-qi",
       "dated": false,
       "seq": 480
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch481-huaxing-zhibao",
+      "dated": false,
+      "seq": 481
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch474-xutiandian-inner-hall-layer2",
-    "plot.fanren-ch480-da-zhan-qi"
+    "plot.fanren-ch480-da-zhan-qi",
+    "plot.fanren-ch481-huaxing-zhibao"
   ],
-  "updatedAt": "2026-06-17T05:13:48.972Z"
+  "updatedAt": "2026-06-17T05:15:45.895Z"
 }
