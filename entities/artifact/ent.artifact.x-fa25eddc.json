@@ -16,10 +16,11 @@
   "attributes": {
     "品阶": "顶阶古宝、古宝、古宝顶阶",
     "持有者": "银月",
-    "能力": "大范围防御（百丈至千丈，顶尖者罩百里）、困敌、自行释放玉阳真火灭敌、困禁勒锁、蕴含玉阳真火、注入灵力即可使用、紫网罩敌、玉阳真火（青白火焰、火蛇）、化紫网护身、禁制开合、白光卷物、化紫色火网防护、大范围防御（百丈至千丈，传顶尖罩百里）、释放玉阳真火灭敌",
+    "能力": "大范围防御（百丈至千丈，顶尖者罩百里）、困敌、自行释放玉阳真火灭敌、困禁勒锁、蕴含玉阳真火、注入灵力即可使用、紫网罩敌、玉阳真火（青白火焰、火蛇）、化紫网护身、禁制开合、白光卷物、化紫色火网防护、大范围防御（百丈至千丈，传顶尖罩百里）、释放玉阳真火灭敌、禁锢、收缩勒紧",
     "来历": "坠魔谷、疑得自坠魔谷",
-    "外形": "层叠薄如轻绢的紫色晶网、散发紫色莹光的网兜,若有若无忽隐忽现、层叠紫色晶光丝网",
-    "禁制": "玉阳真火"
+    "外形": "层叠薄如轻绢的紫色晶网、散发紫色莹光的网兜,若有若无忽隐忽现、层叠紫色晶光丝网、紫色网兜",
+    "禁制": "玉阳真火",
+    "器灵": "银月"
   },
   "observations": {
     "品阶": [
@@ -121,6 +122,16 @@
         "value": "释放玉阳真火灭敌",
         "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
+      },
+      {
+        "value": "禁锢",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "收缩勒紧",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "来历": [
@@ -151,6 +162,11 @@
         "value": "层叠紫色晶光丝网",
         "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
+      },
+      {
+        "value": "紫色网兜",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "禁制": [
@@ -158,6 +174,13 @@
         "value": "玉阳真火",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      }
+    ],
+    "器灵": [
+      {
+        "value": "银月",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ]
   },
@@ -199,6 +222,12 @@
       "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
       "dated": false,
       "seq": 727
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.fanren-714-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
     }
   },
   "contested": false,
@@ -210,7 +239,8 @@
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
     "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
-    "plot.fanren-703-708-lianying-hezhongzhibao"
+    "plot.fanren-703-708-lianying-hezhongzhibao",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-17T10:41:47.340Z"
+  "updatedAt": "2026-06-17T10:56:01.822Z"
 }

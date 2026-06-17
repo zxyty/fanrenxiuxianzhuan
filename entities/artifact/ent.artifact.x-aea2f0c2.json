@@ -9,7 +9,7 @@
   "summary": "韩立的音波攻击古宝，喷青气催动发巨响震荡；封闭石室中音波增威，震出隐形妖狐。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "钟声音波/干扰施法",
+    "能力": "音波震荡攻击（封闭空间增威）、钟声音波/干扰施法、发淡银色音波",
     "外形": "银色小钟"
   },
   "observations": {
@@ -29,6 +29,11 @@
       {
         "value": "钟声音波/干扰施法",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "发淡银色音波",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ],
@@ -50,9 +55,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
       "dated": false,
-      "seq": 715
+      "seq": 607
     },
     "外形": {
       "asOf": null,
@@ -65,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T02:26:43.377Z"
+  "updatedAt": "2026-06-17T10:56:01.768Z"
 }

@@ -7,18 +7,20 @@
     "冰冷女子",
     "苍白女子",
     "南宫婉师姐",
-    "秀美女子"
+    "秀美女子",
+    "南宫婉的师姐"
   ],
   "summary": "掩月宗新任大长老、南宫婉同门师姐，元婴中期，功利心强，受魏无涯说动以困心术逼南宫婉嫁魏离辰。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴中期、掩月宗大长老、元婴期",
-    "身份": "剑修",
+    "身份": "掩月宗大长老、剑修、掩月宗剑修",
     "性格": "谨慎多疑、雷厉风行",
     "阵营": "正道",
-    "外貌": "面目秀美、肤色雪白冰冷、年约二十余、散阴寒之气、冰冷秀美、白衣、神情冰冷",
+    "外貌": "面目秀美、肤色雪白冰冷、年约二十余、散阴寒之气、冰冷秀美、白衣、神情冰冷、面目秀美、肤色雪白冰冷、年约二十余岁，隐散阴寒之气",
     "存殁": "存活",
-    "结局": "被擒昏迷,血魔剑与困心术令牌被取走"
+    "结局": "被擒昏迷,血魔剑与困心术令牌被取走",
+    "标志特征": "剑修，法宝多为飞剑"
   },
   "observations": {
     "性别": [
@@ -54,6 +56,11 @@
       {
         "value": "剑修",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "掩月宗剑修",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ],
@@ -96,6 +103,11 @@
         "value": "白衣、神情冰冷",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "面目秀美、肤色雪白冰冷、年约二十余岁，隐散阴寒之气",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "存殁": [
@@ -109,6 +121,13 @@
       {
         "value": "被擒昏迷,血魔剑与困心术令牌被取走",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "剑修，法宝多为飞剑",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ]
@@ -129,9 +148,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
       "dated": false,
-      "seq": 715
+      "seq": 709
     },
     "性格": {
       "asOf": null,
@@ -162,6 +181,12 @@
       "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
       "dated": false,
       "seq": 715
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-714-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
     }
   },
   "contested": false,
@@ -170,7 +195,8 @@
     "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
     "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan"
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T13:46:31.502Z"
+  "updatedAt": "2026-06-17T10:56:01.808Z"
 }

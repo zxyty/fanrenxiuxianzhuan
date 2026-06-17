@@ -8,7 +8,7 @@
   "summary": "掩月宗大长老安插监视南宫婉的弟子,被黄衫少女假冒其身份。",
   "attributes": {
     "性别": "女",
-    "身份": "掩月宗弟子/监视者"
+    "身份": "掩月宗弟子/监视者、掩月宗监视弟子"
   },
   "observations": {
     "性别": [
@@ -22,6 +22,11 @@
       {
         "value": "掩月宗弟子/监视者",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "掩月宗监视弟子",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ]
@@ -44,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T02:26:43.366Z"
+  "updatedAt": "2026-06-17T10:56:01.745Z"
 }

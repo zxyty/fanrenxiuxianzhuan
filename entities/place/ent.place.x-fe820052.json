@@ -6,7 +6,7 @@
   "summary": "黄枫谷议事大殿，血色试炼弟子集合出发之地。",
   "attributes": {
     "所属势力": "黄枫谷",
-    "类型": "议事大殿"
+    "类型": "大殿、议事大殿、议事殿堂"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +26,11 @@
         "value": "议事大殿",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
         "seq": 715
+      },
+      {
+        "value": "议事殿堂",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ]
   },
@@ -39,9 +44,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "docId": "plot.fanren-ch170-zhanlipin",
       "dated": false,
-      "seq": 715
+      "seq": 169
     }
   },
   "contested": false,
@@ -49,7 +54,8 @@
   "docs": [
     "plot.fanren-ch170-zhanlipin",
     "plot.fanren-ch344-formation-slays-mantis",
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T02:26:43.437Z"
+  "updatedAt": "2026-06-17T10:56:01.855Z"
 }

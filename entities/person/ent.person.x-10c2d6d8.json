@@ -10,8 +10,8 @@
     "性别": "女",
     "小阶段": "炼气期",
     "阵营": "青灵门",
-    "外貌": "脸圆婴儿肥、大眼乌黑",
-    "身份": "监视者『玉儿』",
+    "外貌": "黄衫",
+    "身份": "监视者『玉儿』、监视弟子玉儿",
     "标志特征": "黄衫、擅土遁术"
   },
   "observations": {
@@ -41,6 +41,11 @@
         "value": "脸圆婴儿肥、大眼乌黑",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
+      },
+      {
+        "value": "黄衫",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "身份": [
@@ -49,6 +54,12 @@
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
         "seq": 715,
         "note": "伪装/假冒玉儿"
+      },
+      {
+        "value": "监视弟子玉儿",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715,
+        "note": "假冒"
       }
     ],
     "标志特征": [
@@ -81,9 +92,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "docId": "plot.fanren-714-shipo-yu-fuji",
       "dated": false,
-      "seq": 523
+      "seq": 715
     },
     "身份": {
       "asOf": null,
@@ -103,7 +114,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T02:26:43.363Z"
+  "updatedAt": "2026-06-17T10:56:01.742Z"
 }

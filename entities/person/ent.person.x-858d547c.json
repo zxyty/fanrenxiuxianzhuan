@@ -22,10 +22,10 @@
   "summary": "掩月宗祖师,容貌如少女的白衣绝色女子,修炼轮回功,与韩立有合体之缘,曾以禁制法力暂传韩立。",
   "attributes": {
     "性别": "女",
-    "身份": "掩月宗祖师、掩月宗修士、掩月宗长老、掩月宗元婴修士、师姐、韩立伴侣、韩立道侣、于落云宗禁地中、韩立的双修伴侣、被封印者、落云宗长老、韩立之妻、闭关修炼中、韩立爱妻",
+    "身份": "掩月宗祖师、掩月宗修士、掩月宗长老、掩月宗元婴修士、师姐、韩立伴侣、韩立道侣、于落云宗禁地中、韩立的双修伴侣、被封印者、落云宗长老、韩立之妻、闭关修炼中、韩立爱妻、掩月宗弟子",
     "称号": "南宫仙子",
     "外貌": "宫裙女子",
-    "标志特征": "身中封魂咒",
+    "标志特征": "常年头戴面纱、曾以『南宫屏』之名易容现身、被禁大半法力、受监视、身中封魂咒、可降五色光柱的宝镜、被封魂咒所困、封于冰壁、双目紧闭脸色微白、被禁大半法力",
     "阵营": "掩月宗、落云宗、乱星海",
     "小阶段": "元婴后期",
     "存殁": "在世（闭关中）"
@@ -110,6 +110,11 @@
         "value": "韩立爱妻",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "掩月宗弟子",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "称号": [
@@ -213,6 +218,12 @@
         "value": "封于冰壁、双目紧闭脸色微白",
         "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
         "seq": 859
+      },
+      {
+        "value": "被禁大半法力",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715,
+        "note": "本章当时状态"
       }
     ],
     "阵营": [
@@ -321,9 +332,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
       "dated": false,
-      "seq": 1117
+      "seq": 205
     },
     "阵营": {
       "asOf": null,
@@ -386,7 +397,8 @@
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
-    "plot.fanren-703-708-lianying-hezhongzhibao"
+    "plot.fanren-703-708-lianying-hezhongzhibao",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-17T10:41:47.366Z"
+  "updatedAt": "2026-06-17T10:56:01.805Z"
 }

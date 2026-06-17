@@ -8,8 +8,9 @@
   "summary": "南宫婉师姐成名古宝之一，乌黑镜身射五色光柱，可禁制困住敌方法宝。",
   "attributes": {
     "持有者": "南宫婉师姐、冰冷女子、南宫婉、白衣女子",
-    "能力": "放五色光柱困敌",
-    "外形": "通体乌黑、正面深邃阴森却射出五色光柱"
+    "能力": "射五色光柱禁制困住法宝、五色光柱禁制、放五色光柱困敌、射五色光柱禁制法宝",
+    "外形": "通体乌黑、正面深邃阴森却射出五色光柱、镜小、通体乌黑发亮、射五色光柱",
+    "品阶": "古宝"
   },
   "observations": {
     "持有者": [
@@ -49,12 +50,29 @@
         "value": "放五色光柱困敌",
         "docId": "plot.fanren-841-lianshou-kangmo",
         "seq": 841
+      },
+      {
+        "value": "射五色光柱禁制法宝",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
       }
     ],
     "外形": [
       {
         "value": "通体乌黑、正面深邃阴森却射出五色光柱",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "镜小、通体乌黑发亮、射五色光柱",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
+        "seq": 715
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ]
@@ -69,13 +87,19 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-841-lianshou-kangmo",
+      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
       "dated": false,
-      "seq": 841
+      "seq": 715
     },
     "外形": {
       "asOf": null,
       "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "dated": false,
+      "seq": 715
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-714-shipo-yu-fuji",
       "dated": false,
       "seq": 715
     }
@@ -85,7 +109,8 @@
   "docs": [
     "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
-    "plot.fanren-841-lianshou-kangmo"
+    "plot.fanren-841-lianshou-kangmo",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T14:00:34.661Z"
+  "updatedAt": "2026-06-17T10:56:01.832Z"
 }

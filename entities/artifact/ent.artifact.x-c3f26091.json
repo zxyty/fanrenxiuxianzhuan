@@ -6,7 +6,7 @@
   "summary": "南宫婉的暗器宝物，可隔护罩伤敌，南宫婉所剩无几仍留有一枚。",
   "attributes": {
     "持有者": "南宫婉",
-    "能力": "隔护罩暗中伤敌"
+    "能力": "隔护罩暗中伤敌、暗器，赤红暗芒穿护罩伤敌"
   },
   "observations": {
     "持有者": [
@@ -20,6 +20,11 @@
       {
         "value": "隔护罩暗中伤敌",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+        "seq": 715
+      },
+      {
+        "value": "暗器，赤红暗芒穿护罩伤敌",
+        "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-714-shipo-yu-fuji"
   ],
-  "updatedAt": "2026-06-15T02:26:43.394Z"
+  "updatedAt": "2026-06-17T10:56:01.787Z"
 }
