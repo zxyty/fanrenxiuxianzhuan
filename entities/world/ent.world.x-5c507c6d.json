@@ -4,11 +4,12 @@
   "name": "上古魔界",
   "aliases": [
     "古魔界",
-    "古魔界圣族"
+    "古魔界圣族",
+    "魔界"
   ],
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
-    "特点": "魔功源头、曾入侵人界",
+    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似",
     "通道": "上古曾开通向人界的通道"
   },
   "observations": {
@@ -22,6 +23,11 @@
         "value": "魔功源头、曾入侵人界",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "古魔聚居、与人界相似",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
       }
     ],
     "通道": [
@@ -36,9 +42,9 @@
   "attrProvenance": {
     "特点": {
       "asOf": null,
-      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
       "dated": false,
-      "seq": 1189
+      "seq": 793
     },
     "通道": {
       "asOf": null,
@@ -53,7 +59,8 @@
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-ch1057-sanbao-lianshou",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-16T07:03:34.625Z"
+  "updatedAt": "2026-06-17T13:15:57.763Z"
 }

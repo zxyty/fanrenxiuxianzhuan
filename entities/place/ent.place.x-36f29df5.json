@@ -9,16 +9,22 @@
   ],
   "summary": "昌州盆地中心连绵百万里的山脉，灵兽灵药丰富但常年瘴气封锁，每约五十年瘴气散去一次。",
   "attributes": {
-    "危险度": "极高（剧毒瘴气、空间裂缝）",
+    "危险度": "极高（剧毒瘴气、空间裂缝）、极高",
     "特产": "灵兽、珍稀灵药、灵药",
     "所属界面": "天南",
-    "类型": "山脉"
+    "类型": "山脉",
+    "守护": "剧毒瘴气"
   },
   "observations": {
     "危险度": [
       {
         "value": "极高（剧毒瘴气、空间裂缝）",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
       }
     ],
@@ -51,6 +57,18 @@
         "value": "山脉",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
         "seq": 799
+      },
+      {
+        "value": "巨大山脉",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
+      }
+    ],
+    "守护": [
+      {
+        "value": "剧毒瘴气",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
       }
     ]
   },
@@ -79,6 +97,12 @@
       "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
       "dated": false,
       "seq": 799
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+      "dated": false,
+      "seq": 793
     }
   },
   "contested": false,
@@ -86,7 +110,8 @@
   "docs": [
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-15T11:57:51.571Z"
+  "updatedAt": "2026-06-17T13:15:57.724Z"
 }

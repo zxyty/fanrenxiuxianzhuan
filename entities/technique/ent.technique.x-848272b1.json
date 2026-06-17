@@ -2,10 +2,12 @@
   "id": "ent.technique.x-848272b1",
   "type": "technique",
   "name": "七情决",
-  "aliases": [],
+  "aliases": [
+    "狗屁七情决"
+  ],
   "summary": "大衍神君所修功法，将施术者喜怒哀乐与目标元婴/元神相连以控其心境，求生不能求死不得。",
   "attributes": {
-    "效果": "操纵喜怒哀乐、连累目标心境、令对手第二元婴狂性大发",
+    "效果": "操纵喜怒哀乐、连累目标心境、令对手第二元婴狂性大发、操控喜怒哀乐、令元婴狂性大发",
     "出处": "大衍神君"
   },
   "observations": {
@@ -18,6 +20,16 @@
       {
         "value": "令对手第二元婴狂性大发",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "操控喜怒哀乐",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
+      },
+      {
+        "value": "令元婴狂性大发",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
       }
     ],
@@ -47,7 +59,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-793-798-zhuimo-zhi-di"
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-15T05:43:18.500Z"
+  "updatedAt": "2026-06-17T13:15:57.760Z"
 }

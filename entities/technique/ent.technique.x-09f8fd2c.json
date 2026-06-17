@@ -8,7 +8,7 @@
   "summary": "大衍神君在大衍决基础上自创的转生秘术，将神识寄附特制傀儡以求保持神智延命；仅完成一半即被迫使用，致修为大半封存、元神无法出窍。",
   "attributes": {
     "出处": "大衍神君自创（大衍决基础上）、大衍神君自创",
-    "效果": "寄神，致施者被困傀儡",
+    "效果": "将神识寄附傀儡、放弃大部分修为以保持神智延命、寄神，致施者被困傀儡、神识寄附傀儡苟活",
     "适用境界": "元婴后期"
   },
   "observations": {
@@ -34,6 +34,11 @@
         "value": "寄神，致施者被困傀儡",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
         "seq": 961
+      },
+      {
+        "value": "神识寄附傀儡苟活",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
       }
     ],
     "适用境界": [
@@ -54,9 +59,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "docId": "plot.fanren-793-798-zhuimo-zhi-di",
       "dated": false,
-      "seq": 961
+      "seq": 793
     },
     "适用境界": {
       "asOf": null,
@@ -69,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-793-798-zhuimo-zhi-di",
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-16T02:49:21.265Z"
+  "updatedAt": "2026-06-17T13:15:57.758Z"
 }

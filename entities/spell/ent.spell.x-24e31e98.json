@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "需传音符的符术类辅助法术。",
   "attributes": {
-    "类型": "符术"
+    "类型": "传讯"
   },
   "observations": {
     "类型": [
@@ -13,6 +13,11 @@
         "value": "符术",
         "docId": "lore.fanren-ch134-shengxian-dahui",
         "seq": 133
+      },
+      {
+        "value": "传讯",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
       }
     ]
   },
@@ -20,15 +25,16 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "lore.fanren-ch134-shengxian-dahui",
+      "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
       "dated": false,
-      "seq": 133
+      "seq": 793
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-ch134-shengxian-dahui"
+    "lore.fanren-ch134-shengxian-dahui",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-14T03:58:07.257Z"
+  "updatedAt": "2026-06-17T13:15:57.741Z"
 }

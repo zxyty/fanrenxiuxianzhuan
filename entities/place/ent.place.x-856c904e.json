@@ -4,14 +4,32 @@
   "name": "昌州",
   "aliases": [],
   "summary": "东裕国北部州，盆地中心即万岭山脉，瘴气将散时修士云集。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "所属势力": "东裕国"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "东裕国",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
+      }
+    ]
+  },
   "firstSeq": 793,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+      "dated": false,
+      "seq": 793
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-793-798-zhuimo-zhi-di"
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-15T05:43:18.485Z"
+  "updatedAt": "2026-06-17T13:15:57.721Z"
 }

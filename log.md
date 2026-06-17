@@ -455,3 +455,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T12:40:00.837Z** `ingest` plot.fanren-775-780-giant-ape-appears — 凡人修仙传 第775-780章｜巨猿现·辣手无情·血鬼与石人 · kind=plot asOf=2026-06-17 entities=41 relations=51 src=00775-00780.md
 - **2026-06-17T12:53:58.398Z** `ingest` plot.fanren-781-nangong-jingbian — 第781章 南宫惊变：南宫婉中封魂咒自封冰壁 · kind=plot asOf=2026-06-17 entities=32 relations=46 src=00781-00786.md
 - **2026-06-17T13:07:39.148Z** `ingest` plot.fanren-787-tun-mo-dan-gui — 凡人修仙传 第787章 吞魔啖鬼：韩立啼魂兽吞尽鬼罗幡魔头、剑阵困杀黑袍青年 · kind=plot asOf=2026-06-17 entities=45 relations=55 src=00787-00792.md
+- **2026-06-17T13:15:57.986Z** `ingest` plot.fanren-793-798-zhuimo-valley-hanli-return — 凡人修仙传 第793-798章｜坠魔之地·韩立回归·大衍神君 · kind=plot asOf=2026-06-17 entities=46 relations=42 src=00793-00798.md

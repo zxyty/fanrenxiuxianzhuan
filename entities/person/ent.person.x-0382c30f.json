@@ -3,15 +3,16 @@
   "type": "person",
   "name": "陈巧天",
   "aliases": [
-    "陈大哥"
+    "陈大哥",
+    "锦袍儒生"
   ],
   "summary": "黄枫谷陈氏家族锦袍儒生，结丹期，陈巧倩之兄，被韩立出手相救。",
   "attributes": {
     "性别": "男",
-    "小阶段": "结丹期",
+    "小阶段": "结丹期、结丹",
     "出身地": "陈家",
     "外貌": "锦袍中年儒生",
-    "阵营": "正道",
+    "阵营": "正道、黄枫谷",
     "身份": "陈家修士"
   },
   "observations": {
@@ -26,6 +27,11 @@
       {
         "value": "结丹期",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
       }
     ],
@@ -52,6 +58,11 @@
       {
         "value": "正道",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "黄枫谷",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
       }
     ],
@@ -106,7 +117,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-793-798-zhuimo-zhi-di",
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-15T05:51:36.817Z"
+  "updatedAt": "2026-06-17T13:15:57.780Z"
 }

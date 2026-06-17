@@ -7,8 +7,8 @@
   ],
   "summary": "大衍神君背负的竹筒，外表普通却是空间类宝物，藏有其傀儡真身。",
   "attributes": {
-    "持有者": "大衍神君",
-    "能力": "空间内别有洞天",
+    "持有者": "大衍神君、韩立",
+    "能力": "空间内别有洞天、别有洞天的空间宝物",
     "外形": "普通竹筒"
   },
   "observations": {
@@ -17,12 +17,22 @@
         "value": "大衍神君",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
         "seq": 793
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
+        "seq": 793
       }
     ],
     "能力": [
       {
         "value": "空间内别有洞天",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
+        "seq": 793
+      },
+      {
+        "value": "别有洞天的空间宝物",
+        "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
       }
     ],
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-793-798-zhuimo-zhi-di"
+    "plot.fanren-793-798-zhuimo-zhi-di",
+    "plot.fanren-793-798-zhuimo-valley-hanli-return"
   ],
-  "updatedAt": "2026-06-15T05:43:18.511Z"
+  "updatedAt": "2026-06-17T13:15:57.776Z"
 }
