@@ -5,13 +5,16 @@
   "aliases": [
     "辛姓中年人",
     "辛师兄",
-    "辛师弟"
+    "辛师弟",
+    "黑肤少年"
   ],
   "summary": "落云宗天泉峰峰主，结丹中期，本届天泉峰一峰独占六个入选名额。",
   "attributes": {
     "小阶段": "结丹中期",
     "身份": "天泉峰峰主",
-    "性别": "男"
+    "性别": "男",
+    "外貌": "黑肤少年",
+    "性格": "老实"
   },
   "observations": {
     "小阶段": [
@@ -26,17 +29,36 @@
         "value": "天泉峰峰主",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "师祖世俗界后辈（未正式入门）",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
-        "seq": 619
+        "seq": 601
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑肤少年",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
+      }
+    ],
+    "性格": [
+      {
+        "value": "老实",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ]
   },
-  "firstSeq": 619,
+  "firstSeq": 601,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
@@ -54,13 +76,26 @@
       "asOf": null,
       "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
       "dated": false,
-      "seq": 619
+      "seq": 601
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-618-622-luoyunzong-zongnei-xuanba"
+    "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
   ],
-  "updatedAt": "2026-06-14T19:58:38.243Z"
+  "updatedAt": "2026-06-17T07:51:04.368Z"
 }

@@ -8,10 +8,10 @@
   ],
   "summary": "神手谷内的药材园圃，韩立在此取材配药、试药兔，绿液溅及数株药草。",
   "attributes": {
-    "所属势力": "黄枫谷",
+    "所属势力": "落云宗",
     "类型": "灵药园",
     "特产": "千结花、黑芍草、金精参",
-    "守护": "马师兄（小老头）"
+    "守护": "粗浅法阵（黄令牌控制）"
   },
   "observations": {
     "所属势力": [
@@ -24,6 +24,11 @@
         "value": "黄枫谷",
         "docId": "plot.fanren-ch152-two-years-later",
         "seq": 151
+      },
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "类型": [
@@ -51,6 +56,11 @@
         "value": "灵药园",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "宗门药园",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "特产": [
@@ -75,6 +85,11 @@
         "value": "马师兄（小老头）",
         "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
         "seq": 211
+      },
+      {
+        "value": "粗浅法阵（黄令牌控制）",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ]
   },
@@ -82,9 +97,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-ch152-two-years-later",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 151
+      "seq": 601
     },
     "类型": {
       "asOf": null,
@@ -100,9 +115,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 211
+      "seq": 601
     }
   },
   "contested": false,
@@ -118,7 +133,8 @@
     "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
     "plot.fanren-ch386-four-years-jiedan",
     "plot.fanren-ch392-yuchong",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
   ],
-  "updatedAt": "2026-06-16T09:33:28.387Z"
+  "updatedAt": "2026-06-17T07:51:04.374Z"
 }

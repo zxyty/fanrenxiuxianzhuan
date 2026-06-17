@@ -11,9 +11,11 @@
   "summary": "天星宗坊市炼器店主，仅炼气期但家学渊源，靠徐家世代供养的火鸦妖火可炼顶阶法器。",
   "attributes": {
     "小阶段": "炼气期",
-    "身份": "炼器师",
-    "外貌": "白发老者",
-    "性格": "炼器成痴"
+    "身份": "天泉峰弟子（三师兄）",
+    "外貌": "白发苍苍、满脸皱纹、年近花甲",
+    "性格": "炼器成痴",
+    "性别": "男",
+    "标志特征": "精通制符术"
   },
   "observations": {
     "小阶段": [
@@ -33,6 +35,11 @@
         "value": "炼器师",
         "docId": "plot.fanren-223-228-midian-jingmai-auction",
         "seq": 223
+      },
+      {
+        "value": "天泉峰弟子（三师兄）",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "外貌": [
@@ -45,6 +52,11 @@
         "value": "白发老者",
         "docId": "plot.fanren-223-228-midian-jingmai-auction",
         "seq": 223
+      },
+      {
+        "value": "白发苍苍、满脸皱纹、年近花甲",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "性格": [
@@ -52,6 +64,20 @@
         "value": "炼器成痴",
         "docId": "plot.fanren-223-228-midian-jingmai-auction",
         "seq": 223
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "精通制符术",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ]
   },
@@ -65,28 +91,41 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 223
+      "seq": 601
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-223-228-midian-jingmai-auction",
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
-      "seq": 223
+      "seq": 601
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-223-228-midian-jingmai-auction",
       "dated": false,
       "seq": 223
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
-    "plot.fanren-223-228-midian-jingmai-auction"
+    "plot.fanren-223-228-midian-jingmai-auction",
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
   ],
-  "updatedAt": "2026-06-14T06:39:00.544Z"
+  "updatedAt": "2026-06-17T07:51:04.365Z"
 }

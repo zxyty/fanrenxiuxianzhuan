@@ -11,7 +11,7 @@
   "summary": "灰黑色珠子，控制啼魂兽之物，需以炼化法宝之法炼化、抹除原主神识方能真正驯兽。",
   "attributes": {
     "类型": "灵珠",
-    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)、控制啼魂兽"
+    "用途": "炼化控制啼魂兽、指挥啼魂兽、与啼魂兽生死相关、感知啼魂兽状态、与之相连、示警(发热)、控制啼魂兽、与啼魂兽生死相关，炼化后可与神识相通"
   },
   "observations": {
     "类型": [
@@ -61,6 +61,11 @@
         "value": "控制啼魂兽",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "与啼魂兽生死相关，炼化后可与神识相通",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ]
   },
@@ -94,7 +99,8 @@
     "plot.fanren-1438-yin-zhu-feng",
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
-    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
   ],
-  "updatedAt": "2026-06-17T07:17:34.914Z"
+  "updatedAt": "2026-06-17T07:51:04.392Z"
 }

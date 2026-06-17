@@ -14,7 +14,9 @@
     "身份": "刚入门弟子",
     "标志特征": "持寒月轮，精于制符",
     "阵营": "落云宗、魔道千幻宗、魔道、正魔两道(内奸)",
-    "称号": "千幻宗少主"
+    "称号": "千幻宗少主",
+    "性别": "男",
+    "外貌": "络腮胡子大汉、憨厚"
   },
   "observations": {
     "小阶段": [
@@ -48,6 +50,11 @@
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631,
         "note": "假扮潜入"
+      },
+      {
+        "value": "天泉峰外事弟子",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "标志特征": [
@@ -55,6 +62,11 @@
         "value": "持寒月轮，精于制符",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "身上带有诡异寒气异状",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
       }
     ],
     "阵营": [
@@ -86,9 +98,23 @@
         "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
         "seq": 631
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
+      }
+    ],
+    "外貌": [
+      {
+        "value": "络腮胡子大汉、憨厚",
+        "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+        "seq": 601
+      }
     ]
   },
-  "firstSeq": 619,
+  "firstSeq": 601,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
@@ -121,6 +147,18 @@
       "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
       "seq": 631
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "dated": false,
+      "seq": 601
     }
   },
   "contested": false,
@@ -128,7 +166,8 @@
   "docs": [
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
     "plot.fanren-625-630-san-pai-shi-jian-jin-di",
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
   ],
-  "updatedAt": "2026-06-14T20:25:50.634Z"
+  "updatedAt": "2026-06-17T07:51:04.361Z"
 }
