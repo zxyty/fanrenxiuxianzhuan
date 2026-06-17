@@ -9,8 +9,9 @@
   "summary": "结丹初期修士，面色淡金，心细，性急抱怨连连。",
   "attributes": {
     "小阶段": "结丹初期",
-    "外貌": "面色淡金",
-    "性格": "心细、性急"
+    "外貌": "面色淡金、淡金面容",
+    "性格": "心细、性急",
+    "阵营": "散修"
   },
   "observations": {
     "小阶段": [
@@ -25,11 +26,23 @@
         "value": "面色淡金",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "淡金面容",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "性格": [
       {
         "value": "心细、性急",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
@@ -54,6 +67,12 @@
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
     }
   },
   "contested": false,
@@ -62,5 +81,5 @@
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
     "plot.fanren-523-528-zhongmo-xuming"
   ],
-  "updatedAt": "2026-06-14T17:58:18.059Z"
+  "updatedAt": "2026-06-17T06:19:33.511Z"
 }

@@ -11,7 +11,8 @@
     "品阶": "魔道功法",
     "五行属性": "血",
     "效果": "护体血光",
-    "适用境界": "由分身修炼"
+    "适用境界": "由分身修炼",
+    "修炼条件": "分身修炼"
   },
   "observations": {
     "出处": [
@@ -69,6 +70,13 @@
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "分身修炼",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
     ]
   },
   "firstSeq": 325,
@@ -103,6 +111,12 @@
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
     }
   },
   "contested": false,
@@ -115,5 +129,5 @@
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
     "plot.fanren-421-426-qixialian-yaoguanshe"
   ],
-  "updatedAt": "2026-06-15T00:56:43.587Z"
+  "updatedAt": "2026-06-17T06:19:33.474Z"
 }

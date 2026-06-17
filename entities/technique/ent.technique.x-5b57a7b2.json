@@ -4,15 +4,17 @@
   "name": "天都尸火",
   "aliases": [
     "天都妖尸",
-    "黑色尸火"
+    "黑色尸火",
+    "极阴祖师秘术"
   ],
   "summary": "极阴祖师掌握的尸火之力，本片段已『小成』。",
   "attributes": {
-    "效果": "尸火",
-    "适用境界": "元婴期以上且以玄阴经为基础",
-    "出处": "玄阴经",
+    "效果": "犀利魔火，附带炼尸天都妖尸",
+    "适用境界": "元婴期、元婴期以上且以玄阴经为基础、元婴期以上",
+    "出处": "玄阴经、极阴祖师、玄阴经下半部",
     "五行属性": "火",
-    "外显异象": "漆黑如墨火球"
+    "外显异象": "漆黑如墨火球",
+    "修炼条件": "须以玄阴神光为基础"
   },
   "observations": {
     "效果": [
@@ -25,6 +27,11 @@
         "value": "焚人成飞灰，遁速极快",
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
+      },
+      {
+        "value": "犀利魔火，附带炼尸天都妖尸",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "适用境界": [
@@ -35,6 +42,11 @@
       },
       {
         "value": "元婴期以上且以玄阴经为基础",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "元婴期以上",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
@@ -49,6 +61,11 @@
         "value": "极阴祖师",
         "docId": "plot.fanren-ch483-bingfeng",
         "seq": 483
+      },
+      {
+        "value": "玄阴经下半部",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "五行属性": [
@@ -64,27 +81,34 @@
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "须以玄阴神光为基础",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
     ]
   },
   "firstSeq": 403,
   "attrProvenance": {
     "效果": {
       "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "适用境界": {
+      "asOf": null,
       "docId": "plot.fanren-ch452-leiting-zhiji",
       "dated": false,
       "seq": 451
     },
-    "适用境界": {
-      "asOf": null,
-      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-      "dated": false,
-      "seq": 517
-    },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "docId": "plot.fanren-ch483-bingfeng",
       "dated": false,
-      "seq": 517
+      "seq": 483
     },
     "五行属性": {
       "asOf": null,
@@ -97,6 +121,12 @@
       "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
       "dated": false,
       "seq": 403
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
     }
   },
   "contested": false,
@@ -111,5 +141,5 @@
     "plot.fanren-ch485-yuanying-xian",
     "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:46:11.584Z"
+  "updatedAt": "2026-06-17T06:19:33.473Z"
 }

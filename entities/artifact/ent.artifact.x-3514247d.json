@@ -4,13 +4,14 @@
   "name": "破天神砂",
   "aliases": [
     "红色葫芦",
-    "红色晶砂"
+    "红色晶砂",
+    "火红葫芦晶砂"
   ],
   "summary": "霍氏兄弟的法宝，红葫芦喷出铺天盖地红色晶砂困敌。",
   "attributes": {
     "持有者": "霍氏兄弟",
-    "外形": "红色葫芦/火红晶砂",
-    "能力": "化方圆百丈火红世界困敌"
+    "外形": "红色葫芦/火红晶砂、红色葫芦喷晶砂",
+    "能力": "化方圆百丈火红世界困敌、红砂铺天盖地困敌"
   },
   "observations": {
     "持有者": [
@@ -25,11 +26,21 @@
         "value": "红色葫芦/火红晶砂",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "红色葫芦喷晶砂",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "能力": [
       {
         "value": "化方圆百丈火红世界困敌",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "红砂铺天盖地困敌",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
@@ -61,5 +72,5 @@
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
   ],
-  "updatedAt": "2026-06-14T17:49:48.451Z"
+  "updatedAt": "2026-06-17T06:19:33.492Z"
 }

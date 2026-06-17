@@ -18,10 +18,10 @@
   "attributes": {
     "品阶": "古宝",
     "持有者": "韩立",
-    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身、隐匿后束缚锁定目标、五铜环锁缚、隐形后再现、套锁四肢颈项封住真元法力",
+    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身、隐匿后束缚锁定目标、五铜环锁缚、隐形后再现、套锁四肢颈项封住真元法力、五环锁敌、困束妖兽",
     "五行属性": "五行",
     "禁制": "对异灵根/高修为/旁门修士无效",
-    "外形": "五只颜色各异的铜环"
+    "外形": "五只铜环/五色霞光"
   },
   "observations": {
     "品阶": [
@@ -88,6 +88,11 @@
         "value": "套锁四肢颈项封住真元法力",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "五环锁敌、困束妖兽",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "五行属性": [
@@ -109,6 +114,11 @@
         "value": "五只颜色各异的铜环",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "五只铜环/五色霞光",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ]
   },
@@ -146,9 +156,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch499-504-nanming-island",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 499
+      "seq": 517
     }
   },
   "contested": false,
@@ -166,5 +176,5 @@
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-ch499-504-nanming-island"
   ],
-  "updatedAt": "2026-06-17T06:06:07.759Z"
+  "updatedAt": "2026-06-17T06:19:33.505Z"
 }

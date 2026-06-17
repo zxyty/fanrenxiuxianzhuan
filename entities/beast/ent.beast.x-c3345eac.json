@@ -1,29 +1,34 @@
 {
-  "id": "ent.beast.x-c0c7c6ff",
+  "id": "ent.beast.x-c3345eac",
   "type": "beast",
-  "name": "青色巨虾",
-  "aliases": [],
-  "summary": "三四丈长六级妖兽，六只碧绿眼珠、两只铁青巨钳，被韩立猎杀取淡蓝色内丹。",
+  "name": "化形巨龟",
+  "aliases": [
+    "千丈龟类妖兽"
+  ],
+  "summary": "近千丈的龟类七级妖兽，乌黑硬壳蛟首银尾，于奇渊岛海域历化形雷劫进阶八级。",
   "attributes": {
-    "等级": "六级",
-    "外形": "青色巨虾，六眼双钳、三四丈长青色巨虾，六只碧绿眼珠，铁青巨钳"
+    "等级": "七级（进阶八级中）",
+    "栖息地": "奇渊岛海域",
+    "外形": "近千丈巨龟、青色蛟首、银色巨尾"
   },
   "observations": {
     "等级": [
       {
-        "value": "六级",
+        "value": "七级（进阶八级中）",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "奇渊岛海域",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
     ],
     "外形": [
       {
-        "value": "青色巨虾，六眼双钳",
-        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-        "seq": 517
-      },
-      {
-        "value": "三四丈长青色巨虾，六只碧绿眼珠，铁青巨钳",
+        "value": "近千丈巨龟、青色蛟首、银色巨尾",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
@@ -32,6 +37,12 @@
   "firstSeq": 517,
   "attrProvenance": {
     "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
+    },
+    "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
@@ -49,5 +60,5 @@
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
   ],
-  "updatedAt": "2026-06-17T06:19:33.509Z"
+  "updatedAt": "2026-06-17T06:19:33.488Z"
 }

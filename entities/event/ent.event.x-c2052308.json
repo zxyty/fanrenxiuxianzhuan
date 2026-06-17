@@ -1,66 +1,70 @@
 {
-  "id": "ent.person.x-718d4f23",
-  "type": "person",
-  "name": "金霞道士",
+  "id": "ent.event.x-c2052308",
+  "type": "event",
+  "name": "奇渊岛毒蛟混战",
   "aliases": [
-    "金霞前辈",
-    "金霞",
-    "金霞老道",
-    "道骨仙风老道"
+    "化形雷劫围猎"
   ],
-  "summary": "元婴初期老道，八卦道袍背剑持拂尘，以青色玉环战毒蛟，提议联手只取蛟之精魂。",
+  "summary": "巨龟历化形雷劫之际，毒蛟出海护其渡劫，金霞道士与霍氏兄弟三人联手围攻毒蛟，韩立趁乱逃遁。",
   "attributes": {
-    "小阶段": "元婴初期",
-    "称号": "金霞",
-    "外貌": "道骨仙风老年道士、八卦道袍、道骨仙风老道、金光八卦道袍",
-    "性别": "男",
-    "身份": "散修",
-    "标志特征": "背宝剑持拂尘、青色玉环"
+    "章节": "第518-519章",
+    "地点": "奇渊岛海域",
+    "参与方": "韩立、化形巨龟、毒蛟、金霞道士、霍氏兄弟",
+    "起因": "巨龟化形雷劫引来修士觊觎妖丹精魂",
+    "结果": "三人一妖混战，韩立趁乱逃出数千里"
   },
   "observations": {
-    "小阶段": [
+    "章节": [
       {
-        "value": "元婴初期",
+        "value": "第518-519章",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
     ],
-    "称号": [
+    "地点": [
       {
-        "value": "金霞",
+        "value": "奇渊岛海域",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
     ],
-    "外貌": [
+    "参与方": [
       {
-        "value": "道骨仙风老年道士、八卦道袍",
+        "value": "韩立",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       },
       {
-        "value": "道骨仙风老道、金光八卦道袍",
+        "value": "化形巨龟",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "毒蛟",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "金霞道士",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "霍氏兄弟",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
     ],
-    "性别": [
+    "起因": [
       {
-        "value": "男",
+        "value": "巨龟化形雷劫引来修士觊觎妖丹精魂",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
     ],
-    "身份": [
+    "结果": [
       {
-        "value": "散修",
-        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-        "seq": 517
-      }
-    ],
-    "标志特征": [
-      {
-        "value": "背宝剑持拂尘、青色玉环",
+        "value": "三人一妖混战，韩立趁乱逃出数千里",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
@@ -68,37 +72,31 @@
   },
   "firstSeq": 517,
   "attrProvenance": {
-    "小阶段": {
+    "章节": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
     },
-    "称号": {
+    "地点": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
     },
-    "外貌": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
     },
-    "性别": {
+    "起因": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
     },
-    "身份": {
-      "asOf": null,
-      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-      "dated": false,
-      "seq": 517
-    },
-    "标志特征": {
+    "结果": {
       "asOf": null,
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
@@ -110,5 +108,5 @@
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
   ],
-  "updatedAt": "2026-06-17T06:19:33.490Z"
+  "updatedAt": "2026-06-17T06:19:33.495Z"
 }

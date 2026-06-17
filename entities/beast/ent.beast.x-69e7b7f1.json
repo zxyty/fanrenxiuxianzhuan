@@ -6,8 +6,9 @@
   "summary": "六级海兽，通体淡白晶莹、放射乳白长丝、喷白色晶球，喜食三色藻；难缠却被韩立一剑瞬杀。",
   "attributes": {
     "等级": "六级",
-    "栖息地": "外星海珊瑚岛",
-    "外形": "晶莹琉璃兽皮"
+    "栖息地": "三色藻海底、外星海珊瑚岛、外星海/奇渊岛附近（喜食三色藻）",
+    "外形": "淡白晶莹、放射乳白长丝、晶莹琉璃兽皮、通体淡白晶莹剔透、十余丈身躯",
+    "能力": "吐白色晶球、乳白色长丝切割"
   },
   "observations": {
     "等级": [
@@ -27,6 +28,11 @@
         "value": "外星海珊瑚岛",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
+      },
+      {
+        "value": "外星海/奇渊岛附近（喜食三色藻）",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "外形": [
@@ -39,6 +45,23 @@
         "value": "晶莹琉璃兽皮",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
+      },
+      {
+        "value": "通体淡白晶莹剔透、十余丈身躯",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
+    ],
+    "能力": [
+      {
+        "value": "吐白色晶球",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "乳白色长丝切割",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ]
   },
@@ -52,15 +75,21 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 523
+      "seq": 517
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 523
+      "seq": 517
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
     }
   },
   "contested": false,
@@ -69,5 +98,5 @@
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
     "plot.fanren-523-528-zhongmo-xuming"
   ],
-  "updatedAt": "2026-06-14T17:58:18.053Z"
+  "updatedAt": "2026-06-17T06:19:33.508Z"
 }

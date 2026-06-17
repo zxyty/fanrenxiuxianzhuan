@@ -17,10 +17,11 @@
   "summary": "乱星海第一大城，星宫首城，依圣山盘旋而建，自由开放并设通往外星海的传送阵。",
   "attributes": {
     "所属势力": "星宫",
-    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛",
+    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛、城池/海域核心",
     "特产": "妖丹、拍卖收购行",
     "守护": "禁制护城、执法队格杀勿论",
-    "所属界面": "人界乱星海"
+    "所属界面": "人界乱星海",
+    "危险度": "高（两方大战）"
   },
   "observations": {
     "所属势力": [
@@ -105,6 +106,11 @@
         "value": "城池/巨岛",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "城池/海域核心",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "特产": [
@@ -167,6 +173,13 @@
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
       }
+    ],
+    "危险度": [
+      {
+        "value": "高（两方大战）",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      }
     ]
   },
   "firstSeq": 385,
@@ -200,6 +213,12 @@
       "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
       "seq": 1213
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "dated": false,
+      "seq": 517
     }
   },
   "contested": false,
@@ -228,5 +247,5 @@
     "plot.fanren-ch499-504-nanming-island",
     "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-17T06:08:39.588Z"
+  "updatedAt": "2026-06-17T06:19:33.513Z"
 }

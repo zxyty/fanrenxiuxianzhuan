@@ -9,10 +9,10 @@
   ],
   "summary": "黑煞教诸功法（黑煞修罗功、煞妖决、血炼神光等）共同源出的经书，下落未明。",
   "attributes": {
-    "出处": "玄阴经玉简",
+    "出处": "黑煞教、魔道、玄骨老魔遗物玉简、玄阴经玉简、玄阴岛/玄阴一脉、玄骨老魔肋骨玉简",
     "五行属性": "阴",
-    "效果": "记载离魂术等阴属秘法",
-    "品阶": "高阶功法",
+    "效果": "魔道功法总纲、霸道异常、威力强；下半部含天都尸火等秘术、记载阴火雷雷珠炼制法、阴魔斩等、记载离魂术等阴属秘法、霸道威力强、下半部含天都尸火等秘术",
+    "品阶": "魔道功法、高阶功法、魔道高阶功法",
     "修炼条件": "部分秘术须元婴期以上、以玄阴经为基础",
     "适用境界": "结丹"
   },
@@ -42,6 +42,11 @@
         "value": "玄阴岛/玄阴一脉",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "玄骨老魔肋骨玉简",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "五行属性": [
@@ -71,6 +76,16 @@
         "value": "记载离魂术等阴属秘法",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "霸道威力强",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
+      },
+      {
+        "value": "下半部含天都尸火等秘术",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "品阶": [
@@ -83,6 +98,11 @@
         "value": "高阶功法",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
         "seq": 535
+      },
+      {
+        "value": "魔道高阶功法",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "修炼条件": [
@@ -104,9 +124,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-ch326-xueling-zuan",
       "dated": false,
-      "seq": 751
+      "seq": 325
     },
     "五行属性": {
       "asOf": null,
@@ -116,15 +136,15 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-ch428-xuangu-shangren-xiaocha",
       "dated": false,
-      "seq": 787
+      "seq": 427
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 535
+      "seq": 517
     },
     "修炼条件": {
       "asOf": null,
@@ -153,5 +173,5 @@
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-ch485-dan-yao-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:46:11.590Z"
+  "updatedAt": "2026-06-17T06:19:33.472Z"
 }

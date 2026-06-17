@@ -9,8 +9,8 @@
   ],
   "summary": "乱星海珊瑚礁所产十三叶灵草，展叶时散发气味引诱妖兽争食，韩立用作诱妖取丹的杀手锏。",
   "attributes": {
-    "类型": "灵草",
-    "用途": "低级丹药药引、诱引妖兽(展叶散气味)、诱妖（展叶散气）、喂养噬金虫促进化、引妖、催生高阶妖兽后代、引妖取丹、催生噬金虫繁殖、引调八级以下妖兽、催熟喂养噬金虫、催熟灵虫、喂食催化噬金虫、炼制饲灵丸灵药、催生进化噬金虫、催熟六翼霜蚣、诱引妖兽、喂养噬金虫",
+    "类型": "诱妖灵草",
+    "用途": "低级丹药药引、诱引妖兽(展叶散气味)、诱妖（展叶散气）、喂养噬金虫促进化、引妖、催生高阶妖兽后代、引妖取丹、催生噬金虫繁殖、引调八级以下妖兽、催熟喂养噬金虫、催熟灵虫、喂食催化噬金虫、炼制饲灵丸灵药、催生进化噬金虫、催熟六翼霜蚣、诱引妖兽、喂养噬金虫、引诱妖兽",
     "产地": "乱星海珊瑚礁",
     "稀有度": "稀有"
   },
@@ -20,6 +20,11 @@
         "value": "灵草",
         "docId": "plot.fanren-ch392-yuchong",
         "seq": 391
+      },
+      {
+        "value": "诱妖灵草",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "用途": [
@@ -107,6 +112,11 @@
         "value": "喂养噬金虫",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "引诱妖兽",
+        "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+        "seq": 517
       }
     ],
     "产地": [
@@ -133,9 +143,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch392-yuchong",
+      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
-      "seq": 391
+      "seq": 517
     },
     "用途": {
       "asOf": null,
@@ -172,5 +182,5 @@
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-1353-ling-chong-da-cheng"
   ],
-  "updatedAt": "2026-06-16T14:02:15.347Z"
+  "updatedAt": "2026-06-17T06:19:33.501Z"
 }
