@@ -14,11 +14,11 @@
   ],
   "summary": "蛮荒时期顶阶古宝（非通天灵宝），擅大范围防御与困敌，可自行释放玉阳真火，疑出自坠魔谷。",
   "attributes": {
-    "品阶": "古宝",
+    "品阶": "顶阶古宝、古宝、古宝顶阶",
     "持有者": "银月",
-    "能力": "大范围防御（百丈至千丈，顶尖者罩百里）、困敌、自行释放玉阳真火灭敌、困禁勒锁、蕴含玉阳真火、注入灵力即可使用、紫网罩敌、玉阳真火（青白火焰、火蛇）、化紫网护身、禁制开合、白光卷物、化紫色火网防护",
-    "来历": "坠魔谷",
-    "外形": "散发紫色莹光的网兜,若有若无忽隐忽现",
+    "能力": "大范围防御（百丈至千丈，顶尖者罩百里）、困敌、自行释放玉阳真火灭敌、困禁勒锁、蕴含玉阳真火、注入灵力即可使用、紫网罩敌、玉阳真火（青白火焰、火蛇）、化紫网护身、禁制开合、白光卷物、化紫色火网防护、大范围防御（百丈至千丈，传顶尖罩百里）、释放玉阳真火灭敌",
+    "来历": "坠魔谷、疑得自坠魔谷",
+    "外形": "层叠薄如轻绢的紫色晶网、散发紫色莹光的网兜,若有若无忽隐忽现、层叠紫色晶光丝网",
     "禁制": "玉阳真火"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "古宝",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      },
+      {
+        "value": "古宝顶阶",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "持有者": [
@@ -106,6 +111,16 @@
         "value": "化紫色火网防护",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781
+      },
+      {
+        "value": "大范围防御（百丈至千丈，传顶尖罩百里）",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
+      },
+      {
+        "value": "释放玉阳真火灭敌",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "来历": [
@@ -114,6 +129,11 @@
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703,
         "note": "韩立推测"
+      },
+      {
+        "value": "疑得自坠魔谷",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "外形": [
@@ -126,6 +146,11 @@
         "value": "散发紫色莹光的网兜,若有若无忽隐忽现",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
         "seq": 715
+      },
+      {
+        "value": "层叠紫色晶光丝网",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "禁制": [
@@ -140,9 +165,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
-      "seq": 727
+      "seq": 703
     },
     "持有者": {
       "asOf": null,
@@ -165,9 +190,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
-      "seq": 715
+      "seq": 703
     },
     "禁制": {
       "asOf": null,
@@ -184,7 +209,8 @@
     "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
     "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T03:58:16.696Z"
+  "updatedAt": "2026-06-17T10:41:47.340Z"
 }

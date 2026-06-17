@@ -7,15 +7,17 @@
     "略胖老者",
     "村中大长老",
     "白色人影",
-    "某宗大长老"
+    "某宗大长老",
+    "肥胖老者"
   ],
   "summary": "高墙村落主事长老，慈眉善目，被吸入阴冥之地前已筑基成功，来自大晋皇朝湾南州，向韩立讲解此地真相与脱身之法。",
   "attributes": {
     "身份": "某宗大长老",
     "出身地": "大晋皇朝湾南州",
     "小阶段": "结丹期",
-    "外貌": "肥胖老者",
-    "标志特征": "银白色雷弧、放电巨剑"
+    "外貌": "肥胖老者、肥胖",
+    "标志特征": "银白色雷弧、放电巨剑、银白雷弧、电光巨剑",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -49,12 +51,29 @@
         "value": "肥胖老者",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
+      },
+      {
+        "value": "肥胖",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "标志特征": [
       {
         "value": "银白色雷弧、放电巨剑",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "银白雷弧、电光巨剑",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -90,6 +109,12 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
@@ -97,7 +122,8 @@
   "docs": [
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
     "plot.fanren-ch702-lianying-zhuimoguanthrough",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-16T03:38:44.981Z"
+  "updatedAt": "2026-06-17T10:41:47.339Z"
 }

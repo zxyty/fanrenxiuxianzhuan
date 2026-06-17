@@ -10,7 +10,7 @@
   "summary": "黄枫谷结丹期修士，体形肥胖，在密室密议中神色不安。",
   "attributes": {
     "性别": "男",
-    "身份": "黄枫谷修士",
+    "身份": "结丹期修士、黄枫谷修士、黄枫谷长辈修士",
     "阵营": "越国六派",
     "外貌": "大胖子",
     "小阶段": "结丹"
@@ -33,6 +33,11 @@
         "value": "黄枫谷修士",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
+      },
+      {
+        "value": "黄枫谷长辈修士",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "阵营": [
@@ -45,6 +50,11 @@
         "value": "越国六派",
         "docId": "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
         "seq": 709
+      },
+      {
+        "value": "黄枫谷/九国盟",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "外貌": [
@@ -77,9 +87,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+      "docId": "plot.fanren-ch254-yanjia-laozu",
       "dated": false,
-      "seq": 703
+      "seq": 253
     },
     "阵营": {
       "asOf": null,
@@ -108,7 +118,8 @@
     "plot.fanren-ch326-xueling-zuan",
     "plot.fanren-ch350-instant-kill",
     "plot.fanren-ch702-lianying-zhuimoguanthrough",
-    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan"
+    "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:08:50.354Z"
+  "updatedAt": "2026-06-17T10:41:47.363Z"
 }

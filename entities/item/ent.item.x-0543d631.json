@@ -7,8 +7,9 @@
   ],
   "summary": "苍坤上人玉盒所藏的绿色小瓷瓶，开盖辛辣异常之气扑鼻，韩立如见毒蝎般谨慎收起。",
   "attributes": {
-    "类型": "瓷瓶（疑装剧毒/辛辣之物）",
-    "产地": "苍坤上人玉盒"
+    "类型": "瓷瓶（疑装剧毒/辛辣之物）、毒物瓶",
+    "产地": "苍坤上人玉盒",
+    "用途": "盛装剧毒之物"
   },
   "observations": {
     "类型": [
@@ -16,12 +17,24 @@
         "value": "瓷瓶（疑装剧毒/辛辣之物）",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
+      },
+      {
+        "value": "毒物瓶",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "产地": [
       {
         "value": "苍坤上人玉盒",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "用途": [
+      {
+        "value": "盛装剧毒之物",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.363Z"
+  "updatedAt": "2026-06-17T10:41:47.346Z"
 }

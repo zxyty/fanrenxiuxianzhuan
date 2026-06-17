@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "九国盟最靠近慕兰的三国之一，韩立返回天南后进入；境内只见慕兰法士巡查、未见九国盟修士。",
   "attributes": {
-    "所属势力": "九国盟"
+    "所属势力": "九国盟",
+    "危险度": "高(慕兰人占领)"
   },
   "observations": {
     "所属势力": [
       {
         "value": "九国盟",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高(慕兰人占领)",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.392Z"
+  "updatedAt": "2026-06-17T10:41:47.393Z"
 }

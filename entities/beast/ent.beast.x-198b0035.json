@@ -11,7 +11,9 @@
   "attributes": {
     "主人": "覃姓光头法士",
     "能力": "土石所化、栩栩如生",
-    "外形": "一人腰粗的黄色虬龙"
+    "外形": "一人腰粗的黄色虬龙、土石所化十余丈虬龙，眉间嵌黄色弹丸",
+    "等级": "可被元婴中期者驱使的法士灵术造物",
+    "天敌": "乾蓝冰焰/青元剑气"
   },
   "observations": {
     "主人": [
@@ -32,6 +34,25 @@
       {
         "value": "一人腰粗的黄色虬龙",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      },
+      {
+        "value": "土石所化十余丈虬龙，眉间嵌黄色弹丸",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
+      }
+    ],
+    "等级": [
+      {
+        "value": "可被元婴中期者驱使的法士灵术造物",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
+      }
+    ],
+    "天敌": [
+      {
+        "value": "乾蓝冰焰/青元剑气",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -55,12 +76,25 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.399Z"
+  "updatedAt": "2026-06-17T10:41:47.386Z"
 }

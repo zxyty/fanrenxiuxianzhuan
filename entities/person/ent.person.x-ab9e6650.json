@@ -10,8 +10,9 @@
   "attributes": {
     "种族": "慕兰族",
     "小阶段": "元婴初期",
-    "外貌": "满脸横肉、黄袍光头",
-    "阵营": "慕兰"
+    "外貌": "满脸横肉、黄袍光头、满脸横肉、光头黄袍",
+    "阵营": "慕兰",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -33,12 +34,24 @@
         "value": "满脸横肉、黄袍光头",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
+      },
+      {
+        "value": "满脸横肉、光头黄袍",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "阵营": [
       {
         "value": "慕兰",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -68,12 +81,19 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.371Z"
+  "updatedAt": "2026-06-17T10:41:47.335Z"
 }

@@ -8,13 +8,21 @@
   ],
   "summary": "天阙堡年长修士，推断韩立二百余岁结元婴、有望冲击化神期。",
   "attributes": {
-    "身份": "天阙堡修士"
+    "身份": "天阙堡修士",
+    "阵营": "天阙堡"
   },
   "observations": {
     "身份": [
       {
         "value": "天阙堡修士",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天阙堡",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -26,12 +34,19 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.380Z"
+  "updatedAt": "2026-06-17T10:41:47.372Z"
 }

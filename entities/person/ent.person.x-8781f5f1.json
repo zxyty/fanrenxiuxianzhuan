@@ -13,7 +13,7 @@
     "性别": "女",
     "身份": "小老头弟子、黄枫谷弟子（资质绝佳）、黄枫谷弟子",
     "性格": "乖巧恭敬",
-    "小阶段": "结丹初期",
+    "小阶段": "炼气期、结丹、结丹初期、结丹期",
     "阵营": "黄枫谷",
     "外貌": "二十余岁美貌少妇"
   },
@@ -64,6 +64,11 @@
         "value": "结丹初期",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+        "seq": 703
       }
     ],
     "阵营": [
@@ -103,9 +108,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
       "dated": false,
-      "seq": 757
+      "seq": 343
     },
     "阵营": {
       "asOf": null,
@@ -126,7 +131,8 @@
     "plot.fanren-ch344-formation-slays-mantis",
     "plot.fanren-ch702-lianying-zhuimoguanthrough",
     "plot.fanren-757-762-gengjing-jiangling-fu",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-16T07:03:34.610Z"
+  "updatedAt": "2026-06-17T10:41:47.375Z"
 }

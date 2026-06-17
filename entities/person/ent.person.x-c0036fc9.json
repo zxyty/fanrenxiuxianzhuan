@@ -7,13 +7,21 @@
   ],
   "summary": "巨剑门壮汉修士，被韩立所救之一。",
   "attributes": {
-    "身份": "巨剑门修士"
+    "身份": "巨剑门修士",
+    "阵营": "巨剑门"
   },
   "observations": {
     "身份": [
       {
         "value": "巨剑门修士",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
+        "seq": 703
+      }
+    ],
+    "阵营": [
+      {
+        "value": "巨剑门",
+        "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
       }
     ]
@@ -25,12 +33,19 @@
       "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
       "dated": false,
       "seq": 703
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
+      "dated": false,
+      "seq": 703
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-703-708-lianying-hezhongzhibao"
   ],
-  "updatedAt": "2026-06-15T02:06:15.379Z"
+  "updatedAt": "2026-06-17T10:41:47.371Z"
 }
