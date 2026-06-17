@@ -4,19 +4,26 @@
   "name": "石碑残片",
   "aliases": [
     "石碑碎块",
-    "上古石碑"
+    "上古石碑",
+    "神秘石碑"
   ],
   "summary": "上古祭坛阵眼镇压之物的残片，灵昧未散、受力变软、剑气难损，来历成谜。",
   "attributes": {
-    "类型": "上古异材",
+    "类型": "上古异材、上古未知材料",
     "稀有度": "罕见",
-    "用途": "镇压阵眼"
+    "用途": "镇压阵眼",
+    "产地": "魔气深渊上古祭坛"
   },
   "observations": {
     "类型": [
       {
         "value": "上古异材",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      },
+      {
+        "value": "上古未知材料",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
       }
     ],
@@ -31,6 +38,13 @@
       {
         "value": "镇压阵眼",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ],
+    "产地": [
+      {
+        "value": "魔气深渊上古祭坛",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
       }
     ]
@@ -54,12 +68,19 @@
       "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
       "dated": false,
       "seq": 871
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+      "dated": false,
+      "seq": 871
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
   ],
-  "updatedAt": "2026-06-15T15:00:04.895Z"
+  "updatedAt": "2026-06-17T15:13:41.318Z"
 }

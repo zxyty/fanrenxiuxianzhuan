@@ -8,14 +8,16 @@
     "玄牡化婴神通",
     "玄牡化婴功",
     "玄牧化婴",
-    "玄牡化婴诀"
+    "玄牡化婴诀",
+    "玄阴通玄变化之功"
   ],
   "summary": "玉简末尾记载的魔道神通，可培养第二元神乃至催育第二元婴，被类比为一气化三清同级别。",
   "attributes": {
     "出处": "魔道、辛如音遗留、淡青色玉简、蛮荒时期阵法典籍玉简末尾、辛如音所留、辛如音遗留玉简",
-    "效果": "培养第二元神、催育第二元婴、修炼第二元婴、凝炼第二元婴（独立、有主辅）、融合躯体修成可远隔万里自主行动的第二化身、含侵占/抹除元婴法诀及归一决",
+    "效果": "培养第二元神、催育第二元婴、修炼第二元婴、凝炼第二元婴（独立、有主辅）、融合躯体修成可远隔万里自主行动的第二化身、含侵占/抹除元婴法诀及归一决、第二元婴化身变化",
     "适用境界": "元婴期",
-    "修炼条件": "需侵占他人元婴并同化；化身需夺舍上好躯体"
+    "修炼条件": "借躯体与精纯魔气",
+    "五行属性": "玄阴/魔道"
   },
   "observations": {
     "出处": [
@@ -80,6 +82,11 @@
         "value": "含侵占/抹除元婴法诀及归一决",
         "docId": "plot.fanren-666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "第二元婴化身变化",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ],
     "适用境界": [
@@ -99,6 +106,18 @@
         "value": "需侵占他人元婴并同化；化身需夺舍上好躯体",
         "docId": "plot.fanren-666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "借躯体与精纯魔气",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "玄阴/魔道",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ]
   },
@@ -124,9 +143,15 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-666-liuyu",
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
       "dated": false,
-      "seq": 667
+      "seq": 871
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+      "dated": false,
+      "seq": 871
     }
   },
   "contested": false,
@@ -138,7 +163,8 @@
     "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
     "lore.xuanmu-huaying-second-yuanying-technique",
     "plot.fanren-666-liuyu",
-    "plot.fanren-787-tun-mo-dan-gui"
+    "plot.fanren-787-tun-mo-dan-gui",
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
   ],
-  "updatedAt": "2026-06-17T13:07:38.892Z"
+  "updatedAt": "2026-06-17T15:13:41.313Z"
 }

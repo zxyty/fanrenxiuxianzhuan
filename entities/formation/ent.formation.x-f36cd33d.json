@@ -7,8 +7,9 @@
   ],
   "summary": "镇压大漩涡下魔气的上古法阵，太真门一脉职责所系；三大修士据典籍研究出修复之法，需埋阵盘并由灵岛宗门共守。",
   "attributes": {
-    "效果": "镇压魔气",
-    "布置者": "太真门一脉/极真门"
+    "效果": "镇压魔气、镇压魔气深渊",
+    "布置者": "太真门一脉/极真门",
+    "出处": "上古极真门一脉"
   },
   "observations": {
     "效果": [
@@ -16,12 +17,24 @@
         "value": "镇压魔气",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "镇压魔气深渊",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ],
     "布置者": [
       {
         "value": "太真门一脉/极真门",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+        "seq": 871
+      }
+    ],
+    "出处": [
+      {
+        "value": "上古极真门一脉",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
       "dated": false,
       "seq": 871
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+      "dated": false,
+      "seq": 871
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
   ],
-  "updatedAt": "2026-06-15T15:00:04.882Z"
+  "updatedAt": "2026-06-17T15:13:41.284Z"
 }

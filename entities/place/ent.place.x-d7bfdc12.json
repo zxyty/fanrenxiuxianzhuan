@@ -8,7 +8,8 @@
   "summary": "七灵岛之一，灵脉上佳并有灵石矿，原划归九国盟龙晗凤冰夫妇、暂挂小派名下，本片段赠予韩立的落云宗。",
   "attributes": {
     "类型": "灵岛",
-    "特产": "灵脉、灵石矿"
+    "特产": "灵脉、灵石矿",
+    "所属界面": "天南"
   },
   "observations": {
     "类型": [
@@ -29,6 +30,13 @@
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
       }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
+      }
     ]
   },
   "firstSeq": 871,
@@ -44,12 +52,19 @@
       "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
       "dated": false,
       "seq": 871
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+      "dated": false,
+      "seq": 871
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan"
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
   ],
-  "updatedAt": "2026-06-15T15:00:04.881Z"
+  "updatedAt": "2026-06-17T15:13:41.280Z"
 }

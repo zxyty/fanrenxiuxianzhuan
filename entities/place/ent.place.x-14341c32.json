@@ -11,10 +11,11 @@
   ],
   "summary": "无边海中喷吐灵气的巨型漩涡，实为上古封印大阵阵眼，底部镇压深不可测的无边魔气。",
   "attributes": {
-    "类型": "封印阵眼、灵气漩涡/魔气封印口、封印大阵阵眼",
+    "类型": "封印阵眼、灵气漩涡/魔气封印口、封印大阵阵眼、灵源/魔气封印地",
     "危险度": "极高、极高（魔气将出）",
-    "特产": "精纯灵气",
-    "守护": "万丈精纯灵气镇压魔气"
+    "特产": "精纯灵气、霞光",
+    "守护": "上古封印法阵",
+    "所属界面": "天南"
   },
   "observations": {
     "类型": [
@@ -32,6 +33,11 @@
         "value": "封印大阵阵眼",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "灵源/魔气封印地",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ],
     "危险度": [
@@ -51,6 +57,11 @@
         "value": "精纯灵气",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "霞光",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ],
     "守护": [
@@ -58,6 +69,18 @@
         "value": "万丈精纯灵气镇压魔气",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "上古封印法阵",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南",
+        "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+        "seq": 871
       }
     ]
   },
@@ -83,9 +106,15 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
       "dated": false,
-      "seq": 865
+      "seq": 871
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+      "dated": false,
+      "seq": 871
     }
   },
   "contested": false,
@@ -93,7 +122,8 @@
   "docs": [
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
-    "plot.fanren-865-870-zhiyang-invitation-and-duel"
+    "plot.fanren-865-870-zhiyang-invitation-and-duel",
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
   ],
-  "updatedAt": "2026-06-17T15:05:36.092Z"
+  "updatedAt": "2026-06-17T15:13:41.276Z"
 }
