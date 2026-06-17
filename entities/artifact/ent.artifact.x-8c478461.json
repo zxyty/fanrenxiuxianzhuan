@@ -7,9 +7,9 @@
   ],
   "summary": "上古修士炼制的困敌阵图古宝，此件为粗制劣质品。",
   "attributes": {
-    "品阶": "上古古宝(粗制劣质品)",
+    "品阶": "上古古宝(粗制劣质品)、上古古宝（粗制劣质品）",
     "持有者": "马姓老者",
-    "能力": "巨大八卦阵图困敌、雷火禁制灭敌",
+    "能力": "巨大八卦阵图困敌、雷火禁制灭敌、召庞大阵图困敌、阵中雷火灭敌",
     "来历": "上古修士炼制",
     "外形": "淡黄色卷轴/八卦图"
   },
@@ -18,6 +18,11 @@
       {
         "value": "上古古宝(粗制劣质品)",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "上古古宝（粗制劣质品）",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ],
@@ -37,6 +42,11 @@
       {
         "value": "雷火禁制灭敌",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "召庞大阵图困敌、阵中雷火灭敌",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ],
@@ -91,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:43:39.772Z"
+  "updatedAt": "2026-06-17T11:11:28.177Z"
 }

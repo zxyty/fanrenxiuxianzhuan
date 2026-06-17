@@ -444,3 +444,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T10:43:49.261Z** `ingest` plot.fanren-709-714-hanli-disguise-infiltrate-yanyue-zong-nangongwan — 凡人修仙传 第708-713章｜韩立化形袁坤潜入掩月宗 与南宫婉重逢定情设伏 · kind=plot asOf=2026-06-17 entities=0 relations=0 src=00709-00714.md
 - **2026-06-17T10:56:02.012Z** `ingest` plot.fanren-714-shipo-yu-fuji — 凡人修仙传 第714章 识破与伏击——南宫婉、韩立合谋反击掩月宗大长老 · kind=plot asOf=2026-06-17 entities=47 relations=55 src=00715-00720.md
 - **2026-06-17T11:03:39.346Z** `ingest` plot.fanren-721-726-dianyi-linghu-yufu — 凡人修仙传 第721-726章｜九国盟殿议·令狐之邀·初见玉符 · kind=plot asOf=2026-06-17 entities=42 relations=42 src=00721-00726.md
+- **2026-06-17T11:11:28.293Z** `ingest` plot.fanren-ch727-732-huanglong-mountain-ying-ning — 凡人修仙传 第727-732章：黄龙山驰援·重逢李缨宁·紫罗极火 · kind=plot asOf=2026-06-17 entities=41 relations=44 src=00727-00732.md

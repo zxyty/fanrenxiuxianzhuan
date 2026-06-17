@@ -11,7 +11,8 @@
     "性别": "男",
     "小阶段": "结丹期",
     "身份": "清虚门修士",
-    "外貌": "中年道袍、手拿拂尘"
+    "外貌": "中年道袍、手拿拂尘",
+    "阵营": "清虚门"
   },
   "observations": {
     "性别": [
@@ -41,6 +42,13 @@
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
       }
+    ],
+    "阵营": [
+      {
+        "value": "清虚门",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      }
     ]
   },
   "firstSeq": 727,
@@ -68,12 +76,19 @@
       "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
       "dated": false,
       "seq": 727
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+      "dated": false,
+      "seq": 727
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:43:39.732Z"
+  "updatedAt": "2026-06-17T11:11:28.135Z"
 }

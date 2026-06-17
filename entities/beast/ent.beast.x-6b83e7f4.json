@@ -7,8 +7,9 @@
   "attributes": {
     "种族": "天地火灵凝化",
     "主人": "窟耀",
-    "能力": "化形火蛟、吞噬火云暴涨、喷赤焰",
-    "外形": "红磷独角利爪巨蛟"
+    "能力": "化形火蛟、吞噬火云暴涨、喷赤焰、火灵化形、狂喷赤焰",
+    "外形": "红磷独角利爪巨蛟、红磷火蛟、独角利爪",
+    "血脉": "天地火灵凝化"
   },
   "observations": {
     "种族": [
@@ -40,12 +41,34 @@
         "value": "喷赤焰",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      },
+      {
+        "value": "火灵化形",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      },
+      {
+        "value": "狂喷赤焰",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
       }
     ],
     "外形": [
       {
         "value": "红磷独角利爪巨蛟",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "红磷火蛟、独角利爪",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      }
+    ],
+    "血脉": [
+      {
+        "value": "天地火灵凝化",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ]
@@ -75,12 +98,19 @@
       "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
       "dated": false,
       "seq": 727
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+      "dated": false,
+      "seq": 727
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:43:39.771Z"
+  "updatedAt": "2026-06-17T11:11:28.188Z"
 }

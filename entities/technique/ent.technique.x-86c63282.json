@@ -2,11 +2,13 @@
   "id": "ent.technique.x-86c63282",
   "type": "technique",
   "name": "浩然正气决",
-  "aliases": [],
+  "aliases": [
+    "浩然正气诀"
+  ],
   "summary": "浩然阁功法，水火不侵、克邪辟鬼。",
   "attributes": {
     "出处": "浩然阁",
-    "效果": "水火不侵、克邪辟鬼"
+    "效果": "水火不侵、克邪辟鬼、免心火攻心"
   },
   "observations": {
     "出处": [
@@ -25,6 +27,11 @@
       {
         "value": "克邪辟鬼",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "免心火攻心",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ]
@@ -47,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:43:39.774Z"
+  "updatedAt": "2026-06-17T11:11:28.181Z"
 }

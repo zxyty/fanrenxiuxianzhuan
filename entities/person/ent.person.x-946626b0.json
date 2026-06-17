@@ -3,15 +3,18 @@
   "type": "person",
   "name": "天哭先生",
   "aliases": [
-    "妖魔巨汉"
+    "妖魔巨汉",
+    "黑跑人"
   ],
   "summary": "慕兰法士军中黑袍邪修，修魔道天刹真魔功，可魔化为双角獠牙巨汉。",
   "attributes": {
     "小阶段": "元婴",
     "阵营": "慕兰法士",
     "性格": "狂妄阴狠",
-    "标志特征": "黑气鬼哭/魔化双角獠牙",
-    "存殁": "死亡"
+    "标志特征": "黑气鬼哭/魔化双角獠牙、黑气缠身、眼珠由黑变绿、魔化巨汉双角獠牙、碧绿鬼阴爪",
+    "存殁": "死亡",
+    "身份": "慕兰法士首领之一",
+    "结局": "缩身为三尺侏儒后爆裂化为无数乌黑细丝"
   },
   "observations": {
     "小阶段": [
@@ -40,6 +43,26 @@
         "value": "黑气鬼哭/魔化双角獠牙",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      },
+      {
+        "value": "黑气缠身",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      },
+      {
+        "value": "眼珠由黑变绿",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      },
+      {
+        "value": "魔化巨汉双角獠牙",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      },
+      {
+        "value": "碧绿鬼阴爪",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
       }
     ],
     "存殁": [
@@ -47,6 +70,21 @@
         "value": "死亡",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      }
+    ],
+    "身份": [
+      {
+        "value": "慕兰法士首领之一",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      }
+    ],
+    "结局": [
+      {
+        "value": "缩身为三尺侏儒后爆裂化为无数乌黑细丝",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727,
+        "note": "章末，存殁待续"
       }
     ]
   },
@@ -81,13 +119,27 @@
       "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
       "seq": 733
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+      "dated": false,
+      "seq": 727
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+      "dated": false,
+      "seq": 727,
+      "note": "章末，存殁待续"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
-    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:52:00.043Z"
+  "updatedAt": "2026-06-17T11:11:28.171Z"
 }

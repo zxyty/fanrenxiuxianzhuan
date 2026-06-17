@@ -5,13 +5,14 @@
   "aliases": [
     "卜驼子",
     "卜道友",
-    "卜兄"
+    "卜兄",
+    "卜前辈"
   ],
   "summary": "元婴修士，主持天台谷防御天风玄波阵，被慕兰法士与上古巨兽攻破后重伤溃退至黄龙山。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴期",
-    "身份": "九国盟天台谷镇守",
+    "身份": "九国盟天台谷镇守、天台谷主持",
     "外貌": "背微驼、脸色苍白、锦袍"
   },
   "observations": {
@@ -33,6 +34,11 @@
       {
         "value": "九国盟天台谷镇守",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "天台谷主持",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ],
@@ -74,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo"
+    "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-15T02:43:39.730Z"
+  "updatedAt": "2026-06-17T11:11:28.134Z"
 }

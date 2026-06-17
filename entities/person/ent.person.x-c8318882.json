@@ -14,8 +14,8 @@
   "summary": "约四十余岁秃眉大汉，九国盟镇守黄龙山的主持者，调度雾海大阵防务。",
   "attributes": {
     "性别": "男",
-    "身份": "黄龙山驻守修士",
-    "外貌": "约四十余岁、秃眉、面凶、秃眉大汉",
+    "身份": "九国盟黄龙山镇守、黄龙山驻守修士、黄龙山镇守、出阵队伍主事者",
+    "外貌": "约四十余岁、秃眉、面凶、秃眉大汉、四十余岁秃眉大汉",
     "小阶段": "元婴期",
     "阵营": "突兀人圣殿",
     "标志特征": "修炼隐秘神识秘术",
@@ -40,6 +40,16 @@
         "value": "黄龙山驻守修士",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "黄龙山镇守",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
+      },
+      {
+        "value": "出阵队伍主事者",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+        "seq": 727
       }
     ],
     "外貌": [
@@ -51,6 +61,11 @@
       {
         "value": "秃眉大汉",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+        "seq": 727
+      },
+      {
+        "value": "四十余岁秃眉大汉",
+        "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
       }
     ],
@@ -70,7 +85,7 @@
       {
         "value": "九国盟",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
-        "seq": 733
+        "seq": 727
       },
       {
         "value": "突兀人圣殿",
@@ -115,9 +130,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
       "dated": false,
-      "seq": 733
+      "seq": 727
     },
     "外貌": {
       "asOf": null,
@@ -162,7 +177,8 @@
     "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
   ],
-  "updatedAt": "2026-06-16T00:12:42.846Z"
+  "updatedAt": "2026-06-17T11:11:28.174Z"
 }
