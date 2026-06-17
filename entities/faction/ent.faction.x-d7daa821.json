@@ -5,13 +5,26 @@
   "aliases": [],
   "summary": "关宁府四大修仙世家之一，与孔家联合对付冯家。",
   "attributes": {
-    "据点": "关宁府"
+    "据点": "关宁府、辽州关宁府",
+    "等级": "修仙世家"
   },
   "observations": {
     "据点": [
       {
         "value": "关宁府",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "辽州关宁府",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "等级": [
+      {
+        "value": "修仙世家",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ]
@@ -23,12 +36,19 @@
       "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
       "seq": 883
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-15T23:54:19.682Z"
+  "updatedAt": "2026-06-17T15:46:39.458Z"
 }

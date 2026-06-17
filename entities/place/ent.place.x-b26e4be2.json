@@ -3,15 +3,17 @@
   "type": "place",
   "name": "天澜草原",
   "aliases": [
-    "草原"
+    "草原",
+    "天澜草原天澜"
   ],
   "summary": "突兀人对慕兰大草原的称呼，因信奉天澜兽得名。",
   "attributes": {
     "所属势力": "突兀人/天澜圣殿",
     "类型": "草原势力",
-    "特产": "猿鹫等妖禽",
+    "特产": "猿鹫等妖兽",
     "守护": "突兀人",
-    "所属界面": "大晋"
+    "所属界面": "大晋",
+    "危险度": "妖兽出没"
   },
   "observations": {
     "所属势力": [
@@ -53,6 +55,11 @@
         "value": "猿鹫等妖禽",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "猿鹫等妖兽",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "守护": [
@@ -73,6 +80,13 @@
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
+    ],
+    "危险度": [
+      {
+        "value": "妖兽出没",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 355,
@@ -91,9 +105,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-ch883-leng-mo",
       "dated": false,
-      "seq": 877
+      "seq": 883
     },
     "守护": {
       "asOf": null,
@@ -106,6 +120,12 @@
       "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
       "seq": 889
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -121,7 +141,8 @@
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.091Z"
+  "updatedAt": "2026-06-17T15:46:39.513Z"
 }

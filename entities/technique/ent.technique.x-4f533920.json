@@ -8,8 +8,8 @@
   ],
   "summary": "冯家保存的金罗宗一脉佛门功法，威力奇大但修炼缓慢苛刻；韩立求之以寻消除煞气之法，修炼高深佛门神通须先有舍利子。",
   "attributes": {
-    "出处": "金罗宗/千光寺一脉",
-    "效果": "据信含消除煞气之法",
+    "出处": "金罗宗/千光寺一脉、冯家/千光寺旧传",
+    "效果": "据信含消除煞气之法、后期威力奇大，修炼缓慢苛刻",
     "修炼条件": "高深者需先修出舍利子"
   },
   "observations": {
@@ -18,12 +18,22 @@
         "value": "金罗宗/千光寺一脉",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
+      },
+      {
+        "value": "冯家/千光寺旧传",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "效果": [
       {
         "value": "据信含消除煞气之法",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "后期威力奇大，修炼缓慢苛刻",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ],
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-15T23:54:19.678Z"
+  "updatedAt": "2026-06-17T15:46:39.476Z"
 }

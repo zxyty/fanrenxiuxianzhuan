@@ -2,10 +2,14 @@
   "id": "ent.faction.x-3be6bf4c",
   "type": "faction",
   "name": "佛宗",
-  "aliases": [],
+  "aliases": [
+    "大晋佛宗",
+    "佛门"
+  ],
   "summary": "大晋与道、儒并驾齐驱的修仙势力，三名僧人出席拍卖会，年长老僧神识灵敏。",
   "attributes": {
-    "所属界面": "大晋皇朝"
+    "所属界面": "大晋皇朝",
+    "理念": "佛力修行、功法多呈七色灵光"
   },
   "observations": {
     "所属界面": [
@@ -13,22 +17,41 @@
         "value": "大晋皇朝",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "理念": [
+      {
+        "value": "佛力修行、功法多呈七色灵光",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
-  "firstSeq": 943,
+  "firstSeq": 883,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
       "seq": 943
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T02:11:44.925Z"
+  "updatedAt": "2026-06-17T15:46:39.396Z"
 }

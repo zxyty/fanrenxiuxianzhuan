@@ -10,14 +10,15 @@
     "天澜草原修仙界",
     "天澜圣殿一殿",
     "天澜圣殿一脉",
-    "青衫小童"
+    "青衫小童",
+    "天澜草原圣殿"
   ],
   "summary": "突兀族草原势力，林银屏任圣女，为追回鬼罗幡而入大晋。",
   "attributes": {
     "阵营": "草原突兀族、与韩立敌对、突兀人、突兀族、敌对韩立",
-    "据点": "天澜草原、圣殿临时驻地、天澜草原临时驻地",
+    "据点": "天澜草原、圣殿临时驻地、天澜草原临时驻地、天澜草原驻地",
     "镇派之宝": "噬金虫成熟秘诀、噬金虫、圣兽",
-    "理念": "主持开灵仪式/受朝贡",
+    "理念": "统辖突兀人各部落进贡",
     "所属界面": "大晋天澜草原、上界、灵界"
   },
   "observations": {
@@ -63,6 +64,11 @@
         "value": "天澜草原临时驻地",
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "天澜草原驻地",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "镇派之宝": [
@@ -87,6 +93,11 @@
         "value": "主持开灵仪式/受朝贡",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "统辖突兀人各部落进贡",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "所属界面": [
@@ -129,9 +140,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-ch883-leng-mo",
       "dated": false,
-      "seq": 877
+      "seq": 883
     },
     "所属界面": {
       "asOf": null,
@@ -160,7 +171,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.186Z"
+  "updatedAt": "2026-06-17T15:46:39.384Z"
 }

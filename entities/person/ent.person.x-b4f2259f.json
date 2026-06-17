@@ -3,14 +3,18 @@
   "type": "person",
   "name": "冯枕",
   "aliases": [
-    "冯枕老贼"
+    "冯枕老贼",
+    "紫袍人"
   ],
   "summary": "原魔道散修，被冯家收留改姓为仆，暗中投靠孔家，以苦毒偷袭枫岳，本片段已被韩立击毙。",
   "attributes": {
     "小阶段": "结丹期",
-    "身份": "冯家修士",
+    "身份": "冯家家仆、冯家修士、魔道散修/冯家仆从",
     "存殁": "死亡",
-    "死因": "被韩立击毙(尸体不成人形)"
+    "死因": "被韩立击毙(尸体不成人形)",
+    "外貌": "紫袍老者",
+    "阵营": "孔家",
+    "种族": "人"
   },
   "observations": {
     "小阶段": [
@@ -31,6 +35,11 @@
         "value": "冯家修士",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "魔道散修/冯家仆从",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "存殁": [
@@ -47,6 +56,28 @@
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
       }
+    ],
+    "外貌": [
+      {
+        "value": "紫袍老者",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "阵营": [
+      {
+        "value": "孔家",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883,
+        "note": "暗中投靠"
+      }
+    ],
+    "种族": [
+      {
+        "value": "人",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 883,
@@ -59,9 +90,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 907
+      "seq": 883,
+      "note": "原魔道散修,改姓投靠;暗中投靠孔家"
     },
     "存殁": {
       "asOf": null,
@@ -75,6 +107,25 @@
       "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
       "seq": 883
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883,
+      "note": "暗中投靠"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -83,7 +134,8 @@
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T00:52:06.638Z"
+  "updatedAt": "2026-06-17T15:46:39.452Z"
 }

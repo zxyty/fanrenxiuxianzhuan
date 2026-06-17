@@ -10,11 +10,13 @@
     "英鹭兄",
     "英鹭首领",
     "英鹭族长",
-    "老者(苍鹭部首领)"
+    "老者(苍鹭部首领)",
+    "苍鹭部老者",
+    "苍鹭部首领"
   ],
   "summary": "苍鹭部族长，五十余岁、圣战立功者，无灵根；以二十五块灵石雇佣『寒仙师』护送至天澜圣殿。",
   "attributes": {
-    "身份": "苍鹭部族长、部落首领、苍鹭部首领",
+    "身份": "苍鹭部族长、部落首领、苍鹭部首领、凡人车队雇主、苍鹭部首领/管事老者",
     "种族": "突兀人、突兀族、凡人",
     "外貌": "火红狐皮帽、紫脸膛、腰束三色锦带（一部之首标志）、老者",
     "性别": "男"
@@ -35,6 +37,16 @@
         "value": "苍鹭部首领",
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "凡人车队雇主",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "苍鹭部首领/管事老者",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "种族": [
@@ -106,7 +118,8 @@
   "docs": [
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.172Z"
+  "updatedAt": "2026-06-17T15:46:39.485Z"
 }

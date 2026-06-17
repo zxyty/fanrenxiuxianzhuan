@@ -20,7 +20,8 @@
     "称号": "师姐",
     "小阶段": "炼气期",
     "身份": "阵法师",
-    "性格": "机敏、谨慎、言辞滴水不露"
+    "性格": "机敏、谨慎、言辞滴水不露",
+    "种族": "突兀人"
   },
   "observations": {
     "性别": [
@@ -86,6 +87,13 @@
         "docId": "plot.fanren-272-jingu-yuan-war-one-year",
         "seq": 271
       }
+    ],
+    "种族": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 157,
@@ -131,6 +139,12 @@
       "docId": "plot.fanren-272-jingu-yuan-war-one-year",
       "dated": false,
       "seq": 271
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -138,7 +152,8 @@
   "docs": [
     "plot.fanren-ch158-blue-robed-woman",
     "plot.fanren-272-jingu-yuan-war-one-year",
-    "plot.fanren-ch277-282-half-year-pact-and-qin-residence"
+    "plot.fanren-ch277-282-half-year-pact-and-qin-residence",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-14T08:51:46.150Z"
+  "updatedAt": "2026-06-17T15:46:39.492Z"
 }

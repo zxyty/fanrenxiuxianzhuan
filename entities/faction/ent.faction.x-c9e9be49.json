@@ -8,7 +8,8 @@
   "summary": "突兀人小部落，首领跋姓大汉，重金雇筑基初期枫仙师护送，途中并入苍鹭部车队。",
   "attributes": {
     "等级": "小部落",
-    "掌门": "跋姓大汉"
+    "掌门": "跋姓大汉",
+    "阵营": "突兀人"
   },
   "observations": {
     "等级": [
@@ -23,6 +24,13 @@
         "value": "跋姓大汉",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      }
+    ],
+    "阵营": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -39,13 +47,20 @@
       "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.173Z"
+  "updatedAt": "2026-06-17T15:46:39.515Z"
 }

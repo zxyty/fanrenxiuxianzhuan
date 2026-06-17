@@ -11,7 +11,8 @@
     "等级": "微型部落（约七八万人）、小部落",
     "掌门": "英鹭",
     "据点": "天澜草原南部",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "阵营": "突兀人"
   },
   "observations": {
     "等级": [
@@ -46,6 +47,13 @@
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
       }
+    ],
+    "阵营": [
+      {
+        "value": "突兀人",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 877,
@@ -73,13 +81,20 @@
       "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
       "dated": false,
       "seq": 877
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.171Z"
+  "updatedAt": "2026-06-17T15:46:39.514Z"
 }

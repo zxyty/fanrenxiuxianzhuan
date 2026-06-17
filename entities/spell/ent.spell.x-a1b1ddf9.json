@@ -8,7 +8,8 @@
   ],
   "summary": "强行搜取他人神识记忆的秘术，对修炼托天魔功者无效。",
   "attributes": {
-    "类型": "魂识神通"
+    "类型": "魂识神通",
+    "适用境界": "配合下筑基期可用，强行需元婴期以上"
   },
   "observations": {
     "类型": [
@@ -26,6 +27,18 @@
         "value": "神魂类/搜取记忆",
         "docId": "plot.fanren-787-tun-mo-dan-gui",
         "seq": 787
+      },
+      {
+        "value": "神识秘术",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "配合下筑基期可用，强行需元婴期以上",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -36,6 +49,12 @@
       "docId": "plot.fanren-1407-jinsui-lianti",
       "dated": false,
       "seq": 1405
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -44,7 +63,8 @@
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1407-jinsui-lianti",
-    "plot.fanren-787-tun-mo-dan-gui"
+    "plot.fanren-787-tun-mo-dan-gui",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T13:07:38.853Z"
+  "updatedAt": "2026-06-17T15:46:39.477Z"
 }

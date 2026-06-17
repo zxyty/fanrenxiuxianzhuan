@@ -11,11 +11,12 @@
     "突兀凡人",
     "突兀仙师",
     "突兀族仙师",
-    "突兀"
+    "突兀",
+    "突兀人修仙者"
   ],
   "summary": "慕兰草原另一头的游牧民族，慕兰人世敌，信奉天澜兽。",
   "attributes": {
-    "特性": "信奉天澜兽、按部落聚居、有圣女与四大仙师",
+    "特性": "部落聚居、进贡天澜圣殿",
     "聚居地": "草原",
     "天敌": "慕兰族、慕兰人、慕兰人（世仇）、—",
     "代表人物": "林银屏、徐仙师、天澜圣女、紫发美妇、徐姓青年、清秀青年、大仙师、突兀人仙师、突兀杰出修仙者、桂仙师、呼大仙师",
@@ -37,6 +38,11 @@
         "value": "信奉天澜兽、按部落聚居、有圣女与四大仙师",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "部落聚居、进贡天澜圣殿",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "聚居地": [
@@ -59,6 +65,11 @@
         "value": "慕兰草原",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 733
+      },
+      {
+        "value": "灵界天澜草原",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "天敌": [
@@ -152,9 +163,9 @@
   "attrProvenance": {
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-ch883-leng-mo",
       "dated": false,
-      "seq": 877
+      "seq": 883
     },
     "聚居地": {
       "asOf": null,
@@ -199,7 +210,8 @@
     "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
     "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
     "plot.fanren-775-780-giant-ape-appears",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.167Z"
+  "updatedAt": "2026-06-17T15:46:39.512Z"
 }

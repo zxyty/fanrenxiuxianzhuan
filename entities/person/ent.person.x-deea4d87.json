@@ -7,23 +7,42 @@
     "冯家嫡系",
     "斗篷修士",
     "冯枫岳",
-    "冯家大公子"
+    "冯家大公子",
+    "枫某",
+    "枫道友",
+    "宁中冯",
+    "冯家长房长子",
+    "冯家嫡系长孙",
+    "交易青年"
   ],
   "summary": "大晋辽州关宁府宁中冯家长房长子、嫡系长孙，筑基期，已夺舍过一次；中苦毒命不久，以冯家密窟钥匙换韩立昊元丹续命。",
   "attributes": {
-    "小阶段": "筑基期",
-    "身份": "宁中冯家长房长子、嫡系长孙、冯家唯一嫡系血脉、求韩立护送者、冯家大公子",
+    "小阶段": "筑基期、筑基初期、筑基",
+    "身份": "宁中冯家长房长子、嫡系长孙、冯家唯一嫡系血脉、求韩立护送者、冯家大公子、散修、大晋世家冯家重要人物、大晋世家修士、冯家长房长子/嫡系长孙",
     "出身地": "大晋辽州关宁府",
-    "存殁": "死亡",
-    "标志特征": "身中毒、知阴罗宗底细",
-    "外貌": "黑发渐灰白",
-    "死因": "毒发身亡"
+    "存殁": "活、命不久矣、死亡、濒死、被制",
+    "标志特征": "现躯体非原身、身中毒、知阴罗宗底细、脖上挂银色钥匙、有玉佩",
+    "外貌": "黑发渐灰白、身着蓝袍、白皙英俊、嘴唇略薄；中毒后面孔乌黑、唇黑发紫、蓝袍青年、乌黑双手（中苦毒）",
+    "死因": "毒发身亡",
+    "性格": "财大气粗、急于结交",
+    "性别": "男",
+    "结局": "中苦毒无解，至多存活一日"
   },
   "observations": {
     "小阶段": [
       {
         "value": "筑基期",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "筑基初期",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ],
@@ -47,6 +66,27 @@
         "value": "冯家大公子",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      },
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "大晋世家冯家重要人物",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883,
+        "note": "据玉佩『宁中冯』与银月推断"
+      },
+      {
+        "value": "大晋世家修士",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "冯家长房长子/嫡系长孙",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "出身地": [
@@ -72,6 +112,17 @@
         "value": "死亡",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      },
+      {
+        "value": "濒死",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883,
+        "note": "身中十绝毒苦毒，本章未死，被韩立暂留问话"
+      },
+      {
+        "value": "被制",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "标志特征": [
@@ -85,6 +136,11 @@
         "value": "身中毒、知阴罗宗底细",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "脖上挂银色钥匙、有玉佩",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "外貌": [
@@ -92,6 +148,26 @@
         "value": "黑发渐灰白",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "身着蓝袍",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "白皙英俊、嘴唇略薄；中毒后面孔乌黑、唇黑发紫",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "蓝袍青年",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "乌黑双手（中苦毒）",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "死因": [
@@ -99,6 +175,27 @@
         "value": "毒发身亡",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      }
+    ],
+    "性格": [
+      {
+        "value": "财大气粗、急于结交",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "结局": [
+      {
+        "value": "中苦毒无解，至多存活一日",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -124,27 +221,46 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 931
+      "seq": 883
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 889
+      "seq": 883,
+      "note": "已夺舍过一次"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-ch883-leng-mo",
       "dated": false,
-      "seq": 889
+      "seq": 883
     },
     "死因": {
       "asOf": null,
       "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
       "seq": 931
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -152,7 +268,8 @@
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T01:29:15.233Z"
+  "updatedAt": "2026-06-17T15:46:39.486Z"
 }

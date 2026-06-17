@@ -22,7 +22,8 @@
     "等级": "超级帝国",
     "理念": "本界修士圣地",
     "据点": "晋京",
-    "阵营": "外来"
+    "阵营": "外来",
+    "所属界面": "灵界"
   },
   "observations": {
     "等级": [
@@ -52,6 +53,13 @@
         "docId": "plot.fanren-775-780-giant-ape-appears",
         "seq": 775
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 577,
@@ -79,6 +87,12 @@
       "docId": "plot.fanren-775-780-giant-ape-appears",
       "dated": false,
       "seq": 775
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -127,7 +141,8 @@
     "plot.fanren-781-nangong-jingbian",
     "plot.fanren-787-tun-mo-dan-gui",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
-    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:13:41.333Z"
+  "updatedAt": "2026-06-17T15:46:39.465Z"
 }

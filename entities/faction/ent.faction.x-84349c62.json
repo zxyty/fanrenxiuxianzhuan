@@ -8,7 +8,8 @@
   "summary": "佛门大宗金罗宗的分支，原在辽州关宁，数百年前迁出回归本宗；冯家先祖曾为其俗家弟子。",
   "attributes": {
     "阵营": "佛门",
-    "据点": "辽州关宁"
+    "据点": "辽州关宁",
+    "所属界面": "大晋"
   },
   "observations": {
     "阵营": [
@@ -24,6 +25,13 @@
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883,
         "note": "数百年前已迁出回归本宗"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -41,12 +49,19 @@
       "dated": false,
       "seq": 883,
       "note": "数百年前已迁出回归本宗"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-15T23:54:19.684Z"
+  "updatedAt": "2026-06-17T15:46:39.461Z"
 }

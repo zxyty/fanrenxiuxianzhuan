@@ -3,15 +3,17 @@
   "type": "pill",
   "name": "昊元丹",
   "aliases": [
-    "天昊元丹"
+    "天昊元丹",
+    "天昊元丹（误写）"
   ],
   "summary": "火红杏仁状丹药，韩立昔年用高级妖丹炼制，本为结丹期突破瓶颈增进修为之灵丹，可暂压苦毒毒气。",
   "attributes": {
-    "功效": "结丹期突破瓶颈、增进修为、暂时压制苦毒毒气",
+    "功效": "结丹期突破瓶颈、增进修为、暂时压制苦毒毒气、结丹期突破瓶颈增进修为、暂时压制苦毒毒气一日、拖延煞气",
     "适用境界": "结丹期",
     "炼制者": "韩立",
     "主料": "高级妖丹",
-    "品阶": "珍稀"
+    "品阶": "珍稀",
+    "副作用": "仅拖延非根治"
   },
   "observations": {
     "功效": [
@@ -25,6 +27,21 @@
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883,
         "note": "仅延命,非真解毒"
+      },
+      {
+        "value": "结丹期突破瓶颈增进修为",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "暂时压制苦毒毒气一日",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "拖延煞气",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "适用境界": [
@@ -53,6 +70,18 @@
         "value": "珍稀",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "有价无市",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "副作用": [
+      {
+        "value": "仅拖延非根治",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -87,13 +116,20 @@
       "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
       "seq": 889
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T00:12:42.873Z"
+  "updatedAt": "2026-06-17T15:46:39.473Z"
 }

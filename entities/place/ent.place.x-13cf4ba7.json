@@ -2,12 +2,14 @@
   "id": "ent.place.x-13cf4ba7",
   "type": "place",
   "name": "冯家密窟",
-  "aliases": [],
+  "aliases": [
+    "冯家千年密窟"
+  ],
   "summary": "宁中冯家千余年的收藏密窟，藏有大量珍宝及韩立所求的佛宗功法，需密窟钥匙开启。",
   "attributes": {
-    "类型": "世家密窟",
-    "所属势力": "冯家",
-    "特产": "佛宗功法、千余年收藏",
+    "类型": "家族秘藏密窟、世家密窟、藏宝密窟",
+    "所属势力": "宁中冯家、冯家",
+    "特产": "佛宗功法、千余年收藏、佛宗功法、冯家收藏",
     "守护": "钥匙石门+凹槽传送阵禁制"
   },
   "observations": {
@@ -21,6 +23,11 @@
         "value": "世家密窟",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "藏宝密窟",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "所属势力": [
@@ -32,13 +39,23 @@
       {
         "value": "冯家",
         "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-        "seq": 907
+        "seq": 883
       }
     ],
     "特产": [
       {
         "value": "佛宗功法、千余年收藏",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "佛宗功法",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "冯家收藏",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ],
@@ -54,15 +71,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 907
+      "seq": 883
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 907
+      "seq": 883
     },
     "特产": {
       "asOf": null,
@@ -81,7 +98,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
-    "plot.fanren-907-912-huorongjing-jinghua-yaodan"
+    "plot.fanren-907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T00:52:06.645Z"
+  "updatedAt": "2026-06-17T15:46:39.467Z"
 }

@@ -9,7 +9,7 @@
   "summary": "大晋的一州，下辖关宁府等府城。",
   "attributes": {
     "类型": "州",
-    "所属界面": "大晋"
+    "所属界面": "大晋、大晋皇朝"
   },
   "observations": {
     "类型": [
@@ -23,6 +23,11 @@
       {
         "value": "大晋",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ]
@@ -47,7 +52,8 @@
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch895-jinpa-yincan",
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T00:43:53.255Z"
+  "updatedAt": "2026-06-17T15:46:39.464Z"
 }

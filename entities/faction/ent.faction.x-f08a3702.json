@@ -7,8 +7,10 @@
   ],
   "summary": "关宁府四大修仙世家之一，据传持有苦毒，近年联合张、金两家暗算冯家，并收纳了冯枕。",
   "attributes": {
-    "据点": "晋京/关宁",
-    "所属界面": "大晋"
+    "据点": "关宁府、隼云镇、晋京/关宁、辽州关宁府",
+    "所属界面": "大晋",
+    "等级": "大晋世家、修仙世家",
+    "镇派之宝": "苦毒（十绝毒之一）"
   },
   "observations": {
     "据点": [
@@ -26,6 +28,11 @@
         "value": "晋京/关宁",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      },
+      {
+        "value": "辽州关宁府",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "所属界面": [
@@ -34,21 +41,52 @@
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
+    ],
+    "等级": [
+      {
+        "value": "大晋世家",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "修仙世家",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "苦毒（十绝毒之一）",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
     ]
   },
   "firstSeq": 883,
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 931
+      "seq": 883
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
       "seq": 901
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
@@ -57,7 +95,8 @@
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-16T01:29:15.235Z"
+  "updatedAt": "2026-06-17T15:46:39.456Z"
 }

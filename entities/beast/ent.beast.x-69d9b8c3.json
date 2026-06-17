@@ -3,14 +3,16 @@
   "type": "beast",
   "name": "猿鹫",
   "aliases": [
-    "妖禽猿鹫"
+    "妖禽猿鹫",
+    "猿鹫妖禽",
+    "棕色妖禽"
   ],
   "summary": "天澜草原二级妖禽，猿首禽身、两丈巨翅、生猿臂，利爪碎石裂金，怪鸣有奇效，比同阶妖兽更聪明凶残。",
   "attributes": {
-    "等级": "二级妖禽",
+    "等级": "二级妖兽",
     "栖息地": "天澜草原、大草原",
-    "能力": "利爪碎石裂金、怪鸣奇效、力大无穷、怪鸣有奇效、聪明凶残",
-    "外形": "猿首禽身两丈巨翅生猿臂、猿首禽身、两丈巨翅、毛绒猿臂、血盆大口"
+    "能力": "利爪碎石裂金、怪鸣奇效、力大无穷、怪鸣有奇效、聪明凶残、凄厉啼声震慑心神、利爪抓击",
+    "外形": "猿首禽身两丈巨翅生猿臂、猿首禽身、两丈巨翅、毛绒猿臂、血盆大口、棕色巨鸟、妖禽，具利爪长翎"
   },
   "observations": {
     "等级": [
@@ -18,6 +20,11 @@
         "value": "二级妖禽",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "二级妖兽",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "栖息地": [
@@ -57,6 +64,16 @@
         "value": "聪明凶残",
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "凄厉啼声震慑心神",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "利爪抓击",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "外形": [
@@ -69,6 +86,16 @@
         "value": "猿首禽身、两丈巨翅、毛绒猿臂、血盆大口",
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "棕色巨鸟",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "妖禽，具利爪长翎",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ]
   },
@@ -76,9 +103,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-ch883-leng-mo",
       "dated": false,
-      "seq": 877
+      "seq": 883
     },
     "栖息地": {
       "asOf": null,
@@ -103,7 +130,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-877-882-canglu-bu-wugui-suoshen",
-    "plot.fanren-877-882-cangludu-wugui-suoshen"
+    "plot.fanren-877-882-cangludu-wugui-suoshen",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-17T15:25:46.178Z"
+  "updatedAt": "2026-06-17T15:46:39.424Z"
 }

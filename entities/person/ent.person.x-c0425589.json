@@ -2,11 +2,16 @@
   "id": "ent.person.x-c0425589",
   "type": "person",
   "name": "鹰眼老者",
-  "aliases": [],
+  "aliases": [
+    "鹰眼紫袍老者"
+  ],
   "summary": "其元神被韩立第二元婴以黑绿火焰灭杀，尸体被火球焚毁，形神俱灭。",
   "attributes": {
     "存殁": "死亡",
-    "死因": "元神被第二元婴黑绿火焰所灭、尸身被韩立火球焚毁"
+    "死因": "元神被第二元婴黑绿火焰所灭、尸身被韩立火球焚毁、被韩立第二元婴通玄变化巨拳砸成肉酱、元神被擒、元神被第二元婴黑绿火焰所灭、尸身被火球焚毁，形神俱灭",
+    "性别": "男",
+    "小阶段": "结丹期",
+    "外貌": "鹰眼、紫袍"
   },
   "observations": {
     "存殁": [
@@ -20,6 +25,37 @@
       {
         "value": "元神被第二元婴黑绿火焰所灭、尸身被韩立火球焚毁",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      },
+      {
+        "value": "被韩立第二元婴通玄变化巨拳砸成肉酱、元神被擒",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      },
+      {
+        "value": "元神被第二元婴黑绿火焰所灭、尸身被火球焚毁，形神俱灭",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
+      }
+    ],
+    "外貌": [
+      {
+        "value": "鹰眼、紫袍",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ]
@@ -37,12 +73,31 @@
       "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
       "seq": 883
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-15T23:54:19.671Z"
+  "updatedAt": "2026-06-17T15:46:39.487Z"
 }

@@ -470,3 +470,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T15:05:36.325Z** `ingest` plot.fanren-865-870-zhiyang-invitation-and-duel — 凡人修仙传 第865-870章｜至阳上人的邀请与韩立胜古剑门金老怪 · kind=plot asOf=2026-06-17 entities=49 relations=57 src=00865-00870.md
 - **2026-06-17T15:13:41.523Z** `ingest` plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan — 第871-876章：探漩涡入魔气之渊，韩立受托布阵盘换得灵鳌岛 · kind=plot asOf=2026-06-17 entities=36 relations=39 src=00871-00876.md
 - **2026-06-17T15:25:46.401Z** `ingest` plot.fanren-877-882-cangludu-wugui-suoshen — 第877-882章 韩立化名寒仙师混入苍鹭部，五鬼锁神大法封印煞气 · kind=plot asOf=2026-06-17 entities=28 relations=36 src=00877-00882.md
+- **2026-06-17T15:46:39.803Z** `ingest` plot.fanren-ch883-leng-mo — 第883章 冷漠｜韩立化名「寒仙师」剿杀猿鹫、拒售飞针灵虫 · kind=plot asOf=2026-06-17 entities=55 relations=79 src=00883-00888.md

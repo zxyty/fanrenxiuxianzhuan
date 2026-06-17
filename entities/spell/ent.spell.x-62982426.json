@@ -7,8 +7,9 @@
   ],
   "summary": "韩立诡异的逃命遁法，连突兀人元婴修士也忌惮，无大仙师在场难以留住。",
   "attributes": {
-    "类型": "逃命遁术",
-    "出处": "韩立所用"
+    "类型": "逃命遁术、遁术",
+    "出处": "韩立所用",
+    "威力": "极诡异，难以拦截"
   },
   "observations": {
     "类型": [
@@ -16,12 +17,24 @@
         "value": "逃命遁术",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
+      },
+      {
+        "value": "遁术",
+        "docId": "plot.fanren-ch883-leng-mo",
+        "seq": 883
       }
     ],
     "出处": [
       {
         "value": "韩立所用",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+        "seq": 883
+      }
+    ],
+    "威力": [
+      {
+        "value": "极诡异，难以拦截",
+        "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
       "seq": 883
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch883-leng-mo",
+      "dated": false,
+      "seq": 883
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu"
+    "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+    "plot.fanren-ch883-leng-mo"
   ],
-  "updatedAt": "2026-06-15T23:54:19.679Z"
+  "updatedAt": "2026-06-17T15:46:39.508Z"
 }
