@@ -22,7 +22,7 @@
     "寿元": "千余年",
     "外貌": "年轻修士",
     "存殁": "妖魂被吞灭",
-    "小阶段": "元婴期",
+    "小阶段": "结丹初期",
     "阵营": "逆星盟",
     "性格": "深沉",
     "性别": "男",
@@ -109,6 +109,12 @@
         "value": "元婴期",
         "docId": "plot.fanren-ch446-zaiju",
         "seq": 445
+      },
+      {
+        "value": "结丹初期",
+        "docId": "plot.fanren-ch482-guba-zhi-zheng",
+        "seq": 482,
+        "note": "表面修为，真实底细更深"
       }
     ],
     "阵营": [
@@ -249,9 +255,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch446-zaiju",
+      "docId": "plot.fanren-ch482-guba-zhi-zheng",
       "dated": false,
-      "seq": 445
+      "seq": 482,
+      "note": "表面修为，真实底细更深"
     },
     "阵营": {
       "asOf": null,
@@ -301,7 +308,8 @@
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-ch480-da-zhan-qi",
-    "plot.fanren-ch481-huaxing-zhibao"
+    "plot.fanren-ch481-huaxing-zhibao",
+    "plot.fanren-ch482-guba-zhi-zheng"
   ],
-  "updatedAt": "2026-06-17T05:15:45.879Z"
+  "updatedAt": "2026-06-17T05:18:08.041Z"
 }

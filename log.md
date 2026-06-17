@@ -400,3 +400,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T03:26:19.887Z** `ingest` plot.fanren-1935-fei-cheng-zi-yan-ding — 第十卷 第1935章 废城——逼退血光圣祖三化身、夺炼紫言鼎 · kind=plot asOf=2026-06-17 entities=42 relations=56 src=01921-01926.md
 - **2026-06-17T05:13:49.076Z** `ingest` plot.fanren-ch480-da-zhan-qi — 凡人修仙传 第480章 大战起｜虚天鼎三方混战爆发 · kind=plot asOf=2026-06-17 entities=21 relations=27 src=00480-00480.md
 - **2026-06-17T05:15:45.992Z** `ingest` plot.fanren-ch481-huaxing-zhibao — 第481章 化形之宝：双头火狼破鼎逃遁，群修争夺 · kind=plot asOf=2026-06-17 entities=19 relations=12 src=00481-00481.md
+- **2026-06-17T05:18:08.145Z** `ingest` plot.fanren-ch482-guba-zhi-zheng — 凡人修仙传 第482章·古宝之争 · kind=plot asOf=2026-06-17 entities=22 relations=23 src=00482-00482.md
