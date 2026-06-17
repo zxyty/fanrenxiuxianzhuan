@@ -8,7 +8,7 @@
   "summary": "魔焰门护法，将赴付家祝寿。",
   "attributes": {
     "身份": "魔焰门护法",
-    "小阶段": "结丹",
+    "小阶段": "结丹、结丹期",
     "外貌": "相貌平凡、双眼寒光逼人"
   },
   "observations": {
@@ -22,6 +22,11 @@
     "小阶段": [
       {
         "value": "结丹",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "结丹期",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -60,5 +65,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-14T20:54:29.204Z"
+  "updatedAt": "2026-06-17T09:16:51.105Z"
 }

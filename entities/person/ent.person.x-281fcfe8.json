@@ -7,7 +7,8 @@
   "attributes": {
     "性别": "女",
     "身份": "御灵宗弟子",
-    "标志特征": "木属性灵根"
+    "标志特征": "木属性灵根",
+    "种族": "人族"
   },
   "observations": {
     "性别": [
@@ -27,6 +28,13 @@
     "标志特征": [
       {
         "value": "木属性灵根",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -51,6 +59,12 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
     }
   },
   "contested": false,
@@ -58,5 +72,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-14T20:54:29.193Z"
+  "updatedAt": "2026-06-17T09:16:51.087Z"
 }

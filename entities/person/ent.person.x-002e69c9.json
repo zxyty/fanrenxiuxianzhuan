@@ -1,32 +1,26 @@
 {
-  "id": "ent.person.x-7a543554",
+  "id": "ent.person.x-002e69c9",
   "type": "person",
-  "name": "御灵宗师伯",
+  "name": "清儿",
   "aliases": [
-    "奇灵山老者",
-    "奇灵山石屋老者"
+    "白面修士"
   ],
-  "summary": "奇灵山石屋中的御灵宗高层老者，察觉至木灵婴被禁锢后下令追查，欲亲自会一会禁锢者。",
+  "summary": "付家四十余岁白面修士，向付天化回禀魔焰门护法将至。",
   "attributes": {
-    "身份": "御灵宗高层、御灵宗高辈",
-    "称号": "师伯"
+    "身份": "付家修士",
+    "外貌": "白面"
   },
   "observations": {
     "身份": [
       {
-        "value": "御灵宗高层",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      },
-      {
-        "value": "御灵宗高辈",
+        "value": "付家修士",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
     ],
-    "称号": [
+    "外貌": [
       {
-        "value": "师伯",
+        "value": "白面",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -40,7 +34,7 @@
       "dated": false,
       "seq": 649
     },
-    "称号": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
@@ -52,5 +46,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-17T09:16:51.090Z"
+  "updatedAt": "2026-06-17T09:16:51.091Z"
 }

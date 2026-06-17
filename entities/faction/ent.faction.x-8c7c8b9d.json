@@ -8,16 +8,19 @@
     "付家堡",
     "付家堡势力",
     "付家嫡系",
-    "付家满门"
+    "付家满门",
+    "付家内堡",
+    "付家外堡"
   ],
   "summary": "元武国赫赫有名的几大家族之一；因齐云霄杀了付家的人而追杀他，本章两名修士被韩立所杀。",
   "attributes": {
     "等级": "元武国几大家族之一、元武国最大修仙家族之一、元武国第一家族",
-    "据点": "元武国西部紫道山、紫道山、紫道山·付家堡、紫道山付家堡、紫道山付家主堡",
-    "阵营": "依附魔道的修仙家族",
+    "据点": "元武国西部紫道山、紫道山、紫道山·付家堡、紫道山付家堡、紫道山付家主堡、付家堡（紫道山）、付家堡",
+    "阵营": "依附魔道、依附魔道的修仙家族、倾向魔道（讨好魔焰门）、元武国第一家族",
     "掌门": "付天化",
     "所属界面": "元武国",
-    "镇派之宝": "铁背圣兽（镇族圣兽）"
+    "镇派之宝": "铁背圣兽（镇族圣兽）",
+    "理念": "占据元武国灵矿坊市利益"
   },
   "observations": {
     "等级": [
@@ -62,6 +65,16 @@
         "value": "紫道山付家主堡",
         "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
         "seq": 643
+      },
+      {
+        "value": "付家堡（紫道山）",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "付家堡",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ],
     "阵营": [
@@ -73,6 +86,16 @@
       },
       {
         "value": "依附魔道的修仙家族",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "倾向魔道（讨好魔焰门）",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "元武国第一家族",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -97,6 +120,13 @@
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
+    ],
+    "理念": [
+      {
+        "value": "占据元武国灵矿坊市利益",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
     ]
   },
   "firstSeq": 349,
@@ -115,9 +145,10 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
       "dated": false,
-      "seq": 649
+      "seq": 643,
+      "note": "部分弟子加入魔焰门"
     },
     "掌门": {
       "asOf": null,
@@ -136,6 +167,12 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
     }
   },
   "contested": false,
@@ -148,5 +185,5 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-17T09:03:23.797Z"
+  "updatedAt": "2026-06-17T09:16:51.140Z"
 }

@@ -1,32 +1,26 @@
 {
-  "id": "ent.person.x-7a543554",
-  "type": "person",
-  "name": "御灵宗师伯",
+  "id": "ent.item.x-f5d4a893",
+  "type": "item",
+  "name": "齐云霄遗赠玉简",
   "aliases": [
-    "奇灵山老者",
-    "奇灵山石屋老者"
+    "淡青色玉简"
   ],
-  "summary": "奇灵山石屋中的御灵宗高层老者，察觉至木灵婴被禁锢后下令追查，欲亲自会一会禁锢者。",
+  "summary": "齐云霄遗言托付韩立的玉简，贴黄符银禁，内容凶险（小梅看后吐血昏迷），对韩立大有帮助。",
   "attributes": {
-    "身份": "御灵宗高层、御灵宗高辈",
-    "称号": "师伯"
+    "类型": "玉简",
+    "用途": "记载对韩立有用之物"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "御灵宗高层",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      },
-      {
-        "value": "御灵宗高辈",
+        "value": "玉简",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
     ],
-    "称号": [
+    "用途": [
       {
-        "value": "师伯",
+        "value": "记载对韩立有用之物",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -34,13 +28,13 @@
   },
   "firstSeq": 649,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
     },
-    "称号": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
@@ -52,5 +46,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-17T09:16:51.090Z"
+  "updatedAt": "2026-06-17T09:16:51.149Z"
 }

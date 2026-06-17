@@ -1,32 +1,37 @@
 {
-  "id": "ent.person.x-06aac226",
+  "id": "ent.person.x-d8cdb95e",
   "type": "person",
-  "name": "彭易双凶",
-  "aliases": [],
-  "summary": "在元武国以杀人夺宝臭名远扬的散修（二人），本章其一被韩立灭杀，二人就此从元武国消失。",
+  "name": "付家蓝袍老者",
+  "aliases": [
+    "付家老祖堂弟",
+    "付家第三位结丹修士"
+  ],
+  "summary": "付家老祖堂弟、付家第三位结丹修士，主持祝寿宴局面，被青虹绞杀。",
   "attributes": {
-    "身份": "散修、杀人夺宝恶名散修",
-    "称号": "彭易双凶",
+    "小阶段": "结丹期",
+    "身份": "付家堂主级修士",
+    "阵营": "付家",
     "存殁": "死亡",
-    "死因": "被韩立禁锢妖婴后灭杀、被韩立所杀",
-    "阵营": "散修"
+    "死因": "被青竹蜂云剑（青虹）绞为碎肉"
   },
   "observations": {
-    "身份": [
+    "小阶段": [
       {
-        "value": "散修",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      },
-      {
-        "value": "杀人夺宝恶名散修",
+        "value": "结丹期",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
     ],
-    "称号": [
+    "身份": [
       {
-        "value": "彭易双凶",
+        "value": "付家堂主级修士",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "阵营": [
+      {
+        "value": "付家",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -40,19 +45,7 @@
     ],
     "死因": [
       {
-        "value": "被韩立禁锢妖婴后灭杀",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      },
-      {
-        "value": "被韩立所杀",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      }
-    ],
-    "阵营": [
-      {
-        "value": "散修",
+        "value": "被青竹蜂云剑（青虹）绞为碎肉",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -60,13 +53,19 @@
   },
   "firstSeq": 649,
   "attrProvenance": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
     "身份": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
     },
-    "称号": {
+    "阵营": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
@@ -83,12 +82,6 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
-    },
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.fanren-ch648-zhimu-lingying",
-      "dated": false,
-      "seq": 649
     }
   },
   "contested": false,
@@ -96,5 +89,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-17T09:16:51.085Z"
+  "updatedAt": "2026-06-17T09:16:51.131Z"
 }

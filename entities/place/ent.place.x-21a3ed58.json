@@ -1,32 +1,26 @@
 {
-  "id": "ent.person.x-7a543554",
-  "type": "person",
-  "name": "御灵宗师伯",
+  "id": "ent.place.x-21a3ed58",
+  "type": "place",
+  "name": "辛如音旧居",
   "aliases": [
-    "奇灵山老者",
-    "奇灵山石屋老者"
+    "无名小山竹楼"
   ],
-  "summary": "奇灵山石屋中的御灵宗高层老者，察觉至木灵婴被禁锢后下令追查，欲亲自会一会禁锢者。",
+  "summary": "辛如音昔年隐居的无名小山竹楼，禁制犹存，现由小梅后人居住，供奉齐云霄、辛如音牌位。",
   "attributes": {
-    "身份": "御灵宗高层、御灵宗高辈",
-    "称号": "师伯"
+    "类型": "隐居竹楼",
+    "守护": "隔绝禁制"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "御灵宗高层",
-        "docId": "plot.fanren-ch648-zhimu-lingying",
-        "seq": 649
-      },
-      {
-        "value": "御灵宗高辈",
+        "value": "隐居竹楼",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
     ],
-    "称号": [
+    "守护": [
       {
-        "value": "师伯",
+        "value": "隔绝禁制",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -34,13 +28,13 @@
   },
   "firstSeq": 649,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
     },
-    "称号": {
+    "守护": {
       "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
@@ -52,5 +46,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-17T09:16:51.090Z"
+  "updatedAt": "2026-06-17T09:16:51.142Z"
 }

@@ -6,8 +6,9 @@
   "summary": "魔焰门负责外事的护法，结丹修士，前来付家祝寿，纳付家双艳之一为侍妾。",
   "attributes": {
     "身份": "魔焰门外事护法",
-    "小阶段": "结丹",
-    "标志特征": "满脸白麻、腰跨葫芦"
+    "小阶段": "结丹、结丹期",
+    "标志特征": "满脸白麻、腰跨葫芦",
+    "外貌": "满脸白麻、腰跨葫芦"
   },
   "observations": {
     "身份": [
@@ -22,9 +23,21 @@
         "value": "结丹",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ],
     "标志特征": [
+      {
+        "value": "满脸白麻、腰跨葫芦",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "外貌": [
       {
         "value": "满脸白麻、腰跨葫芦",
         "docId": "plot.fanren-ch648-zhimu-lingying",
@@ -51,6 +64,12 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
     }
   },
   "contested": false,
@@ -58,5 +77,5 @@
   "docs": [
     "plot.fanren-ch648-zhimu-lingying"
   ],
-  "updatedAt": "2026-06-14T20:54:29.203Z"
+  "updatedAt": "2026-06-17T09:16:51.104Z"
 }

@@ -8,18 +8,22 @@
     "七叔",
     "紫袍老者",
     "形貌奇特的大头怪人",
-    "付家之主"
+    "付家之主",
+    "付家老祖贼子"
   ],
   "summary": "付家家主，鹰眼紫袍，付家现存年纪最大的结丹修士，将办四百岁寿诞。",
   "attributes": {
-    "身份": "付家家主、付家家主/掌权人、付家老祖、叶家长老",
+    "身份": "付家家主、付家家主/掌权人、付家老祖、叶家长老、付家家主/老祖",
     "小阶段": "结丹、结丹中期",
-    "寿元": "约四百岁",
-    "外貌": "大头怪人",
+    "寿元": "约四百岁、近四百岁",
+    "外貌": "鹰眼紫袍老者、大头怪人、鹰眼紫袍、紫袍老者、手捻长须",
     "称号": "付家老祖",
     "存殁": "存活、死亡",
     "性别": "男",
-    "死因": "被银月香雾迷昏后斩首"
+    "死因": "被银月香雾迷昏后斩首、被银月迷晕后斩首",
+    "性格": "老谋深算、惜命",
+    "阵营": "付家",
+    "结局": "首级被韩立用以祭奠辛如音、齐云霄"
   },
   "observations": {
     "身份": [
@@ -42,6 +46,11 @@
         "value": "叶家长老",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "付家家主/老祖",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ],
     "小阶段": [
@@ -61,6 +70,11 @@
         "value": "约四百岁",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "近四百岁",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ],
     "外貌": [
@@ -73,6 +87,16 @@
         "value": "大头怪人",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "鹰眼紫袍",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "紫袍老者、手捻长须",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ],
     "称号": [
@@ -107,6 +131,32 @@
         "value": "被银月香雾迷昏后斩首",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "被银月迷晕后斩首",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "性格": [
+      {
+        "value": "老谋深算、惜命",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "阵营": [
+      {
+        "value": "付家",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      }
+    ],
+    "结局": [
+      {
+        "value": "首级被韩立用以祭奠辛如音、齐云霄",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
       }
     ]
   },
@@ -132,9 +182,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
-      "seq": 991
+      "seq": 649
     },
     "称号": {
       "asOf": null,
@@ -160,6 +210,24 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "dated": false,
+      "seq": 649
     }
   },
   "contested": false,
@@ -170,5 +238,5 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-17T09:03:23.783Z"
+  "updatedAt": "2026-06-17T09:16:51.130Z"
 }

@@ -10,7 +10,7 @@
   "attributes": {
     "所属势力": "付家",
     "危险度": "凡人误入即毒毙、高",
-    "类型": "山",
+    "类型": "山、山地堡垒、山岭",
     "所属界面": "元武国",
     "特产": "紫色迷雾屏障",
     "守护": "毒云紫瘴阵紫雾"
@@ -38,6 +38,16 @@
     "类型": [
       {
         "value": "山",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "山地堡垒",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "山岭",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -110,5 +120,5 @@
     "plot.fanren-ch648-zhimu-lingying",
     "plot.fanren-642-dianfeng-peiyuan-gong"
   ],
-  "updatedAt": "2026-06-17T09:03:23.802Z"
+  "updatedAt": "2026-06-17T09:16:51.141Z"
 }

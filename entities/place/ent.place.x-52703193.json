@@ -7,7 +7,7 @@
   "attributes": {
     "所属界面": "天罗国",
     "所属势力": "御灵宗",
-    "类型": "山脉/山门",
+    "类型": "山脉/山门、山门",
     "特产": "灵兽奇虫"
   },
   "observations": {
@@ -28,6 +28,11 @@
     "类型": [
       {
         "value": "山脉/山门",
+        "docId": "plot.fanren-ch648-zhimu-lingying",
+        "seq": 649
+      },
+      {
+        "value": "山门",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
@@ -73,5 +78,5 @@
     "plot.fanren-ch648-zhimu-lingying",
     "plot.fanren-ch660-shijin-lingjian"
   ],
-  "updatedAt": "2026-06-14T21:29:49.466Z"
+  "updatedAt": "2026-06-17T09:16:51.091Z"
 }
