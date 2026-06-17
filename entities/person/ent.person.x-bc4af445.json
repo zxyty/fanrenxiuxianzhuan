@@ -3,14 +3,17 @@
   "type": "person",
   "name": "王长老",
   "aliases": [
-    "银袍修士"
+    "银袍修士",
+    "天机阁王长老"
   ],
   "summary": "逆星盟在港口领队的元婴期老怪，曾以神识亲自探测离岛的结丹期修士(含韩立)以防变容伪冒。",
   "attributes": {
     "小阶段": "元婴初期",
     "身份": "天机阁长老",
     "阵营": "逆星盟",
-    "外貌": "银袍、面色微白"
+    "外貌": "银袍、面色微白、银袍、面色微白、五十余岁",
+    "标志特征": "龟灵决修至第七层",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -55,6 +58,25 @@
         "value": "面色微白",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "银袍、面色微白、五十余岁",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "龟灵决修至第七层",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ]
   },
@@ -83,6 +105,18 @@
       "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
       "seq": 937
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+      "dated": false,
+      "seq": 937
     }
   },
   "contested": false,
@@ -90,7 +124,8 @@
   "docs": [
     "plot.fanren-499-504-nanming-island",
     "plot.fanren-937-942-tianjifu-jiezi-space",
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-16T02:23:46.973Z"
+  "updatedAt": "2026-06-17T17:07:59.068Z"
 }

@@ -6,7 +6,7 @@
   "summary": "干瘦老者苦修的隐匿身形遁术，被韩立看破。",
   "attributes": {
     "出处": "干瘦老者苦修",
-    "效果": "隐匿身形"
+    "效果": "隐匿身形、隐匿身形跟踪他人"
   },
   "observations": {
     "出处": [
@@ -20,6 +20,11 @@
       {
         "value": "隐匿身形",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "隐匿身形跟踪他人",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-937-942-tianjifu-jiezi-space"
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-15T06:43:46.882Z"
+  "updatedAt": "2026-06-17T17:07:59.083Z"
 }

@@ -5,14 +5,15 @@
   "aliases": [
     "高阶天机屋",
     "天机府洞府",
-    "洞府宝物"
+    "洞府宝物",
+    "天机阁镇阁之宝"
   ],
   "summary": "天机阁最高等阶天机屋、镇阁之宝，可将整座玉砌洞府收纳随身携带。",
   "attributes": {
     "品阶": "天机屋最高等阶",
-    "能力": "将洞府缩成巴掌大随身携带、可附带堪比高阶古宝的禁制、随心放大缩小便于携带、可连同炼制过的死物一起缩放、无法收纳灵兽等活物、缩小后封闭无法吸收灵气、可放置于山腹的闭关洞府、释放为洞府",
-    "来历": "炼器大宗师华韵子亲手炼制、天机阁",
-    "持有者": "天机阁、韩立",
+    "能力": "将洞府缩成巴掌大随身携带、可附带堪比高阶古宝的禁制、随心放大缩小便于携带、可连同炼制过的死物一起缩放、无法收纳灵兽等活物、缩小后封闭无法吸收灵气、可放置于山腹的闭关洞府、释放为洞府、将洞府炼成巴掌大随身携带、附带堪比高阶古宝的禁制、可连同一同炼制的死物一起缩放、天生附带禁制神通可随时召唤",
+    "来历": "炼器大宗师华韵子亲手炼制、天机阁、天机阁出品，韩立以珍稀材料换得",
+    "持有者": "天机阁、韩立、天机阁（镇阁之宝）",
     "禁制": "附带禁制",
     "外形": "体型过小"
   },
@@ -64,6 +65,26 @@
         "value": "释放为洞府",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
         "seq": 961
+      },
+      {
+        "value": "将洞府炼成巴掌大随身携带",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "附带堪比高阶古宝的禁制",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "可连同一同炼制的死物一起缩放",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "天生附带禁制神通可随时召唤",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "来历": [
@@ -75,6 +96,11 @@
       {
         "value": "天机阁",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "天机阁出品，韩立以珍稀材料换得",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ],
@@ -88,6 +114,11 @@
         "value": "韩立",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "天机阁（镇阁之宝）",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "禁制": [
@@ -95,6 +126,11 @@
         "value": "附带禁制",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
         "seq": 961
+      },
+      {
+        "value": "对灵兽等活物无能为力，缩放后封闭无法吸收灵气",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "外形": [
@@ -102,6 +138,11 @@
         "value": "体型过小",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "美玉砌成、楼阁院落俱全、外罩白色光幕的精致洞府",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ]
   },
@@ -150,7 +191,8 @@
     "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-16T12:14:21.138Z"
+  "updatedAt": "2026-06-17T17:07:59.074Z"
 }

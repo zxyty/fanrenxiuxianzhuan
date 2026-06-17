@@ -7,16 +7,21 @@
   ],
   "summary": "碧绿晶莹的蝴蝶形辅助型法器，有提神清明之效，原为林银屏贴身之物，韩立索为补偿。",
   "attributes": {
-    "外形": "碧绿晶莹、蝴蝶形、数寸大小",
+    "外形": "碧绿晶莹、蝴蝶形、数寸大小、碧绿晶莹蝴蝶形、数寸大小",
     "能力": "提神清明",
     "品阶": "辅助型法器",
-    "持有者": "韩立(原林银屏)"
+    "持有者": "韩立(原林银屏)、韩立"
   },
   "observations": {
     "外形": [
       {
         "value": "碧绿晶莹、蝴蝶形、数寸大小",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "碧绿晶莹蝴蝶形、数寸大小",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ],
@@ -38,6 +43,11 @@
       {
         "value": "韩立(原林银屏)",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ]
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-937-942-tianjifu-jiezi-space"
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-15T06:43:46.875Z"
+  "updatedAt": "2026-06-17T17:07:59.078Z"
 }

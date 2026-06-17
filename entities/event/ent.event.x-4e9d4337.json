@@ -11,9 +11,9 @@
   "attributes": {
     "章节": "第949章",
     "地点": "晋京附近",
-    "参与方": "魔道邪宗、韩立、葛天豪、林银屏",
-    "起因": "晋京十年拍卖会一明一暗",
-    "经过": "暗中以物换物，珍稀材料与明场错开一日"
+    "参与方": "魔道邪宗、韩立、葛天豪、林银屏、知根知底的修士",
+    "起因": "晋京十年拍卖会一明一暗、晋京十年一次拍卖会分明暗两场",
+    "经过": "暗中以物换物，珍稀材料与明场错开一日、最珍稀材料拍卖与明场错开一日"
   },
   "observations": {
     "章节": [
@@ -60,6 +60,11 @@
         "value": "林银屏",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "知根知底的修士",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "起因": [
@@ -67,12 +72,22 @@
         "value": "晋京十年拍卖会一明一暗",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "晋京十年一次拍卖会分明暗两场",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "经过": [
       {
         "value": "暗中以物换物，珍稀材料与明场错开一日",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      },
+      {
+        "value": "最珍稀材料拍卖与明场错开一日",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ]
@@ -114,7 +129,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-16T02:23:46.990Z"
+  "updatedAt": "2026-06-17T17:07:59.043Z"
 }

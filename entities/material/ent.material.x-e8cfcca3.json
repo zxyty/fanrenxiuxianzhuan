@@ -7,13 +7,14 @@
     "火精芝",
     "池精芝",
     "三千年赤精芝",
-    "冰火精芝赤精芝"
+    "冰火精芝赤精芝",
+    "极品赤精芝"
   ],
   "summary": "三千年道行的冰火精芝之一，只生于熔岩地火，火属性灵丹顶阶炼丹材料。",
   "attributes": {
     "类型": "火属性灵药",
-    "用途": "交换/炼制",
-    "稀有度": "极稀有、极品·千年火候、极罕见",
+    "用途": "火属性顶阶炼丹材料、交换/炼制、以物换物/炼制",
+    "稀有度": "极稀有、极品·千年火候、极罕见、千余年火候为极品",
     "产地": "熔岩地火"
   },
   "observations": {
@@ -39,6 +40,11 @@
         "value": "交换/炼制",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "以物换物/炼制",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "稀有度": [
@@ -56,6 +62,11 @@
         "value": "极罕见",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      },
+      {
+        "value": "千余年火候为极品",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "产地": [
@@ -76,9 +87,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
       "dated": false,
-      "seq": 937
+      "seq": 673
     },
     "稀有度": {
       "asOf": null,
@@ -98,7 +109,8 @@
   "docs": [
     "plot.fanren-672-676-tiantian-exchange-meeting",
     "plot.fanren-937-942-tianjifu-jiezi-space",
-    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-17T10:06:57.376Z"
+  "updatedAt": "2026-06-17T17:07:59.033Z"
 }

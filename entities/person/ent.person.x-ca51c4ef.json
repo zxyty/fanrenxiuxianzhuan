@@ -3,13 +3,16 @@
   "type": "person",
   "name": "乌辟",
   "aliases": [
-    "乌辟老道"
+    "乌辟老道",
+    "灰发老道"
   ],
   "summary": "真极门道士，灰白头发、面色红润、性子火爆，出面维持晋西坊市禁斗法规矩。",
   "attributes": {
     "身份": "真极门道士",
     "性格": "火爆",
-    "外貌": "灰白头发、面色红润"
+    "外貌": "灰白头发、面色红润",
+    "性别": "男",
+    "道号": "乌辟"
   },
   "observations": {
     "身份": [
@@ -30,6 +33,20 @@
       {
         "value": "灰白头发、面色红润",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
+      }
+    ],
+    "道号": [
+      {
+        "value": "乌辟",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
     ]
@@ -53,12 +70,25 @@
       "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
       "seq": 937
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+      "dated": false,
+      "seq": 937
+    },
+    "道号": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+      "dated": false,
+      "seq": 937
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-937-942-tianjifu-jiezi-space"
+    "plot.fanren-937-942-tianjifu-jiezi-space",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-15T06:43:46.866Z"
+  "updatedAt": "2026-06-17T17:07:59.059Z"
 }

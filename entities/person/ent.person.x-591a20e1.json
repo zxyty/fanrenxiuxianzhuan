@@ -16,9 +16,9 @@
   "summary": "元婴中期顶峰修士，持雷灵晶与韩立交易，性急直爽，愿引荐韩立参加地下交易会。",
   "attributes": {
     "小阶段": "元婴中期顶峰、元婴、元婴中期、元婴期",
-    "外貌": "身材高大、面色枣红、皂袍",
-    "性格": "谨慎、识时务",
-    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老",
+    "外貌": "身材高大、面色枣红、皂袍、身材高大、枣红脸、皂袍",
+    "性格": "直爽性急、老练市侩、谨慎多疑、谨慎、识时务、直性子、爽快、心急",
+    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老、散修/地下交易会引荐人",
     "阵营": "九幽宗",
     "性别": "男",
     "标志特征": "持紫幽珠",
@@ -63,6 +63,11 @@
         "value": "皂袍",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "身材高大、枣红脸、皂袍",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "性格": [
@@ -85,6 +90,11 @@
         "value": "谨慎、识时务",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "直性子、爽快、心急",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "身份": [
@@ -112,6 +122,11 @@
         "value": "九幽宗长老",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "散修/地下交易会引荐人",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "阵营": [
@@ -182,9 +197,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
-      "seq": 991
+      "seq": 937
     },
     "身份": {
       "asOf": null,
@@ -235,7 +250,8 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-997-1002-kunwu-shan-qian-laomo",
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-16T04:59:44.996Z"
+  "updatedAt": "2026-06-17T17:07:59.004Z"
 }

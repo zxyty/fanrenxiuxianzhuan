@@ -13,9 +13,10 @@
     "小阶段": "元婴期",
     "身份": "阴罗宗长老",
     "阵营": "魔道、阴罗宗、敌对韩立、夺宝修士一方",
-    "标志特征": "面罩淡淡黑气(魔功极深)",
+    "标志特征": "面罩淡淡黑气(魔功极深)、魔功修炼极深",
     "性格": "狰狞强硬",
-    "性别": "男"
+    "性别": "男",
+    "外貌": "四十余岁、面罩淡淡黑气"
   },
   "observations": {
     "小阶段": [
@@ -69,6 +70,11 @@
         "value": "面罩淡淡黑气(魔功极深)",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "魔功修炼极深",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ],
     "性格": [
@@ -82,7 +88,14 @@
       {
         "value": "男",
         "docId": "plot.fanren-1003-qunmo-yinxian",
-        "seq": 1003
+        "seq": 937
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四十余岁、面罩淡淡黑气",
+        "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+        "seq": 937
       }
     ]
   },
@@ -122,7 +135,13 @@
       "asOf": null,
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
-      "seq": 1003
+      "seq": 937
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-937-942-tianjige-jiezi-space",
+      "dated": false,
+      "seq": 937
     }
   },
   "contested": false,
@@ -134,7 +153,8 @@
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-937-942-tianjige-jiezi-space"
   ],
-  "updatedAt": "2026-06-16T04:38:13.442Z"
+  "updatedAt": "2026-06-17T17:07:59.056Z"
 }
