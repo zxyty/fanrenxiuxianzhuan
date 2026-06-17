@@ -8,7 +8,8 @@
     "身份": "万法门总护法",
     "阵营": "敌对",
     "性别": "女",
-    "小阶段": "元婴"
+    "小阶段": "元婴",
+    "称号": "逆星盟魁首"
   },
   "observations": {
     "身份": [
@@ -44,7 +45,7 @@
       {
         "value": "女",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
-        "seq": 1123
+        "seq": 493
       }
     ],
     "小阶段": [
@@ -52,6 +53,13 @@
         "value": "元婴",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
         "seq": 1147
+      }
+    ],
+    "称号": [
+      {
+        "value": "逆星盟魁首",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ]
   },
@@ -73,13 +81,19 @@
       "asOf": null,
       "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
-      "seq": 1123
+      "seq": 493
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
       "dated": false,
       "seq": 1147
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+      "dated": false,
+      "seq": 493
     }
   },
   "contested": false,
@@ -89,7 +103,8 @@
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
     "plot.fanren-ch1123-1128-houqi-chucheng",
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-15T11:28:21.016Z"
+  "updatedAt": "2026-06-17T05:58:16.945Z"
 }

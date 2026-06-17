@@ -19,7 +19,7 @@
   "attributes": {
     "品阶": "古宝",
     "持有者": "韩立",
-    "能力": "极速飞行（化血光）",
+    "能力": "极速移动（逃命）、大幅提升遁速、化血光极速遁逃、极速遁行加速、化血光飞遁、极速飞行（化血光）、极速飞遁、脱困逃遁后手、高速飞遁，化血光",
     "外形": "赤红披风",
     "禁制": "速度失控、灵力狂泄",
     "来历": "古宝"
@@ -84,6 +84,11 @@
         "value": "脱困逃遁后手",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "高速飞遁，化血光",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "外形": [
@@ -96,6 +101,11 @@
         "value": "赤红披风",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
         "seq": 685
+      },
+      {
+        "value": "血色披风",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "禁制": [
@@ -129,9 +139,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
       "dated": false,
-      "seq": 685
+      "seq": 469
     },
     "外形": {
       "asOf": null,
@@ -163,7 +173,8 @@
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
     "plot.fanren-ch493-huazhou-zhimi",
-    "plot.fanren-ch485-dan-yao-zhi-zheng"
+    "plot.fanren-ch485-dan-yao-zhi-zheng",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-17T05:46:11.633Z"
+  "updatedAt": "2026-06-17T05:58:16.939Z"
 }

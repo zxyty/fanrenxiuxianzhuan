@@ -6,12 +6,13 @@
     "锦帕残图",
     "锦帕地图",
     "虚天图残片",
-    "被偷走的虚天残图"
+    "被偷走的虚天残图",
+    "虚天殿残图"
   ],
   "summary": "进入虚天殿所需的锦帕地图，注入灵力可裹身穿过金色光罩。",
   "attributes": {
     "类型": "地图/信物、图录、残图",
-    "用途": "进入虚天殿、开启一面虚天殿石室门、指引虚天殿、虚天殿之行所用"
+    "用途": "进入虚天殿、开启一面虚天殿石室门、指引虚天殿、虚天殿之行所用、破禁制/传送"
   },
   "observations": {
     "类型": [
@@ -51,6 +52,11 @@
         "value": "虚天殿之行所用",
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
+      },
+      {
+        "value": "破禁制/传送",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ]
   },
@@ -74,7 +80,8 @@
   "docs": [
     "plot.fanren-ch428-xuangu-shangren-xiaocha",
     "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
-    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-15T04:28:54.612Z"
+  "updatedAt": "2026-06-17T05:58:16.907Z"
 }

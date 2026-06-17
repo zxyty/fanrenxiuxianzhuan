@@ -5,13 +5,29 @@
   "aliases": [],
   "summary": "乱星海中小宗门，宗主命人赴天星城观望站队；雪笛仙子与紫灵仙子至交。",
   "attributes": {
-    "阵营": "中小势力"
+    "阵营": "中小势力",
+    "据点": "乱星海",
+    "理念": "随机应变观望"
   },
   "observations": {
     "阵营": [
       {
         "value": "中小势力",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      }
+    ],
+    "据点": [
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
+      }
+    ],
+    "理念": [
+      {
+        "value": "随机应变观望",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
       }
     ]
@@ -23,12 +39,25 @@
       "docId": "plot.fanren-ch493-huazhou-zhimi",
       "dated": false,
       "seq": 493
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+      "dated": false,
+      "seq": 493
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+      "dated": false,
+      "seq": 493
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch493-huazhou-zhimi"
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-15T01:52:53.240Z"
+  "updatedAt": "2026-06-17T05:58:16.942Z"
 }

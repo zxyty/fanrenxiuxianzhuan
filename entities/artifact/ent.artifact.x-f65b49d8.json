@@ -25,7 +25,7 @@
     "禁制": "须修炼通宝决方能驱使",
     "品阶": "至宝、星海第一秘宝、通天灵宝（古宝）、通天灵宝、秘宝、通灵之宝、灵宝、通天灵宝/星海第一秘宝、星海第一秘宝级",
     "持有者": "血灵",
-    "外形": "青光濛濛、隐有花鸟虫鱼虚影的青色小鼎",
+    "外形": "鼎、双耳三足小鼎、小鼎、青色小鼎、古色古香青色小鼎、拳头大小青光小鼎、青光小鼎、数寸小鼎、巨鼎，喷漫天青丝、鼎形，丈许高、古色小鼎、可涨至丈许、青色小鼎，可放大至丈许、青色小鼎，鼎内青霞翻滚、紫色小鼎、青光濛濛、隐有花鸟虫鱼虚影的青色小鼎、古鼎、古鼎，内含蓝色火焰、扁圆两耳三足、高约四尺、直径丈许、可缩小至拳头大、蓝华闪动的宝鼎",
     "器灵": "天澜兽（童子）"
   },
   "observations": {
@@ -504,6 +504,11 @@
         "value": "需修炼通宝决方可掌控，开鼎盖须元婴后期",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "鼎盖如与鼎身生铸一体，疑需元婴期或特定诀窍方能开",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "品阶": [
@@ -661,6 +666,11 @@
         "value": "扁圆两耳三足、高约四尺、直径丈许、可缩小至拳头大",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "蓝华闪动的宝鼎",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "器灵": [
@@ -730,9 +740,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-ch474-xutiandian-inner-hall-layer2",
       "dated": false,
-      "seq": 1921
+      "seq": 475
     },
     "器灵": {
       "asOf": null,
@@ -825,7 +835,8 @@
     "plot.fanren-ch483-bingfeng",
     "plot.fanren-ch484-huashenfu-butiandan",
     "plot.fanren-ch485-yuanying-xian",
-    "plot.fanren-ch485-dan-yao-zhi-zheng"
+    "plot.fanren-ch485-dan-yao-zhi-zheng",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-17T05:46:11.639Z"
+  "updatedAt": "2026-06-17T05:58:16.931Z"
 }

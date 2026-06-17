@@ -3,14 +3,16 @@
   "type": "formation",
   "name": "传送阵",
   "aliases": [
-    "破损传送阵"
+    "破损传送阵",
+    "短程传送阵"
   ],
   "summary": "岳麓殿入口与内部大厅相连的传送法阵，正常使用收一块低阶灵石。",
   "attributes": {
     "效果": "传送回内海",
     "出处": "岳麓殿",
     "破解法": "需阵法师修复",
-    "布置者": "妙音门"
+    "布置者": "妙音门",
+    "品阶": "简陋/短程"
   },
   "observations": {
     "效果": [
@@ -38,6 +40,11 @@
         "value": "传送回内海",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "短距传送",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "出处": [
@@ -59,6 +66,13 @@
         "value": "妙音门",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
         "seq": 535
+      }
+    ],
+    "品阶": [
+      {
+        "value": "简陋/短程",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ]
   },
@@ -87,6 +101,12 @@
       "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
       "seq": 535
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+      "dated": false,
+      "seq": 493
     }
   },
   "contested": false,
@@ -97,7 +117,8 @@
     "plot.fanren-ch344-formation-slays-mantis",
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
-    "plot.fanren-1113-yaoqi-chongtian"
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-16T06:28:51.170Z"
+  "updatedAt": "2026-06-17T05:58:16.913Z"
 }

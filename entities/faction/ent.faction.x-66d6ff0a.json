@@ -5,14 +5,15 @@
   "aliases": [
     "逆星盟一方",
     "逆星盟一盟",
-    "星盟"
+    "星盟",
+    "Anti-Star Alliance"
   ],
   "summary": "正魔两道合流的势力，进攻天星城/星宫，攻破南明岛作为前哨。",
   "attributes": {
     "阵营": "正魔合流、魔道、乱星海、正魔联合、与星宫敌对、星宫之敌、乱星海势力联盟、人族、人类、敌对星宫、敌（对星宫）",
     "据点": "南明岛(新夺)、乱星海、乱星海外星岛(进攻方向)、内海二十余座岛屿、外海、碧灵岛、无灵脉巨岛(藏高阶灵石矿)、乱星海石峰岛屿",
     "所属界面": "乱星海内海",
-    "理念": "灭星宫、夺乱星海",
+    "理念": "正魔两道联合、打破星宫霸权、追杀虚天鼎持鼎人、灭星宫、夺乱星海、打破星宫对乱星海霸权",
     "掌门": "万天明",
     "镇派之宝": "风火天绝大阵（布于天星城外）"
   },
@@ -83,7 +84,7 @@
       {
         "value": "乱星海",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
-        "seq": 571
+        "seq": 493
       },
       {
         "value": "乱星海外星岛(进攻方向)",
@@ -148,6 +149,11 @@
         "value": "灭星宫、夺乱星海",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "打破星宫对乱星海霸权",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "掌门": [
@@ -180,7 +186,7 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-ch493-huazhou-zhimi",
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
       "dated": false,
       "seq": 493
     },
@@ -192,9 +198,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
       "dated": false,
-      "seq": 1195
+      "seq": 493
     },
     "掌门": {
       "asOf": null,
@@ -228,7 +234,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1196-er-nv",
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
-    "lore.fanren-1215-linggen-wuxing-heyi"
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-16T08:34:31.970Z"
+  "updatedAt": "2026-06-17T05:58:16.941Z"
 }

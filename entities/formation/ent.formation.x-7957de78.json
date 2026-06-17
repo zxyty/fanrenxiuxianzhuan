@@ -4,11 +4,12 @@
   "name": "天罡罩",
   "aliases": [
     "白色光罩",
-    "上古天罡罩"
+    "上古天罡罩",
+    "天罡罩禁制"
   ],
   "summary": "上古名禁，护罩寒骊台；内蕴蓝光、边缘结冰霜，除台阶处特辟出口外别处短时间无法通过。",
   "attributes": {
-    "效果": "护台禁制、唯台阶可进出、隔绝神识感应，外人无法察觉内部异常",
+    "效果": "护台禁制、唯台阶可进出、隔绝神识感应，外人无法察觉内部异常、遮蔽神识感应",
     "出处": "上古时期"
   },
   "observations": {
@@ -27,6 +28,11 @@
         "value": "隔绝神识感应，外人无法察觉内部异常",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "遮蔽神识感应",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "出处": [
@@ -61,7 +67,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch474-xutiandian-inner-hall-layer2",
-    "plot.fanren-ch485-dan-yao-zhi-zheng"
+    "plot.fanren-ch485-dan-yao-zhi-zheng",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-17T05:46:11.601Z"
+  "updatedAt": "2026-06-17T05:58:16.927Z"
 }

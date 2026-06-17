@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "星宫所发号令，责令各势力首领、岛主赴天星城觐见天星双圣，否则剿灭。",
   "attributes": {
-    "类型": "号令信物",
-    "用途": "逼令觐见"
+    "类型": "号令信物、令牌",
+    "用途": "逼令觐见、召各势力首领觐见天星双圣"
   },
   "observations": {
     "类型": [
@@ -14,12 +14,22 @@
         "value": "号令信物",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
         "seq": 493
+      },
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "用途": [
       {
         "value": "逼令觐见",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
+        "seq": 493
+      },
+      {
+        "value": "召各势力首领觐见天星双圣",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch493-huazhou-zhimi"
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-15T01:52:53.236Z"
+  "updatedAt": "2026-06-17T05:58:16.940Z"
 }

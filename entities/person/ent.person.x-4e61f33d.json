@@ -2,11 +2,13 @@
   "id": "ent.person.x-4e61f33d",
   "type": "person",
   "name": "儒衫老者",
-  "aliases": [],
+  "aliases": [
+    "儒衫长老"
+  ],
   "summary": "汇聚处一名儒衫老者，疑心极重，察觉极阴老祖异常并加以试探。",
   "attributes": {
     "性别": "男",
-    "外貌": "儒衫",
+    "外貌": "着儒衫的老者",
     "性格": "多疑、缜密",
     "小阶段": "元婴期",
     "阵营": "正道",
@@ -31,6 +33,11 @@
         "value": "儒衫",
         "docId": "plot.fanren-ch480-da-zhan-qi",
         "seq": 480
+      },
+      {
+        "value": "着儒衫的老者",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "性格": [
@@ -99,9 +106,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch480-da-zhan-qi",
+      "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
       "dated": false,
-      "seq": 480
+      "seq": 493
     },
     "性格": {
       "asOf": null,
@@ -145,7 +152,8 @@
     "plot.fanren-ch481-huaxing-zhibao",
     "plot.fanren-ch482-guba-zhi-zheng",
     "plot.fanren-ch483-bingfeng",
-    "plot.fanren-ch484-huashenfu-butiandan"
+    "plot.fanren-ch484-huashenfu-butiandan",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-17T05:22:57.725Z"
+  "updatedAt": "2026-06-17T05:58:16.921Z"
 }

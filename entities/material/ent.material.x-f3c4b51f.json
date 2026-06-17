@@ -4,14 +4,17 @@
   "name": "养魂木",
   "aliases": [
     "神木",
-    "养魂神木"
+    "养魂神木",
+    "三大神木之一",
+    "养魂木根",
+    "焦黑怪木"
   ],
   "summary": "三大神木之一，韩立得其一小截根部，以绿液催熟望数年重现万年养魂木。",
   "attributes": {
-    "类型": "三大灵木",
-    "用途": "养神培魂、滋养魂魄、滋养魂魄元神壮大神识、寄居魂魄保神智不散、炼制藏魂匣、滋养灵魂、滋养元神/延续元神寿命、炼制存魂法器、炼制木生珠",
+    "类型": "三大神木之一、灵木、神木（三大神木之一）、三大灵木、神木",
+    "用途": "养神培魂、滋养魂魄、滋养魂魄元神壮大神识、寄居魂魄保神智不散、炼制藏魂匣、滋养灵魂、滋养元神/延续元神寿命、炼制存魂法器、炼制木生珠、滋养魂魄元神、炼制藏魂匣养护魂魄、养魂",
     "稀有度": "至宝",
-    "产地": "虚天殿"
+    "产地": "虚天殿、虚天殿灵泉、虚天殿内殿灵泉旁"
   },
   "observations": {
     "类型": [
@@ -23,7 +26,7 @@
       {
         "value": "灵木",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-        "seq": 559
+        "seq": 493
       },
       {
         "value": "神木（三大神木之一）",
@@ -34,6 +37,11 @@
         "value": "三大灵木",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "神木",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "用途": [
@@ -81,6 +89,21 @@
         "value": "炼制木生珠",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "滋养魂魄元神",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
+      },
+      {
+        "value": "炼制藏魂匣养护魂魄",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
+      },
+      {
+        "value": "养魂",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "稀有度": [
@@ -93,6 +116,11 @@
         "value": "至宝",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
         "seq": 793
+      },
+      {
+        "value": "三大神木之一",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ],
     "产地": [
@@ -105,6 +133,11 @@
         "value": "虚天殿灵泉",
         "docId": "plot.fanren-ch493-huazhou-zhimi",
         "seq": 493
+      },
+      {
+        "value": "虚天殿内殿灵泉旁",
+        "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+        "seq": 493
       }
     ]
   },
@@ -112,9 +145,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
-      "seq": 1195
+      "seq": 493
     },
     "用途": {
       "asOf": null,
@@ -130,9 +163,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "docId": "plot.fanren-ch493-huazhou-zhimi",
       "dated": false,
-      "seq": 559
+      "seq": 493
     }
   },
   "contested": false,
@@ -144,7 +177,8 @@
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-1196-er-nv"
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
   ],
-  "updatedAt": "2026-06-16T07:22:30.023Z"
+  "updatedAt": "2026-06-17T05:58:16.937Z"
 }

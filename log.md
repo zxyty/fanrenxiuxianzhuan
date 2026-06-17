@@ -405,3 +405,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T05:22:57.823Z** `ingest` plot.fanren-ch484-huashenfu-butiandan — 第484章 化身符与补天丹：星宫搅局、血玉蜘蛛被斩、补天丹现世 · kind=plot asOf=2026-06-17 entities=20 relations=16 src=00484-00484.md
 - **2026-06-17T05:24:59.055Z** `ingest` plot.fanren-ch485-yuanying-xian — 第485章 元婴现——补天丹现世、魔道联手破裂、万天明元婴出窍 · kind=plot asOf=2026-06-17 entities=16 relations=15 src=00485-00485.md
 - **2026-06-17T05:46:11.730Z** `ingest` plot.fanren-ch485-dan-yao-zhi-zheng — 第485章 丹药之争——蛮胡子吸雷夺补天丹 · kind=plot asOf=2026-06-17 entities=44 relations=69 src=00487-00492.md
+- **2026-06-17T05:58:17.040Z** `ingest` plot.fanren-ch493-498-huazhou-lingquan-yangmushu — 凡人修仙传 第493-498章｜画轴之谜、灵眼之泉与养魂木 · kind=plot asOf=2026-06-17 entities=50 relations=55 src=00493-00498.md
