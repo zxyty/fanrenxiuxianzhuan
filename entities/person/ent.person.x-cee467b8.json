@@ -3,14 +3,16 @@
   "type": "person",
   "name": "程天坤",
   "aliases": [
-    "程某"
+    "程某",
+    "落云宗程天坤"
   ],
   "summary": "落云宗太上长老，元婴初期，困于元婴初期数百年；力邀韩立加入落云宗。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴初期",
     "身份": "落云宗太上长老",
-    "外貌": "银发老者"
+    "外貌": "银发老者",
+    "阵营": "落云宗"
   },
   "observations": {
     "性别": [
@@ -40,6 +42,13 @@
         "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
         "seq": 637
       }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
+        "seq": 637
+      }
     ]
   },
   "firstSeq": 637,
@@ -67,12 +76,19 @@
       "docId": "plot.fanren-636-641-hanli-jieying-luoyunzong",
       "dated": false,
       "seq": 637
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
+      "dated": false,
+      "seq": 637
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-636-641-hanli-jieying-luoyunzong"
+    "plot.fanren-636-641-hanli-jieying-luoyunzong",
+    "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite"
   ],
-  "updatedAt": "2026-06-14T20:28:12.642Z"
+  "updatedAt": "2026-06-17T08:51:02.536Z"
 }

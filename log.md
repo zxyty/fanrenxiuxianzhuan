@@ -429,3 +429,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T08:14:39.867Z** `ingest` plot.fanren-ch619-624-luoyunzong-shijian-neixuan — 凡人修仙传 第619-624章｜落云宗试剑大会宗内选拔（杜东觐见·牛刀杀鸡） · kind=plot asOf=2026-06-17 entities=44 relations=56 src=00619-00624.md
 - **2026-06-17T08:27:05.916Z** `ingest` plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land — 第625-630章 三派试剑大会与三派禁地（灵眼之树） · kind=plot asOf=2026-06-17 entities=46 relations=47 src=00625-00630.md
 - **2026-06-17T08:44:02.186Z** `ingest` plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa — 凡人修仙传 第631章｜大罗千幻决与天狐迷灵大法（银月替身瞒杀，灵眼之树洞窟伏击） · kind=plot asOf=2026-06-17 entities=46 relations=60 src=00631-00636.md
+- **2026-06-17T08:51:02.671Z** `ingest` plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite — 凡人修仙传 第637-642章：韩立结成元婴，落云宗长老邀其入宗，银月揭秘虚天鼎 · kind=plot asOf=2026-06-17 entities=25 relations=25 src=00637-00642.md

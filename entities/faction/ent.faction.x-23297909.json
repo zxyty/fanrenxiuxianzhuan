@@ -10,8 +10,8 @@
   "attributes": {
     "阵营": "天南正道",
     "掌门": "吕姓前辈（存疑）",
-    "据点": "六奇峰、云梦山一带、云梦山、云梦山东脉、火云峰、白凤峰、天泉峰、溪国云梦山、云蒙山、云梦山脉、主峰、子母峰/母峰洞府、云梦山脉/溪国、落云山脉·子母峰、云梦山东部",
-    "理念": "炼丹闻名/收徒宽松、六奇峰分立、不讲功法传承，集百家之长、—、云梦山三宗之一、天南第一宗门、炼丹闻名、收徒宽松、兼涉符阵杂学、近年对试剑大会兴趣渐淡",
+    "据点": "六奇峰、云梦山一带、云梦山、云梦山东脉、火云峰、白凤峰、天泉峰、溪国云梦山、云蒙山、云梦山脉、主峰、子母峰/母峰洞府、云梦山脉/溪国、落云山脉·子母峰、云梦山东部、云蒙山东脉/六奇锋主峰",
+    "理念": "炼丹闻名/收徒宽松、六奇峰分立、不讲功法传承，集百家之长、—、云梦山三宗之一、天南第一宗门、炼丹闻名、收徒宽松、兼涉符阵杂学、近年对试剑大会兴趣渐淡、不讲究功法传承，集百家之长",
     "所属界面": "人界天南",
     "等级": "天南超级大宗"
   },
@@ -140,6 +140,11 @@
         "value": "云梦山东部",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "云蒙山东脉/六奇锋主峰",
+        "docId": "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
+        "seq": 637
       }
     ],
     "理念": [
@@ -182,6 +187,11 @@
         "value": "近年对试剑大会兴趣渐淡",
         "docId": "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
         "seq": 625
+      },
+      {
+        "value": "不讲究功法传承，集百家之长",
+        "docId": "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite",
+        "seq": 637
       }
     ],
     "所属界面": [
@@ -332,7 +342,8 @@
     "plot.fanren-613-yinyue-becomes-qiling",
     "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
     "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite"
   ],
-  "updatedAt": "2026-06-17T08:44:02.066Z"
+  "updatedAt": "2026-06-17T08:51:02.554Z"
 }
