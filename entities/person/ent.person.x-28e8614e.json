@@ -11,10 +11,12 @@
   "summary": "鹰钩鼻锦衣大汉，散修队伍首领，筑基后期假丹境界，心计过人威望甚高，主导花灵石偷传外星海之计。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基后期/假丹",
-    "身份": "外来修士",
+    "小阶段": "筑基后期/假丹、筑基后期",
+    "身份": "散修首领、外来修士、散修",
     "外貌": "鹰钩鼻、锦衣、五官端正",
-    "阵营": "慕兰法士"
+    "阵营": "慕兰法士",
+    "标志特征": "鹰钩鼻、仪表堂堂",
+    "称号": "假丹境界"
   },
   "observations": {
     "性别": [
@@ -29,6 +31,11 @@
         "value": "筑基后期/假丹",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
         "seq": 505
+      },
+      {
+        "value": "筑基后期",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "身份": [
@@ -41,6 +48,11 @@
         "value": "外来修士",
         "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
         "seq": 511
+      },
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "外貌": [
@@ -61,6 +73,20 @@
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
       }
+    ],
+    "标志特征": [
+      {
+        "value": "鹰钩鼻、仪表堂堂",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
+      }
+    ],
+    "称号": [
+      {
+        "value": "假丹境界",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
+      }
     ]
   },
   "firstSeq": 505,
@@ -79,9 +105,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch511-516-qiyuan-island-heishi-city",
+      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
       "dated": false,
-      "seq": 511
+      "seq": 505
     },
     "外貌": {
       "asOf": null,
@@ -94,6 +120,18 @@
       "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
       "seq": 757
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+      "dated": false,
+      "seq": 505
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+      "dated": false,
+      "seq": 505
     }
   },
   "contested": false,
@@ -101,7 +139,8 @@
   "docs": [
     "plot.fanren-ch505-510-hunru-heishicheng",
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-15T03:26:48.366Z"
+  "updatedAt": "2026-06-17T06:08:39.572Z"
 }

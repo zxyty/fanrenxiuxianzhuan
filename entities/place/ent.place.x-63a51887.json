@@ -9,7 +9,7 @@
   ],
   "summary": "乱星海未探明的外围海域，妖兽强大，又称妖海。",
   "attributes": {
-    "类型": "海域",
+    "类型": "未探明海域、海域、海外海域",
     "危险度": "高(妖兽横行)",
     "特产": "妖丹",
     "所属界面": "乱星海"
@@ -24,6 +24,11 @@
       {
         "value": "海域",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "海外海域",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
     ],
@@ -58,9 +63,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "docId": "plot.fanren-ch386-four-years-jiedan",
       "dated": false,
-      "seq": 505
+      "seq": 385
     },
     "危险度": {
       "asOf": null,
@@ -89,7 +94,8 @@
     "plot.fanren-ch505-510-hunru-heishicheng",
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-17T06:06:07.768Z"
+  "updatedAt": "2026-06-17T06:08:39.586Z"
 }

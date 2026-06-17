@@ -5,14 +5,16 @@
   "aliases": [
     "秃顶老者",
     "顾姓老者",
-    "顾兄"
+    "顾兄",
+    "顾道友"
   ],
   "summary": "看守星空殿传送阵的星宫修士，结丹初期，与张道友串通收受灵石；贪图飞刀法宝，事后灭口杀死张道友。",
   "attributes": {
     "性别": "男",
     "小阶段": "结丹初期",
-    "身份": "星宫看守传送阵修士",
-    "阵营": "星宫"
+    "身份": "星宫看守传送阵修士、星宫传送阵看守",
+    "阵营": "星宫",
+    "外貌": "秃顶老者"
   },
   "observations": {
     "性别": [
@@ -34,12 +36,24 @@
         "value": "星宫看守传送阵修士",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
         "seq": 505
+      },
+      {
+        "value": "星宫传送阵看守",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "阵营": [
       {
         "value": "星宫",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      }
+    ],
+    "外貌": [
+      {
+        "value": "秃顶老者",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
     ]
@@ -69,12 +83,19 @@
       "docId": "plot.fanren-ch505-510-hunru-heishicheng",
       "dated": false,
       "seq": 505
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+      "dated": false,
+      "seq": 505
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch505-510-hunru-heishicheng"
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-14T17:29:32.634Z"
+  "updatedAt": "2026-06-17T06:08:39.579Z"
 }

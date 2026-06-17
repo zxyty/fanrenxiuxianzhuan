@@ -7,15 +7,20 @@
   ],
   "summary": "乾姓修士所养灵兽，形似小猫、兔耳碧眼，擅感应他人神识深浅，可探出结丹中后期修为大小。",
   "attributes": {
-    "主人": "乾姓修士",
-    "能力": "感应他人神识深浅",
-    "外形": "似小猫、长兔耳、碧绿眼珠"
+    "主人": "乾姓修士、乾前辈",
+    "能力": "感应他人神识深浅、感应神识强弱",
+    "外形": "似小猫、长兔耳、碧绿眼珠、似小猫、兔耳、碧绿眼珠"
   },
   "observations": {
     "主人": [
       {
         "value": "乾姓修士",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "乾前辈",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
     ],
@@ -24,12 +29,22 @@
         "value": "感应他人神识深浅",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
         "seq": 505
+      },
+      {
+        "value": "感应神识强弱",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "外形": [
       {
         "value": "似小猫、长兔耳、碧绿眼珠",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+        "seq": 505
+      },
+      {
+        "value": "似小猫、兔耳、碧绿眼珠",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
     ]
@@ -58,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch505-510-hunru-heishicheng"
+    "plot.fanren-ch505-510-hunru-heishicheng",
+    "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-14T17:29:32.639Z"
+  "updatedAt": "2026-06-17T06:08:39.580Z"
 }

@@ -12,10 +12,10 @@
   ],
   "summary": "统辖整个乱星海的超级官方势力，首脑为天星双圣，据点天星城及内外星岛。",
   "attributes": {
-    "等级": "超级势力",
+    "等级": "庞大势力",
     "阵营": "乱星海正道",
     "掌门": "凌玉灵",
-    "据点": "天星城、天星城星空殿、乱星海、虚天殿、圣山、星空殿、天星岛、天星城圣山、外海、银鲨岛、天星城(星城)、天星城圣山圣殿",
+    "据点": "天星城、天星城星空殿、乱星海、虚天殿、圣山、星空殿、天星岛、天星城圣山、外海、银鲨岛、天星城(星城)、天星城圣山圣殿、天星城/圣山",
     "理念": "稳定为主,扶持玉灵接掌",
     "镇派之宝": "元磁神光",
     "所属界面": "乱星海内海"
@@ -26,6 +26,11 @@
         "value": "超级势力",
         "docId": "plot.fanren-ch386-four-years-jiedan",
         "seq": 385
+      },
+      {
+        "value": "庞大势力",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "阵营": [
@@ -152,6 +157,11 @@
         "value": "天星城圣山圣殿",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "天星城/圣山",
+        "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
+        "seq": 505
       }
     ],
     "理念": [
@@ -220,9 +230,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-ch386-four-years-jiedan",
+      "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
       "dated": false,
-      "seq": 385
+      "seq": 505
     },
     "阵营": {
       "asOf": null,
@@ -295,7 +305,8 @@
     "plot.fanren-ch484-huashenfu-butiandan",
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-ch505-510-escape-to-outer-star-sea"
   ],
-  "updatedAt": "2026-06-17T06:06:07.765Z"
+  "updatedAt": "2026-06-17T06:08:39.589Z"
 }
