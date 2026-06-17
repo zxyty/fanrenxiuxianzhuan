@@ -10,9 +10,9 @@
   ],
   "summary": "岳麓殿入口与内部大厅相连的传送法阵，正常使用收一块低阶灵石。",
   "attributes": {
-    "效果": "瞬间传送、传送、远距传送、送修士回内星海、传送回内海、短距传送、传送至外星海、外星海传送回内星海",
+    "效果": "瞬间传送、传送、远距传送、送修士回内星海、传送回内海、短距传送、传送至外星海、外星海传送回内星海、外海→内海皇明岛远距离传送",
     "出处": "妙音门",
-    "破解法": "需阵法师修复",
+    "破解法": "需幻梦石补全部位",
     "布置者": "妙音门",
     "品阶": "简陋/短程"
   },
@@ -57,6 +57,11 @@
         "value": "外星海传送回内星海",
         "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
+      },
+      {
+        "value": "外海→内海皇明岛远距离传送",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "出处": [
@@ -81,6 +86,11 @@
         "value": "需阵法师修复",
         "docId": "plot.fanren-272-jingu-yuan-war-one-year",
         "seq": 271
+      },
+      {
+        "value": "需幻梦石补全部位",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "布置者": [
@@ -114,9 +124,9 @@
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.fanren-272-jingu-yuan-war-one-year",
+      "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
       "dated": false,
-      "seq": 271
+      "seq": 553
     },
     "布置者": {
       "asOf": null,
@@ -142,7 +152,8 @@
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-ch499-504-nanming-island",
-    "plot.fanren-535-540-mishi-wen-siyue"
+    "plot.fanren-535-540-mishi-wen-siyue",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T06:42:04.056Z"
+  "updatedAt": "2026-06-17T07:04:32.859Z"
 }

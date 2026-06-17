@@ -14,9 +14,9 @@
   "summary": "人形妖修，裂风兽一族，化形阶，头戴银冠；因韩立木属性功法而留其性命，欲借此功法办要事，并以碧焰酒诱困韩立。",
   "attributes": {
     "种族": "裂风兽（妖修）、裂风兽、妖修、裂风兽（九级）、裂风兽（化形妖修）、妖族",
-    "小阶段": "化形阶、九级(化形)、化形期、九级",
+    "小阶段": "化形阶、九级(化形)、化形期、九级、九级妖兽",
     "外貌": "身材干瘦、银冠青袍",
-    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝、头戴银冠、人形妖兽、高瘦身形，可化清风遁走，有护身白光宝物",
+    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝、头戴银冠、人形妖兽、高瘦身形，可化清风遁走，有护身白光宝物、速度极快、本体上半鸟身下半鱼尾、双翼利爪鱼鳞",
     "阵营": "敌",
     "身份": "海族妖修、九级妖兽、青袍妖修、九级妖修（化形大成）",
     "存殁": "存活",
@@ -75,6 +75,11 @@
         "value": "九级",
         "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
+      },
+      {
+        "value": "九级妖兽",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "外貌": [
@@ -125,6 +130,16 @@
         "value": "高瘦身形，可化清风遁走，有护身白光宝物",
         "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
         "seq": 547
+      },
+      {
+        "value": "速度极快",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
+      },
+      {
+        "value": "本体上半鸟身下半鱼尾、双翼利爪鱼鳞",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "阵营": [
@@ -243,7 +258,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-541-546-bifenjiu-fenglei-chi",
-    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T07:02:05.924Z"
+  "updatedAt": "2026-06-17T07:04:32.853Z"
 }

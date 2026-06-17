@@ -21,8 +21,8 @@
     "阵营": "魔道",
     "小阶段": "筑基后期",
     "外貌": "淡绿衣裙、美艳娇媚",
-    "标志特征": "能分辨并永久记住人身上的气味",
-    "性格": "媚而精明、心机深沉、隐忍",
+    "标志特征": "能分辨并永久记住人身上的气味、面纱、天生敏锐嗅觉,可永久记住并辨认人的体息",
+    "性格": "媚而精明、心机深沉、隐忍、心机深沉、媚术高手",
     "称号": "范左使"
   },
   "observations": {
@@ -117,6 +117,11 @@
         "value": "面纱",
         "docId": "plot.fanren-398-jiedan-yu-fabao",
         "seq": 397
+      },
+      {
+        "value": "天生敏锐嗅觉,可永久记住并辨认人的体息",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "性格": [
@@ -128,6 +133,11 @@
       {
         "value": "心机深沉、隐忍",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "心机深沉、媚术高手",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
         "seq": 553
       }
     ],
@@ -173,9 +183,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "docId": "plot.fanren-398-jiedan-yu-fabao",
       "dated": false,
-      "seq": 553
+      "seq": 397
     },
     "性格": {
       "asOf": null,
@@ -201,7 +211,8 @@
     "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
     "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
     "plot.fanren-535-540-mishi-wen-siyue",
-    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T07:02:05.943Z"
+  "updatedAt": "2026-06-17T07:04:32.849Z"
 }

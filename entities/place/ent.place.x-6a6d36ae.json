@@ -7,7 +7,7 @@
   "attributes": {
     "所属界面": "内星海",
     "类型": "中立岛屿",
-    "守护": "上古废弃传送阵"
+    "守护": "上古废弃传送阵、上古废弃单向传送阵"
   },
   "observations": {
     "所属界面": [
@@ -45,6 +45,11 @@
         "value": "上古废弃传送阵",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "上古废弃单向传送阵",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ]
   },
@@ -75,7 +80,8 @@
   "docs": [
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu"
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-14T19:11:47.908Z"
+  "updatedAt": "2026-06-17T07:04:32.857Z"
 }

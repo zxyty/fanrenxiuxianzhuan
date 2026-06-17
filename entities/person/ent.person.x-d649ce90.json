@@ -12,14 +12,15 @@
   ],
   "summary": "碧云门太上长老，因虫魔成名战损失同门而震怒，数度孤身出海搜寻虫魔无果。",
   "attributes": {
-    "身份": "碧云门修士",
+    "身份": "碧云门太上长老、碧云门修士、韩立仇敌、碧云门道士",
     "阵营": "逆星盟",
     "小阶段": "元婴初期、元婴、元婴期",
     "外貌": "身穿白鹤图案道袍的中年道士、道袍飘飘的老道、二十余岁年轻皂袍道士",
-    "标志特征": "道袍白鹤图可化血鹤、夺舍重生、已被夺舍",
+    "标志特征": "道袍白鹤图可化血鹤、夺舍重生、已被夺舍、白鹤图案道袍可化血鹤、诱魅之音骚扰心神",
     "结局": "肉身崩溃、元婴逃回",
     "存殁": "死亡",
-    "死因": "被韩立人形傀儡银拳洞穿胸膛"
+    "死因": "被韩立人形傀儡银拳洞穿胸膛",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -37,6 +38,11 @@
         "value": "韩立仇敌",
         "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
+      },
+      {
+        "value": "碧云门道士",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "阵营": [
@@ -103,6 +109,16 @@
         "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
         "seq": 1135,
         "note": "夺舍后的妙鹤真人"
+      },
+      {
+        "value": "白鹤图案道袍可化血鹤",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
+      },
+      {
+        "value": "诱魅之音骚扰心神",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ],
     "结局": [
@@ -126,15 +142,22 @@
         "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
         "seq": 1135
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
+      }
     ]
   },
   "firstSeq": 523,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
       "dated": false,
-      "seq": 553
+      "seq": 523
     },
     "阵营": {
       "asOf": null,
@@ -179,6 +202,12 @@
       "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
       "dated": false,
       "seq": 1135
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+      "dated": false,
+      "seq": 553
     }
   },
   "contested": false,
@@ -190,7 +219,8 @@
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-1135-1140-qingyu-leikongdao",
     "plot.fanren-523-528-zhenjia-chongmo",
-    "plot.fanren-535-540-mishi-wen-siyue"
+    "plot.fanren-535-540-mishi-wen-siyue",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T06:42:04.066Z"
+  "updatedAt": "2026-06-17T07:04:32.851Z"
 }

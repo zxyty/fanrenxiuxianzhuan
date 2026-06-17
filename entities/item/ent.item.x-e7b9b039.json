@@ -3,11 +3,13 @@
   "type": "item",
   "name": "风灵劲",
   "aliases": [
-    "混沌邪气"
+    "混沌邪气",
+    "风灵之力"
   ],
   "summary": "九级裂风兽风希所留体内邪气，外裹辟邪神雷，韩立历约半年逼运清除。",
   "attributes": {
-    "类型": "邪气"
+    "类型": "邪气",
+    "用途": "风希追踪韩立"
   },
   "observations": {
     "类型": [
@@ -20,6 +22,18 @@
         "value": "控制/挟制",
         "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
+      },
+      {
+        "value": "体内异力",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
+      }
+    ],
+    "用途": [
+      {
+        "value": "风希追踪韩立",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+        "seq": 553
       }
     ]
   },
@@ -30,13 +44,20 @@
       "docId": "plot.fanren-ch560-guishu",
       "dated": false,
       "seq": 601
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+      "dated": false,
+      "seq": 553
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch560-guishu",
-    "plot.fanren-541-546-bifenjiu-fenglei-chi"
+    "plot.fanren-541-546-bifenjiu-fenglei-chi",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T06:50:16.365Z"
+  "updatedAt": "2026-06-17T07:04:32.872Z"
 }

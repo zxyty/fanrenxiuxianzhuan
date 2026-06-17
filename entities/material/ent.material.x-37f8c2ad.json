@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "妙音门传送阵最关键且稀少的材料，产地在五六级妖兽栖息地附近。",
   "attributes": {
-    "用途": "完成传送阵",
+    "用途": "传送阵关键材料、完成传送阵、修建传送阵",
     "稀有度": "稀少、珍稀、稀有、极稀少",
     "产地": "高阶妖兽栖息地附近",
     "类型": "阵法材料、灵石"
@@ -20,6 +20,11 @@
       {
         "value": "完成传送阵",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+        "seq": 553
+      },
+      {
+        "value": "修建传送阵",
+        "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
         "seq": 553
       }
     ],
@@ -69,9 +74,9 @@
   "attrProvenance": {
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
-      "seq": 553
+      "seq": 535
     },
     "稀有度": {
       "asOf": null,
@@ -97,7 +102,8 @@
   "docs": [
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
-    "plot.fanren-535-540-mishi-wen-siyue"
+    "plot.fanren-535-540-mishi-wen-siyue",
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
   ],
-  "updatedAt": "2026-06-17T06:42:04.055Z"
+  "updatedAt": "2026-06-17T07:04:32.860Z"
 }
