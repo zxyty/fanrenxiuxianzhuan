@@ -1,0 +1,70 @@
+{
+  "id": "ent.formation.x-4d86a0f9",
+  "type": "formation",
+  "name": "血色护罩",
+  "aliases": [
+    "血色光罩",
+    "血色护罩禁制"
+  ],
+  "summary": "慕兰人困元婴修士的禁制，可被冰封却自行修复损伤，紫罗天火与辟邪神雷均无法击破，被青色灯焰雷珠破开。",
+  "attributes": {
+    "效果": "困元婴修士、自行修复损伤",
+    "出处": "慕兰人",
+    "破解法": "青色灯焰炼制的雷珠"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "困元婴修士",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      },
+      {
+        "value": "自行修复损伤",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      }
+    ],
+    "出处": [
+      {
+        "value": "慕兰人",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      }
+    ],
+    "破解法": [
+      {
+        "value": "青色灯焰炼制的雷珠",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      }
+    ]
+  },
+  "firstSeq": 769,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
+  ],
+  "updatedAt": "2026-06-17T12:31:42.872Z"
+}

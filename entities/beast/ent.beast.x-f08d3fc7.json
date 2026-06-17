@@ -6,7 +6,9 @@
   "summary": "慕兰族凭圣灯与灵油召唤、维持临界时间的圣鸟，为大战关键战力。",
   "attributes": {
     "栖息地": "慕兰族",
-    "能力": "投影召唤幻影"
+    "能力": "依圣灯灯油维持现世时间、投影召唤幻影、操纵方圆十里火灵气使敌方火系法术减半、喷青色火球/火鸟、青色光锥",
+    "等级": "化神以上",
+    "外形": "青羽火红眼珠的青孔雀，化巨型青色火鸟"
   },
   "observations": {
     "栖息地": [
@@ -26,6 +28,36 @@
         "value": "投影召唤幻影",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "操纵方圆十里火灵气使敌方火系法术减半",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      },
+      {
+        "value": "喷青色火球/火鸟",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      },
+      {
+        "value": "青色光锥",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      }
+    ],
+    "等级": [
+      {
+        "value": "化神以上",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769,
+        "note": "本体境界"
+      }
+    ],
+    "外形": [
+      {
+        "value": "青羽火红眼珠的青孔雀，化巨型青色火鸟",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ]
   },
@@ -39,16 +71,30 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 889
+      "seq": 757
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769,
+      "note": "本体境界"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-757-762-gengjing-jiangling-fu",
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-16T00:12:42.890Z"
+  "updatedAt": "2026-06-17T12:31:42.886Z"
 }

@@ -10,11 +10,11 @@
   "attributes": {
     "种族": "慕兰飞兽",
     "等级": "结丹后期",
-    "能力": "瞬移、土风法术、喷光弹、青黄色妖丹",
-    "外形": "虎首鹰身青羽",
+    "能力": "瞬移、土风法术、喷光弹、青黄色妖丹、精通土风法术",
+    "外形": "虎首鹰身青羽、青羽虎首鹰身带翅",
     "栖息地": "慕兰草原",
     "主人": "田锺",
-    "天敌": "蛟毒/降灵符韩立"
+    "天敌": "蛟毒/降灵符韩立、噬金虫"
   },
   "observations": {
     "种族": [
@@ -51,12 +51,22 @@
         "value": "青黄色妖丹",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "精通土风法术",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ],
     "外形": [
       {
         "value": "虎首鹰身青羽",
         "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      },
+      {
+        "value": "青羽虎首鹰身带翅",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
         "seq": 769
       }
     ],
@@ -78,6 +88,11 @@
       {
         "value": "蛟毒/降灵符韩立",
         "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      },
+      {
+        "value": "噬金虫",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
         "seq": 769
       }
     ]
@@ -130,7 +145,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-15T03:47:18.104Z"
+  "updatedAt": "2026-06-17T12:31:42.887Z"
 }

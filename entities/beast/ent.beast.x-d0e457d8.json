@@ -5,13 +5,14 @@
   "aliases": [
     "阴阳双魔",
     "阴阳魔尸（黑白双尸）",
-    "双魔"
+    "双魔",
+    "黑白双魔"
   ],
   "summary": "合欢宗黑白双棺所封魔尸，原叛宗双修长老改修鬼道成活尸，被抹智炼成，吸精血后受铜牌操控。",
   "attributes": {
     "种族": "活尸/魔尸",
-    "等级": "原元婴初期（神通胜龙晗三分）",
-    "外形": "身高两丈、赤发绿面鬼物",
+    "等级": "原元婴初期（神通胜龙晗三分）、元婴初期（生前）",
+    "外形": "眉清目秀青年男女、肤如活人带尸臭、身高两丈、赤发绿面鬼物、眉清目秀青年男女，带尸臭、四目痴呆",
     "能力": "尸气阴风、生吸精血、隐匿"
   },
   "observations": {
@@ -27,6 +28,11 @@
         "value": "原元婴初期（神通胜龙晗三分）",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "元婴初期（生前）",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ],
     "外形": [
@@ -39,6 +45,11 @@
         "value": "身高两丈、赤发绿面鬼物",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "眉清目秀青年男女，带尸臭、四目痴呆",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ],
     "能力": [
@@ -75,9 +86,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
+      "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
-      "seq": 775
+      "seq": 769
     },
     "能力": {
       "asOf": null,
@@ -90,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-775-780-border-war-end-yuanming-lamp"
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-15T03:50:06.878Z"
+  "updatedAt": "2026-06-17T12:31:42.889Z"
 }

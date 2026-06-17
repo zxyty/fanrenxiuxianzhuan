@@ -15,10 +15,10 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期",
-    "外貌": "面容枯瘦清奇、皂袍、枯瘦清奇皂袍老者、皂袍/面容清奇、枯瘦清奇、皂袍",
+    "外貌": "面容枯瘦清奇、皂袍、枯瘦清奇皂袍老者、皂袍/面容清奇、枯瘦清奇、皂袍、皂袍、面容清奇",
     "性格": "心狠手辣、极护短、心狠手辣、极为护短、暴怒护短",
     "身份": "鬼灵门元婴老怪、鬼灵门前辈、鬼灵门高层、天南元婴修士、鬼灵门高阶修士",
-    "阵营": "魔道、碎魂门、天南、鬼灵门(魔道)、正道(碎魂门)"
+    "阵营": "魔道、碎魂门、天南、鬼灵门(魔道)、正道(碎魂门)、天南修士"
   },
   "observations": {
     "性别": [
@@ -60,6 +60,11 @@
         "value": "枯瘦清奇、皂袍",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      },
+      {
+        "value": "皂袍、面容清奇",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ],
     "性格": [
@@ -131,6 +136,11 @@
         "value": "正道(碎魂门)",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "天南修士",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ]
   },
@@ -181,7 +191,8 @@
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-769-774-border-war-6-8",
     "lore.xuanmu-huaying-second-yuanying-technique",
-    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-17T11:54:02.499Z"
+  "updatedAt": "2026-06-17T12:31:42.844Z"
 }

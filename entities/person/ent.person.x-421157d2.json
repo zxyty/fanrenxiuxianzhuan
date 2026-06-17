@@ -4,22 +4,29 @@
   "name": "田锺",
   "aliases": [
     "慕兰第四神师",
-    "第四神师"
+    "第四神师",
+    "田神师"
   ],
   "summary": "慕兰第四神师,元婴后期(进阶不久),奉命专杀韩立,能化形大手、身外化身,驱使天虎兽与五色彩轮。",
   "attributes": {
-    "称号": "慕兰第四神师",
+    "称号": "慕兰第四神师、第四神师",
     "小阶段": "元婴后期",
-    "阵营": "慕兰、敌方/慕兰一方",
+    "阵营": "慕兰、敌方/慕兰一方、慕兰族",
     "种族": "慕兰",
     "性别": "男",
-    "身份": "圈套设局者"
+    "身份": "圈套设局者",
+    "标志特征": "身外化身、化形青色大手"
   },
   "observations": {
     "称号": [
       {
         "value": "慕兰第四神师",
         "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      },
+      {
+        "value": "第四神师",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
         "seq": 769
       }
     ],
@@ -41,6 +48,11 @@
         "value": "敌方/慕兰一方",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
       }
     ],
     "种族": [
@@ -61,6 +73,18 @@
       {
         "value": "圈套设局者",
         "docId": "plot.fanren-769-774-border-war-6-8",
+        "seq": 769
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身外化身",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      },
+      {
+        "value": "化形青色大手",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
         "seq": 769
       }
     ]
@@ -103,12 +127,19 @@
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
       "seq": 769
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-15T03:47:18.099Z"
+  "updatedAt": "2026-06-17T12:31:42.878Z"
 }

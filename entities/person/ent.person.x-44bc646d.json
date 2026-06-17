@@ -12,7 +12,8 @@
   "attributes": {
     "身份": "天道盟主事人、大战指挥、天南法士首领、天道盟主事长老、天道盟高层、鸾鸣宗修士、统帅",
     "阵营": "天道盟、天南/九国盟、天南、合欢宗、天南修士",
-    "小阶段": "元婴后期"
+    "小阶段": "元婴后期",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -90,6 +91,13 @@
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+        "seq": 769
+      }
     ]
   },
   "firstSeq": 745,
@@ -111,6 +119,12 @@
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
       "seq": 769
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-769-774-bianjie-zhizhan-6-8",
+      "dated": false,
+      "seq": 769
     }
   },
   "contested": false,
@@ -122,7 +136,8 @@
     "plot.fanren-775-780-border-war-end-yuanming-lamp",
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
-    "plot.fanren-ch763-antian-zhanqian-anshou"
+    "plot.fanren-ch763-antian-zhanqian-anshou",
+    "plot.fanren-769-774-bianjie-zhizhan-6-8"
   ],
-  "updatedAt": "2026-06-17T12:23:53.636Z"
+  "updatedAt": "2026-06-17T12:31:42.877Z"
 }
