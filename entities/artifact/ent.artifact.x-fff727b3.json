@@ -6,7 +6,7 @@
   "summary": "马姓老者的遮蔽类法宝，可遮住半边山顶布设陷阱。",
   "attributes": {
     "持有者": "马姓老者",
-    "能力": "遮蔽/隐匿"
+    "能力": "遮蔽/隐匿、遮蔽视野/伪装"
   },
   "observations": {
     "持有者": [
@@ -20,6 +20,11 @@
       {
         "value": "遮蔽/隐匿",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "遮蔽视野/伪装",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T02:52:00.048Z"
+  "updatedAt": "2026-06-17T11:28:47.202Z"
 }

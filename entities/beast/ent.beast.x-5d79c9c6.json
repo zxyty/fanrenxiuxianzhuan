@@ -4,12 +4,14 @@
   "name": "四耳金猿",
   "aliases": [
     "四耳金猿器灵",
-    "金黄巨猴"
+    "金黄巨猴",
+    "金黄巨猿"
   ],
   "summary": "陆姓大汉短棍法宝中的器灵，五六丈高、生四耳、相貌丑恶凶悍。",
   "attributes": {
-    "外形": "金黄巨猿、四只毛耳、五六丈高",
-    "主人": "陆姓大汉"
+    "外形": "金黄巨猿、四只毛耳、五六丈高、淡金色四耳巨猿，五六丈高，相貌丑恶",
+    "主人": "陆姓大汉",
+    "能力": "化形为巨猿持棍攻击"
   },
   "observations": {
     "外形": [
@@ -17,12 +19,24 @@
         "value": "金黄巨猿、四只毛耳、五六丈高",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "淡金色四耳巨猿，五六丈高，相貌丑恶",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "主人": [
       {
         "value": "陆姓大汉",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "能力": [
+      {
+        "value": "化形为巨猿持棍攻击",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ]
@@ -40,12 +54,19 @@
       "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
       "seq": 733
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T02:52:00.044Z"
+  "updatedAt": "2026-06-17T11:28:47.232Z"
 }

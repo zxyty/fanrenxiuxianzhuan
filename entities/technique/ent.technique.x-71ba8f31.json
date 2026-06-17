@@ -8,8 +8,10 @@
   ],
   "summary": "修士对智慧不高的妖兽施展之秘术：修为叠加数倍、签生死之约、最终诞生独立神智的半人半妖新个体；代价是寿元惊人消耗、寿短即灭，传言术者死后魂坠无尽深渊。",
   "attributes": {
-    "效果": "修为叠加数倍、结生死之约、形成独立新个体、与灵兽合体，战力近高一阶、妖魂附体增幅（有透支寿元/失神智之害）",
-    "修炼条件": "已失传秘术"
+    "效果": "修为叠加数倍、结生死之约、形成独立新个体、与灵兽合体，战力近高一阶、妖魂附体增幅（有透支寿元/失神智之害）、与灵兽合体、战力暴涨、附身使修为暴涨",
+    "修炼条件": "已失传秘术",
+    "出处": "失传秘术、魔道",
+    "外显异象": "附灵怪修为可比元婴中期"
   },
   "observations": {
     "效果": [
@@ -37,6 +39,16 @@
         "value": "妖魂附体增幅（有透支寿元/失神智之害）",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "与灵兽合体、战力暴涨",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "附身使修为暴涨",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "修炼条件": [
@@ -48,6 +60,25 @@
       {
         "value": "已失传秘术",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "出处": [
+      {
+        "value": "失传秘术",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "附灵怪修为可比元婴中期",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ]
@@ -65,6 +96,18 @@
       "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
       "seq": 733
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
@@ -72,7 +115,8 @@
   "docs": [
     "plot.fanren-439-444-guiwang-xutiandian",
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T03:47:18.110Z"
+  "updatedAt": "2026-06-17T11:28:47.159Z"
 }

@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-5dec8e87",
+  "type": "artifact",
+  "name": "蓝色飞叉",
+  "aliases": [
+    "蓝色飞叉法宝"
+  ],
+  "summary": "附灵蛇怪所持飞叉法宝，被韩立吸起后连同储物袋交还御灵宗。",
+  "attributes": {
+    "持有者": "御灵宗",
+    "外形": "蓝色飞叉"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "御灵宗",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "外形": [
+      {
+        "value": "蓝色飞叉",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ]
+  },
+  "firstSeq": 733,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
+  ],
+  "updatedAt": "2026-06-17T11:28:47.175Z"
+}

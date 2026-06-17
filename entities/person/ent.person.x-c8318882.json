@@ -14,11 +14,11 @@
   "summary": "约四十余岁秃眉大汉，九国盟镇守黄龙山的主持者，调度雾海大阵防务。",
   "attributes": {
     "性别": "男",
-    "身份": "九国盟黄龙山镇守、黄龙山驻守修士、黄龙山镇守、出阵队伍主事者",
-    "外貌": "约四十余岁、秃眉、面凶、秃眉大汉、四十余岁秃眉大汉",
+    "身份": "九国盟黄龙山镇守、黄龙山驻守修士、黄龙山镇守、出阵队伍主事者、九国盟镇守黄龙山者、落云宗修士、九国盟修士",
+    "外貌": "约四十余岁、秃眉、面凶、秃眉大汉、四十余岁秃眉大汉、秃眉",
     "小阶段": "元婴期",
-    "阵营": "突兀人圣殿",
-    "标志特征": "修炼隐秘神识秘术",
+    "阵营": "九国盟、突兀人圣殿、落云宗、破阵一方",
+    "标志特征": "四耳金猿器灵短棍、修炼隐秘神识秘术、秃眉；善用血肉傀儡替身",
     "种族": "突兀人",
     "性格": "惜命谨慎"
   },
@@ -50,6 +50,21 @@
         "value": "出阵队伍主事者",
         "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
+      },
+      {
+        "value": "九国盟镇守黄龙山者",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "落云宗修士",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "九国盟修士",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "外貌": [
@@ -67,6 +82,11 @@
         "value": "四十余岁秃眉大汉",
         "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
+      },
+      {
+        "value": "秃眉",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "小阶段": [
@@ -91,6 +111,16 @@
         "value": "突兀人圣殿",
         "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
         "seq": 883
+      },
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "破阵一方",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "标志特征": [
@@ -103,6 +133,11 @@
         "value": "修炼隐秘神识秘术",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "秃眉；善用血肉傀儡替身",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "种族": [
@@ -148,15 +183,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
-      "seq": 883
+      "seq": 727
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
-      "seq": 889
+      "seq": 733
     },
     "种族": {
       "asOf": null,
@@ -178,7 +213,8 @@
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
-    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-17T11:11:28.174Z"
+  "updatedAt": "2026-06-17T11:28:47.228Z"
 }

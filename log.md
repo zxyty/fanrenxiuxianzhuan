@@ -445,3 +445,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T10:56:02.012Z** `ingest` plot.fanren-714-shipo-yu-fuji — 凡人修仙传 第714章 识破与伏击——南宫婉、韩立合谋反击掩月宗大长老 · kind=plot asOf=2026-06-17 entities=47 relations=55 src=00715-00720.md
 - **2026-06-17T11:03:39.346Z** `ingest` plot.fanren-721-726-dianyi-linghu-yufu — 凡人修仙传 第721-726章｜九国盟殿议·令狐之邀·初见玉符 · kind=plot asOf=2026-06-17 entities=42 relations=42 src=00721-00726.md
 - **2026-06-17T11:11:28.293Z** `ingest` plot.fanren-ch727-732-huanglong-mountain-ying-ning — 凡人修仙传 第727-732章：黄龙山驰援·重逢李缨宁·紫罗极火 · kind=plot asOf=2026-06-17 entities=41 relations=44 src=00727-00732.md
+- **2026-06-17T11:28:47.468Z** `ingest` plot.fanren-ch733-738-shuangwei-she-pofang-fuling — 凡人修仙传 第733-738章：双尾蛇·暴露·附灵蛇怪（黄龙山反杀谷双蒲） · kind=plot asOf=2026-06-17 entities=44 relations=61 src=00733-00738.md

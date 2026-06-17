@@ -4,16 +4,20 @@
   "name": "窟耀",
   "aliases": [
     "窟上师",
-    "拜火部大上师窟耀"
+    "拜火部大上师窟耀",
+    "窟耀大上师",
+    "夸耀"
   ],
   "summary": "慕兰拜火部大上师，修火属性功法，火蟒乃天地火灵凝化可化火蛟。",
   "attributes": {
-    "种族": "慕兰人、慕兰",
+    "种族": "慕兰人、慕兰、慕兰族",
     "小阶段": "元婴",
-    "身份": "慕兰大上师",
+    "身份": "拜火部大上师、慕兰大上师、法士",
     "称号": "大上师",
-    "阵营": "慕兰",
-    "标志特征": "火蟒缠身、火灵化蛟"
+    "阵营": "慕兰、慕兰法士入侵方",
+    "标志特征": "火蟒缠身、火灵化蛟、火焰极强，可化去周围浓雾",
+    "性格": "狠厉",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -26,6 +30,11 @@
         "value": "慕兰",
         "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "小阶段": [
@@ -45,6 +54,11 @@
         "value": "慕兰大上师",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "法士",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "称号": [
@@ -59,6 +73,11 @@
         "value": "慕兰",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "慕兰法士入侵方",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "标志特征": [
@@ -71,6 +90,25 @@
         "value": "火灵化蛟",
         "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
         "seq": 727
+      },
+      {
+        "value": "火焰极强，可化去周围浓雾",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "性格": [
+      {
+        "value": "狠厉",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ]
   },
@@ -90,9 +128,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
       "dated": false,
-      "seq": 733
+      "seq": 727
     },
     "称号": {
       "asOf": null,
@@ -111,6 +149,18 @@
       "docId": "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
       "dated": false,
       "seq": 727
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
@@ -118,7 +168,8 @@
   "docs": [
     "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
     "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
-    "plot.fanren-ch727-732-huanglong-mountain-ying-ning"
+    "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-17T11:11:28.170Z"
+  "updatedAt": "2026-06-17T11:28:47.227Z"
 }

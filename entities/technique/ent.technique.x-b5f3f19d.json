@@ -7,8 +7,9 @@
   ],
   "summary": "乐姓女子所修功法，以速度见长，自称不在雷遁之下。",
   "attributes": {
-    "效果": "速度极快",
-    "适用境界": "元婴"
+    "效果": "速度极快、极速、防近身",
+    "适用境界": "元婴",
+    "五行属性": "风"
   },
   "observations": {
     "效果": [
@@ -16,12 +17,24 @@
         "value": "速度极快",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "极速、防近身",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "适用境界": [
       {
         "value": "元婴",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "风",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
       "seq": 733
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T02:52:00.048Z"
+  "updatedAt": "2026-06-17T11:28:47.205Z"
 }

@@ -3,19 +3,34 @@
   "type": "person",
   "name": "高瘦法士",
   "aliases": [
-    "温上师"
+    "温上师",
+    "高瘦大上师",
+    "温上师同伙高瘦法士"
   ],
   "summary": "慕兰大上师，功法最怕近身作战，偷袭马姓老者未果被识破。",
   "attributes": {
-    "身份": "慕兰大上师",
-    "阵营": "慕兰",
-    "外貌": "高瘦"
+    "身份": "慕兰大上师、法士、上师",
+    "阵营": "慕兰、慕兰法士入侵方",
+    "外貌": "高瘦",
+    "种族": "慕兰人、慕兰族",
+    "性别": "男",
+    "标志特征": "灵术厉害"
   },
   "observations": {
     "身份": [
       {
         "value": "慕兰大上师",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      },
+      {
+        "value": "法士",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "上师",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ],
@@ -24,12 +39,43 @@
         "value": "慕兰",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "慕兰法士入侵方",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "外貌": [
       {
         "value": "高瘦",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+        "seq": 733
+      }
+    ],
+    "种族": [
+      {
+        "value": "慕兰人",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "灵术厉害",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
       }
     ]
@@ -53,12 +99,31 @@
       "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
       "dated": false,
       "seq": 733
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy"
+    "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T02:52:00.038Z"
+  "updatedAt": "2026-06-17T11:28:47.230Z"
 }

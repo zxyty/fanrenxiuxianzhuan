@@ -9,7 +9,8 @@
     "绿衫少女",
     "慕兰绿衫女子",
     "上师",
-    "绿衫上师"
+    "绿衫上师",
+    "绿衫女上师"
   ],
   "summary": "曾在太南会卖金竺笔给韩立的害羞少女，本章已入灵兽山门下参加血色试炼，被络腮胡子辣手欺压。",
   "attributes": {
@@ -18,9 +19,10 @@
     "性格": "倔强坚韧",
     "外貌": "绿衫秀丽女子",
     "小阶段": "元婴中期",
-    "身份": "灵兽山弟子",
+    "身份": "上师",
     "种族": "慕兰",
-    "称号": "上师"
+    "称号": "上师",
+    "标志特征": "神识几乎不下元婴后期"
   },
   "observations": {
     "性别": [
@@ -40,6 +42,11 @@
         "value": "慕兰",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
         "seq": 739
+      },
+      {
+        "value": "慕兰法士入侵方",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "性格": [
@@ -80,7 +87,7 @@
       {
         "value": "元婴中期",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
-        "seq": 739
+        "seq": 733
       }
     ],
     "身份": [
@@ -88,6 +95,11 @@
         "value": "灵兽山弟子",
         "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
         "seq": 187
+      },
+      {
+        "value": "上师",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "种族": [
@@ -95,6 +107,11 @@
         "value": "慕兰",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
         "seq": 739
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ],
     "称号": [
@@ -102,6 +119,13 @@
         "value": "上师",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
         "seq": 739
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "神识几乎不下元婴后期",
+        "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+        "seq": 733
       }
     ]
   },
@@ -135,13 +159,13 @@
       "asOf": null,
       "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
       "dated": false,
-      "seq": 739
+      "seq": 733
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
       "dated": false,
-      "seq": 187
+      "seq": 733
     },
     "种族": {
       "asOf": null,
@@ -154,6 +178,12 @@
       "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
       "dated": false,
       "seq": 739
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+      "dated": false,
+      "seq": 733
     }
   },
   "contested": false,
@@ -161,7 +191,8 @@
   "docs": [
     "plot.fanren-ch175-180-blood-trial-bet-and-seven-sects",
     "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
-    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
   ],
-  "updatedAt": "2026-06-15T03:00:06.864Z"
+  "updatedAt": "2026-06-17T11:28:47.224Z"
 }
