@@ -9,9 +9,10 @@
   "summary": "万天明的紫色雷珠神雷，需自损法力炼成，本章用以诈避极阴与儒衫老者。",
   "attributes": {
     "持有者": "万天明",
-    "能力": "雷爆威胁",
+    "能力": "雷击",
     "禁制": "自损法力方能炼成",
-    "外形": "紫色晶莹圆珠"
+    "外形": "紫色晶莹圆珠",
+    "五行属性": "雷"
   },
   "observations": {
     "持有者": [
@@ -26,6 +27,11 @@
         "value": "雷爆威胁",
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482
+      },
+      {
+        "value": "雷击",
+        "docId": "plot.fanren-ch485-yuanying-xian",
+        "seq": 485
       }
     ],
     "禁制": [
@@ -41,6 +47,13 @@
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482
       }
+    ],
+    "五行属性": [
+      {
+        "value": "雷",
+        "docId": "plot.fanren-ch485-yuanying-xian",
+        "seq": 485
+      }
     ]
   },
   "firstSeq": 482,
@@ -53,9 +66,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch482-guba-zhi-zheng",
+      "docId": "plot.fanren-ch485-yuanying-xian",
       "dated": false,
-      "seq": 482
+      "seq": 485
     },
     "禁制": {
       "asOf": null,
@@ -68,12 +81,19 @@
       "docId": "plot.fanren-ch482-guba-zhi-zheng",
       "dated": false,
       "seq": 482
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch485-yuanying-xian",
+      "dated": false,
+      "seq": 485
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch482-guba-zhi-zheng"
+    "plot.fanren-ch482-guba-zhi-zheng",
+    "plot.fanren-ch485-yuanying-xian"
   ],
-  "updatedAt": "2026-06-17T05:18:08.055Z"
+  "updatedAt": "2026-06-17T05:24:58.963Z"
 }

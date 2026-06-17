@@ -11,14 +11,15 @@
     "双首火狼古宝",
     "双狼首玉如意",
     "银毛巨狼",
-    "独角银毛巨狼"
+    "独角银毛巨狼",
+    "红黄两色玉如意"
   ],
   "summary": "韩立红黄两色古宝，可生成红黄光罩加固防御。",
   "attributes": {
     "持有者": "徐姓青年",
     "五行属性": "火/土",
-    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御、幻形通灵、化银狼、银角射银光弹、身坚如铁、防御抵挡",
-    "器灵": "银月",
+    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御、幻形通灵、化银狼、银角射银光弹、身坚如铁、防御抵挡、探出银色狼首低消攻击威力",
+    "器灵": "红黄二狼/银色巨狼",
     "外形": "碧绿色玉如意",
     "来历": "双首火狼所化古宝"
   },
@@ -107,6 +108,11 @@
         "value": "防御抵挡",
         "docId": "plot.fanren-ch484-huashenfu-butiandan",
         "seq": 484
+      },
+      {
+        "value": "探出银色狼首低消攻击威力",
+        "docId": "plot.fanren-ch485-yuanying-xian",
+        "seq": 485
       }
     ],
     "器灵": [
@@ -118,7 +124,7 @@
       {
         "value": "银月",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-        "seq": 613
+        "seq": 485
       }
     ],
     "外形": [
@@ -146,6 +152,11 @@
         "value": "玉如意／独角银毛巨狼",
         "docId": "plot.fanren-ch483-bingfeng",
         "seq": 483
+      },
+      {
+        "value": "红黄两色",
+        "docId": "plot.fanren-ch485-yuanying-xian",
+        "seq": 485
       }
     ],
     "来历": [
@@ -178,9 +189,9 @@
     },
     "器灵": {
       "asOf": null,
-      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
       "dated": false,
-      "seq": 613
+      "seq": 607
     },
     "外形": {
       "asOf": null,
@@ -208,7 +219,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-ch482-guba-zhi-zheng",
     "plot.fanren-ch483-bingfeng",
-    "plot.fanren-ch484-huashenfu-butiandan"
+    "plot.fanren-ch484-huashenfu-butiandan",
+    "plot.fanren-ch485-yuanying-xian"
   ],
-  "updatedAt": "2026-06-17T05:22:57.731Z"
+  "updatedAt": "2026-06-17T05:24:58.962Z"
 }

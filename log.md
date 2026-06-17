@@ -403,3 +403,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T05:18:08.145Z** `ingest` plot.fanren-ch482-guba-zhi-zheng — 凡人修仙传 第482章·古宝之争 · kind=plot asOf=2026-06-17 entities=22 relations=23 src=00482-00482.md
 - **2026-06-17T05:20:38.196Z** `ingest` plot.fanren-ch483-bingfeng — 凡人修仙传 第483章 冰封——韩立收银狼古宝、乾蓝冰焰封台、虚天鼎将出 · kind=plot asOf=2026-06-17 entities=21 relations=17 src=00483-00483.md
 - **2026-06-17T05:22:57.823Z** `ingest` plot.fanren-ch484-huashenfu-butiandan — 第484章 化身符与补天丹：星宫搅局、血玉蜘蛛被斩、补天丹现世 · kind=plot asOf=2026-06-17 entities=20 relations=16 src=00484-00484.md
+- **2026-06-17T05:24:59.055Z** `ingest` plot.fanren-ch485-yuanying-xian — 第485章 元婴现——补天丹现世、魔道联手破裂、万天明元婴出窍 · kind=plot asOf=2026-06-17 entities=16 relations=15 src=00485-00485.md
