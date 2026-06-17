@@ -3,12 +3,13 @@
   "type": "item",
   "name": "坠魔谷地图",
   "aliases": [
-    "绢布状地图"
+    "绢布状地图",
+    "内谷地图"
   ],
   "summary": "用碳笔在非布非绢之物上勾出的坠魔谷地图，藏于青蚕袍夹层，上有显眼粗大标记。",
   "attributes": {
     "类型": "地图",
-    "用途": "指引坠魔谷秘宝之地",
+    "用途": "标示坠魔谷某处（显眼粗大标记）、指引坠魔谷秘宝之地、指引内谷某秘密处",
     "产地": "青蚕袍所得"
   },
   "observations": {
@@ -29,6 +30,11 @@
         "value": "指引坠魔谷秘宝之地",
         "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
         "seq": 829
+      },
+      {
+        "value": "指引内谷某秘密处",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "产地": [
@@ -49,9 +55,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 829
+      "seq": 817
     },
     "产地": {
       "asOf": null,
@@ -64,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
-    "plot.fanren-ch829-yuanbo-duoshe-mo-dong"
+    "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-15T13:29:24.771Z"
+  "updatedAt": "2026-06-17T13:48:47.018Z"
 }

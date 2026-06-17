@@ -6,8 +6,9 @@
   "summary": "生于熔岩湖旁的火属性灵草，炼制火属性灵丹的顶阶材料。",
   "attributes": {
     "类型": "火属性灵草",
-    "用途": "炼制火属性灵丹的顶阶材料",
-    "产地": "坠魔谷熔岩湖旁"
+    "用途": "炼制火属性灵丹的顶阶材料、炼火属性灵丹",
+    "产地": "坠魔谷熔岩湖旁、坠魔谷内谷熔岩湖旁",
+    "稀有度": "顶阶"
   },
   "observations": {
     "类型": [
@@ -22,12 +23,29 @@
         "value": "炼制火属性灵丹的顶阶材料",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "炼火属性灵丹",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "产地": [
       {
         "value": "坠魔谷熔岩湖旁",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "坠魔谷内谷熔岩湖旁",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "顶阶",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
       }
     ]
@@ -51,12 +69,19 @@
       "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
       "seq": 817
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+      "dated": false,
+      "seq": 817
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-15T06:28:36.557Z"
+  "updatedAt": "2026-06-17T13:48:47.033Z"
 }

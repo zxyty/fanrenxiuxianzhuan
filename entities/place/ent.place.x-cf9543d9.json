@@ -9,11 +9,12 @@
     "灵缈园残骸",
     "残缺药园",
     "药园残骸",
-    "坠魔谷药园残骸"
+    "坠魔谷药园残骸",
+    "灵渺园"
   ],
   "summary": "位于灵界与人界交界处的空间，坠魔谷专为看守它而建。",
   "attributes": {
-    "类型": "上古药园残骸/独立空间",
+    "类型": "交界空间秘境、秘境/园林、秘境、传说灵药秘地、上古药园(独立空间)、上古药园残骸/独立空间、交界空间",
     "所属界面": "坠魔谷、介于灵界与人界之间",
     "特产": "天地灵药、灵草、灵药、紫色浆果灵草、万年以上上古灵药",
     "守护": "银色火焰禁制",
@@ -50,6 +51,11 @@
         "value": "上古药园残骸/独立空间",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "交界空间",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "所属界面": [
@@ -103,6 +109,11 @@
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853,
         "note": "只击杀古魔，对人类修士无碍"
+      },
+      {
+        "value": "坠魔谷",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "危险度": [
@@ -117,9 +128,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 853
+      "seq": 817
     },
     "所属界面": {
       "asOf": null,
@@ -155,7 +166,8 @@
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
     "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-15T14:26:36.565Z"
+  "updatedAt": "2026-06-17T13:48:47.007Z"
 }

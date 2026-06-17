@@ -9,8 +9,9 @@
   "summary": "包裹古修遗骸的古袍，由上古灵蚕吐丝织成，可抵挡修士神识探查；上古寻常、今世稀罕。",
   "attributes": {
     "能力": "抵挡神识探查",
-    "来历": "上古灵蚕吐丝织成、南陇侯所弃",
-    "外形": "青袍、青色法袍"
+    "来历": "上古灵蚕吐丝织成、南陇侯所弃、上古灵蚕吐丝编织",
+    "外形": "青袍、青色法袍、青色软袍",
+    "持有者": "南陇侯、韩立"
   },
   "observations": {
     "能力": [
@@ -30,6 +31,11 @@
         "value": "南陇侯所弃",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "上古灵蚕吐丝编织",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "外形": [
@@ -41,6 +47,23 @@
       {
         "value": "青色法袍",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "青色软袍",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
+      }
+    ],
+    "持有者": [
+      {
+        "value": "南陇侯",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
       }
     ]
@@ -64,12 +87,19 @@
       "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
       "seq": 817
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+      "dated": false,
+      "seq": 817
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-15T06:28:36.556Z"
+  "updatedAt": "2026-06-17T13:48:47.016Z"
 }

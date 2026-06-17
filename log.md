@@ -459,3 +459,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T13:23:12.269Z** `ingest` plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng — 凡人修仙传 第799-804章｜结丹级傀儡·寻觅·谷现 · kind=plot asOf=2026-06-17 entities=45 relations=46 src=00799-00804.md
 - **2026-06-17T13:31:45.845Z** `ingest` plot.fanren-805-810-zhuimogu-killing-intent — 第805-810章 坠魔谷外谷探险与内谷之路 · kind=plot asOf=2026-06-17 entities=40 relations=49 src=00805-00810.md
 - **2026-06-17T13:40:07.120Z** `ingest` plot.fanren-ch811-816-zhuimogu-neigu-tanbao — 凡人修仙传 第811-816章：坠魔谷罡银沙·北极元光·初入内谷 · kind=plot asOf=2026-06-17 entities=40 relations=50 src=00811-00816.md
+- **2026-06-17T13:48:47.206Z** `ingest` plot.fanren-817-822-zhan-huochan-qiyanshan — 凡人修仙传 第817-822章｜斩火蟾兽·古修遗骸与七焰扇玉简 · kind=plot asOf=2026-06-17 entities=41 relations=45 src=00817-00822.md

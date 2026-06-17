@@ -9,8 +9,8 @@
   "summary": "古修士用来炼制古宝的特殊材料，赤红炙热，需珍稀材料结合天地之力炼成；本片段大量出土，归韩立。",
   "attributes": {
     "类型": "炼器材料",
-    "用途": "炼制火属性古宝",
-    "稀有度": "稀有",
+    "用途": "炼制火属性古宝、炼制古宝",
+    "稀有度": "稀有、稀有(部分本界绝迹)",
     "产地": "古修遗骸储物袋"
   },
   "observations": {
@@ -26,12 +26,22 @@
         "value": "炼制火属性古宝",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "炼制古宝",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "稀有度": [
       {
         "value": "稀有",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "稀有(部分本界绝迹)",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
       }
     ],
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai"
+    "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-15T06:28:36.537Z"
+  "updatedAt": "2026-06-17T13:48:46.959Z"
 }

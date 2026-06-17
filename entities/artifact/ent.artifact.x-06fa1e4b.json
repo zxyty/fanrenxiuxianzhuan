@@ -6,16 +6,18 @@
     "七焰扇炼制法",
     "通天灵宝七焰扇",
     "七焰宝扇",
-    "仿制七焰扇"
+    "仿制七焰扇",
+    "七焰扇古宝"
   ],
   "summary": "古修遗骸玉简所载古宝炼制法，需八十一种火属性灵料融合炼成；据银月所言乃通天灵宝之一（排名靠后），韩立分得其炼制法玉简。",
   "attributes": {
-    "品阶": "通天灵宝、通灵之宝、普通灵宝（灵界较低阶）、高阶法宝",
+    "品阶": "通天灵宝、通灵之宝、普通灵宝（灵界较低阶）、高阶法宝、通天灵宝(排名极低)",
     "五行属性": "火",
-    "来历": "仿制",
+    "来历": "古修遗骸玉简记载炼制法、大衍神君改良仿制为三焰扇、仿制、上古修士遗骸玉简所载炼制法",
     "外形": "扇",
     "能力": "火焰之威",
-    "持有者": "韩立"
+    "持有者": "韩立",
+    "禁制": "炼制需八十一种火属性灵料"
   },
   "observations": {
     "品阶": [
@@ -38,6 +40,11 @@
         "value": "高阶法宝",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "通天灵宝(排名极低)",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "五行属性": [
@@ -63,6 +70,11 @@
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889,
         "note": "韩立拟以金焰石仿炼"
+      },
+      {
+        "value": "上古修士遗骸玉简所载炼制法",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
       }
     ],
     "外形": [
@@ -96,6 +108,13 @@
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
       }
+    ],
+    "禁制": [
+      {
+        "value": "炼制需八十一种火属性灵料",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+        "seq": 817
+      }
     ]
   },
   "firstSeq": 817,
@@ -114,10 +133,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 889,
-      "note": "韩立拟以金焰石仿炼"
+      "seq": 817
     },
     "外形": {
       "asOf": null,
@@ -137,6 +155,12 @@
       "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
       "seq": 919
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
+      "dated": false,
+      "seq": 817
     }
   },
   "contested": false,
@@ -152,7 +176,8 @@
     "plot.fanren-919-924-ganjia-bailu-shuyuan",
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-16T04:18:42.283Z"
+  "updatedAt": "2026-06-17T13:48:47.028Z"
 }

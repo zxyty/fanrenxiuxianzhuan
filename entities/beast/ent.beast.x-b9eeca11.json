@@ -9,7 +9,7 @@
   "attributes": {
     "主人": "南陇侯",
     "外形": "金黄小鸟",
-    "能力": "远距搜查（方圆十里）"
+    "能力": "远距搜查（方圆十里）、远距搜查感应"
   },
   "observations": {
     "主人": [
@@ -35,6 +35,11 @@
       {
         "value": "远距搜查（方圆十里）",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+        "seq": 817
+      },
+      {
+        "value": "远距搜查感应",
+        "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
       }
     ]
@@ -65,7 +70,8 @@
   "docs": [
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-817-822-zhan-huochan-qiyanshan"
   ],
-  "updatedAt": "2026-06-17T13:31:45.644Z"
+  "updatedAt": "2026-06-17T13:48:47.030Z"
 }
