@@ -5,12 +5,13 @@
   "aliases": [
     "坠魔之地",
     "万灵山脉",
-    "万领山脉"
+    "万领山脉",
+    "万岭山"
   ],
   "summary": "昌州盆地中心连绵百万里的山脉，灵兽灵药丰富但常年瘴气封锁，每约五十年瘴气散去一次。",
   "attributes": {
     "危险度": "极高（剧毒瘴气、空间裂缝）、极高",
-    "特产": "灵兽、珍稀灵药、灵药",
+    "特产": "灵兽、珍稀灵药、灵药、灵药灵兽",
     "所属界面": "天南",
     "类型": "山脉",
     "守护": "剧毒瘴气"
@@ -42,6 +43,11 @@
       {
         "value": "灵药",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "灵药灵兽",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ],
@@ -111,7 +117,8 @@
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
     "plot.fanren-1173-second-yuanying-tiansha-moshi",
-    "plot.fanren-793-798-zhuimo-valley-hanli-return"
+    "plot.fanren-793-798-zhuimo-valley-hanli-return",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-17T13:15:57.724Z"
+  "updatedAt": "2026-06-17T13:23:12.048Z"
 }

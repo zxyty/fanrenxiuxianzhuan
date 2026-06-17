@@ -4,14 +4,46 @@
   "name": "长髯老者",
   "aliases": [],
   "summary": "藤蔓小谷法阵中央长髯老者，操控五具如木人般的修士/傀儡，指挥菡师侄监视鬼灵门。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "性别": "男",
+    "外貌": "长髯、闭目"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      }
+    ],
+    "外貌": [
+      {
+        "value": "长髯、闭目",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      }
+    ]
+  },
   "firstSeq": 799,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+      "dated": false,
+      "seq": 799
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+      "dated": false,
+      "seq": 799
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T05:51:36.848Z"
+  "updatedAt": "2026-06-17T13:23:12.045Z"
 }

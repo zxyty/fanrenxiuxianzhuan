@@ -7,15 +7,18 @@
     "人虎妖傀儡",
     "结丹傀儡",
     "巨龟傀儡兽",
-    "蓝龟傀儡"
+    "蓝龟傀儡",
+    "巨龟形傀儡",
+    "龟形傀儡",
+    "人虎妖形傀儡"
   ],
   "summary": "韩立依大衍决炼成的结丹级傀儡，三十余具、龟形与虎妖形各半。",
   "attributes": {
     "品阶": "结丹级",
     "持有者": "韩立",
-    "能力": "巨龟形态:皮糙肉厚抗元婴攻击、喷雷火球、人虎妖形态:轻捷近战、爪芒撕裂结丹护罩、龟壳凝射冰锥",
+    "能力": "巨龟形态:皮糙肉厚抗元婴攻击、喷雷火球、人虎妖形态:轻捷近战、爪芒撕裂结丹护罩、龟壳凝射冰锥、皮糙肉厚抗元婴期攻击三五下、口喷雷火之球比拟结丹中期全力、体轻行动似风、虎爪放半尺爪芒撕裂结丹护罩",
     "来历": "大衍神君玉简、乱星海高阶妖魂",
-    "外形": "身高三丈的蓝色巨龟"
+    "外形": "身高三丈的蓝色巨龟、巨龟形、人虎妖形"
   },
   "observations": {
     "品阶": [
@@ -47,6 +50,26 @@
         "value": "龟壳凝射冰锥",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "皮糙肉厚抗元婴期攻击三五下",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "口喷雷火之球比拟结丹中期全力",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "体轻行动似风",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "虎爪放半尺爪芒撕裂结丹护罩",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "来历": [
@@ -61,6 +84,16 @@
         "value": "身高三丈的蓝色巨龟",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "巨龟形",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "人虎妖形",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ]
   },
@@ -92,16 +125,17 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch811-gang-yin-sha",
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
       "dated": false,
-      "seq": 811
+      "seq": 799
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-    "plot.fanren-ch811-gang-yin-sha"
+    "plot.fanren-ch811-gang-yin-sha",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T06:11:29.091Z"
+  "updatedAt": "2026-06-17T13:23:12.002Z"
 }

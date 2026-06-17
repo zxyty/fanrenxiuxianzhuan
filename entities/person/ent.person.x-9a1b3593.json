@@ -5,14 +5,16 @@
   "aliases": [
     "鬼灵门宗主",
     "阴厉中年人",
-    "黑袍中年人"
+    "黑袍中年人",
+    "面色阴厉中年人"
   ],
   "summary": "鬼灵门现任宗主，元婴修士，主持坠魔谷传送布阵；王蝉之父。",
   "attributes": {
     "身份": "鬼灵门宗主",
-    "小阶段": "元婴期",
-    "外貌": "宽大黑袍、面色阴厉",
-    "阵营": "魔道"
+    "小阶段": "元婴期、元婴",
+    "外貌": "宽大黑袍、面色阴厉、宽大黑袍、面色阴厉、威严",
+    "阵营": "魔道",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -27,6 +29,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
         "seq": 799
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "外貌": [
@@ -34,12 +41,24 @@
         "value": "宽大黑袍、面色阴厉",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
         "seq": 799
+      },
+      {
+        "value": "宽大黑袍、面色阴厉、威严",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "阵营": [
       {
         "value": "魔道",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ]
@@ -69,12 +88,19 @@
       "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
       "dated": false,
       "seq": 799
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+      "dated": false,
+      "seq": 799
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T05:51:36.839Z"
+  "updatedAt": "2026-06-17T13:23:12.021Z"
 }

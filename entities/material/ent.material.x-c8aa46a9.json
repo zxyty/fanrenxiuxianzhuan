@@ -19,8 +19,8 @@
   "summary": "蕴含天地灵气的石头，修仙界通用货币，可加速修炼、布阵、增幅施法、恢复法力。",
   "attributes": {
     "类型": "修炼资源/货币",
-    "用途": "修炼大补、布设法阵、施法增幅、恢复法力、交易/保命持久战、驱动古传送阵、催动上古法阵/禁制、补充元婴修士灵力、灵具供能、修炼、特殊交易",
-    "稀有度": "极稀有（天南近绝迹）"
+    "用途": "修炼大补、布设法阵、施法增幅、恢复法力、交易/保命持久战、驱动古传送阵、催动上古法阵/禁制、补充元婴修士灵力、灵具供能、修炼、特殊交易、催动上古法阵/补充灵力",
+    "稀有度": "珍贵奢侈品、极稀有（天南近绝迹）、极稀有"
   },
   "observations": {
     "类型": [
@@ -85,6 +85,11 @@
         "value": "灵具供能、修炼、特殊交易",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "催动上古法阵/补充灵力",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "稀有度": [
@@ -96,6 +101,11 @@
       {
         "value": "极稀有（天南近绝迹）",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ]
@@ -116,9 +126,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
       "dated": false,
-      "seq": 799
+      "seq": 127
     }
   },
   "contested": false,
@@ -128,7 +138,8 @@
     "plot.fanren-ch158-blue-robed-woman",
     "plot.fanren-ch362-nangong-ping",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-16T10:12:05.265Z"
+  "updatedAt": "2026-06-17T13:23:12.063Z"
 }

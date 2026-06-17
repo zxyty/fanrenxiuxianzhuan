@@ -7,8 +7,8 @@
   ],
   "summary": "天极门令牌，韩立持之掷向白书君以表身份并要其引见鲁卫英。",
   "attributes": {
-    "类型": "门派令牌",
-    "用途": "天极门凭信"
+    "类型": "门派令牌、令牌",
+    "用途": "天极门凭信、天极门身份信物"
   },
   "observations": {
     "类型": [
@@ -16,12 +16,22 @@
         "value": "门派令牌",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
         "seq": 799
+      },
+      {
+        "value": "令牌",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "用途": [
       {
         "value": "天极门凭信",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "天极门身份信物",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ]
@@ -44,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T05:51:36.830Z"
+  "updatedAt": "2026-06-17T13:23:12.016Z"
 }

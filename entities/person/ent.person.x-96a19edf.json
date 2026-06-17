@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "藤蔓小谷长髯老者门下绿衫女子，乘白色灵禽监视鬼灵门动向。",
   "attributes": {
-    "性别": "女"
+    "性别": "女",
+    "外貌": "秀丽温婉、绿衫"
   },
   "observations": {
     "性别": [
       {
         "value": "女",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      }
+    ],
+    "外貌": [
+      {
+        "value": "秀丽温婉、绿衫",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
       "dated": false,
       "seq": 799
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+      "dated": false,
+      "seq": 799
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T05:51:36.847Z"
+  "updatedAt": "2026-06-17T13:23:12.043Z"
 }

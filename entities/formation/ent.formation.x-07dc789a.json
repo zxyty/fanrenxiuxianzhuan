@@ -4,12 +4,14 @@
   "name": "单向传送阵",
   "aliases": [
     "鬼灵门传送阵",
-    "百余丈巨阵"
+    "百余丈巨阵",
+    "特制传送法阵",
+    "巨型法阵"
   ],
   "summary": "鬼灵门多位阵法大师多年研制的特制单向传送阵，可从谷口直送坠魔谷外谷某处；位置随机、一次仅传三人，须金属性高阶灵石催动，仓促成型有传入空间裂缝之风险。",
   "attributes": {
-    "效果": "单向传送、落点随机、一次仅送三人",
-    "出处": "鬼灵门",
+    "效果": "单向传送、落点随机、一次仅送三人、将人从谷口单向送入坠魔谷外谷、一次仅传三人、极小概率送入空间裂缝",
+    "出处": "鬼灵门、鬼灵门阵法大师",
     "布置者": "鬼灵门",
     "破解法": "需金属性高阶灵石催动"
   },
@@ -29,12 +31,32 @@
         "value": "一次仅送三人",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
         "seq": 799
+      },
+      {
+        "value": "将人从谷口单向送入坠魔谷外谷",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "一次仅传三人",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
+      },
+      {
+        "value": "极小概率送入空间裂缝",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+        "seq": 799
       }
     ],
     "出处": [
       {
         "value": "鬼灵门",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+        "seq": 799
+      },
+      {
+        "value": "鬼灵门阵法大师",
+        "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
       }
     ],
@@ -83,7 +105,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
   ],
-  "updatedAt": "2026-06-15T05:51:36.858Z"
+  "updatedAt": "2026-06-17T13:23:12.061Z"
 }
