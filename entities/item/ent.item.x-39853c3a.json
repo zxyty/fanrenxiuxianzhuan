@@ -7,8 +7,10 @@
   ],
   "summary": "魔门珍稀法器，以天地污秽之物炼成，专污正道宝物使其威力大降、灵性大失，与辟邪神雷相克。",
   "attributes": {
-    "类型": "雷珠类法器",
-    "用途": "污染正道法宝"
+    "类型": "雷珠类法器、魔门法器珠",
+    "用途": "污染正道法宝、污染正道法宝令其威力灵性大失",
+    "品阶": "稀有难炼",
+    "产地": "晋国魔门"
   },
   "observations": {
     "类型": [
@@ -16,12 +18,36 @@
         "value": "雷珠类法器",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781
+      },
+      {
+        "value": "魔门法器珠",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "用途": [
       {
         "value": "污染正道法宝",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+        "seq": 781
+      },
+      {
+        "value": "污染正道法宝令其威力灵性大失",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      }
+    ],
+    "品阶": [
+      {
+        "value": "稀有难炼",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      }
+    ],
+    "产地": [
+      {
+        "value": "晋国魔门",
+        "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
     ]
@@ -39,12 +65,25 @@
       "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
       "dated": false,
       "seq": 781
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-15T03:58:16.692Z"
+  "updatedAt": "2026-06-17T12:53:58.119Z"
 }

@@ -17,15 +17,16 @@
     "韩立伴侣",
     "侍妾",
     "南宫长老",
-    "南宫姐姐"
+    "南宫姐姐",
+    "南宫师娘"
   ],
   "summary": "掩月宗祖师,容貌如少女的白衣绝色女子,修炼轮回功,与韩立有合体之缘,曾以禁制法力暂传韩立。",
   "attributes": {
     "性别": "女",
     "身份": "掩月宗祖师、掩月宗修士、掩月宗长老、掩月宗元婴修士、师姐、韩立伴侣、韩立道侣、于落云宗禁地中、韩立的双修伴侣、被封印者、落云宗长老、韩立之妻、闭关修炼中、韩立爱妻、掩月宗弟子、程师兄义妹婉儿",
     "称号": "南宫仙子",
-    "外貌": "宫裙女子",
-    "标志特征": "常年头戴面纱、曾以『南宫屏』之名易容现身、被禁大半法力、受监视、身中封魂咒、可降五色光柱的宝镜、被封魂咒所困、封于冰壁、双目紧闭脸色微白、被禁大半法力",
+    "外貌": "白衣绝色,貌若少女、身材修长、面纱遮脸、乌发白衣少女、绝色、七八岁女童、稚气女童（封于冰中）、恢复绝世姿容、白衣女子、女童模样、白衫佳人、雪白宫装、一尘不染、宫裙女子、冰壁中栩栩如生的女童",
+    "标志特征": "常年头戴面纱、曾以『南宫屏』之名易容现身、被禁大半法力、受监视、身中封魂咒、可降五色光柱的宝镜、被封魂咒所困、封于冰壁、双目紧闭脸色微白、被禁大半法力、被封魂咒所中、冰封于冰壁",
     "阵营": "掩月宗、落云宗、乱星海",
     "小阶段": "元婴后期",
     "存殁": "在世（闭关中）"
@@ -72,7 +73,7 @@
       {
         "value": "韩立道侣",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
-        "seq": 871
+        "seq": 781
       },
       {
         "value": "于落云宗禁地中",
@@ -186,6 +187,12 @@
         "value": "宫裙女子",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "冰壁中栩栩如生的女童",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781,
+        "note": "封魂咒封印之状"
       }
     ],
     "标志特征": [
@@ -230,6 +237,11 @@
         "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715,
         "note": "本章当时状态"
+      },
+      {
+        "value": "被封魂咒所中、冰封于冰壁",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "阵营": [
@@ -317,7 +329,8 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-        "seq": 751
+        "seq": 751,
+        "note": "据世界状态须知第745章死亡，本章为背景指涉无新行动"
       }
     ]
   },
@@ -343,9 +356,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
       "dated": false,
-      "seq": 1255
+      "seq": 205
     },
     "标志特征": {
       "asOf": null,
@@ -418,7 +431,8 @@
     "plot.fanren-714-shipo-yu-fuji",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T12:10:50.266Z"
+  "updatedAt": "2026-06-17T12:53:58.105Z"
 }

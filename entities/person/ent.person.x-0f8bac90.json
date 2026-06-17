@@ -18,7 +18,7 @@
     "性别": "男",
     "小阶段": "元婴初期",
     "外貌": "银发白眉、银发老者、银发、老者",
-    "身份": "落云宗大长老",
+    "身份": "落云宗长老、落云宗大长老、落云宗修士",
     "阵营": "韩立一方",
     "存殁": "死亡",
     "死因": "坐化",
@@ -81,6 +81,11 @@
       {
         "value": "落云宗大长老",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+        "seq": 781
+      },
+      {
+        "value": "落云宗修士",
+        "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
     ],
@@ -167,9 +172,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
       "dated": false,
-      "seq": 781
+      "seq": 631
     },
     "阵营": {
       "asOf": null,
@@ -223,7 +228,8 @@
     "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
     "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
     "plot.fanren-666-liuyu",
-    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T11:45:24.809Z"
+  "updatedAt": "2026-06-17T12:53:58.063Z"
 }

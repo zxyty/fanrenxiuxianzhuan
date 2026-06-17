@@ -11,21 +11,27 @@
   ],
   "summary": "晋国十大魔宗之一阴罗宗长老，二十余岁黑袍青年，设阵诱夺韩立金雷竹法宝，祭七龙桩、血雷子、鬼罗幡。",
   "attributes": {
-    "身份": "阴罗宗长老",
-    "阵营": "魔道(阴罗宗)",
+    "身份": "阴罗宗长老、晋国十大魔宗之一长老",
+    "阵营": "魔道、阴罗宗（魔道）、魔道(阴罗宗)、魔道/阴罗宗",
     "外貌": "二十余岁黑袍青年",
     "性格": "狡诈贪婪",
     "性别": "男",
     "小阶段": "元婴中期、元婴中期顶阶、元婴",
     "存殁": "死亡",
     "死因": "被韩立大庚剑阵碎尸、元婴被搜魂化去、被韩立击杀、被韩立辟邪神雷击杀",
-    "出身地": "晋国"
+    "出身地": "晋国",
+    "称号": "本尊者"
   },
   "observations": {
     "身份": [
       {
         "value": "阴罗宗长老",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+        "seq": 781
+      },
+      {
+        "value": "晋国十大魔宗之一长老",
+        "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
     ],
@@ -44,6 +50,11 @@
         "value": "魔道(阴罗宗)",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "魔道/阴罗宗",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "外貌": [
@@ -114,6 +125,13 @@
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
       }
+    ],
+    "称号": [
+      {
+        "value": "本尊者",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      }
     ]
   },
   "firstSeq": 781,
@@ -126,9 +144,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
       "dated": false,
-      "seq": 1027
+      "seq": 781
     },
     "外貌": {
       "asOf": null,
@@ -171,6 +189,12 @@
       "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
       "dated": false,
       "seq": 787
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781
     }
   },
   "contested": false,
@@ -178,7 +202,8 @@
   "docs": [
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-16T04:59:44.947Z"
+  "updatedAt": "2026-06-17T12:53:58.103Z"
 }

@@ -9,9 +9,9 @@
   "summary": "黑袍青年所祭，七光柱化银蛟喷银色光柱攻击；实为仿制品兼半成品，被银月反弹摧毁。",
   "attributes": {
     "持有者": "黑袍青年",
-    "能力": "七银蛟喷射有形银光柱",
+    "能力": "七银蛟喷射有形银光柱、七柱化银蛟喷银色光柱",
     "外形": "七根光柱化银白蛟龙",
-    "来历": "仿制品/半成品"
+    "来历": "仿制品/半成品、仿制半成品"
   },
   "observations": {
     "持有者": [
@@ -25,6 +25,11 @@
       {
         "value": "七银蛟喷射有形银光柱",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+        "seq": 781
+      },
+      {
+        "value": "七柱化银蛟喷银色光柱",
+        "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
     ],
@@ -41,6 +46,12 @@
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781,
         "note": "非传闻真品"
+      },
+      {
+        "value": "仿制半成品",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781,
+        "note": "非传闻真品，神通单一"
       }
     ]
   },
@@ -75,7 +86,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-15T03:58:16.691Z"
+  "updatedAt": "2026-06-17T12:53:58.108Z"
 }

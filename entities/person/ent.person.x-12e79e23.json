@@ -6,14 +6,15 @@
     "黑袍男子",
     "易兄(误,见合欢老魔)",
     "房兄",
-    "天南第一魔修(慕兰方所称对手?)"
+    "天南第一魔修(慕兰方所称对手?)",
+    "偷袭之人"
   ],
   "summary": "大晋阴罗宗宗主，瞳孔可化碧绿，携巨兽与铜甲炼尸助慕兰，索取生魂修复鬼罗幡。",
   "attributes": {
-    "身份": "阴罗宗宗主、魔道宗主、魔道宗门宗主",
-    "阵营": "大晋魔宗、慕兰联军、魔道、阴罗宗",
+    "身份": "阴罗宗宗主、魔道宗主、魔道宗门宗主、魔修",
+    "阵营": "大晋魔宗、慕兰联军、魔道、阴罗宗、晋国阴罗宗",
     "标志特征": "瞳孔变碧绿、周身阴森寒气、黑袍、眼中绿光、瞳孔变碧绿、阴森寒气、眼中绿光、黑气罩体",
-    "小阶段": "元婴后期",
+    "小阶段": "元婴后期、元婴中期以上",
     "外貌": "五官端正的年轻男子",
     "性别": "男"
   },
@@ -34,6 +35,11 @@
         "value": "魔道宗门宗主",
         "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
+      },
+      {
+        "value": "魔修",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "阵营": [
@@ -56,6 +62,11 @@
         "value": "阴罗宗",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 757
+      },
+      {
+        "value": "晋国阴罗宗",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "标志特征": [
@@ -91,6 +102,12 @@
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781,
         "note": "疑似，可比肩慕兰神师；现身仅露元婴中期神识"
+      },
+      {
+        "value": "元婴中期以上",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781,
+        "note": "修为以法术遮掩"
       }
     ],
     "外貌": [
@@ -157,7 +174,8 @@
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-757-bingxuecan-yu-gengjing",
-    "plot.fanren-ch763-antian-zhanqian-anshou"
+    "plot.fanren-ch763-antian-zhanqian-anshou",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T12:23:53.631Z"
+  "updatedAt": "2026-06-17T12:53:57.994Z"
 }

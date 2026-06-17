@@ -7,7 +7,8 @@
   ],
   "summary": "南宫婉所修功法；其某种神通可用寒气自封身躯，并大幅推迟封魂咒发作，理论上近百年。",
   "attributes": {
-    "效果": "寒气自封身躯、推迟封魂咒发作（理论近百年）"
+    "效果": "寒气自封身躯、推迟封魂咒发作（理论近百年）、以寒气封印自身、推迟封魂咒发作",
+    "修炼条件": "采天地阴露"
   },
   "observations": {
     "效果": [
@@ -20,6 +21,23 @@
         "value": "推迟封魂咒发作（理论近百年）",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781
+      },
+      {
+        "value": "以寒气封印自身",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      },
+      {
+        "value": "推迟封魂咒发作",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "采天地阴露",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ]
   },
@@ -30,12 +48,19 @@
       "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
       "dated": false,
       "seq": 781
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng"
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-15T03:58:16.664Z"
+  "updatedAt": "2026-06-17T12:53:58.001Z"
 }

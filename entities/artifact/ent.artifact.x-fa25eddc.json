@@ -17,9 +17,9 @@
     "品阶": "顶阶古宝、古宝、古宝顶阶、上古古宝",
     "持有者": "银月",
     "能力": "大范围防御（百丈至千丈，顶尖者罩百里）、困敌、自行释放玉阳真火灭敌、困禁勒锁、蕴含玉阳真火、注入灵力即可使用、紫网罩敌、玉阳真火（青白火焰、火蛇）、化紫网护身、禁制开合、白光卷物、化紫色火网防护、大范围防御（百丈至千丈，传顶尖罩百里）、释放玉阳真火灭敌、禁锢、收缩勒紧、紫网罩缚、玉阳真火、紫网防御、禁制封口",
-    "来历": "坠魔谷、疑得自坠魔谷",
+    "来历": "坠魔谷、疑得自坠魔谷、古宝",
     "外形": "层叠薄如轻绢的紫色晶网、散发紫色莹光的网兜,若有若无忽隐忽现、层叠紫色晶光丝网、紫色网兜、紫色大网/紫云",
-    "禁制": "玉阳真火",
+    "禁制": "需以妖狐之身方可使用",
     "器灵": "银月"
   },
   "observations": {
@@ -54,7 +54,8 @@
       {
         "value": "银月",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
-        "seq": 739
+        "seq": 739,
+        "note": "韩立所赠"
       }
     ],
     "能力": [
@@ -170,6 +171,11 @@
         "value": "疑得自坠魔谷",
         "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
+      },
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "外形": [
@@ -204,6 +210,11 @@
         "value": "玉阳真火",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      },
+      {
+        "value": "需以妖狐之身方可使用",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "器灵": [
@@ -226,7 +237,8 @@
       "asOf": null,
       "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
       "dated": false,
-      "seq": 739
+      "seq": 739,
+      "note": "韩立所赠"
     },
     "能力": {
       "asOf": null,
@@ -249,9 +261,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
+      "docId": "plot.fanren-781-nangong-jingbian",
       "dated": false,
-      "seq": 727
+      "seq": 781
     },
     "器灵": {
       "asOf": null,
@@ -273,7 +285,8 @@
     "plot.fanren-714-shipo-yu-fuji",
     "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
     "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
-    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T11:37:17.768Z"
+  "updatedAt": "2026-06-17T12:53:58.122Z"
 }

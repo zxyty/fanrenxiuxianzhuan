@@ -22,7 +22,8 @@
     "沛灵妹妹",
     "慕姓女修",
     "Mu Peiling",
-    "冷艳女修"
+    "冷艳女修",
+    "幕道友"
   ],
   "summary": "落云宗女修，药园名义管辖者，留下玄冰决与培育心得交韩立打理，对其不冷不热。",
   "attributes": {
@@ -35,7 +36,8 @@
     "出身地": "落云宗",
     "性格": "聪慧乖巧",
     "存殁": "死亡",
-    "死因": "突破元婴时心魔趁虚、法力反噬"
+    "死因": "突破元婴时心魔趁虚、法力反噬",
+    "标志特征": "处子之身"
   },
   "observations": {
     "身份": [
@@ -329,6 +331,13 @@
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
       }
+    ],
+    "标志特征": [
+      {
+        "value": "处子之身",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      }
     ]
   },
   "firstSeq": 601,
@@ -392,6 +401,12 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781
     }
   },
   "contested": false,
@@ -439,7 +454,8 @@
     "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
     "plot.fanren-714-shipo-yu-fuji",
     "plot.fanren-721-726-dianyi-linghu-yufu",
-    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T11:45:24.811Z"
+  "updatedAt": "2026-06-17T12:53:58.066Z"
 }

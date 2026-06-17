@@ -10,9 +10,10 @@
   ],
   "summary": "冷傲魔道修士，独自携啼魂兽闯鬼冤之地，先入鬼雾为后来者开路。",
   "attributes": {
-    "阵营": "魔修",
+    "阵营": "阴罗宗",
     "外貌": "黑袍",
-    "性格": "心高气傲、傲慢"
+    "性格": "心高气傲、傲慢",
+    "小阶段": "元婴后期"
   },
   "observations": {
     "阵营": [
@@ -25,6 +26,12 @@
         "value": "魔修",
         "docId": "plot.fanren-439-444-guiwang-xutiandian",
         "seq": 439
+      },
+      {
+        "value": "阴罗宗",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781,
+        "note": "韩立推测其为阴罗宗宗主"
       }
     ],
     "外貌": [
@@ -45,15 +52,24 @@
         "docId": "plot.fanren-439-444-guiwang-xutiandian",
         "seq": 439
       }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781,
+        "note": "韩立推测"
+      }
     ]
   },
   "firstSeq": 433,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-439-444-guiwang-xutiandian",
+      "docId": "plot.fanren-781-nangong-jingbian",
       "dated": false,
-      "seq": 439
+      "seq": 781,
+      "note": "韩立推测其为阴罗宗宗主"
     },
     "外貌": {
       "asOf": null,
@@ -66,13 +82,21 @@
       "docId": "plot.fanren-439-444-guiwang-xutiandian",
       "dated": false,
       "seq": 439
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-781-nangong-jingbian",
+      "dated": false,
+      "seq": 781,
+      "note": "韩立推测"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-c433-438-xutiandian-juji",
-    "plot.fanren-439-444-guiwang-xutiandian"
+    "plot.fanren-439-444-guiwang-xutiandian",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-14T15:23:19.033Z"
+  "updatedAt": "2026-06-17T12:53:58.069Z"
 }

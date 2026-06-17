@@ -17,15 +17,17 @@
     "两杆鬼罗幡",
     "鬼罗幡精魂",
     "十余杆鬼罗幡",
-    "阴罗宗至宝"
+    "阴罗宗至宝",
+    "十二鬼罗幡",
+    "绿幡"
   ],
   "summary": "阴罗宗镇宗之宝，被正道击毁数杆，急需大量生魂修复，乃其参战之由。",
   "attributes": {
-    "来历": "大晋昆吾山之行所夺",
-    "禁制": "需大量生魂修复、无法认主、以生魂修复",
+    "来历": "阴罗宗镇宗之宝、阴罗宗至宝、数十万生魂+数百修士精魂炼成、阴罗宗镇宗至宝、得自阴罗宗、阴罗宗传宗之宝、阴罗宗、韩立修复、大晋昆吾山之行所夺、阴罗宗镇宗之宝/十二鬼罗幡主幡之一",
+    "禁制": "需大量生魂修复、无法认主、以生魂修复、以十万生魂及数百修士精魂炼制",
     "持有者": "第二元婴",
-    "能力": "阴魂丝、召鬼火骷髅头、天昏地暗阴风鬼雾、放出元阴魔头/骷髅头、鬼火抗辟邪神雷、护主收容、灌注精纯魔气救治、吸纳魔气、吸纳鬼气自修复、抽取元神、炼制元阴魔头、炼妖尸、护身光幕、放出魔云吞没法宝、断敌法宝联系、催生魔云魔气、召厉鬼、黑雾魔气护体、集十八杆显真威、聚齐十八杆威力难以想象、藏精魂/阴魂、蕴养生魂",
-    "外形": "碧绿巨幡，幡面布满人形面孔，缺一角、由碧绿转通体乌黑、乌黑小幡，可涨为数丈巨幡、幡、漆黑如墨小幡",
+    "能力": "阴魂丝、召鬼火骷髅头、天昏地暗阴风鬼雾、放出元阴魔头/骷髅头、鬼火抗辟邪神雷、护主收容、灌注精纯魔气救治、吸纳魔气、吸纳鬼气自修复、抽取元神、炼制元阴魔头、炼妖尸、护身光幕、放出魔云吞没法宝、断敌法宝联系、催生魔云魔气、召厉鬼、黑雾魔气护体、集十八杆显真威、聚齐十八杆威力难以想象、藏精魂/阴魂、蕴养生魂、喷阴魂丝、天地变色阴风鬼雾",
+    "外形": "碧绿巨幡，幡面布满人形面孔，缺一角、由碧绿转通体乌黑、乌黑小幡，可涨为数丈巨幡、幡、漆黑如墨小幡、碧绿幡面密布蠕动人脸，缺一角",
     "品阶": "镇宗之宝",
     "五行属性": "魔"
   },
@@ -75,6 +77,11 @@
         "value": "大晋昆吾山之行所夺",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
+      },
+      {
+        "value": "阴罗宗镇宗之宝/十二鬼罗幡主幡之一",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "禁制": [
@@ -92,6 +99,11 @@
         "value": "以生魂修复",
         "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
+      },
+      {
+        "value": "以十万生魂及数百修士精魂炼制",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "持有者": [
@@ -232,6 +244,16 @@
         "value": "蕴养生魂",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "喷阴魂丝",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
+      },
+      {
+        "value": "天地变色阴风鬼雾",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "外形": [
@@ -259,6 +281,11 @@
         "value": "漆黑如墨小幡",
         "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "碧绿幡面密布蠕动人脸，缺一角",
+        "docId": "plot.fanren-781-nangong-jingbian",
+        "seq": 781
       }
     ],
     "品阶": [
@@ -285,9 +312,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 1213
+      "seq": 757
     },
     "禁制": {
       "asOf": null,
@@ -350,7 +377,8 @@
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-757-bingxuecan-yu-gengjing",
-    "plot.fanren-775-780-giant-ape-appears"
+    "plot.fanren-775-780-giant-ape-appears",
+    "plot.fanren-781-nangong-jingbian"
   ],
-  "updatedAt": "2026-06-17T12:40:00.461Z"
+  "updatedAt": "2026-06-17T12:53:58.107Z"
 }

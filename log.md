@@ -453,3 +453,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T12:23:53.811Z** `ingest` plot.fanren-ch763-antian-zhanqian-anshou — 凡人修仙传 第763章 暗手：天南四大势力密谋洗劫阗天城资源仓库 · kind=plot asOf=2026-06-17 entities=54 relations=56 src=00763-00768.md
 - **2026-06-17T12:31:43.030Z** `ingest` plot.fanren-769-774-bianjie-zhizhan-6-8 — 凡人修仙传 第769-774章｜边界之战（六~八）：韩立破血罩、灭大上师、激战第四神师田锺 · kind=plot asOf=2026-06-17 entities=37 relations=43 src=00769-00774.md
 - **2026-06-17T12:40:00.837Z** `ingest` plot.fanren-775-780-giant-ape-appears — 凡人修仙传 第775-780章｜巨猿现·辣手无情·血鬼与石人 · kind=plot asOf=2026-06-17 entities=41 relations=51 src=00775-00780.md
+- **2026-06-17T12:53:58.398Z** `ingest` plot.fanren-781-nangong-jingbian — 第781章 南宫惊变：南宫婉中封魂咒自封冰壁 · kind=plot asOf=2026-06-17 entities=32 relations=46 src=00781-00786.md
