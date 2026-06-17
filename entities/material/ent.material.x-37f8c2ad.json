@@ -6,7 +6,7 @@
   "summary": "妙音门传送阵最关键且稀少的材料，产地在五六级妖兽栖息地附近。",
   "attributes": {
     "用途": "完成传送阵",
-    "稀有度": "稀少、珍稀、稀有",
+    "稀有度": "稀少、珍稀、稀有、极稀少",
     "产地": "高阶妖兽栖息地附近",
     "类型": "阵法材料、灵石"
   },
@@ -38,6 +38,11 @@
         "value": "稀有",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "极稀少",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ],
     "产地": [
@@ -91,7 +96,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
-    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi"
+    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-14T18:52:01.136Z"
+  "updatedAt": "2026-06-17T06:42:04.055Z"
 }

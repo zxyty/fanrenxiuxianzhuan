@@ -11,11 +11,12 @@
     "性别": "男",
     "小阶段": "结丹中期",
     "身份": "妙音门实际掌权者",
-    "结局": "本章身首异处，储物袋被夺",
+    "结局": "被韩立一击重创(未死)、本章身首异处，储物袋被夺、被韩立一击重创",
     "存殁": "死亡",
     "阵营": "魔道",
     "死因": "被韩立青元剑诀斩首",
-    "外貌": "面色阴沉、青色儒装中年修士"
+    "外貌": "面色阴沉、青色儒装中年修士",
+    "标志特征": "白骨阴火(灰色火焰)护体"
   },
   "observations": {
     "性别": [
@@ -59,6 +60,12 @@
         "value": "本章身首异处，储物袋被夺",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "被韩立一击重创",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535,
+        "note": "事后以符箓疗伤"
       }
     ],
     "存殁": [
@@ -94,6 +101,13 @@
         "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
       }
+    ],
+    "标志特征": [
+      {
+        "value": "白骨阴火(灰色火焰)护体",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
+      }
     ]
   },
   "firstSeq": 529,
@@ -118,9 +132,9 @@
     },
     "结局": {
       "asOf": null,
-      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
-      "seq": 553
+      "seq": 535
     },
     "存殁": {
       "asOf": null,
@@ -145,6 +159,12 @@
       "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
       "dated": false,
       "seq": 529
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
+      "dated": false,
+      "seq": 535
     }
   },
   "contested": false,
@@ -153,7 +173,8 @@
     "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
     "plot.fanren-ch547-552-poison-three-demons",
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
-    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-17T06:34:21.396Z"
+  "updatedAt": "2026-06-17T06:42:04.043Z"
 }

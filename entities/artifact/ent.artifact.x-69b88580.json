@@ -8,7 +8,9 @@
   "summary": "或与开启虚天鼎有关，蕴乾蓝冰焰，韩立结丹期不敢触碰。",
   "attributes": {
     "能力": "乾蓝冰焰（元婴老怪畏惧）",
-    "禁制": "须结丹后期或元婴方敢炼化"
+    "禁制": "须结丹后期或元婴方敢炼化",
+    "五行属性": "冰",
+    "外形": "光灿灿金丝球"
   },
   "observations": {
     "能力": [
@@ -23,6 +25,20 @@
         "value": "须结丹后期或元婴方敢炼化",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "冰",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
+      }
+    ],
+    "外形": [
+      {
+        "value": "光灿灿金丝球",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ]
   },
@@ -39,12 +55,25 @@
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
+      "dated": false,
+      "seq": 535
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
+      "dated": false,
+      "seq": 535
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao"
+    "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-17T06:19:33.485Z"
+  "updatedAt": "2026-06-17T06:42:04.074Z"
 }

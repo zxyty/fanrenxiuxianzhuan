@@ -3,20 +3,26 @@
   "type": "place",
   "name": "磷火潭",
   "aliases": [
-    "磷火谭"
+    "磷火谭",
+    "碧蓝水潭"
   ],
   "summary": "奇渊海域小岛石山洞窟中的碧蓝水潭，深不可测，潭边生黑色伴妖草，为成年裂风兽巢穴与暂居地，潭下设有真正洞府。",
   "attributes": {
-    "类型": "妖兽巢穴",
+    "类型": "妖兽巢穴、水潭洞窟",
     "危险度": "极高",
     "特产": "黑色伴妖草",
-    "守护": "九级裂风兽"
+    "守护": "九级裂风兽、裂风兽"
   },
   "observations": {
     "类型": [
       {
         "value": "妖兽巢穴",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "水潭洞窟",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
       }
     ],
@@ -38,6 +44,11 @@
       {
         "value": "九级裂风兽",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "裂风兽",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
       }
     ]
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-14T18:18:59.420Z"
+  "updatedAt": "2026-06-17T06:42:04.082Z"
 }

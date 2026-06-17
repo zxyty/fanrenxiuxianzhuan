@@ -11,7 +11,7 @@
   "attributes": {
     "所属界面": "乱星海外海、乱星海、外星海、灵界、人界",
     "类型": "妖兽岛、中型岛屿、海岛/海域、海外岛屿/势力聚集地、海岛、岛屿/凶险渊薮",
-    "危险度": "极高（高阶妖兽聚集）",
+    "危险度": "高（高阶妖兽老巢）",
     "特产": "高阶妖兽、灵石矿、高阶妖丹",
     "所属势力": "妙音门",
     "守护": "众势力联手（背后皆有元婴期修士）"
@@ -96,6 +96,11 @@
         "value": "高（有八级妖兽）",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "高（高阶妖兽老巢）",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ],
     "特产": [
@@ -156,9 +161,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
       "dated": false,
-      "seq": 529
+      "seq": 535
     },
     "特产": {
       "asOf": null,
@@ -191,7 +196,8 @@
     "plot.fanren-ch505-510-escape-to-outer-star-sea",
     "plot.fanren-511-516-qiyuan-island-wuzhong-island",
     "plot.fanren-523-528-zhenjia-chongmo",
-    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-17T06:34:21.385Z"
+  "updatedAt": "2026-06-17T06:42:04.081Z"
 }

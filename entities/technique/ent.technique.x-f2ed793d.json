@@ -8,9 +8,10 @@
   ],
   "summary": "韩立的伪装/变形秘术，可幻化外貌，元婴初期修士也不见得能识破。",
   "attributes": {
-    "效果": "幻化外貌、改变形容、随心变换面容、改变容貌、改变身形相貌（伪装）、化形为他人、收敛修为、化形改貌、伸缩身体部位、改变肌肤颜色、改头换面",
+    "效果": "幻化外貌、改变形容、随心变换面容、改变容貌、改变身形相貌（伪装）、化形为他人、收敛修为、化形改貌、伸缩身体部位、改变肌肤颜色、改头换面、幻化外形改变相貌",
     "出处": "玄阴经",
-    "修炼条件": "施展后全身法力仅能动用七成，超出则奇效消失恢复原貌"
+    "修炼条件": "施展后全身法力仅能动用七成，超出则奇效消失恢复原貌",
+    "适用境界": "结丹"
   },
   "observations": {
     "效果": [
@@ -58,6 +59,11 @@
         "value": "改头换面",
         "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
+      },
+      {
+        "value": "幻化外形改变相貌",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ],
     "出处": [
@@ -72,6 +78,13 @@
         "value": "施展后全身法力仅能动用七成，超出则奇效消失恢复原貌",
         "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
         "seq": 529
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ]
   },
@@ -94,6 +107,12 @@
       "docId": "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
       "dated": false,
       "seq": 529
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
+      "dated": false,
+      "seq": 535
     }
   },
   "contested": false,
@@ -105,7 +124,8 @@
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-709-714-hanli-disguise-infiltrate-yanyuezong-nangongwan",
     "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
-    "plot.fanren-529-534-gongsun-xing-luding-zhuyin"
+    "plot.fanren-529-534-gongsun-xing-luding-zhuyin",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-17T06:34:21.392Z"
+  "updatedAt": "2026-06-17T06:42:04.072Z"
 }

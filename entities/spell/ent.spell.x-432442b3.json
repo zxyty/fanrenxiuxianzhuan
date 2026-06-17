@@ -7,13 +7,26 @@
   ],
   "summary": "云天啸护体阴火，双手蹿出半尺灰焰，被青竹蜂云剑瞬间击溃。",
   "attributes": {
-    "类型": "护体阴火"
+    "类型": "护体阴火、阴火攻防",
+    "出处": "妙音门"
   },
   "observations": {
     "类型": [
       {
         "value": "护体阴火",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "阴火攻防",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
+      }
+    ],
+    "出处": [
+      {
+        "value": "妙音门",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
       }
     ]
@@ -25,12 +38,19 @@
       "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
       "dated": false,
       "seq": 535
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-535-540-mishi-wen-siyue",
+      "dated": false,
+      "seq": 535
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-14T18:18:59.364Z"
+  "updatedAt": "2026-06-17T06:42:04.049Z"
 }

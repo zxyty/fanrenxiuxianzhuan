@@ -10,7 +10,7 @@
   "attributes": {
     "性别": "男",
     "小阶段": "结丹中期",
-    "外貌": "皮肤黝黑的中年人"
+    "外貌": "皮肤黝黑的中年人、皮肤黝黑"
   },
   "observations": {
     "性别": [
@@ -31,6 +31,11 @@
       {
         "value": "皮肤黝黑的中年人",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "皮肤黝黑",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
       }
     ]
@@ -59,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-14T18:18:59.341Z"
+  "updatedAt": "2026-06-17T06:42:04.045Z"
 }

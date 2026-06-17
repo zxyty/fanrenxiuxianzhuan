@@ -3,12 +3,13 @@
   "type": "item",
   "name": "铜片",
   "aliases": [
-    "古文铜片"
+    "古文铜片",
+    "黯淡铜片"
   ],
   "summary": "巴掌大黯淡铜片，刻有怪异古文，与无名炼气功法兽皮书古文大同小异，韩立以五级妖丹换得。",
   "attributes": {
-    "类型": "刻古文铜片、妖修功法载体",
-    "用途": "似与无名口诀古文同源(线索)、记载妖修功法"
+    "类型": "刻古文铜片、妖修功法载体、刻字古铜片",
+    "用途": "似与无名口诀古文同源(线索)、记载妖修功法、疑与古炼气功法相关"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
         "value": "妖修功法载体",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
         "seq": 535
+      },
+      {
+        "value": "刻字古铜片",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
+        "seq": 535
       }
     ],
     "用途": [
@@ -32,6 +38,11 @@
       {
         "value": "记载妖修功法",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+        "seq": 535
+      },
+      {
+        "value": "疑与古炼气功法相关",
+        "docId": "plot.fanren-535-540-mishi-wen-siyue",
         "seq": 535
       }
     ]
@@ -54,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi"
+    "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+    "plot.fanren-535-540-mishi-wen-siyue"
   ],
-  "updatedAt": "2026-06-14T18:18:59.409Z"
+  "updatedAt": "2026-06-17T06:42:04.069Z"
 }
