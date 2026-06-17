@@ -3,12 +3,14 @@
   "type": "beast",
   "name": "血鬼",
   "aliases": [
-    "恶血鬼"
+    "恶血鬼",
+    "血红恶鬼"
   ],
   "summary": "鬼灵门以万魂大阵血祭炼出的十余丈血红恶鬼，残躯可瞬间复原，力抗慕兰石人不落下风。",
   "attributes": {
-    "能力": "残躯复原、力大",
-    "外形": "十余丈血红恶鬼、双弯角马尾獠牙"
+    "能力": "残躯复原、力大、残破自愈、鳞臂尖指利爪",
+    "外形": "十余丈血红恶鬼、双弯角马尾獠牙、十余丈高、双弯角、马尾、獠牙、半透明鳞臂",
+    "等级": "可力抗近百丈石巨人"
   },
   "observations": {
     "能力": [
@@ -21,12 +23,34 @@
         "value": "力大",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "残破自愈",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      },
+      {
+        "value": "鳞臂尖指利爪",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ],
     "外形": [
       {
         "value": "十余丈血红恶鬼、双弯角马尾獠牙",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
+        "seq": 775
+      },
+      {
+        "value": "十余丈高、双弯角、马尾、獠牙、半透明鳞臂",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      }
+    ],
+    "等级": [
+      {
+        "value": "可力抗近百丈石巨人",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
         "seq": 775
       }
     ]
@@ -44,12 +68,19 @@
       "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
       "dated": false,
       "seq": 775
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-775-780-giant-ape-appears",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-775-780-border-war-end-yuanming-lamp"
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-775-780-giant-ape-appears"
   ],
-  "updatedAt": "2026-06-15T03:50:06.877Z"
+  "updatedAt": "2026-06-17T12:40:00.293Z"
 }

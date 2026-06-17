@@ -9,13 +9,15 @@
     "青色巨鸟",
     "青鸟",
     "青色妖禽",
-    "孔雀"
+    "孔雀",
+    "青色巨禽",
+    "巨鸟"
   ],
   "summary": "慕兰族供奉数万年的神禽，能操纵天地火灵气，本体至少化神，此为分身。",
   "attributes": {
-    "等级": "本体化神以上（此为分身，元婴后期）、化神境界",
-    "能力": "操纵天地火灵气、喷青色火球/光锥、青色妖火、化青色火鸟（与灯焰同源，吞雷珠反进补）、聚天地火灵气化青色妖火、幻化青色火鸟、破隐光晕",
-    "外形": "青孔雀化二十余丈青色火鸟",
+    "等级": "本体化神以上（此为分身，元婴后期）、化神境界、化神期以上",
+    "能力": "操纵天地火灵气、喷青色火球/光锥、青色妖火、化青色火鸟（与灯焰同源，吞雷珠反进补）、聚天地火灵气化青色妖火、幻化青色火鸟、破隐光晕、聚火灵气化青色妖火/火海、青羽化青色火鸟、青色光晕破隐匿、操控火灵气、青色火团攻击",
+    "外形": "青色巨鸟",
     "种族": "孔雀"
   },
   "observations": {
@@ -29,6 +31,11 @@
         "value": "化神境界",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "化神期以上",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ],
     "能力": [
@@ -66,6 +73,31 @@
         "value": "破隐光晕",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "聚火灵气化青色妖火/火海",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      },
+      {
+        "value": "青羽化青色火鸟",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      },
+      {
+        "value": "青色光晕破隐匿",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      },
+      {
+        "value": "操控火灵气",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      },
+      {
+        "value": "青色火团攻击",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ],
     "外形": [
@@ -73,6 +105,11 @@
         "value": "青孔雀化二十余丈青色火鸟",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "青色巨鸟",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ],
     "种族": [
@@ -99,9 +136,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-775-780-giant-ape-appears",
       "dated": false,
-      "seq": 769
+      "seq": 775
     },
     "种族": {
       "asOf": null,
@@ -114,7 +151,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-775-780-border-war-end-yuanming-lamp"
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-775-780-giant-ape-appears"
   ],
-  "updatedAt": "2026-06-15T03:50:06.867Z"
+  "updatedAt": "2026-06-17T12:40:00.475Z"
 }

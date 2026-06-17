@@ -3,11 +3,13 @@
   "type": "faction",
   "name": "太真七修",
   "aliases": [
-    "天真七修"
+    "天真七修",
+    "太真门七长老"
   ],
   "summary": "七名持太真七宝古宝的老者，以困魔大阵缠住圣禽。",
   "attributes": {
-    "镇派之宝": "太真七宝"
+    "镇派之宝": "七宝(连环)",
+    "阵营": "天南修士"
   },
   "observations": {
     "镇派之宝": [
@@ -15,6 +17,18 @@
         "value": "太真七宝",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "七宝(连环)",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天南修士",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ]
   },
@@ -22,16 +36,23 @@
   "attrProvenance": {
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-775-780-giant-ape-appears",
       "dated": false,
-      "seq": 769
+      "seq": 775
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-775-780-giant-ape-appears",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-769-774-bianjie-zhizhan-6-8"
+    "plot.fanren-769-774-bianjie-zhizhan-6-8",
+    "plot.fanren-775-780-giant-ape-appears"
   ],
-  "updatedAt": "2026-06-17T12:31:42.902Z"
+  "updatedAt": "2026-06-17T12:40:00.408Z"
 }

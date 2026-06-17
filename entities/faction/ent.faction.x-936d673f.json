@@ -13,13 +13,15 @@
     "大晋境内",
     "大晋朝",
     "人界修仙圣地",
-    "大晋南部"
+    "大晋南部",
+    "晋国魔宗"
   ],
   "summary": "韩立在天南听闻的超级帝国，被誉为本界修士圣地，规模兴盛冠绝诸海域；大长老来自其湾南州。",
   "attributes": {
     "等级": "超级帝国",
     "理念": "本界修士圣地",
-    "据点": "晋京"
+    "据点": "晋京",
+    "阵营": "外来"
   },
   "observations": {
     "等级": [
@@ -42,6 +44,13 @@
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
       }
+    ],
+    "阵营": [
+      {
+        "value": "外来",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
+      }
     ]
   },
   "firstSeq": 577,
@@ -63,6 +72,12 @@
       "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
       "seq": 931
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-775-780-giant-ape-appears",
+      "dated": false,
+      "seq": 775
     }
   },
   "contested": false,
@@ -106,7 +121,8 @@
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-577-582-yinming-zhidi",
     "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
-    "plot.fanren-ch763-antian-zhanqian-anshou"
+    "plot.fanren-ch763-antian-zhanqian-anshou",
+    "plot.fanren-775-780-giant-ape-appears"
   ],
-  "updatedAt": "2026-06-17T12:23:53.576Z"
+  "updatedAt": "2026-06-17T12:40:00.414Z"
 }

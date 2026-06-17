@@ -3,7 +3,8 @@
   "type": "place",
   "name": "阗天城",
   "aliases": [
-    "阗天"
+    "阗天",
+    "慕兰阗天城"
   ],
   "summary": "虞国深山中的天南唯一修士之城、九国盟总坛，居民皆灵根修士，护城大阵为上元灭光阵，举办交易会。",
   "attributes": {
@@ -11,7 +12,7 @@
     "类型": "修士之城/交易总坛、巨城、修仙交易城、修士之城、城池、修士之城/总坛、巨城/交易会主办地、修士城市、禁制大城",
     "守护": "九国盟",
     "所属界面": "灵界",
-    "特产": "交易会珍品"
+    "特产": "仓库(储备)"
   },
   "observations": {
     "所属势力": [
@@ -108,6 +109,11 @@
         "value": "交易会珍品",
         "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
         "seq": 679
+      },
+      {
+        "value": "仓库(储备)",
+        "docId": "plot.fanren-775-780-giant-ape-appears",
+        "seq": 775
       }
     ]
   },
@@ -140,9 +146,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-678-683-hunshi-gulei-mihui",
+      "docId": "plot.fanren-775-780-giant-ape-appears",
       "dated": false,
-      "seq": 679
+      "seq": 775
     }
   },
   "contested": false,
@@ -165,7 +171,8 @@
     "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
     "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
-    "plot.fanren-ch763-antian-zhanqian-anshou"
+    "plot.fanren-ch763-antian-zhanqian-anshou",
+    "plot.fanren-775-780-giant-ape-appears"
   ],
-  "updatedAt": "2026-06-17T12:23:53.566Z"
+  "updatedAt": "2026-06-17T12:40:00.496Z"
 }
