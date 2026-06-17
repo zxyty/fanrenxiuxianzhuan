@@ -421,3 +421,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T07:23:26.923Z** `ingest` plot.fanren-571-576-wentianren-battle-guiwu — 凡人修仙传 第571-576章｜韩立大战温天仁、八门金光镜与鬼雾劫 · kind=plot asOf=2026-06-17 entities=27 relations=33 src=00571-00576.md
 - **2026-06-17T07:25:52.710Z** `ingest` plot.fanren-577-582-yinming-zhidi — 凡人修仙传 第577-582章｜坠入阴冥之地与高墙村落 · kind=plot asOf=2026-06-17 entities=16 relations=17 src=00577-00582.md
 - **2026-06-17T07:33:32.324Z** `ingest` plot.fanren-ch583-588-yinming-zhidi-meining-tongling — 凡人修仙传 第583-588章 阴冥之地：妖文石碑、力折封天极、梅凝献通灵之气 · kind=plot asOf=2026-06-17 entities=28 relations=30 src=00583-00588.md
+- **2026-06-17T07:36:01.000Z** `ingest` plot.fanren-ch588-593-yinming-leave-wubianhai — 凡人修仙传 第588-593章｜降灵符·啖魂·暴风山·脱离阴冥之地·重返天南 · kind=plot asOf=2026-06-17 entities=0 relations=0 src=00589-00594.md
