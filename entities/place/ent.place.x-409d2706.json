@@ -8,8 +8,9 @@
   "summary": "大晋晋京的大坊市，严禁修士在内动手施法，背后有三大道门、四大佛宗共同追杀违规者。",
   "attributes": {
     "所属界面": "大晋",
-    "类型": "坊市",
-    "守护": "三大道门、四大佛宗"
+    "类型": "坊市、修仙坊市",
+    "守护": "三大道门、四大佛宗",
+    "所属势力": "大晋修仙界"
   },
   "observations": {
     "所属界面": [
@@ -28,7 +29,7 @@
       {
         "value": "坊市",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
-        "seq": 937
+        "seq": 931
       },
       {
         "value": "修仙坊市",
@@ -41,6 +42,13 @@
         "value": "三大道门、四大佛宗",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大晋修仙界",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ]
   },
@@ -56,13 +64,19 @@
       "asOf": null,
       "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
-      "seq": 937
+      "seq": 931
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
       "seq": 937
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+      "dated": false,
+      "seq": 931
     }
   },
   "contested": false,
@@ -70,7 +84,8 @@
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T02:11:44.924Z"
+  "updatedAt": "2026-06-17T17:00:00.741Z"
 }

@@ -3,12 +3,14 @@
   "type": "person",
   "name": "王小姐",
   "aliases": [
-    "王师姐"
+    "王师姐",
+    "王大小姐"
   ],
   "summary": "曹梦容同门师姐，柱南将军侄女，炼气七层。",
   "attributes": {
     "性别": "女",
-    "小阶段": "炼气期七层"
+    "小阶段": "炼气期七层",
+    "身份": "柱南将军侄女、修仙者"
   },
   "observations": {
     "性别": [
@@ -22,6 +24,13 @@
       {
         "value": "炼气期七层",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      }
+    ],
+    "身份": [
+      {
+        "value": "柱南将军侄女、修仙者",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
         "seq": 931
       }
     ]
@@ -39,12 +48,19 @@
       "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
       "seq": 931
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+      "dated": false,
+      "seq": 931
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T01:29:15.200Z"
+  "updatedAt": "2026-06-17T16:59:51.570Z"
 }

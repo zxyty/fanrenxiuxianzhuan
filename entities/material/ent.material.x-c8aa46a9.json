@@ -20,7 +20,7 @@
   "attributes": {
     "类型": "修炼资源/货币",
     "用途": "修炼大补、布设法阵、施法增幅、恢复法力、交易/保命持久战、驱动古传送阵、催动上古法阵/禁制、补充元婴修士灵力、灵具供能、修炼、特殊交易、催动上古法阵/补充灵力",
-    "稀有度": "珍贵奢侈品、极稀有（天南近绝迹）、极稀有"
+    "稀有度": "珍贵奢侈品、极稀有（天南近绝迹）、极稀有、珍稀"
   },
   "observations": {
     "类型": [
@@ -38,6 +38,11 @@
         "value": "修炼资源/货币",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "灵石/材料",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ],
     "用途": [
@@ -107,6 +112,11 @@
         "value": "极稀有",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
+      },
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ]
   },
@@ -139,7 +149,8 @@
     "plot.fanren-ch362-nangong-ping",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-17T13:23:12.063Z"
+  "updatedAt": "2026-06-17T17:00:02.130Z"
 }

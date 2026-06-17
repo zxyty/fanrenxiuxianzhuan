@@ -10,7 +10,8 @@
   "attributes": {
     "小阶段": "元婴",
     "性别": "女",
-    "阵营": "正道"
+    "阵营": "正道",
+    "标志特征": "面泛紫光、化金虹疾遁"
   },
   "observations": {
     "小阶段": [
@@ -38,6 +39,13 @@
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
       }
+    ],
+    "标志特征": [
+      {
+        "value": "面泛紫光、化金虹疾遁",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
+      }
     ]
   },
   "firstSeq": 931,
@@ -59,13 +67,20 @@
       "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
       "seq": 931
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+      "dated": false,
+      "seq": 931
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T09:47:06.180Z"
+  "updatedAt": "2026-06-17T16:59:46.511Z"
 }

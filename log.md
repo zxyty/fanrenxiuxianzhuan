@@ -476,3 +476,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T16:32:53.661Z** `ingest` plot.fmxz-ch907-912-huorongjing-jinghua-yaodan — 凡人修仙传 第907-912章｜火熔晶·晶化妖丹·冯家密窟钥匙 · kind=plot asOf=2026-06-17 entities=37 relations=47 src=00907-00912.md
 - **2026-06-17T16:41:01.102Z** `ingest` plot.fanren-913-918-xueling-huangsha-zhan — 凡人修仙传 第913-918章｜雪岭山脉黄沙阵·韩立惊魔灭青袍 · kind=plot asOf=2026-06-17 entities=30 relations=38 src=00913-00918.md
 - **2026-06-17T16:48:45.771Z** `ingest` plot.fanren-919-924-ganjia-bailu-academy — 凡人修仙传 第919-924章｜韩立认亲甘家·投白露书院·皇清观招揽 · kind=plot asOf=2026-06-17 entities=34 relations=37 src=00919-00924.md
+- **2026-06-17T17:00:21.940Z** `ingest` plot.fanren-ch931-936-jinjing-auction-road — 凡人修仙传 第931-936章：盗火翎避追、擒土甲龙、赴晋京途遇故人 · kind=plot asOf=2026-06-17 entities=38 relations=42 src=00931-00936.md

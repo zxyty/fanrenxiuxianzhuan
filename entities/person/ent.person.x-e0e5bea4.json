@@ -4,14 +4,17 @@
   "name": "驼背老者",
   "aliases": [
     "须发皆白老车夫",
-    "孔家留守执事"
+    "孔家留守执事",
+    "吴老",
+    "驼背老车夫"
   ],
   "summary": "孔家在晋京的留守执事，筑基期，设伏擒‘枫岳’反被韩立梦引术掏空神识后化灰。",
   "attributes": {
     "小阶段": "筑基期",
     "身份": "孔家晋京留守执事",
     "存殁": "死亡",
-    "死因": "被韩立火球化灰"
+    "死因": "被韩立火球化灰、被韩立擒杀焚尸",
+    "外貌": "须发皆白驼背老翁"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +42,18 @@
       {
         "value": "被韩立火球化灰",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "被韩立擒杀焚尸",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
+      }
+    ],
+    "外貌": [
+      {
+        "value": "须发皆白驼背老翁",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
         "seq": 931
       }
     ]
@@ -68,12 +83,19 @@
       "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
       "seq": 931
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+      "dated": false,
+      "seq": 931
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T01:29:15.232Z"
+  "updatedAt": "2026-06-17T16:59:58.763Z"
 }

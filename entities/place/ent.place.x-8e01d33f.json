@@ -12,8 +12,8 @@
   ],
   "summary": "大晋修仙界京城，天机阁主商号及明暗交易会所在地。",
   "attributes": {
-    "所属界面": "大晋皇朝",
-    "类型": "大晋都城",
+    "所属界面": "大晋、大晋修仙界、大晋皇朝、人界",
+    "类型": "大晋都城、都城、凡人都城",
     "所属势力": "大晋皇朝",
     "守护": "八极分光阵"
   },
@@ -33,6 +33,11 @@
         "value": "大晋皇朝",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ],
     "类型": [
@@ -44,6 +49,11 @@
       {
         "value": "都城",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "凡人都城",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
         "seq": 931
       }
     ],
@@ -66,15 +76,15 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
-      "seq": 943
+      "seq": 931
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
-      "seq": 937
+      "seq": 931
     },
     "所属势力": {
       "asOf": null,
@@ -96,7 +106,8 @@
     "plot.fanren-931-936-anliu-jinjing-route",
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-ch949-miaoyin-baojing",
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T03:09:29.429Z"
+  "updatedAt": "2026-06-17T17:00:00.733Z"
 }

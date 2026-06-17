@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "炫烨王布下的鬼阵，连绵百里、吞噬低阶修士，配合数千筑基炼尸守墓。",
   "attributes": {
-    "效果": "困敌、吞噬低阶修士",
+    "效果": "困敌、吞噬低阶修士、连绵百里、吞噬修士、困敌",
     "布置者": "炫烨王"
   },
   "observations": {
@@ -18,6 +18,11 @@
       {
         "value": "吞噬低阶修士",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
+        "seq": 931
+      },
+      {
+        "value": "连绵百里、吞噬修士、困敌",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
         "seq": 931
       }
     ],
@@ -47,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T01:29:15.247Z"
+  "updatedAt": "2026-06-17T17:00:03.130Z"
 }

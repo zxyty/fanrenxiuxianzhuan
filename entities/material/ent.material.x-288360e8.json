@@ -4,13 +4,14 @@
   "name": "昊阳鸟长翎",
   "aliases": [
     "火翎",
-    "火羽"
+    "火羽",
+    "火焰长翎"
   ],
   "summary": "炼制三焰扇所需稀料，大晋岳阳宫曾有昊阳鸟，可往求。",
   "attributes": {
     "用途": "炼器材料",
     "产地": "昊阳鸟",
-    "类型": "灵禽羽翎",
+    "类型": "灵禽火属材料",
     "稀有度": "可遇不可求"
   },
   "observations": {
@@ -48,6 +49,11 @@
         "value": "炼器灵料",
         "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "灵禽火属材料",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ],
     "稀有度": [
@@ -74,9 +80,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-ch931-936-jinjing-auction-road",
       "dated": false,
-      "seq": 925
+      "seq": 931
     },
     "稀有度": {
       "asOf": null,
@@ -91,7 +97,8 @@
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-17T14:50:26.253Z"
+  "updatedAt": "2026-06-17T16:59:54.648Z"
 }

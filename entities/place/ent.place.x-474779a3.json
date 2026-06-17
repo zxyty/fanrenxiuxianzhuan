@@ -6,7 +6,7 @@
   "summary": "晋西坊市内古朴雄伟的三层巨型石殿，可容上千修士，将作为大拍卖会场所。",
   "attributes": {
     "所属势力": "晋西坊市",
-    "类型": "拍卖殿堂"
+    "类型": "拍卖会场所(三层石殿)、拍卖殿、拍卖殿堂、拍卖会场"
   },
   "observations": {
     "所属势力": [
@@ -31,6 +31,11 @@
         "value": "拍卖殿堂",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "拍卖会场",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ]
   },
@@ -44,9 +49,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "docId": "plot.fanren-931-936-anliu-jinjing-route",
       "dated": false,
-      "seq": 943
+      "seq": 931
     }
   },
   "contested": false,
@@ -54,7 +59,8 @@
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-16T02:11:44.923Z"
+  "updatedAt": "2026-06-17T17:00:00.748Z"
 }

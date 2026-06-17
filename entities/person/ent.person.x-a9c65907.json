@@ -21,8 +21,8 @@
     "身份": "上古帝王、尸王/天尸之体、老魔/尸王、天尸老魔/尸王、老魔、万年尸王/帝王炼尸",
     "性格": "凶残",
     "存殁": "存活",
-    "小阶段": "元婴后期",
-    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复、天尸之体快大成、本命尸焰、万年尸焰、修炼天尸决",
+    "小阶段": "元婴后期级、元婴、元婴后期、元婴中期",
+    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复、天尸之体快大成、本命尸焰、万年尸焰、修炼天尸决、吸魂吞丹魔功、元气恢复极快",
     "种族": "尸/万年尸王",
     "阵营": "魔道",
     "外貌": "长发紫黑、绿毛獠牙、利爪坚逾金铁",
@@ -115,6 +115,12 @@
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931,
         "note": "凭古墓依仗发挥；本身仅元婴中期"
+      },
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931,
+        "note": "依仗古墓时战力近元婴后期"
       }
     ],
     "标志特征": [
@@ -157,6 +163,11 @@
         "value": "修炼天尸决",
         "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
         "seq": 913
+      },
+      {
+        "value": "吸魂吞丹魔功、元气恢复极快",
+        "docId": "plot.fanren-ch931-936-jinjing-auction-road",
+        "seq": 931
       }
     ],
     "种族": [
@@ -222,10 +233,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-931-936-anliu-jinjing-route",
+      "docId": "plot.fanren-907-912-huorongjing-jinghua-yaodan",
       "dated": false,
-      "seq": 931,
-      "note": "凭古墓依仗发挥；本身仅元婴中期"
+      "seq": 907,
+      "note": "本体在墓中神通不下元婴后期；化身仅元婴初期"
     },
     "标志特征": {
       "asOf": null,
@@ -267,7 +278,8 @@
     "plot.fanren-913-918-xueling-huangsha-array",
     "plot.fanren-931-936-anliu-jinjing-route",
     "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
-    "plot.fanren-913-918-xueling-huangsha-zhan"
+    "plot.fanren-913-918-xueling-huangsha-zhan",
+    "plot.fanren-ch931-936-jinjing-auction-road"
   ],
-  "updatedAt": "2026-06-17T16:41:00.835Z"
+  "updatedAt": "2026-06-17T16:59:59.103Z"
 }
