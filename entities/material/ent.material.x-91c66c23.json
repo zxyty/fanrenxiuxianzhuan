@@ -9,8 +9,8 @@
   ],
   "summary": "坠魔谷中可杀人于无形的特殊元光，需两仪环阴环护身方能穿越。",
   "attributes": {
-    "类型": "天地异光、上古禁制之光、危险灵光、凶险光区、禁制灵光、元光幻阵禁制",
-    "用途": "封路杀阵",
+    "类型": "天地异光、上古禁制之光、危险灵光、凶险光区、禁制灵光、元光幻阵禁制、元光",
+    "用途": "可被阳环操纵杀敌、灭杀闯入者/守护内谷通道、封路杀阵、可被两仪环操纵杀敌",
     "产地": "坠魔谷亦有"
   },
   "observations": {
@@ -44,6 +44,11 @@
         "value": "元光幻阵禁制",
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
         "seq": 1021
+      },
+      {
+        "value": "元光",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "用途": [
@@ -61,6 +66,11 @@
         "value": "封路杀阵",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "可被两仪环操纵杀敌",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "产地": [
@@ -91,9 +101,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
       "dated": false,
-      "seq": 1015
+      "seq": 721
     },
     "产地": {
       "asOf": null,
@@ -109,7 +119,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-721-726-dianyi-linghu-yufu"
   ],
-  "updatedAt": "2026-06-16T04:46:03.705Z"
+  "updatedAt": "2026-06-17T11:03:39.241Z"
 }

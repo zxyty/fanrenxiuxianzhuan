@@ -443,3 +443,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T10:41:47.502Z** `ingest` plot.fanren-703-708-lianying-hezhongzhibao — 凡人修仙传 第703-708章｜炼婴·盒中之宝·路逢旧人 · kind=plot asOf=2026-06-17 entities=53 relations=50 src=00703-00708.md
 - **2026-06-17T10:43:49.261Z** `ingest` plot.fanren-709-714-hanli-disguise-infiltrate-yanyue-zong-nangongwan — 凡人修仙传 第708-713章｜韩立化形袁坤潜入掩月宗 与南宫婉重逢定情设伏 · kind=plot asOf=2026-06-17 entities=0 relations=0 src=00709-00714.md
 - **2026-06-17T10:56:02.012Z** `ingest` plot.fanren-714-shipo-yu-fuji — 凡人修仙传 第714章 识破与伏击——南宫婉、韩立合谋反击掩月宗大长老 · kind=plot asOf=2026-06-17 entities=47 relations=55 src=00715-00720.md
+- **2026-06-17T11:03:39.346Z** `ingest` plot.fanren-721-726-dianyi-linghu-yufu — 凡人修仙传 第721-726章｜九国盟殿议·令狐之邀·初见玉符 · kind=plot asOf=2026-06-17 entities=42 relations=42 src=00721-00726.md

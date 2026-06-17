@@ -11,14 +11,15 @@
     "堕魔谷",
     "外谷",
     "魔谷",
-    "坠魔谷一隅"
+    "坠魔谷一隅",
+    "天南第一险地"
   ],
   "summary": "天南第一凶地，传说中上古战场，空间裂缝紊乱、古阵禁制密布，入内寻宝者几无生还。",
   "attributes": {
     "所属界面": "人界天南",
-    "类型": "上古战场/凶地、凶险秘境、秘境/谷地、秘境、古险地、凶地秘境、秘谷、上古秘地、上古秘境、凶地/上古禁地、上古战场遗迹、秘境山谷、古魔封禁之地、险地秘境、秘境危地、秘境/谷、险地/魔物封印之地、上古遗迹/禁地、凶地、凶地秘谷、秘境凶地",
+    "类型": "上古战场/凶地、凶险秘境、秘境/谷地、秘境、古险地、凶地秘境、秘谷、上古秘地、上古秘境、凶地/上古禁地、上古战场遗迹、秘境山谷、古魔封禁之地、险地秘境、秘境危地、秘境/谷、险地/魔物封印之地、上古遗迹/禁地、凶地、凶地秘谷、秘境凶地、险地",
     "危险度": "天南第一凶地、极高、高、高（得其秘密恐成众矢之的）、天南第一险地、极高(天南第一凶地)、极高（紫纹蝎、隐形空间裂缝、熔岩火海）、内谷极高，外谷渐弱、内谷极危（空间裂缝）、高(血红闪电禁制、上古妖兽)",
-    "守护": "火蟾/北极元光/上古禁制、上古禁制、空间裂缝、上古禁制、空间裂缝、层层上古禁制、血色禁制、禁制光霞、三首乌蛇、北极元光、灵缈园、古魔、上古修士封印、上古妖魔、空间裂缝、禁制",
+    "守护": "火蟾/北极元光/上古禁制、上古禁制、空间裂缝、上古禁制、空间裂缝、层层上古禁制、血色禁制、禁制光霞、三首乌蛇、北极元光、灵缈园、古魔、上古修士封印、上古妖魔、空间裂缝、禁制、火蟾古兽",
     "特产": "灵烛果、上古火蟾兽妖丹、罡银沙、古修遗宝、火蟾兽妖丹、上古遗骸宝物、古宝、金阳芝、幻灵草等灭绝灵草、上古遗宝、延寿灵丹、功法、幻灵草、上古修士遗宝功法"
   },
   "observations": {
@@ -144,6 +145,11 @@
         "value": "秘境凶地",
         "docId": "plot.fanren-703-708-lianying-hezhongzhibao",
         "seq": 703
+      },
+      {
+        "value": "险地",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "危险度": [
@@ -212,12 +218,12 @@
       {
         "value": "上古禁制",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-        "seq": 799
+        "seq": 721
       },
       {
         "value": "空间裂缝",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
-        "seq": 799
+        "seq": 721
       },
       {
         "value": "层层上古禁制",
@@ -242,7 +248,7 @@
       {
         "value": "北极元光",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
-        "seq": 805
+        "seq": 721
       },
       {
         "value": "灵缈园",
@@ -263,6 +269,11 @@
         "value": "上古妖魔、空间裂缝、禁制",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "火蟾古兽",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "特产": [
@@ -405,7 +416,8 @@
     "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
     "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
     "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
-    "plot.fanren-703-708-lianying-hezhongzhibao"
+    "plot.fanren-703-708-lianying-hezhongzhibao",
+    "plot.fanren-721-726-dianyi-linghu-yufu"
   ],
-  "updatedAt": "2026-06-17T10:41:47.357Z"
+  "updatedAt": "2026-06-17T11:03:39.238Z"
 }

@@ -14,9 +14,9 @@
   "summary": "黄枫谷唯一太上长老，近千年来唯一元婴期修士，三百年前到元婴期，主持撤离越国之决。",
   "attributes": {
     "小阶段": "元婴中期",
-    "身份": "黄枫谷太上长老、黄枫谷老祖、黄枫谷尊长、黄枫谷坐镇老祖、黄枫谷祖师、黄枫谷元婴长老、老怪、某宗大长老、黄枫谷令狐老祖",
+    "身份": "黄枫谷太上长老、黄枫谷老祖、黄枫谷尊长、黄枫谷坐镇老祖、黄枫谷祖师、黄枫谷元婴长老、老怪、某宗大长老、黄枫谷令狐老祖、黄枫谷长老/老祖",
     "称号": "不老翁、老祖",
-    "寿元": "近千年",
+    "寿元": "近八百岁、至多再二十年、近千年、顶多再过二十年坐化",
     "外貌": "须发皆白、面容焦黄、相貌丑陋、锦衣老者、黄袍老者、黄袍、脸色焦黄",
     "阵营": "暂与韩立联手",
     "出身地": "黄枫谷",
@@ -87,6 +87,11 @@
         "value": "黄枫谷令狐老祖",
         "docId": "plot.fanren-714-shipo-yu-fuji",
         "seq": 715
+      },
+      {
+        "value": "黄枫谷长老/老祖",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "称号": [
@@ -117,6 +122,11 @@
         "value": "近千年",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "顶多再过二十年坐化",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "外貌": [
@@ -219,9 +229,9 @@
     },
     "寿元": {
       "asOf": null,
-      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+      "docId": "plot.fanren-ch344-formation-slays-mantis",
       "dated": false,
-      "seq": 835
+      "seq": 343
     },
     "外貌": {
       "asOf": null,
@@ -276,7 +286,8 @@
     "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
-    "plot.fanren-714-shipo-yu-fuji"
+    "plot.fanren-714-shipo-yu-fuji",
+    "plot.fanren-721-726-dianyi-linghu-yufu"
   ],
-  "updatedAt": "2026-06-17T10:56:01.818Z"
+  "updatedAt": "2026-06-17T11:03:39.200Z"
 }

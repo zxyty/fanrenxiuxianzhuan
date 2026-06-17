@@ -9,8 +9,8 @@
   "summary": "令狐老祖早年所得古宝，蓝濛濛晶亮、温软轻若无物、炼材不明，尤善克制火属性攻击；后赠予韩立。",
   "attributes": {
     "品阶": "古宝",
-    "能力": "防御、尤克火属性攻击",
-    "外形": "蓝濛濛晶亮小盾，温软轻若无物",
+    "能力": "防御、尤克火属性攻击、防御(尤克火属攻击)",
+    "外形": "蓝濛濛晶亮小盾，温软轻若无物、蓝濛濛晶亮小盾",
     "持有者": "韩立"
   },
   "observations": {
@@ -26,6 +26,11 @@
         "value": "防御、尤克火属性攻击",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      },
+      {
+        "value": "防御(尤克火属攻击)",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "外形": [
@@ -33,13 +38,18 @@
         "value": "蓝濛濛晶亮小盾，温软轻若无物",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      },
+      {
+        "value": "蓝濛濛晶亮小盾",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
+        "seq": 721
       }
     ],
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-769-774-border-war-6-8",
-        "seq": 769
+        "seq": 721
       }
     ]
   },
@@ -67,14 +77,15 @@
       "asOf": null,
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
-      "seq": 769
+      "seq": 721
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-721-726-dianyi-linghu-zhiyao",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-721-726-dianyi-linghu-yufu"
   ],
-  "updatedAt": "2026-06-15T03:47:18.067Z"
+  "updatedAt": "2026-06-17T11:03:39.218Z"
 }

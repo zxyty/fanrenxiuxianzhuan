@@ -8,16 +8,21 @@
   ],
   "summary": "令狐老祖独闯慕兰草原灭七级铁翅雕所得的妖兽内丹，盛于红色玉瓶，珍稀材料，可炼丹或他用。",
   "attributes": {
-    "类型": "妖兽内丹",
+    "类型": "妖兽内丹、七级妖兽内丹",
     "稀有度": "天南罕见",
     "产地": "慕兰草原",
-    "用途": "炼丹、他用"
+    "用途": "炼丹、他用、炼丹/他用"
   },
   "observations": {
     "类型": [
       {
         "value": "妖兽内丹",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "七级妖兽内丹",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
         "seq": 721
       }
     ],
@@ -44,6 +49,11 @@
       {
         "value": "他用",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+        "seq": 721
+      },
+      {
+        "value": "炼丹/他用",
+        "docId": "plot.fanren-721-726-dianyi-linghu-yufu",
         "seq": 721
       }
     ]
@@ -78,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-721-726-dianyi-linghu-zhiyao"
+    "plot.fanren-721-726-dianyi-linghu-zhiyao",
+    "plot.fanren-721-726-dianyi-linghu-yufu"
   ],
-  "updatedAt": "2026-06-15T02:35:06.546Z"
+  "updatedAt": "2026-06-17T11:03:39.220Z"
 }
