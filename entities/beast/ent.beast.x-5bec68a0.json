@@ -6,7 +6,8 @@
   "summary": "慕兰法士寻来的巨兽,令九国盟措手不及连连惨败。",
   "attributes": {
     "能力": "皮糙肉厚、披甲冲阵",
-    "主人": "陆夫人"
+    "主人": "陆夫人、慕兰法士",
+    "外形": "体形仿若小山"
   },
   "observations": {
     "能力": [
@@ -20,6 +21,18 @@
       {
         "value": "陆夫人",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "慕兰法士",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
+    ],
+    "外形": [
+      {
+        "value": "体形仿若小山",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
       }
     ]
@@ -37,13 +50,20 @@
       "docId": "plot.fanren-763-768-border-war-gamble-battle",
       "dated": false,
       "seq": 763
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
-    "plot.fanren-763-768-border-war-gamble-battle"
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-15T03:34:19.257Z"
+  "updatedAt": "2026-06-17T12:23:53.624Z"
 }

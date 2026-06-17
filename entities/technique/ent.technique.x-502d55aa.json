@@ -3,12 +3,15 @@
   "type": "technique",
   "name": "血罗罩",
   "aliases": [
-    "血罗罩秘术"
+    "血罗罩秘术",
+    "血罩",
+    "血罗罩血色光罩"
   ],
   "summary": "某魔道宗六大秘术之一，需牺牲十名服魔灵丹的血尸自爆催动，十人以分识控制，专于长时间困敌(号称困元婴半日)而不伤敌，坚韧诡异、神识与神雷皆难破。",
   "attributes": {
-    "效果": "困住元婴修士约半日、偏重困敌不伤敌",
-    "修炼条件": "牺牲十名圈养血尸+十人分识控制"
+    "效果": "困住元婴修士约半日、偏重困敌不伤敌、困敌、坚韧难破、辟邪神雷无效、神识探不入",
+    "修炼条件": "牺牲十名圈养血尸+十人分识控制",
+    "出处": "房宗主所属魔道宗门六大秘术之一"
   },
   "observations": {
     "效果": [
@@ -21,12 +24,39 @@
         "value": "偏重困敌不伤敌",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
         "seq": 763
+      },
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "坚韧难破",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "辟邪神雷无效",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "神识探不入",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "修炼条件": [
       {
         "value": "牺牲十名圈养血尸+十人分识控制",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      }
+    ],
+    "出处": [
+      {
+        "value": "房宗主所属魔道宗门六大秘术之一",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
       }
     ]
@@ -44,12 +74,19 @@
       "docId": "plot.fanren-763-768-border-war-gamble-battle",
       "dated": false,
       "seq": 763
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-763-768-border-war-gamble-battle"
+    "plot.fanren-763-768-border-war-gamble-battle",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-15T03:34:19.247Z"
+  "updatedAt": "2026-06-17T12:23:53.639Z"
 }

@@ -18,7 +18,7 @@
     "称号": "神师",
     "外貌": "中年儒生",
     "标志特征": "可分出两具气息修为相同的化身、三化身（本体+两化身）、缩地术",
-    "阵营": "慕兰族"
+    "阵营": "慕兰法士、慕兰、慕兰族、慕兰/魔道一方"
   },
   "observations": {
     "性别": [
@@ -110,6 +110,11 @@
         "value": "慕兰族",
         "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
         "seq": 823
+      },
+      {
+        "value": "慕兰/魔道一方",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -159,9 +164,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 823
+      "seq": 757
     }
   },
   "contested": false,
@@ -173,7 +178,8 @@
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
     "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T12:10:50.331Z"
+  "updatedAt": "2026-06-17T12:23:53.637Z"
 }

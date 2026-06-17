@@ -3,14 +3,15 @@
   "type": "person",
   "name": "毕姓矮子",
   "aliases": [
-    "毕兄"
+    "毕兄",
+    "矮子神师"
   ],
   "summary": "慕兰一方法士，身高不到四尺，负责巨兽配合。",
   "attributes": {
-    "种族": "慕兰",
-    "阵营": "慕兰",
+    "种族": "慕兰族",
+    "阵营": "慕兰法士、慕兰、慕兰/魔道一方",
     "外貌": "矮子",
-    "身份": "慕兰神师"
+    "身份": "慕兰神师、慕兰三大神师之一"
   },
   "observations": {
     "种族": [
@@ -18,6 +19,11 @@
         "value": "慕兰",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "阵营": [
@@ -29,6 +35,11 @@
       {
         "value": "慕兰",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "慕兰/魔道一方",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
       }
     ],
@@ -49,6 +60,11 @@
         "value": "慕兰神师",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
         "seq": 763
+      },
+      {
+        "value": "慕兰三大神师之一",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -56,15 +72,15 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 757
+      "seq": 763
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 763
+      "seq": 757
     },
     "外貌": {
       "asOf": null,
@@ -84,7 +100,8 @@
   "docs": [
     "plot.fanren-757-762-gengjing-jiangling-fu",
     "plot.fanren-763-768-border-war-gamble-battle",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T12:10:50.333Z"
+  "updatedAt": "2026-06-17T12:23:53.638Z"
 }

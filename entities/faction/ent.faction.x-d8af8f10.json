@@ -8,7 +8,7 @@
   "summary": "龙晗所属门派。",
   "attributes": {
     "阵营": "天南",
-    "镇派之宝": "上古符箓"
+    "镇派之宝": "上古符箓、上古玉符"
   },
   "observations": {
     "阵营": [
@@ -27,6 +27,11 @@
       {
         "value": "上古符箓",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "上古玉符",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
       }
     ]
@@ -51,7 +56,8 @@
   "docs": [
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-763-768-border-war-gamble-battle",
-    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T11:54:02.512Z"
+  "updatedAt": "2026-06-17T12:23:53.663Z"
 }

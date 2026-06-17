@@ -11,13 +11,14 @@
   "summary": "合欢宗大长老，黑袍狰狞，阴寒魔气惊人；功法实为近似鬼灵门的魔功，仍顶合欢老魔之名。本次聚会三主持之一，负责弹压秩序。",
   "attributes": {
     "小阶段": "元婴、元婴后期",
-    "阵营": "魔道/合欢宗、天南、魔道、合欢宗、魔道(合欢宗)",
+    "阵营": "魔道/合欢宗、天南、魔道、合欢宗、魔道(合欢宗)、魔道六宗、天南修士(魔道)",
     "称号": "魔道第一修士",
     "标志特征": "黑袍、相貌狰狞、阴寒魔功",
-    "身份": "魔修、合欢宗修士、合欢宗大长老/三大修士之一",
+    "身份": "魔修、合欢宗修士、合欢宗大长老/三大修士之一、合欢宗魔修、天南三大修士之一",
     "外貌": "黑袍大汉",
     "性别": "男",
-    "性格": "阴险设局"
+    "性格": "阴险设局",
+    "出身地": "魔道"
   },
   "observations": {
     "小阶段": [
@@ -57,6 +58,16 @@
         "value": "魔道(合欢宗)",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "魔道六宗",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "天南修士(魔道)",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "称号": [
@@ -103,6 +114,16 @@
         "value": "合欢宗大长老/三大修士之一",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "合欢宗魔修",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "天南三大修士之一",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "外貌": [
@@ -129,6 +150,13 @@
         "value": "阴险设局",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      }
+    ],
+    "出身地": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -181,6 +209,12 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
@@ -192,7 +226,8 @@
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T12:10:50.230Z"
+  "updatedAt": "2026-06-17T12:23:53.635Z"
 }

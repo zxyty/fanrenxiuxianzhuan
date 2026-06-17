@@ -450,3 +450,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T11:45:24.991Z** `ingest` plot.fanren-ch745-750-huigui-mingzhen-yifang — 凡人修仙传 第745-750章｜回归·义妹·条件 · kind=plot asOf=2026-06-17 entities=43 relations=45 src=00745-00750.md
 - **2026-06-17T11:54:02.636Z** `update` plot.fanren-751-756-huayan-leizhu-yunlu-laomo — 凡人修仙传 第751-756章｜化焰·雷珠·云露老魔 · kind=plot asOf=2026-06-17 entities=52 relations=56 src=00751-00756.md
 - **2026-06-17T12:10:50.561Z** `ingest` plot.fanren-757-bingxuecan-yu-gengjing — 凡人修仙传 第757章 冰雪蚕与庚精 · kind=plot asOf=2026-06-17 entities=55 relations=64 src=00757-00762.md
+- **2026-06-17T12:23:53.811Z** `ingest` plot.fanren-ch763-antian-zhanqian-anshou — 凡人修仙传 第763章 暗手：天南四大势力密谋洗劫阗天城资源仓库 · kind=plot asOf=2026-06-17 entities=54 relations=56 src=00763-00768.md

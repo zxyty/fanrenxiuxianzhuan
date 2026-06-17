@@ -10,10 +10,10 @@
   ],
   "summary": "岳麓殿入口与内部大厅相连的传送法阵，正常使用收一块低阶灵石。",
   "attributes": {
-    "效果": "瞬间传送、传送、远距传送、送修士回内星海、传送回内海、短距传送、传送至外星海、外星海传送回内星海、外海→内海皇明岛远距离传送",
+    "效果": "瞬间传送、传送、远距传送、送修士回内星海、传送回内海、短距传送、传送至外星海、外星海传送回内星海、外海→内海皇明岛远距离传送、传送入城",
     "出处": "妙音门",
     "破解法": "需幻梦石补全部位",
-    "布置者": "妙音门",
+    "布置者": "魏无涯",
     "品阶": "简陋/短程"
   },
   "observations": {
@@ -62,6 +62,11 @@
         "value": "外海→内海皇明岛远距离传送",
         "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
         "seq": 553
+      },
+      {
+        "value": "传送入城",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "出处": [
@@ -98,6 +103,11 @@
         "value": "妙音门",
         "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
         "seq": 535
+      },
+      {
+        "value": "魏无涯",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "品阶": [
@@ -130,9 +140,9 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.fanren-535-540-miyin-jiuji-yaoshou-xiaoxi",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 535
+      "seq": 763
     },
     "品阶": {
       "asOf": null,
@@ -153,7 +163,8 @@
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-ch499-504-nanming-island",
     "plot.fanren-535-540-mishi-wen-siyue",
-    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T07:04:32.859Z"
+  "updatedAt": "2026-06-17T12:23:53.588Z"
 }

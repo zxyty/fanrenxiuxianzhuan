@@ -4,11 +4,13 @@
   "name": "天煞宗",
   "aliases": [
     "天煞真君所属宗门",
-    "天煞宗宗主"
+    "天煞宗宗主",
+    "魔道天煞宗"
   ],
   "summary": "魔道六宗之一，黄衣修士群攻四煞阵。",
   "attributes": {
-    "阵营": "魔道"
+    "阵营": "天南魔道",
+    "镇派之宝": "回煞丸"
   },
   "observations": {
     "阵营": [
@@ -16,6 +18,18 @@
         "value": "魔道",
         "docId": "plot.fanren-ch266-jidou",
         "seq": 265
+      },
+      {
+        "value": "天南魔道",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "回煞丸",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -23,9 +37,15 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch266-jidou",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 265
+      "seq": 763
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
@@ -34,7 +54,8 @@
     "plot.fanren-ch266-jidou",
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
-    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T09:52:04.717Z"
+  "updatedAt": "2026-06-17T12:23:53.619Z"
 }

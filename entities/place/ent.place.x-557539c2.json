@@ -1,0 +1,55 @@
+{
+  "id": "ent.place.x-557539c2",
+  "type": "place",
+  "name": "资源仓库",
+  "aliases": [
+    "秘密仓库"
+  ],
+  "summary": "慕兰人集中存放各部族家底灵石材料之处，布禁制大阵、数名大上师把守。",
+  "attributes": {
+    "守护": "禁制大阵、大上师",
+    "类型": "仓库"
+  },
+  "observations": {
+    "守护": [
+      {
+        "value": "禁制大阵",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "大上师",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
+    ],
+    "类型": [
+      {
+        "value": "仓库",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
+    ]
+  },
+  "firstSeq": 763,
+  "attrProvenance": {
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch763-antian-zhanqian-anshou"
+  ],
+  "updatedAt": "2026-06-17T12:23:53.571Z"
+}

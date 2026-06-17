@@ -4,14 +4,18 @@
   "name": "天恨老怪",
   "aliases": [
     "天恨老鬼",
-    "天恨老怪物"
+    "天恨老怪物",
+    "天恨道友",
+    "天恨",
+    "鹰眼秃头白须老者"
   ],
   "summary": "天南散修出身的高阶元婴怪物，修为高深、行事肆无忌惮，许多天南大派深为忌惮；被二长老引为散修成婴者难惹的例子。",
   "attributes": {
     "身份": "散修",
     "称号": "老怪、天恨老怪",
     "小阶段": "元婴中期",
-    "性格": "独来独往"
+    "性格": "与各大宗派交恶、热衷开宗立派",
+    "外貌": "鹰眼秃头白须、套翠绿玉指环"
   },
   "observations": {
     "身份": [
@@ -50,6 +54,18 @@
         "value": "神通广大",
         "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
+      },
+      {
+        "value": "与各大宗派交恶、热衷开宗立派",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
+    ],
+    "外貌": [
+      {
+        "value": "鹰眼秃头白须、套翠绿玉指环",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -75,9 +91,15 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 751
+      "seq": 763
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
@@ -85,7 +107,8 @@
   "docs": [
     "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T11:54:02.502Z"
+  "updatedAt": "2026-06-17T12:23:53.538Z"
 }

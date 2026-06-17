@@ -5,15 +5,17 @@
   "aliases": [
     "黑袍男子",
     "易兄(误,见合欢老魔)",
-    "房兄"
+    "房兄",
+    "天南第一魔修(慕兰方所称对手?)"
   ],
   "summary": "大晋阴罗宗宗主，瞳孔可化碧绿，携巨兽与铜甲炼尸助慕兰，索取生魂修复鬼罗幡。",
   "attributes": {
-    "身份": "魔道宗主",
+    "身份": "阴罗宗宗主、魔道宗主、魔道宗门宗主",
     "阵营": "大晋魔宗、慕兰联军、魔道、阴罗宗",
-    "标志特征": "瞳孔变碧绿、周身阴森寒气、黑袍、眼中绿光、瞳孔变碧绿、阴森寒气",
+    "标志特征": "瞳孔变碧绿、周身阴森寒气、黑袍、眼中绿光、瞳孔变碧绿、阴森寒气、眼中绿光、黑气罩体",
     "小阶段": "元婴后期",
-    "外貌": "五官端正的年轻男子"
+    "外貌": "五官端正的年轻男子",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -26,6 +28,11 @@
       {
         "value": "魔道宗主",
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
+        "seq": 763
+      },
+      {
+        "value": "魔道宗门宗主",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
         "seq": 763
       }
     ],
@@ -66,6 +73,16 @@
         "value": "瞳孔变碧绿、阴森寒气",
         "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
+      },
+      {
+        "value": "眼中绿光",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "黑气罩体",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "小阶段": [
@@ -82,15 +99,23 @@
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      }
     ]
   },
   "firstSeq": 757,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-763-768-border-war-gamble-battle",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 763
+      "seq": 757,
+      "note": "韩立推测，未完全肯定"
     },
     "阵营": {
       "asOf": null,
@@ -116,6 +141,12 @@
       "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
       "dated": false,
       "seq": 781
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+      "dated": false,
+      "seq": 763
     }
   },
   "contested": false,
@@ -125,7 +156,8 @@
     "plot.fanren-763-768-border-war-gamble-battle",
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-ch943-jinjing-extortion-backstab",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T12:10:50.335Z"
+  "updatedAt": "2026-06-17T12:23:53.631Z"
 }

@@ -4,11 +4,12 @@
   "name": "正道盟",
   "aliases": [
     "风都国正道盟",
-    "正道盟一方"
+    "正道盟一方",
+    "盟"
   ],
   "summary": "风都国的正道联盟,玄夜关切其在魔道攻势下的动向。",
   "attributes": {
-    "阵营": "正道",
+    "阵营": "天南正道",
     "据点": "风都国"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "正道",
         "docId": "plot.fanren-ch254-yanjia-laozu",
         "seq": 253
+      },
+      {
+        "value": "天南正道",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "据点": [
@@ -31,9 +37,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 253
+      "seq": 763
     },
     "据点": {
       "asOf": null,
@@ -57,7 +63,8 @@
     "plot.fanren-ch625-630-three-sects-sword-trial-forbidden-land",
     "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
     "plot.fanren-714-shipo-yu-fuji",
-    "plot.fanren-757-bingxuecan-yu-gengjing"
+    "plot.fanren-757-bingxuecan-yu-gengjing",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T12:10:50.286Z"
+  "updatedAt": "2026-06-17T12:23:53.620Z"
 }

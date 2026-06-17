@@ -11,11 +11,11 @@
   ],
   "summary": "魔道门派，数千年前在越国埋下灵兽山这一潜伏暗桩。",
   "attributes": {
-    "阵营": "魔道、魔道六宗之一、天南/九国盟、天南一方参战、天南",
+    "阵营": "魔道、魔道六宗之一、天南/九国盟、天南一方参战、天南、魔道/天南方参战",
     "所属界面": "天都国",
     "理念": "御灵/驯兽、驱使灵虫灵兽、控虫之道、驱虫术名闻天南、驱使灵虫灵兽、控虫之道闻名天南",
     "据点": "奇灵山、元武国、天罗国奇灵山、越国",
-    "镇派之宝": "至木灵婴等五行灵婴、灵虫(毒蛾)、五行灵婴秘法、至木灵婴（速成元婴秘术）、驱虫术、虫甲术"
+    "镇派之宝": "至木灵婴等五行灵婴、灵虫(毒蛾)、五行灵婴秘法、至木灵婴（速成元婴秘术）、驱虫术、虫甲术、镇宗三兽、精养灵兽"
   },
   "observations": {
     "阵营": [
@@ -43,6 +43,11 @@
         "value": "天南",
         "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
+      },
+      {
+        "value": "魔道/天南方参战",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "所属界面": [
@@ -126,6 +131,16 @@
         "value": "虫甲术",
         "docId": "plot.fanren-666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "镇宗三兽",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
+      },
+      {
+        "value": "精养灵兽",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ]
   },
@@ -194,7 +209,8 @@
     "plot.fanren-666-liuyu",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
-    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T11:54:02.514Z"
+  "updatedAt": "2026-06-17T12:23:53.661Z"
 }

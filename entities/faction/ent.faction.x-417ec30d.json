@@ -11,7 +11,7 @@
   "attributes": {
     "阵营": "魔门",
     "镇派之宝": "阴阳魔尸（黑白双棺）",
-    "理念": "采补之道",
+    "理念": "魔道第一宗",
     "据点": "灵凤岛"
   },
   "observations": {
@@ -47,6 +47,11 @@
         "value": "阴阳魔尸（黑白双棺）",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "阴阳双魔",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "理念": [
@@ -54,6 +59,11 @@
         "value": "采补之道",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "魔道第一宗",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "据点": [
@@ -80,9 +90,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
       "dated": false,
-      "seq": 751
+      "seq": 763
     },
     "据点": {
       "asOf": null,
@@ -114,7 +124,8 @@
     "lore.xuanmu-huaying-second-yuanying-technique",
     "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
     "plot.fanren-666-liuyu",
-    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-17T11:54:02.513Z"
+  "updatedAt": "2026-06-17T12:23:53.618Z"
 }

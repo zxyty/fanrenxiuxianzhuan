@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "慕兰联军一方，将本宗蛮荒巨兽借予枯瘦老者用于冲阵。",
   "attributes": {
-    "阵营": "阴罗宗",
+    "阵营": "慕兰联军、阴罗宗、慕兰/魔道一方",
     "标志特征": "黑袍",
     "性别": "女",
     "外貌": "黑袍"
@@ -21,6 +21,11 @@
         "value": "阴罗宗",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "慕兰/魔道一方",
+        "docId": "plot.fanren-ch763-antian-zhanqian-anshou",
+        "seq": 763
       }
     ],
     "标志特征": [
@@ -34,7 +39,7 @@
       {
         "value": "女",
         "docId": "plot.fanren-769-774-border-war-6-8",
-        "seq": 769
+        "seq": 763
       }
     ],
     "外貌": [
@@ -49,9 +54,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-763-768-border-war-gamble-battle",
       "dated": false,
-      "seq": 769
+      "seq": 763
     },
     "标志特征": {
       "asOf": null,
@@ -63,7 +68,7 @@
       "asOf": null,
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
-      "seq": 769
+      "seq": 763
     },
     "外貌": {
       "asOf": null,
@@ -76,7 +81,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-763-768-border-war-gamble-battle",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-ch763-antian-zhanqian-anshou"
   ],
-  "updatedAt": "2026-06-15T03:47:18.083Z"
+  "updatedAt": "2026-06-17T12:23:53.636Z"
 }
