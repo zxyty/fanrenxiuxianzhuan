@@ -2,16 +2,26 @@
   "id": "ent.technique.x-4cbf2001",
   "type": "technique",
   "name": "云雪决",
-  "aliases": [],
+  "aliases": [
+    "云雪诀"
+  ],
   "summary": "白姓妇人所修神通，对付法士旗开得胜。",
   "attributes": {
-    "五行属性": "冰/水属性"
+    "五行属性": "冰/水属性",
+    "效果": "对付慕兰法士有奇效"
   },
   "observations": {
     "五行属性": [
       {
         "value": "冰/水属性",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "效果": [
+      {
+        "value": "对付慕兰法士有奇效",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
       }
     ]
@@ -23,12 +33,19 @@
       "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
       "seq": 757
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+      "dated": false,
+      "seq": 757
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-15T03:26:48.340Z"
+  "updatedAt": "2026-06-17T12:10:50.240Z"
 }

@@ -449,3 +449,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T11:37:17.886Z** `ingest` plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe — 凡人修仙传 第739-744章｜破阵大战(四)~(六)：韩立大战慕兰绿衫女法士 · kind=plot asOf=2026-06-17 entities=35 relations=47 src=00739-00744.md
 - **2026-06-17T11:45:24.991Z** `ingest` plot.fanren-ch745-750-huigui-mingzhen-yifang — 凡人修仙传 第745-750章｜回归·义妹·条件 · kind=plot asOf=2026-06-17 entities=43 relations=45 src=00745-00750.md
 - **2026-06-17T11:54:02.636Z** `update` plot.fanren-751-756-huayan-leizhu-yunlu-laomo — 凡人修仙传 第751-756章｜化焰·雷珠·云露老魔 · kind=plot asOf=2026-06-17 entities=52 relations=56 src=00751-00756.md
+- **2026-06-17T12:10:50.561Z** `ingest` plot.fanren-757-bingxuecan-yu-gengjing — 凡人修仙传 第757章 冰雪蚕与庚精 · kind=plot asOf=2026-06-17 entities=55 relations=64 src=00757-00762.md

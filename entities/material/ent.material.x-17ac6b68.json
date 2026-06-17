@@ -3,13 +3,14 @@
   "type": "material",
   "name": "庚精",
   "aliases": [
-    "锐金之宝"
+    "锐金之宝",
+    "淡金色石头"
   ],
   "summary": "韩立此行求购的稀有材料，价值远高于六级妖丹千灵草；众元婴竟多不知其消息。",
   "attributes": {
-    "稀有度": "极稀有、数百年难遇、稀有、稀罕、罕见、极罕见、极难大量寻得、珍稀",
-    "类型": "炼器材料",
-    "用途": "掺入飞剑/施展大庚剑阵、炼制法宝/祭炼大庚剑阵、掺炼飞剑、掺炼飞剑增威、掺入飞剑炼制大庚剑阵、炼制青竹蜂云剑、炼制飞剑/剑阵、增强飞剑锋锐、掺入刀剑法宝提升锋利、炼制大庚剑阵、强化飞剑/布大庚剑阵、炼制法宝/大庚剑阵、炼制法宝、祭炼大庚剑阵",
+    "稀有度": "极稀有、数百年难遇、稀有、稀罕、罕见、极罕见、极难大量寻得、珍稀、价值不菲",
+    "类型": "炼宝材料、炼器灵材、炼器灵料、金属性矿石、炼器材料、锐金之宝、稀有材料、锐金之宝/上古天材地宝、炼器矿材",
+    "用途": "掺入飞剑/施展大庚剑阵、炼制法宝/祭炼大庚剑阵、掺炼飞剑、掺炼飞剑增威、掺入飞剑炼制大庚剑阵、炼制青竹蜂云剑、炼制飞剑/剑阵、增强飞剑锋锐、掺入刀剑法宝提升锋利、炼制大庚剑阵、强化飞剑/布大庚剑阵、炼制法宝/大庚剑阵、炼制法宝、祭炼大庚剑阵、掺入飞剑炼制、炼制飞剑",
     "产地": "蛮胡子藏宝"
   },
   "observations": {
@@ -53,6 +54,11 @@
         "value": "珍稀",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "价值不菲",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "类型": [
@@ -79,7 +85,7 @@
       {
         "value": "炼器材料",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
-        "seq": 1219
+        "seq": 757
       },
       {
         "value": "锐金之宝",
@@ -95,6 +101,11 @@
         "value": "锐金之宝/上古天材地宝",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
+      },
+      {
+        "value": "炼器矿材",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "用途": [
@@ -157,6 +168,16 @@
         "value": "炼制法宝、祭炼大庚剑阵",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "掺入飞剑炼制",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      },
+      {
+        "value": "炼制飞剑",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "产地": [
@@ -177,9 +198,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
       "dated": false,
-      "seq": 1219
+      "seq": 643
     },
     "用途": {
       "asOf": null,
@@ -209,7 +230,8 @@
     "plot.fanren-642-dianfeng-peiyuan-gong",
     "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
     "plot.fanren-678-683-hunshi-gulei-mihui",
-    "plot.fanren-ch745-750-huigui-mingzhen-yifang"
+    "plot.fanren-ch745-750-huigui-mingzhen-yifang",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-17T11:54:02.518Z"
+  "updatedAt": "2026-06-17T12:10:50.269Z"
 }

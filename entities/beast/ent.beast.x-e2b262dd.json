@@ -5,12 +5,15 @@
   "aliases": [
     "冰雪蚕",
     "雪蚕",
-    "青王蚕蚕蛹"
+    "青王蚕蚕蛹",
+    "成年雪蚕"
   ],
   "summary": "奇虫榜冰雪蚕之极品，于寒冰洞冰层深处发现；对敌威力不大但有不可思议神通。",
   "attributes": {
-    "等级": "奇虫榜冰雪蚕极品",
-    "栖息地": "寒冰洞冰层深处"
+    "等级": "奇虫榜冰雪蚕极品、奇虫榜靠后",
+    "栖息地": "寒冰洞冰层深处",
+    "能力": "不可思议的神通",
+    "外形": "通体晶莹半透明蚕蛹，散发白气与极寒冰气"
   },
   "observations": {
     "等级": [
@@ -18,12 +21,31 @@
         "value": "奇虫榜冰雪蚕极品",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
+      },
+      {
+        "value": "奇虫榜靠后",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "栖息地": [
       {
         "value": "寒冰洞冰层深处",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      }
+    ],
+    "能力": [
+      {
+        "value": "不可思议的神通",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      }
+    ],
+    "外形": [
+      {
+        "value": "通体晶莹半透明蚕蛹，散发白气与极寒冰气",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
       }
     ]
@@ -41,12 +63,25 @@
       "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
       "seq": 757
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+      "dated": false,
+      "seq": 757
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+      "dated": false,
+      "seq": 757
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-15T03:26:48.338Z"
+  "updatedAt": "2026-06-17T12:10:50.231Z"
 }

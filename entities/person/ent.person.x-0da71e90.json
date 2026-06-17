@@ -6,7 +6,7 @@
   "summary": "阴罗宗女修，声音粗哑，提出索取『会放金弧』的修士（韩立）交本宗处理。",
   "attributes": {
     "性别": "女",
-    "阵营": "大晋魔宗",
+    "阵营": "大晋魔宗、阴罗宗",
     "标志特征": "声音又粗又哑"
   },
   "observations": {
@@ -21,6 +21,11 @@
       {
         "value": "大晋魔宗",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+        "seq": 757
+      },
+      {
+        "value": "阴罗宗",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-15T03:26:48.364Z"
+  "updatedAt": "2026-06-17T12:10:50.336Z"
 }

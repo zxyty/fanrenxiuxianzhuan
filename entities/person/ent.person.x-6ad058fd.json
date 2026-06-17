@@ -5,14 +5,18 @@
   "aliases": [
     "南宫道友",
     "白衫妇人",
-    "白姓白衫妇人"
+    "白姓白衫妇人",
+    "秀丽妇人",
+    "艳冷妇人"
   ],
   "summary": "孤身散修弱女子，神通云雪决，得青王蚕后答应参加赌战；与至阳上人有旧怨。",
   "attributes": {
     "性别": "女",
     "身份": "散修",
     "外貌": "白衫秀美妇人",
-    "阵营": "韩立一方"
+    "阵营": "韩立一方",
+    "性格": "冷漠不客气",
+    "标志特征": "修炼云雪决"
   },
   "observations": {
     "性别": [
@@ -42,6 +46,20 @@
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
       }
+    ],
+    "性格": [
+      {
+        "value": "冷漠不客气",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "修炼云雪决",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      }
     ]
   },
   "firstSeq": 757,
@@ -69,13 +87,26 @@
       "docId": "plot.fanren-769-774-border-war-6-8",
       "dated": false,
       "seq": 769
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+      "dated": false,
+      "seq": 757
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+      "dated": false,
+      "seq": 757
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-757-762-gengjing-jiangling-fu",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-15T03:47:18.097Z"
+  "updatedAt": "2026-06-17T12:10:50.227Z"
 }

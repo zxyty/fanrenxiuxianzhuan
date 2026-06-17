@@ -21,8 +21,8 @@
   "summary": "阴罗宗镇宗之宝，被正道击毁数杆，急需大量生魂修复，乃其参战之由。",
   "attributes": {
     "来历": "大晋昆吾山之行所夺",
-    "禁制": "无法认主",
-    "持有者": "阴罗宗",
+    "禁制": "需大量生魂修复、无法认主、以生魂修复",
+    "持有者": "第二元婴",
     "能力": "阴魂丝、召鬼火骷髅头、天昏地暗阴风鬼雾、放出元阴魔头/骷髅头、鬼火抗辟邪神雷、护主收容、灌注精纯魔气救治、吸纳魔气、吸纳鬼气自修复、抽取元神、炼制元阴魔头、炼妖尸、护身光幕、放出魔云吞没法宝、断敌法宝联系、催生魔云魔气、召厉鬼、黑雾魔气护体、集十八杆显真威、聚齐十八杆威力难以想象、藏精魂/阴魂、蕴养生魂",
     "外形": "碧绿巨幡，幡面布满人形面孔，缺一角、由碧绿转通体乌黑、乌黑小幡，可涨为数丈巨幡、幡、漆黑如墨小幡",
     "品阶": "镇宗之宝",
@@ -86,6 +86,11 @@
         "value": "无法认主",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "以生魂修复",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "持有者": [
@@ -118,7 +123,7 @@
       {
         "value": "阴罗宗",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
-        "seq": 1219
+        "seq": 757
       }
     ],
     "能力": [
@@ -285,15 +290,15 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 871
+      "seq": 757
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
       "dated": false,
-      "seq": 1219
+      "seq": 1177
     },
     "能力": {
       "asOf": null,
@@ -342,7 +347,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-16T09:33:28.355Z"
+  "updatedAt": "2026-06-17T12:10:50.342Z"
 }

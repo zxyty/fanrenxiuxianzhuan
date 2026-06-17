@@ -14,10 +14,10 @@
   ],
   "summary": "慕兰草原附近正魔发现的上古枯萎仙藤，可用灵眼之树醇液浇灌枯木回春。",
   "attributes": {
-    "类型": "上古仙藤、仙藤、上古藤蔓类灵根、灵藤、仙灵植物、玄天灵木/灵根",
+    "类型": "上古仙藤、仙藤、上古藤蔓类灵根、灵藤、仙灵植物、玄天灵木/灵根、上古灵根、顶阶炼器材料",
     "产地": "慕兰草原、坠魔谷内谷、慕兰草原附近",
-    "用途": "三派欲救活之灵物、顶阶炼器材料/滋养木灵气、待救活、炼器材料、灵花灵果具无视天地法则之逆天神通、藤木本身为普通炼器材料、灵眼之树醇液浇灌可枯木回春、三派至宝",
-    "稀有度": "逆天级（一界仅四五株）"
+    "用途": "三派欲救活之灵物、顶阶炼器材料/滋养木灵气、待救活、炼器材料、灵花灵果具无视天地法则之逆天神通、藤木本身为普通炼器材料、灵眼之树醇液浇灌可枯木回春、三派至宝、炼制木属性法宝、滋养木灵气",
+    "稀有度": "逆天级、稀有、逆天级（一界仅四五株）、逆天级/失传"
   },
   "observations": {
     "类型": [
@@ -50,6 +50,16 @@
         "value": "玄天灵木/灵根",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "上古灵根",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      },
+      {
+        "value": "顶阶炼器材料",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "产地": [
@@ -109,6 +119,16 @@
         "value": "三派至宝",
         "docId": "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
         "seq": 631
+      },
+      {
+        "value": "炼制木属性法宝",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
+      },
+      {
+        "value": "滋养木灵气",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ],
     "稀有度": [
@@ -126,6 +146,11 @@
         "value": "逆天级（一界仅四五株）",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "逆天级/失传",
+        "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
+        "seq": 757
       }
     ]
   },
@@ -151,9 +176,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
       "dated": false,
-      "seq": 1243
+      "seq": 757
     }
   },
   "contested": false,
@@ -165,7 +190,8 @@
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-757-bingxuecan-yu-gengjing"
   ],
-  "updatedAt": "2026-06-17T08:44:02.047Z"
+  "updatedAt": "2026-06-17T12:10:50.270Z"
 }
