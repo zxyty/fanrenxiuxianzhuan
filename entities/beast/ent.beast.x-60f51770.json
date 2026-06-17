@@ -9,7 +9,7 @@
   ],
   "summary": "二级妖兽，体形丈许、头生赤色肉冠、浑身淡淡青光，擅长群体配合围猎，追杀青灵门弟子，被韩立的巨猿傀儡灭杀。",
   "attributes": {
-    "等级": "二级妖兽",
+    "等级": "二级妖兽、二级",
     "外形": "丈许灰色怪鸟、赤色肉冠",
     "能力": "群体配合围猎"
   },
@@ -18,6 +18,11 @@
       {
         "value": "二级妖兽",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      },
+      {
+        "value": "二级",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
       }
     ],
@@ -60,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-523-528-zhongmo-xuming"
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-14T17:58:18.090Z"
+  "updatedAt": "2026-06-17T06:27:25.753Z"
 }

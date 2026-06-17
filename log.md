@@ -410,3 +410,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T06:08:39.685Z** `ingest` plot.fanren-ch505-510-escape-to-outer-star-sea — 凡人修仙传 第505-510章：韩立混传送阵远遁外星海，初临奇渊岛黑石城 · kind=plot asOf=2026-06-17 entities=22 relations=26 src=00505-00510.md
 - **2026-06-17T06:11:35.956Z** `ingest` plot.fanren-511-516-qiyuan-island-wuzhong-island — 凡人修仙传 第511-516章｜奇渊岛黑石城与雾中岛立府 · kind=plot asOf=2026-06-17 entities=33 relations=27 src=00511-00516.md
 - **2026-06-17T06:19:33.608Z** `update` plot.fanren-517-522-xuanyinjing-huaxing-dujiao — 凡人修仙传 第517-522章｜玄阴经·化形之劫·毒蛟 · kind=plot asOf=2026-06-17 entities=39 relations=42 src=00517-00522.md
+- **2026-06-17T06:27:25.850Z** `ingest` plot.fanren-523-528-zhenjia-chongmo — 凡人修仙传 第523-528章｜凶名滔天·真假虫魔 · kind=plot asOf=2026-06-17 entities=30 relations=32 src=00523-00528.md

@@ -13,7 +13,7 @@
   "summary": "青灵门弟子中唯一筑基初期的中年人，带队出海采药被鹰鸢兽追杀，逃入雾海小岛后向阵主韩立求救并坦陈门派底细。",
   "attributes": {
     "小阶段": "元婴初期",
-    "身份": "星宫长老",
+    "身份": "青灵门弟子、青灵门修士/带队长辈、隐煞门为首、星宫长老、青灵门修士",
     "阵营": "青灵门",
     "性别": "男",
     "标志特征": "白骨巨环护身"
@@ -61,6 +61,11 @@
         "value": "星宫长老",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "青灵门修士",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ],
     "阵营": [
@@ -100,9 +105,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
       "dated": false,
-      "seq": 1201
+      "seq": 403
     },
     "阵营": {
       "asOf": null,
@@ -130,7 +135,8 @@
     "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
     "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-16T07:30:46.459Z"
+  "updatedAt": "2026-06-17T06:27:25.746Z"
 }

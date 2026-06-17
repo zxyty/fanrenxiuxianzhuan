@@ -5,11 +5,12 @@
   "aliases": [
     "深渊海",
     "深海区域",
-    "深海"
+    "深海",
+    "深渊海妖兽"
   ],
   "summary": "两年前妖兽狂暴、连元婴期修士都落荒而逃的禁区，韩立曾深入其中数年捕杀妖兽。",
   "attributes": {
-    "危险度": "极高（妖兽渊薮）",
+    "危险度": "极高（妖兽狂暴，元婴期亦难立足）、极高（妖兽渊薮）、极高（修士禁区）",
     "类型": "深渊海域",
     "所属界面": "乱星海"
   },
@@ -24,6 +25,11 @@
         "value": "极高（妖兽渊薮）",
         "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
         "seq": 529
+      },
+      {
+        "value": "极高（修士禁区）",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ],
     "类型": [
@@ -50,9 +56,9 @@
   "attrProvenance": {
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
       "dated": false,
-      "seq": 529
+      "seq": 523
     },
     "类型": {
       "asOf": null,
@@ -71,7 +77,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-529-534-gongsun-xing-yu-shou-chao"
+    "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-14T18:06:17.279Z"
+  "updatedAt": "2026-06-17T06:27:25.733Z"
 }

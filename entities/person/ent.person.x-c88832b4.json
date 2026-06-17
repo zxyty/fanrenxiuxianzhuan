@@ -10,8 +10,9 @@
   "attributes": {
     "小阶段": "结丹中期",
     "外貌": "鸠面、神色阴厉",
-    "性格": "谨慎多谋、谨慎多疑、冷静、谨慎多疑",
-    "阵营": "散修"
+    "性格": "谨慎多谋、谨慎多疑、冷静、谨慎多疑、谨慎冷静",
+    "阵营": "散修",
+    "称号": "秋兄"
   },
   "observations": {
     "小阶段": [
@@ -43,6 +44,11 @@
         "value": "谨慎多疑",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "谨慎冷静",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ],
     "阵营": [
@@ -50,6 +56,13 @@
         "value": "散修",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      }
+    ],
+    "称号": [
+      {
+        "value": "秋兄",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ]
   },
@@ -78,13 +91,20 @@
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhenjia-chongmo",
+      "dated": false,
+      "seq": 523
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
-    "plot.fanren-523-528-zhongmo-xuming"
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-17T06:19:33.510Z"
+  "updatedAt": "2026-06-17T06:27:25.721Z"
 }

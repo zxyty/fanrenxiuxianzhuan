@@ -12,8 +12,8 @@
   "summary": "韩立由傀儡术/大衍决操控的巨猿傀儡，可射各色光柱，掩护飞剑作战。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "射各色纤细光柱、齐射光柱、守卫洞府、代主行事、送丹/引路、布阵、列阵作战、守卫耳目、射光柱碎石、护卫、持瓶引虫、引怪",
-    "外形": "高大巨猿",
+    "能力": "射各色纤细光柱、齐射光柱、守卫洞府、代主行事、送丹/引路、布阵、列阵作战、守卫耳目、射光柱碎石、护卫、持瓶引虫、引怪、发射光柱、守护幻阵",
+    "外形": "高大乌黑巨猿、巨猿、高大巨猿、乌黑发亮的巨猿",
     "品阶": "高阶傀儡"
   },
   "observations": {
@@ -74,6 +74,16 @@
         "value": "持瓶引虫、引怪",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "发射光柱",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
+      },
+      {
+        "value": "守护幻阵",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ],
     "外形": [
@@ -91,6 +101,11 @@
         "value": "高大巨猿",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "乌黑发亮的巨猿",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
       }
     ],
     "品阶": [
@@ -117,9 +132,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "docId": "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
       "dated": false,
-      "seq": 565
+      "seq": 493
     },
     "品阶": {
       "asOf": null,
@@ -139,7 +154,8 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-ch811-gang-yin-sha",
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-16T15:24:46.598Z"
+  "updatedAt": "2026-06-17T06:27:25.750Z"
 }

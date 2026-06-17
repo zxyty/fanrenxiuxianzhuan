@@ -7,13 +7,21 @@
   ],
   "summary": "万法门长老，被提及悄悄潜来奇渊岛海域追查韩立。",
   "attributes": {
-    "身份": "万法门长老"
+    "身份": "万法门长老",
+    "小阶段": "元婴期"
   },
   "observations": {
     "身份": [
       {
         "value": "万法门长老",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
+        "seq": 523
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
       }
     ]
@@ -25,12 +33,19 @@
       "docId": "plot.fanren-523-528-zhongmo-xuming",
       "dated": false,
       "seq": 523
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhenjia-chongmo",
+      "dated": false,
+      "seq": 523
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-523-528-zhongmo-xuming"
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-14T17:58:18.084Z"
+  "updatedAt": "2026-06-17T06:27:25.743Z"
 }

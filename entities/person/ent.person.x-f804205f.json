@@ -7,14 +7,32 @@
     "凶恶大汉"
   ],
   "summary": "鸠面老者同伴，性情凶悍，最先主张逃离韩立。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "性格": "凶悍急躁"
+  },
+  "observations": {
+    "性格": [
+      {
+        "value": "凶悍急躁",
+        "docId": "plot.fanren-523-528-zhenjia-chongmo",
+        "seq": 523
+      }
+    ]
+  },
   "firstSeq": 523,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-523-528-zhenjia-chongmo",
+      "dated": false,
+      "seq": 523
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-523-528-zhongmo-xuming"
+    "plot.fanren-523-528-zhongmo-xuming",
+    "plot.fanren-523-528-zhenjia-chongmo"
   ],
-  "updatedAt": "2026-06-14T17:58:18.060Z"
+  "updatedAt": "2026-06-17T06:27:25.723Z"
 }
