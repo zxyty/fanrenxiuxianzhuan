@@ -18,10 +18,11 @@
   "summary": "韩立改玄阴经阴火雷法、以青焰替阴火、辅辟邪神雷之雷力炼成的一次性爆裂雷珠，共七八颗。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "破血罩禁制",
-    "来历": "青衫中年人昔年所得",
+    "能力": "祭出引发火焰雷电爆裂伤人、破血罩禁制、引爆阴火/异焰与雷电同伤",
+    "来历": "改玄阴经阴火雷法炼制、青色灯焰炼制、青衫中年人昔年所得、玄阴经『阴火雷』秘法改良",
     "外形": "雷珠(一次性消耗品)",
-    "五行属性": "雷"
+    "五行属性": "雷",
+    "禁制": "仅能操纵雷属性灵力者可炼制"
   },
   "observations": {
     "持有者": [
@@ -41,6 +42,11 @@
         "value": "破血罩禁制",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "引爆阴火/异焰与雷电同伤",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "来历": [
@@ -58,6 +64,11 @@
         "value": "青衫中年人昔年所得",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "玄阴经『阴火雷』秘法改良",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "外形": [
@@ -73,6 +84,13 @@
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
       }
+    ],
+    "禁制": [
+      {
+        "value": "仅能操纵雷属性灵力者可炼制",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      }
     ]
   },
   "firstSeq": 751,
@@ -85,15 +103,15 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 769
+      "seq": 751
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 1099
+      "seq": 751
     },
     "外形": {
       "asOf": null,
@@ -106,6 +124,12 @@
       "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
       "dated": false,
       "seq": 1099
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "dated": false,
+      "seq": 751
     }
   },
   "contested": false,
@@ -120,5 +144,5 @@
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1489-1494-dazhan-minglei-shou"
   ],
-  "updatedAt": "2026-06-16T18:22:13.448Z"
+  "updatedAt": "2026-06-17T11:54:02.479Z"
 }

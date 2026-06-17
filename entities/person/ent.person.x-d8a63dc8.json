@@ -9,15 +9,16 @@
     "云露道友",
     "云露老怪",
     "阴柔青年",
-    "面容阴柔青年"
+    "面容阴柔青年",
+    "云露"
   ],
   "summary": "合欢宗元婴中期老魔，天生阴阳同体，修最顶尖采补魔功，恶名遍天南。",
   "attributes": {
     "种族": "飞灵族",
     "小阶段": "元婴中期、元婴、炼虚初期",
     "道号": "云露真人",
-    "标志特征": "阴阳同体、阴柔脂粉气、周身脂粉之气、背生双翅、驱银色电弧",
-    "称号": "云露老魔",
+    "标志特征": "阴阳同体、阴柔脂粉气、周身脂粉之气、背生双翅、驱银色电弧、阴阳同体、身带阴柔脂粉气",
+    "称号": "云露老魔、云露真人",
     "阵营": "魔道·合欢宗、魔道、合欢宗",
     "外貌": "面容阴柔",
     "身份": "老魔",
@@ -82,11 +83,21 @@
         "value": "背生双翅、驱银色电弧",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "阴阳同体、身带阴柔脂粉气",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "称号": [
       {
         "value": "云露老魔",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "云露真人",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
       }
@@ -130,6 +141,11 @@
         "value": "老魔",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "合欢宗修士",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "出身地": [
@@ -143,7 +159,8 @@
       {
         "value": "男",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-        "seq": 1423
+        "seq": 751,
+        "note": "阴阳同体，显二十余岁锦袍美男身"
       }
     ],
     "性格": [
@@ -151,6 +168,11 @@
         "value": "不甘示弱",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "好色、采补",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ]
   },
@@ -214,7 +236,8 @@
       "asOf": null,
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
-      "seq": 1423
+      "seq": 751,
+      "note": "阴阳同体，显二十余岁锦袍美男身"
     },
     "性格": {
       "asOf": null,
@@ -233,5 +256,5 @@
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
   ],
-  "updatedAt": "2026-06-16T16:12:01.565Z"
+  "updatedAt": "2026-06-17T11:54:02.497Z"
 }

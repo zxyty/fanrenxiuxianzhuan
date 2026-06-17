@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "珍贵丹药，资质佳的结丹初期服之省百年瓶颈，资质稍逊者可助突破结丹期。",
   "attributes": {
-    "功效": "省却结丹瓶颈参悟时间、助突破结丹期、助突破境界、幻境感悟天地灵力、催化神识预体验下一境界、助突破瓶颈",
-    "适用境界": "结丹",
+    "功效": "省却结丹瓶颈参悟时间、助突破结丹期、助突破境界、幻境感悟天地灵力、催化神识预体验下一境界、助突破瓶颈、助结丹期突破、省却约百年瓶颈参悟",
+    "适用境界": "结丹、化神期以下、结丹期",
     "主料": "灵烛果",
     "副作用": "神识溃散坠入幻境",
     "炼制者": "韩立、紫灵仙子"
@@ -42,6 +42,16 @@
         "value": "助突破瓶颈",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
+      },
+      {
+        "value": "助结丹期突破",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
+      },
+      {
+        "value": "省却约百年瓶颈参悟",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "适用境界": [
@@ -54,6 +64,11 @@
         "value": "化神期以下",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 745
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "主料": [
@@ -103,9 +118,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
       "dated": false,
-      "seq": 751
+      "seq": 745
     },
     "主料": {
       "asOf": null,
@@ -135,5 +150,5 @@
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang"
   ],
-  "updatedAt": "2026-06-17T11:45:24.860Z"
+  "updatedAt": "2026-06-17T11:54:02.486Z"
 }

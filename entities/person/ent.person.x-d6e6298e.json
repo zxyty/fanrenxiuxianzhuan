@@ -10,11 +10,11 @@
   ],
   "summary": "合欢宗大长老，黑袍狰狞，阴寒魔气惊人；功法实为近似鬼灵门的魔功，仍顶合欢老魔之名。本次聚会三主持之一，负责弹压秩序。",
   "attributes": {
-    "小阶段": "元婴后期",
-    "阵营": "合欢宗",
+    "小阶段": "元婴、元婴后期",
+    "阵营": "魔道/合欢宗、天南、魔道、合欢宗、魔道(合欢宗)",
     "称号": "魔道第一修士",
     "标志特征": "黑袍、相貌狰狞、阴寒魔功",
-    "身份": "合欢宗修士",
+    "身份": "魔修、合欢宗修士、合欢宗大长老/三大修士之一",
     "外貌": "黑袍大汉",
     "性别": "男",
     "性格": "阴险设局"
@@ -29,7 +29,7 @@
       {
         "value": "元婴后期",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
-        "seq": 871
+        "seq": 751
       }
     ],
     "阵营": [
@@ -46,12 +46,17 @@
       {
         "value": "魔道",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
-        "seq": 865
+        "seq": 751
       },
       {
         "value": "合欢宗",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "魔道(合欢宗)",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "称号": [
@@ -92,7 +97,12 @@
       {
         "value": "合欢宗修士",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
-        "seq": 1171
+        "seq": 751
+      },
+      {
+        "value": "合欢宗大长老/三大修士之一",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "外貌": [
@@ -100,6 +110,11 @@
         "value": "黑袍大汉",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "相貌狰狞黑袍大汉",
+        "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+        "seq": 751
       }
     ],
     "性别": [
@@ -121,15 +136,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 871
+      "seq": 751
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
       "dated": false,
-      "seq": 1189
+      "seq": 751
     },
     "称号": {
       "asOf": null,
@@ -147,7 +162,7 @@
       "asOf": null,
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
-      "seq": 1171
+      "seq": 751
     },
     "外貌": {
       "asOf": null,
@@ -178,5 +193,5 @@
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-1190-huajiezhu-jifengjiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.655Z"
+  "updatedAt": "2026-06-17T11:54:02.506Z"
 }
