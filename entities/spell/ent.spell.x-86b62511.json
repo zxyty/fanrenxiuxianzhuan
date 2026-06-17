@@ -3,11 +3,12 @@
   "type": "spell",
   "name": "惊魂咒",
   "aliases": [
-    "鬼灵门惊魂咒"
+    "鬼灵门惊魂咒",
+    "惊魂密咒"
   ],
   "summary": "鬼灵门密咒，比禁神术更歹毒，可一念间令被咒者魂魄溃散；以血红令牌催动。",
   "attributes": {
-    "类型": "鬼灵门密咒/禁神类、禁制咒术",
+    "类型": "鬼灵门密咒/禁神类、禁制咒术、惩戒/控制咒术",
     "出处": "鬼灵门",
     "威力": "一念间令魂魄溃散"
   },
@@ -22,6 +23,11 @@
         "value": "禁制咒术",
         "docId": "plot.fanren-ch829-834-modong-tunying-yishou",
         "seq": 829
+      },
+      {
+        "value": "惩戒/控制咒术",
+        "docId": "plot.fanren-835-840-mozu-jietihuaxing",
+        "seq": 835
       }
     ],
     "出处": [
@@ -64,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
-    "plot.fanren-ch829-834-modong-tunying-yishou"
+    "plot.fanren-ch829-834-modong-tunying-yishou",
+    "plot.fanren-835-840-mozu-jietihuaxing"
   ],
-  "updatedAt": "2026-06-17T14:04:43.644Z"
+  "updatedAt": "2026-06-17T14:12:36.675Z"
 }

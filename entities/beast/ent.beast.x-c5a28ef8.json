@@ -3,12 +3,13 @@
   "type": "beast",
   "name": "破魂蛇",
   "aliases": [
-    "尖角乌蛇"
+    "尖角乌蛇",
+    "怪异小蛇"
   ],
   "summary": "魏无涯所豢怪蛇，浑身乌黑、头生雪白剑尖独角，善克阴鬼妖魅。",
   "attributes": {
     "主人": "魏无涯",
-    "能力": "克阴鬼妖魅、击毁魂石",
+    "能力": "克阴鬼妖魅、击毁魂石、对付阴鬼妖魅",
     "外形": "乌黑无鳞、额生雪白独角"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "克阴鬼妖魅、击毁魂石",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "对付阴鬼妖魅",
+        "docId": "plot.fanren-835-840-mozu-jietihuaxing",
         "seq": 835
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan"
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-835-840-mozu-jietihuaxing"
   ],
-  "updatedAt": "2026-06-15T13:46:31.486Z"
+  "updatedAt": "2026-06-17T14:12:36.663Z"
 }

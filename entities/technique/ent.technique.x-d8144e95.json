@@ -3,13 +3,14 @@
   "type": "technique",
   "name": "解体化形",
   "aliases": [
-    "解体化形术"
+    "解体化形术",
+    "解体化形秘术"
   ],
   "summary": "魔功中的无上秘术，借魔躯经血色光柱将精魂重塑为新的肉身躯体。",
   "attributes": {
     "品阶": "魔功无上秘术",
-    "出处": "上古魔界/圣界",
-    "效果": "解体魔躯、为精魂重塑肉身",
+    "出处": "上古魔界/圣界、魔功",
+    "效果": "解体魔躯、为精魂重塑肉身、解体重塑肉身",
     "外显异象": "血色光柱连结、血光重塑血肉"
   },
   "observations": {
@@ -25,12 +26,22 @@
         "value": "上古魔界/圣界",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
         "seq": 835
+      },
+      {
+        "value": "魔功",
+        "docId": "plot.fanren-835-840-mozu-jietihuaxing",
+        "seq": 835
       }
     ],
     "效果": [
       {
         "value": "解体魔躯、为精魂重塑肉身",
         "docId": "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+        "seq": 835
+      },
+      {
+        "value": "解体重塑肉身",
+        "docId": "plot.fanren-835-840-mozu-jietihuaxing",
         "seq": 835
       }
     ],
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan"
+    "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
+    "plot.fanren-835-840-mozu-jietihuaxing"
   ],
-  "updatedAt": "2026-06-15T13:46:31.490Z"
+  "updatedAt": "2026-06-17T14:12:36.665Z"
 }

@@ -462,3 +462,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T13:48:47.206Z** `ingest` plot.fanren-817-822-zhan-huochan-qiyanshan — 凡人修仙传 第817-822章｜斩火蟾兽·古修遗骸与七焰扇玉简 · kind=plot asOf=2026-06-17 entities=41 relations=45 src=00817-00822.md
 - **2026-06-17T13:56:44.181Z** `ingest` plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet — 凡人修仙传 第823-828章：血咒之门破解·小须弥金刚阵·韩立会合紫灵 · kind=plot asOf=2026-06-17 entities=40 relations=48 src=00823-00828.md
 - **2026-06-17T14:04:43.862Z** `ingest` plot.fanren-ch829-834-modong-tunying-yishou — 凡人修仙传 第829-834章｜魔动·吞婴·异兽（圆钵夺舍·灵烛果守护古兽） · kind=plot asOf=2026-06-17 entities=31 relations=36 src=00829-00834.md
+- **2026-06-17T14:12:37.057Z** `ingest` plot.fanren-835-840-mozu-jietihuaxing — 凡人修仙传 第835-840章｜魔躯·解体化形·坠魔谷惊变 · kind=plot asOf=2026-06-17 entities=34 relations=35 src=00835-00840.md
