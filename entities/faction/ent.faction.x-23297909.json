@@ -10,8 +10,8 @@
   "attributes": {
     "阵营": "天南正道",
     "掌门": "吕姓前辈（存疑）",
-    "据点": "六奇峰、云梦山一带、云梦山、云梦山东脉、火云峰、白凤峰、天泉峰、溪国云梦山、云蒙山、云梦山脉、主峰、子母峰/母峰洞府、云梦山脉/溪国、落云山脉·子母峰",
-    "理念": "天南第一宗门",
+    "据点": "六奇峰、云梦山一带、云梦山、云梦山东脉、火云峰、白凤峰、天泉峰、溪国云梦山、云蒙山、云梦山脉、主峰、子母峰/母峰洞府、云梦山脉/溪国、落云山脉·子母峰、云梦山东部",
+    "理念": "炼丹闻名/收徒宽松、六奇峰分立、不讲功法传承，集百家之长、—、云梦山三宗之一、天南第一宗门、炼丹闻名、收徒宽松、兼涉符阵杂学",
     "所属界面": "人界天南",
     "等级": "天南超级大宗"
   },
@@ -79,7 +79,7 @@
       {
         "value": "云梦山",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-        "seq": 613
+        "seq": 595
       },
       {
         "value": "云梦山东脉",
@@ -135,6 +135,11 @@
         "value": "落云山脉·子母峰",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "云梦山东部",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
       }
     ],
     "理念": [
@@ -167,6 +172,11 @@
         "value": "天南第一宗门",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      },
+      {
+        "value": "炼丹闻名、收徒宽松、兼涉符阵杂学",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
       }
     ],
     "所属界面": [
@@ -211,6 +221,11 @@
         "value": "天南超级大宗",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "修仙大派",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
       }
     ]
   },
@@ -236,9 +251,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
       "dated": false,
-      "seq": 1171
+      "seq": 595
     },
     "所属界面": {
       "asOf": null,
@@ -301,7 +316,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-16T09:47:06.161Z"
+  "updatedAt": "2026-06-17T07:43:47.986Z"
 }

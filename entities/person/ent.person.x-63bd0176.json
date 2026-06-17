@@ -2,12 +2,17 @@
   "id": "ent.person.x-63bd0176",
   "type": "person",
   "name": "苗师兄",
-  "aliases": [],
+  "aliases": [
+    "枯瘦青年",
+    "病容青年"
+  ],
   "summary": "三十四五岁的筑基后期天纵之才，主持问心术测试，身患咳疾。",
   "attributes": {
     "小阶段": "筑基后期",
-    "标志特征": "枯瘦/患咳疾",
-    "称号": "天纵之才"
+    "标志特征": "枯瘦/患咳疾、天纵之才、咳疾缠身",
+    "称号": "天纵之才",
+    "性别": "男",
+    "外貌": "枯瘦病容、三十四五岁"
   },
   "observations": {
     "小阶段": [
@@ -22,12 +27,36 @@
         "value": "枯瘦/患咳疾",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "天纵之才",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      },
+      {
+        "value": "咳疾缠身",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
       }
     ],
     "称号": [
       {
         "value": "天纵之才",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
+    "外貌": [
+      {
+        "value": "枯瘦病容、三十四五岁",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ]
@@ -51,12 +80,25 @@
       "docId": "plot.fanren-594-599-luoyunzong-rumen",
       "dated": false,
       "seq": 595
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen"
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-14T19:32:47.667Z"
+  "updatedAt": "2026-06-17T07:43:47.996Z"
 }

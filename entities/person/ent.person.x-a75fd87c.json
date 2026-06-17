@@ -13,9 +13,9 @@
   ],
   "summary": "王绝楚三位师叔之一，年过花甲、七玄门昔日猛将；能暴涨筋骨肌肉、长啸震人，猛攻金罩却无法击破，最终被金光上人的灰芒飞剑削臂穿胸而死。",
   "attributes": {
-    "身份": "敌方修士",
+    "身份": "落云宗天泉峰外事弟子",
     "阵营": "灵兽山",
-    "标志特征": "络腮胡子/暗藏阴森寒气",
+    "标志特征": "络腮胡、可暴涨筋骨肌肉如生铁、龙吟虎啸般长啸、络腮胡子、十三层功力、绿色斗篷、口音生硬、络腮胡子/暗藏阴森寒气、隐隐阴森寒气、疑另修特殊法决",
     "存殁": "死亡",
     "死因": "被韩立金光砖符宝砸杀",
     "性别": "男",
@@ -38,6 +38,11 @@
         "value": "敌方修士",
         "docId": "lore.fanren-ch194-forbidden-land-center-region",
         "seq": 193
+      },
+      {
+        "value": "落云宗天泉峰外事弟子",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
       }
     ],
     "阵营": [
@@ -71,6 +76,11 @@
       {
         "value": "络腮胡子/暗藏阴森寒气",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "隐隐阴森寒气、疑另修特殊法决",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ],
@@ -134,9 +144,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "lore.fanren-ch194-forbidden-land-center-region",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
-      "seq": 193
+      "seq": 595
     },
     "阵营": {
       "asOf": null,
@@ -146,9 +156,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch85-90-sikexie-doudou",
       "dated": false,
-      "seq": 595
+      "seq": 85
     },
     "存殁": {
       "asOf": null,
@@ -189,7 +199,8 @@
     "plot.fanren-181-186-jindi-yixiantian-jisha",
     "lore.fanren-ch194-forbidden-land-center-region",
     "plot.fanren-223-228-midian-jingmai-auction",
-    "plot.fanren-594-599-luoyunzong-rumen"
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-14T19:32:47.669Z"
+  "updatedAt": "2026-06-17T07:43:48.001Z"
 }

@@ -2,16 +2,51 @@
   "id": "ent.person.x-20ef4be7",
   "type": "person",
   "name": "秋师兄",
-  "aliases": [],
+  "aliases": [
+    "秋某",
+    "秋师弟"
+  ],
   "summary": "落云宗筑基中期修士，方脸严正，主持本次弟子甄选。",
   "attributes": {
-    "小阶段": "筑基中期"
+    "小阶段": "筑基中期",
+    "性别": "男",
+    "外貌": "四十余岁、方脸、双目炯炯",
+    "阵营": "落云宗",
+    "身份": "落云宗弟子"
   },
   "observations": {
     "小阶段": [
       {
         "value": "筑基中期",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
+    "外貌": [
+      {
+        "value": "四十余岁、方脸、双目炯炯",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
+    "身份": [
+      {
+        "value": "落云宗弟子",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ]
@@ -23,12 +58,37 @@
       "docId": "plot.fanren-594-599-luoyunzong-rumen",
       "dated": false,
       "seq": 595
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen"
+    "plot.fanren-594-599-luoyunzong-rumen",
+    "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-14T19:32:47.667Z"
+  "updatedAt": "2026-06-17T07:43:47.998Z"
 }

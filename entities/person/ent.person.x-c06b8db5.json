@@ -1,33 +1,19 @@
 {
-  "id": "ent.person.x-8f1f1f7d",
+  "id": "ent.person.x-c06b8db5",
   "type": "person",
-  "name": "魏一鸣",
+  "name": "魁梧青年",
   "aliases": [
-    "落云宗掌门",
-    "蓝袍修士"
+    "煅金之体弟子",
+    "锻金之体弟子"
   ],
-  "summary": "落云宗掌门，筑基后期，貌不惊人却气势慑人。",
+  "summary": "新入门内门弟子，天生煅金之体（金属性），引发隐剑峰与火云峰争抢，最终归幻石峰。",
   "attributes": {
-    "小阶段": "筑基后期",
-    "身份": "落云宗掌门",
     "性别": "男",
-    "外貌": "蓝袍、两眼微小、貌不惊人"
+    "身份": "落云宗内门弟子",
+    "标志特征": "煅金之体（天生金属性功法修士）",
+    "外貌": "身材魁梧"
   },
   "observations": {
-    "小阶段": [
-      {
-        "value": "筑基后期",
-        "docId": "plot.fanren-594-599-luoyunzong-rumen",
-        "seq": 595
-      }
-    ],
-    "身份": [
-      {
-        "value": "落云宗掌门",
-        "docId": "plot.fanren-594-599-luoyunzong-rumen",
-        "seq": 595
-      }
-    ],
     "性别": [
       {
         "value": "男",
@@ -35,9 +21,23 @@
         "seq": 595
       }
     ],
+    "身份": [
+      {
+        "value": "落云宗内门弟子",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "煅金之体（天生金属性功法修士）",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
+    ],
     "外貌": [
       {
-        "value": "蓝袍、两眼微小、貌不惊人",
+        "value": "身材魁梧",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
@@ -45,19 +45,19 @@
   },
   "firstSeq": 595,
   "attrProvenance": {
-    "小阶段": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
       "seq": 595
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
       "seq": 595
     },
-    "性别": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
@@ -73,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-17T07:43:47.995Z"
+  "updatedAt": "2026-06-17T07:43:48.002Z"
 }

@@ -11,13 +11,14 @@
     "云梦山三派",
     "落云山脉",
     "云梦山三宗",
-    "溪国云梦山脉"
+    "溪国云梦山脉",
+    "云蒙山脉"
   ],
   "summary": "天南灵气圣脉，深处有三大神木之一的灵眼之树，由古剑门、落云宗、百巧院三派联占。",
   "attributes": {
     "所属界面": "溪国",
-    "类型": "灵山圣脉",
-    "特产": "灵眼之树/醇液",
+    "类型": "灵气圣脉、山脉、山脉/区域、灵山、山脉/门派据点、灵山圣脉",
+    "特产": "灵眼之树/醇液、灵眼之树、醇液",
     "守护": "灵眼之树圣地禁制",
     "所属势力": "天道盟、落云宗、云梦山三宗"
   },
@@ -48,7 +49,7 @@
       {
         "value": "山脉",
         "docId": "plot.fanren-ch560-guishu",
-        "seq": 601
+        "seq": 595
       },
       {
         "value": "山脉/区域",
@@ -75,6 +76,16 @@
       {
         "value": "灵眼之树/醇液",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "seq": 595
+      },
+      {
+        "value": "灵眼之树",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      },
+      {
+        "value": "醇液",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ],
@@ -118,9 +129,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch666-liuyu",
+      "docId": "plot.fanren-594-599-luoyunzong-rumen",
       "dated": false,
-      "seq": 667
+      "seq": 595
     },
     "特产": {
       "asOf": null,
@@ -162,7 +173,8 @@
     "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-16T09:33:28.388Z"
+  "updatedAt": "2026-06-17T07:43:47.994Z"
 }

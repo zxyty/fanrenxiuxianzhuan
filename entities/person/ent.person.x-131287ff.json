@@ -1,26 +1,18 @@
 {
-  "id": "ent.person.x-ed4b89c7",
+  "id": "ent.person.x-131287ff",
   "type": "person",
-  "name": "俞师弟",
+  "name": "刘师弟",
   "aliases": [
-    "俞姓青年",
-    "英气青年",
-    "英挺青年"
+    "白面青年",
+    "刘姓青年"
   ],
-  "summary": "落云宗筑基初期青年，英气勃勃，带领韩立等候选弟子入门。",
+  "summary": "落云宗修士，负责评审两三灵根/特殊灵体年轻人的资质。",
   "attributes": {
-    "小阶段": "筑基初期",
     "性别": "男",
-    "身份": "落云宗弟子"
+    "身份": "落云宗弟子",
+    "外貌": "白面"
   },
   "observations": {
-    "小阶段": [
-      {
-        "value": "筑基初期",
-        "docId": "plot.fanren-594-599-luoyunzong-rumen",
-        "seq": 595
-      }
-    ],
     "性别": [
       {
         "value": "男",
@@ -34,16 +26,17 @@
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
+    ],
+    "外貌": [
+      {
+        "value": "白面",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
+        "seq": 595
+      }
     ]
   },
   "firstSeq": 595,
   "attrProvenance": {
-    "小阶段": {
-      "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
-      "dated": false,
-      "seq": 595
-    },
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-ch595-600-join-luoyunzong",
@@ -55,13 +48,18 @@
       "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
       "seq": 595
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "dated": false,
+      "seq": 595
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-17T07:43:47.997Z"
+  "updatedAt": "2026-06-17T07:43:47.999Z"
 }

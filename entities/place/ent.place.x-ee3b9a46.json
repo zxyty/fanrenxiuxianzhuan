@@ -1,24 +1,24 @@
 {
-  "id": "ent.place.x-8711ea2e",
+  "id": "ent.place.x-ee3b9a46",
   "type": "place",
-  "name": "湳州",
+  "name": "幻石峰",
   "aliases": [],
-  "summary": "溪国七州第二大州，地处西部，盛产稀有草药珍兽，集中溪国过半修士宗派。",
+  "summary": "落云宗内峰，最终获得煅金之体魁梧青年弟子。",
   "attributes": {
-    "类型": "州",
-    "所属势力": "溪国"
+    "所属势力": "落云宗",
+    "类型": "山峰"
   },
   "observations": {
-    "类型": [
+    "所属势力": [
       {
-        "value": "州",
-        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "value": "落云宗",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ],
-    "所属势力": [
+    "类型": [
       {
-        "value": "溪国",
+        "value": "山峰",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 595,
   "attrProvenance": {
-    "类型": {
+    "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
       "seq": 595
     },
-    "所属势力": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-17T07:43:47.970Z"
+  "updatedAt": "2026-06-17T07:43:47.993Z"
 }

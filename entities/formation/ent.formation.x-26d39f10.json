@@ -1,32 +1,34 @@
 {
-  "id": "ent.technique.x-627e3795",
-  "type": "technique",
-  "name": "太白剑诀",
-  "aliases": [],
-  "summary": "古剑门镇派绝学，在溪国大名鼎鼎、犀利无比的御剑功法。",
+  "id": "ent.formation.x-26d39f10",
+  "type": "formation",
+  "name": "落云宗护派大阵",
+  "aliases": [
+    "雾海禁法"
+  ],
+  "summary": "落云宗山门护派大阵，表现为狂风雷鸣的无边雾海，神识难透，需青色阵旗开通道方可穿过。",
   "attributes": {
-    "出处": "古剑门",
-    "效果": "御剑、攻击犀利",
-    "修炼条件": "灵根资质极高"
+    "出处": "落云宗",
+    "效果": "雾海封锁、阻隔神识与遁光",
+    "破解法": "以青色阵旗激射光柱开出临时通道"
   },
   "observations": {
     "出处": [
       {
-        "value": "古剑门",
-        "docId": "plot.fanren-594-599-luoyunzong-rumen",
+        "value": "落云宗",
+        "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ],
     "效果": [
       {
-        "value": "御剑、攻击犀利",
+        "value": "雾海封锁、阻隔神识与遁光",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
     ],
-    "修炼条件": [
+    "破解法": [
       {
-        "value": "灵根资质极高",
+        "value": "以青色阵旗激射光柱开出临时通道",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
       }
@@ -36,7 +38,7 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-594-599-luoyunzong-rumen",
+      "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
       "seq": 595
     },
@@ -46,7 +48,7 @@
       "dated": false,
       "seq": 595
     },
-    "修炼条件": {
+    "破解法": {
       "asOf": null,
       "docId": "plot.fanren-ch595-600-join-luoyunzong",
       "dated": false,
@@ -56,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-ch595-600-join-luoyunzong"
   ],
-  "updatedAt": "2026-06-17T07:43:47.977Z"
+  "updatedAt": "2026-06-17T07:43:48.005Z"
 }
