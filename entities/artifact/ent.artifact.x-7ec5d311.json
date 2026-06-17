@@ -19,8 +19,8 @@
   "attributes": {
     "品阶": "古宝",
     "持有者": "韩立",
-    "能力": "极速移动（逃命）、大幅提升遁速、化血光极速遁逃、极速遁行加速、化血光飞遁、极速飞行（化血光）、极速飞遁、脱困逃遁后手、高速飞遁，化血光、加速遁光",
-    "外形": "赤红披风",
+    "能力": "极速移动（逃命）、大幅提升遁速、化血光极速遁逃、极速遁行加速、化血光飞遁、极速飞行（化血光）、极速飞遁、脱困逃遁后手、高速飞遁，化血光、加速遁光、高速飞遁",
+    "外形": "内层银线、外层血色羽翎的双层披风、赤红披风、血色披风、赤红披风，激发为血光",
     "禁制": "速度失控、灵力狂泄",
     "来历": "古宝"
   },
@@ -94,6 +94,11 @@
         "value": "加速遁光",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "高速飞遁",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "外形": [
@@ -111,6 +116,11 @@
         "value": "血色披风",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "赤红披风，激发为血光",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "禁制": [
@@ -150,9 +160,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
       "dated": false,
-      "seq": 685
+      "seq": 469
     },
     "禁制": {
       "asOf": null,
@@ -182,7 +192,8 @@
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-ch499-504-nanming-island",
     "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
-    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-17T07:17:34.893Z"
+  "updatedAt": "2026-06-17T10:22:13.990Z"
 }

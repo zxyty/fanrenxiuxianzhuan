@@ -8,14 +8,15 @@
     "白衫老人",
     "白衫",
     "白衫云道友",
-    "云姓修士"
+    "云姓修士",
+    "云姓白衫老者"
   ],
   "summary": "元婴中期修士，南陇侯的同伴与寻宝共谋者，揭示苍坤上人未死真相及太妙神禁破解之法。",
   "attributes": {
-    "小阶段": "元婴",
+    "小阶段": "元婴中期、元婴、元婴期",
     "标志特征": "白衫",
     "外貌": "白衫",
-    "身份": "寻宝主事、鬼灵门长老",
+    "身份": "寻宝主事、鬼灵门长老、寻宝发起人",
     "性格": "阴狠果决",
     "阵营": "王天古一方、魔道·鬼灵门、鬼灵门",
     "性别": "男"
@@ -31,6 +32,11 @@
         "value": "元婴",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "标志特征": [
@@ -63,6 +69,11 @@
         "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
         "seq": 697,
         "note": "早年出身、向不管事、门内知者不多"
+      },
+      {
+        "value": "寻宝发起人",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "性格": [
@@ -101,9 +112,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
-      "seq": 691
+      "seq": 685
     },
     "标志特征": {
       "asOf": null,
@@ -119,9 +130,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
       "dated": false,
-      "seq": 697
+      "seq": 685
     },
     "性格": {
       "asOf": null,
@@ -148,7 +159,8 @@
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
     "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-15T02:06:15.335Z"
+  "updatedAt": "2026-06-17T10:22:13.986Z"
 }

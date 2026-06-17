@@ -6,8 +6,8 @@
   "summary": "南陇侯所持扁圆淡红色玉盘异宝，掐诀施法后现星辰日月天象图案，可在神识失效的鬼风沙中辨向。",
   "attributes": {
     "持有者": "南陇侯",
-    "能力": "辨向定位",
-    "外形": "扁圆淡红色玉盘"
+    "能力": "辨向定位、辨别方向（现星辰日月天象图案）",
+    "外形": "扁圆淡红色玉盘、淡红色扁圆玉盘"
   },
   "observations": {
     "持有者": [
@@ -22,12 +22,22 @@
         "value": "辨向定位",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
         "seq": 685
+      },
+      {
+        "value": "辨别方向（现星辰日月天象图案）",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "外形": [
       {
         "value": "扁圆淡红色玉盘",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "淡红色扁圆玉盘",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan"
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-14T22:12:35.623Z"
+  "updatedAt": "2026-06-17T10:22:13.974Z"
 }

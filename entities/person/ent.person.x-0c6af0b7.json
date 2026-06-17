@@ -3,17 +3,50 @@
   "type": "person",
   "name": "炳道友",
   "aliases": [
-    "黝黑面容的修士"
+    "黝黑面容的修士",
+    "黝黑修士"
   ],
   "summary": "随队元婴修士，黝黑面容，附议韩立关于被禁制暗算的判断。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "外貌": "黝黑面容",
+    "小阶段": "元婴期"
+  },
+  "observations": {
+    "外貌": [
+      {
+        "value": "黝黑面容",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      }
+    ]
+  },
   "firstSeq": 685,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan"
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-14T22:12:35.524Z"
+  "updatedAt": "2026-06-17T10:22:13.922Z"
 }

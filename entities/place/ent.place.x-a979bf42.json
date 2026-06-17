@@ -9,14 +9,16 @@
     "慕兰人的地方",
     "慕兰草原深处",
     "慕兰草原一行",
-    "慕兰草原藏宝处"
+    "慕兰草原藏宝处",
+    "慕兰草原边缘"
   ],
   "summary": "慕兰族世居的广袤游牧草原，资源贫乏；另一头为突兀人。",
   "attributes": {
     "所属势力": "慕兰人",
     "类型": "草原/藏宝处",
-    "危险度": "高（法士出没/战乱）",
-    "特产": "修仙资源匮乏"
+    "危险度": "极高、高（法士出没/战乱）、高(法士聚居)",
+    "特产": "修仙资源匮乏",
+    "守护": "外围巨大风阵"
   },
   "observations": {
     "所属势力": [
@@ -58,6 +60,11 @@
         "value": "高（法士出没/战乱）",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "高(法士聚居)",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "特产": [
@@ -65,6 +72,13 @@
         "value": "修仙资源匮乏",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      }
+    ],
+    "守护": [
+      {
+        "value": "外围巨大风阵",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ]
   },
@@ -84,15 +98,21 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
-      "seq": 691
+      "seq": 685
     },
     "特产": {
       "asOf": null,
       "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
       "dated": false,
       "seq": 691
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
     }
   },
   "contested": false,
@@ -109,7 +129,8 @@
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-17T08:44:01.981Z"
+  "updatedAt": "2026-06-17T10:22:14.001Z"
 }

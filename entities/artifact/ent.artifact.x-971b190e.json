@@ -13,15 +13,16 @@
     "四方带翅飞车",
     "带翅飞车",
     "白色御风车",
-    "白色小光点"
+    "白色小光点",
+    "法士御风车"
   ],
   "summary": "天风部镇族法宝，速度恐怖惊人，或可追上脱困修士。",
   "attributes": {
     "持有者": "天风部、穆姓老者、韩立",
-    "能力": "极速遁行、极速飞行、极速飞遁、飞行遁速极快、耗灵力少、高速飞行、高速飞行代步、飞行遁速、高速遁行",
+    "能力": "极速遁行、极速飞行、极速飞遁、飞行遁速极快、耗灵力少、高速飞行、高速飞行代步、飞行遁速、高速遁行、极速飞行/追击、可缩小收纳",
     "品阶": "顶阶飞行异宝",
-    "外形": "四方带翅飞车",
-    "来历": "兽骨炼制"
+    "外形": "白色兽骨四方兽车、暗红木翅、精致四方白色飞车、白色带翅四方车、四方带翅飞车、白色四方兽车，左右暗红木翅，无轮无兽牵引",
+    "来历": "兽骨炼制、慕兰法士所制"
   },
   "observations": {
     "持有者": [
@@ -56,7 +57,7 @@
       {
         "value": "极速飞遁",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
-        "seq": 703
+        "seq": 685
       },
       {
         "value": "飞行遁速极快",
@@ -87,6 +88,16 @@
         "value": "高速遁行",
         "docId": "plot.fanren-931-936-anliu-jinjing-route",
         "seq": 931
+      },
+      {
+        "value": "极速飞行/追击",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      },
+      {
+        "value": "可缩小收纳",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "品阶": [
@@ -116,12 +127,22 @@
         "value": "四方带翅飞车",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "白色四方兽车，左右暗红木翅，无轮无兽牵引",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "来历": [
       {
         "value": "兽骨炼制",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "慕兰法士所制",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
       }
     ]
@@ -148,9 +169,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
-      "seq": 787
+      "seq": 685
     },
     "来历": {
       "asOf": null,
@@ -169,7 +190,8 @@
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
-    "plot.fanren-931-936-anliu-jinjing-route"
+    "plot.fanren-931-936-anliu-jinjing-route",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-16T01:29:15.211Z"
+  "updatedAt": "2026-06-17T10:22:13.989Z"
 }

@@ -8,16 +8,19 @@
     "慕姓老者",
     "幕姓老者",
     "冰属性法士",
-    "穆姓修士"
+    "穆姓修士",
+    "穆姓法士"
   ],
   "summary": "驾御风车追击韩立的法士，元婴初期顶峰即将入中期；面颊刺青纹、蓝锦衫，以蓝色圆珠光幕及蓝色灵力巨蟒御敌。",
   "attributes": {
-    "小阶段": "元婴期",
-    "种族": "慕兰人",
-    "外貌": "六十余岁瘦削、面颊刺青色纹身、蓝色锦衫",
+    "小阶段": "元婴初期、元婴期、元婴初期顶峰(即将中期)",
+    "种族": "法士、慕兰人、慕兰族",
+    "外貌": "六十余岁瘦削、面颊刺青色纹身、蓝色锦衫、六十余岁干瘦阴沉，脸颊两侧青色纹身，蓝色锦衫",
     "阵营": "慕兰草原法士",
     "身份": "法士",
-    "结局": "躯体被毁，元婴出窍逃遁"
+    "结局": "躯体被毁，元婴出窍逃遁",
+    "性别": "男",
+    "称号": "上师"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +33,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "元婴初期顶峰(即将中期)",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "种族": [
@@ -42,12 +50,22 @@
         "value": "慕兰人",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "外貌": [
       {
         "value": "六十余岁瘦削、面颊刺青色纹身、蓝色锦衫",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "六十余岁干瘦阴沉，脸颊两侧青色纹身，蓝色锦衫",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
       }
     ],
@@ -62,7 +80,7 @@
       {
         "value": "法士",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
-        "seq": 691
+        "seq": 685
       }
     ],
     "结局": [
@@ -72,21 +90,35 @@
         "seq": 691,
         "note": "需夺舍重塑肉身"
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      }
+    ],
+    "称号": [
+      {
+        "value": "上师",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      }
     ]
   },
   "firstSeq": 685,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
-      "seq": 691
+      "seq": 685
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
-      "seq": 691
+      "seq": 685
     },
     "外貌": {
       "asOf": null,
@@ -104,7 +136,7 @@
       "asOf": null,
       "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
       "dated": false,
-      "seq": 691
+      "seq": 685
     },
     "结局": {
       "asOf": null,
@@ -112,13 +144,26 @@
       "dated": false,
       "seq": 691,
       "note": "需夺舍重塑肉身"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
-    "plot.fanren-ch691-696-bingjing-heifeng-zaiju"
+    "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-14T22:20:41.308Z"
+  "updatedAt": "2026-06-17T10:22:13.987Z"
 }

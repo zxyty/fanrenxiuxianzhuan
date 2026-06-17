@@ -3,14 +3,16 @@
   "type": "beast",
   "name": "须弥虫",
   "aliases": [
-    "妖虫"
+    "妖虫",
+    "须弥孔妖虫"
   ],
   "summary": "上古奇虫之一，黑亮扁圆、长六丈宽四丈，三角头多复眼獠牙、背生四薄翼；战力不强但天生能临时撕开空间裂缝（须弥孔洞）藏形，幼虫期撕空间与时间极受限制。",
   "attributes": {
     "种族": "上古奇虫",
     "主人": "大上师",
-    "能力": "临时撕开空间裂缝、原地藏形",
-    "外形": "黑亮扁圆长约六丈宽约四丈"
+    "能力": "临时撕开空间裂缝、原地藏形、撕开空间裂缝（须弥孔）",
+    "外形": "黑亮扁圆长约六丈宽约四丈、长约六丈、扁圆黑亮、十几只幽黄复眼、獠牙触角、四只透明薄翼",
+    "等级": "上古奇虫（幼虫）"
   },
   "observations": {
     "种族": [
@@ -37,12 +39,29 @@
         "value": "原地藏形",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
         "seq": 685
+      },
+      {
+        "value": "撕开空间裂缝（须弥孔）",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
       }
     ],
     "外形": [
       {
         "value": "黑亮扁圆长约六丈宽约四丈",
         "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+        "seq": 685
+      },
+      {
+        "value": "长约六丈、扁圆黑亮、十几只幽黄复眼、獠牙触角、四只透明薄翼",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+        "seq": 685
+      }
+    ],
+    "等级": [
+      {
+        "value": "上古奇虫（幼虫）",
+        "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
         "seq": 685
       }
     ]
@@ -72,12 +91,19 @@
       "docId": "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
       "dated": false,
       "seq": 685
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
+      "dated": false,
+      "seq": 685
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan"
+    "plot.fanren-685-690-cangkun-yibao-mulan-caoyuan",
+    "plot.fanren-685-690-cangkun-yibao-mulan-fashi"
   ],
-  "updatedAt": "2026-06-14T22:12:35.625Z"
+  "updatedAt": "2026-06-17T10:22:13.972Z"
 }
