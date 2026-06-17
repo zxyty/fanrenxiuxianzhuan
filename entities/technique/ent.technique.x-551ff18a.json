@@ -2,11 +2,13 @@
   "id": "ent.technique.x-551ff18a",
   "type": "technique",
   "name": "幽杀决",
-  "aliases": [],
+  "aliases": [
+    "幽杀诀"
+  ],
   "summary": "黑衣少妇主修的功法，修炼奇快威力出奇，但大成后令人心性迷失、嗜血成性。",
   "attributes": {
-    "效果": "修炼奇快、威力出奇",
-    "适用境界": "元婴期大成"
+    "效果": "修炼奇快、威力出奇、修炼奇快、威力出奇，但成后嗜血、迷失心性",
+    "适用境界": "元婴期大成、可修至元婴期"
   },
   "observations": {
     "效果": [
@@ -19,12 +21,22 @@
         "value": "威力出奇",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "修炼奇快、威力出奇，但成后嗜血、迷失心性",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "适用境界": [
       {
         "value": "元婴期大成",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "可修至元婴期",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ]
@@ -47,7 +59,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.489Z"
+  "updatedAt": "2026-06-17T07:58:36.440Z"
 }

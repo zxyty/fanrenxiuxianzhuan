@@ -3,13 +3,17 @@
   "type": "artifact",
   "name": "天火神链",
   "aliases": [
-    "天火神连"
+    "天火神连",
+    "银白色晶莹细链"
   ],
   "summary": "数条银白晶莹细链，以奇特心法祭炼、与少妇元神心心相通，透骨困其双足；真火可强断但断链即毙命。",
   "attributes": {
     "外形": "银白色晶莹细链",
-    "能力": "透骨锁体、与元神相通、强断即令主人毙命",
-    "禁制": "钥匙交至交好友保管"
+    "能力": "透骨锁体、与元神相通、强断即令主人毙命、锁困元婴修士、与元神心心相通、断链即毙命",
+    "禁制": "钥匙交至交好友保管、以特殊心法祭炼，钥匙交予一至交好友保管",
+    "持有者": "黑衣少妇",
+    "五行属性": "火",
+    "来历": "少妇请亲友打造以困住自己防幽杀决嗜血失控"
   },
   "observations": {
     "外形": [
@@ -24,12 +28,53 @@
         "value": "透骨锁体、与元神相通、强断即令主人毙命",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "锁困元婴修士",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "与元神心心相通",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "断链即毙命",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "禁制": [
       {
         "value": "钥匙交至交好友保管",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "以特殊心法祭炼，钥匙交予一至交好友保管",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      }
+    ],
+    "持有者": [
+      {
+        "value": "黑衣少妇",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "火",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      }
+    ],
+    "来历": [
+      {
+        "value": "少妇请亲友打造以困住自己防幽杀决嗜血失控",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ]
@@ -53,12 +98,31 @@
       "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
       "dated": false,
       "seq": 607
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+      "dated": false,
+      "seq": 607
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+      "dated": false,
+      "seq": 607
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+      "dated": false,
+      "seq": 607
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.496Z"
+  "updatedAt": "2026-06-17T07:58:36.438Z"
 }

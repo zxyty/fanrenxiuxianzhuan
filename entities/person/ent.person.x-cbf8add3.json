@@ -4,15 +4,18 @@
   "name": "黑衣少妇",
   "aliases": [
     "残臂少妇",
-    "黑衣残臂少妇"
+    "黑衣残臂少妇",
+    "黑色衣裙少妇",
+    "石室少妇"
   ],
   "summary": "主修幽杀决的元婴中期女修，因嗜血成性废一臂，以青金石室与天火神链自困，请韩立送信与金符玉盒。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴中期",
-    "外貌": "黑色衣裙、头挽木钗、相貌秀美、脸色苍白、半边衣袖空荡",
-    "标志特征": "残一臂、双腿枯瘦被天火神链透骨困住、动情时双目碧绿面容凶厉",
-    "性格": "嗜血成性"
+    "外貌": "黑色衣裙、头挽木钗、相貌秀美、脸色苍白、半边衣袖空荡、黑衣木钗、相貌秀美脸色苍白、半边衣袖空荡(残臂)、双腿枯瘦如柴无血肉、被银白细链透骨锁住",
+    "标志特征": "残一臂、双腿枯瘦被天火神链透骨困住、动情时双目碧绿面容凶厉、撕符前双目变碧绿、面容凶厉扭曲",
+    "性格": "嗜血成性",
+    "身份": "隐修老怪物(自囚石室不能离开半步)"
   },
   "observations": {
     "性别": [
@@ -34,6 +37,21 @@
         "value": "黑色衣裙、头挽木钗、相貌秀美、脸色苍白、半边衣袖空荡",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "黑衣木钗、相貌秀美脸色苍白",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "半边衣袖空荡(残臂)",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "双腿枯瘦如柴无血肉、被银白细链透骨锁住",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "标志特征": [
@@ -51,6 +69,11 @@
         "value": "动情时双目碧绿面容凶厉",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "撕符前双目变碧绿、面容凶厉扭曲",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "性格": [
@@ -59,6 +82,13 @@
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607,
         "note": "幽杀决大成的副作用，故自困"
+      }
+    ],
+    "身份": [
+      {
+        "value": "隐修老怪物(自囚石室不能离开半步)",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ]
   },
@@ -94,12 +124,19 @@
       "dated": false,
       "seq": 607,
       "note": "幽杀决大成的副作用，故自困"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+      "dated": false,
+      "seq": 607
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.476Z"
+  "updatedAt": "2026-06-17T07:58:36.427Z"
 }

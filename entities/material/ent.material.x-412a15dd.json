@@ -8,8 +8,8 @@
   "summary": "极罕见的炼器材料，除巨力可破外任何法术法宝灵力皆无效，受损自动修复，可阻隔神识。",
   "attributes": {
     "类型": "炼器材料",
-    "用途": "建造隔绝法术与神识的石室",
-    "稀有度": "蛮荒时即极少见"
+    "用途": "建造隔绝法术与神识的石室、隔绝/吸纳灵力、打造囚室石屋",
+    "稀有度": "蛮荒时即极少见、极罕见(蛮荒时亦少见)"
   },
   "observations": {
     "类型": [
@@ -24,12 +24,27 @@
         "value": "建造隔绝法术与神识的石室",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "隔绝/吸纳灵力",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "打造囚室石屋",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "稀有度": [
       {
         "value": "蛮荒时即极少见",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "极罕见(蛮荒时亦少见)",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ]
@@ -58,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.494Z"
+  "updatedAt": "2026-06-17T07:58:36.445Z"
 }

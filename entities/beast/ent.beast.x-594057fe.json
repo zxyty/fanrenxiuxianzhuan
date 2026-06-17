@@ -10,15 +10,17 @@
     "小狐",
     "**少妇",
     "尸魈化身（自称）",
-    "四瞳灵狐"
+    "四瞳灵狐",
+    "进化雪云狐",
+    "狐妖"
   ],
   "summary": "栖于绿踪沼泽的尺许小兽,雪白可爱、通人性;此异种已带淡淡灵气进化成低阶妖兽,极嗜上年份黄精。",
   "attributes": {
-    "种族": "灵狐/妖狐",
-    "等级": "化形示人时显七级（偏弱）",
-    "栖息地": "乱星海巨山山腹石室",
-    "外形": "尺许大、浑身洁白如雪、碧绿眼珠、粉红小鼻、白色小狐、小巧玲珑白狐，碧绿狐目；化形为赤身狐尾娇媚少妇",
-    "能力": "奔跑极快、善钻淤泥逃遁、装死、尾毛倒竖坚硬如针、借石而遁/土遁、化形、幻术、匿形术（强于韩立神识）、粉色香雾、利爪变形暴涨、魔瞳、土遁术",
+    "种族": "雪云狐、灵狐/妖狐、雪云狐(已进化成妖兽)",
+    "等级": "低阶妖兽、化形示人时显七级（偏弱）、七级妖兽",
+    "栖息地": "绿踪沼泽、乱星海巨山山腹石室、沼泽边巨山石室",
+    "外形": "尺许大、浑身洁白如雪、碧绿眼珠、粉红小鼻、白色小狐、小巧玲珑白狐，碧绿狐目；化形为赤身狐尾娇媚少妇、白毛雪云狐 / 拖狐尾的娇媚少妇",
+    "能力": "奔跑极快、善钻淤泥逃遁、装死、尾毛倒竖坚硬如针、借石而遁/土遁、化形、幻术、匿形术（强于韩立神识）、粉色香雾、利爪变形暴涨、魔瞳、土遁术、装死(瞒过结丹修士)、尾毛倒竖如针、借山石脉土遁、幻术分身、匿形隐身、喷粉红香雾",
     "主人": "韩立"
   },
   "observations": {
@@ -31,6 +33,11 @@
       {
         "value": "灵狐/妖狐",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "雪云狐(已进化成妖兽)",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ],
@@ -46,6 +53,12 @@
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607,
         "note": "夺舍失败后被打回低阶妖兽原形"
+      },
+      {
+        "value": "七级妖兽",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607,
+        "note": "化形少妇时；被银狼夺舍后跌回低阶"
       }
     ],
     "栖息地": [
@@ -57,6 +70,11 @@
       {
         "value": "乱星海巨山山腹石室",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "沼泽边巨山石室",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ],
@@ -74,6 +92,11 @@
       {
         "value": "小巧玲珑白狐，碧绿狐目；化形为赤身狐尾娇媚少妇",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "白毛雪云狐 / 拖狐尾的娇媚少妇",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ],
@@ -132,6 +155,36 @@
         "value": "土遁术",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "装死(瞒过结丹修士)",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "尾毛倒竖如针",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "借山石脉土遁",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "幻术分身",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "匿形隐身",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
+      },
+      {
+        "value": "喷粉红香雾",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "主人": [
@@ -146,22 +199,22 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+      "docId": "plot.fanren-ch560-guishu",
       "dated": false,
-      "seq": 607
+      "seq": 601
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+      "docId": "plot.fanren-ch560-guishu",
       "dated": false,
-      "seq": 607,
-      "note": "夺舍失败后被打回低阶妖兽原形"
+      "seq": 601,
+      "note": "异种,刚进阶不久"
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+      "docId": "plot.fanren-ch560-guishu",
       "dated": false,
-      "seq": 607
+      "seq": 601
     },
     "外形": {
       "asOf": null,
@@ -188,7 +241,8 @@
     "plot.fanren-ch560-guishu",
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-    "plot.fanren-ch648-zhimu-lingying"
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T20:54:29.219Z"
+  "updatedAt": "2026-06-17T07:58:36.464Z"
 }

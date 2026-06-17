@@ -7,7 +7,7 @@
   ],
   "summary": "以五杆白色迷踪旗布下的幻阵,需五人各持一旗,黄雾化幻境困敌、令其原地打转,只困不伤。",
   "attributes": {
-    "效果": "困缚妖兽",
+    "效果": "幻阵困敌、只困不伤、困缚妖兽、困住妖兽",
     "布置者": "隐剑峰弟子",
     "出处": "向内门师兄所借迷踪阵旗"
   },
@@ -21,6 +21,11 @@
       {
         "value": "困缚妖兽",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "困住妖兽",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ],
@@ -48,9 +53,9 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+      "docId": "plot.fanren-ch560-guishu",
       "dated": false,
-      "seq": 607
+      "seq": 601
     },
     "布置者": {
       "asOf": null,
@@ -69,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch560-guishu",
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.497Z"
+  "updatedAt": "2026-06-17T07:58:36.449Z"
 }

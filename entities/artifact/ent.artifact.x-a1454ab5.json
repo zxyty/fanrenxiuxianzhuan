@@ -18,7 +18,7 @@
   "attributes": {
     "持有者": "徐姓青年",
     "五行属性": "火/土",
-    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御、幻形通灵、化银狼、银角射银光弹、身坚如铁、防御抵挡、探出银色狼首低消攻击威力、护身光罩",
+    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御、幻形通灵、化银狼、银角射银光弹、身坚如铁、防御抵挡、探出银色狼首低消攻击威力、护身光罩、释放火属性红黄护身光罩",
     "器灵": "红黄二狼/银色巨狼",
     "外形": "碧绿色玉如意",
     "来历": "双首火狼所化古宝"
@@ -118,6 +118,11 @@
         "value": "护身光罩",
         "docId": "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
         "seq": 553
+      },
+      {
+        "value": "释放火属性红黄护身光罩",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "器灵": [
@@ -162,6 +167,11 @@
         "value": "红黄两色",
         "docId": "plot.fanren-ch485-yuanying-xian",
         "seq": 485
+      },
+      {
+        "value": "狼首造型",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "来历": [
@@ -227,7 +237,8 @@
     "plot.fanren-ch484-huashenfu-butiandan",
     "plot.fanren-ch485-yuanying-xian",
     "plot.fanren-ch485-dan-yao-zhi-zheng",
-    "plot.fanren-553-558-shipo-yu-liefeng-zaixian"
+    "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-17T07:04:32.864Z"
+  "updatedAt": "2026-06-17T07:58:36.467Z"
 }

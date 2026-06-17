@@ -424,3 +424,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T07:36:01.000Z** `ingest` plot.fanren-ch588-593-yinming-leave-wubianhai — 凡人修仙传 第588-593章｜降灵符·啖魂·暴风山·脱离阴冥之地·重返天南 · kind=plot asOf=2026-06-17 entities=0 relations=0 src=00589-00594.md
 - **2026-06-17T07:43:48.107Z** `ingest` plot.fanren-ch595-600-join-luoyunzong — 第595-600章 落云宗：韩立婉拒梅凝、丹药失效、谋入落云宗 · kind=plot asOf=2026-06-17 entities=40 relations=49 src=00595-00600.md
 - **2026-06-17T07:51:04.502Z** `ingest` plot.fanren-601-606-luoyunzong-yaoyuan-anzha — 凡人修仙传 第601-606章：韩立入落云宗天泉峰、药园安身与解除后患 · kind=plot asOf=2026-06-17 entities=28 relations=34 src=00601-00606.md
+- **2026-06-17T07:58:36.601Z** `ingest` plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu — 凡人修仙传 第607-612章｜追匿雪云狐·青金石室黑衣少妇与灵眼之玉 · kind=plot asOf=2026-06-17 entities=23 relations=25 src=00607-00612.md

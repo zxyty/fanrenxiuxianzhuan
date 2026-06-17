@@ -9,8 +9,8 @@
   "summary": "六道传人温天仁的遗物宝甲，质地不逊皇鳞甲；韩立皇鳞甲毁后改穿，本章挡下妖狐利爪偷袭。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "防御力不逊皇鳞甲，普通法宝难破",
-    "来历": "六道传人温天仁所有"
+    "能力": "防御力不逊皇鳞甲，普通法宝难破、普通法宝难以击毁的护身宝甲",
+    "来历": "六道传人温天仁所有、六道传人温天仁"
   },
   "observations": {
     "持有者": [
@@ -25,12 +25,22 @@
         "value": "防御力不逊皇鳞甲，普通法宝难破",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
         "seq": 607
+      },
+      {
+        "value": "普通法宝难以击毁的护身宝甲",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
+        "seq": 607
       }
     ],
     "来历": [
       {
         "value": "六道传人温天仁所有",
         "docId": "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+        "seq": 607
+      },
+      {
+        "value": "六道传人温天仁",
+        "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
       }
     ]
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi"
+    "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
+    "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu"
   ],
-  "updatedAt": "2026-06-14T19:52:54.525Z"
+  "updatedAt": "2026-06-17T07:58:36.469Z"
 }
