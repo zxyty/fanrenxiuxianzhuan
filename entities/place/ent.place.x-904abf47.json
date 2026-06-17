@@ -2,11 +2,14 @@
   "id": "ent.place.x-904abf47",
   "type": "place",
   "name": "晶龙阁",
-  "aliases": [],
+  "aliases": [
+    "晶龙阁交换会"
+  ],
   "summary": "天晶真人好友所开、位于阗天城的阁楼，以幻术伪装、二层空间反大于外观，为元婴交换会场地。",
   "attributes": {
-    "类型": "阁楼/交换会场地、交易阁楼、商铺",
-    "所属界面": "天南"
+    "类型": "阁楼/交换会场地、交易阁楼、商铺、交换会场所",
+    "所属界面": "天南",
+    "守护": "幻术伪装、需戴乌灵面具入内"
   },
   "observations": {
     "类型": [
@@ -24,6 +27,11 @@
         "value": "商铺",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "交换会场所",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
       }
     ],
     "所属界面": [
@@ -31,6 +39,13 @@
         "value": "天南",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      }
+    ],
+    "守护": [
+      {
+        "value": "幻术伪装、需戴乌灵面具入内",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
       }
     ]
   },
@@ -47,13 +62,20 @@
       "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
       "dated": false,
       "seq": 679
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+      "dated": false,
+      "seq": 673
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-672-676-tiantian-exchange-meeting",
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
   ],
-  "updatedAt": "2026-06-14T21:53:35.912Z"
+  "updatedAt": "2026-06-17T10:06:57.373Z"
 }

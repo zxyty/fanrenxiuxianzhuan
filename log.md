@@ -435,3 +435,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T09:34:20.541Z** `ingest` lore.xuanmu-huaying-second-yuanying-technique — 玄牡化婴大法（培育第二元婴秘功）与梦引术封记 · kind=lore asOf=2026-06-17 entities=62 relations=68 src=00655-00660.md
 - **2026-06-17T09:52:04.858Z** `ingest` plot.fanren-661-666-noxious-gold-sword-trail-exposed — 凡人修仙传 第661-666章｜噬金灵剑·行迹暴露·闻风而逃 · kind=plot asOf=2026-06-17 entities=62 relations=81 src=00661-00666.md
 - **2026-06-17T10:04:47.742Z** `ingest` plot.fanren-666-liuyu — 凡人修仙传 第666章 柳玉——御灵宗至木灵婴秘辛揭露 · kind=plot asOf=2026-06-17 entities=44 relations=54 src=00667-00672.md
+- **2026-06-17T10:06:57.481Z** `ingest` plot.fanren-672-677-tiantiancheng-yuanying-exchange — 凡人修仙传 第672-677章｜阗天城强行交易与元婴交换会 · kind=plot asOf=2026-06-17 entities=21 relations=16 src=00673-00678.md

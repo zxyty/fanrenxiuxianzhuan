@@ -7,11 +7,13 @@
     "天晶兄",
     "天晶上人",
     "灰袍道士",
-    "天晶道友"
+    "天晶道友",
+    "天晶老友",
+    "天晶老鬼"
   ],
   "summary": "晶龙阁交换会主办者，约五六十岁灰袍道士，修炼晶光功，疑知庚精下落，末取出傀儡怪兽求换。",
   "attributes": {
-    "外貌": "老道",
+    "外貌": "慈眉善目灰袍道士、慈眉善目老道、五六十岁灰袍道士、老道、灰袍、慈眉善目、约五六十岁",
     "小阶段": "元婴初期",
     "身份": "晶龙阁交换会主办、傀儡兽持有者/交换会主持、晶龙阁主人、阵法大家",
     "标志特征": "御使恶鬼傀儡",
@@ -41,6 +43,11 @@
         "value": "老道",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "灰袍、慈眉善目、约五六十岁",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
       }
     ],
     "小阶段": [
@@ -92,13 +99,18 @@
         "value": "御使恶鬼傀儡",
         "docId": "plot.fanren-841-lianshou-kangmo",
         "seq": 841
+      },
+      {
+        "value": "原修晶光功",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
-        "seq": 817
+        "seq": 673
       }
     ],
     "性格": [
@@ -127,9 +139,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
+      "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
       "dated": false,
-      "seq": 817
+      "seq": 673
     },
     "小阶段": {
       "asOf": null,
@@ -153,7 +165,7 @@
       "asOf": null,
       "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 817
+      "seq": 673
     },
     "性格": {
       "asOf": null,
@@ -184,7 +196,8 @@
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-841-lianshou-kangmo",
-    "plot.fanren-847-852-mojian-zaixian-mowei-sinue"
+    "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
   ],
-  "updatedAt": "2026-06-15T14:13:06.117Z"
+  "updatedAt": "2026-06-17T10:06:57.369Z"
 }

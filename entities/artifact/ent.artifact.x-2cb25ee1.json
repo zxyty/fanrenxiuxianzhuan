@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "困仙环",
   "aliases": [
-    "捆仙环"
+    "捆仙环",
+    "白色精环"
   ],
   "summary": "绿衣妇人以金精等材料炼制的未认主白色精环法宝，攻守兼具，可困敌护身。",
   "attributes": {
     "品阶": "法宝",
     "能力": "困敌、护身",
-    "禁制": "未认主"
+    "禁制": "未认主、尚未认主",
+    "持有者": "淡绿妇人",
+    "外形": "白色精环、银白符文"
   },
   "observations": {
     "品阶": [
@@ -36,6 +39,25 @@
         "value": "未认主",
         "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
         "seq": 673
+      },
+      {
+        "value": "尚未认主",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
+      }
+    ],
+    "持有者": [
+      {
+        "value": "淡绿妇人",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
+      }
+    ],
+    "外形": [
+      {
+        "value": "白色精环、银白符文",
+        "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+        "seq": 673
       }
     ]
   },
@@ -58,12 +80,25 @@
       "docId": "plot.fanren-672-676-tiantian-exchange-meeting",
       "dated": false,
       "seq": 673
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+      "dated": false,
+      "seq": 673
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+      "dated": false,
+      "seq": 673
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-672-676-tiantian-exchange-meeting"
+    "plot.fanren-672-676-tiantian-exchange-meeting",
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
   ],
-  "updatedAt": "2026-06-14T21:45:17.098Z"
+  "updatedAt": "2026-06-17T10:06:57.379Z"
 }
