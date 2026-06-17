@@ -6,13 +6,14 @@
     "还魂之术",
     "改阳神术",
     "还魂密术",
-    "还魂秘术"
+    "还魂秘术",
+    "还阳秘术"
   ],
   "summary": "让魂魄进入新死肉身重新还阳的秘术，需结丹以上修为、玄阴之地施展，代价为施术者跌一境（结丹多碎丹跌回筑基）。",
   "attributes": {
     "类型": "秘术、还魂秘术、逆天密术、救魂/护魂",
     "消耗": "施术者跌一境（结丹多碎丹跌回筑基）、施术者碎丹、施术后修为大退甚至跌境",
-    "适用境界": "结丹期"
+    "适用境界": "结丹以上、结丹期、结丹期以上"
   },
   "observations": {
     "类型": [
@@ -64,6 +65,11 @@
         "value": "结丹期",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "结丹期以上",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ]
   },
@@ -83,9 +89,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
-      "seq": 565
+      "seq": 559
     }
   },
   "contested": false,
@@ -95,7 +101,8 @@
     "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
     "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
     "plot.fanren-589-594-jiangling-fu-baofengshan",
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-16T17:08:35.993Z"
+  "updatedAt": "2026-06-17T07:17:34.912Z"
 }

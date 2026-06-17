@@ -9,19 +9,20 @@
     "灵兽山钟吾",
     "丑汉钟吾",
     "丑陋汉子",
-    "丑陋恶汉"
+    "丑陋恶汉",
+    "相貌凶恶的大汉"
   ],
   "summary": "灵兽山修士，以莽荒山飞蛇偷袭韩立，认出踏云靴后罢手并与韩立交换中心区资料。",
   "attributes": {
     "阵营": "七派",
-    "外貌": "中等身材、大小眼、满脸黑麻点、约四十岁、身挂七八口袋、丑汉、丑陋汉子、头顶绿色光罩、丑陋",
+    "外貌": "中等身材、大小眼、满脸黑麻点、约四十岁、身挂七八口袋、丑汉、丑陋汉子、头顶绿色光罩、丑陋、相貌丑陋凶恶、面容丑陋",
     "性格": "老奸巨猾、贪婪残忍",
     "标志特征": "开山钺",
     "身份": "禁地中某派高手、灵兽山弟子、黄枫谷地火之地看守、地火屋管理者、黄枫谷弟子、六道盟执法使",
     "性别": "男",
     "小阶段": "结丹初期",
     "存殁": "死亡",
-    "死因": "被韩立飞剑分尸"
+    "死因": "被血蜘蛛腰斩、被韩立飞剑分尸、被韩立飞剑乱剑分尸"
   },
   "observations": {
     "阵营": [
@@ -56,6 +57,16 @@
         "value": "丑陋",
         "docId": "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
         "seq": 211
+      },
+      {
+        "value": "相貌丑陋凶恶",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
+      },
+      {
+        "value": "面容丑陋",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ],
     "性格": [
@@ -140,6 +151,11 @@
         "value": "被韩立飞剑分尸",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
         "seq": 559
+      },
+      {
+        "value": "被韩立飞剑乱剑分尸",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ]
   },
@@ -195,9 +211,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "docId": "plot.fanren-ch266-jidou",
       "dated": false,
-      "seq": 559
+      "seq": 265
     }
   },
   "contested": false,
@@ -210,7 +226,8 @@
     "plot.fanren-ch211-216-baishi-lihuayuan-liandan-zhunbei",
     "plot.fanren-ch259-264-guilingmen-trap-blood-spirit",
     "plot.fanren-ch266-jidou",
-    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui"
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:00:29.830Z"
+  "updatedAt": "2026-06-17T07:17:34.882Z"
 }

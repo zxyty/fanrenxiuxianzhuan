@@ -2,7 +2,9 @@
   "id": "ent.item.x-3c6afdf0",
   "type": "item",
   "name": "寒玉棺",
-  "aliases": [],
+  "aliases": [
+    "白玉棺"
+  ],
   "summary": "元瑶法阵中心放置的玉棺，用于装殓妍丽并施还魂术，阴气会向其会聚。",
   "attributes": {
     "类型": "玉棺",
@@ -14,6 +16,11 @@
         "value": "玉棺",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "寒玉棺",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ],
     "用途": [
@@ -21,10 +28,15 @@
         "value": "施还魂术、安置妍丽元神/肉身",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "盛放还魂术所需躯体",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ]
   },
-  "firstSeq": 565,
+  "firstSeq": 559,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -42,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:09:06.175Z"
+  "updatedAt": "2026-06-17T07:17:34.916Z"
 }

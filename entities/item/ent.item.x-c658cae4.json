@@ -10,7 +10,7 @@
   "summary": "置于骸骨之上的令牌，为禁地中众修士争夺之物，吕天蒙因贪图此令而倒戈。",
   "attributes": {
     "类型": "传送令牌",
-    "用途": "传送/挪移"
+    "用途": "禁地中众人争夺的标的、传送/挪移、瞬间传送"
   },
   "observations": {
     "类型": [
@@ -35,6 +35,11 @@
         "value": "传送/挪移",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
         "seq": 559
+      },
+      {
+        "value": "瞬间传送",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ]
   },
@@ -48,9 +53,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+      "docId": "plot.fanren-ch266-jidou",
       "dated": false,
-      "seq": 559
+      "seq": 265
     }
   },
   "contested": false,
@@ -60,7 +65,8 @@
     "plot.fanren-ch362-nangong-ping",
     "plot.fanren-ch392-yuchong",
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-15T10:22:05.173Z"
+  "updatedAt": "2026-06-17T07:17:34.873Z"
 }

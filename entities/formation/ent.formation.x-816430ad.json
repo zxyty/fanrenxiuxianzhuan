@@ -3,12 +3,13 @@
   "type": "formation",
   "name": "拘灵阵",
   "aliases": [
-    "拘灵法阵"
+    "拘灵法阵",
+    "青阳门密阵拘灵阵"
   ],
   "summary": "青阳门密阵，天下少有可掩饰灵气的阵法之一；元瑶修为不足仅能掩部分灵气，被丁姓老者以黄芒破去。",
   "attributes": {
-    "出处": "青阳门",
-    "效果": "掩饰灵气、伪装为荒山、隐匿洞府附近灵气、隐匿灵气波动",
+    "出处": "青阳门、青阳门阵法典籍",
+    "效果": "掩饰灵气、伪装为荒山、隐匿洞府附近灵气、隐匿灵气波动、掩饰灵气、伪装地形",
     "布置者": "韩立"
   },
   "observations": {
@@ -16,6 +17,11 @@
       {
         "value": "青阳门",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "青阳门阵法典籍",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
         "seq": 559
       }
     ],
@@ -34,13 +40,19 @@
         "value": "隐匿灵气波动",
         "docId": "plot.fanren-ch560-guishu",
         "seq": 601
+      },
+      {
+        "value": "掩饰灵气、伪装地形",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ],
     "布置者": [
       {
         "value": "元瑶",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-        "seq": 559
+        "seq": 559,
+        "note": "修为不足仅掩部分灵气"
       },
       {
         "value": "韩立",
@@ -74,7 +86,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-    "plot.fanren-ch560-guishu"
+    "plot.fanren-ch560-guishu",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:44:58.667Z"
+  "updatedAt": "2026-06-17T07:17:34.909Z"
 }

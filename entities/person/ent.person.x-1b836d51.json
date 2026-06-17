@@ -10,7 +10,9 @@
   "attributes": {
     "性别": "男",
     "存殁": "死亡",
-    "死因": "被元瑶、妍丽设圈套暗算"
+    "死因": "被元瑶、妍丽设圈套暗算、被元瑶暗害",
+    "身份": "青阳门少主",
+    "性格": "色中饿鬼、骗女修作炉鼎"
   },
   "observations": {
     "性别": [
@@ -32,6 +34,25 @@
       {
         "value": "被元瑶、妍丽设圈套暗算",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "被元瑶暗害",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
+      }
+    ],
+    "身份": [
+      {
+        "value": "青阳门少主",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
+      }
+    ],
+    "性格": [
+      {
+        "value": "色中饿鬼、骗女修作炉鼎",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
         "seq": 559
       }
     ]
@@ -56,13 +77,26 @@
       "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
       "seq": 559
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+      "dated": false,
+      "seq": 559
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+      "dated": false,
+      "seq": 559
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:09:06.161Z"
+  "updatedAt": "2026-06-17T07:17:34.906Z"
 }

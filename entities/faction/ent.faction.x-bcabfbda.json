@@ -2,11 +2,14 @@
   "id": "ent.faction.x-bcabfbda",
   "type": "faction",
   "name": "青阳门",
-  "aliases": [],
+  "aliases": [
+    "青阳门一门"
+  ],
   "summary": "魔道门派，秘制青火雷。",
   "attributes": {
     "阵营": "乱星海势力",
-    "镇派之宝": "青阳雷、拘灵阵、阵法典籍（拘灵阵等）、阴阳轮回决"
+    "镇派之宝": "青阳雷、拘灵阵、阵法典籍（拘灵阵等）、阴阳轮回决",
+    "掌门": "三阳上人"
   },
   "observations": {
     "阵营": [
@@ -42,6 +45,13 @@
         "docId": "plot.fanren-589-594-jiangling-fu-baofengshan",
         "seq": 589
       }
+    ],
+    "掌门": [
+      {
+        "value": "三阳上人",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
+      }
     ]
   },
   "firstSeq": 463,
@@ -57,6 +67,12 @@
       "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
       "seq": 559
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+      "dated": false,
+      "seq": 559
     }
   },
   "contested": false,
@@ -66,7 +82,8 @@
     "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
     "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
     "plot.fanren-589-594-jiangling-fu-baofengshan",
-    "plot.fanren-1135-1140-qingyu-leikongdao"
+    "plot.fanren-1135-1140-qingyu-leikongdao",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-15T10:50:10.372Z"
+  "updatedAt": "2026-06-17T07:17:34.910Z"
 }

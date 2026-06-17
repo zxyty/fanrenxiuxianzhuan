@@ -2,7 +2,9 @@
   "id": "ent.artifact.x-0beaf212",
   "type": "artifact",
   "name": "青阳雷",
-  "aliases": [],
+  "aliases": [
+    "青阳门秘宝青阳雷"
+  ],
   "summary": "青阳门秘宝，威力奇大，现被元瑶持有。",
   "attributes": {
     "持有者": "元瑶",
@@ -13,7 +15,8 @@
       {
         "value": "元瑶",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
-        "seq": 559
+        "seq": 559,
+        "note": "盗自青阳门"
       }
     ],
     "来历": [
@@ -30,7 +33,8 @@
       "asOf": null,
       "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
       "dated": false,
-      "seq": 559
+      "seq": 559,
+      "note": "盗自青阳门"
     },
     "来历": {
       "asOf": null,
@@ -42,7 +46,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui"
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:00:29.793Z"
+  "updatedAt": "2026-06-17T07:17:34.872Z"
 }

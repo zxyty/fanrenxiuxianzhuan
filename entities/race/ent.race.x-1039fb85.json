@@ -4,14 +4,16 @@
   "name": "蛟龙",
   "aliases": [
     "蛟龙一族",
-    "蛟龙族"
+    "蛟龙族",
+    "深渊蛟龙"
   ],
   "summary": "海族强大种族，天生精水属性功法；本章部分高阶妖修参与万丈海攻人类。",
   "attributes": {
     "特性": "喜食龙鳞果、可化人形",
     "代表人物": "金蛟王",
     "聚居地": "外海",
-    "天赋神通": "化龙决（化蛟成龙）"
+    "天赋神通": "化龙决（化蛟成龙）",
+    "阵营": "妖兽"
   },
   "observations": {
     "特性": [
@@ -43,6 +45,11 @@
         "value": "外海",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "乱星海深渊",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ],
     "天赋神通": [
@@ -50,6 +57,13 @@
         "value": "化龙决（化蛟成龙）",
         "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ]
   },
@@ -78,6 +92,12 @@
       "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
       "dated": false,
       "seq": 541
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+      "dated": false,
+      "seq": 559
     }
   },
   "contested": false,
@@ -86,7 +106,8 @@
     "plot.fan-ren-541-bi-yan-jiu",
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-541-546-bifenjiu-fenglei-chi"
+    "plot.fanren-541-546-bifenjiu-fenglei-chi",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-17T06:50:16.362Z"
+  "updatedAt": "2026-06-17T07:17:34.854Z"
 }

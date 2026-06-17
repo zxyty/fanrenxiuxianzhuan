@@ -3,14 +3,15 @@
   "type": "person",
   "name": "柯宇",
   "aliases": [
-    "精炼汉子"
+    "精炼汉子",
+    "精练汉子"
   ],
   "summary": "筑基后期，六道盟执法者，奉令传达任务并带路，持黑色令牌；被韩立剑芒击毙。",
   "attributes": {
     "小阶段": "筑基后期",
-    "身份": "六道盟传令带路者",
+    "身份": "六道盟传令带路者、六道盟传令带路执法使",
     "存殁": "死亡",
-    "死因": "被韩立剑芒击毙"
+    "死因": "被韩立剑芒击毙、被韩立剑芒透心击毙"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +26,11 @@
         "value": "六道盟传令带路者",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
         "seq": 559
+      },
+      {
+        "value": "六道盟传令带路执法使",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+        "seq": 559
       }
     ],
     "存殁": [
@@ -38,6 +44,11 @@
       {
         "value": "被韩立剑芒击毙",
         "docId": "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+        "seq": 559
+      },
+      {
+        "value": "被韩立剑芒透心击毙",
+        "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
         "seq": 559
       }
     ]
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui"
+    "plot.fanren-559-564-jietoulu-zhu-qingyangmen-zhuibudui",
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
   ],
-  "updatedAt": "2026-06-14T19:00:29.781Z"
+  "updatedAt": "2026-06-17T07:17:34.859Z"
 }
