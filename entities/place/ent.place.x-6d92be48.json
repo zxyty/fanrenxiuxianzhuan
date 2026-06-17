@@ -4,17 +4,31 @@
   "name": "小岛",
   "aliases": [
     "岛屿",
-    "此岛"
+    "此岛",
+    "岛"
   ],
   "summary": "乱星海中的小岛，元瑶在岛上山谷施还魂术，引发天兆并聚集多方修士。",
   "attributes": {
-    "类型": "海岛"
+    "类型": "海岛、海外孤岛",
+    "所属界面": "人界"
   },
   "observations": {
     "类型": [
       {
         "value": "海岛",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "海外孤岛",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
       }
     ]
@@ -26,12 +40,19 @@
       "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
       "dated": false,
       "seq": 565
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+      "dated": false,
+      "seq": 565
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-14T19:09:06.180Z"
+  "updatedAt": "2026-06-17T07:20:31.950Z"
 }

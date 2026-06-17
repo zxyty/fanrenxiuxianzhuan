@@ -8,7 +8,7 @@
   "summary": "温天仁法宝，长三四寸紫光闪闪，可放出紫色云雾隐匿身形。",
   "attributes": {
     "持有者": "温天仁",
-    "能力": "放紫云隐身"
+    "能力": "放紫云隐身、紫云藏身遁形"
   },
   "observations": {
     "持有者": [
@@ -22,6 +22,11 @@
       {
         "value": "放紫云隐身",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "紫云藏身遁形",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
       }
     ]
@@ -44,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-14T19:09:06.233Z"
+  "updatedAt": "2026-06-17T07:20:31.960Z"
 }

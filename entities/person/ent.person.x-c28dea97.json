@@ -10,16 +10,18 @@
     "六道传人",
     "六道少主",
     "逆星盟少主",
-    "六道极圣传人"
+    "六道极圣传人",
+    "温谋",
+    "Wen Tianren"
   ],
   "summary": "逆星盟少主，六道极圣高徒（六道传人），结丹后期，乱星海结丹第一人，神识近元婴，性阴狠善变。",
   "attributes": {
     "性别": "男",
     "小阶段": "结丹",
-    "身份": "六道传人",
+    "身份": "逆星盟少主、六道传人、神鸠堂",
     "称号": "六道传人、乱星海结丹第一人、结丹第一人",
-    "性格": "表面儒雅、内里阴狠毒辣善变",
-    "外貌": "麻衣高冠赤足青年，约27-28岁，眉宇隐射金芒",
+    "性格": "表面儒雅、内里阴狠毒辣善变、儒雅外表、阴狠毒辣、诡异善变",
+    "外貌": "麻衣高冠赤足青年，约27-28岁，眉宇隐射金芒、麻衣高冠赤足青年，眉宇隐有金芒",
     "标志特征": "眉间金色独角",
     "阵营": "魔道（六道）",
     "存殁": "死亡",
@@ -55,6 +57,11 @@
         "value": "六道传人",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      },
+      {
+        "value": "神鸠堂",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565
       }
     ],
     "称号": [
@@ -79,12 +86,22 @@
         "value": "表面儒雅、内里阴狠毒辣善变",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "儒雅外表、阴狠毒辣、诡异善变",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565
       }
     ],
     "外貌": [
       {
         "value": "麻衣高冠赤足青年，约27-28岁，眉宇隐射金芒",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "麻衣高冠赤足青年，眉宇隐有金芒",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
       }
     ],
@@ -144,9 +161,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+      "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
       "dated": false,
-      "seq": 571
+      "seq": 565
     },
     "称号": {
       "asOf": null,
@@ -199,7 +216,8 @@
     "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
     "plot.fanren-589-594-jiangling-fu-baofengshan",
     "plot.fanren-607-612-xueyunhu-heiyishaofu-qingjinshi-shishi",
-    "plot.fanren-ch642-dianfeng-peiyuan-gong"
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-14T20:41:21.840Z"
+  "updatedAt": "2026-06-17T07:20:31.938Z"
 }

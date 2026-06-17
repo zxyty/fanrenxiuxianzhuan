@@ -15,7 +15,8 @@
     "所属界面": "乱星海内海",
     "理念": "正魔两道联合、打破星宫霸权、追杀虚天鼎持鼎人、灭星宫、夺乱星海、打破星宫对乱星海霸权、夺取星海霸权、攻灭星宫、正魔两道联合对抗星宫",
     "掌门": "万天明",
-    "镇派之宝": "风火天绝大阵（布于天星城外）"
+    "镇派之宝": "风火天绝大阵（布于天星城外）",
+    "等级": "结丹级大势力"
   },
   "observations": {
     "阵营": [
@@ -189,6 +190,13 @@
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
       }
+    ],
+    "等级": [
+      {
+        "value": "结丹级大势力",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565
+      }
     ]
   },
   "firstSeq": 493,
@@ -228,6 +236,12 @@
       "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
       "seq": 1213
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+      "dated": false,
+      "seq": 565
     }
   },
   "contested": false,
@@ -253,7 +267,8 @@
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-ch499-504-nanming-island",
     "plot.fanren-ch505-510-escape-to-outer-star-sea",
-    "plot.fanren-535-540-mishi-wen-siyue"
+    "plot.fanren-535-540-mishi-wen-siyue",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-17T06:42:04.080Z"
+  "updatedAt": "2026-06-17T07:20:31.947Z"
 }

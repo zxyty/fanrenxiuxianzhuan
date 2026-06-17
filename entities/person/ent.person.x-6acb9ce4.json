@@ -12,7 +12,7 @@
   "attributes": {
     "性别": "男",
     "小阶段": "筑基期",
-    "性格": "谨慎老练",
+    "性格": "谨慎老练、谨慎、滑头、明哲保身",
     "外貌": "头发花白"
   },
   "observations": {
@@ -34,6 +34,11 @@
       {
         "value": "谨慎老练",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+        "seq": 565
+      },
+      {
+        "value": "谨慎、滑头、明哲保身",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
       }
     ],
@@ -75,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-14T19:09:06.146Z"
+  "updatedAt": "2026-06-17T07:20:31.941Z"
 }

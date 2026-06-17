@@ -6,7 +6,8 @@
   "summary": "随温天仁同行的无名绝色少女，约16-17岁，面色苍白；韩立对其莫名生出熟悉之感。",
   "attributes": {
     "性别": "女",
-    "外貌": "白纱衣、肌肤如玉、面色略苍白，约16-17岁"
+    "外貌": "白纱衣、肌肤如玉、面色略苍白，约16-17岁、十六七岁，白纱衣，肤如凝脂，面色略苍白",
+    "标志特征": "清澈明眸令韩立觉似曾相识"
   },
   "observations": {
     "性别": [
@@ -21,6 +22,19 @@
         "value": "白纱衣、肌肤如玉、面色略苍白，约16-17岁",
         "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
         "seq": 565
+      },
+      {
+        "value": "十六七岁，白纱衣，肤如凝脂，面色略苍白",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "清澈明眸令韩立觉似曾相识",
+        "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+        "seq": 565,
+        "note": "身份未明，疑为旧识，待后文揭晓"
       }
     ]
   },
@@ -37,12 +51,20 @@
       "docId": "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
       "dated": false,
       "seq": 565
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+      "dated": false,
+      "seq": 565,
+      "note": "身份未明，疑为旧识，待后文揭晓"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao"
+    "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
   ],
-  "updatedAt": "2026-06-14T19:09:06.209Z"
+  "updatedAt": "2026-06-17T07:20:31.940Z"
 }
