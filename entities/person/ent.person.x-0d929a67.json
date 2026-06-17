@@ -8,14 +8,15 @@
     "金某",
     "金姓老者",
     "驼背阴森老者",
-    "金青道友"
+    "金青道友",
+    "金老者"
   ],
   "summary": "住韩立附近的结丹期散修，温文尔雅、为人正派，曾在韩立刚结丹时指点，持半幅古修士遗址地图珍珠前来请其破阵。",
   "attributes": {
     "小阶段": "筑基期",
-    "身份": "散修",
+    "身份": "四海真院修士",
     "性格": "自诩无愧于心，本章首生惜命之念",
-    "外貌": "四十来岁、皮肤白皙、细眼长眉",
+    "外貌": "红脸白须",
     "存殁": "死亡",
     "出身地": "大晋国",
     "阵营": "散修",
@@ -41,6 +42,11 @@
         "value": "散修",
         "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
         "seq": 409
+      },
+      {
+        "value": "四海真院修士",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "性格": [
@@ -60,6 +66,11 @@
         "value": "四十来岁、皮肤白皙、细眼长眉",
         "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
         "seq": 409
+      },
+      {
+        "value": "红脸白须",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "存殁": [
@@ -120,9 +131,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
       "dated": false,
-      "seq": 409
+      "seq": 583
     },
     "性格": {
       "asOf": null,
@@ -132,9 +143,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+      "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
       "dated": false,
-      "seq": 409
+      "seq": 583
     },
     "存殁": {
       "asOf": null,
@@ -180,7 +191,8 @@
     "plot.fanren-ch416-421-tushan-fengling-zhu",
     "plot.fanren-ch428-xuangu-shangren-xiaocha",
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-421-426-qixialian-yaoguanshe"
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-15T00:56:43.579Z"
+  "updatedAt": "2026-06-17T07:33:32.205Z"
 }

@@ -14,9 +14,9 @@
   "attributes": {
     "性别": "女",
     "身份": "修士、修仙者",
-    "性格": "心直口快又易羞、温婉、心直口快、易羞涩",
-    "标志特征": "通玉风髓之体（守宫砂下现银色凤凰）、拥有通灵之气可渡灵于人",
-    "外貌": "秀丽，具钟灵之气、楚楚动人、容貌秀丽、柔媚清亮",
+    "性格": "心直口快又易羞、温婉、心直口快、易羞涩、羞涩",
+    "标志特征": "通玉风髓之体（守宫砂下现银色凤凰）、拥有通灵之气可渡灵于人、通玉风髓之体（守宫砂现银色通玉灵凤）",
+    "外貌": "秀丽，具钟灵之气、楚楚动人、容貌秀丽、柔媚清亮、秀丽、自带钟灵之气、楚楚动人的佳人",
     "小阶段": "结丹初期"
   },
   "observations": {
@@ -60,6 +60,11 @@
         "value": "易羞涩",
         "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
+      },
+      {
+        "value": "羞涩",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "标志特征": [
@@ -71,6 +76,11 @@
       {
         "value": "拥有通灵之气可渡灵于人",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "通玉风髓之体（守宫砂现银色通玉灵凤）",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -89,6 +99,16 @@
         "value": "柔媚清亮",
         "docId": "plot.fanren-594-599-luoyunzong-rumen",
         "seq": 595
+      },
+      {
+        "value": "秀丽、自带钟灵之气",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
+      },
+      {
+        "value": "楚楚动人的佳人",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "小阶段": [
@@ -157,7 +177,8 @@
     "plot.fanren-594-599-luoyunzong-rumen",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-793-798-zhuimo-zhi-di",
-    "plot.fanren-577-582-yinming-zhidi"
+    "plot.fanren-577-582-yinming-zhidi",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-17T07:25:52.597Z"
+  "updatedAt": "2026-06-17T07:33:32.200Z"
 }

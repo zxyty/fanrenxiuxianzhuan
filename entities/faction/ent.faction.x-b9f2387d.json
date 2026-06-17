@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "大晋国势力，金道友所属。",
   "attributes": {
-    "所属界面": "大晋国"
+    "所属界面": "大晋国、大晋皇朝"
   },
   "observations": {
     "所属界面": [
       {
         "value": "大晋国",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-14T19:22:19.156Z"
+  "updatedAt": "2026-06-17T07:33:32.214Z"
 }

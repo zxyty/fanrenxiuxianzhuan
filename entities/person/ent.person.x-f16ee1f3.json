@@ -4,13 +4,16 @@
   "name": "长须老者",
   "aliases": [
     "五龙海长须老者",
-    "自称五龙海的修士"
+    "自称五龙海的修士",
+    "五龙海修士",
+    "长须修士"
   ],
   "summary": "五龙海筑基修士，三老中的主事者，邀韩立联手夺取村中大权，被拒后派人暗中监视韩立。",
   "attributes": {
     "小阶段": "筑基期",
     "外貌": "长须",
-    "出身地": "五龙海"
+    "出身地": "五龙海",
+    "身份": "落难修士"
   },
   "observations": {
     "小阶段": [
@@ -31,6 +34,13 @@
       {
         "value": "五龙海",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      }
+    ],
+    "身份": [
+      {
+        "value": "落难修士",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ]
@@ -54,12 +64,19 @@
       "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
       "dated": false,
       "seq": 583
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+      "dated": false,
+      "seq": 583
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-14T19:22:19.141Z"
+  "updatedAt": "2026-06-17T07:33:32.202Z"
 }

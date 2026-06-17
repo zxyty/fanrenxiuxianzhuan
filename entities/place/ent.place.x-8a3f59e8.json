@@ -8,9 +8,9 @@
   ],
   "summary": "阴冥之地中传说可借以脱身离开此界之处，条件极为苛刻，几乎无人能成。",
   "attributes": {
-    "类型": "脱身之地、山岳、高山/逃离关口、巨山、山、脱身之路",
+    "类型": "脱身之地、山岳、高山/逃离关口、巨山、山、脱身之路、险山、险峰",
     "危险度": "高",
-    "守护": "飞行阴兽、阴兽、阴冥之风、幻雾",
+    "守护": "飞行阴兽、阴兽、阴冥之风、幻雾、山下阴兽、阴冥之风、幻雾",
     "所属界面": "阴冥之地"
   },
   "observations": {
@@ -44,6 +44,16 @@
         "value": "脱身之路",
         "docId": "plot.fanren-577-582-yinming-zhidi",
         "seq": 577
+      },
+      {
+        "value": "险山",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
+      },
+      {
+        "value": "险峰",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "危险度": [
@@ -67,6 +77,11 @@
       {
         "value": "阴兽、阴冥之风、幻雾",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "山下阴兽、阴冥之风、幻雾",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -111,7 +126,8 @@
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
     "plot.fanren-589-594-jiangling-fu-baofengshan",
-    "plot.fanren-577-582-yinming-zhidi"
+    "plot.fanren-577-582-yinming-zhidi",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-17T07:25:52.611Z"
+  "updatedAt": "2026-06-17T07:33:32.209Z"
 }

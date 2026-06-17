@@ -8,8 +8,8 @@
   "summary": "通玉风髓之女入筑基后体内所生的精粹灵力，号称世间七大精粹灵力之一，可令受赠男子洗髓易经、修为大进；一生仅能心甘情愿渡一名男子，失贞或强夺则散。",
   "attributes": {
     "类型": "精粹灵力",
-    "用途": "洗髓易经、暂时恢复法力",
-    "稀有度": "极稀有"
+    "用途": "洗髓易经、暂时恢复法力、渡给男子洗髓易经、修为大进，亦可短暂回复法力",
+    "稀有度": "极稀有、媲美上古珍稀丹药"
   },
   "observations": {
     "类型": [
@@ -24,12 +24,22 @@
         "value": "洗髓易经、暂时恢复法力",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "渡给男子洗髓易经、修为大进，亦可短暂回复法力",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "稀有度": [
       {
         "value": "极稀有",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "媲美上古珍稀丹药",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-14T19:22:19.129Z"
+  "updatedAt": "2026-06-17T07:33:32.219Z"
 }

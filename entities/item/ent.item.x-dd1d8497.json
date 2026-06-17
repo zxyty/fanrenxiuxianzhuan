@@ -7,7 +7,7 @@
   ],
   "summary": "天符门红脸老者临行前私下托付韩立的一只粗糙骨盒，望韩立逃出后送交天符门。",
   "attributes": {
-    "类型": "盒",
+    "类型": "盒、托付之物",
     "用途": "受托代转天符门"
   },
   "observations": {
@@ -15,6 +15,11 @@
       {
         "value": "盒",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "托付之物",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -44,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-14T19:22:19.150Z"
+  "updatedAt": "2026-06-17T07:33:32.215Z"
 }

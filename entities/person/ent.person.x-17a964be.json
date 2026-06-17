@@ -9,18 +9,19 @@
     "细眼白面人",
     "封姓中年人",
     "封姓凡人",
-    "鹰钩鼻子修士"
+    "鹰钩鼻子修士",
+    "封姓武师"
   ],
   "summary": "数年前被吸入阴冥之地的凡人武功高手，自称纵横西极海，因击杀阴兽被推为村长老；觊觎梅凝威逼求亲，被韩立折断一臂。",
   "attributes": {
     "性别": "男",
-    "种族": "凡人",
-    "身份": "村长老、村中教习武功的长老(凡人)",
+    "种族": "凡人、凡人（无灵根）",
+    "身份": "村长老、村中教习武功的长老(凡人)、村中长老、村中武功教习长老",
     "出身地": "西极海",
-    "标志特征": "细眼白面、内力精湛、武功高强",
+    "标志特征": "细眼白面、内力精湛、武功高强、武功高强、纵横西极海、数杀阴兽",
     "存殁": "死亡",
     "死因": "被三色噬金虫咬破咽喉",
-    "结局": "于第586章被韩立暗杀",
+    "结局": "于第586章被韩立暗杀、被韩立折断一臂、狼狈离去",
     "小阶段": "结丹期"
   },
   "observations": {
@@ -36,6 +37,11 @@
         "value": "凡人",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "凡人（无灵根）",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "身份": [
@@ -47,6 +53,16 @@
       {
         "value": "村中教习武功的长老(凡人)",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "村中长老",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
+      },
+      {
+        "value": "村中武功教习长老",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -66,6 +82,11 @@
       {
         "value": "武功高强",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "武功高强、纵横西极海、数杀阴兽",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -92,6 +113,11 @@
       {
         "value": "于第586章被韩立暗杀",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+        "seq": 583
+      },
+      {
+        "value": "被韩立折断一臂、狼狈离去",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
     ],
@@ -164,7 +190,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-404-guiju-miaoyin-vs-yinshamen"
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-15T04:28:54.581Z"
+  "updatedAt": "2026-06-17T07:33:32.201Z"
 }

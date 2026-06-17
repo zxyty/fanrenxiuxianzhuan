@@ -7,7 +7,7 @@
   ],
   "summary": "阴冥之地浸泡阴兽骨骼的液体，使骨器更坚硬并附阴火之力。",
   "attributes": {
-    "类型": "液体、特有液体、阴寒液体",
+    "类型": "液体、特有液体、阴寒液体、特产液体",
     "用途": "浸泡阴兽骨制兵器、取万年玄玉、法器临时附阴火",
     "产地": "鬼雾阴冥之地"
   },
@@ -27,6 +27,11 @@
         "value": "阴寒液体",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "特产液体",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "用途": [
@@ -84,7 +89,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-16T06:12:07.040Z"
+  "updatedAt": "2026-06-17T07:33:32.216Z"
 }

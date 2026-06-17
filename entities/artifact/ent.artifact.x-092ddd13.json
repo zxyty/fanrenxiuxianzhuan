@@ -13,8 +13,8 @@
   "attributes": {
     "品阶": "顶阶",
     "持有者": "韩立",
-    "能力": "须同时祭出十三针方可驱动、化为红线丝网、体小速快宜偷袭、射红线穿击、锐利无比，可洞穿坚硬兽皮",
-    "外形": "飞针(十三枚)"
+    "能力": "须同时祭出十三针方可驱动、化为红线丝网、体小速快宜偷袭、射红线穿击、锐利无比，可洞穿坚硬兽皮、锐利、可穿透坚硬兽皮",
+    "外形": "蓝幽幽长针"
   },
   "observations": {
     "品阶": [
@@ -61,6 +61,11 @@
         "value": "锐利无比，可洞穿坚硬兽皮",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "锐利、可穿透坚硬兽皮",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ],
     "外形": [
@@ -73,6 +78,11 @@
         "value": "飞针(十三枚)",
         "docId": "plot.fanren-356-huofu-xiangyi",
         "seq": 355
+      },
+      {
+        "value": "蓝幽幽长针",
+        "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+        "seq": 583
       }
     ]
   },
@@ -98,9 +108,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-356-huofu-xiangyi",
+      "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
       "dated": false,
-      "seq": 355
+      "seq": 583
     }
   },
   "contested": false,
@@ -109,7 +119,8 @@
     "plot.fanren-ch350-instant-kill",
     "plot.fanren-356-huofu-xiangyi",
     "plot.fanren-ch392-yuchong",
-    "plot.fanren-583-588-yinmingzhidi-yaowen-meining"
+    "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
   ],
-  "updatedAt": "2026-06-14T19:22:19.147Z"
+  "updatedAt": "2026-06-17T07:33:32.218Z"
 }
