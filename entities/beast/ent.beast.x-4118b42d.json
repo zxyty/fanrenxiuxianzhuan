@@ -14,7 +14,8 @@
     "外形": "通体洁白发光、拳头大小、晶莹剔透、头颅般大白蜘蛛、白色蜘蛛、磨盘大小白色蜘蛛、通体晶莹如玉、血玉色蜘蛛、暴怒时通体血红、红光血玉蜘蛛、血色蜘蛛",
     "主人": "韩立",
     "能力": "喷吐网孔奇小的蛛网、克制噬金虫、喷吐蛛丝结网、取虚天鼎最佳灵兽之一、认主、可自爆、取宝、喷射巨大白色蛛网、蛛丝耐乾蓝冰焰、红光护体、吐乳白蛛丝、雌雄成对方可升阶越级、喷蛛网拉拽、狂暴状态、吐丝拉拽",
-    "栖息地": "虚天殿/玄阴一脉"
+    "栖息地": "虚天殿/玄阴一脉",
+    "天敌": "噬金虫"
   },
   "observations": {
     "等级": [
@@ -196,6 +197,13 @@
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
       }
+    ],
+    "天敌": [
+      {
+        "value": "噬金虫",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      }
     ]
   },
   "firstSeq": 343,
@@ -229,6 +237,12 @@
       "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
       "dated": false,
       "seq": 487
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
@@ -254,7 +268,8 @@
     "plot.fanren-ch485-yuanying-xian",
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-511-516-qiyuan-island-wuzhong-island",
-    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-17T07:33:32.191Z"
+  "updatedAt": "2026-06-17T10:04:47.589Z"
 }

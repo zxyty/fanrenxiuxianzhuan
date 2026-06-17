@@ -2,7 +2,10 @@
   "id": "ent.person.x-2a1fc67f",
   "type": "person",
   "name": "木离上人",
-  "aliases": [],
+  "aliases": [
+    "木离",
+    "木离那酸儒"
+  ],
   "summary": "吕洛之师，三百年前曾随之见南陇侯，已于三百年前坐化。",
   "attributes": {
     "身份": "吕洛之师",
@@ -21,7 +24,8 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-ch666-liuyu",
-        "seq": 667
+        "seq": 667,
+        "note": "本章为剧情回顾；据世界状态须知卒于第667章"
       }
     ],
     "死因": [
@@ -44,7 +48,8 @@
       "asOf": null,
       "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
-      "seq": 667
+      "seq": 667,
+      "note": "本章为剧情回顾；据世界状态须知卒于第667章"
     },
     "死因": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch666-liuyu"
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-14T21:42:49.318Z"
+  "updatedAt": "2026-06-17T10:04:47.617Z"
 }

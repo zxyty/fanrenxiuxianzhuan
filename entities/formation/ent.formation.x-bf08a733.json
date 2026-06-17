@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "阗天城护城大阵，当年助九国修士大败法士联军、阵亡数位元婴。",
   "attributes": {
-    "效果": "护城禁制"
+    "效果": "护城大阵，曾大败法士联军、护城禁制、护城；曾大败慕兰法士联军",
+    "布置者": "九国盟"
   },
   "observations": {
     "效果": [
@@ -18,6 +19,18 @@
         "value": "护城禁制",
         "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
         "seq": 715
+      },
+      {
+        "value": "护城；曾大败慕兰法士联军",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      }
+    ],
+    "布置者": [
+      {
+        "value": "九国盟",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ]
   },
@@ -25,16 +38,23 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+      "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
-      "seq": 715
+      "seq": 667
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch666-liuyu",
-    "plot.fanren-ch714-luori-dian-shipo-yu-fuji"
+    "plot.fanren-ch714-luori-dian-shipo-yu-fuji",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-15T02:26:43.438Z"
+  "updatedAt": "2026-06-17T10:04:47.625Z"
 }

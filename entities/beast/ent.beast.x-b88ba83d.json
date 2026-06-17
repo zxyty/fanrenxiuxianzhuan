@@ -7,16 +7,22 @@
   ],
   "summary": "青牛形、背生鳞甲、四蹄淡银的珍稀灵兽，据传可力敌结丹中期；本为元武付家祖传，被韩立夺得。",
   "attributes": {
-    "等级": "珍稀灵兽",
+    "等级": "珍稀灵兽、可力敌结丹中期",
     "能力": "力敌结丹中期修士",
     "外形": "体形似青牛、背生鳞甲、四蹄淡银",
-    "主人": "韩立"
+    "主人": "韩立、柳玉",
+    "种族": "家族灵兽"
   },
   "observations": {
     "等级": [
       {
         "value": "珍稀灵兽",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "可力敌结丹中期",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ],
@@ -38,6 +44,18 @@
       {
         "value": "韩立",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "柳玉",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      }
+    ],
+    "种族": [
+      {
+        "value": "家族灵兽",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ]
@@ -67,12 +85,19 @@
       "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
       "seq": 667
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch666-liuyu"
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-14T21:42:49.287Z"
+  "updatedAt": "2026-06-17T10:04:47.586Z"
 }

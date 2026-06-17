@@ -4,11 +4,13 @@
   "name": "新魔火",
   "aliases": [
     "紫焰",
-    "紫焰小鸟"
+    "紫焰小鸟",
+    "紫鸟",
+    "紫焰魔火"
   ],
   "summary": "韩立以六翼霜蚣寒气催化乾蓝冰焰意外融出的来历不明魔火，威力胜乾蓝冰焰，随寒气升级而增强。",
   "attributes": {
-    "类型": "异火/魔火",
+    "类型": "异火/魔火、异火",
     "用途": "攻伐"
   },
   "observations": {
@@ -16,6 +18,11 @@
       {
         "value": "异火/魔火",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "异火",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ],
@@ -45,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch666-liuyu"
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-14T21:42:49.293Z"
+  "updatedAt": "2026-06-17T10:04:47.597Z"
 }

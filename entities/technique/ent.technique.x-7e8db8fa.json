@@ -2,11 +2,14 @@
   "id": "ent.technique.x-7e8db8fa",
   "type": "technique",
   "name": "千浪决",
-  "aliases": [],
+  "aliases": [
+    "千浪诀"
+  ],
   "summary": "吕洛所修的水属性顶阶功法，对结丹修士轻松，对同阶败多胜少，另有两种保命神通。",
   "attributes": {
     "五行属性": "水",
-    "效果": "克结丹修士并附两种保命神通"
+    "效果": "克结丹修士并附两种保命神通、克制结丹修士、含两种保命神通",
+    "品阶": "顶阶"
   },
   "observations": {
     "五行属性": [
@@ -20,6 +23,23 @@
       {
         "value": "克结丹修士并附两种保命神通",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "克制结丹修士",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "含两种保命神通",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      }
+    ],
+    "品阶": [
+      {
+        "value": "顶阶",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ]
@@ -37,12 +57,19 @@
       "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
       "seq": 667
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch666-liuyu"
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-14T21:42:49.304Z"
+  "updatedAt": "2026-06-17T10:04:47.622Z"
 }

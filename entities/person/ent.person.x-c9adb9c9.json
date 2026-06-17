@@ -9,8 +9,9 @@
   "attributes": {
     "小阶段": "元婴",
     "身份": "落云宗长老",
-    "外貌": "银发",
-    "寿元": "至多五六十年"
+    "外貌": "银发、银发老者",
+    "寿元": "至多五六十年",
+    "存殁": "存活（伤后寿元将尽）"
   },
   "observations": {
     "小阶段": [
@@ -32,12 +33,24 @@
         "value": "银发",
         "docId": "plot.fanren-ch666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "银发老者",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ],
     "寿元": [
       {
         "value": "至多五六十年",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活（伤后寿元将尽）",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ]
@@ -67,12 +80,19 @@
       "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
       "seq": 667
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch666-liuyu"
+    "plot.fanren-ch666-liuyu",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-14T21:42:49.307Z"
+  "updatedAt": "2026-06-17T10:04:47.612Z"
 }

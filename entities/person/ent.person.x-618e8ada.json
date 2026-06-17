@@ -13,10 +13,10 @@
   "summary": "御灵宗女修士，木属性灵根，至木灵婴最佳合体者之一，被派往元武国查找灵婴。",
   "attributes": {
     "性别": "女",
-    "身份": "落云宗修士",
-    "标志特征": "木属性灵根",
+    "身份": "御灵宗弟子、御灵宗弟子、融合灵婴候选者、韩立弟子、韩立记名弟子、落云宗弟子、落云宗元婴长老以下第一人、落云宗修士、天道盟修士、御灵宗融合灵婴候选者、记名弟子、白凤峰副峰主",
+    "标志特征": "木灵根",
     "阵营": "落云宗",
-    "外貌": "高挑白衣美女、白衣、容貌娇柔、肤如吹弹可破、白袍女修、高挑白衣美貌",
+    "外貌": "高挑白衣美女、白衣、容貌娇柔、肤如吹弹可破、白袍女修、高挑白衣美貌、白衣、容貌娇柔",
     "存殁": "失踪",
     "种族": "人",
     "小阶段": "结丹",
@@ -71,6 +71,21 @@
         "value": "天道盟修士",
         "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
+      },
+      {
+        "value": "御灵宗融合灵婴候选者",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "记名弟子",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "白凤峰副峰主",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ],
     "标志特征": [
@@ -78,6 +93,11 @@
         "value": "木属性灵根",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "木灵根",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ],
     "阵营": [
@@ -112,6 +132,11 @@
         "value": "高挑白衣美貌",
         "docId": "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
         "seq": 661
+      },
+      {
+        "value": "白衣、容貌娇柔",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ],
     "存殁": [
@@ -156,6 +181,11 @@
         "value": "魔道",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
         "seq": 1165
+      },
+      {
+        "value": "柳家",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ]
   },
@@ -169,15 +199,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1219-1224-author-note-vote-request",
-      "dated": false,
-      "seq": 1219
-    },
-    "标志特征": {
-      "asOf": null,
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     },
     "阵营": {
       "asOf": null,
@@ -232,7 +262,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-661-666-noxious-gold-sword-trail-exposed"
+    "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-17T09:52:04.726Z"
+  "updatedAt": "2026-06-17T10:04:47.579Z"
 }

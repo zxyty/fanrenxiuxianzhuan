@@ -11,15 +11,21 @@
   ],
   "summary": "御灵宗驱虫秘术，可驱役灵虫并以噬金虫凝结虫云护罩与三色护甲。",
   "attributes": {
-    "出处": "御灵宗",
-    "效果": "驱役灵虫、凝结虫甲护罩、以灵虫凝结防护战甲",
-    "适用境界": "虫修"
+    "出处": "御灵宗、辛如音遗留玉简",
+    "效果": "驱役灵虫、凝结虫甲护罩、以灵虫凝结防护战甲、以噬金虫凝聚护罩护甲、驱使灵虫灵兽、以灵虫变形凝结成战甲，防护胜过普通护甲",
+    "适用境界": "虫修",
+    "修炼条件": "需有可凝甲的强力灵虫"
   },
   "observations": {
     "出处": [
       {
         "value": "御灵宗",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "辛如音遗留玉简",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ],
@@ -38,12 +44,34 @@
         "value": "以灵虫凝结防护战甲",
         "docId": "plot.fanren-ch666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "以噬金虫凝聚护罩护甲",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "驱使灵虫灵兽",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
+      },
+      {
+        "value": "以灵虫变形凝结成战甲，防护胜过普通护甲",
+        "docId": "plot.fanren-666-liuyu",
+        "seq": 667
       }
     ],
     "适用境界": [
       {
         "value": "虫修",
         "docId": "plot.fanren-ch666-liuyu",
+        "seq": 667
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需有可凝甲的强力灵虫",
+        "docId": "plot.fanren-666-liuyu",
         "seq": 667
       }
     ]
@@ -67,6 +95,12 @@
       "docId": "plot.fanren-ch666-liuyu",
       "dated": false,
       "seq": 667
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-666-liuyu",
+      "dated": false,
+      "seq": 667
     }
   },
   "contested": false,
@@ -74,7 +108,8 @@
   "docs": [
     "plot.fanren-ch666-liuyu",
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
-    "plot.fanren-ch493-huazhou-zhimi"
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-666-liuyu"
   ],
-  "updatedAt": "2026-06-15T01:52:53.214Z"
+  "updatedAt": "2026-06-17T10:04:47.622Z"
 }
