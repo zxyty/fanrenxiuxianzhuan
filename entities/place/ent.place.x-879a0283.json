@@ -2,10 +2,12 @@
   "id": "ent.place.x-879a0283",
   "type": "place",
   "name": "玉矶阁",
-  "aliases": [],
+  "aliases": [
+    "玉矶阁阁楼"
+  ],
   "summary": "石门内大厅中央一座通体白玉、两层、十余丈高的精致阁楼，门题银字'玉矶阁'，一层乌木架上满置宝物。",
   "attributes": {
-    "类型": "阁楼、楼阁/秘地、废墟",
+    "类型": "阁楼、楼阁/秘地、废墟、洞府阁楼",
     "特产": "满架宝物",
     "守护": "太妙神禁"
   },
@@ -25,6 +27,11 @@
         "value": "废墟",
         "docId": "plot.fanren-ch702-lianying-zhuimoguanthrough",
         "seq": 703
+      },
+      {
+        "value": "洞府阁楼",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+        "seq": 697
       }
     ],
     "特产": [
@@ -67,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
-    "plot.fanren-ch702-lianying-zhuimoguanthrough"
+    "plot.fanren-ch702-lianying-zhuimoguanthrough",
+    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal"
   ],
-  "updatedAt": "2026-06-15T02:06:15.350Z"
+  "updatedAt": "2026-06-17T10:33:20.021Z"
 }

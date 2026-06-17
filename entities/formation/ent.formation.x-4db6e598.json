@@ -3,12 +3,13 @@
   "type": "formation",
   "name": "太妙神禁",
   "aliases": [
-    "太妙神禁禁制"
+    "太妙神禁禁制",
+    "太妙禁制"
   ],
   "summary": "上古早已失传的禁制，十大古禁之一，设于苍坤上人洞府外；破解需八位神识强大者用神识化形神通，或蛮力消磨。",
   "attributes": {
-    "破解法": "八人神识化形神通、蛮力消磨、待三日禁制最弱时再分山，或以阵破阵、碧绿色阵盘+青色符文、八位强神识修士以神识化形破解,一日可破、南陇侯称需待禁制最弱之际或以特殊手段破除",
-    "出处": "苍穹上人洞府",
+    "破解法": "八人神识化形神通、蛮力消磨、待三日禁制最弱时再分山，或以阵破阵、碧绿色阵盘+青色符文、八位强神识修士以神识化形破解,一日可破、南陇侯称需待禁制最弱之际或以特殊手段破除、阵旗嵌墙＋阵盘统合喊破",
+    "出处": "苍坤上人洞府",
     "品阶": "十大古禁之一",
     "效果": "反弹神识、白色光丝绞杀入侵法宝、封闭洞府入口、封锁/晶墙封门、反弹神识、无法渗透、墙中现炙白光丝缠勒并爆毁来犯之物",
     "布置者": "韩立"
@@ -44,6 +45,11 @@
         "value": "南陇侯称需待禁制最弱之际或以特殊手段破除",
         "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
+      },
+      {
+        "value": "阵旗嵌墙＋阵盘统合喊破",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+        "seq": 697
       }
     ],
     "出处": [
@@ -56,6 +62,11 @@
         "value": "苍穹上人洞府",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "苍坤上人洞府",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+        "seq": 697
       }
     ],
     "品阶": [
@@ -125,9 +136,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
       "dated": false,
-      "seq": 691
+      "seq": 697
     },
     "品阶": {
       "asOf": null,
@@ -156,7 +167,8 @@
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
     "plot.fanren-ch702-lianying-zhuimoguanthrough",
     "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
-    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak"
+    "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
+    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal"
   ],
-  "updatedAt": "2026-06-17T10:30:40.988Z"
+  "updatedAt": "2026-06-17T10:33:20.023Z"
 }

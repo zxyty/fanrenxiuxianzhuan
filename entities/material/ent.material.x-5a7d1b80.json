@@ -5,13 +5,26 @@
   "aliases": [],
   "summary": "王天古赠出以换取老妇人等联手的灵物。",
   "attributes": {
-    "用途": "拉拢联手的酬礼"
+    "用途": "拉拢联手的酬礼、拉拢联手的报酬",
+    "类型": "灵物"
   },
   "observations": {
     "用途": [
       {
         "value": "拉拢联手的酬礼",
         "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      },
+      {
+        "value": "拉拢联手的报酬",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+        "seq": 697
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵物",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
         "seq": 697
       }
     ]
@@ -23,12 +36,19 @@
       "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
       "dated": false,
       "seq": 697
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+      "dated": false,
+      "seq": 697
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch696-poji-yuji-pavilion-scroll"
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal"
   ],
-  "updatedAt": "2026-06-14T22:38:16.702Z"
+  "updatedAt": "2026-06-17T10:33:20.034Z"
 }

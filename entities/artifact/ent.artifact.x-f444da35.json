@@ -6,8 +6,8 @@
   "summary": "南陇侯贴身穿戴的青光皮甲护身宝物,抵住银轮一击未被切开,救其性命。",
   "attributes": {
     "持有者": "南陇侯",
-    "能力": "护体防御",
-    "外形": "闪青光的皮甲"
+    "能力": "护体防御、护体抗击",
+    "外形": "闪青光的皮甲、青光皮甲"
   },
   "observations": {
     "持有者": [
@@ -22,12 +22,22 @@
         "value": "护体防御",
         "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
         "seq": 697
+      },
+      {
+        "value": "护体抗击",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+        "seq": 697
       }
     ],
     "外形": [
       {
         "value": "闪青光的皮甲",
         "docId": "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+        "seq": 697
+      },
+      {
+        "value": "青光皮甲",
+        "docId": "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
         "seq": 697
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch696-poji-yuji-pavilion-scroll"
+    "plot.fanren-ch696-poji-yuji-pavilion-scroll",
+    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal"
   ],
-  "updatedAt": "2026-06-14T22:38:16.599Z"
+  "updatedAt": "2026-06-17T10:33:20.033Z"
 }
