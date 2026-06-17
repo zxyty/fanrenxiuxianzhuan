@@ -2,11 +2,14 @@
   "id": "ent.artifact.x-da52e344",
   "type": "artifact",
   "name": "黑玉棺",
-  "aliases": [],
+  "aliases": [
+    "漆黑如墨棺材"
+  ],
   "summary": "漆黑如墨的棺材，可掩饰其中元婴修士的尸气以避人探查。",
   "attributes": {
-    "能力": "掩饰尸气、隐匿气息",
-    "持有者": "玉冠黄袍男子"
+    "能力": "掩饰尸气、隐匿气息、掩饰尸气",
+    "持有者": "玉冠黄袍男子",
+    "外形": "漆黑如墨"
   },
   "observations": {
     "能力": [
@@ -14,12 +17,24 @@
         "value": "掩饰尸气、隐匿气息",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "掩饰尸气",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "持有者": [
       {
         "value": "玉冠黄袍男子",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "外形": [
+      {
+        "value": "漆黑如墨",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
       "seq": 901
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.259Z"
+  "updatedAt": "2026-06-17T16:25:26.390Z"
 }

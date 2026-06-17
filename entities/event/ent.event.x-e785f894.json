@@ -2,13 +2,15 @@
   "id": "ent.event.x-e785f894",
   "type": "event",
   "name": "参王大会",
-  "aliases": [],
+  "aliases": [
+    "关宁参王大会"
+  ],
   "summary": "孔、赵、董三家在雪陵山外围山峰联合举办的为期三天的交易拍卖会，压轴为千年野参王。",
   "attributes": {
     "章节": "901-903",
-    "地点": "雪陵山",
-    "参与方": "孔赵董三家、众散修小宗门",
-    "结果": "韩立潜入并察觉地下尸气元婴"
+    "地点": "雪陵山、雪陵山外围山峰",
+    "参与方": "孔赵董三家、众散修小宗门、孔赵董三家、散修、小宗门",
+    "结果": "韩立潜入并察觉地下尸气元婴、进行中（第二天，自由交易）"
   },
   "observations": {
     "章节": [
@@ -23,6 +25,11 @@
         "value": "雪陵山",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "雪陵山外围山峰",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "参与方": [
@@ -30,12 +37,22 @@
         "value": "孔赵董三家、众散修小宗门",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "孔赵董三家、散修、小宗门",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "结果": [
       {
         "value": "韩立潜入并察觉地下尸气元婴",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "进行中（第二天，自由交易）",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ]
@@ -70,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.258Z"
+  "updatedAt": "2026-06-17T16:25:26.367Z"
 }

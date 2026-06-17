@@ -3,14 +3,15 @@
   "type": "person",
   "name": "玉冠黄袍男子",
   "aliases": [
-    "孔老怪"
+    "孔老怪",
+    "棺中人"
   ],
   "summary": "藏身大会山峰地下黑玉棺中的元婴修士，身藏尸气、疑修魔道邪派功法，疑为冯枕临死所提的孔老怪。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴",
-    "外貌": "三十余岁、玉冠黄袍、相貌清奇",
-    "标志特征": "气息隐含尸气，以黑玉棺掩饰"
+    "小阶段": "元婴、元婴期",
+    "外貌": "三十余岁、玉冠黄袍、相貌清奇、玉冠黄袍、相貌清奇、三十余岁",
+    "标志特征": "气息隐含尸气，以黑玉棺掩饰、气息隐含尸气"
   },
   "observations": {
     "性别": [
@@ -25,12 +26,22 @@
         "value": "元婴",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "外貌": [
       {
         "value": "三十余岁、玉冠黄袍、相貌清奇",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "玉冠黄袍、相貌清奇、三十余岁",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ],
@@ -39,6 +50,12 @@
         "value": "气息隐含尸气，以黑玉棺掩饰",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "气息隐含尸气",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901,
+        "note": "以黑玉棺掩饰，疑修魔道邪派功法"
       }
     ]
   },
@@ -72,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.248Z"
+  "updatedAt": "2026-06-17T16:25:26.241Z"
 }

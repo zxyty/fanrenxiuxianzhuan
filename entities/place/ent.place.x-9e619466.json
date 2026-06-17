@@ -6,7 +6,7 @@
   "summary": "大晋辽州的州府城，有孔、张、金、冯四大修仙世家；千光寺旧在此地。",
   "attributes": {
     "类型": "州府城、府城",
-    "所属界面": "大晋"
+    "所属界面": "大晋辽州、大晋、大晋皇朝辽州"
   },
   "observations": {
     "类型": [
@@ -31,6 +31,11 @@
         "value": "大晋",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "大晋皇朝辽州",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ]
   },
@@ -44,9 +49,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
       "dated": false,
-      "seq": 901
+      "seq": 883
     }
   },
   "contested": false,
@@ -54,7 +59,8 @@
   "docs": [
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
-    "plot.fanren-ch883-leng-mo"
+    "plot.fanren-ch883-leng-mo",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-17T15:46:39.463Z"
+  "updatedAt": "2026-06-17T16:25:26.302Z"
 }

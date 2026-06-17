@@ -2,11 +2,15 @@
   "id": "ent.artifact.x-02d13b9b",
   "type": "artifact",
   "name": "黄风叉",
-  "aliases": [],
+  "aliases": [
+    "黄凤叉",
+    "小叉"
+  ],
   "summary": "马玉林师门亲赐的中阶法器小叉，被韩立火蟒缠住几乎摧毁。",
   "attributes": {
     "品阶": "中阶法器",
-    "持有者": "马玉林"
+    "持有者": "马玉林",
+    "能力": "化黄芒飞击"
   },
   "observations": {
     "品阶": [
@@ -20,6 +24,13 @@
       {
         "value": "马玉林",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
+    ],
+    "能力": [
+      {
+        "value": "化黄芒飞击",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ]
@@ -37,12 +48,19 @@
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
       "seq": 901
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.258Z"
+  "updatedAt": "2026-06-17T16:25:26.401Z"
 }

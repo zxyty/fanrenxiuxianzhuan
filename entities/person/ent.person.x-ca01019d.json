@@ -9,7 +9,7 @@
   "attributes": {
     "小阶段": "炼气期七层、炼气期八层",
     "身份": "犀灵宗修士、犀利灵宗弟子、犀灵宗弟子",
-    "阵营": "犀灵宗",
+    "阵营": "犀利灵宗",
     "性别": "男",
     "外貌": "大汉"
   },
@@ -48,6 +48,11 @@
         "value": "犀灵宗",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "犀利灵宗",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "性别": [
@@ -81,9 +86,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
       "dated": false,
-      "seq": 895
+      "seq": 901
     },
     "性别": {
       "asOf": null,
@@ -102,7 +107,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch895-jinpa-yincan",
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-17T16:17:14.682Z"
+  "updatedAt": "2026-06-17T16:25:26.203Z"
 }

@@ -3,17 +3,23 @@
   "type": "spell",
   "name": "五鬼锁神煞",
   "aliases": [
-    "五鬼锁神"
+    "五鬼锁神",
+    "五鬼锁神之术"
   ],
   "summary": "缠附韩立、带来煞气的邪术，韩立急欲寻佛门功法解除，担忧其功效失灵。",
   "attributes": {
-    "类型": "煞术/咒禁"
+    "类型": "煞术/咒禁、禁制/锁神煞气"
   },
   "observations": {
     "类型": [
       {
         "value": "煞术/咒禁",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "禁制/锁神煞气",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ]
@@ -30,7 +36,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.261Z"
+  "updatedAt": "2026-06-17T16:25:26.429Z"
 }

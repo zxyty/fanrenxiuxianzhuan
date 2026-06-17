@@ -9,9 +9,9 @@
   "summary": "犀灵宗执法弟子，与吴晓雨有姻亲关系，携飞行法器与木板状法器上门助拳。",
   "attributes": {
     "身份": "犀利灵宗弟子",
-    "阵营": "犀灵宗",
+    "阵营": "犀利灵宗",
     "性别": "男",
-    "小阶段": "炼气十层"
+    "小阶段": "炼气十层、炼气期十一层、炼气期十层"
   },
   "observations": {
     "身份": [
@@ -31,6 +31,11 @@
         "value": "犀灵宗",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "犀利灵宗",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "性别": [
@@ -50,6 +55,11 @@
         "value": "炼气期十一层",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "炼气期十层",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ]
   },
@@ -63,9 +73,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
       "dated": false,
-      "seq": 895
+      "seq": 901
     },
     "性别": {
       "asOf": null,
@@ -75,16 +85,17 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 901
+      "seq": 895
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch895-jinpa-yincan",
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-17T16:17:14.684Z"
+  "updatedAt": "2026-06-17T16:25:26.194Z"
 }

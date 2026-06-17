@@ -2,16 +2,20 @@
   "id": "ent.person.x-9a905a9f",
   "type": "person",
   "name": "金元",
-  "aliases": [],
+  "aliases": [
+    "尖耳猴腮老者",
+    "话篓子老者"
+  ],
   "summary": "尖耳猴腮的本地散修，筑基初期，见多识广的话篓子，持一件排斥神识的金光气泡异宝请韩立鉴定。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基初期、筑基期",
+    "小阶段": "筑基初期、筑基期、筑基期初期",
     "身份": "本地散修、散修、修士",
     "外貌": "尖耳猴腮、短须稀疏、老者",
     "种族": "人族",
     "标志特征": "天生土灵之体",
-    "存殁": "元神被抓"
+    "存殁": "元神被抓",
+    "出身地": "辽州本地"
   },
   "observations": {
     "性别": [
@@ -30,6 +34,11 @@
       {
         "value": "筑基期",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "筑基期初期",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ],
@@ -83,6 +92,13 @@
         "seq": 901,
         "note": "身躯化青烟，元神被尸火禁制牵引抓回古墓"
       }
+    ],
+    "出身地": [
+      {
+        "value": "辽州本地",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
     ]
   },
   "firstSeq": 901,
@@ -129,12 +145,19 @@
       "dated": false,
       "seq": 901,
       "note": "身躯化青烟，元神被尸火禁制牵引抓回古墓"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.285Z"
+  "updatedAt": "2026-06-17T16:25:26.224Z"
 }

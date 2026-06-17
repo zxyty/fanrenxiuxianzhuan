@@ -12,7 +12,8 @@
   "attributes": {
     "类型": "州郡",
     "所属界面": "大晋、大晋皇朝",
-    "特产": "舜江水运"
+    "特产": "舜江水运",
+    "所属势力": "大晋皇朝"
   },
   "observations": {
     "类型": [
@@ -45,6 +46,13 @@
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
       }
+    ],
+    "所属势力": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      }
     ]
   },
   "firstSeq": 883,
@@ -66,6 +74,12 @@
       "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
       "seq": 895
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+      "dated": false,
+      "seq": 901
     }
   },
   "contested": false,
@@ -74,7 +88,8 @@
     "plot.fanren-883-888-tianlan-caoyuan-fengyue-kudu",
     "plot.fanren-ch895-jinpa-yincan",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
-    "plot.fanren-ch883-leng-mo"
+    "plot.fanren-ch883-leng-mo",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-17T16:17:14.711Z"
+  "updatedAt": "2026-06-17T16:25:26.313Z"
 }

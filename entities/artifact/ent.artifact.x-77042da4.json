@@ -8,9 +8,9 @@
   "summary": "天机阁特产法器，可缩小洞府随身携带，据芥子空间炼制术研究而来。",
   "attributes": {
     "来历": "天机阁特产",
-    "能力": "缩小洞府随身携带、缩放、隔音防窥视、高阶可附阵法禁制",
+    "能力": "缩小洞府随身携带、缩放、隔音防窥视、高阶可附阵法禁制、放大缩小、高阶附阵法禁制",
     "品阶": "低阶至顶阶不等",
-    "外形": "塔/楼阁/宅院等多种"
+    "外形": "塔/楼阁/宅院等多种、塔形、楼阁、宅院"
   },
   "observations": {
     "来历": [
@@ -18,6 +18,11 @@
         "value": "天机阁特产",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "天机阁",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "能力": [
@@ -40,6 +45,16 @@
         "value": "高阶可附阵法禁制",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "放大缩小",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "高阶附阵法禁制",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
       }
     ],
     "品阶": [
@@ -53,6 +68,21 @@
       {
         "value": "塔/楼阁/宅院等多种",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "塔形",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "楼阁",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
+        "seq": 901
+      },
+      {
+        "value": "宅院",
+        "docId": "plot.fanren-901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
     ]
@@ -88,7 +118,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-901-906-canwang-dahui-tianjiwu"
   ],
-  "updatedAt": "2026-06-16T00:43:53.259Z"
+  "updatedAt": "2026-06-17T16:25:26.380Z"
 }
