@@ -1,0 +1,64 @@
+{
+  "id": "ent.spell.x-fc39f044",
+  "type": "spell",
+  "name": "金光神焰",
+  "aliases": [
+    "金色火焰"
+  ],
+  "summary": "八门金光镜引动、温天仁喷精血催发的金色神焰，焚炼困住目标耗尽其灵力；威力不及乾蓝冰焰/修罗圣火，不在天都尸火之下。",
+  "attributes": {
+    "出处": "八门金光镜",
+    "消耗": "施者精血元气",
+    "威力": "强焚炼，逊于乾蓝冰焰"
+  },
+  "observations": {
+    "出处": [
+      {
+        "value": "八门金光镜",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      }
+    ],
+    "消耗": [
+      {
+        "value": "施者精血元气",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      }
+    ],
+    "威力": [
+      {
+        "value": "强焚炼，逊于乾蓝冰焰",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      }
+    ]
+  },
+  "firstSeq": 571,
+  "attrProvenance": {
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+      "dated": false,
+      "seq": 571
+    },
+    "消耗": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+      "dated": false,
+      "seq": 571
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+      "dated": false,
+      "seq": 571
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-571-576-wentianren-battle-guiwu"
+  ],
+  "updatedAt": "2026-06-17T07:23:26.814Z"
+}

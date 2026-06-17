@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "昔日星海第一修士，八门金光镜真品的本命法宝主人，曾以一人之力对抗整个星宫势力。",
   "attributes": {
-    "称号": "星海第一修士、天镜散人"
+    "称号": "星海第一修士、天镜散人、八门金光镜原主",
+    "存殁": "死亡"
   },
   "observations": {
     "称号": [
@@ -18,6 +19,18 @@
         "value": "天镜散人",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      },
+      {
+        "value": "八门金光镜原主",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
       }
     ]
   },
@@ -28,12 +41,19 @@
       "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
       "dated": false,
       "seq": 571
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu"
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-571-576-wentianren-battle-guiwu"
   ],
-  "updatedAt": "2026-06-14T19:11:47.888Z"
+  "updatedAt": "2026-06-17T07:23:26.805Z"
 }

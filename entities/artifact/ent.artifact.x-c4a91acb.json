@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "八门金光镜",
   "aliases": [
-    "八面金镜"
+    "八面金镜",
+    "八门金光境"
   ],
   "summary": "传说级法宝，原天镜散人本命法宝，曾灭一代星宫之主与五六位元婴修士，号称星海第一攻击法宝；温天仁所用为复制品，可放金光柱、金光困阵与金光神焰。",
   "attributes": {
-    "能力": "金光柱、金光困阵、金光神焰",
-    "来历": "天镜散人本命法宝（温天仁所用为复制品）",
-    "外形": "八面巴掌大金镜"
+    "能力": "金光柱、金光困阵、金光神焰、射金光柱、困敌",
+    "来历": "天镜散人本命法宝（温天仁所用为复制品）、天镜散人本命法宝",
+    "外形": "八面巴掌大金镜、八面巴掌大金镜，一面光滑流金、一面凹凸丑陋",
+    "持有者": "温天仁(复制品)"
   },
   "observations": {
     "能力": [
@@ -27,6 +29,16 @@
         "value": "金光神焰",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      },
+      {
+        "value": "射金光柱",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "困敌",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
       }
     ],
     "来历": [
@@ -34,12 +46,29 @@
         "value": "天镜散人本命法宝（温天仁所用为复制品）",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      },
+      {
+        "value": "天镜散人本命法宝",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
       }
     ],
     "外形": [
       {
         "value": "八面巴掌大金镜",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+        "seq": 571
+      },
+      {
+        "value": "八面巴掌大金镜，一面光滑流金、一面凹凸丑陋",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
+      }
+    ],
+    "持有者": [
+      {
+        "value": "温天仁(复制品)",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
         "seq": 571
       }
     ]
@@ -63,12 +92,19 @@
       "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
       "dated": false,
       "seq": 571
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+      "dated": false,
+      "seq": 571
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu"
+    "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
+    "plot.fanren-571-576-wentianren-battle-guiwu"
   ],
-  "updatedAt": "2026-06-14T19:11:47.898Z"
+  "updatedAt": "2026-06-17T07:23:26.814Z"
 }

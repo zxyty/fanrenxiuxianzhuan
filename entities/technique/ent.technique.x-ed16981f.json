@@ -4,13 +4,14 @@
   "name": "六极真魔功",
   "aliases": [
     "六极真魔",
-    "六极真魔功法"
+    "六极真魔功法",
+    "六圣幻影"
   ],
   "summary": "温天仁所修，号称乱星海第一魔功；施展时狂吸数十里天地灵气，云团由紫转灰白、雷鸣巨响。",
   "attributes": {
     "出处": "魔道",
     "效果": "幻化六极真魔虚影",
-    "适用境界": "魔修",
+    "适用境界": "需高阶魔修、魔修、结丹及以上",
     "修炼条件": "需坐化尸体",
     "品阶": "乱星海第一魔功",
     "外显异象": "狂吸天地灵气、灰白云团、雷鸣巨响"
@@ -55,6 +56,11 @@
         "value": "魔修",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
+      },
+      {
+        "value": "结丹及以上",
+        "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
+        "seq": 571
       }
     ],
     "修炼条件": [
@@ -95,9 +101,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
       "dated": false,
-      "seq": 1213
+      "seq": 571
     },
     "修炼条件": {
       "asOf": null,
@@ -126,7 +132,8 @@
     "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-ch565-570-huanhun-island-wen-tianren"
+    "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+    "plot.fanren-571-576-wentianren-battle-guiwu"
   ],
-  "updatedAt": "2026-06-17T07:20:31.952Z"
+  "updatedAt": "2026-06-17T07:23:26.810Z"
 }
