@@ -13,8 +13,8 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期",
-    "外貌": "皂袍/面容清奇",
-    "性格": "心狠手辣、极护短",
+    "外貌": "面容枯瘦清奇、皂袍、枯瘦清奇皂袍老者、皂袍/面容清奇、枯瘦清奇、皂袍",
+    "性格": "心狠手辣、极护短、心狠手辣、极为护短",
     "身份": "鬼灵门元婴老怪、鬼灵门前辈、鬼灵门高层、天南元婴修士",
     "阵营": "天南"
   },
@@ -53,12 +53,22 @@
         "value": "皂袍/面容清奇",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "枯瘦清奇、皂袍",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "性格": [
       {
         "value": "心狠手辣、极护短",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "心狠手辣、极为护短",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -118,9 +128,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 769
+      "seq": 655
     },
     "性格": {
       "asOf": null,
@@ -147,7 +157,8 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch660-shijin-lingjian",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-15T03:47:18.053Z"
+  "updatedAt": "2026-06-17T09:34:20.384Z"
 }

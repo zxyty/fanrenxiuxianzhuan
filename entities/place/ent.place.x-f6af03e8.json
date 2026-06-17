@@ -7,7 +7,7 @@
   ],
   "summary": "受七玄门控制的小镇，主街青牛街，有青牛客栈与春香酒楼。",
   "attributes": {
-    "所属界面": "镜州",
+    "所属界面": "镜州（越国）",
     "所属势力": "七玄门",
     "类型": "城镇"
   },
@@ -17,6 +17,11 @@
         "value": "镜州",
         "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
         "seq": 1
+      },
+      {
+        "value": "镜州（越国）",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "所属势力": [
@@ -38,9 +43,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
-      "seq": 1
+      "seq": 655
     },
     "所属势力": {
       "asOf": null,
@@ -59,7 +64,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:51.524Z"
+  "updatedAt": "2026-06-17T09:34:20.426Z"
 }

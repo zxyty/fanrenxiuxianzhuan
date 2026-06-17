@@ -1,42 +1,40 @@
 {
-  "id": "ent.person.x-89e2b7a5",
+  "id": "ent.person.x-f00728b9",
   "type": "person",
-  "name": "菡师叔",
-  "aliases": [
-    "菡"
-  ],
-  "summary": "御灵宗木灵根修士，融合灵婴候选人之一，修有远程感应灵婴方向的秘功，前来追寻。",
+  "name": "阙师弟",
+  "aliases": [],
+  "summary": "碎魂门人之一，浑身阴气的锦衣书生，与死去的六师弟不和，被三师兄警告须尽力办事。",
   "attributes": {
-    "种族": "人",
-    "标志特征": "木灵根",
-    "阵营": "御灵宗",
-    "身份": "融合灵婴候选人"
+    "性别": "男",
+    "小阶段": "结丹",
+    "身份": "碎魂门人",
+    "外貌": "浑身阴气、锦衣书生"
   },
   "observations": {
-    "种族": [
+    "性别": [
       {
-        "value": "人",
-        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "value": "男",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
-    "标志特征": [
+    "小阶段": [
       {
-        "value": "木灵根",
-        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
-        "seq": 655
-      }
-    ],
-    "阵营": [
-      {
-        "value": "御灵宗",
+        "value": "结丹",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
     "身份": [
       {
-        "value": "融合灵婴候选人",
+        "value": "碎魂门人",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "外貌": [
+      {
+        "value": "浑身阴气、锦衣书生",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
@@ -44,19 +42,13 @@
   },
   "firstSeq": 655,
   "attrProvenance": {
-    "种族": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
       "seq": 655
     },
-    "标志特征": {
-      "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
-      "dated": false,
-      "seq": 655
-    },
-    "阵营": {
+    "小阶段": {
       "asOf": null,
       "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
@@ -67,13 +59,18 @@
       "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
       "seq": 655
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa",
     "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T09:34:20.371Z"
+  "updatedAt": "2026-06-17T09:34:20.390Z"
 }

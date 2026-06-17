@@ -6,7 +6,8 @@
   "summary": "青牛镇内属七玄门所有的酒楼，三叔（韩胖子）任掌柜。",
   "attributes": {
     "所属势力": "七玄门",
-    "类型": "酒楼"
+    "类型": "酒楼",
+    "所属界面": "青牛镇"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +22,13 @@
         "value": "酒楼",
         "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
         "seq": 1
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "青牛镇",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -37,13 +45,20 @@
       "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
       "dated": false,
       "seq": 1
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:51.591Z"
+  "updatedAt": "2026-06-17T09:34:20.431Z"
 }

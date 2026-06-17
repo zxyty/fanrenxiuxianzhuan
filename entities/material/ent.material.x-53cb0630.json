@@ -12,12 +12,13 @@
     "灵眼之泉密室",
     "乳白色水池",
     "第二层神秘密室",
-    "灵麟山灵泉"
+    "灵麟山灵泉",
+    "深黄圆珠"
   ],
   "summary": "灵眼灵气极稠实体化形成的罕见之泉，散发浓郁灵气，可大幅加快修炼速度且可用法力挪移。",
   "attributes": {
-    "类型": "灵眼实物、灵气宝物、灵泉、灵眼灵物、灵眼之物、灵眼/灵泉、灵物泉水",
-    "用途": "加快修炼，最上好者近二三成；可用法力挪走不损功效、加快修炼、提供浓郁灵气助修炼、提供浓郁灵气、洗髓易经、泡浴恢复法力、凝出万年灵乳",
+    "类型": "灵眼实物、灵气宝物、灵泉、灵眼灵物、灵眼之物、灵眼/灵泉、灵物泉水、灵眼之物（灵泉）",
+    "用途": "加快修炼，最上好者近二三成；可用法力挪走不损功效、加快修炼、提供浓郁灵气助修炼、提供浓郁灵气、洗髓易经、泡浴恢复法力、凝出万年灵乳、蕴养灵眼之物/灵气",
     "稀有度": "极罕见(需数万至十几万年进化)",
     "产地": "灵麟山主峰"
   },
@@ -57,6 +58,11 @@
         "value": "灵物泉水",
         "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "灵眼之物（灵泉）",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "用途": [
@@ -94,6 +100,11 @@
         "value": "凝出万年灵乳",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "蕴养灵眼之物/灵气",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "稀有度": [
@@ -118,6 +129,11 @@
         "value": "虚天殿内殿第二层",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "太岳山脉韩立旧洞府密室",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -159,7 +175,8 @@
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T05:58:16.909Z"
+  "updatedAt": "2026-06-17T09:34:20.392Z"
 }

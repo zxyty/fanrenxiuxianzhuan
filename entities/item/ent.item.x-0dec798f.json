@@ -1,0 +1,48 @@
+{
+  "id": "ent.item.x-0dec798f",
+  "type": "item",
+  "name": "手札",
+  "aliases": [],
+  "summary": "供奉于韩家祠夹层的枯黄手册，记载韩厉两家往事及厉家先祖自创无名步法。",
+  "attributes": {
+    "类型": "记事手札",
+    "用途": "记载两家往事与无名步法"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "记事手札",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "用途": [
+      {
+        "value": "记载两家往事与无名步法",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.xuanmu-huaying-second-yuanying-technique"
+  ],
+  "updatedAt": "2026-06-17T09:34:20.434Z"
+}

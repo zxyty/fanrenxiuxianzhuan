@@ -8,8 +8,8 @@
   "summary": "御灵宗女修，柳眉凤眸、慵懒模样的妙龄女子，与菡云芝同行追查灵婴一事。",
   "attributes": {
     "性别": "女",
-    "外貌": "柳眉凤眸",
-    "身份": "御灵宗修士",
+    "外貌": "柳眉凤眸、妙龄慵懒、柳眉凤眸、柳眉凤眸、慵懒妙龄",
+    "身份": "御灵宗长辈、御灵宗修士、御灵宗师叔",
     "阵营": "御灵宗、魔道",
     "小阶段": "结丹期",
     "存殁": "存活"
@@ -32,6 +32,11 @@
         "value": "柳眉凤眸",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "柳眉凤眸、慵懒妙龄",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "身份": [
@@ -44,6 +49,11 @@
         "value": "御灵宗修士",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "御灵宗师叔",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "阵营": [
@@ -83,15 +93,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 661
+      "seq": 655
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 661
+      "seq": 655
     },
     "阵营": {
       "asOf": null,
@@ -116,7 +126,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:29:48.328Z"
+  "updatedAt": "2026-06-17T09:34:20.380Z"
 }

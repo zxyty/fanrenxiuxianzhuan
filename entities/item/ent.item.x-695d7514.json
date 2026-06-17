@@ -1,24 +1,24 @@
 {
-  "id": "ent.person.x-b2c2cbe6",
-  "type": "person",
-  "name": "邝师祖",
+  "id": "ent.item.x-695d7514",
+  "type": "item",
+  "name": "蛮荒阵法玉简",
   "aliases": [],
-  "summary": "御灵宗师祖，将亲自出手追寻灵婴下落。",
+  "summary": "韩立所得蛮荒时期阵法典籍玉简，记有数种上古大阵，末尾另载玄牡化婴大法。",
   "attributes": {
-    "身份": "御灵宗师祖",
-    "阵营": "御灵宗"
+    "类型": "玉简典籍",
+    "产地": "蛮荒时期"
   },
   "observations": {
-    "身份": [
+    "类型": [
       {
-        "value": "御灵宗师祖",
-        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "value": "玉简典籍",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
-    "阵营": [
+    "产地": [
       {
-        "value": "御灵宗",
+        "value": "蛮荒时期",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 655,
   "attrProvenance": {
-    "身份": {
+    "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
       "seq": 655
     },
-    "阵营": {
+    "产地": {
       "asOf": null,
       "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa",
     "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T09:34:20.373Z"
+  "updatedAt": "2026-06-17T09:34:20.344Z"
 }

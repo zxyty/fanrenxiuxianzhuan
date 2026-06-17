@@ -4,12 +4,13 @@
   "name": "三叔",
   "aliases": [
     "韩胖子",
-    "韩立三叔"
+    "韩立三叔",
+    "韩三叔"
   ],
   "summary": "韩立的亲三叔，青牛镇春香酒楼大掌柜，七玄门外门弟子，推举韩立参加内门考验。",
   "attributes": {
     "性别": "男",
-    "身份": "春香酒楼掌柜",
+    "身份": "春香酒楼大掌柜／七玄门外门弟子、韩立的三叔、春香酒楼掌柜、韩立三叔，春香酒楼掌柜",
     "外貌": "圆脸胖乎乎",
     "性格": "精明会做人"
   },
@@ -35,6 +36,11 @@
       {
         "value": "春香酒楼掌柜",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "韩立三叔，春香酒楼掌柜",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -73,9 +79,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "docId": "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
       "dated": false,
-      "seq": 655
+      "seq": 1
     },
     "外貌": {
       "asOf": null,
@@ -96,7 +102,8 @@
     "plot.fanren-ch1-6-shanbian-village-to-qixuanmen",
     "plot.fanren-ch7-12-cultivation-and-mystery-bottle",
     "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:51.383Z"
+  "updatedAt": "2026-06-17T09:34:20.420Z"
 }

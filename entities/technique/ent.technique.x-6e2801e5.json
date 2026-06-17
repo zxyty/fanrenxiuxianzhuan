@@ -6,11 +6,12 @@
     "玄牝化婴",
     "玄牡化婴",
     "玄牡化婴神通",
-    "玄牡化婴功"
+    "玄牡化婴功",
+    "玄牧化婴"
   ],
   "summary": "玉简末尾记载的魔道神通，可培养第二元神乃至催育第二元婴，被类比为一气化三清同级别。",
   "attributes": {
-    "出处": "淡青色玉简",
+    "出处": "魔道、辛如音遗留、淡青色玉简、蛮荒时期阵法典籍玉简末尾",
     "效果": "培养第二元神、催育第二元婴、修炼第二元婴",
     "适用境界": "元婴期"
   },
@@ -30,6 +31,11 @@
         "value": "淡青色玉简",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "蛮荒时期阵法典籍玉简末尾",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "效果": [
@@ -54,6 +60,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
         "seq": 787
+      },
+      {
+        "value": "元婴",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -61,9 +72,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 787
+      "seq": 655
     },
     "效果": {
       "asOf": null,
@@ -84,7 +95,8 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch666-liuyu",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
-    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-16T06:37:19.286Z"
+  "updatedAt": "2026-06-17T09:34:20.305Z"
 }

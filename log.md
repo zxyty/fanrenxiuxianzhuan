@@ -432,3 +432,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T08:51:02.671Z** `ingest` plot.fanren-637-642-hanli-nascent-soul-luoyunzong-invite — 凡人修仙传 第637-642章：韩立结成元婴，落云宗长老邀其入宗，银月揭秘虚天鼎 · kind=plot asOf=2026-06-17 entities=25 relations=25 src=00637-00642.md
 - **2026-06-17T09:03:23.937Z** `ingest` plot.fanren-642-dianfeng-peiyuan-gong — 凡人修仙传 第642章 颠凤培元功（韩立纳慕沛灵为妾、炼明清灵水） · kind=plot asOf=2026-06-17 entities=43 relations=52 src=00643-00648.md
 - **2026-06-17T09:16:51.270Z** `update` plot.fanren-ch648-zhimu-lingying — 凡人修仙传 第648章 至木灵婴：韩立金弧网擒妖婴，御灵宗追踪、付家寿诞将至 · kind=plot asOf=2026-06-17 entities=46 relations=60 src=00649-00654.md
+- **2026-06-17T09:34:20.541Z** `ingest` lore.xuanmu-huaying-second-yuanying-technique — 玄牡化婴大法（培育第二元婴秘功）与梦引术封记 · kind=lore asOf=2026-06-17 entities=62 relations=68 src=00655-00660.md

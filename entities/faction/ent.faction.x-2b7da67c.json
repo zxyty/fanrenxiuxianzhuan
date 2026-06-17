@@ -10,7 +10,7 @@
   "summary": "镜州世家，书香门第、世代有人为官；崛起百余年，跻身镜州三大世家。",
   "attributes": {
     "等级": "镜州三大世家之一",
-    "据点": "韩家堡、五里沟（旧居）",
+    "据点": "韩家堡、五里沟（旧居）、五里沟",
     "理念": "韩立嘱其不入修仙界、护族后回归平凡"
   },
   "observations": {
@@ -30,6 +30,11 @@
       {
         "value": "五里沟（旧居）",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "五里沟",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -71,7 +76,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:29:45.953Z"
+  "updatedAt": "2026-06-17T09:34:20.421Z"
 }

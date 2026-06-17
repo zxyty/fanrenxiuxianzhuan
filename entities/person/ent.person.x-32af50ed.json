@@ -8,11 +8,12 @@
   "summary": "鬼灵门修士，碎魂真人门下，三十余岁面目阴厉，无意中发现韩立旧洞府动静，被韩立以青竹蜂云剑灭杀。",
   "attributes": {
     "性别": "男",
-    "身份": "鬼灵门修士",
-    "外貌": "三十余岁灰衣阴厉",
+    "身份": "鬼灵门修士、鬼灵门弟子",
+    "外貌": "三十余岁灰衣阴厉、三十余岁、面目阴厉、圆滑",
     "标志特征": "金银飞叉(化金银怪蟒)",
     "存殁": "死亡",
-    "死因": "被韩立青竹蜂云剑击杀"
+    "死因": "被韩立青竹蜂云剑击杀、被韩立青色巨剑击杀",
+    "小阶段": "结丹"
   },
   "observations": {
     "性别": [
@@ -27,12 +28,22 @@
         "value": "鬼灵门修士",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
         "seq": 655
+      },
+      {
+        "value": "鬼灵门弟子",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "外貌": [
       {
         "value": "三十余岁灰衣阴厉",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "三十余岁、面目阴厉、圆滑",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -54,6 +65,18 @@
       {
         "value": "被韩立青竹蜂云剑击杀",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "被韩立青色巨剑击杀",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ]
@@ -95,12 +118,19 @@
       "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
       "seq": 655
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:50.716Z"
+  "updatedAt": "2026-06-17T09:34:20.383Z"
 }

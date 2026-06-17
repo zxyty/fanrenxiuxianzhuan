@@ -12,8 +12,8 @@
   "summary": "现任韩家之主，文官儒生，回乡祭祖；确认并参拜韩立为四叔祖。",
   "attributes": {
     "性别": "男",
-    "身份": "韩家之主、侍郎、韩家后人",
-    "性格": "镇定老练、泰山崩于前而色不变",
+    "身份": "韩家之主、侍郎、韩家后人、朝中侍郎",
+    "性格": "镇定老练、泰山崩于前而色不变、镇定泰然、拿得起放得下",
     "外貌": "中年儒生"
   },
   "observations": {
@@ -39,12 +39,22 @@
         "value": "韩家后人",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "朝中侍郎",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "性格": [
       {
         "value": "镇定老练、泰山崩于前而色不变",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "镇定泰然、拿得起放得下",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -53,6 +63,11 @@
         "value": "中年儒生",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "中年儒生，三缕乌黑长髯",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -87,7 +102,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:29:45.706Z"
+  "updatedAt": "2026-06-17T09:34:20.412Z"
 }

@@ -1,0 +1,50 @@
+{
+  "id": "ent.technique.x-7ae7d07a",
+  "type": "technique",
+  "name": "感应灵婴秘功",
+  "aliases": [
+    "专为融合灵婴所修秘功"
+  ],
+  "summary": "菡、柳两位师叔早年专修的秘功，即使相隔再远也能感应至木灵婴所在方向。",
+  "attributes": {
+    "效果": "远程感应至木灵婴所在方向",
+    "修炼条件": "木灵根"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "远程感应至木灵婴所在方向",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "木灵根",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ]
+  },
+  "firstSeq": 655,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "lore.xuanmu-huaying-second-yuanying-technique"
+  ],
+  "updatedAt": "2026-06-17T09:34:20.374Z"
+}

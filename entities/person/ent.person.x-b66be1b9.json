@@ -7,7 +7,9 @@
   "attributes": {
     "小阶段": "筑基期",
     "存殁": "死亡",
-    "死因": "融合灵婴反噬"
+    "死因": "融合灵婴反噬、私自融合至木灵婴反噬而死",
+    "阵营": "御灵宗",
+    "身份": "御灵宗修士"
   },
   "observations": {
     "小阶段": [
@@ -28,6 +30,25 @@
       {
         "value": "融合灵婴反噬",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "私自融合至木灵婴反噬而死",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "阵营": [
+      {
+        "value": "御灵宗",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
+      }
+    ],
+    "身份": [
+      {
+        "value": "御灵宗修士",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ]
@@ -51,12 +72,25 @@
       "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
       "seq": 655
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+      "dated": false,
+      "seq": 655
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:50.548Z"
+  "updatedAt": "2026-06-17T09:34:20.388Z"
 }

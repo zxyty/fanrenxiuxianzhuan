@@ -1,26 +1,27 @@
 {
-  "id": "ent.technique.x-f6d52dce",
+  "id": "ent.technique.x-9ffa5e95",
   "type": "technique",
-  "name": "一气化三清",
+  "name": "魔道秘功",
   "aliases": [
-    "道门第一玄功"
+    "魔道秘术",
+    "此功法"
   ],
-  "summary": "道门第一玄功，被用来类比玄牡化婴大法的级别，文中仅提及。",
+  "summary": "送到韩立面前的一部魔道功法，威力不下道门秘术且较易修炼，但带急功好利之弊，神通越大弊端越明显。",
   "attributes": {
-    "出处": "道门",
-    "效果": "分化三身/第二元神类大神通"
+    "出处": "魔道",
+    "效果": "威力不下道门秘术且较易修炼，但带急功好利弊端"
   },
   "observations": {
     "出处": [
       {
-        "value": "道门",
-        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "value": "魔道",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
     "效果": [
       {
-        "value": "分化三身/第二元神类大神通",
+        "value": "威力不下道门秘术且较易修炼，但带急功好利弊端",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
@@ -30,7 +31,7 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
       "seq": 655
     },
@@ -44,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa",
     "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T09:34:20.321Z"
+  "updatedAt": "2026-06-17T09:34:20.351Z"
 }

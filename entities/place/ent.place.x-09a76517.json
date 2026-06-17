@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "韩家原居山沟小村，得名于五六里大小的山沟；今为韩家祭祖旧居所在。",
   "attributes": {
-    "类型": "村庄/山沟",
+    "类型": "村庄/山沟、村落",
     "所属势力": "韩家"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "村庄/山沟",
         "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "seq": 655
+      },
+      {
+        "value": "村落",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa"
+    "plot.fanren-ch654-xuanmu-huaying-dafa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:07:51.571Z"
+  "updatedAt": "2026-06-17T09:34:20.427Z"
 }

@@ -12,9 +12,9 @@
     "性别": "女",
     "阵营": "灵兽山、御灵宗、魔道",
     "性格": "易羞",
-    "身份": "灵兽山弟子、御灵宗长辈、御灵宗修士、一方势力修士（统御数名筑基期弟子）",
+    "身份": "灵兽山弟子、御灵宗长辈、御灵宗修士、一方势力修士（统御数名筑基期弟子）、御灵宗师叔",
     "小阶段": "结丹中期大成",
-    "外貌": "眼大、面容苍白瘦弱转丰满美貌、面容洁白如玉、圣洁气息、青丝娥眉、温婉貌美、黄衫清秀女子、黄衫女子",
+    "外貌": "眼大、面容苍白瘦弱转丰满美貌、面容洁白如玉、圣洁气息、青丝娥眉、温婉貌美、黄衫清秀女子、黄衫女子、眼大、面容苍白瘦弱、身材丰满迷人",
     "标志特征": "貌似韩立亡妹"
   },
   "observations": {
@@ -69,6 +69,11 @@
         "value": "一方势力修士（统御数名筑基期弟子）",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "御灵宗师叔",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "小阶段": [
@@ -113,6 +118,11 @@
         "value": "黄衫女子",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "眼大、面容苍白瘦弱、身材丰满迷人",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "标志特征": [
@@ -177,7 +187,8 @@
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-ch660-shijin-lingjian",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
-    "plot.fanren-1196-er-nv"
+    "plot.fanren-1196-er-nv",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-16T07:22:29.978Z"
+  "updatedAt": "2026-06-17T09:34:20.378Z"
 }

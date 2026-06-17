@@ -30,7 +30,7 @@
     "寿元": "只剩数年、不久于人世",
     "存殁": "存、存活、死亡、已死（被韩立借名）",
     "外貌": "披头散发、又脏又破，状若伙夫",
-    "死因": "第655章死亡（本章为被冒名）"
+    "死因": "服用抽髓丸求武功大成、损寿早逝、第655章亡、第655章死亡（本章为被冒名）、服用抽髓丸求武功大成，未得寿终"
   },
   "observations": {
     "称号": [
@@ -274,6 +274,11 @@
         "value": "第655章死亡（本章为被冒名）",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "服用抽髓丸求武功大成，未得寿终",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -337,9 +342,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 1243
+      "seq": 655
     }
   },
   "contested": false,
@@ -376,7 +381,8 @@
     "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
     "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
     "plot.fanren-559-564-haiwai-cuoren-jietoulu",
-    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa"
+    "plot.fanren-ch631-datuoqianhuanjue-tianhumilingfa",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T08:44:02.067Z"
+  "updatedAt": "2026-06-17T09:34:20.416Z"
 }

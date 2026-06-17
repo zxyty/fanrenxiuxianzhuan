@@ -2,11 +2,13 @@
   "id": "ent.person.x-f61ca5fa",
   "type": "person",
   "name": "董璇儿",
-  "aliases": [],
+  "aliases": [
+    "董璇儿姑娘"
+  ],
   "summary": "合欢宗修士，此时已结成金丹，曾派合欢宗弟子(含黑衫老者)四处搜寻韩立，缘由不明。",
   "attributes": {
     "性别": "女",
-    "小阶段": "结丹中期",
+    "小阶段": "结丹、结丹中期、金丹",
     "身份": "魔宗弟子",
     "阵营": "魔宗"
   },
@@ -28,6 +30,11 @@
         "value": "结丹中期",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "金丹",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "身份": [
@@ -47,6 +54,11 @@
         "value": "魔宗",
         "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
         "seq": 751
+      },
+      {
+        "value": "合欢宗",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ]
   },
@@ -60,9 +72,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
+      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
-      "seq": 751
+      "seq": 655
     },
     "身份": {
       "asOf": null,
@@ -82,7 +94,8 @@
   "docs": [
     "plot.fanren-ch654-xuanmu-huaying-dafa",
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
-    "plot.fanren-757-762-gengjing-jiangling-fu"
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-15T03:26:48.335Z"
+  "updatedAt": "2026-06-17T09:34:20.386Z"
 }

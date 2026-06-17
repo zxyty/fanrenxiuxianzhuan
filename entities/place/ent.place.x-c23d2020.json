@@ -7,7 +7,7 @@
   ],
   "summary": "建州西部、方圆数千里的原始山林，中部为黄枫谷所据。",
   "attributes": {
-    "所属势力": "原黄枫谷旧地",
+    "所属势力": "黄枫谷（中部）、黄枫谷、鬼灵门(分坛)、原黄枫谷旧地、鬼灵门（分坛）",
     "类型": "山脉",
     "所属界面": "越国"
   },
@@ -32,6 +32,11 @@
         "value": "原黄枫谷旧地",
         "docId": "plot.fanren-ch660-shijin-lingjian",
         "seq": 661
+      },
+      {
+        "value": "鬼灵门（分坛）",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
+        "seq": 655
       }
     ],
     "类型": [
@@ -53,9 +58,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-ch660-shijin-lingjian",
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
       "dated": false,
-      "seq": 661
+      "seq": 139
     },
     "类型": {
       "asOf": null,
@@ -86,7 +91,8 @@
     "plot.fanren-ch344-formation-slays-mantis",
     "plot.fanren-ch368-kuixingdao-guzhuang",
     "plot.fanren-ch654-xuanmu-huaying-dafa",
-    "plot.fanren-ch660-shijin-lingjian"
+    "plot.fanren-ch660-shijin-lingjian",
+    "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-14T21:29:48.058Z"
+  "updatedAt": "2026-06-17T09:34:20.408Z"
 }

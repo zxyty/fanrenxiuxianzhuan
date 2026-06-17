@@ -1,34 +1,32 @@
 {
-  "id": "ent.person.x-66a03ce1",
+  "id": "ent.person.x-d3fe955a",
   "type": "person",
-  "name": "柳师叔",
-  "aliases": [
-    "柳"
-  ],
-  "summary": "御灵宗木灵根修士，融合灵婴候选人之一，与菡师叔同来追寻灵婴。",
+  "name": "乌衣汉子",
+  "aliases": [],
+  "summary": "碎魂真人三名结丹门人之首，精悍乌衣，条理分明地部署追查六师弟（于洪）凶手。",
   "attributes": {
-    "标志特征": "木灵根",
-    "阵营": "御灵宗",
-    "身份": "融合灵婴候选人"
+    "性别": "男",
+    "小阶段": "结丹",
+    "身份": "碎魂门人"
   },
   "observations": {
-    "标志特征": [
+    "性别": [
       {
-        "value": "木灵根",
-        "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+        "value": "男",
+        "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
-    "阵营": [
+    "小阶段": [
       {
-        "value": "御灵宗",
+        "value": "结丹",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
     ],
     "身份": [
       {
-        "value": "融合灵婴候选人",
+        "value": "碎魂门人",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
@@ -36,13 +34,13 @@
   },
   "firstSeq": 655,
   "attrProvenance": {
-    "标志特征": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
+      "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
       "seq": 655
     },
-    "阵营": {
+    "小阶段": {
       "asOf": null,
       "docId": "lore.xuanmu-huaying-second-yuanying-technique",
       "dated": false,
@@ -58,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch654-xuanmu-huaying-dafa",
     "lore.xuanmu-huaying-second-yuanying-technique"
   ],
-  "updatedAt": "2026-06-17T09:34:20.372Z"
+  "updatedAt": "2026-06-17T09:34:20.389Z"
 }
