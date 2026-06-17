@@ -9,13 +9,15 @@
     "碧绿色玉如意",
     "绿如意",
     "双首火狼古宝",
-    "双狼首玉如意"
+    "双狼首玉如意",
+    "银毛巨狼",
+    "独角银毛巨狼"
   ],
   "summary": "韩立红黄两色古宝，可生成红黄光罩加固防御。",
   "attributes": {
     "持有者": "徐姓青年",
     "五行属性": "火/土",
-    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御",
+    "能力": "生成光罩护身、释放红黄护身光罩、内藏银狼器灵、召出白色巨虎喷光柱、顶阶防御护罩、护罩防御、幻形通灵、化银狼、银角射银光弹、身坚如铁",
     "器灵": "银月",
     "外形": "碧绿色玉如意",
     "来历": "双首火狼所化古宝"
@@ -80,6 +82,26 @@
         "value": "护罩防御",
         "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
         "seq": 871
+      },
+      {
+        "value": "幻形通灵",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
+      },
+      {
+        "value": "化银狼",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
+      },
+      {
+        "value": "银角射银光弹",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
+      },
+      {
+        "value": "身坚如铁",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
       }
     ],
     "器灵": [
@@ -114,6 +136,11 @@
         "value": "黄红两色玉如意，两端各雕一狼首",
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482
+      },
+      {
+        "value": "玉如意／独角银毛巨狼",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
       }
     ],
     "来历": [
@@ -140,9 +167,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
+      "docId": "plot.fanren-ch483-bingfeng",
       "dated": false,
-      "seq": 553
+      "seq": 483
     },
     "器灵": {
       "asOf": null,
@@ -174,7 +201,8 @@
     "plot.fanren-835-840-mozhu-jietihuaxing-zaohuadan",
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-ch482-guba-zhi-zheng"
+    "plot.fanren-ch482-guba-zhi-zheng",
+    "plot.fanren-ch483-bingfeng"
   ],
-  "updatedAt": "2026-06-17T05:18:08.050Z"
+  "updatedAt": "2026-06-17T05:20:38.094Z"
 }

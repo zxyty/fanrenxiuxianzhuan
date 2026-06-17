@@ -1,0 +1,66 @@
+{
+  "id": "ent.artifact.x-5834bdc3",
+  "type": "artifact",
+  "name": "金雷竹小箭",
+  "aliases": [
+    "碧绿色小刀"
+  ],
+  "summary": "玄骨之宝，以法术遮去本来面目化作碧绿色小刀；实为金雷竹所化，当年极阴曾用此宝暗算玄骨。",
+  "attributes": {
+    "持有者": "玄骨",
+    "外形": "碧绿色小刀",
+    "来历": "金雷竹所化"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "玄骨",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
+      }
+    ],
+    "外形": [
+      {
+        "value": "碧绿色小刀",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483,
+        "note": "以法术遮面伪装"
+      }
+    ],
+    "来历": [
+      {
+        "value": "金雷竹所化",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
+      }
+    ]
+  },
+  "firstSeq": 483,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch483-bingfeng",
+      "dated": false,
+      "seq": 483
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch483-bingfeng",
+      "dated": false,
+      "seq": 483,
+      "note": "以法术遮面伪装"
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch483-bingfeng",
+      "dated": false,
+      "seq": 483
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch483-bingfeng"
+  ],
+  "updatedAt": "2026-06-17T05:20:38.097Z"
+}

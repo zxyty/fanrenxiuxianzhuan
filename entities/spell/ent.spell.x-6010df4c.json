@@ -9,7 +9,8 @@
   "summary": "乌丑所施墨黑阴风，瞬间将数百丈海面连兽凝成冰雕，阴寒邪气逼人。",
   "attributes": {
     "类型": "魔功阴寒之术",
-    "出处": "韩立所授"
+    "出处": "韩立所授",
+    "适用境界": "元婴期"
   },
   "observations": {
     "类型": [
@@ -28,12 +29,19 @@
       {
         "value": "魔道",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
-        "seq": 1165
+        "seq": 483
       },
       {
         "value": "韩立所授",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
       }
     ]
   },
@@ -50,6 +58,12 @@
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
       "seq": 1171
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch483-bingfeng",
+      "dated": false,
+      "seq": 483
     }
   },
   "contested": false,
@@ -57,7 +71,8 @@
   "docs": [
     "plot.fanren-ch379-384-yinglishou-wuchou",
     "plot.fanren-1167-1172-return-luoyunzong",
-    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-ch483-bingfeng"
   ],
-  "updatedAt": "2026-06-15T11:57:51.450Z"
+  "updatedAt": "2026-06-17T05:20:38.100Z"
 }

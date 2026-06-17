@@ -10,13 +10,14 @@
     "五色霞光",
     "五彩巨环",
     "五行合一巨环",
-    "五行巨环"
+    "五行巨环",
+    "五枚连成一串的铜环"
   ],
   "summary": "韩立所持古宝，五只颜色各异的铜环，可隐形再现、无视护罩套敌封锁法力真元。",
   "attributes": {
     "品阶": "古宝",
     "持有者": "韩立",
-    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身",
+    "能力": "隐形突袭、封锁法力/真元、无视符文护罩、五环锁缚目标、禁锢敌人法宝身形、合一护身、隐匿后束缚锁定目标",
     "五行属性": "五行"
   },
   "observations": {
@@ -31,7 +32,7 @@
       {
         "value": "韩立",
         "docId": "plot.fanren-499-504-nanming-island",
-        "seq": 493
+        "seq": 483
       }
     ],
     "能力": [
@@ -64,6 +65,11 @@
         "value": "合一护身",
         "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
         "seq": 553
+      },
+      {
+        "value": "隐匿后束缚锁定目标",
+        "docId": "plot.fanren-ch483-bingfeng",
+        "seq": 483
       }
     ],
     "五行属性": [
@@ -74,7 +80,7 @@
       }
     ]
   },
-  "firstSeq": 493,
+  "firstSeq": 483,
   "attrProvenance": {
     "品阶": {
       "asOf": null,
@@ -86,13 +92,13 @@
       "asOf": null,
       "docId": "plot.fanren-499-504-nanming-island",
       "dated": false,
-      "seq": 493
+      "seq": 483
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-499-504-nanming-island",
+      "docId": "plot.fanren-ch483-bingfeng",
       "dated": false,
-      "seq": 499
+      "seq": 483
     },
     "五行属性": {
       "asOf": null,
@@ -110,7 +116,8 @@
     "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
     "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
-    "plot.fanren-ch493-huazhou-zhimi"
+    "plot.fanren-ch493-huazhou-zhimi",
+    "plot.fanren-ch483-bingfeng"
   ],
-  "updatedAt": "2026-06-15T01:52:53.200Z"
+  "updatedAt": "2026-06-17T05:20:38.095Z"
 }
