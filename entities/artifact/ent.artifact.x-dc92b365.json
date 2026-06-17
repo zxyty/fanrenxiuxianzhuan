@@ -10,10 +10,10 @@
   "summary": "土山岛主怪人所持洪荒古宝，可化白气困住敌方法宝，被韩立夺取。",
   "attributes": {
     "品阶": "古宝",
-    "能力": "化白气困缚法宝、白光卷收/困锁、化白气护身、白光困物、收取法宝、化白气包裹擒物、喷白光卷裹敌物/法宝、白气接应、迟缓金丝、喷霞光收卷法宝、吸卷冰晶",
+    "能力": "化白气困缚法宝、白光卷收/困锁、化白气护身、白光困物、收取法宝、化白气包裹擒物、喷白光卷裹敌物/法宝、白气接应、迟缓金丝、喷霞光收卷法宝、吸卷冰晶、白光困住法宝",
     "持有者": "银月",
     "来历": "斩杀看守玄骨的丑汉所得",
-    "外形": "式样古老的花篮"
+    "外形": "花篮"
   },
   "observations": {
     "品阶": [
@@ -78,6 +78,11 @@
         "value": "吸卷冰晶",
         "docId": "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
         "seq": 691
+      },
+      {
+        "value": "白光困住法宝",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ],
     "持有者": [
@@ -109,6 +114,11 @@
         "value": "式样古老的花篮",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "花篮",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ]
   },
@@ -140,9 +150,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch499-504-nanming-island",
+      "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
       "dated": false,
-      "seq": 499
+      "seq": 739
     }
   },
   "contested": false,
@@ -164,7 +174,8 @@
     "plot.fanren-571-576-wentianren-battle-guiwu",
     "plot.fanren-685-690-cangkun-yibao-mulan-fashi",
     "plot.fanren-ch691-696-hanli-vs-mulan-fashi-thousandpeak",
-    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-17T11:28:47.200Z"
+  "updatedAt": "2026-06-17T11:37:17.768Z"
 }

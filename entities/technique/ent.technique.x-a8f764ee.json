@@ -4,13 +4,16 @@
   "name": "白莲秘术",
   "aliases": [
     "白莲",
-    "上古佛门秘术"
+    "上古佛门秘术",
+    "白色光莲",
+    "白莲佛法"
   ],
   "summary": "绿衫女子以自身法力凝成白色光莲的上古佛门秘术，莲瓣可硬挡震飞外来攻击、隔空重创对手，催动需长念咒语。",
   "attributes": {
     "出处": "上古佛门",
     "效果": "莲瓣御敌挡攻、隔空伤敌",
-    "修炼条件": "长念上古咒语催动"
+    "修炼条件": "长念上古咒语催动",
+    "适用境界": "元婴中期催动"
   },
   "observations": {
     "出处": [
@@ -38,6 +41,13 @@
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
         "seq": 739
       }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴中期催动",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
+      }
     ]
   },
   "firstSeq": 739,
@@ -59,12 +69,19 @@
       "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
       "dated": false,
       "seq": 739
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+      "dated": false,
+      "seq": 739
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-15T03:00:06.873Z"
+  "updatedAt": "2026-06-17T11:37:17.730Z"
 }

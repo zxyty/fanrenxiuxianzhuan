@@ -11,18 +11,24 @@
   ],
   "summary": "慕兰族两大传承之宝之一，青色灯焰可炼化一切古宝法宝、尤克木属性宝物；使用次数有限、超次须收回交付下一合身份主人，另有对慕兰人极重要的特殊用途。",
   "attributes": {
-    "品阶": "慕兰族传承之宝",
+    "品阶": "慕兰族传承之宝、慕兰族两大传承之宝之一",
     "持有者": "韩立",
-    "能力": "生青色灯焰炼化古宝法宝、尤克木属性宝物、幻化九盏、汇灯焰召出圣禽、召唤慕兰圣禽、破隐匿/灯焰焚杀",
-    "禁制": "使用次数有限，超次须收回交付下一主人",
-    "外形": "九盏铜灯",
-    "来历": "慕兰族传承之宝"
+    "能力": "生青色灯焰炼化古宝法宝、尤克木属性宝物、幻化九盏、汇灯焰召出圣禽、召唤慕兰圣禽、破隐匿/灯焰焚杀、吞噬炼化古宝法宝、克木属性宝物、吸纳真火",
+    "禁制": "使用次数有限，超次须收回交付下一主人、使用次数有限，超次须收回交付下一任主人",
+    "外形": "青铜古灯、九盏铜灯、青铜古灯，生青色灯焰/灯花",
+    "来历": "慕兰族传承之宝",
+    "五行属性": "青焰克木"
   },
   "observations": {
     "品阶": [
       {
         "value": "慕兰族传承之宝",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "慕兰族两大传承之宝之一",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
       }
     ],
@@ -65,12 +71,32 @@
         "value": "破隐匿/灯焰焚杀",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "吞噬炼化古宝法宝",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
+      },
+      {
+        "value": "克木属性宝物",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
+      },
+      {
+        "value": "吸纳真火",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ],
     "禁制": [
       {
         "value": "使用次数有限，超次须收回交付下一主人",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "使用次数有限，超次须收回交付下一任主人",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
       }
     ],
@@ -84,6 +110,11 @@
         "value": "九盏铜灯",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "青铜古灯，生青色灯焰/灯花",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ],
     "来历": [
@@ -91,6 +122,13 @@
         "value": "慕兰族传承之宝",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "青焰克木",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ]
   },
@@ -123,15 +161,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
+      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
       "dated": false,
-      "seq": 775
+      "seq": 739
     },
     "来历": {
       "asOf": null,
       "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
       "dated": false,
       "seq": 775
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+      "dated": false,
+      "seq": 739
     }
   },
   "contested": false,
@@ -139,7 +183,8 @@
   "docs": [
     "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-775-780-border-war-end-yuanming-lamp"
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-15T03:50:06.868Z"
+  "updatedAt": "2026-06-17T11:37:17.765Z"
 }

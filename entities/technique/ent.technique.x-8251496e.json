@@ -4,13 +4,14 @@
   "name": "阴魔斩",
   "aliases": [
     "阴魔斩秘功",
-    "阴魔斩黑红光片"
+    "阴魔斩黑红光片",
+    "黑红光片"
   ],
   "summary": "出自玄阴经的一次性强攻秘术，凝精元为黑红光片，破移形换位之效，传闻至深可破界斩空。",
   "attributes": {
     "出处": "玄阴经",
     "效果": "无坚不摧、破移形换位、传闻可破界斩空、手臂膨胀浮血光、射黑红光片、一次性精元攻击",
-    "外显异象": "黑气浓稠、血光刺目"
+    "外显异象": "黑气浓稠、血光刺目、黑红色光片带长尾芒、手臂黑气暴涨、浮血光"
   },
   "observations": {
     "出处": [
@@ -62,6 +63,11 @@
         "value": "黑红色光片带长尾芒",
         "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
         "seq": 571
+      },
+      {
+        "value": "手臂黑气暴涨、浮血光",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ]
   },
@@ -81,9 +87,9 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+      "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
       "dated": false,
-      "seq": 739
+      "seq": 571
     }
   },
   "contested": false,
@@ -94,7 +100,8 @@
     "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-571-576-wentianren-battle-guiwu",
-    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal"
+    "plot.fanren-697-701-cangkun-cave-yujige-treasure-split-betrayal",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-17T10:33:20.027Z"
+  "updatedAt": "2026-06-17T11:37:17.753Z"
 }

@@ -6,18 +6,24 @@
     "雪白大雕",
     "白色缎带",
     "巨雕",
-    "白雕"
+    "白雕",
+    "白色缎带法宝"
   ],
   "summary": "绿衫女子白色缎带法宝所化雪白巨雕，遁速极快、可发白色风刃，有器灵；被乾蓝冰焰冻结、器灵被灭后复活但萎靡。",
   "attributes": {
-    "外形": "双目火红、利爪乌黑的雪白巨雕",
-    "能力": "瞬移、白色风刃"
+    "外形": "双目火红、利爪乌黑的雪白巨雕、数丈雪白巨雕、目火红爪乌黑",
+    "能力": "瞬移、白色风刃、高速突袭"
   },
   "observations": {
     "外形": [
       {
         "value": "双目火红、利爪乌黑的雪白巨雕",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "数丈雪白巨雕、目火红爪乌黑",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
       }
     ],
@@ -30,6 +36,11 @@
       {
         "value": "白色风刃",
         "docId": "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+        "seq": 739
+      },
+      {
+        "value": "高速突袭",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
       }
     ]
@@ -52,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6"
+    "plot.fanren-ch739-744-pozhen-dazhan-4-5-6",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-15T03:00:06.871Z"
+  "updatedAt": "2026-06-17T11:37:17.734Z"
 }

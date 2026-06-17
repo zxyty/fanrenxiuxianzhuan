@@ -17,8 +17,8 @@
   "attributes": {
     "特性": "信奉天澜兽、按部落聚居、有圣女与四大仙师",
     "聚居地": "草原",
-    "天敌": "慕兰人（世仇）",
-    "代表人物": "林银屏、徐仙师、天澜圣女、紫发美妇、徐姓青年、清秀青年、大仙师、突兀人仙师",
+    "天敌": "慕兰族、慕兰人、慕兰人（世仇）、—",
+    "代表人物": "林银屏、徐仙师、天澜圣女、紫发美妇、徐姓青年、清秀青年、大仙师、突兀人仙师、突兀杰出修仙者",
     "阵营": "天澜圣殿"
   },
   "observations": {
@@ -76,6 +76,11 @@
         "value": "慕兰人（世仇）",
         "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "—",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ],
     "代表人物": [
@@ -118,6 +123,11 @@
         "value": "突兀人仙师",
         "docId": "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
         "seq": 733
+      },
+      {
+        "value": "突兀杰出修仙者",
+        "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
+        "seq": 739
       }
     ],
     "阵营": [
@@ -144,9 +154,9 @@
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+      "docId": "plot.fanren-356-huofu-xiangyi",
       "dated": false,
-      "seq": 877
+      "seq": 355
     },
     "代表人物": {
       "asOf": null,
@@ -176,7 +186,8 @@
     "plot.fanren-ch895-jinpa-yincan",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1219-1224-author-note-vote-request",
-    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+    "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe"
   ],
-  "updatedAt": "2026-06-17T11:28:47.139Z"
+  "updatedAt": "2026-06-17T11:37:17.726Z"
 }
