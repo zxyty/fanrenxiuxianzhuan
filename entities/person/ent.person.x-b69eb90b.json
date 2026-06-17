@@ -3,12 +3,14 @@
   "type": "person",
   "name": "天风真人",
   "aliases": [
-    "天风道友"
+    "天风道友",
+    "飓风中人"
   ],
   "summary": "藏身白色飓风、施风刃术的元婴魔修，参与围杀炫烨王。",
   "attributes": {
     "阵营": "魔道",
-    "身份": "魔修"
+    "身份": "魔修、老魔",
+    "小阶段": "元婴期"
   },
   "observations": {
     "阵营": [
@@ -22,6 +24,18 @@
       {
         "value": "魔修",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "老魔",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
         "seq": 913
       }
     ]
@@ -39,12 +53,19 @@
       "docId": "plot.fanren-913-918-xueling-huangsha-array",
       "dated": false,
       "seq": 913
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.307Z"
+  "updatedAt": "2026-06-17T16:41:00.735Z"
 }

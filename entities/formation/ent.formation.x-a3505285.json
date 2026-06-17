@@ -9,7 +9,7 @@
   "summary": "狂沙上人布下的困杀大阵，黄濛沙雾笼罩数里，掺入落魂沙绞杀阵中诸人。",
   "attributes": {
     "布置者": "狂沙上人",
-    "效果": "数里黄沙笼罩、掺落魂沙绞杀、克土遁"
+    "效果": "数里黄沙笼罩、掺落魂沙绞杀、克土遁、笼罩数里、掀沙浪绞杀、封死土遁"
   },
   "observations": {
     "布置者": [
@@ -34,6 +34,11 @@
         "value": "克土遁",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
+      },
+      {
+        "value": "笼罩数里、掀沙浪绞杀、封死土遁",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ]
   },
@@ -55,7 +60,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.315Z"
+  "updatedAt": "2026-06-17T16:41:00.812Z"
 }

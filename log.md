@@ -474,3 +474,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T16:17:14.964Z** `update` plot.fanren-ch895-jinpa-yincan — 凡人修仙传 第895章 锦帕银蚕——韩立分虫诱敌、围杀天澜圣兽 · kind=plot asOf=2026-06-17 entities=43 relations=57 src=00895-00900.md
 - **2026-06-17T16:25:26.987Z** `ingest` plot.fanren-901-906-canwang-dahui-tianjiwu — 凡人修仙传 第901-906章｜参王大会·棺中人·天机屋 · kind=plot asOf=2026-06-17 entities=28 relations=26 src=00901-00906.md
 - **2026-06-17T16:32:53.661Z** `ingest` plot.fmxz-ch907-912-huorongjing-jinghua-yaodan — 凡人修仙传 第907-912章｜火熔晶·晶化妖丹·冯家密窟钥匙 · kind=plot asOf=2026-06-17 entities=37 relations=47 src=00907-00912.md
+- **2026-06-17T16:41:01.102Z** `ingest` plot.fanren-913-918-xueling-huangsha-zhan — 凡人修仙传 第913-918章｜雪岭山脉黄沙阵·韩立惊魔灭青袍 · kind=plot asOf=2026-06-17 entities=30 relations=38 src=00913-00918.md

@@ -9,18 +9,24 @@
     "炫烨道友",
     "炫烨兄",
     "炫烨",
-    "炫烨王化身"
+    "炫烨王化身",
+    "玄烨烨王",
+    "玄烨兄",
+    "本王",
+    "帝王炼尸"
   ],
   "summary": "上古时期以凶残著称的传说帝王，其巨墓陪葬有修士材料法器，干尸化为刀枪不入的行尸，主棺中似将复活。",
   "attributes": {
-    "称号": "老魔",
-    "身份": "上古帝王、尸王/天尸之体、老魔/尸王、天尸老魔/尸王",
+    "称号": "万年尸王",
+    "身份": "上古帝王、尸王/天尸之体、老魔/尸王、天尸老魔/尸王、老魔、万年尸王/帝王炼尸",
     "性格": "凶残",
-    "存殁": "存疑",
+    "存殁": "存活",
     "小阶段": "元婴后期",
-    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复、天尸之体快大成",
+    "标志特征": "瘦削戴冠、目泛红、尸气冲天、原形绿毛獠牙利爪坚逾金铁、吸魂吞丹魔功、元气速复、天尸之体快大成、本命尸焰、万年尸焰、修炼天尸决",
     "种族": "尸/万年尸王",
-    "阵营": "魔道"
+    "阵营": "魔道",
+    "外貌": "长发紫黑、绿毛獠牙、利爪坚逾金铁",
+    "出身地": "生前为上古帝王"
   },
   "observations": {
     "称号": [
@@ -33,6 +39,11 @@
         "value": "老魔",
         "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "万年尸王",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "身份": [
@@ -55,6 +66,16 @@
         "value": "天尸老魔/尸王",
         "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "老魔",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      },
+      {
+        "value": "万年尸王/帝王炼尸",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "性格": [
@@ -69,6 +90,11 @@
         "value": "存疑",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "存活",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "小阶段": [
@@ -116,6 +142,21 @@
         "value": "天尸之体快大成",
         "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
         "seq": 907
+      },
+      {
+        "value": "本命尸焰",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      },
+      {
+        "value": "万年尸焰",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      },
+      {
+        "value": "修炼天尸决",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "种族": [
@@ -136,15 +177,30 @@
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
       }
+    ],
+    "外貌": [
+      {
+        "value": "长发紫黑、绿毛獠牙、利爪坚逾金铁",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913,
+        "note": "现尸王原形时"
+      }
+    ],
+    "出身地": [
+      {
+        "value": "生前为上古帝王",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      }
     ]
   },
   "firstSeq": 901,
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
       "dated": false,
-      "seq": 907
+      "seq": 913
     },
     "身份": {
       "asOf": null,
@@ -160,9 +216,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
       "dated": false,
-      "seq": 901
+      "seq": 913
     },
     "小阶段": {
       "asOf": null,
@@ -188,6 +244,19 @@
       "docId": "plot.fanren-913-918-xueling-huangsha-array",
       "dated": false,
       "seq": 913
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913,
+      "note": "现尸王原形时"
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913
     }
   },
   "contested": false,
@@ -197,7 +266,8 @@
     "plot.fanren-907-912-huorongjing-jinghua-yaodan",
     "plot.fanren-913-918-xueling-huangsha-array",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-17T16:32:53.349Z"
+  "updatedAt": "2026-06-17T16:41:00.835Z"
 }

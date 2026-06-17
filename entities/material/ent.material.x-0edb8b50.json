@@ -6,8 +6,8 @@
   "summary": "天石姥姥百余年炼成的神砂，混入落魂沙中专克土遁，使炫烨王无法土遁逃跑。",
   "attributes": {
     "类型": "灵砂/神砂",
-    "用途": "克制土遁",
-    "稀有度": "极稀（百余年炼成）"
+    "用途": "克制土遁、封死土遁逃路",
+    "稀有度": "极稀（百余年炼成）、极稀有"
   },
   "observations": {
     "类型": [
@@ -22,12 +22,22 @@
         "value": "克制土遁",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
+      },
+      {
+        "value": "封死土遁逃路",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "稀有度": [
       {
         "value": "极稀（百余年炼成）",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
         "seq": 913
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.314Z"
+  "updatedAt": "2026-06-17T16:41:00.856Z"
 }

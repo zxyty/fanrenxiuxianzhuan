@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "韩立修炼的护身功法，第一层使躯体如精铁、血肉含金丝，可化金刚之躯。",
   "attributes": {
-    "效果": "躯体坚韧如精铁、血肉含金丝、化金刚之躯、炼体为主、镇压安稳体内煞气、身体发生惊人变化、炼体/明王法相、抵御煞气、身体坚韧、逐层强横躯体、炼体、易筋洗髓、强横肉身、炼体，肌肤淡金、身坚如法宝、召唤金刚虚影、罗汉金身、炼体；第四层后可习数种佛宗秘术、炼体，韩立修至第四层、炼化煞气、炼体，肉身力敌元婴",
+    "效果": "躯体坚韧如精铁、血肉含金丝、化金刚之躯、炼体为主、镇压安稳体内煞气、身体发生惊人变化、炼体/明王法相、抵御煞气、身体坚韧、逐层强横躯体、炼体、易筋洗髓、强横肉身、炼体，肌肤淡金、身坚如法宝、召唤金刚虚影、罗汉金身、炼体；第四层后可习数种佛宗秘术、炼体，韩立修至第四层、炼化煞气、炼体，肉身力敌元婴、化煞气反噬为己用",
     "适用境界": "大修士",
     "品阶": "佛门顶阶",
     "修炼条件": "以自身法力协助修行",
@@ -57,7 +57,7 @@
       {
         "value": "炼体",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
-        "seq": 1189
+        "seq": 913
       },
       {
         "value": "易筋洗髓、强横肉身",
@@ -93,6 +93,11 @@
         "value": "炼体，肉身力敌元婴",
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333
+      },
+      {
+        "value": "化煞气反噬为己用",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "适用境界": [
@@ -115,6 +120,11 @@
         "value": "大修士",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
         "seq": 1225
+      },
+      {
+        "value": "筑基可起修",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "品阶": [
@@ -149,6 +159,11 @@
         "value": "以自身法力协助修行",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "第二层起须灵脉之地大量灵力",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "出处": [
@@ -211,13 +226,13 @@
       }
     ]
   },
-  "firstSeq": 919,
+  "firstSeq": 913,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-919-924-ganjia-bailu-shuyuan",
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
-      "seq": 919
+      "seq": 913
     },
     "适用境界": {
       "asOf": null,
@@ -268,7 +283,8 @@
     "plot.fanren-1261-1266-blood-curse-tiandong",
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales"
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T12:56:39.938Z"
+  "updatedAt": "2026-06-17T16:41:00.870Z"
 }

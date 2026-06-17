@@ -4,13 +4,16 @@
   "name": "落魂沙",
   "aliases": [
     "黑色落魂沙",
-    "落魂砂"
+    "落魂砂",
+    "黑色沙砾",
+    "黑沙",
+    "沙雾"
   ],
   "summary": "狂沙上人所用法宝，精魂祭炼、阴气极重，专污飞剑、夺飞剑控制权，不可用普通法宝抵挡。",
   "attributes": {
     "持有者": "狂沙上人",
-    "能力": "专污/夺控飞剑、化黑色沙雾绞杀",
-    "来历": "精魂祭炼"
+    "能力": "专污/夺控飞剑、化黑色沙雾绞杀、专污飞剑、夺控神念、阴气绞杀、污秽他人法宝",
+    "来历": "精魂祭炼、杀低阶修士采精魂元神祭炼"
   },
   "observations": {
     "持有者": [
@@ -30,12 +33,32 @@
         "value": "化黑色沙雾绞杀",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
+      },
+      {
+        "value": "专污飞剑、夺控神念",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      },
+      {
+        "value": "阴气绞杀",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      },
+      {
+        "value": "污秽他人法宝",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ],
     "来历": [
       {
         "value": "精魂祭炼",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "杀低阶修士采精魂元神祭炼",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
         "seq": 913
       }
     ]
@@ -64,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.313Z"
+  "updatedAt": "2026-06-17T16:41:00.853Z"
 }

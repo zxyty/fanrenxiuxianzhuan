@@ -4,12 +4,14 @@
   "name": "天尸珠",
   "aliases": [
     "金珠",
-    "天尸宝珠"
+    "天尸宝珠",
+    "尸珠"
   ],
   "summary": "炫烨王随身至宝，喷出可化金色大手御敌，三魔围杀目的即为夺此珠。",
   "attributes": {
     "持有者": "炫烨王",
-    "能力": "化金色大手抓制敌法"
+    "能力": "化金色大手抓制敌法、化金色大手抓制",
+    "外形": "拳头大金珠"
   },
   "observations": {
     "持有者": [
@@ -23,6 +25,18 @@
       {
         "value": "化金色大手抓制敌法",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
+        "seq": 913
+      },
+      {
+        "value": "化金色大手抓制",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      }
+    ],
+    "外形": [
+      {
+        "value": "拳头大金珠",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
         "seq": 913
       }
     ]
@@ -40,6 +54,12 @@
       "docId": "plot.fanren-913-918-xueling-huangsha-array",
       "dated": false,
       "seq": 913
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913
     }
   },
   "contested": false,
@@ -49,7 +69,8 @@
     "plot.fanren-919-924-ganjia-bailu-shuyuan",
     "plot.fanren-931-936-anliu-jinjing-route",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan"
+    "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-17T16:32:53.381Z"
+  "updatedAt": "2026-06-17T16:41:00.866Z"
 }

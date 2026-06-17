@@ -9,7 +9,8 @@
   "attributes": {
     "称号": "天风真君",
     "身份": "方尖山双魔之一",
-    "出身地": "方尖山"
+    "出身地": "方尖山",
+    "外貌": "马脸小眼、脸色黝黑、相貌奇丑"
   },
   "observations": {
     "称号": [
@@ -32,6 +33,13 @@
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
       }
+    ],
+    "外貌": [
+      {
+        "value": "马脸小眼、脸色黝黑、相貌奇丑",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      }
     ]
   },
   "firstSeq": 901,
@@ -53,12 +61,19 @@
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
       "seq": 901
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T00:43:53.286Z"
+  "updatedAt": "2026-06-17T16:41:00.831Z"
 }

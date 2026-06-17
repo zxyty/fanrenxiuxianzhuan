@@ -4,7 +4,8 @@
   "name": "青袍老者",
   "aliases": [
     "魔云老者",
-    "黑魔云老魔"
+    "黑魔云老魔",
+    "魔云中老者"
   ],
   "summary": "炼气九层修士,善敛气功法,误施梦魇术于韩立反被反制,判出韩立为筑基期。",
   "attributes": {
@@ -13,7 +14,8 @@
     "外貌": "六十余岁青袍灰发",
     "阵营": "魔道",
     "存殁": "死亡",
-    "死因": "被韩立紫焰贯体冰封、金色电网爆裂，连元婴一并灭杀（第915章）"
+    "死因": "被韩立紫焰贯体冰封、金色电网爆裂，连元婴一并灭杀（第915章）、被韩立紫焰冰封穿胸、元婴被金色电网绞灭",
+    "身份": "老魔"
   },
   "observations": {
     "小阶段": [
@@ -61,6 +63,18 @@
         "value": "被韩立紫焰贯体冰封、金色电网爆裂，连元婴一并灭杀（第915章）",
         "docId": "plot.fanren-913-918-xueling-huangsha-array",
         "seq": 913
+      },
+      {
+        "value": "被韩立紫焰冰封穿胸、元婴被金色电网绞灭",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
+      }
+    ],
+    "身份": [
+      {
+        "value": "老魔",
+        "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+        "seq": 913
       }
     ]
   },
@@ -101,13 +115,20 @@
       "docId": "plot.fanren-913-918-xueling-huangsha-array",
       "dated": false,
       "seq": 913
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-913-918-xueling-huangsha-zhan",
+      "dated": false,
+      "seq": 913
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-c283-288-yuejing-qinzhai-xinwangfu",
-    "plot.fanren-913-918-xueling-huangsha-array"
+    "plot.fanren-913-918-xueling-huangsha-array",
+    "plot.fanren-913-918-xueling-huangsha-zhan"
   ],
-  "updatedAt": "2026-06-16T01:00:58.308Z"
+  "updatedAt": "2026-06-17T16:41:00.738Z"
 }
