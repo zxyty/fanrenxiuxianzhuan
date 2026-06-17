@@ -11,8 +11,9 @@
     "身份": "结丹修士",
     "阵营": "天道盟",
     "存殁": "死亡",
-    "死因": "被鲁卫英飓风旗(风刃)绞为碎尸",
-    "外貌": "年约四十余、枯瘦"
+    "死因": "被鲁卫英飓风旗(风刃)绞为碎尸、被飓风旗风刃绞为碎尸",
+    "外貌": "年约四十余、枯瘦",
+    "小阶段": "结丹"
   },
   "observations": {
     "身份": [
@@ -33,7 +34,8 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
-        "seq": 805
+        "seq": 805,
+        "note": "本章被鲁卫英斩杀；世界状态须知标注其已于805章死亡，归属存疑"
       }
     ],
     "死因": [
@@ -41,12 +43,24 @@
         "value": "被鲁卫英飓风旗(风刃)绞为碎尸",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
         "seq": 805
+      },
+      {
+        "value": "被飓风旗风刃绞为碎尸",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ],
     "外貌": [
       {
         "value": "年约四十余、枯瘦",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
     ]
@@ -69,7 +83,8 @@
       "asOf": null,
       "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
       "dated": false,
-      "seq": 805
+      "seq": 805,
+      "note": "本章被鲁卫英斩杀；世界状态须知标注其已于805章死亡，归属存疑"
     },
     "死因": {
       "asOf": null,
@@ -82,12 +97,19 @@
       "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
       "dated": false,
       "seq": 805
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path"
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T05:59:16.408Z"
+  "updatedAt": "2026-06-17T13:31:45.632Z"
 }

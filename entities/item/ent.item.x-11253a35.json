@@ -9,7 +9,7 @@
   "summary": "青铜令牌，由鬼灵门发放，持令者方可随鬼灵门修士入坠魔谷，一枚价值数万灵石。",
   "attributes": {
     "类型": "令牌、入谷凭证、入谷令牌",
-    "用途": "入坠魔谷凭证、凭此安全入坠魔谷、入坠魔谷传送凭证、随鬼灵门入坠魔谷"
+    "用途": "入坠魔谷凭证、凭此安全入坠魔谷、入坠魔谷传送凭证、随鬼灵门入坠魔谷、传送入坠魔谷"
   },
   "observations": {
     "类型": [
@@ -49,6 +49,11 @@
         "value": "随鬼灵门入坠魔谷",
         "docId": "plot.fanren-793-798-zhuimo-valley-hanli-return",
         "seq": 793
+      },
+      {
+        "value": "传送入坠魔谷",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ]
   },
@@ -73,7 +78,8 @@
     "plot.fanren-793-798-zhuimo-zhi-di",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-jiehuo",
     "plot.fanren-793-798-zhuimo-valley-hanli-return",
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-17T13:23:12.065Z"
+  "updatedAt": "2026-06-17T13:31:45.612Z"
 }

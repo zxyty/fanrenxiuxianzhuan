@@ -8,13 +8,14 @@
     "钟姓老者",
     "钟道友",
     "钟师兄",
-    "须发皆白老者"
+    "须发皆白老者",
+    "面容苍白老者"
   ],
   "summary": "鬼灵门元婴中期老者，须发皆白、煞气浓重，随王蝉先行入谷。",
   "attributes": {
     "小阶段": "元婴",
     "阵营": "魔道、鬼灵门",
-    "外貌": "面容苍白老者",
+    "外貌": "面容苍白老者、须发皆白、鹰眼、煞气浓、面容苍白",
     "身份": "鬼灵门长老",
     "性别": "男"
   },
@@ -53,6 +54,11 @@
         "value": "须发皆白、鹰眼、煞气浓",
         "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
         "seq": 799
+      },
+      {
+        "value": "面容苍白",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ],
     "身份": [
@@ -86,9 +92,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+      "docId": "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
       "dated": false,
-      "seq": 805
+      "seq": 799
     },
     "身份": {
       "asOf": null,
@@ -111,7 +117,8 @@
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
-    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng"
+    "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-17T13:23:12.027Z"
+  "updatedAt": "2026-06-17T13:31:45.576Z"
 }

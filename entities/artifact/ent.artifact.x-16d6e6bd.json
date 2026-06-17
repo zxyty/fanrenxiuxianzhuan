@@ -8,7 +8,7 @@
   "summary": "鲁卫英法宝，可化飓风/风龙撕碎目标，绞杀了黄天冥。",
   "attributes": {
     "持有者": "鲁卫英",
-    "能力": "化飓风风龙、风刃绞杀",
+    "能力": "化飓风风龙、风刃绞杀、化飓风风刃绞杀",
     "外形": "白色法旗"
   },
   "observations": {
@@ -23,6 +23,11 @@
       {
         "value": "化飓风风龙、风刃绞杀",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "化飓风风刃绞杀",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
     ],
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path"
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T05:59:16.414Z"
+  "updatedAt": "2026-06-17T13:31:45.650Z"
 }

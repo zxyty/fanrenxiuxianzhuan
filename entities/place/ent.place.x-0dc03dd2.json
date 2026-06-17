@@ -10,7 +10,7 @@
   "attributes": {
     "类型": "禁地/谷",
     "危险度": "极高、高、高（空间裂缝、上古禁制、禁空禁制、灵禽失控）",
-    "守护": "血色禁制、北极元光通道、火蟾兽",
+    "守护": "血色禁制、北极元光通道、火蟾兽、血色上古禁制、北极元光",
     "所属势力": "坠魔谷",
     "特产": "火蟾妖丹、灵烛果"
   },
@@ -63,6 +63,16 @@
       {
         "value": "火蟾兽",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "血色上古禁制",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
+      },
+      {
+        "value": "北极元光",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
     ],
@@ -124,7 +134,8 @@
   "docs": [
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-ch811-gang-yin-sha",
-    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu"
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T13:16:27.447Z"
+  "updatedAt": "2026-06-17T13:31:45.639Z"
 }

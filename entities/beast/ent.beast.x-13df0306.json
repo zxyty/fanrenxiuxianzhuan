@@ -14,8 +14,8 @@
   "attributes": {
     "等级": "中阶妖物",
     "栖息地": "黑隐山",
-    "能力": "喷灰雾妖雾、瞬间拉长吞噬法宝、青色霞光护体、吸力摄物、现三颗蛇首",
-    "外形": "三头巨蟒(绿色眼珠)"
+    "能力": "喷灰雾妖雾、瞬间拉长吞噬法宝、青色霞光护体、吸力摄物、现三颗蛇首、吸纳碎石摄敌入口",
+    "外形": "乌黑如铁、五六十丈长、巨鳞、绿幽蛇目、三头巨蟒(绿色眼珠)、三颗蛇首、乌黑铁鳞、绿目"
   },
   "observations": {
     "等级": [
@@ -67,6 +67,11 @@
         "value": "现三颗蛇首",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
         "seq": 805
+      },
+      {
+        "value": "吸纳碎石摄敌入口",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ],
     "外形": [
@@ -79,6 +84,11 @@
         "value": "三头巨蟒(绿色眼珠)",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "三颗蛇首、乌黑铁鳞、绿目",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ]
   },
@@ -104,9 +114,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1401-black-mist-sea",
+      "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
       "dated": false,
-      "seq": 1399
+      "seq": 805
     }
   },
   "contested": false,
@@ -114,7 +124,8 @@
   "docs": [
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-16T19:22:06.814Z"
+  "updatedAt": "2026-06-17T13:31:45.641Z"
 }

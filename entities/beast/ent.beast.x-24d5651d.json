@@ -3,12 +3,13 @@
   "type": "beast",
   "name": "火蟾兽",
   "aliases": [
-    "火蟾兽古兽"
+    "火蟾兽古兽",
+    "火蟾收"
   ],
   "summary": "坠魔谷内谷中守护上古修士遗骸的火属性上古古兽，被苍坤上人遗书形容可怕异常，或为变异或因久无天敌。",
   "attributes": {
     "栖息地": "坠魔谷内谷、内谷、坠魔谷赤红巨峰下熔岩洞",
-    "能力": "火属性、看守古修遗骸、喷火球·瞬间巨大化、熔岩中恢复元气、火遁·瞬息千丈、赤红三层光罩护身、赤红光柱、不灭之体、火属性灵盾、精元真火火弹、坚韧蟾舌",
+    "能力": "火属性、看守古修遗骸、喷火球·瞬间巨大化、熔岩中恢复元气、火遁·瞬息千丈、赤红三层光罩护身、赤红光柱、不灭之体、火属性灵盾、精元真火火弹、坚韧蟾舌、火属性，可怕异常",
     "等级": "遁速不下元婴初期",
     "外形": "火蟾，碧绿双目",
     "种族": "上古奇兽",
@@ -82,6 +83,11 @@
         "value": "坚韧蟾舌",
         "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
         "seq": 817
+      },
+      {
+        "value": "火属性，可怕异常",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ],
     "等级": [
@@ -89,6 +95,11 @@
         "value": "遁速不下元婴初期",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "古兽",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
       }
     ],
     "外形": [
@@ -163,7 +174,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-ch811-gang-yin-sha",
     "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
-    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen"
+    "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T14:26:36.576Z"
+  "updatedAt": "2026-06-17T13:31:45.648Z"
 }

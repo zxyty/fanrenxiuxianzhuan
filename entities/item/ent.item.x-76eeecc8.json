@@ -9,7 +9,7 @@
   "summary": "南陇侯所持数枚数寸小铃，遇空间波动异常即清脆鸣响示警，但无法预警隐形空间裂缝。",
   "attributes": {
     "类型": "示警法器",
-    "用途": "示警空间裂缝"
+    "用途": "示警空间裂缝、空间裂缝示警"
   },
   "observations": {
     "类型": [
@@ -23,6 +23,11 @@
       {
         "value": "示警空间裂缝",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "空间裂缝示警",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
     ]
@@ -45,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path"
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T05:59:16.397Z"
+  "updatedAt": "2026-06-17T13:31:45.610Z"
 }

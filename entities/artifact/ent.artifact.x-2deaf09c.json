@@ -4,12 +4,13 @@
   "name": "银钵盂",
   "aliases": [
     "银色巨钵",
-    "银钵"
+    "银钵",
+    "银光钵盂"
   ],
   "summary": "韩立击杀慕兰法士所得古宝之一，可涨大喷银波，曾被巨蟒吞噬后取回。",
   "attributes": {
     "持有者": "韩立",
-    "来历": "击杀慕兰法士所得古宝",
+    "来历": "击杀慕兰法士所得古宝、斩杀慕兰法士所得古宝",
     "能力": "涨大喷银波"
   },
   "observations": {
@@ -24,6 +25,11 @@
       {
         "value": "击杀慕兰法士所得古宝",
         "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+        "seq": 805
+      },
+      {
+        "value": "斩杀慕兰法士所得古宝",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
     ],
@@ -59,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path"
+    "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-15T05:59:16.418Z"
+  "updatedAt": "2026-06-17T13:31:45.657Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.material.x-41793707",
   "type": "material",
   "name": "火蟾内丹",
-  "aliases": [],
+  "aliases": [
+    "火蟾兽内丹"
+  ],
   "summary": "火蟾兽体内内丹，对南宫婉重要无比，是韩立合力灭火蟾的主要目标。",
   "attributes": {
     "类型": "妖兽内丹",
-    "用途": "清除封魂咒"
+    "用途": "清除封魂咒",
+    "产地": "火蟾兽"
   },
   "observations": {
     "类型": [
@@ -27,6 +30,13 @@
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
       }
+    ],
+    "产地": [
+      {
+        "value": "火蟾兽",
+        "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+        "seq": 805
+      }
     ]
   },
   "firstSeq": 805,
@@ -42,13 +52,20 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
+      "dated": false,
+      "seq": 805
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-805-810-zhuimogu-killing-intent"
   ],
-  "updatedAt": "2026-06-16T07:03:34.639Z"
+  "updatedAt": "2026-06-17T13:31:45.615Z"
 }
