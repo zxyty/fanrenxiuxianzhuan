@@ -9,15 +9,18 @@
     "琴儿",
     "田师侄",
     "田师妹",
-    "黄袍女子"
+    "黄袍女子",
+    "令爱"
   ],
   "summary": "文思月爱女，身中奇毒，懂阵法，手心有红痣，给韩立似曾相识之感。",
   "attributes": {
     "性别": "女",
-    "标志特征": "手心豆粒大嫣红红痣、龙吟之体、手心血红龙纹、阵法天赋、阵法天赋出众、龙吟之体；天生阵法天赋、服驻颜丹驻容、阵法天才",
-    "身份": "中奇毒的少女、结丹修士之女、韩立弟子、韩立亲传弟子",
+    "标志特征": "手心豆粒大嫣红红痣、龙吟之体、手心血红龙纹、阵法天赋、阵法天赋出众、龙吟之体；天生阵法天赋、服驻颜丹驻容、阵法天才、掌心血红色红痣、镇定漠视生死、龙吟之体(隐性体质)、手心血红色龙纹、女生龙吟之体",
+    "身份": "中奇毒的少女、结丹修士之女、韩立弟子、韩立亲传弟子、文思月夫妇之女",
     "小阶段": "结丹后期",
-    "外貌": "黄袍女子"
+    "外貌": "黄袍女子",
+    "寿元": "百余年(若停修)",
+    "出身地": "银鲨岛"
   },
   "observations": {
     "性别": [
@@ -68,6 +71,26 @@
         "value": "阵法天才",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "掌心血红色红痣、镇定漠视生死",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "龙吟之体(隐性体质)",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "手心血红色龙纹",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "女生龙吟之体",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ],
     "身份": [
@@ -90,6 +113,11 @@
         "value": "韩立亲传弟子",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "文思月夫妇之女",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ],
     "小阶段": [
@@ -112,6 +140,11 @@
         "value": "结丹后期",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "凡人/未入修炼",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ],
     "外貌": [
@@ -129,6 +162,25 @@
         "value": "黄袍女子",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "枯瘦少女",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      }
+    ],
+    "寿元": [
+      {
+        "value": "百余年(若停修)",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      }
+    ],
+    "出身地": [
+      {
+        "value": "银鲨岛",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ]
   },
@@ -163,6 +215,18 @@
       "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
       "dated": false,
       "seq": 1255
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
     }
   },
   "contested": false,
@@ -176,7 +240,8 @@
     "plot.fanren-1196-er-nv",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-16T09:55:48.360Z"
+  "updatedAt": "2026-06-18T11:35:25.524Z"
 }

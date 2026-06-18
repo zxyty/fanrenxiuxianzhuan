@@ -7,13 +7,15 @@
     "儒雅男子",
     "文思月之夫",
     "田姓修士",
-    "儒雅青年"
+    "儒雅青年",
+    "田父"
   ],
   "summary": "结丹期儒雅中年男子，月仙子之夫；贿赂星宫执事偷渡去外海银鲨岛，为患重症的爱女求白鹭鱼妖内丹。",
   "attributes": {
     "性别": "男",
     "小阶段": "结丹期、结丹、结丹初期",
-    "身份": "文思月夫君、田琴儿之父、田琴儿之父"
+    "身份": "文思月夫君、田琴儿之父、田琴儿之父",
+    "外貌": "儒雅男子"
   },
   "observations": {
     "性别": [
@@ -51,6 +53,13 @@
         "docId": "plot.fanren-1131-jidan",
         "seq": 1129
       }
+    ],
+    "外貌": [
+      {
+        "value": "儒雅男子",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      }
     ]
   },
   "firstSeq": 1123,
@@ -72,6 +81,12 @@
       "docId": "plot.fanren-1131-jidan",
       "dated": false,
       "seq": 1129
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
     }
   },
   "contested": false,
@@ -79,7 +94,8 @@
   "docs": [
     "plot.fanren-ch1123-1128-houqi-chucheng",
     "plot.fanren-1131-jidan",
-    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-18T11:23:46.497Z"
+  "updatedAt": "2026-06-18T11:35:25.525Z"
 }

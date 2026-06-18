@@ -2,12 +2,17 @@
   "id": "ent.person.x-9bdade81",
   "type": "person",
   "name": "天星双圣男子",
-  "aliases": [],
+  "aliases": [
+    "天星双圣（男）",
+    "圣山男子"
+  ],
   "summary": "天星双圣之一，温青之伴侣，主张铲除韩立。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴后期",
-    "称号": "天星双圣"
+    "称号": "天星双圣",
+    "身份": "星宫之主",
+    "寿元": "尚余百余年"
   },
   "observations": {
     "性别": [
@@ -28,6 +33,20 @@
       {
         "value": "天星双圣",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      }
+    ],
+    "身份": [
+      {
+        "value": "星宫之主",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
+      }
+    ],
+    "寿元": [
+      {
+        "value": "尚余百余年",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ]
@@ -51,12 +70,25 @@
       "docId": "plot.fanren-1131-jidan",
       "dated": false,
       "seq": 1129
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1131-jidan"
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:42:29.365Z"
+  "updatedAt": "2026-06-18T11:35:25.478Z"
 }

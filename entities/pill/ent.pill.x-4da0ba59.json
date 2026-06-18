@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "韩立施治后喂田琴儿服下的一粒丹药，令其安然沉睡。",
   "attributes": {
-    "功效": "安神沉睡"
+    "功效": "安神沉睡、令服者沉睡"
   },
   "observations": {
     "功效": [
       {
         "value": "安神沉睡",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "令服者沉睡",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1131-jidan"
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:42:29.384Z"
+  "updatedAt": "2026-06-18T11:35:25.513Z"
 }

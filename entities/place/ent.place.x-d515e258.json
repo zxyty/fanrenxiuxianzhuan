@@ -4,11 +4,12 @@
   "name": "鬼冤之地",
   "aliases": [
     "鬼雾",
-    "活鬼雾"
+    "活鬼雾",
+    "漆黑雾气"
   ],
   "summary": "虚天殿第一关，遍布吸精血摄魂的鬼雾，失陷修士化厉魄敌视闯殿者，近年愈发凶险。",
   "attributes": {
-    "类型": "关卡",
+    "类型": "阴冥异象",
     "危险度": "极高",
     "守护": "厉鬼/鬼王"
   },
@@ -23,6 +24,11 @@
         "value": "关卡",
         "docId": "plot.fanren-ch446-zaiju",
         "seq": 445
+      },
+      {
+        "value": "阴冥异象",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ],
     "危险度": [
@@ -49,9 +55,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch446-zaiju",
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
       "dated": false,
-      "seq": 445
+      "seq": 1129
     },
     "危险度": {
       "asOf": null,
@@ -72,7 +78,8 @@
     "plot.fanren-c433-438-xutiandian-juji",
     "plot.fanren-ch446-zaiju",
     "plot.fanren-ch565-570-yuanyao-huanhunshu-tianzhao",
-    "plot.fanren-1135-1140-qingyu-leikongdao"
+    "plot.fanren-1135-1140-qingyu-leikongdao",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:50:10.383Z"
+  "updatedAt": "2026-06-18T11:35:25.534Z"
 }

@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "韩立赠田琴儿的丹药，一月服一粒，数年内可不必另服他丹以维持体质。",
   "attributes": {
-    "功效": "维持体质、辅助压制龙吟之体",
+    "功效": "维持体质、辅助压制龙吟之体、每月一粒，数年内免服其他丹药",
     "适用境界": "未筑基幼修"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "维持体质、辅助压制龙吟之体",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "每月一粒，数年内免服其他丹药",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ],
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1131-jidan"
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:42:29.386Z"
+  "updatedAt": "2026-06-18T11:35:25.529Z"
 }

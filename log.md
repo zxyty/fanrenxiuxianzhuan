@@ -520,3 +520,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T10:54:04.288Z** `update` plot.fanren-1113-yaoqi-chongtian — 第1113章 妖气冲天——韩立斩九级妖兽精魂、闯入虚灵殿大殿被困 · kind=plot asOf=2026-06-18 entities=51 relations=68 src=01111-01116.md
 - **2026-06-18T11:11:14.130Z** `ingest` plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong — 凡人修仙传 第1117-1122章：黄泉鬼母·传送之战·重返虚天殿 · kind=plot asOf=2026-06-18 entities=48 relations=56 src=01117-01122.md
 - **2026-06-18T11:23:46.891Z** `ingest` plot.fanren-1123-1128-houqi-chucheng-huangshamen — 凡人修仙传 第1123-1128章：韩立进阶元婴后期·虚天殿现世·黄沙门 · kind=plot asOf=2026-06-18 entities=37 relations=45 src=01123-01128.md
+- **2026-06-18T11:35:25.701Z** `ingest` plot.fanren-1129-1134-tianxing-shuangsheng-jidan — 凡人修仙传 第1129-1134章｜天星双圣的忌惮与援手文思月母女 · kind=plot asOf=2026-06-18 entities=36 relations=49 src=01129-01134.md

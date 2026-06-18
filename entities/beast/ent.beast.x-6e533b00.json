@@ -3,11 +3,13 @@
   "type": "beast",
   "name": "白鹭鱼妖",
   "aliases": [
-    "白鹭妖鱼"
+    "白鹭妖鱼",
+    "白鹭鱼妖内丹"
   ],
   "summary": "外海妖兽，其内丹可救治重症；田姓夫妇为患重症的爱女偷渡外海求其内丹。",
   "attributes": {
-    "栖息地": "外海"
+    "栖息地": "外海",
+    "能力": "内丹可解余毒"
   },
   "observations": {
     "栖息地": [
@@ -15,6 +17,13 @@
         "value": "外海",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
         "seq": 1123
+      }
+    ],
+    "能力": [
+      {
+        "value": "内丹可解余毒",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ]
   },
@@ -25,12 +34,19 @@
       "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
       "seq": 1123
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+      "dated": false,
+      "seq": 1129
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1123-1128-houqi-chucheng"
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:30:15.490Z"
+  "updatedAt": "2026-06-18T11:35:25.515Z"
 }

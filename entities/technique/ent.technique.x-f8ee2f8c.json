@@ -4,11 +4,12 @@
   "name": "法阵要诀",
   "aliases": [
     "阵法要诀",
-    "法阵书"
+    "法阵书",
+    "阵法典籍"
   ],
   "summary": "一本阵法典籍，法阵不复杂却有独到之处，出自辛如音所赠并以其参悟心得为主；韩立用以考验田琴儿阵法资质。",
   "attributes": {
-    "出处": "辛如音所赠阵法典籍",
+    "出处": "辛如音所赠阵法典籍、辛如音所赠",
     "效果": "考验/启迪阵法资质"
   },
   "observations": {
@@ -16,6 +17,11 @@
       {
         "value": "辛如音所赠阵法典籍",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "辛如音所赠",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ],
@@ -45,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1131-jidan"
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:42:29.383Z"
+  "updatedAt": "2026-06-18T11:35:25.529Z"
 }

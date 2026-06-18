@@ -4,13 +4,14 @@
   "name": "巨禽",
   "aliases": [
     "妖禽",
-    "青色巨爪"
+    "青色巨爪",
+    "巨禽妖兽"
   ],
   "summary": "藏于诡异黑影中、体长疑数千丈的上古级妖禽，可借空间裂缝跨界攻击人界，与鬼雾相斗后折一羽翎退去。",
   "attributes": {
     "等级": "上古/疑超十级",
-    "外形": "通体碧青、巨爪数百丈",
-    "能力": "跨空间裂缝攻击、尖鸣致晕、碧绿光柱"
+    "外形": "通体碧青、巨爪数百丈、通体碧青、体长数千丈",
+    "能力": "跨空间裂缝攻击、尖鸣致晕、碧绿光柱、跨空间裂缝攻击、爪射碧绿光柱"
   },
   "observations": {
     "等级": [
@@ -24,6 +25,11 @@
       {
         "value": "通体碧青、巨爪数百丈",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "通体碧青、体长数千丈",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ],
@@ -41,6 +47,11 @@
       {
         "value": "碧绿光柱",
         "docId": "plot.fanren-1131-jidan",
+        "seq": 1129
+      },
+      {
+        "value": "跨空间裂缝攻击、爪射碧绿光柱",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
     ]
@@ -69,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1131-jidan"
+    "plot.fanren-1131-jidan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T10:42:29.392Z"
+  "updatedAt": "2026-06-18T11:35:25.533Z"
 }

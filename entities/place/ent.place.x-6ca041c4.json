@@ -9,7 +9,7 @@
   "summary": "银鲨岛最北部新发现高阶灵石矿脉的大岛，多产木系灵石，被海中妖兽、天星宫、逆星盟共同瓜分，渐成外海修士聚集地。",
   "attributes": {
     "类型": "海岛",
-    "特产": "顶阶/极品灵石",
+    "特产": "木系灵石（高阶灵石矿脉）、高阶灵石矿脉、木属性灵石、顶阶/极品灵石、木系灵石",
     "所属界面": "乱星海外海",
     "所属势力": "逆星盟",
     "守护": "极阴祖师",
@@ -48,6 +48,11 @@
         "value": "顶阶/极品灵石",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "木系灵石",
+        "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+        "seq": 1129
       }
     ],
     "所属界面": [
@@ -59,7 +64,7 @@
       {
         "value": "人界",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
-        "seq": 1147
+        "seq": 1129
       },
       {
         "value": "乱星海外海",
@@ -99,9 +104,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-1131-jidan",
       "dated": false,
-      "seq": 1153
+      "seq": 1129
     },
     "所属界面": {
       "asOf": null,
@@ -134,7 +139,8 @@
     "plot.fanren-1131-jidan",
     "plot.fanren-1135-1140-qingyu-leikongdao",
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.040Z"
+  "updatedAt": "2026-06-18T11:35:25.531Z"
 }
