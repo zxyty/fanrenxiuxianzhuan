@@ -8,7 +8,8 @@
     "中年文士",
     "七妙真人道友",
     "七妙道友",
-    "七妙兄"
+    "七妙兄",
+    "七妙"
   ],
   "summary": "天魔宗修士，玄青子须与其联手方可进入昆吾山封印。",
   "attributes": {
@@ -17,7 +18,7 @@
     "称号": "魔道巨枭",
     "外貌": "中年文士",
     "性别": "男",
-    "标志特征": "操使七件宝物",
+    "标志特征": "擅长秘术、操使七件宝物、擅秘术",
     "小阶段": "元婴",
     "存殁": "死亡",
     "死因": "被空间裂缝斩杀吞没"
@@ -27,7 +28,7 @@
       {
         "value": "天魔宗",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-        "seq": 1027
+        "seq": 943
       },
       {
         "value": "魔道",
@@ -98,6 +99,11 @@
         "value": "操使七件宝物",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "擅秘术",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "小阶段": [
@@ -156,9 +162,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1063
+      "seq": 943
     },
     "小阶段": {
       "asOf": null,
@@ -188,7 +194,8 @@
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T06:03:53.088Z"
+  "updatedAt": "2026-06-18T01:51:51.568Z"
 }

@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "太一门派往宫中的老怪物，为平山印而来。",
   "attributes": {
-    "身份": "太一门长老"
+    "身份": "太一门长老",
+    "阵营": "太一门"
   },
   "observations": {
     "身份": [
       {
         "value": "太一门长老",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "阵营": [
+      {
+        "value": "太一门",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
       "seq": 943
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.918Z"
+  "updatedAt": "2026-06-18T01:51:51.569Z"
 }

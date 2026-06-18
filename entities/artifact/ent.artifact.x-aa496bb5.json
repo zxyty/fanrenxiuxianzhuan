@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "天魔宗七妙真人之破形法宝，被阴罗宗借去祭炼，欲破韩立幻化之术。",
   "attributes": {
-    "能力": "察觉隐匿/感应",
+    "能力": "破形（破除幻化伪装）、察觉隐匿/感应、破形（破易容幻化）",
     "持有者": "林银屏"
   },
   "observations": {
@@ -19,6 +19,11 @@
         "value": "察觉隐匿/感应",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "破形（破易容幻化）",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "持有者": [
@@ -38,9 +43,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 949
+      "seq": 943
     },
     "持有者": {
       "asOf": null,
@@ -53,7 +58,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch943-jinjing-extortion-backstab",
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:23:46.991Z"
+  "updatedAt": "2026-06-18T01:51:51.576Z"
 }

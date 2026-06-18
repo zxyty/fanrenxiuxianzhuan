@@ -14,9 +14,9 @@
   ],
   "summary": "韩立欲探听线索的至阳之火。",
   "attributes": {
-    "类型": "火灵/仙灵之焰",
+    "类型": "至阳灵火、精火、至阳真灵之火、极火/异火、火灵/仙灵之焰、异火",
     "用途": "配制回阳水",
-    "产地": "火狱",
+    "产地": "万丈熔岩之下、火狱、万丈熔岩深处",
     "稀有度": "极稀"
   },
   "observations": {
@@ -45,6 +45,11 @@
         "value": "火灵/仙灵之焰",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "异火",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "用途": [
@@ -79,6 +84,11 @@
         "value": "火狱",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      },
+      {
+        "value": "万丈熔岩深处",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "稀有度": [
@@ -91,6 +101,11 @@
         "value": "极稀",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      },
+      {
+        "value": "极难得",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ]
   },
@@ -98,9 +113,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1243
+      "seq": 943
     },
     "用途": {
       "asOf": null,
@@ -110,9 +125,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1237
+      "seq": 943
     },
     "稀有度": {
       "asOf": null,
@@ -131,7 +146,8 @@
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T11:47:43.535Z"
+  "updatedAt": "2026-06-18T01:51:51.543Z"
 }

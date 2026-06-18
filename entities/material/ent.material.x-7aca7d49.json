@@ -6,7 +6,8 @@
   "summary": "产南疆西部大沙漠千尺沙地，可纳土属性灵气，炼土御性法宝佳材。",
   "attributes": {
     "类型": "炼器材料",
-    "产地": "南疆西部大沙漠"
+    "产地": "南疆西部大沙漠",
+    "用途": "炼土御性法宝"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,13 @@
       {
         "value": "南疆西部大沙漠",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼土御性法宝",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
       "seq": 943
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.922Z"
+  "updatedAt": "2026-06-18T01:51:51.580Z"
 }

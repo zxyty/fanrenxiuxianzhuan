@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "向天机阁借来的单层白石大殿，悬于宝光殿上空，本届元婴级拍卖会场地。",
   "attributes": {
-    "类型": "拍卖殿"
+    "类型": "拍卖殿堂、拍卖殿、拍卖大殿",
+    "守护": "白色光幕/玉牌红光通行"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,18 @@
         "value": "拍卖殿",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "拍卖大殿",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
+      }
+    ],
+    "守护": [
+      {
+        "value": "白色光幕/玉牌红光通行",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ]
   },
@@ -25,16 +38,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 949
+      "seq": 943
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch943-jinjing-extortion-backstab",
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:23:46.975Z"
+  "updatedAt": "2026-06-18T01:51:51.582Z"
 }

@@ -9,8 +9,8 @@
   "summary": "形如放大数倍碧绿蜗牛的低阶灵兽，发生变异后具备看破幻术／障眼法的能力，是小老头识破韩立竹筒化刀的凭据，最终被金剑绞杀。",
   "attributes": {
     "等级": "低阶（变异）",
-    "能力": "看破幻术、障眼法",
-    "外形": "放大数倍的碧绿蜗牛，触角晶莹细长，行动迟缓"
+    "能力": "看破幻术、障眼法、看破幻术障眼法",
+    "外形": "放大数倍的碧绿蜗牛，触角晶莹细长，行动迟缓、放大数倍的碧绿蜗牛"
   },
   "observations": {
     "等级": [
@@ -25,12 +25,22 @@
         "value": "看破幻术、障眼法",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "看破幻术障眼法",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "外形": [
       {
         "value": "放大数倍的碧绿蜗牛，触角晶莹细长，行动迟缓",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "放大数倍的碧绿蜗牛",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.855Z"
+  "updatedAt": "2026-06-18T01:51:51.540Z"
 }

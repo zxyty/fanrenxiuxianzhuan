@@ -8,7 +8,8 @@
   "summary": "叶家女修，曾在皇清观出现，对两个同名同貌的韩立心存疑虑。",
   "attributes": {
     "性别": "女",
-    "阵营": "叶家"
+    "阵营": "叶家",
+    "外貌": "美艳妇人"
   },
   "observations": {
     "性别": [
@@ -22,6 +23,13 @@
       {
         "value": "叶家",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      }
+    ],
+    "外貌": [
+      {
+        "value": "美艳妇人",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -39,12 +47,19 @@
       "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
       "seq": 943
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.902Z"
+  "updatedAt": "2026-06-18T01:51:51.565Z"
 }

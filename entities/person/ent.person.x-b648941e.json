@@ -9,7 +9,8 @@
   "attributes": {
     "小阶段": "元婴初期",
     "存殁": "死亡",
-    "死因": "被韩立灭杀"
+    "死因": "被韩立灭杀、被韩立以噬金虫、青竹蜂云剑、辟邪神雷斩杀（第943章）",
+    "身份": "散修"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +31,18 @@
       {
         "value": "被韩立灭杀",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "被韩立以噬金虫、青竹蜂云剑、辟邪神雷斩杀（第943章）",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
+      }
+    ],
+    "身份": [
+      {
+        "value": "散修",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -53,12 +66,19 @@
       "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
       "seq": 943
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.874Z"
+  "updatedAt": "2026-06-18T01:51:51.529Z"
 }

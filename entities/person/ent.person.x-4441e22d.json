@@ -13,8 +13,9 @@
     "性别": "男",
     "身份": "叶家二长老、叶家长老",
     "阵营": "叶家",
-    "外貌": "面容威严、腰缠玉带的方脸中年人",
-    "小阶段": "元婴中期"
+    "外貌": "面容威严、腰缠玉带的方脸中年人、面容威严、腰缠玉带方脸中年人",
+    "小阶段": "元婴中期",
+    "称号": "二长老"
   },
   "observations": {
     "性别": [
@@ -48,6 +49,11 @@
         "value": "面容威严、腰缠玉带的方脸中年人",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "面容威严、腰缠玉带方脸中年人",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "小阶段": [
@@ -55,6 +61,13 @@
         "value": "元婴中期",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      }
+    ],
+    "称号": [
+      {
+        "value": "二长老",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ]
   },
@@ -89,13 +102,20 @@
       "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
       "seq": 949
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch943-jinjing-extortion-backstab",
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:23:47.003Z"
+  "updatedAt": "2026-06-18T01:51:51.564Z"
 }

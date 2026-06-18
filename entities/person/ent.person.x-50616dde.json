@@ -16,7 +16,8 @@
     "标志特征": "面罩淡淡黑气(魔功极深)、魔功修炼极深",
     "性格": "狰狞强硬",
     "性别": "男",
-    "外貌": "四十余岁、面罩淡淡黑气"
+    "外貌": "四十余岁、面罩淡淡黑气",
+    "称号": "葛长老"
   },
   "observations": {
     "小阶段": [
@@ -28,7 +29,7 @@
       {
         "value": "元婴期",
         "docId": "plot.fanren-1003-qunmo-yinxian",
-        "seq": 1003
+        "seq": 943
       }
     ],
     "身份": [
@@ -97,6 +98,13 @@
         "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
       }
+    ],
+    "称号": [
+      {
+        "value": "葛长老",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
+      }
     ]
   },
   "firstSeq": 937,
@@ -105,7 +113,7 @@
       "asOf": null,
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
-      "seq": 1003
+      "seq": 943
     },
     "身份": {
       "asOf": null,
@@ -142,6 +150,12 @@
       "docId": "plot.fanren-937-942-tianjige-jiezi-space",
       "dated": false,
       "seq": 937
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943
     }
   },
   "contested": false,
@@ -154,7 +168,8 @@
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-937-942-tianjige-jiezi-space"
+    "plot.fanren-937-942-tianjige-jiezi-space",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-17T17:07:59.056Z"
+  "updatedAt": "2026-06-18T01:51:51.566Z"
 }

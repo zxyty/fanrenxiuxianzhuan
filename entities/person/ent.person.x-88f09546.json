@@ -8,7 +8,8 @@
   ],
   "summary": "受叶家雇请的修士，以黑气笼罩真容，与韩立竞拍墨金未果，转而拍下离火沙交予叶家。",
   "attributes": {
-    "外貌": "黑气笼罩、隐约老者"
+    "外貌": "黑气笼罩、隐约老者、通体淡黑雾气笼罩",
+    "阵营": "叶家"
   },
   "observations": {
     "外貌": [
@@ -17,6 +18,20 @@
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943,
         "note": "遮掩真容"
+      },
+      {
+        "value": "通体淡黑雾气笼罩",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943,
+        "note": "遮掩真容"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943,
+        "note": "受雇代拍"
       }
     ]
   },
@@ -28,12 +43,20 @@
       "dated": false,
       "seq": 943,
       "note": "遮掩真容"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "dated": false,
+      "seq": 943,
+      "note": "受雇代拍"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.915Z"
+  "updatedAt": "2026-06-18T01:51:51.566Z"
 }

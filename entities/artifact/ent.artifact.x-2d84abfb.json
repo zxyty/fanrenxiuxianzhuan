@@ -8,8 +8,8 @@
   "summary": "肖老儿所持古宝，坚固异常、防御惊人，被韩立毁去仅余黄木残片。",
   "attributes": {
     "持有者": "肖老儿",
-    "能力": "防御惊人",
-    "外形": "黄木盾"
+    "能力": "防御惊人、防御",
+    "外形": "黄木盾、黄色木盾"
   },
   "observations": {
     "持有者": [
@@ -24,12 +24,22 @@
         "value": "防御惊人",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "防御",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+        "seq": 943
       }
     ],
     "外形": [
       {
         "value": "黄木盾",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+        "seq": 943
+      },
+      {
+        "value": "黄色木盾",
+        "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
   ],
-  "updatedAt": "2026-06-16T02:11:44.881Z"
+  "updatedAt": "2026-06-18T01:51:51.546Z"
 }
