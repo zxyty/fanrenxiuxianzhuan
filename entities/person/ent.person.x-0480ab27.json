@@ -16,8 +16,8 @@
   "attributes": {
     "种族": "蛟龙/海族、金蛟、蛟龙一族、蛟龙、蛟、海族",
     "外貌": "蛟首人身、金盔金甲、持游走银弧金枪、锦袍、虬发碧须、半人半蛟（金甲金鳞刚尾，战斗形态）、蛟首人身、金盔金甲、持银弧金长枪",
-    "身份": "妖王/蛟龙族",
-    "标志特征": "金鳞金甲、对危险的冥冥感应",
+    "身份": "妖修王者、蛟龙一族王者、妖王/蛟龙族、海族妖王",
+    "标志特征": "金鳞金甲、对危险的冥冥感应、幻化金枪、银色雷电、金鳞金爪、化龙神通",
     "称号": "本王",
     "阵营": "外海妖修",
     "小阶段": "十级大成"
@@ -42,7 +42,7 @@
       {
         "value": "蛟龙",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
-        "seq": 1153
+        "seq": 1147
       },
       {
         "value": "蛟",
@@ -92,6 +92,11 @@
         "value": "妖王/蛟龙族",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "海族妖王",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "标志特征": [
@@ -103,6 +108,26 @@
       {
         "value": "对危险的冥冥感应",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "幻化金枪",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      },
+      {
+        "value": "银色雷电",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      },
+      {
+        "value": "金鳞金爪",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      },
+      {
+        "value": "化龙神通",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
       }
     ],
@@ -154,9 +179,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
       "dated": false,
-      "seq": 1243
+      "seq": 1147
     },
     "标志特征": {
       "asOf": null,
@@ -191,7 +216,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T11:55:02.678Z"
+  "updatedAt": "2026-06-18T12:01:49.582Z"
 }

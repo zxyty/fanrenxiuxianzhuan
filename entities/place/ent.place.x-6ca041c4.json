@@ -9,10 +9,10 @@
   ],
   "summary": "银鲨岛最北部新发现高阶灵石矿脉的大岛，多产木系灵石，被海中妖兽、天星宫、逆星盟共同瓜分，渐成外海修士聚集地。",
   "attributes": {
-    "类型": "海岛",
-    "特产": "木系灵石（高阶灵石矿脉）、高阶灵石矿脉、木属性灵石、顶阶/极品灵石、木系灵石、传闻高阶灵石矿脉",
+    "类型": "海岛灵矿",
+    "特产": "木系灵石（高阶灵石矿脉）、高阶灵石矿脉、木属性灵石、顶阶/极品灵石、木系灵石、传闻高阶灵石矿脉、木属性灵石（含极品灵石）",
     "所属界面": "乱星海外海",
-    "所属势力": "逆星盟",
+    "所属势力": "海族",
     "守护": "极阴祖师",
     "危险度": "极高"
   },
@@ -27,6 +27,11 @@
         "value": "海岛",
         "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
         "seq": 1135
+      },
+      {
+        "value": "海岛灵矿",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "特产": [
@@ -59,6 +64,11 @@
         "value": "传闻高阶灵石矿脉",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "木属性灵石（含极品灵石）",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "所属界面": [
@@ -83,6 +93,12 @@
         "value": "逆星盟",
         "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
         "seq": 1135
+      },
+      {
+        "value": "海族",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147,
+        "note": "此战后夺占"
       }
     ],
     "守护": [
@@ -104,9 +120,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
-      "seq": 1135
+      "seq": 1147
     },
     "特产": {
       "asOf": null,
@@ -122,9 +138,10 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
-      "seq": 1135
+      "seq": 1147,
+      "note": "此战后夺占"
     },
     "守护": {
       "asOf": null,
@@ -147,7 +164,8 @@
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T11:55:02.625Z"
+  "updatedAt": "2026-06-18T12:01:49.589Z"
 }

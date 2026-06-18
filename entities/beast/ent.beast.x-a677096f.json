@@ -2,11 +2,14 @@
   "id": "ent.beast.x-a677096f",
   "type": "beast",
   "name": "四臂妖兽",
-  "aliases": [],
+  "aliases": [
+    "四臂海马妖兽"
+  ],
   "summary": "海马状、生四臂的六级妖兽，四臂可化利刃，捧淡青色储物袋(内含极品灵石)，被韩立抓断身躯。",
   "attributes": {
     "等级": "六级",
-    "外形": "海马状四臂"
+    "外形": "海马状四臂、四臂似海马，四臂可化利刃",
+    "栖息地": "乱星海碧灵岛"
   },
   "observations": {
     "等级": [
@@ -20,6 +23,18 @@
       {
         "value": "海马状四臂",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "四臂似海马，四臂可化利刃",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "乱星海碧灵岛",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
       "dated": false,
       "seq": 1147
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+      "dated": false,
+      "seq": 1147
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1149-jinjiao-xiongyan"
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-15T11:10:07.887Z"
+  "updatedAt": "2026-06-18T12:01:49.587Z"
 }

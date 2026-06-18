@@ -10,18 +10,20 @@
     "龟妖兄",
     "黑袍青面妖修",
     "玄龟妖修",
-    "龟兄"
+    "龟兄",
+    "乌妖"
   ],
   "summary": "八级化形初阶海族妖修，玄龟之身，性多疑谨慎。",
   "attributes": {
-    "种族": "玄龟、龟妖、龟、海族龟妖、妖族、海族",
-    "小阶段": "化形期",
+    "种族": "玄龟、龟妖、龟、海族龟妖、妖族、海族、龟妖（海族）",
+    "小阶段": "八级（化形）",
     "外貌": "黑袍青面、身材高大",
     "身份": "八级妖兽",
-    "存殁": "存活",
+    "存殁": "死亡",
     "性格": "多心谨慎",
     "标志特征": "周身土黄淡光",
-    "阵营": "海族"
+    "阵营": "海族",
+    "死因": "韩立青竹蜂云剑剑网斩杀"
   },
   "observations": {
     "种族": [
@@ -54,6 +56,11 @@
         "value": "海族",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "龟妖（海族）",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "小阶段": [
@@ -66,6 +73,11 @@
         "value": "化形期",
         "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
         "seq": 547
+      },
+      {
+        "value": "八级（化形）",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "外貌": [
@@ -97,6 +109,11 @@
         "value": "存活",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "性格": [
@@ -124,6 +141,13 @@
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
       }
+    ],
+    "死因": [
+      {
+        "value": "韩立青竹蜂云剑剑网斩杀",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      }
     ]
   },
   "firstSeq": 541,
@@ -136,9 +160,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
-      "seq": 547
+      "seq": 1147
     },
     "外貌": {
       "asOf": null,
@@ -154,9 +178,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
-      "seq": 547
+      "seq": 1147
     },
     "性格": {
       "asOf": null,
@@ -175,6 +199,12 @@
       "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
       "seq": 1141
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+      "dated": false,
+      "seq": 1147
     }
   },
   "contested": false,
@@ -186,7 +216,8 @@
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-541-546-bifenjiu-fenglei-chi",
     "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T11:55:02.681Z"
+  "updatedAt": "2026-06-18T12:01:49.585Z"
 }

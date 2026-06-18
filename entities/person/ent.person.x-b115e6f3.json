@@ -31,7 +31,8 @@
     "寿元": "只剩数年、不久于人世",
     "存殁": "存、存活、死亡、已死（被韩立借名）",
     "外貌": "披头散发、又脏又破，状若伙夫",
-    "死因": "服用抽髓丸求武功大成、损寿早逝、第655章亡、第655章死亡（本章为被冒名）、服用抽髓丸求武功大成，未得寿终"
+    "死因": "服用抽髓丸求武功大成、损寿早逝、第655章亡、第655章死亡（本章为被冒名）、服用抽髓丸求武功大成，未得寿终",
+    "种族": "人类"
   },
   "observations": {
     "称号": [
@@ -282,6 +283,13 @@
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
       }
+    ],
+    "种族": [
+      {
+        "value": "人类",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      }
     ]
   },
   "firstSeq": 13,
@@ -347,6 +355,12 @@
       "docId": "plot.fanren-ch654-xuanmu-huaying-dafa",
       "dated": false,
       "seq": 655
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+      "dated": false,
+      "seq": 1147
     }
   },
   "contested": false,
@@ -388,7 +402,8 @@
     "plot.fanren-661-666-noxious-gold-sword-trail-exposed",
     "plot.fanren-937-942-tianjige-jiezi-space",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-967-kuzhu-laoren"
+    "plot.fanren-967-kuzhu-laoren",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T02:40:25.595Z"
+  "updatedAt": "2026-06-18T12:01:49.602Z"
 }

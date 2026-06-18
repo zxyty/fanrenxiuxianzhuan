@@ -10,9 +10,10 @@
     "性别": "男",
     "小阶段": "化神期",
     "称号": "天星双圣",
-    "外貌": "四十许岁白袍，双眉黑浓如剑，煞气透体",
+    "外貌": "四十许岁白袍，双眉黑浓如剑，煞气透体、白袍儒生、双眉黑浓如剑、煞气透体",
     "阵营": "星宫",
-    "性格": "胸有成竹、心机深沉"
+    "性格": "胸有成竹、心机深沉",
+    "身份": "星宫圣尊/掌门"
   },
   "observations": {
     "性别": [
@@ -46,6 +47,11 @@
         "value": "四十许岁白袍，双眉黑浓如剑，煞气透体",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
         "seq": 1147
+      },
+      {
+        "value": "白袍儒生、双眉黑浓如剑、煞气透体",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "阵营": [
@@ -60,6 +66,13 @@
         "value": "胸有成竹、心机深沉",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      }
+    ],
+    "身份": [
+      {
+        "value": "星宫圣尊/掌门",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ]
   },
@@ -100,13 +113,20 @@
       "docId": "plot.fanren-1155-yaoshou-zhi-luan",
       "dated": false,
       "seq": 1153
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+      "dated": false,
+      "seq": 1147
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-15T11:28:20.994Z"
+  "updatedAt": "2026-06-18T12:01:49.612Z"
 }

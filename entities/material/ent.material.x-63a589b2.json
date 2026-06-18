@@ -5,14 +5,15 @@
   "aliases": [
     "顶阶灵石",
     "顶阶极品灵石",
-    "木属性极品灵石"
+    "木属性极品灵石",
+    "spirit stone"
   ],
   "summary": "人界至宝，布上古奇阵的必须物，亦助结丹至化神突破瓶颈；本岛矿脉新采出一块，引发海族万里奔袭。",
   "attributes": {
     "类型": "灵石",
-    "用途": "布人界上古奇阵、助突破瓶颈、吸纳精纯灵气、突破瓶颈时苦修、布下上古奇阵、突破瓶颈时提供助力",
-    "稀有度": "极品(顶阶)",
-    "产地": "乱星海岛屿灵矿、碧灵岛、石峰岛矿脉"
+    "用途": "布人界上古奇阵、助突破瓶颈、吸纳精纯灵气、突破瓶颈时苦修、布下上古奇阵、突破瓶颈时提供助力、修炼灵气来源、供给精纯灵气、突破瓶颈",
+    "稀有度": "人界可望不可及、极品(顶阶)、极品",
+    "产地": "乱星海岛屿灵矿、碧灵岛、石峰岛矿脉、碧灵岛矿脉"
   },
   "observations": {
     "类型": [
@@ -52,6 +53,16 @@
         "value": "突破瓶颈时提供助力",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "修炼灵气来源",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
+      },
+      {
+        "value": "供给精纯灵气、突破瓶颈",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "稀有度": [
@@ -63,6 +74,11 @@
       {
         "value": "极品(顶阶)",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+        "seq": 1147
+      },
+      {
+        "value": "极品",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
       }
     ],
@@ -81,6 +97,11 @@
         "value": "石峰岛矿脉",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "碧灵岛矿脉",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ]
   },
@@ -100,9 +121,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
       "dated": false,
-      "seq": 1147
+      "seq": 1141
     },
     "产地": {
       "asOf": null,
@@ -116,7 +137,8 @@
   "docs": [
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T11:55:02.685Z"
+  "updatedAt": "2026-06-18T12:01:49.628Z"
 }

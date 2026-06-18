@@ -15,10 +15,10 @@
     "性别": "女",
     "小阶段": "化神期",
     "称号": "天星双圣之一、双圣、天星双圣",
-    "身份": "星宫之主",
+    "身份": "星宫圣尊/掌门",
     "标志特征": "蒙面",
     "寿元": "尚余百余年",
-    "外貌": "面色略苍白的美丽女子、翠绿宫装，年约二十五六，雍容华贵、宫装女子、略显苍白的美丽脸孔",
+    "外貌": "面色略苍白的美丽女子、翠绿宫装，年约二十五六，雍容华贵、宫装女子、略显苍白的美丽脸孔、翠绿宫装、雍容华贵",
     "阵营": "星宫"
   },
   "observations": {
@@ -63,6 +63,11 @@
         "value": "星宫之主",
         "docId": "plot.fanren-1131-jidan",
         "seq": 1129
+      },
+      {
+        "value": "星宫圣尊/掌门",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "标志特征": [
@@ -99,6 +104,11 @@
         "value": "略显苍白的美丽脸孔",
         "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
+      },
+      {
+        "value": "翠绿宫装、雍容华贵",
+        "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+        "seq": 1147
       }
     ],
     "阵营": [
@@ -131,9 +141,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1131-jidan",
+      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
-      "seq": 1129
+      "seq": 1147
     },
     "标志特征": {
       "asOf": null,
@@ -166,7 +176,8 @@
     "plot.fanren-1131-jidan",
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-1155-yaoshou-zhi-luan",
-    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+    "plot.fanren-1147-1152-jiaoyu-duobao"
   ],
-  "updatedAt": "2026-06-18T11:35:25.475Z"
+  "updatedAt": "2026-06-18T12:01:49.611Z"
 }
