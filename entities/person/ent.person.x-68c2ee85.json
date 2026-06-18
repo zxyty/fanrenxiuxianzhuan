@@ -15,20 +15,21 @@
     "隐身修士",
     "乾老魔五魔子",
     "巨大白影",
-    "乾大长老"
+    "乾大长老",
+    "使魔功的元婴后期修士"
   ],
   "summary": "持日月梭、灵犀孔雀开路先入裂缝的老魔修士。",
   "attributes": {
     "阵营": "魔道、阴罗宗、敌对韩立、魔道·阴罗宗、魔/邪、夺宝一方",
     "身份": "阴罗宗大修士",
     "存殁": "死亡",
-    "小阶段": "元婴后期、元婴期、元婴",
+    "小阶段": "元婴后期、元婴期、元婴、元婴近后期顶峰",
     "死因": "丧命于韩立（昆吾山事件）",
     "称号": "大长老",
     "性格": "率性狂悖、煞气深重、凶戾果决、火爆狡诈、阴沉狠辣、狂傲、暴烈",
     "外貌": "灰袍灰发老者，面覆淡灰气",
     "性别": "男",
-    "标志特征": "五子同心魔化身、五子魔所化、可化血影、血影魔功、自爆重组遁术、五子魔化身、口吐灰气、巨大白影、幻化白色巨蟒、化血影、自我修补"
+    "标志特征": "五子同心魔化身、五子魔所化、可化血影、血影魔功、自爆重组遁术、五子魔化身、口吐灰气、巨大白影、幻化白色巨蟒、化血影、自我修补、魔功、血影自爆遁术"
   },
   "observations": {
     "阵营": [
@@ -118,6 +119,11 @@
       {
         "value": "元婴",
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+        "seq": 1021
+      },
+      {
+        "value": "元婴近后期顶峰",
+        "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
         "seq": 1021
       }
     ],
@@ -226,6 +232,16 @@
         "value": "化血影、自我修补",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "魔功",
+        "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
+        "seq": 1021
+      },
+      {
+        "value": "血影自爆遁术",
+        "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
+        "seq": 1021
       }
     ]
   },
@@ -314,7 +330,8 @@
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1012-qingtong-shi",
     "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
-    "plot.fanren-1014-huaxian-ernv"
+    "plot.fanren-1014-huaxian-ernv",
+    "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo"
   ],
-  "updatedAt": "2026-06-18T05:35:52.313Z"
+  "updatedAt": "2026-06-18T05:43:59.005Z"
 }

@@ -498,3 +498,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T04:51:29.399Z** `ingest` plot.fanren-1013-wanjin-yashen-kunwu-shanmen — 第1013章 万斤压身：韩立闯昆吾殿山门遇重压禁制 · kind=plot asOf=2026-06-18 entities=23 relations=18 src=01009-01014.p5.md
 - **2026-06-18T04:54:08.699Z** `ingest` plot.fanren-1014-huaxian-ernv — 凡人修仙传 第1014章 化仙二女——昆吾殿前临时结盟破禁，化仙宗师姐妹谋夺化龙玺 · kind=plot asOf=2026-06-18 entities=30 relations=25 src=01009-01014.p6.md
 - **2026-06-18T05:35:52.438Z** `update` plot.fanren-1015-jinci-lingmu — 第1015章 金磁灵木——韩立硬闯昆吾殿，三妖坐收渔利 · kind=plot asOf=2026-06-18 entities=56 relations=69 src=01015-01020.md
+- **2026-06-18T05:43:59.135Z** `ingest` plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo — 凡人修仙传 第1021-1026章｜阳环之威·降伏圭灵·劫杀乾老魔 · kind=plot asOf=2026-06-18 entities=34 relations=41 src=01021-01026.md
