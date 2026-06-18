@@ -4,20 +4,28 @@
   "name": "古魔分魂",
   "aliases": [
     "古魂",
-    "古魔分心"
+    "古魔分心",
+    "古魔分魂青年"
   ],
   "summary": "魔界古魔的分魂，主魂当年于坠魔谷被韩立灭杀，夺走韩立两口金雷竹飞剑，会施展铁翅魔秘术化影遁。",
   "attributes": {
-    "种族": "魔/古魔",
-    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年",
-    "标志特征": "黑紫魔气、长紫舌",
-    "性格": "凶辣狠绝"
+    "种族": "魔/古魔、古魔",
+    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物",
+    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤",
+    "性格": "凶辣狠绝",
+    "阵营": "魔界古魔",
+    "小阶段": "元婴初期"
   },
   "observations": {
     "种族": [
       {
         "value": "魔/古魔",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
       }
     ],
@@ -27,6 +35,22 @@
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955,
         "note": "魔化后乌紫巨臂、紫长舌，终化双头四臂巨大魔物"
+      },
+      {
+        "value": "与韩立近似的青袍青年",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955,
+        "note": "分魂化形"
+      },
+      {
+        "value": "半魔半人、乌紫巨臂、数尺紫舌",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      },
+      {
+        "value": "双头四臂巨大魔物",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "标志特征": [
@@ -34,12 +58,36 @@
         "value": "黑紫魔气、长紫舌",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
+      },
+      {
+        "value": "瞳孔黑紫两色异芒",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      },
+      {
+        "value": "瞬移极快、吞噬元婴愈伤",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "性格": [
       {
         "value": "凶辣狠绝",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界古魔",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
       }
     ]
@@ -70,12 +118,25 @@
       "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
       "seq": 955
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T02:36:43.735Z"
+  "updatedAt": "2026-06-18T02:11:21.117Z"
 }

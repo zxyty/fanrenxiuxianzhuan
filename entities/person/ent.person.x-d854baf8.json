@@ -4,14 +4,15 @@
   "name": "恶火头陀",
   "aliases": [
     "披发头陀",
-    "满脸横肉头陀"
+    "满脸横肉头陀",
+    "披头散发头陀"
   ],
   "summary": "元婴中期修士，持血焰钵与碧绿蟠龙杖（禅杖），追韩立谋宝，被古魔分魂一招撕裂肉身、元婴遭吞噬。",
   "attributes": {
     "小阶段": "元婴中期",
     "外貌": "披头散发、满脸横肉",
     "存殁": "死亡",
-    "死因": "被古魔分魂撕裂肉身并吞噬元婴"
+    "死因": "被古魔分魂撕裂肉身并吞噬元婴、被古魔魔爪撕裂身躯、紫舌夺取元婴吞食"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +40,11 @@
       {
         "value": "被古魔分魂撕裂肉身并吞噬元婴",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "被古魔魔爪撕裂身躯、紫舌夺取元婴吞食",
+        "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
       }
     ]
@@ -73,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T02:36:43.739Z"
+  "updatedAt": "2026-06-18T02:11:21.118Z"
 }

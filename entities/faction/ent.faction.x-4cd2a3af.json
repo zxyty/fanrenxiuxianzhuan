@@ -14,13 +14,15 @@
     "修仙界第一世家",
     "叶家本族",
     "叶家核心长老",
-    "叶家长老会"
+    "叶家长老会",
+    "叶家世家",
+    "天下第一世家"
   ],
   "summary": "声名赫赫的修仙家族，金光上人自称其弟子以作依仗。",
   "attributes": {
     "阵营": "修仙家族、人界修士、大晋皇族、真灵世家·天凤血脉、人族真灵世家、大晋皇朝皇族",
     "据点": "秦叶岭、晋京皇城府邸、皇清观、晋京皇宫、南疆无名小湖湖底、镇魔塔(闯探中)、操控极品灵石矿、天渊城、大晋皇城",
-    "镇派之宝": "八灵尺、黑血刃、平山印、黑血刀、数种破禁秘宝、天凤灵血",
+    "镇派之宝": "八灵尺、黑血刃、平山印、黑血刀、数种破禁秘宝、天凤灵血、平山印（仿制品）",
     "等级": "真灵世家",
     "理念": "隐秘成事、只信本族核心长老、破财免灾/让各宗大出血、取宝脱离正魔两道控制、夺取昆吾通天灵宝壮大实力、图谋通天灵宝、夺通天灵宝以自强、摆脱诸势力夹持、囤材炼器、备取宝之行",
     "所属界面": "灵界（蛮荒界）"
@@ -135,6 +137,11 @@
         "value": "天凤灵血",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "平山印（仿制品）",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "等级": [
@@ -157,6 +164,11 @@
         "value": "真灵世家",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
         "seq": 1381
+      },
+      {
+        "value": "天下第一世家",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "理念": [
@@ -273,7 +285,8 @@
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-18T01:59:22.623Z"
+  "updatedAt": "2026-06-18T02:11:21.108Z"
 }

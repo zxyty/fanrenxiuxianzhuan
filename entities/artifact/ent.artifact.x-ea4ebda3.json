@@ -2,12 +2,14 @@
   "id": "ent.artifact.x-ea4ebda3",
   "type": "artifact",
   "name": "平山印",
-  "aliases": [],
+  "aliases": [
+    "平山印仿制品"
+  ],
   "summary": "土黄色四方小印，表面隐现金银色符文，通天灵宝仿制品，太一门所有；曾在地下拍卖会拍出天价。",
   "attributes": {
     "品阶": "通天灵宝仿制品",
     "外形": "土黄色四方小印，隐现金银色符文、土黄色小印,表面浮现变化的金银色微型法阵、数寸土黄色温润小印，闪现金银色微型法阵",
-    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成、叶家耗百年炼制，仿造掌天印",
+    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成、叶家耗百年炼制，仿造掌天印、叶家炼制/受大势力重压拿出拍卖",
     "能力": "开山裂地、平山开地、灵气庞大、超常发挥可达掌天印十之三威能（损宝）",
     "持有者": "叶家"
   },
@@ -71,6 +73,11 @@
         "value": "叶家耗百年炼制，仿造掌天印",
         "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
+      },
+      {
+        "value": "叶家炼制/受大势力重压拿出拍卖",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "能力": [
@@ -146,7 +153,8 @@
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-18T01:59:22.627Z"
+  "updatedAt": "2026-06-18T02:11:21.100Z"
 }

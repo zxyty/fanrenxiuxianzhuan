@@ -9,7 +9,8 @@
   "summary": "天符门掌门，筑基期，惶恐迎接来访的韩立。",
   "attributes": {
     "小阶段": "筑基期",
-    "身份": "天符门掌门、天符门弟子"
+    "身份": "天符门掌门、天符门弟子",
+    "外貌": "黄色锦袍老者"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +31,13 @@
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
       }
+    ],
+    "外貌": [
+      {
+        "value": "黄色锦袍老者",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      }
     ]
   },
   "firstSeq": 955,
@@ -45,12 +53,19 @@
       "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
       "seq": 955
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T02:36:43.767Z"
+  "updatedAt": "2026-06-18T02:11:21.120Z"
 }

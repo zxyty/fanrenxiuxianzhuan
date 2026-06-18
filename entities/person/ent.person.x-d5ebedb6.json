@@ -5,15 +5,21 @@
   "aliases": [],
   "summary": "数万年前以自创三大密符威震大晋、创立天符门的祖师。",
   "attributes": {
-    "身份": "天符门创派祖师",
+    "身份": "天符门创派祖师、天符门创立者",
     "小阶段": "元婴后期",
-    "存殁": "已死（祖师，年代久远）"
+    "存殁": "已死（祖师，年代久远）",
+    "称号": "天符真人"
   },
   "observations": {
     "身份": [
       {
         "value": "天符门创派祖师",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      },
+      {
+        "value": "天符门创立者",
+        "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
       }
     ],
@@ -29,6 +35,13 @@
         "value": "已死（祖师，年代久远）",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
         "seq": 961
+      }
+    ],
+    "称号": [
+      {
+        "value": "天符真人",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ]
   },
@@ -51,13 +64,20 @@
       "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
       "dated": false,
       "seq": 961
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T02:49:21.242Z"
+  "updatedAt": "2026-06-18T02:11:21.122Z"
 }

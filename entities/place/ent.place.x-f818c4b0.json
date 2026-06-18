@@ -4,17 +4,31 @@
   "name": "南疆郡潮云府",
   "aliases": [
     "潮云府",
-    "双蝎山"
+    "双蝎山",
+    "南疆郡"
   ],
   "summary": "富姓老者约韩立四年后相见之地（双蝎山为约见其他道友处）。",
   "attributes": {
-    "所属界面": "大晋皇朝"
+    "所属界面": "大晋皇朝",
+    "类型": "府郡、山岳/会面点"
   },
   "observations": {
     "所属界面": [
       {
         "value": "大晋皇朝",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+        "seq": 955
+      }
+    ],
+    "类型": [
+      {
+        "value": "府郡",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      },
+      {
+        "value": "山岳/会面点",
+        "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
       }
     ]
@@ -26,12 +40,19 @@
       "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
       "seq": 955
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T02:36:43.761Z"
+  "updatedAt": "2026-06-18T02:11:21.111Z"
 }

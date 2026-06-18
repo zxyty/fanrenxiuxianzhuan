@@ -9,7 +9,7 @@
   "summary": "血刃所仿制的原版凶器，提及威名令在场妖修动容。",
   "attributes": {
     "品阶": "顶级魔道宝物",
-    "能力": "吸食修士血肉元神炼化增威",
+    "能力": "曾斩杀化神期修士、吸食修士血肉元神炼化增威、曾斩化神期修士",
     "来历": "魔髓钻炼制"
   },
   "observations": {
@@ -35,6 +35,11 @@
         "value": "吸食修士血肉元神炼化增威",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "曾斩化神期修士",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
       }
     ],
     "来历": [
@@ -65,9 +70,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
-      "seq": 1027
+      "seq": 955
     },
     "来历": {
       "asOf": null,
@@ -84,7 +89,8 @@
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
     "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-955-zaiyu-gumo"
   ],
-  "updatedAt": "2026-06-16T04:59:44.963Z"
+  "updatedAt": "2026-06-18T02:11:21.102Z"
 }

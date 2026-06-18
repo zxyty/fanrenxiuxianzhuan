@@ -1,0 +1,58 @@
+{
+  "id": "ent.place.x-7a6e2e4d",
+  "type": "place",
+  "name": "三元坊市",
+  "aliases": [],
+  "summary": "由天符门、金霞山、明阳谷共同打理的坊市，占天符门近半收入，遭灵风门逼迫面临合并/关闭。",
+  "attributes": {
+    "类型": "坊市",
+    "所属势力": "天符门、金霞山、明阳谷"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "坊市",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天符门",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      },
+      {
+        "value": "金霞山",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      },
+      {
+        "value": "明阳谷",
+        "docId": "plot.fanren-955-zaiyu-gumo",
+        "seq": 955
+      }
+    ]
+  },
+  "firstSeq": 955,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-955-zaiyu-gumo",
+      "dated": false,
+      "seq": 955
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-955-zaiyu-gumo"
+  ],
+  "updatedAt": "2026-06-18T02:11:21.134Z"
+}
