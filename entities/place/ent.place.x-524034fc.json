@@ -6,8 +6,9 @@
   "summary": "大晋极北大郡，冰天雪地、盛产寒属性灵药，多阴寒功法散修聚集。",
   "attributes": {
     "类型": "郡",
-    "特产": "寒属性灵药与材料",
-    "所属界面": "大晋北部"
+    "特产": "寒属性灵药与材料、寒属性灵药材料",
+    "所属界面": "大晋北部",
+    "所属势力": "大晋皇朝"
   },
   "observations": {
     "类型": [
@@ -27,6 +28,11 @@
         "value": "寒属性灵药与材料",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069
+      },
+      {
+        "value": "寒属性灵药材料",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ],
     "所属界面": [
@@ -34,6 +40,13 @@
         "value": "大晋北部",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ]
   },
@@ -56,13 +69,20 @@
       "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
       "seq": 1075
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:59:02.617Z"
+  "updatedAt": "2026-06-18T09:28:54.681Z"
 }

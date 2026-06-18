@@ -9,7 +9,8 @@
   "summary": "霜郡雪连峰的修仙小家族，家主李忠添。",
   "attributes": {
     "掌门": "李忠添",
-    "据点": "雪连峰"
+    "据点": "雪连峰",
+    "等级": "以炼气期为主，能御器者二十余人"
   },
   "observations": {
     "掌门": [
@@ -25,6 +26,13 @@
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069,
         "note": "本章被迫放弃"
+      }
+    ],
+    "等级": [
+      {
+        "value": "以炼气期为主，能御器者二十余人",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ]
   },
@@ -42,12 +50,19 @@
       "dated": false,
       "seq": 1069,
       "note": "本章被迫放弃"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1069-soul-devour-longmeng-awaken"
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:50:19.664Z"
+  "updatedAt": "2026-06-18T09:28:54.699Z"
 }

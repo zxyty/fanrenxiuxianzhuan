@@ -4,14 +4,32 @@
   "name": "中娄府",
   "aliases": [],
   "summary": "南疆府地，与封印所在的普云府紧邻。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "所属界面": "人界"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
+      }
+    ]
+  },
   "firstSeq": 1069,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1069-soul-devour-longmeng-awaken"
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:50:19.648Z"
+  "updatedAt": "2026-06-18T09:28:54.680Z"
 }

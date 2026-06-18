@@ -9,7 +9,8 @@
   "summary": "韩立的飞刀法宝，此前被元刹圣祖分神收走，本章由珑梦掷还。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "遁速极快、体形狂涨"
+    "能力": "遁速极快、体形狂涨",
+    "外形": "黑芒飞刀"
   },
   "observations": {
     "持有者": [
@@ -30,6 +31,13 @@
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
       }
+    ],
+    "外形": [
+      {
+        "value": "黑芒飞刀",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
+      }
     ]
   },
   "firstSeq": 1063,
@@ -45,6 +53,12 @@
       "docId": "plot.fanren-1063-xuanwo-heifengqi",
       "dated": false,
       "seq": 1063
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
@@ -52,7 +66,8 @@
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1063-xuanwo"
+    "plot.fanren-1063-xuanwo",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-18T09:20:50.946Z"
+  "updatedAt": "2026-06-18T09:28:54.656Z"
 }

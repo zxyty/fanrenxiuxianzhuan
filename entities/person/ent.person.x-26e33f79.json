@@ -6,7 +6,8 @@
   "summary": "炼虚期修士，称霸雪连峰一带数百年，连他都不敢招惹韩立。",
   "attributes": {
     "小阶段": "炼虚期",
-    "身份": "本地称霸势力"
+    "身份": "本地称霸势力",
+    "称号": "隆前辈"
   },
   "observations": {
     "小阶段": [
@@ -20,6 +21,13 @@
       {
         "value": "本地称霸势力",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      }
+    ],
+    "称号": [
+      {
+        "value": "隆前辈",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
         "seq": 1069
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
       "seq": 1069
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1069-soul-devour-longmeng-awaken"
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:50:19.678Z"
+  "updatedAt": "2026-06-18T09:28:54.701Z"
 }

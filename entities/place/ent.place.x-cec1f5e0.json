@@ -3,13 +3,15 @@
   "type": "place",
   "name": "雪连峰",
   "aliases": [
-    "雪连山"
+    "雪连山",
+    "雪连峰灵地"
   ],
   "summary": "霜郡内山峰，李家所在。",
   "attributes": {
-    "类型": "山脉/闭关灵地",
-    "守护": "幻阵白雾禁制、六翼霜蚣",
-    "所属界面": "大晋·霜郡"
+    "类型": "灵山/灵地、山脉/闭关灵地、灵山",
+    "守护": "幻阵白雾禁制、六翼霜蚣、白雾幻阵",
+    "所属界面": "大晋·霜郡",
+    "危险度": "被元婴修士占据后的禁区"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "山脉/闭关灵地",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
+      },
+      {
+        "value": "灵山",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ],
     "守护": [
@@ -34,6 +41,11 @@
         "value": "六翼霜蚣",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069
+      },
+      {
+        "value": "白雾幻阵",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ],
     "所属界面": [
@@ -42,15 +54,22 @@
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
       }
+    ],
+    "危险度": [
+      {
+        "value": "被元婴修士占据后的禁区",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
+      }
     ]
   },
   "firstSeq": 1069,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
-      "seq": 1075
+      "seq": 1069
     },
     "守护": {
       "asOf": null,
@@ -63,13 +82,20 @@
       "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
       "seq": 1075
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:59:02.615Z"
+  "updatedAt": "2026-06-18T09:28:54.699Z"
 }

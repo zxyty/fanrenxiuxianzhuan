@@ -12,12 +12,12 @@
   ],
   "summary": "驾驭虚天鼎之功法，韩立只修过第一层，故虚天鼎威能受限。",
   "attributes": {
-    "出处": "虚天鼎、虚天鼎经文、虚天鼎鼎上经文、虚天鼎相关",
-    "效果": "操控虚天鼎、驱使/控制虚天鼎、开启与驾驭虚天鼎、封印培炼通天灵宝以达人器合一、驱动虚天鼎吞纳/克制同源圣鼎与圣兽、驱使并封印培炼通天灵宝，达人器合一、喷蓝色冰焰、蓝霞护体、吞噬反控圣鼎、驱使虚天鼎",
+    "出处": "虚天鼎、虚天鼎经文、虚天鼎鼎上经文、虚天鼎相关、八灵尺",
+    "效果": "操控虚天鼎、驱使/控制虚天鼎、开启与驾驭虚天鼎、封印培炼通天灵宝以达人器合一、驱动虚天鼎吞纳/克制同源圣鼎与圣兽、驱使并封印培炼通天灵宝，达人器合一、喷蓝色冰焰、蓝霞护体、吞噬反控圣鼎、驱使虚天鼎、催动八灵尺威力",
     "品阶": "上古功法",
     "适用境界": "元婴中期(第一层)、元婴后期(第二层)、化神期(第三层)、第一层:元婴中期、第二层:元婴后期、第三层:化神期、开鼎需元婴后期",
     "外显异象": "鼎表浮蓝色冰焰、四周蓝色波纹/蓝纹",
-    "修炼条件": "先炼化通天灵宝附带之乾蓝冰焰"
+    "修炼条件": "需佛光"
   },
   "observations": {
     "出处": [
@@ -40,6 +40,11 @@
         "value": "虚天鼎相关",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "八灵尺",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ],
     "效果": [
@@ -92,6 +97,11 @@
         "value": "驱使虚天鼎",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "催动八灵尺威力",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ],
     "品阶": [
@@ -150,6 +160,11 @@
         "value": "先炼化通天灵宝附带之乾蓝冰焰",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "需佛光",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
       }
     ]
   },
@@ -187,9 +202,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
       "dated": false,
-      "seq": 865
+      "seq": 1069
     }
   },
   "contested": false,
@@ -202,7 +217,8 @@
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-ch895-jinpa-yincan",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-18T05:52:33.580Z"
+  "updatedAt": "2026-06-18T09:28:54.692Z"
 }

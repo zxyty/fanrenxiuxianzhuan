@@ -10,7 +10,8 @@
     "持有者": "韩立",
     "五行属性": "火",
     "来历": "化灵殿",
-    "能力": "生上千至阳火鸦"
+    "能力": "生上千至阳火鸦、可生上千至阳火鸦",
+    "外形": "火焰巨鼎"
   },
   "observations": {
     "持有者": [
@@ -38,6 +39,18 @@
       {
         "value": "生上千至阳火鸦",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+        "seq": 1069
+      },
+      {
+        "value": "可生上千至阳火鸦",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
+      }
+    ],
+    "外形": [
+      {
+        "value": "火焰巨鼎",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
         "seq": 1069
       }
     ]
@@ -67,12 +80,19 @@
       "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
       "seq": 1069
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1069-soul-devour-longmeng-awaken"
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:50:19.691Z"
+  "updatedAt": "2026-06-18T09:28:54.694Z"
 }

@@ -4,14 +4,32 @@
   "name": "金图山",
   "aliases": [],
   "summary": "南疆中娄府境内山峰，韩立被传送至此现身。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "所属势力": "南疆"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+        "seq": 1069
+      }
+    ]
+  },
   "firstSeq": 1069,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
+      "dated": false,
+      "seq": 1069
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1069-soul-devour-longmeng-awaken"
+    "plot.fanren-1069-soul-devour-longmeng-awaken",
+    "plot.fanren-1069-1074-soul-devour-escape-frost"
   ],
-  "updatedAt": "2026-06-15T08:50:19.647Z"
+  "updatedAt": "2026-06-18T09:28:54.679Z"
 }
