@@ -7,7 +7,7 @@
   ],
   "summary": "设有地火殿等建筑的炼器机构。",
   "attributes": {
-    "类型": "炼器机构",
+    "类型": "炼器机构、炼器别院、炼器场所",
     "所属势力": "皇清观",
     "特产": "地火池、炼器阁"
   },
@@ -22,6 +22,11 @@
         "value": "炼器别院",
         "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
+      },
+      {
+        "value": "炼器场所",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "所属势力": [
@@ -43,9 +48,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-919-924-ganjia-bailu-academy",
       "dated": false,
-      "seq": 925
+      "seq": 919
     },
     "所属势力": {
       "asOf": null,
@@ -64,7 +69,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
-    "plot.fanren-919-924-ganjia-bailu-academy"
+    "plot.fanren-919-924-ganjia-bailu-academy",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-17T16:48:45.432Z"
+  "updatedAt": "2026-06-18T01:43:27.077Z"
 }

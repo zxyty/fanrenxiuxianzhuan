@@ -479,3 +479,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-17T17:00:21.940Z** `ingest` plot.fanren-ch931-936-jinjing-auction-road — 凡人修仙传 第931-936章：盗火翎避追、擒土甲龙、赴晋京途遇故人 · kind=plot asOf=2026-06-17 entities=38 relations=42 src=00931-00936.md
 - **2026-06-17T17:07:59.381Z** `ingest` plot.fanren-937-942-tianjige-jiezi-space — 凡人修仙传 第937-942章｜天机府·地下交易会·芥子空间 · kind=plot asOf=2026-06-17 entities=36 relations=47 src=00937-00942.md
 - **2026-06-18T01:25:37.590Z** `ingest` plot.fmxxz-ch889-tianshui-river-green-bat — 凡人修仙传 第789章 巨幅：韩立护车队、提取苦毒、识破天水河、绿蝙现身 · kind=plot asOf=2026-06-18 entities=51 relations=66 src=00889-00894.md
+- **2026-06-18T01:43:27.226Z** `ingest` plot.fanren-ch925-dajin-imperial-family-ye-clan — 凡人修仙传 第925章：大晋皇族叶家与通天灵宝之谋 · kind=plot asOf=2026-06-18 entities=56 relations=69 src=00925-00930.md

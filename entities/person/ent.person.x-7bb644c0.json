@@ -7,15 +7,17 @@
     "宫装少女",
     "翠绿宫装少女",
     "玉姨弟子",
-    "绿秀"
+    "绿秀",
+    "本郡主",
+    "郡主"
   ],
   "summary": "十六七岁宫装少女，炼气期十层，随玉夫人来皇清观，求韩立精炼血丝银。",
   "attributes": {
     "性别": "女",
     "小阶段": "炼气期十层",
-    "身份": "郡主、大晋四大散修之后、皇族郡主",
-    "外貌": "翠绿宫装、姿容秀丽、宫装少女、漆黑宝石般美目、十六七岁，翠绿宫装，姿容秀丽",
-    "性格": "言辞软糯、暗藏狡黠、古怪精灵、好奇、活泼狡黠",
+    "身份": "郡主、大晋四大散修之后、皇族郡主、受封郡主、散修之后、大晋皇族郡主",
+    "外貌": "翠绿宫装、姿容秀丽、宫装少女、漆黑宝石般美目、十六七岁，翠绿宫装，姿容秀丽、宫装少女，漆黑宝石般美目",
+    "性格": "言辞软糯、暗藏狡黠、古怪精灵、好奇、活泼狡黠、古怪精灵、活泼、活泼好奇、机灵狡黠",
     "称号": "绿秀郡主",
     "出身地": "大晋"
   },
@@ -49,6 +51,21 @@
         "value": "皇族郡主",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "受封郡主",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
+      },
+      {
+        "value": "散修之后",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
+      },
+      {
+        "value": "大晋皇族郡主",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "外貌": [
@@ -66,6 +83,11 @@
         "value": "十六七岁，翠绿宫装，姿容秀丽",
         "docId": "plot.fanren-919-924-ganjia-bailu-academy",
         "seq": 919
+      },
+      {
+        "value": "宫装少女，漆黑宝石般美目",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "性格": [
@@ -82,6 +104,16 @@
       {
         "value": "活泼狡黠",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "古怪精灵、活泼",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
+      },
+      {
+        "value": "活泼好奇、机灵狡黠",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ],
@@ -152,7 +184,8 @@
   "docs": [
     "plot.fanren-919-924-ganjia-bailu-shuyuan",
     "plot.fanren-ch925-dajin-huangzu",
-    "plot.fanren-919-924-ganjia-bailu-academy"
+    "plot.fanren-919-924-ganjia-bailu-academy",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-17T16:48:45.407Z"
+  "updatedAt": "2026-06-18T01:43:27.073Z"
 }

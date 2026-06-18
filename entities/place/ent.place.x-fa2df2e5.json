@@ -2,11 +2,15 @@
   "id": "ent.place.x-fa2df2e5",
   "type": "place",
   "name": "天岳山脉",
-  "aliases": [],
+  "aliases": [
+    "天岳山脉中心"
+  ],
   "summary": "陇州西川府境内方圆十余万里的荒山野岭，岳阳宫据点所在。",
   "attributes": {
     "所属势力": "岳阳宫",
-    "类型": "山脉"
+    "类型": "山脉",
+    "守护": "十三层禁断大阵",
+    "危险度": "极高"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +24,20 @@
       {
         "value": "山脉",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "守护": [
+      {
+        "value": "十三层禁断大阵",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ]
@@ -37,6 +55,18 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
@@ -44,7 +74,8 @@
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-931-936-anliu-jinjing-route",
-    "plot.fanren-ch931-936-jinjing-auction-road"
+    "plot.fanren-ch931-936-jinjing-auction-road",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-17T16:59:55.768Z"
+  "updatedAt": "2026-06-18T01:43:27.091Z"
 }

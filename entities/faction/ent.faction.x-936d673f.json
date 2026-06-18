@@ -15,12 +15,13 @@
     "人界修仙圣地",
     "大晋南部",
     "晋国魔宗",
-    "修炼圣地"
+    "修炼圣地",
+    "皇族"
   ],
   "summary": "韩立在天南听闻的超级帝国，被誉为本界修士圣地，规模兴盛冠绝诸海域；大长老来自其湾南州。",
   "attributes": {
     "等级": "超级帝国",
-    "理念": "本界修士圣地",
+    "理念": "脱离几大势力掌控、独立",
     "据点": "晋京",
     "阵营": "人界皇朝",
     "所属界面": "灵界"
@@ -38,6 +39,12 @@
         "value": "本界修士圣地",
         "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
         "seq": 577
+      },
+      {
+        "value": "脱离几大势力掌控、独立",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925,
+        "note": "皇族夺宝计划"
       }
     ],
     "据点": [
@@ -77,9 +84,10 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
-      "seq": 577
+      "seq": 925,
+      "note": "皇族夺宝计划"
     },
     "据点": {
       "asOf": null,
@@ -152,7 +160,8 @@
     "plot.fmxz-ch907-912-huorongjing-jinghua-yaodan",
     "plot.fanren-919-924-ganjia-bailu-academy",
     "plot.fanren-ch931-936-jinjing-auction-road",
-    "plot.fmxxz-ch889-tianshui-river-green-bat"
+    "plot.fmxxz-ch889-tianshui-river-green-bat",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-18T01:25:37.432Z"
+  "updatedAt": "2026-06-18T01:43:27.082Z"
 }

@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "陇州下辖府，天岳山脉所在地。",
   "attributes": {
-    "类型": "府"
+    "类型": "府",
+    "所属势力": "岳阳宫（势力范围）"
   },
   "observations": {
     "类型": [
       {
         "value": "府",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "岳阳宫（势力范围）",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T01:21:22.394Z"
+  "updatedAt": "2026-06-18T01:43:27.092Z"
 }

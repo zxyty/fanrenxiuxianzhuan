@@ -6,8 +6,8 @@
   "summary": "岳阳宫筑基中期弟子，天生通禽鸟之语，专司照看小昊阳鸟三十余年。",
   "attributes": {
     "小阶段": "筑基中期",
-    "身份": "岳阳宫照看昊阳鸟的弟子",
-    "标志特征": "天生能通晓禽鸟言语"
+    "身份": "岳阳宫照看昊阳鸟的弟子、岳阳宫照看昊阳鸟的修士",
+    "标志特征": "天生能通晓禽鸟言语、天生通晓禽鸟言语"
   },
   "observations": {
     "小阶段": [
@@ -22,12 +22,22 @@
         "value": "岳阳宫照看昊阳鸟的弟子",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "岳阳宫照看昊阳鸟的修士",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "标志特征": [
       {
         "value": "天生能通晓禽鸟言语",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "天生通晓禽鸟言语",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T01:21:22.388Z"
+  "updatedAt": "2026-06-18T01:43:27.087Z"
 }

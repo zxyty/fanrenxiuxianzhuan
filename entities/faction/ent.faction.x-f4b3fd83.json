@@ -8,7 +8,8 @@
   "summary": "大晋四位声名显赫的散修，含元婴后期与元婴中期者，神通远非寻常元婴修士可比；绿秀郡主之祖父为其一。",
   "attributes": {
     "阵营": "散修",
-    "据点": "大晋"
+    "据点": "大晋",
+    "等级": "元婴后期/元婴中期"
   },
   "observations": {
     "阵营": [
@@ -22,6 +23,13 @@
       {
         "value": "大晋",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "等级": [
+      {
+        "value": "元婴后期/元婴中期",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ]
@@ -39,12 +47,19 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T01:21:22.360Z"
+  "updatedAt": "2026-06-18T01:43:27.034Z"
 }

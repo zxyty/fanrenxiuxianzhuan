@@ -5,14 +5,16 @@
   "aliases": [
     "晋京拍卖会",
     "明场交易会",
-    "晋京大拍卖会"
+    "晋京大拍卖会",
+    "晋京交易会"
   ],
   "summary": "晋京十年一次的明场拍卖会，由正道坊市举行，与地下交易会同时召开但最珍稀材料错开一日。",
   "attributes": {
     "章节": "第938章",
     "地点": "晋京",
     "起因": "十年一次",
-    "参与方": "叶家、诸方势力"
+    "参与方": "叶家、诸方势力、大晋修仙界",
+    "影响": "十年一次，韩立计划前往"
   },
   "observations": {
     "章节": [
@@ -26,7 +28,7 @@
       {
         "value": "晋京",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
-        "seq": 937
+        "seq": 925
       }
     ],
     "起因": [
@@ -46,10 +48,22 @@
         "value": "诸方势力",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "大晋修仙界",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
+      }
+    ],
+    "影响": [
+      {
+        "value": "十年一次，韩立计划前往",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ]
   },
-  "firstSeq": 937,
+  "firstSeq": 925,
   "attrProvenance": {
     "章节": {
       "asOf": null,
@@ -61,7 +75,7 @@
       "asOf": null,
       "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
-      "seq": 937
+      "seq": 925
     },
     "起因": {
       "asOf": null,
@@ -71,16 +85,23 @@
     },
     "参与方": {
       "asOf": null,
-      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
-      "seq": 943
+      "seq": 925
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
-    "plot.fanren-ch943-jinjing-extortion-backstab"
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T02:11:44.906Z"
+  "updatedAt": "2026-06-18T01:43:27.100Z"
 }

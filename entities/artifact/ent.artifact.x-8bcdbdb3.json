@@ -9,13 +9,14 @@
     "奇宝",
     "逆天宝物",
     "通天灵宝至宝",
-    "通灵之宝"
+    "通灵之宝",
+    "两件宝物"
   ],
   "summary": "叶家暗图夺取的真正通天灵宝，封印中的至宝；叶家另以仿制品声东击西。",
   "attributes": {
     "品阶": "通天灵宝",
     "来历": "镇压于镇魔塔下层",
-    "能力": "镇压封印"
+    "能力": "传闻可逆转乾坤、镇压封印、传说可逆转乾坤、令势力投鼠忌器"
   },
   "observations": {
     "品阶": [
@@ -28,6 +29,11 @@
         "value": "通天灵宝(至宝)",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "通天灵宝（顶级）",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "来历": [
@@ -57,6 +63,11 @@
         "value": "镇压封印",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "传说可逆转乾坤、令势力投鼠忌器",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ]
   },
@@ -76,9 +87,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
-      "seq": 991
+      "seq": 925
     }
   },
   "contested": false,
@@ -90,7 +101,8 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-817-822-zhan-huochan-qiyanshan"
+    "plot.fanren-817-822-zhan-huochan-qiyanshan",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-17T13:48:46.955Z"
+  "updatedAt": "2026-06-18T01:43:27.040Z"
 }

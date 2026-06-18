@@ -7,8 +7,9 @@
   ],
   "summary": "炼器殿最重要建筑，分上中下三层，下层借地火之精炼高阶灵器，韩立平常在中层密室提炼材料。",
   "attributes": {
-    "类型": "炼器殿堂",
-    "特产": "地火之精"
+    "类型": "炼器殿堂、炼器建筑",
+    "特产": "地火之精",
+    "所属势力": "皇清观"
   },
   "observations": {
     "类型": [
@@ -16,12 +17,24 @@
         "value": "炼器殿堂",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "炼器建筑",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ],
     "特产": [
       {
         "value": "地火之精",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "皇清观",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu"
+    "plot.fanren-ch925-dajin-huangzu",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T01:21:22.362Z"
+  "updatedAt": "2026-06-18T01:43:27.078Z"
 }

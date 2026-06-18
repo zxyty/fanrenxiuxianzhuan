@@ -8,16 +8,22 @@
   ],
   "summary": "与昊阳鸟齐名的火属性灵禽，传说中火凤分支之一，血脉自上古流传，由海外某岛主驯养。",
   "attributes": {
-    "种族": "火属性灵禽（火凤分支）",
+    "种族": "火属性灵禽（火凤分支）、火凤分支",
     "血脉": "上古火凤血脉",
     "栖息地": "海外",
-    "主人": "苦竹老人"
+    "主人": "苦竹老人",
+    "能力": "火属性灵禽"
   },
   "observations": {
     "种族": [
       {
         "value": "火属性灵禽（火凤分支）",
         "docId": "plot.fanren-ch925-dajin-huangzu",
+        "seq": 925
+      },
+      {
+        "value": "火凤分支",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ],
@@ -40,6 +46,13 @@
         "value": "苦竹老人",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
         "seq": 967
+      }
+    ],
+    "能力": [
+      {
+        "value": "火属性灵禽",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+        "seq": 925
       }
     ]
   },
@@ -68,13 +81,20 @@
       "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
       "seq": 967
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "dated": false,
+      "seq": 925
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
-    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua"
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-16T02:56:45.323Z"
+  "updatedAt": "2026-06-18T01:43:27.053Z"
 }

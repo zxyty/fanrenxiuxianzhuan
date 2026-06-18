@@ -1,43 +1,40 @@
 {
-  "id": "ent.person.x-e081f033",
+  "id": "ent.person.x-5c6a2b25",
   "type": "person",
-  "name": "叶家中年美妇",
-  "aliases": [
-    "中年美妇",
-    "叶家美妇"
-  ],
-  "summary": "皇族叶家后辈，主张冒险夺取通天灵宝以摆脱各大势力夹持。",
+  "name": "紫袍老妪",
+  "aliases": [],
+  "summary": "岳阳宫元婴后期老祖，照看较大的昊阳鸟，事后追查并怀疑魔木宗马道友。",
   "attributes": {
     "性别": "女",
-    "阵营": "皇族叶家",
-    "身份": "叶家成员",
-    "性格": "进取、善谋"
+    "小阶段": "元婴后期",
+    "身份": "岳阳宫老祖",
+    "外貌": "紫袍白发老妪"
   },
   "observations": {
     "性别": [
       {
         "value": "女",
-        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ],
-    "阵营": [
+    "小阶段": [
       {
-        "value": "皇族叶家",
-        "docId": "plot.fanren-ch925-dajin-huangzu",
+        "value": "元婴后期",
+        "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ],
     "身份": [
       {
-        "value": "叶家成员",
+        "value": "岳阳宫老祖",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
     ],
-    "性格": [
+    "外貌": [
       {
-        "value": "进取、善谋",
+        "value": "紫袍白发老妪",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
       }
@@ -47,13 +44,13 @@
   "attrProvenance": {
     "性别": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
       "seq": 925
     },
-    "阵营": {
+    "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
       "seq": 925
     },
@@ -63,7 +60,7 @@
       "dated": false,
       "seq": 925
     },
-    "性格": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
@@ -73,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-18T01:43:27.032Z"
+  "updatedAt": "2026-06-18T01:43:27.088Z"
 }
