@@ -4,14 +4,16 @@
   "name": "三大寒焰",
   "aliases": [
     "黑水冰焰",
-    "风离冰焰"
+    "风离冰焰",
+    "白色冰焰"
   ],
   "summary": "小极宫代代传承的三种极寒之焰（含黑水冰焰、风离冰焰），修炼需寒髓灵液。",
   "attributes": {
     "出处": "小极宫",
     "修炼条件": "寒髓灵液",
     "外显异象": "白色冰焰",
-    "五行属性": "寒冰"
+    "五行属性": "寒冰",
+    "效果": "化形冰蛇攻击、极寒"
   },
   "observations": {
     "出处": [
@@ -41,6 +43,13 @@
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
         "seq": 1081
       }
+    ],
+    "效果": [
+      {
+        "value": "化形冰蛇攻击、极寒",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
+      }
     ]
   },
   "firstSeq": 1081,
@@ -68,13 +77,20 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
-    "plot.fanren-1081-1082-three-cold-flames"
+    "plot.fanren-1081-1082-three-cold-flames",
+    "plot.fanren-1086-1087-hanyan-xulingdian"
   ],
-  "updatedAt": "2026-06-18T09:38:37.621Z"
+  "updatedAt": "2026-06-18T09:43:45.797Z"
 }

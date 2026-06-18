@@ -10,7 +10,7 @@
   ],
   "summary": "赫赫有名的偏寒之地，小极宫所在。",
   "attributes": {
-    "类型": "极寒之地、半岛/极寒之地、极寒冰岛、极寒灵脉冰岛、海岛、半岛",
+    "类型": "极寒之地、半岛/极寒之地、极寒冰岛、极寒灵脉冰岛、海岛、半岛、岛屿",
     "所属界面": "大晋皇朝",
     "危险度": "极高(滴水成冰)、极高(万里寒气)、极高（极寒、禁制冰川）",
     "特产": "玄冰花、玄玉寒气、寒髓",
@@ -47,6 +47,11 @@
       {
         "value": "半岛",
         "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      },
+      {
+        "value": "岛屿",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
       }
     ],
@@ -178,7 +183,8 @@
     "plot.fanren-1069-1074-soul-devour-escape-frost",
     "plot.fanren-1075-1080-beiming-island-xiaojigong",
     "plot.fanren-1081-1082-three-cold-flames",
-    "plot.fanren-ch1083-1085-bingning-shou-er-yao"
+    "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+    "plot.fanren-1086-1087-hanyan-xulingdian"
   ],
-  "updatedAt": "2026-06-18T09:41:32.518Z"
+  "updatedAt": "2026-06-18T09:43:45.793Z"
 }

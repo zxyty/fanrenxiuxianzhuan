@@ -5,14 +5,15 @@
   "aliases": [
     "鹤发老妪",
     "龙道友",
-    "龙长老"
+    "龙长老",
+    "柳翠派大长老"
   ],
   "summary": "柳翠派大长老，元婴中期，修炼特殊功法可永葆年轻声音，受邀相助冲瓶。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴",
     "身份": "小极宫外门长老",
-    "标志特征": "拐杖、青色小锤",
+    "标志特征": "声如处子、满头白发、拐杖、青色小锤、功法保持年轻声音",
     "阵营": "柳翠派",
     "外貌": "满脸皱纹老妪"
   },
@@ -59,6 +60,11 @@
         "value": "拐杖、青色小锤",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "功法保持年轻声音",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
       }
     ],
     "阵营": [
@@ -78,6 +84,11 @@
         "value": "满脸皱纹老妪",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "须发皆白老妪、声音如处子",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
       }
     ]
   },
@@ -104,9 +115,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
-      "seq": 1087
+      "seq": 1081
     },
     "阵营": {
       "asOf": null,
@@ -127,7 +138,8 @@
     "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
-    "plot.fanren-1099-1104-xuanyu-cave-battle"
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1086-1087-hanyan-xulingdian"
   ],
-  "updatedAt": "2026-06-15T09:47:06.107Z"
+  "updatedAt": "2026-06-18T09:43:45.784Z"
 }

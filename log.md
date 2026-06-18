@@ -510,3 +510,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T09:36:29.070Z** `ingest` plot.fanren-1075-1080-beiming-island-xiaojigong — 凡人修仙传 第1075-1080章｜北冥岛·北夜小极宫访友 · kind=plot asOf=2026-06-18 entities=32 relations=34 src=01075-01080.md
 - **2026-06-18T09:38:37.747Z** `ingest` plot.fanren-1081-1082-three-cold-flames — 凡人修仙传 第1081-1082章：小极宫三大寒焰交易与冰海寻冰灵花 · kind=plot asOf=2026-06-18 entities=28 relations=25 src=01081-01086.p1.md
 - **2026-06-18T09:41:32.653Z** `ingest` plot.fanren-ch1083-1085-bingning-shou-er-yao — 凡人修仙传 第1083-1085章：冰缝采玄冰、冰狞兽与二妖之战 · kind=plot asOf=2026-06-18 entities=27 relations=23 src=01081-01086.p2.md
+- **2026-06-18T09:43:45.922Z** `ingest` plot.fanren-1086-1087-hanyan-xulingdian — 凡人修仙传 第1086-1087章 寒焰修士与虚灵殿开启 · kind=plot asOf=2026-06-18 entities=24 relations=23 src=01081-01086.p3.md

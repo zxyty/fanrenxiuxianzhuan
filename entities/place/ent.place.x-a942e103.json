@@ -9,14 +9,16 @@
     "虚灵殿外殿",
     "虚灵殿内殿",
     "虚灵殿大殿",
-    "三座大殿"
+    "三座大殿",
+    "Xuling Hall"
   ],
   "summary": "小极宫内宫三座白玉宫殿，式样同虚天殿而仅三分之一大，自立派起即存在，平时封闭需过半长老同意方可开启。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群",
+    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群、禁地/秘殿",
     "特产": "神识受限",
-    "守护": "冰魄寒烈阵"
+    "守护": "冰魄寒烈阵",
+    "危险度": "极高"
   },
   "observations": {
     "所属势力": [
@@ -81,6 +83,11 @@
         "value": "封闭宫殿群",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
+      },
+      {
+        "value": "禁地/秘殿",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
       }
     ],
     "特产": [
@@ -105,6 +112,18 @@
         "value": "需过半长老同意方可开启",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
+      },
+      {
+        "value": "符文石门封印",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+        "seq": 1081
       }
     ]
   },
@@ -133,6 +152,12 @@
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
       "seq": 1087
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
@@ -145,7 +170,8 @@
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1113-yaoqi-chongtian",
-    "plot.fanren-1075-1080-beiming-island-xiaojigong"
+    "plot.fanren-1075-1080-beiming-island-xiaojigong",
+    "plot.fanren-1086-1087-hanyan-xulingdian"
   ],
-  "updatedAt": "2026-06-18T09:36:28.955Z"
+  "updatedAt": "2026-06-18T09:43:45.792Z"
 }
