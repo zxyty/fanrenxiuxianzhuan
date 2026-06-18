@@ -4,13 +4,15 @@
   "name": "古魔圣祖分神",
   "aliases": [
     "巨狼",
-    "古魔圣祖化身的巨狼"
+    "古魔圣祖化身的巨狼",
+    "古魔分神"
   ],
   "summary": "祭坛上魔化为巨狼形态的古魔圣祖分神，单凭本身神通便抗住三件灵宝仿制品，并祭出天狼钻偷袭韩立。",
   "attributes": {
     "种族": "古魔",
     "外貌": "巨狼",
-    "标志特征": "口喷黑气魔气、惧禁魔环、黑色狼首/魔化乌黑狼躯"
+    "标志特征": "口喷黑气魔气、惧禁魔环、黑色狼首/魔化乌黑狼躯",
+    "身份": "古魔圣祖之分神"
   },
   "observations": {
     "种族": [
@@ -43,6 +45,13 @@
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
       }
+    ],
+    "身份": [
+      {
+        "value": "古魔圣祖之分神",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      }
     ]
   },
   "firstSeq": 1051,
@@ -64,13 +73,20 @@
       "docId": "plot.fanren-ch1051-chinian-zhenlei",
       "dated": false,
       "seq": 1051
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1057-sanbao-lianshou",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T07:36:16.140Z"
+  "updatedAt": "2026-06-18T08:17:02.702Z"
 }

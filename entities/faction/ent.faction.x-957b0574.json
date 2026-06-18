@@ -1,0 +1,50 @@
+{
+  "id": "ent.faction.x-957b0574",
+  "type": "faction",
+  "name": "七大妖王",
+  "aliases": [
+    "妖族七大妖王"
+  ],
+  "summary": "妖族顶尖势力，与人类三皇各执逆星盘；曾联手杀入古魔界灭圣族；敖啸妖王为其一。",
+  "attributes": {
+    "阵营": "妖族",
+    "镇派之宝": "逆星盘"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "逆星盘",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      }
+    ]
+  },
+  "firstSeq": 1057,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1057-three-treasures-joint-attack"
+  ],
+  "updatedAt": "2026-06-18T08:17:02.751Z"
+}

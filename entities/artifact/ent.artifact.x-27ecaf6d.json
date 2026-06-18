@@ -2,11 +2,13 @@
   "id": "ent.artifact.x-27ecaf6d",
   "type": "artifact",
   "name": "番天印",
-  "aliases": [],
+  "aliases": [
+    "巨印"
+  ],
   "summary": "玄青子的法宝玉印，以法决咒语催动可化为二十余丈高的玉山，黄霞缭绕。",
   "attributes": {
-    "能力": "化为二十余丈高的玉山",
-    "外形": "玉印/巨型小山"
+    "能力": "化为二十余丈高的玉山、化山砸击",
+    "外形": "玉印/巨型小山、化为二十余丈高小山的玉印，黄霞缭绕"
   },
   "observations": {
     "能力": [
@@ -14,12 +16,22 @@
         "value": "化为二十余丈高的玉山",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
         "seq": 1057
+      },
+      {
+        "value": "化山砸击",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "外形": [
       {
         "value": "玉印/巨型小山",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "化为二十余丈高小山的玉印，黄霞缭绕",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ]
@@ -42,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1057-sanbao-lianshou"
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-15T08:15:45.502Z"
+  "updatedAt": "2026-06-18T08:17:02.689Z"
 }

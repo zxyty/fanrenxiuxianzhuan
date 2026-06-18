@@ -10,15 +10,21 @@
   ],
   "summary": "妖族七大妖王之一，玲珑之祖父，修啸月妖功，连元刹圣祖都为之忌惮。",
   "attributes": {
-    "种族": "银月一族（银月狼族）",
-    "身份": "妖族七大妖王之一",
-    "称号": "敖啸妖王"
+    "种族": "银月一族（银月狼族）、妖族(银狼)",
+    "身份": "妖族七大妖王之一、七大妖王之一",
+    "称号": "敖啸妖王",
+    "标志特征": "啸月妖功"
   },
   "observations": {
     "种族": [
       {
         "value": "银月一族（银月狼族）",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "妖族(银狼)",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ],
@@ -27,12 +33,24 @@
         "value": "妖族七大妖王之一",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
         "seq": 1057
+      },
+      {
+        "value": "七大妖王之一",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "称号": [
       {
         "value": "敖啸妖王",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "啸月妖功",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ]
@@ -56,12 +74,19 @@
       "docId": "plot.fanren-ch1057-sanbao-lianshou",
       "dated": false,
       "seq": 1057
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1057-sanbao-lianshou"
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-15T08:15:45.538Z"
+  "updatedAt": "2026-06-18T08:17:02.735Z"
 }

@@ -10,7 +10,7 @@
   "attributes": {
     "阵营": "正道",
     "据点": "大晋",
-    "理念": "正道第一门",
+    "理念": "正道第一宗、正道第一门、正魔为首、号称正道第一门",
     "所属界面": "人界",
     "等级": "正魔第一大宗",
     "镇派之宝": "天阿神剑、破界符"
@@ -50,6 +50,11 @@
         "value": "正魔为首",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "号称正道第一门",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "所属界面": [
@@ -105,9 +110,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
-      "seq": 1057
+      "seq": 949
     },
     "所属界面": {
       "asOf": null,
@@ -145,7 +150,8 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T07:36:16.098Z"
+  "updatedAt": "2026-06-18T08:17:02.691Z"
 }

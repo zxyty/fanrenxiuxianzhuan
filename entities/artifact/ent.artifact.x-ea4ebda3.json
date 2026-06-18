@@ -7,11 +7,11 @@
   ],
   "summary": "土黄色四方小印，表面隐现金银色符文，通天灵宝仿制品，太一门所有；曾在地下拍卖会拍出天价。",
   "attributes": {
-    "品阶": "通天灵宝仿制品",
-    "外形": "土黄色四方小印，隐现金银色符文、土黄色小印,表面浮现变化的金银色微型法阵、数寸土黄色温润小印，闪现金银色微型法阵",
-    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成、叶家耗百年炼制，仿造掌天印、叶家炼制/受大势力重压拿出拍卖",
+    "品阶": "灵宝仿制品",
+    "外形": "土黄色四方小印，隐现金银色符文、土黄色小印,表面浮现变化的金银色微型法阵、数寸土黄色温润小印，闪现金银色微型法阵、四方土黄色小印，温润似玉，金银色符文",
+    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成、叶家耗百年炼制，仿造掌天印、叶家炼制/受大势力重压拿出拍卖、地下拍卖会天价拍得",
     "能力": "开山裂地、平山开地、灵气庞大、超常发挥可达掌天印十之三威能（损宝）",
-    "持有者": "叶家"
+    "持有者": "玄青子"
   },
   "observations": {
     "品阶": [
@@ -24,6 +24,11 @@
         "value": "通天灵宝",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "灵宝仿制品",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "外形": [
@@ -41,6 +46,11 @@
         "value": "数寸土黄色温润小印，闪现金银色微型法阵",
         "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
+      },
+      {
+        "value": "四方土黄色小印，温润似玉，金银色符文",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "来历": [
@@ -78,6 +88,11 @@
         "value": "叶家炼制/受大势力重压拿出拍卖",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "地下拍卖会天价拍得",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "能力": [
@@ -107,6 +122,11 @@
         "value": "叶家",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "玄青子",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ]
   },
@@ -114,9 +134,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
       "dated": false,
-      "seq": 949
+      "seq": 1057
     },
     "外形": {
       "asOf": null,
@@ -138,9 +158,9 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
       "dated": false,
-      "seq": 943
+      "seq": 1057
     }
   },
   "contested": false,
@@ -154,7 +174,8 @@
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
-    "plot.fanren-955-zaiyu-gumo"
+    "plot.fanren-955-zaiyu-gumo",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T02:11:21.100Z"
+  "updatedAt": "2026-06-18T08:17:02.703Z"
 }

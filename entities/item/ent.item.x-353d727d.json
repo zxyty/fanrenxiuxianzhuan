@@ -2,11 +2,13 @@
   "id": "ent.item.x-353d727d",
   "type": "item",
   "name": "五色灵珠",
-  "aliases": [],
+  "aliases": [
+    "五色灵霞"
+  ],
   "summary": "魔像以墨色魔风将灵犀孔雀五色灵光炼成的拇指大灵珠，嘱黑甲女子设法传回古魔界。",
   "attributes": {
     "类型": "灵珠",
-    "用途": "传回古魔界、对元刹圣祖有用",
+    "用途": "传回古魔界、对元刹圣祖有用、对元刹圣祖有用、需传回古魔界",
     "产地": "由灵犀孔雀五色灵光炼成"
   },
   "observations": {
@@ -21,6 +23,11 @@
       {
         "value": "传回古魔界、对元刹圣祖有用",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "对元刹圣祖有用、需传回古魔界",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ],
@@ -56,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1057-sanbao-lianshou"
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-15T08:15:45.529Z"
+  "updatedAt": "2026-06-18T08:17:02.729Z"
 }

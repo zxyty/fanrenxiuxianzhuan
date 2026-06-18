@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "真魔甲",
   "aliases": [
-    "古魔的真魔甲"
+    "古魔的真魔甲",
+    "古魔真魔甲"
   ],
   "summary": "古魔以真魔气附身凝结的魔化战甲，防御极强并能借魔气大增神通，仅部分古魔具此神通。",
   "attributes": {
     "持有者": "黑甲女子",
-    "能力": "防御极强、借魔气增神通",
-    "来历": "古魔神通，上古大战曾重创妖族与人类"
+    "能力": "防御极强、借魔气增神通、极强防御",
+    "来历": "古魔神通，上古大战曾重创妖族与人类、上古大战令妖、人皆受苦",
+    "外形": "漆黑双角鬼头黑刺战甲"
   },
   "observations": {
     "持有者": [
@@ -29,12 +31,29 @@
         "value": "借魔气增神通",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
         "seq": 1057
+      },
+      {
+        "value": "极强防御",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "来历": [
       {
         "value": "古魔神通，上古大战曾重创妖族与人类",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "上古大战令妖、人皆受苦",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      }
+    ],
+    "外形": [
+      {
+        "value": "漆黑双角鬼头黑刺战甲",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ]
@@ -58,12 +77,19 @@
       "docId": "plot.fanren-ch1057-sanbao-lianshou",
       "dated": false,
       "seq": 1057
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1057-sanbao-lianshou"
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-15T08:15:45.522Z"
+  "updatedAt": "2026-06-18T08:17:02.727Z"
 }

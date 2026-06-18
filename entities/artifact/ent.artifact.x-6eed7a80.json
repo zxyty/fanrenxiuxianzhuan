@@ -4,14 +4,16 @@
   "name": "赤鸣鼓",
   "aliases": [
     "小鼓",
-    "赤红小鼓"
+    "赤红小鼓",
+    "红日"
   ],
   "summary": "以手指连弹催动的赤红小鼓，鼓声渐起间高空浮现血色红日，蕴含可怕威力。",
   "attributes": {
-    "能力": "催出血色红日般威能、数十丈范围高温、掩护",
+    "能力": "催出血色红日般威能、数十丈范围高温、掩护、弹击催动浮现赤红红日",
     "外形": "赤红小鼓",
     "持有者": "七妙真人",
-    "五行属性": "火"
+    "五行属性": "火",
+    "品阶": "通天灵宝仿制品、灵宝仿制品"
   },
   "observations": {
     "能力": [
@@ -29,6 +31,11 @@
         "value": "掩护",
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
+      },
+      {
+        "value": "弹击催动浮现赤红红日",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "外形": [
@@ -55,6 +62,18 @@
         "value": "火",
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
+      }
+    ],
+    "品阶": [
+      {
+        "value": "通天灵宝仿制品",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      },
+      {
+        "value": "灵宝仿制品",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ]
   },
@@ -83,13 +102,20 @@
       "docId": "plot.fanren-ch1051-chinian-zhenlei",
       "dated": false,
       "seq": 1051
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1057-sanbao-lianshou",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T07:36:16.149Z"
+  "updatedAt": "2026-06-18T08:17:02.704Z"
 }

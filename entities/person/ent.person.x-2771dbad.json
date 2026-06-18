@@ -11,20 +11,22 @@
     "玄青道友",
     "白发红面老道",
     "太一门长老",
-    "玄青兄"
+    "玄青兄",
+    "玄青子老道"
   ],
   "summary": "太一门长老，元婴后期大修士，奉密令死守昆吾山裂缝入口并须与七妙真人联手入封印。",
   "attributes": {
     "阵营": "太一门",
-    "小阶段": "元婴后期",
+    "小阶段": "元婴期",
     "身份": "宗门长老",
     "性别": "男",
     "存殁": "死亡",
-    "死因": "被珈轮战魔黑光柱蒸发",
+    "死因": "被珈轮战魔黑光柱蒸发、被珈轮战魔黑色光柱击杀",
     "结局": "法宝带元婴俱灭",
     "外貌": "白发红面、仙骨道风、白发红面老道，仙骨道风、白发红面、道骨仙风老道",
     "道号": "玄青子",
-    "性格": "圆滑、藏私"
+    "性格": "圆滑、藏私",
+    "标志特征": "天阿神剑、八卦镜"
   },
   "observations": {
     "阵营": [
@@ -44,6 +46,11 @@
         "value": "元婴后期",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1003
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "身份": [
@@ -79,13 +86,19 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
-        "seq": 1057
+        "seq": 1057,
+        "note": "据世界状态须知，于第1057章死亡；本片段尚在激战"
       }
     ],
     "死因": [
       {
         "value": "被珈轮战魔黑光柱蒸发",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "被珈轮战魔黑色光柱击杀",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ],
@@ -126,6 +139,13 @@
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
+    ],
+    "标志特征": [
+      {
+        "value": "天阿神剑、八卦镜",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      }
     ]
   },
   "firstSeq": 1003,
@@ -138,9 +158,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
       "dated": false,
-      "seq": 1003
+      "seq": 1057
     },
     "身份": {
       "asOf": null,
@@ -158,7 +178,8 @@
       "asOf": null,
       "docId": "plot.fanren-ch1057-sanbao-lianshou",
       "dated": false,
-      "seq": 1057
+      "seq": 1057,
+      "note": "据世界状态须知，于第1057章死亡；本片段尚在激战"
     },
     "死因": {
       "asOf": null,
@@ -189,6 +210,12 @@
       "docId": "plot.fanren-ch1033-pozhen-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
@@ -200,7 +227,8 @@
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T07:36:16.143Z"
+  "updatedAt": "2026-06-18T08:17:02.736Z"
 }

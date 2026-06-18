@@ -5,12 +5,14 @@
   "aliases": [
     "古魔界",
     "古魔界圣族",
-    "魔界"
+    "魔界",
+    "圣族所在魔界"
   ],
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
-    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵",
-    "通道": "上古曾开通向人界的通道"
+    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域",
+    "通道": "上古曾开通向人界的通道",
+    "主宰势力": "圣族"
   },
   "observations": {
     "特点": [
@@ -33,6 +35,11 @@
         "value": "古魔来源、曾入侵",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "真魔气、魔气界域",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ],
     "通道": [
@@ -40,6 +47,13 @@
         "value": "上古曾开通向人界的通道",
         "docId": "plot.fanren-793-798-zhuimo-zhi-di",
         "seq": 793
+      }
+    ],
+    "主宰势力": [
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
       }
     ]
   },
@@ -56,6 +70,12 @@
       "docId": "plot.fanren-793-798-zhuimo-zhi-di",
       "dated": false,
       "seq": 793
+    },
+    "主宰势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "dated": false,
+      "seq": 1057
     }
   },
   "contested": false,
@@ -66,7 +86,8 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-793-798-zhuimo-valley-hanli-return",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-18T06:10:51.691Z"
+  "updatedAt": "2026-06-18T08:17:02.750Z"
 }

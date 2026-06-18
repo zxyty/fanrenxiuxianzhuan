@@ -7,7 +7,7 @@
   "attributes": {
     "持有者": "古魔圣祖分神",
     "外形": "怪异短刃",
-    "能力": "无声偷袭，难以防护与看透"
+    "能力": "无声偷袭，难以防护与看透、瞬间斩破护罩、化怪异短刃刺击"
   },
   "observations": {
     "持有者": [
@@ -28,6 +28,16 @@
       {
         "value": "无声偷袭，难以防护与看透",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
+        "seq": 1057
+      },
+      {
+        "value": "瞬间斩破护罩",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
+        "seq": 1057
+      },
+      {
+        "value": "化怪异短刃刺击",
+        "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1057-sanbao-lianshou"
+    "plot.fanren-ch1057-sanbao-lianshou",
+    "plot.fanren-1057-three-treasures-joint-attack"
   ],
-  "updatedAt": "2026-06-15T08:15:45.527Z"
+  "updatedAt": "2026-06-18T08:17:02.724Z"
 }
