@@ -27,11 +27,11 @@
     "身份": "小极宫大长老、大长老、小极宫修士、小极宫大修士、前辈大修士",
     "称号": "寒骊上人、大长老、小极宫大长老",
     "外貌": "身高三尺、雪白长须的蓝袍侏儒、侏儒、三十许岁壮汉，要害插五短刃无血、三十余岁、三尺侏儒、雪白长须、蓝袍、侏儒身材",
-    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒、半步化神，徘徊此境三百年、眉心六色莲花标记（突破中脱落爆裂）、双目金芒、化为蓝色火球",
+    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒、半步化神，徘徊此境三百年、眉心六色莲花标记（突破中脱落爆裂）、双目金芒、化为蓝色火球、持玄玉令牌催麒麟幻影",
     "寿元": "仅剩寥寥数年、只剩寥寥数年、将近",
-    "阵营": "小极宫",
+    "阵营": "敌对韩立",
     "存殁": "死亡",
-    "死因": "元婴被韩立搜魂湮灭",
+    "死因": "肉身被斩，元婴被韩立八灵尺制住后禁制擒获、元婴被韩立搜魂湮灭、肉身被韩立击毁，元婴被八灵尺/辟邪神雷制住后收入神秘瓶子",
     "出身地": "小极宫",
     "道号": "寒骊上人",
     "性格": "城府深、阴狠",
@@ -195,6 +195,11 @@
         "value": "双目金芒、化为蓝色火球",
         "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
         "seq": 1093
+      },
+      {
+        "value": "持玄玉令牌催麒麟幻影",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "寿元": [
@@ -219,6 +224,11 @@
         "value": "小极宫",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
         "seq": 1081
+      },
+      {
+        "value": "敌对韩立",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "存殁": [
@@ -240,6 +250,11 @@
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105,
         "note": "本体已于第1099章死亡，此处为其元婴"
+      },
+      {
+        "value": "肉身被韩立击毁，元婴被八灵尺/辟邪神雷制住后收入神秘瓶子",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "出身地": [
@@ -322,9 +337,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1081
+      "seq": 1099
     },
     "存殁": {
       "asOf": null,
@@ -335,10 +350,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
       "dated": false,
-      "seq": 1105,
-      "note": "本体已于第1099章死亡，此处为其元婴"
+      "seq": 1099
     },
     "出身地": {
       "asOf": null,
@@ -384,7 +398,8 @@
     "plot.fanren-1086-1087-hanyan-xulingdian",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
-    "plot.fanren-1099-1100-fanmu-zhanqi"
+    "plot.fanren-1099-1100-fanmu-zhanqi",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-18T10:06:00.166Z"
+  "updatedAt": "2026-06-18T10:27:57.351Z"
 }

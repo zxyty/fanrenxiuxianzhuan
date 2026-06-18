@@ -12,7 +12,10 @@
     "任师伯",
     "任道友",
     "青衫中年人",
-    "小极宫长老"
+    "小极宫长老",
+    "青衫中年修士",
+    "小极宫青衫长老",
+    "青衫长老"
   ],
   "summary": "北夜小极宫内宫长老，元婴中期，主动热情为韩立带路并探听其来历。",
   "attributes": {
@@ -20,8 +23,8 @@
     "身份": "小极宫内宫长老、小极宫长老、小极宫修士、长老、内宫长老、小极宫寒焰修士",
     "外貌": "面容白皙、头发灰白、双目沧桑的青年、青衫中年、面容白皙、头发灰白、双目沧桑、青衫、目光阴沉",
     "性别": "男",
-    "标志特征": "黑色冰焰",
-    "阵营": "小极宫",
+    "标志特征": "断臂被斩又以符箓接回",
+    "阵营": "敌对韩立",
     "存殁": "死亡",
     "死因": "被五魔（五具人形骨架）连肉身元婴法宝一并吞噬"
   },
@@ -104,6 +107,11 @@
         "value": "黑色冰焰",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "断臂被斩又以符箓接回",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "阵营": [
@@ -111,6 +119,11 @@
         "value": "小极宫",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "敌对韩立",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "存殁": [
@@ -156,15 +169,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1087
+      "seq": 1099
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1093
+      "seq": 1099
     },
     "存殁": {
       "asOf": null,
@@ -190,7 +203,8 @@
     "plot.fanren-1075-1080-beiming-island-xiaojigong",
     "plot.fanren-1086-1087-hanyan-xulingdian",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
-    "plot.fanren-1099-1100-fanmu-zhanqi"
+    "plot.fanren-1099-1100-fanmu-zhanqi",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-18T10:06:00.179Z"
+  "updatedAt": "2026-06-18T10:27:57.283Z"
 }

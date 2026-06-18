@@ -7,18 +7,19 @@
     "梦馨师妹",
     "白衫女子白梦馨",
     "白仙子堂姐",
-    "白衣飘飘女子"
+    "白衣飘飘女子",
+    "梦馨"
   ],
   "summary": "白瑶怡堂姐，小极宫内宫长老，元婴中期巅峰，修炼风离冰焰，受命试探韩立。",
   "attributes": {
     "性别": "女",
-    "小阶段": "元婴中期",
-    "身份": "小极宫弟子",
+    "小阶段": "元婴中期巅峰、元婴中期、元婴、中期",
+    "身份": "寒骊师妹",
     "外貌": "晶白面孔、秀丽晶白面孔、白衣飘飘",
-    "阵营": "小极宫",
-    "标志特征": "白色冰焰",
+    "阵营": "敌对韩立",
+    "标志特征": "操白色冷月宝镜寄养灵虫",
     "存殁": "死亡",
-    "死因": "肉身被魔髓飞刀洞穿，元婴被雷火弓金雷木小箭击碎"
+    "死因": "肉身被魔髓飞刀洞穿，元婴被雷火弓金雷木小箭击碎、人形傀儡以魔髓飞刀洞穿小腹、雷火弓金雷木箭击碎元婴"
   },
   "observations": {
     "性别": [
@@ -43,6 +44,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1087
+      },
+      {
+        "value": "中期",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "身份": [
@@ -55,6 +61,11 @@
         "value": "小极宫弟子",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "寒骊师妹",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "外貌": [
@@ -79,6 +90,11 @@
         "value": "小极宫",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
         "seq": 1081
+      },
+      {
+        "value": "敌对韩立",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "标志特征": [
@@ -86,6 +102,11 @@
         "value": "白色冰焰",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "操白色冷月宝镜寄养灵虫",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "存殁": [
@@ -100,6 +121,11 @@
         "value": "肉身被魔髓飞刀洞穿，元婴被雷火弓金雷木小箭击碎",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "人形傀儡以魔髓飞刀洞穿小腹、雷火弓金雷木箭击碎元婴",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ]
   },
@@ -113,15 +139,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
-      "seq": 1099
+      "seq": 1081
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1087
+      "seq": 1099
     },
     "外貌": {
       "asOf": null,
@@ -131,15 +157,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1081
+      "seq": 1099
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
       "dated": false,
-      "seq": 1087
+      "seq": 1099
     },
     "存殁": {
       "asOf": null,
@@ -166,7 +192,8 @@
     "plot.fanren-1086-1087-hanyan-xulingdian",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
-    "plot.fanren-1099-1100-fanmu-zhanqi"
+    "plot.fanren-1099-1100-fanmu-zhanqi",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-18T10:06:00.176Z"
+  "updatedAt": "2026-06-18T10:27:57.354Z"
 }

@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "魔髓刃",
   "aliases": [
-    "黑芒短刃"
+    "黑芒短刃",
+    "魔道短刃"
   ],
   "summary": "数寸长黑幽短刃，原供人形傀儡使用，可瞬移斩敌（斩断青衫人一臂）。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "数寸长、黑幽光芒"
+    "外形": "数寸长、黑幽光芒、数寸长黑幽幽短刃"
   },
   "observations": {
     "持有者": [
@@ -22,6 +23,11 @@
       {
         "value": "数寸长、黑幽光芒",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "数寸长黑幽幽短刃",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
       }
     ]
@@ -44,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1099-1104-xuanyu-cave-battle"
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-15T09:47:06.087Z"
+  "updatedAt": "2026-06-18T10:27:57.169Z"
 }

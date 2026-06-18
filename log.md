@@ -515,3 +515,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T10:01:36.919Z** `ingest` plot.fanren-1094-1095-hanyan-xisui-qianlan-ding — 第1094-1095章 寒焰洗髓·乾蓝鼎易手与冰凤攻城 · kind=plot asOf=2026-06-18 entities=0 relations=0 src=01093-01098.p1.md
 - **2026-06-18T10:03:54.337Z** `ingest` plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie — 第1096-1097章 妖魂·魔高一丈——寒骊上人冲阶化神失败与小极宫撤离 · kind=plot asOf=2026-06-18 entities=21 relations=20 src=01093-01098.p2.md
 - **2026-06-18T10:06:00.578Z** `ingest` plot.fanren-1099-1100-fanmu-zhanqi — 凡人修仙传 第1099-1100章 反目·战起（小极宫为虚天鼎围攻韩立） · kind=plot asOf=2026-06-18 entities=26 relations=35 src=01093-01098.p3.md
+- **2026-06-18T10:27:57.798Z** `ingest` plot.fanren-1101-dongxia-jizhan-shang — 第1101章 洞下激战（上）：韩立力斗白梦馨与青衫中年人 · kind=plot asOf=2026-06-18 entities=42 relations=57 src=01099-01104.md

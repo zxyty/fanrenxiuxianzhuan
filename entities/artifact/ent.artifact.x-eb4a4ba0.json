@@ -5,12 +5,13 @@
   "aliases": [
     "白色镜子",
     "宝镜",
-    "冷月镜"
+    "冷月镜",
+    "白镜"
   ],
   "summary": "白梦馨法宝，喷乳白光柱冰封万物，并可寄养灵虫（双尾人面蝎）。",
   "attributes": {
     "持有者": "白梦馨",
-    "能力": "乳白光柱冰封、寄养/释放灵虫"
+    "能力": "乳白光柱冰封、寄养/释放灵虫、冰封飞剑、射乳白光柱"
   },
   "observations": {
     "持有者": [
@@ -29,6 +30,16 @@
       {
         "value": "寄养/释放灵虫",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "冰封飞剑",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
+      },
+      {
+        "value": "射乳白光柱",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
       }
     ]
@@ -51,7 +62,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1099-1104-xuanyu-cave-battle"
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-15T09:47:06.084Z"
+  "updatedAt": "2026-06-18T10:27:57.186Z"
 }

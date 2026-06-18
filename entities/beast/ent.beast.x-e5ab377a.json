@@ -3,19 +3,26 @@
   "type": "beast",
   "name": "双尾人面蝎",
   "aliases": [
-    "双尾蝎"
+    "双尾蝎",
+    "人面蝎"
   ],
   "summary": "灵虫榜排名第29位灵虫，通体碧绿、双尾四翅、背有人面纹（尚为幼虫），被白梦馨以宝镜操控，终被噬金虫吞噬。",
   "attributes": {
-    "等级": "灵虫榜第29位",
-    "外形": "碧绿双尾四翅、背生人面纹",
-    "天敌": "噬金虫"
+    "等级": "灵虫榜第29位、灵虫榜第二十九位",
+    "外形": "碧绿双尾四翅、背生人面纹、通体碧绿、双尾、背四翅、背有人面纹",
+    "天敌": "噬金虫",
+    "能力": "四翅遁速极快、双毒尾化乌影护体"
   },
   "observations": {
     "等级": [
       {
         "value": "灵虫榜第29位",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "灵虫榜第二十九位",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
       }
     ],
@@ -24,12 +31,29 @@
         "value": "碧绿双尾四翅、背生人面纹",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "通体碧绿、双尾、背四翅、背有人面纹",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "天敌": [
       {
         "value": "噬金虫",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      }
+    ],
+    "能力": [
+      {
+        "value": "四翅遁速极快",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
+      },
+      {
+        "value": "双毒尾化乌影护体",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
       }
     ]
@@ -53,12 +77,19 @@
       "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
       "dated": false,
       "seq": 1099
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+      "dated": false,
+      "seq": 1099
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1099-1104-xuanyu-cave-battle"
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-15T09:47:06.099Z"
+  "updatedAt": "2026-06-18T10:27:57.252Z"
 }

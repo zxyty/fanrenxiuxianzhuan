@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-2d8ab769",
+  "type": "artifact",
+  "name": "玄冰剑",
+  "aliases": [],
+  "summary": "白梦馨本命法宝，本章被韩立所毁、仅收回近半，已无法驱出应敌。",
+  "attributes": {
+    "持有者": "白梦馨",
+    "禁制": "本章被毁仅收回近半"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "白梦馨",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
+      }
+    ],
+    "禁制": [
+      {
+        "value": "本章被毁仅收回近半",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
+      }
+    ]
+  },
+  "firstSeq": 1099,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+      "dated": false,
+      "seq": 1099
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+      "dated": false,
+      "seq": 1099
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1101-dongxia-jizhan-shang"
+  ],
+  "updatedAt": "2026-06-18T10:27:57.183Z"
+}

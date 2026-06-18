@@ -4,13 +4,15 @@
   "name": "玄玉令牌",
   "aliases": [
     "玄玉牌",
-    "玄玉牌子"
+    "玄玉牌子",
+    "玄玉令",
+    "不知名玄玉令牌"
   ],
   "summary": "寒骊上人法器，背刻口吐冰雪的冰麒麟图案，用以凝聚白色麒麟幻影并催动玄玉寒气。",
   "attributes": {
     "持有者": "寒骊上人",
-    "外形": "晶莹剔透、背铭冰麒麟",
-    "能力": "催动玄玉洞寒气"
+    "外形": "晶莹剔透、背铭冰麒麟、晶莹玉牌，背铭冰麒麟图案、玄玉令牌",
+    "能力": "催动玄玉洞寒气、催出白濛濛麒麟幻影"
   },
   "observations": {
     "持有者": [
@@ -25,12 +27,27 @@
         "value": "晶莹剔透、背铭冰麒麟",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "晶莹玉牌，背铭冰麒麟图案",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
+      },
+      {
+        "value": "玄玉令牌",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
+        "seq": 1099
       }
     ],
     "能力": [
       {
         "value": "催动玄玉洞寒气",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+        "seq": 1099
+      },
+      {
+        "value": "催出白濛濛麒麟幻影",
+        "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
       }
     ]
@@ -60,7 +77,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1099-1104-xuanyu-cave-battle",
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1101-dongxia-jizhan-shang"
   ],
-  "updatedAt": "2026-06-16T06:12:07.046Z"
+  "updatedAt": "2026-06-18T10:27:57.405Z"
 }
