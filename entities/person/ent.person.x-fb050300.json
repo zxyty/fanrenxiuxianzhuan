@@ -9,9 +9,11 @@
   "summary": "高阶鬼修，被封印于玄鬼令中，受美妇以同生咒制约，欲求解禁。",
   "attributes": {
     "种族": "鬼修",
-    "存殁": "存",
+    "存殁": "存、封印中",
     "小阶段": "元婴后期巅峰",
-    "称号": "黄泉鬼母"
+    "称号": "黄泉鬼母",
+    "性别": "女",
+    "身份": "鬼修"
   },
   "observations": {
     "种族": [
@@ -27,6 +29,11 @@
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093,
         "note": "被封印于玄鬼令中"
+      },
+      {
+        "value": "封印中",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ],
     "小阶段": [
@@ -41,6 +48,20 @@
         "value": "黄泉鬼母",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
+      }
+    ],
+    "身份": [
+      {
+        "value": "鬼修",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ]
   },
@@ -70,13 +91,26 @@
       "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
       "dated": false,
       "seq": 1117
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+      "dated": false,
+      "seq": 1093
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-15T10:22:05.158Z"
+  "updatedAt": "2026-06-18T10:03:53.942Z"
 }

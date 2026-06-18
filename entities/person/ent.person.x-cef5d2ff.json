@@ -4,7 +4,8 @@
   "name": "柳姓美妇",
   "aliases": [
     "姓柳的美妇",
-    "柳道友"
+    "柳道友",
+    "柳长老"
   ],
   "summary": "小极宫宫主，元婴级以上，端坐寒骊秘境调度弟子阻击妖兽并下令动用镇海钟。",
   "attributes": {
@@ -13,7 +14,8 @@
     "称号": "宫主",
     "外貌": "美妇",
     "阵营": "小极宫",
-    "小阶段": "元婴期"
+    "小阶段": "元婴后期",
+    "寿元": "修行约五六百年"
   },
   "observations": {
     "性别": [
@@ -61,6 +63,18 @@
         "value": "元婴期",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
+      }
+    ],
+    "寿元": [
+      {
+        "value": "修行约五六百年",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ]
   },
@@ -98,9 +112,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
       "dated": false,
-      "seq": 1087
+      "seq": 1093
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
@@ -108,7 +128,8 @@
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-18T10:00:34.546Z"
+  "updatedAt": "2026-06-18T10:03:53.940Z"
 }

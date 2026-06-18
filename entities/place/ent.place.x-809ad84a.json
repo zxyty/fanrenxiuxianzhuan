@@ -2,11 +2,13 @@
   "id": "ent.place.x-809ad84a",
   "type": "place",
   "name": "寒骊秘境",
-  "aliases": [],
+  "aliases": [
+    "骊秘境"
+  ],
   "summary": "小极宫冰壁之后的封闭山谷秘境，四季如春，高阶内宫弟子真正居所，中央有三座白玉大殿。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "秘境",
+    "类型": "封闭山谷秘境、秘境、宗门秘境",
     "特产": "四季如春、奇花异草"
   },
   "observations": {
@@ -32,6 +34,11 @@
         "value": "秘境",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "宗门秘境",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ],
     "特产": [
@@ -52,9 +59,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
-      "seq": 1093
+      "seq": 1075
     },
     "特产": {
       "asOf": null,
@@ -69,7 +76,8 @@
     "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
-    "plot.fanren-1075-1080-beiming-island-xiaojigong"
+    "plot.fanren-1075-1080-beiming-island-xiaojigong",
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-18T09:36:28.931Z"
+  "updatedAt": "2026-06-18T10:03:53.991Z"
 }

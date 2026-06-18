@@ -23,18 +23,19 @@
   "summary": "小极宫大长老，本名师相，身高三尺的蓝袍侏儒，元婴后期顶峰半步化神，欲借五种极寒之焰冲击化神，视韩立为苦寻的第五人。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴后期顶峰、元婴后期、冲击化神瓶颈、元婴(冲击化神期)、化神瓶颈（冲击中）",
+    "小阶段": "元婴后期顶峰、元婴后期、冲击化神瓶颈、元婴(冲击化神期)、化神瓶颈（冲击中）、元婴",
     "身份": "小极宫大长老、大长老、小极宫修士、小极宫大修士、前辈大修士",
     "称号": "寒骊上人、大长老、小极宫大长老",
     "外貌": "身高三尺、雪白长须的蓝袍侏儒、侏儒、三十许岁壮汉，要害插五短刃无血、三十余岁、三尺侏儒、雪白长须、蓝袍、侏儒身材",
-    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒、半步化神，徘徊此境三百年",
+    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒、半步化神，徘徊此境三百年、眉心六色莲花标记（突破中脱落爆裂）",
     "寿元": "仅剩寥寥数年、只剩寥寥数年、将近",
     "阵营": "小极宫",
     "存殁": "死亡",
     "死因": "元婴被韩立搜魂湮灭",
     "出身地": "小极宫",
     "道号": "寒骊上人",
-    "性格": "老奸巨猾、精明"
+    "性格": "老奸巨猾、精明",
+    "结局": "冲阶化神失败"
   },
   "observations": {
     "性别": [
@@ -70,6 +71,11 @@
         "value": "化神瓶颈（冲击中）",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ],
     "身份": [
@@ -179,6 +185,11 @@
         "value": "半步化神，徘徊此境三百年",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
+      },
+      {
+        "value": "眉心六色莲花标记（突破中脱落爆裂）",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ],
     "寿元": [
@@ -245,6 +256,13 @@
         "value": "老奸巨猾、精明",
         "docId": "plot.fanren-1081-1082-three-cold-flames",
         "seq": 1081
+      }
+    ],
+    "结局": [
+      {
+        "value": "冲阶化神失败",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+        "seq": 1093
       }
     ]
   },
@@ -329,6 +347,12 @@
       "docId": "plot.fanren-1081-1082-three-cold-flames",
       "dated": false,
       "seq": 1081
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
@@ -348,7 +372,8 @@
     "plot.fanren-1081-1082-three-cold-flames",
     "plot.fanren-ch1083-1085-bingning-shou-er-yao",
     "plot.fanren-1086-1087-hanyan-xulingdian",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-18T10:00:34.529Z"
+  "updatedAt": "2026-06-18T10:03:53.937Z"
 }

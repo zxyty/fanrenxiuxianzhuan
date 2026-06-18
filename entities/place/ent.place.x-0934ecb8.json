@@ -6,7 +6,7 @@
   "summary": "小极宫所在巨山之城，遭冰凤与妖魂傀儡弟子袭扰。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "城"
+    "类型": "城、城池"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +20,11 @@
       {
         "value": "城",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
         "seq": 1093
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-15T09:38:32.750Z"
+  "updatedAt": "2026-06-18T10:03:54.006Z"
 }
