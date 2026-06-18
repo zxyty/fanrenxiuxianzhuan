@@ -10,14 +10,15 @@
     "白色带翅小马",
     "火灵",
     "银翅太阳精火",
-    "太阳火灵"
+    "太阳火灵",
+    "sun true fire"
   ],
   "summary": "韩立欲探听线索的至阳之火。",
   "attributes": {
-    "类型": "至阳灵火、精火、至阳真灵之火、极火/异火、火灵/仙灵之焰、异火",
+    "类型": "至阳灵火、精火、至阳真灵之火、极火/异火、火灵/仙灵之焰、异火、真灵之火",
     "用途": "配制回阳水",
     "产地": "万丈熔岩之下、火狱、万丈熔岩深处",
-    "稀有度": "极稀"
+    "稀有度": "极稀有、极稀、极难得、人界三大真灵之火之一"
   },
   "observations": {
     "类型": [
@@ -50,6 +51,11 @@
         "value": "异火",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "真灵之火",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "用途": [
@@ -106,6 +112,11 @@
         "value": "极难得",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "人界三大真灵之火之一",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ]
   },
@@ -131,9 +142,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
       "dated": false,
-      "seq": 1237
+      "seq": 943
     }
   },
   "contested": false,
@@ -147,7 +158,8 @@
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T01:51:51.543Z"
+  "updatedAt": "2026-06-18T04:04:13.862Z"
 }

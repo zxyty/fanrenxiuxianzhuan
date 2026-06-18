@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "昆吾山中以七道紫色光柱、紫雾巨蟒、巨峰血蝠与幻术禁制布成的神妙大阵，被韩立等联手破除。",
   "attributes": {
-    "效果": "紫雾幻形、巨蟒/灵虫攻击、幻术禁制",
-    "破解法": "摧毁七道紫色光柱根部"
+    "效果": "紫雾幻形、巨蟒/灵虫攻击、幻术禁制、紫雾巨蟒、灵虫护阵、七光柱",
+    "破解法": "摧毁七道紫色光柱根部、毁尽七道光柱"
   },
   "observations": {
     "效果": [
@@ -24,12 +24,32 @@
         "value": "幻术禁制",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "紫雾巨蟒",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "灵虫护阵",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "七光柱",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "破解法": [
       {
         "value": "摧毁七道紫色光柱根部",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "毁尽七道光柱",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ]
@@ -52,7 +72,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.471Z"
+  "updatedAt": "2026-06-18T04:04:13.852Z"
 }

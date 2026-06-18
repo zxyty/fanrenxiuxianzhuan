@@ -2,11 +2,14 @@
   "id": "ent.place.x-44f3928f",
   "type": "place",
   "name": "化灵殿",
-  "aliases": [],
+  "aliases": [
+    "化灵殿石殿"
+  ],
   "summary": "铸灵堂内通体赤红的石殿，建于极品火池之上，殿内有自行进阶的巨鼎与火龙柱。",
   "attributes": {
-    "类型": "炼器/炼火殿堂",
-    "特产": "地火之精、火龙柱、太阴真火"
+    "类型": "炼器/炼火殿堂、炼器/锻炼殿",
+    "特产": "地火之精、火龙柱、太阴真火、地火、火龙柱、太阴真火",
+    "守护": "禁空禁制、火柱控制法阵"
   },
   "observations": {
     "类型": [
@@ -14,12 +17,34 @@
         "value": "炼器/炼火殿堂",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "炼器/锻炼殿",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "特产": [
       {
         "value": "地火之精、火龙柱、太阴真火",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "地火、火龙柱、太阴真火",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "守护": [
+      {
+        "value": "禁空禁制",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "火柱控制法阵",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ]
@@ -37,12 +62,19 @@
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.492Z"
+  "updatedAt": "2026-06-18T04:04:13.875Z"
 }

@@ -17,8 +17,9 @@
   "summary": "藏本命牌之殿，设有专克三妖的禁制。",
   "attributes": {
     "守护": "克制妖物的禁制、石林禁制大阵、光幕雷击禁制、山门万斤压身禁制、金磁灵木金磁重光禁制、北极元光、金磁灵木、北极元光、昆吾三老神念禁制",
-    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿",
-    "危险度": "极高（多重禁制）"
+    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿、石殿",
+    "危险度": "极高（多重禁制）",
+    "所属势力": "昆吾山封印"
   },
   "observations": {
     "守护": [
@@ -103,6 +104,11 @@
         "value": "大殿",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "石殿",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "危险度": [
@@ -110,6 +116,13 @@
         "value": "极高（多重禁制）",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "昆吾山封印",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ]
   },
@@ -132,6 +145,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
@@ -143,7 +162,8 @@
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-1113-yaoqi-chongtian",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T03:51:46.739Z"
+  "updatedAt": "2026-06-18T04:04:13.842Z"
 }

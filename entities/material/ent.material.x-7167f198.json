@@ -7,13 +7,14 @@
     "至阴真火",
     "太阴火鸟",
     "真火之灵",
-    "火鸟"
+    "火鸟",
+    "taiyin true fire"
   ],
   "summary": "得自火焰巨鼎的真火，韩立计划炼化以驱使应敌。",
   "attributes": {
-    "类型": "真火、真火/异火、极寒之焰、真灵之火（三大真灵之火之一）、灵火、至阴至寒真灵之火、真火/灵焰、灵焰",
-    "用途": "驱使应敌、克制玄玉寒气、兼容他火、幻化火鸦偷袭、吞噬玄玉寒气、炼制/培育成绝顶灵火、吞噬白气壮大灵性",
-    "稀有度": "极稀有",
+    "类型": "真火、真火/异火、极寒之焰、真灵之火（三大真灵之火之一）、灵火、至阴至寒真灵之火、真火/灵焰、灵焰、真灵之火",
+    "用途": "驱使应敌、克制玄玉寒气、兼容他火、幻化火鸦偷袭、吞噬玄玉寒气、炼制/培育成绝顶灵火、吞噬白气壮大灵性、炼化收用、可吞噬紫罗极火增威",
+    "稀有度": "极稀有、人界三大真灵之火之一",
     "产地": "铸灵堂"
   },
   "observations": {
@@ -57,6 +58,11 @@
         "value": "灵焰",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "真灵之火",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "用途": [
@@ -89,12 +95,22 @@
         "value": "吞噬白气壮大灵性",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "炼化收用、可吞噬紫罗极火增威",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "稀有度": [
       {
         "value": "极稀有",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "人界三大真灵之火之一",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ],
@@ -146,7 +162,8 @@
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T11:26:21.058Z"
+  "updatedAt": "2026-06-18T04:04:13.859Z"
 }

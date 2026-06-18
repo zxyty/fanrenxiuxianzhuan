@@ -6,15 +6,16 @@
     "巨鼎",
     "蓝色光鼎",
     "化灵殿巨鼎",
-    "火属性异宝鼎"
+    "火属性异宝鼎",
+    "朱红小鼎"
   ],
   "summary": "寒骊上人法宝，可喷乾蓝冰焰、放大为巨鼎，并与祭坛幻化的蓝色光鼎合二为一以激发巨鼎法阵。",
   "attributes": {
     "持有者": "寒骊上人",
-    "能力": "喷乾蓝冰焰、释放至阳火鸦、幻化地火之精、缩小随身",
+    "能力": "喷乾蓝冰焰、释放至阳火鸦、幻化地火之精、缩小随身、幻化至阳火鸦、蕴含地火之精",
     "五行属性": "冰",
-    "品阶": "火属性异宝",
-    "来历": "化灵殿极品火池地火淬炼自行进阶",
+    "品阶": "火属性异宝、火属性异宝(法器自行进阶)",
+    "来历": "化灵殿极品火池地火淬炼自行进阶、化灵殿万年地火淬炼自行成宝",
     "外形": "由六七丈巨鼎收为半尺朱红小鼎"
   },
   "observations": {
@@ -50,6 +51,16 @@
         "value": "缩小随身",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "幻化至阳火鸦",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "蕴含地火之精",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "五行属性": [
@@ -69,12 +80,22 @@
         "value": "火属性异宝",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "火属性异宝(法器自行进阶)",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "来历": [
       {
         "value": "化灵殿极品火池地火淬炼自行进阶",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "化灵殿万年地火淬炼自行成宝",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ],
@@ -129,7 +150,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.479Z"
+  "updatedAt": "2026-06-18T04:04:13.869Z"
 }

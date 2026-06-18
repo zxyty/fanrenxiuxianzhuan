@@ -7,7 +7,8 @@
   "attributes": {
     "种族": "玄岩龟",
     "等级": "十级",
-    "外形": "丑妇"
+    "外形": "丑妇",
+    "能力": "化形"
   },
   "observations": {
     "种族": [
@@ -31,6 +32,13 @@
         "seq": 1003,
         "note": "化形"
       }
+    ],
+    "能力": [
+      {
+        "value": "化形",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
     ]
   },
   "firstSeq": 1003,
@@ -53,12 +61,19 @@
       "dated": false,
       "seq": 1003,
       "note": "化形"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.435Z"
+  "updatedAt": "2026-06-18T04:04:13.788Z"
 }

@@ -7,8 +7,8 @@
   ],
   "summary": "银翅夜叉的本命之物，藏于昆吾殿，三妖谋夺之核心目标；持牌者可命令、追问妖物。",
   "attributes": {
-    "类型": "本命法器、本命法牌、本命牌（附部分精魂）、本命牌",
-    "用途": "掌控本命之妖、感应/控制持牌者圭灵、掌控妖兽性命"
+    "类型": "本命法器、本命法牌、本命牌（附部分精魂）、本命牌、本命之物",
+    "用途": "掌控本命之妖、感应/控制持牌者圭灵、掌控妖兽性命、妖物本命所系"
   },
   "observations": {
     "类型": [
@@ -31,6 +31,11 @@
         "value": "本命牌",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "本命之物",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "用途": [
@@ -48,6 +53,11 @@
         "value": "掌控妖兽性命",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "妖物本命所系",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ]
   },
@@ -70,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T04:59:45.006Z"
+  "updatedAt": "2026-06-18T04:04:13.804Z"
 }

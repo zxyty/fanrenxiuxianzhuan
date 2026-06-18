@@ -10,7 +10,7 @@
   "attributes": {
     "持有者": "七妙真人",
     "外形": "数丈灵龟壳状飞车",
-    "能力": "通过封印裂缝"
+    "能力": "通过封印裂缝、穿越裂缝禁制"
   },
   "observations": {
     "持有者": [
@@ -31,6 +31,11 @@
       {
         "value": "通过封印裂缝",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "穿越裂缝禁制",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ]
@@ -60,7 +65,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.467Z"
+  "updatedAt": "2026-06-18T04:04:13.845Z"
 }

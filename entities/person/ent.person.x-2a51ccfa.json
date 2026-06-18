@@ -7,21 +7,22 @@
   "attributes": {
     "性别": "女",
     "小阶段": "元婴初期",
-    "阵营": "化仙宗"
+    "阵营": "化仙宗",
+    "外貌": "秀丽动人"
   },
   "observations": {
     "性别": [
       {
         "value": "女",
         "docId": "plot.fanren-1009-yinpo-ningxing",
-        "seq": 1009
+        "seq": 1003
       }
     ],
     "小阶段": [
       {
         "value": "元婴初期",
         "docId": "plot.fanren-1009-yinpo-ningxing",
-        "seq": 1009
+        "seq": 1003
       }
     ],
     "阵营": [
@@ -29,34 +30,53 @@
         "value": "化仙宗",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "南疆化仙宗",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "外貌": [
+      {
+        "value": "秀丽动人",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ]
   },
-  "firstSeq": 1009,
+  "firstSeq": 1003,
   "attrProvenance": {
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
-      "seq": 1009
+      "seq": 1003
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
-      "seq": 1009
+      "seq": 1003
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T04:18:42.265Z"
+  "updatedAt": "2026-06-18T04:04:13.822Z"
 }

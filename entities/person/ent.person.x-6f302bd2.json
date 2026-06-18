@@ -13,7 +13,7 @@
   "attributes": {
     "阵营": "人界修士",
     "性别": "女",
-    "身份": "化仙宗师姐、化仙宗修士、化仙宗长老",
+    "身份": "化仙宗师姐、化仙宗修士、化仙宗长老、化仙宗高阶长老",
     "小阶段": "元婴",
     "性格": "淡然强硬",
     "出身地": "南疆化仙宗",
@@ -30,6 +30,11 @@
         "value": "人界修士",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "南疆化仙宗",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "性别": [
@@ -53,6 +58,11 @@
       {
         "value": "化仙宗长老",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "化仙宗高阶长老",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ],
@@ -87,6 +97,11 @@
         "value": "平凡面孔",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "姿容平常",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ]
   },
@@ -144,7 +159,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T04:59:45.001Z"
+  "updatedAt": "2026-06-18T04:04:13.821Z"
 }

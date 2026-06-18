@@ -6,12 +6,13 @@
     "蓝色晶碑",
     "晶碑",
     "缩小晶碑",
-    "蓝色长方晶碑"
+    "蓝色长方晶碑",
+    "蓝濛濛长方形物"
   ],
   "summary": "嵌于昆吾石碑中的深蓝长方晶石，表面有古符文碑文，被韩立取走。",
   "attributes": {
-    "类型": "古物/晶碑",
-    "用途": "未知古文铭刻",
+    "类型": "上古晶碑/碑文、古物/晶碑、古物异宝",
+    "用途": "镌刻古符文/碑文、未知古文铭刻、未知，刻有极古古文",
     "产地": "昆吾山"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "古物/晶碑",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "古物异宝",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
       }
     ],
     "用途": [
@@ -36,6 +42,11 @@
       {
         "value": "未知古文铭刻",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "未知，刻有极古古文",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ],
@@ -51,15 +62,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 1003
+      "seq": 991
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 1003
+      "seq": 991
     },
     "产地": {
       "asOf": null,
@@ -72,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.470Z"
+  "updatedAt": "2026-06-18T04:04:13.854Z"
 }

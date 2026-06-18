@@ -1,0 +1,41 @@
+{
+  "id": "ent.beast.x-f16ccb92",
+  "type": "beast",
+  "name": "树形妖物",
+  "aliases": [
+    "碧绿眼珠妖物"
+  ],
+  "summary": "潜伏巨树旁、神通极高的不知名妖物，能化树、遁地，三妖竟未能察觉它近在咫尺。",
+  "attributes": {
+    "能力": "化形为树、遁地"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "化形为树",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "遁地",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ]
+  },
+  "firstSeq": 1003,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1003-qunmo-yinxian"
+  ],
+  "updatedAt": "2026-06-18T04:04:13.791Z"
+}

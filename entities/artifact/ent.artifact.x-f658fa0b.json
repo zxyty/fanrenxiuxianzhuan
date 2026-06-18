@@ -13,10 +13,11 @@
   ],
   "summary": "三大灵梭之一，可在昆吾山裂缝中开路冒险通行。",
   "attributes": {
-    "能力": "裂缝开路通行、藏身、遁地、攻防一体、金银双梭合一为巨梭",
+    "能力": "裂缝开路通行、藏身、遁地、攻防一体、金银双梭合一为巨梭、合体载人遁行",
     "外形": "金银双梭",
     "持有者": "木夫人",
-    "品阶": "人界三大灵梭之一"
+    "品阶": "人界三大灵梭之一",
+    "来历": "三灵梭之一"
   },
   "observations": {
     "能力": [
@@ -38,6 +39,11 @@
       {
         "value": "金银双梭合一为巨梭",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "合体载人遁行",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ],
@@ -76,6 +82,13 @@
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
         "seq": 1021
       }
+    ],
+    "来历": [
+      {
+        "value": "三灵梭之一",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
     ]
   },
   "firstSeq": 1003,
@@ -103,6 +116,12 @@
       "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
       "dated": false,
       "seq": 1021
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
@@ -111,7 +130,8 @@
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo"
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T04:46:03.696Z"
+  "updatedAt": "2026-06-18T04:04:13.843Z"
 }

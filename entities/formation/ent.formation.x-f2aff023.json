@@ -5,13 +5,26 @@
   "aliases": [],
   "summary": "昔日人类修士封印三妖之阵。",
   "attributes": {
-    "效果": "囚禁灵物"
+    "效果": "囚禁灵物、囚禁妖灵",
+    "布置者": "古修"
   },
   "observations": {
     "效果": [
       {
         "value": "囚禁灵物",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "囚禁妖灵",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "布置者": [
+      {
+        "value": "古修",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ]
@@ -23,12 +36,19 @@
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.445Z"
+  "updatedAt": "2026-06-18T04:04:13.806Z"
 }

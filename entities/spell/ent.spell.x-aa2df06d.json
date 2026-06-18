@@ -6,7 +6,8 @@
   "summary": "古修打在三妖身上的咒术，使其神智全无、嗜血成狂。",
   "attributes": {
     "类型": "诅咒",
-    "威力": "夺神智致嗜血而狂"
+    "威力": "夺神智致嗜血而狂、致神智全失、嗜血狂化",
+    "出处": "古修"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,18 @@
       {
         "value": "夺神智致嗜血而狂",
         "docId": "plot.fanren-1003-qunmo-yinxian",
+        "seq": 1003
+      },
+      {
+        "value": "致神智全失、嗜血狂化",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
+    ],
+    "出处": [
+      {
+        "value": "古修",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.447Z"
+  "updatedAt": "2026-06-18T04:04:13.810Z"
 }

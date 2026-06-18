@@ -2,13 +2,16 @@
   "id": "ent.person.x-520f4229",
   "type": "person",
   "name": "徐姓大仙师",
-  "aliases": [],
+  "aliases": [
+    "天澜徐姓青年"
+  ],
   "summary": "天澜草原元婴后期大修士、清秀年轻男子；放出灵犀孔雀隔绝灵气为众人开路入封印。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴后期",
     "外貌": "清秀年轻男子",
-    "出身地": "天澜草原"
+    "出身地": "天澜草原",
+    "称号": "大仙师"
   },
   "observations": {
     "性别": [
@@ -38,6 +41,13 @@
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
       }
+    ],
+    "称号": [
+      {
+        "value": "大仙师",
+        "docId": "plot.fanren-ch1003-qunmo-yinxian",
+        "seq": 1003
+      }
     ]
   },
   "firstSeq": 1003,
@@ -65,12 +75,19 @@
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-16T03:59:21.455Z"
+  "updatedAt": "2026-06-18T04:04:13.827Z"
 }
