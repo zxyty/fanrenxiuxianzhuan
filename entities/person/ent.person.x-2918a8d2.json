@@ -6,7 +6,10 @@
   "summary": "众老怪中神通最大的化神修士，于昆吾山现世时入内后元神珠黯淡，疑重伤或被困。",
   "attributes": {
     "小阶段": "化神初期",
-    "存殁": "生死不明"
+    "存殁": "生死不明、死亡",
+    "性别": "男",
+    "身份": "化神修士",
+    "称号": "老不死中神通最大者"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +25,33 @@
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033,
         "note": "元神珠黯淡，疑重伤或被困禁制"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033,
+        "note": "据世界状态须知已于第1033章死亡；本章二人尚不知情"
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
+      }
+    ],
+    "身份": [
+      {
+        "value": "化神修士",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
+      }
+    ],
+    "称号": [
+      {
+        "value": "老不死中神通最大者",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
@@ -39,12 +69,31 @@
       "dated": false,
       "seq": 1033,
       "note": "元神珠黯淡，疑重伤或被困禁制"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.849Z"
+  "updatedAt": "2026-06-18T06:10:51.699Z"
 }

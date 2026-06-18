@@ -2,7 +2,9 @@
   "id": "ent.place.x-baca6de8",
   "type": "place",
   "name": "逆灵通道",
-  "aliases": [],
+  "aliases": [
+    "逆灵通道飞升"
+  ],
   "summary": "灵界借天地之力开辟的临时通道，送下界人妖后即不复存在，并无固定位置。",
   "attributes": {
     "所属界面": "灵界",
@@ -14,6 +16,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "类型": [
@@ -21,10 +28,15 @@
         "value": "临时通道",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "飞升通道",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
-  "firstSeq": 1063,
+  "firstSeq": 1033,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
@@ -42,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-16T06:03:53.117Z"
+  "updatedAt": "2026-06-18T06:10:51.706Z"
 }

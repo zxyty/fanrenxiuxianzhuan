@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "蕴含霸道火灵力的灵物，白老鬼生服以强行突破功法瓶颈，凶险极大。",
   "attributes": {
-    "类型": "火属性灵物",
-    "用途": "强行突破功法瓶颈",
+    "类型": "火属性灵物、火属性灵果",
+    "用途": "强行突破功法瓶颈、炼丹/生服突破瓶颈",
     "稀有度": "罕见"
   },
   "observations": {
@@ -15,12 +15,22 @@
         "value": "火属性灵物",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "火属性灵果",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "用途": [
       {
         "value": "强行突破功法瓶颈",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "炼丹/生服突破瓶颈",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ],
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.883Z"
+  "updatedAt": "2026-06-18T06:10:51.705Z"
 }

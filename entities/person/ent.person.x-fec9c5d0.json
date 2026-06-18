@@ -8,7 +8,8 @@
   "summary": "满面红光的元婴中期修士，因久候不得入裂缝而质问玄青子。",
   "attributes": {
     "小阶段": "元婴中期",
-    "外貌": "满面红光老者"
+    "外貌": "满面红光老者",
+    "阵营": "散修/小宗门一方"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +23,13 @@
       {
         "value": "满面红光老者",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "阵营": [
+      {
+        "value": "散修/小宗门一方",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ]
@@ -39,12 +47,19 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.847Z"
+  "updatedAt": "2026-06-18T06:10:51.677Z"
 }

@@ -9,8 +9,8 @@
   ],
   "summary": "束缚双首巨狼的上古锁链，内融纯阳白骨火，随巨狼变大而变粗，难以挣脱。",
   "attributes": {
-    "能力": "束缚古魔、封印圣族、困束圣族",
-    "禁制": "融纯阳白骨火",
+    "能力": "束缚古魔、封印圣族、困束圣族、缚束、燃焰焚身",
+    "禁制": "融纯阳白骨火、融有纯阳白骨火",
     "来历": "灵界流传、灵界",
     "外形": "碗口粗黑色锁链、乌黑锁链"
   },
@@ -30,12 +30,22 @@
         "value": "困束圣族",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "缚束、燃焰焚身",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "禁制": [
       {
         "value": "融纯阳白骨火",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "融有纯阳白骨火",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ],
@@ -95,7 +105,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:35:52.300Z"
+  "updatedAt": "2026-06-18T06:10:51.670Z"
 }

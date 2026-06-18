@@ -9,7 +9,7 @@
   "attributes": {
     "所属界面": "人界（大晋）",
     "所属势力": "太一门",
-    "类型": "灵脉"
+    "类型": "灵脉、大晋四大灵脉之一"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +30,11 @@
       {
         "value": "灵脉",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "大晋四大灵脉之一",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ]
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.856Z"
+  "updatedAt": "2026-06-18T06:10:51.685Z"
 }

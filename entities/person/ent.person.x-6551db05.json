@@ -13,8 +13,8 @@
   "summary": "被封昆吾山多年的古魔圣祖分魂，借五件魔器灌注魔气，化双首巨狼魔化脱困。",
   "attributes": {
     "种族": "古魔",
-    "身份": "圣祖分魂",
-    "外貌": "双首四臂",
+    "身份": "圣祖分魂、圣祖、古魔圣祖分魂",
+    "外貌": "双首四臂／双首巨狼(银狼)、双首四臂、黑色狼首巨狼",
     "标志特征": "双首四臂",
     "阵营": "魔道"
   },
@@ -41,6 +41,11 @@
         "value": "圣祖",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "古魔圣祖分魂",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "外貌": [
@@ -52,7 +57,7 @@
       {
         "value": "双首四臂",
         "docId": "plot.fanren-1039-hei-feng-qi",
-        "seq": 1039
+        "seq": 1033
       },
       {
         "value": "黑色狼首巨狼",
@@ -90,15 +95,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1033
+      "seq": 1015
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1039-hei-feng-qi",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1039
+      "seq": 1015
     },
     "标志特征": {
       "asOf": null,
@@ -119,7 +124,8 @@
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1039-hei-feng-qi",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:35:52.309Z"
+  "updatedAt": "2026-06-18T06:10:51.659Z"
 }

@@ -4,13 +4,14 @@
   "name": "灵龟飞车",
   "aliases": [
     "灵车",
-    "灵龟壳飞车"
+    "灵龟壳飞车",
+    "龟壳灵车"
   ],
   "summary": "七妙真人取出的灵龟壳状飞车，载二人飞入裂缝。",
   "attributes": {
     "持有者": "七妙真人",
-    "外形": "数丈灵龟壳状飞车",
-    "能力": "通过封印裂缝、穿越裂缝禁制"
+    "外形": "数丈灵龟壳状飞车、数丈龟壳状",
+    "能力": "通过封印裂缝、穿越裂缝禁制、飞行载人"
   },
   "observations": {
     "持有者": [
@@ -25,6 +26,11 @@
         "value": "数丈灵龟壳状飞车",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "数丈龟壳状",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "能力": [
@@ -37,6 +43,11 @@
         "value": "穿越裂缝禁制",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "飞行载人",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
@@ -66,7 +77,8 @@
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-ch1003-qunmo-yinxian"
+    "plot.fanren-ch1003-qunmo-yinxian",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T04:04:13.845Z"
+  "updatedAt": "2026-06-18T06:10:51.689Z"
 }

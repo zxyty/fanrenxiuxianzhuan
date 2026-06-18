@@ -500,3 +500,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T05:35:52.438Z** `update` plot.fanren-1015-jinci-lingmu — 第1015章 金磁灵木——韩立硬闯昆吾殿，三妖坐收渔利 · kind=plot asOf=2026-06-18 entities=56 relations=69 src=01015-01020.md
 - **2026-06-18T05:43:59.135Z** `ingest` plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo — 凡人修仙传 第1021-1026章｜阳环之威·降伏圭灵·劫杀乾老魔 · kind=plot asOf=2026-06-18 entities=34 relations=41 src=01021-01026.md
 - **2026-06-18T05:52:33.737Z** `update` plot.fanren-1027-1032-tongtian-lingbao-fanshi — 凡人修仙传 第1027-1032章：擒杀乾老魔、通天灵宝现世与魔刃疑云 · kind=plot asOf=2026-06-18 entities=44 relations=46 src=01027-01032.md
+- **2026-06-18T06:10:51.847Z** `ingest` plot.fanren-ch1033-pozhen-tuokun — 凡人修仙传 第1033章 破阵与脱困 · kind=plot asOf=2026-06-18 entities=74 relations=70 src=01033-01038.md

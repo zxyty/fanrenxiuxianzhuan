@@ -3,12 +3,14 @@
   "type": "beast",
   "name": "天奎神狼",
   "aliases": [
-    "天奎"
+    "天奎",
+    "天奎妖王"
   ],
   "summary": "灵界七大妖王之一，银月妖狼为其宠妃。",
   "attributes": {
     "等级": "灵界七大妖王之一",
-    "栖息地": "灵界"
+    "栖息地": "灵界",
+    "种族": "银月天狼"
   },
   "observations": {
     "等级": [
@@ -23,6 +25,13 @@
         "value": "灵界",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      }
+    ],
+    "种族": [
+      {
+        "value": "银月天狼",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:35:52.296Z"
+  "updatedAt": "2026-06-18T06:10:51.723Z"
 }

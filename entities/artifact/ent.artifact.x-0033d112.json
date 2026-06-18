@@ -8,7 +8,7 @@
   ],
   "summary": "仿制八灵尺炼成之宝，秀丽女子所持，对八灵尺或有奇效。",
   "attributes": {
-    "来历": "仿制八灵尺炼成",
+    "来历": "仿制八灵尺炼成、八灵尺仿制品、仿制八灵尺",
     "持有者": "秀丽女子",
     "品阶": "通天灵宝仿制品",
     "能力": "困敌幻化（幻化白莲等）、困敌、幻化白莲",
@@ -25,6 +25,11 @@
         "value": "八灵尺仿制品",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "仿制八灵尺",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "持有者": [
@@ -75,9 +80,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
-      "seq": 1033
+      "seq": 1009
     },
     "持有者": {
       "asOf": null,
@@ -111,7 +116,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-1014-huaxian-ernv",
-    "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo"
+    "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:43:58.991Z"
+  "updatedAt": "2026-06-18T06:10:51.668Z"
 }

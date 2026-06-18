@@ -8,8 +8,9 @@
   "summary": "与化仙宗有渊源的大修士，随时可赶到，木夫人倚为后援。",
   "attributes": {
     "阵营": "化仙宗（渊源）",
-    "存殁": "下落不明",
-    "身份": "化仙宗倚重的前辈"
+    "存殁": "死亡",
+    "身份": "化仙宗倚重的前辈",
+    "死因": "未述"
   },
   "observations": {
     "阵营": [
@@ -25,6 +26,11 @@
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009,
         "note": "木夫人忧其遇险"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "身份": [
@@ -32,6 +38,13 @@
         "value": "化仙宗倚重的前辈",
         "docId": "plot.fanren-1014-huaxian-ernv",
         "seq": 1009
+      }
+    ],
+    "死因": [
+      {
+        "value": "未述",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
@@ -45,16 +58,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
       "dated": false,
-      "seq": 1009,
-      "note": "木夫人忧其遇险"
+      "seq": 1033
     },
     "身份": {
       "asOf": null,
       "docId": "plot.fanren-1014-huaxian-ernv",
       "dated": false,
       "seq": 1009
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
@@ -62,7 +80,8 @@
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1014-huaxian-ernv"
+    "plot.fanren-1014-huaxian-ernv",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T04:54:08.573Z"
+  "updatedAt": "2026-06-18T06:10:51.661Z"
 }

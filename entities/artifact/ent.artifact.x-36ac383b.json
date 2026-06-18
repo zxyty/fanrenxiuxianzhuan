@@ -6,8 +6,8 @@
   "summary": "古魔界入侵时灵界修士带来、专门禁困高阶古魔的上古法器；七妙真人带来五只。",
   "attributes": {
     "品阶": "上古法器",
-    "来历": "灵界",
-    "能力": "禁困妖魔/制服高阶古魔",
+    "来历": "灵界、灵界流传，古魔界入侵时灵界修士带来",
+    "能力": "禁困妖魔/制服高阶古魔、禁困高阶妖魔/古魔",
     "持有者": "七妙真人"
   },
   "observations": {
@@ -23,12 +23,22 @@
         "value": "灵界",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "灵界流传，古魔界入侵时灵界修士带来",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "能力": [
       {
         "value": "禁困妖魔/制服高阶古魔",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "禁困高阶妖魔/古魔",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ],
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.874Z"
+  "updatedAt": "2026-06-18T06:10:51.687Z"
 }

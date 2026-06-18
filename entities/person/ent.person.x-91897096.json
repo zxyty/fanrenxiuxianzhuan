@@ -3,13 +3,15 @@
   "type": "person",
   "name": "呼某",
   "aliases": [
-    "呼兄"
+    "呼兄",
+    "满面病容灰袍老者"
   ],
   "summary": "来自魔陀山的化神初期修士，受风老怪所托欲赴昆吾山救向老鬼，为血气丹决意独行。",
   "attributes": {
     "小阶段": "化神初期",
     "出身地": "魔陀山",
-    "外貌": "满面病容灰袍老者"
+    "外貌": "满面病容灰袍老者、满面病容、灰袍",
+    "标志特征": "化绿光、视幻阵如无物"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +32,18 @@
       {
         "value": "满面病容灰袍老者",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "满面病容、灰袍",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化绿光、视幻阵如无物",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ]
@@ -53,12 +67,19 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.848Z"
+  "updatedAt": "2026-06-18T06:10:51.678Z"
 }

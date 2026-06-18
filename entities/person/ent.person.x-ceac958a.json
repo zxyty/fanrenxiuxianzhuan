@@ -9,19 +9,21 @@
     "七妙真人道友",
     "七妙道友",
     "七妙兄",
-    "七妙"
+    "七妙",
+    "天魔宗七妙真人"
   ],
   "summary": "天魔宗修士，玄青子须与其联手方可进入昆吾山封印。",
   "attributes": {
     "阵营": "正道",
     "身份": "宗门长老",
-    "称号": "魔道巨枭",
-    "外貌": "中年文士",
+    "称号": "魔道巨枭、七妙真人",
+    "外貌": "鹰钩鼻皂袍中年文士、中年文士、皂袍、鹰钩鼻中年文士",
     "性别": "男",
-    "标志特征": "擅长秘术、操使七件宝物、擅秘术",
+    "标志特征": "擅长秘术、操使七件宝物、擅秘术、大晋赫赫有名的魔道巨枭",
     "小阶段": "元婴",
     "存殁": "死亡",
-    "死因": "被空间裂缝斩杀吞没"
+    "死因": "被空间裂缝斩杀吞没",
+    "性格": "残酷狠辣"
   },
   "observations": {
     "阵营": [
@@ -73,6 +75,11 @@
         "value": "魔道巨枭",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "七妙真人",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "外貌": [
@@ -85,6 +92,11 @@
         "value": "中年文士",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "皂袍、鹰钩鼻中年文士",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "性别": [
@@ -109,6 +121,11 @@
         "value": "擅秘术",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "大晋赫赫有名的魔道巨枭",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "小阶段": [
@@ -116,6 +133,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "后期",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "存殁": [
@@ -130,6 +152,13 @@
         "value": "被空间裂缝斩杀吞没",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      }
+    ],
+    "性格": [
+      {
+        "value": "残酷狠辣",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ]
   },
@@ -155,9 +184,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
-      "seq": 1063
+      "seq": 1033
     },
     "性别": {
       "asOf": null,
@@ -188,6 +217,12 @@
       "docId": "plot.fanren-1063-xuanwo-heifengqi",
       "dated": false,
       "seq": 1063
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
@@ -201,7 +236,8 @@
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-ch1003-qunmo-yinxian"
+    "plot.fanren-ch1003-qunmo-yinxian",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:52:33.609Z"
+  "updatedAt": "2026-06-18T06:10:51.677Z"
 }

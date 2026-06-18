@@ -7,8 +7,8 @@
   ],
   "summary": "号称人界辟邪退魔第一等法阵，上古大战曾灭杀诸多上古妖魔；由八灵尺激发，升出九座祭坛、各竖十余丈金光巨刃。",
   "attributes": {
-    "效果": "辟邪退魔、灭杀妖魔、化九口金刀射金丝、金光禁制、幻妙天象囚敌、缠困古魔圣祖与珑梦妖妃、伏魔护殿、封印/镇压本妃",
-    "出处": "上古大战",
+    "效果": "辟邪退魔、灭杀妖魔、化九口金刀射金丝、金光禁制、幻妙天象囚敌、缠困古魔圣祖与珑梦妖妃、伏魔护殿、封印/镇压本妃、辟邪退魔、镇杀上古妖魔",
+    "出处": "上古大战、昆吾山虚天殿",
     "布置者": "上古人界修士",
     "破解法": "被黑风旗飓风摧毁"
   },
@@ -48,12 +48,22 @@
         "value": "封印/镇压本妃",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "辟邪退魔、镇杀上古妖魔",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "出处": [
       {
         "value": "上古大战",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "昆吾山虚天殿",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ],
@@ -109,7 +119,8 @@
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1039-hei-feng-qi",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-16T03:38:45.013Z"
+  "updatedAt": "2026-06-18T06:10:51.729Z"
 }

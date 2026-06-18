@@ -10,13 +10,26 @@
   ],
   "summary": "古魔圣祖催使的五件魔器，向双首巨狼喷注黑色魔气助其脱困。",
   "attributes": {
-    "能力": "灌注魔气助脱困"
+    "能力": "灌注魔气助脱困、灌注魔气、黑色光柱",
+    "持有者": "古魔圣祖"
   },
   "observations": {
     "能力": [
       {
         "value": "灌注魔气助脱困",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      },
+      {
+        "value": "灌注魔气、黑色光柱",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
+      }
+    ],
+    "持有者": [
+      {
+        "value": "古魔圣祖",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ]
@@ -28,12 +41,19 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.836Z"
+  "updatedAt": "2026-06-18T06:10:51.669Z"
 }

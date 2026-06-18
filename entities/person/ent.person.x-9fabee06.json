@@ -9,7 +9,8 @@
   "summary": "被封印于昆吾山的古魔圣祖分身，门内之意是尽量不伤其命、重新封印。",
   "attributes": {
     "种族": "古魔",
-    "存殁": "被封印"
+    "存殁": "被封印",
+    "身份": "古魔圣祖之分身/化身"
   },
   "observations": {
     "种族": [
@@ -23,6 +24,13 @@
       {
         "value": "被封印",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+        "seq": 1033
+      }
+    ],
+    "身份": [
+      {
+        "value": "古魔圣祖之分身/化身",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
     ]
@@ -40,12 +48,19 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun"
+    "plot.fanren-ch1033-poyzhen-yu-tuokun",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-15T07:10:25.850Z"
+  "updatedAt": "2026-06-18T06:10:51.680Z"
 }

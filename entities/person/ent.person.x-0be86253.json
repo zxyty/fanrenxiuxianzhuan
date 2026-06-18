@@ -18,7 +18,7 @@
   "summary": "毒圣门大长老，被珑梦附身夺舍，成为珑梦现世的躯壳。",
   "attributes": {
     "身份": "毒圣门长老",
-    "存殁": "被夺舍",
+    "存殁": "被夺舍、重伤/受制、躯体被夺舍",
     "小阶段": "元婴",
     "外貌": "脸带碧纹、蓝袍红巾、脸现碧纹、脸有碧纹、蓝袍红巾、脸上碧纹",
     "阵营": "魔道、毒圣门",
@@ -50,6 +50,12 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015,
         "note": "七窍流血、神色木然如死人"
+      },
+      {
+        "value": "躯体被夺舍",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033,
+        "note": "珑梦自第1033章占据"
       }
     ],
     "小阶段": [
@@ -138,10 +144,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1033,
-      "note": "珑梦附身占据其躯体"
+      "seq": 1015,
+      "note": "七窍流血、神色木然如死人"
     },
     "小阶段": {
       "asOf": null,
@@ -187,7 +193,8 @@
     "plot.fanren-991-zi-wu",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
     "plot.fanren-ch1003-qunmo-yinxian",
-    "plot.fanren-1010-xumi-wuxing-bi"
+    "plot.fanren-1010-xumi-wuxing-bi",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T05:35:52.292Z"
+  "updatedAt": "2026-06-18T06:10:51.716Z"
 }

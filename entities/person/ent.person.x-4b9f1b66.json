@@ -1,38 +1,26 @@
 {
-  "id": "ent.person.x-b9bb1d58",
+  "id": "ent.person.x-4b9f1b66",
   "type": "person",
-  "name": "白姓男子",
-  "aliases": [
-    "白老鬼",
-    "冰壁中男子",
-    "冰壁中人"
-  ],
-  "summary": "冰魂谷冰壁（冰棺）中的化神初期修士，三年前生服火精枣强行突破功法瓶颈，拒赴昆吾山。",
+  "name": "呼姓灰袍老者",
+  "aliases": [],
+  "summary": "魔陀山化神修士，为两枚血气丹独自前往昆吾山救援向老鬼。",
   "attributes": {
-    "小阶段": "化神初期",
-    "标志特征": "藏身冰壁/冰棺",
     "性别": "男",
+    "外貌": "灰袍老者",
     "身份": "化神修士",
-    "出身地": "冰魂谷"
+    "出身地": "魔陀山"
   },
   "observations": {
-    "小阶段": [
-      {
-        "value": "化神初期",
-        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-        "seq": 1033
-      }
-    ],
-    "标志特征": [
-      {
-        "value": "藏身冰壁/冰棺",
-        "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-        "seq": 1033
-      }
-    ],
     "性别": [
       {
         "value": "男",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰袍老者",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
@@ -46,7 +34,7 @@
     ],
     "出身地": [
       {
-        "value": "冰魂谷",
+        "value": "魔陀山",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
       }
@@ -54,19 +42,13 @@
   },
   "firstSeq": 1033,
   "attrProvenance": {
-    "小阶段": {
-      "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-      "dated": false,
-      "seq": 1033
-    },
-    "标志特征": {
-      "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-      "dated": false,
-      "seq": 1033
-    },
     "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1033-pozhen-tuokun",
+      "dated": false,
+      "seq": 1033
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-ch1033-pozhen-tuokun",
       "dated": false,
@@ -88,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-18T06:10:51.698Z"
+  "updatedAt": "2026-06-18T06:10:51.697Z"
 }

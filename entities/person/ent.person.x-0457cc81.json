@@ -13,13 +13,14 @@
     "银月族大公主",
     "昆吾被封印的女子",
     "那个东西",
-    "珑梦仙子"
+    "珑梦仙子",
+    "劈头散发人影"
   ],
   "summary": "银月狼族元神之一，与银月本为同一人『玲珑』分裂而成；附身夺舍毒圣门花天奇现身，瞳孔翠绿、发女子声。",
   "attributes": {
     "性别": "女",
-    "种族": "银月族",
-    "外貌": "浑身放出银芒",
+    "种族": "银月天狼/银月狼族、灵界妖族、银月族、银月天狼",
+    "外貌": "满脸碧纹、翠绿瞳孔的花天奇、浑身放出银芒、满脸碧纹的花天奇面孔、翠绿瞳孔",
     "阵营": "古魔界",
     "小阶段": "化神后期",
     "身份": "妖妃、残魂、花天奇、银月族大公主、玲珑的一部分、神念之躯主导神识",
@@ -51,6 +52,11 @@
         "value": "银月族",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069
+      },
+      {
+        "value": "银月天狼",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033
       }
     ],
     "外貌": [
@@ -65,6 +71,12 @@
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
         "seq": 1057,
         "note": "以花天奇躯体"
+      },
+      {
+        "value": "满脸碧纹的花天奇面孔、翠绿瞳孔",
+        "docId": "plot.fanren-ch1033-pozhen-tuokun",
+        "seq": 1033,
+        "note": "夺舍花天奇躯体"
       }
     ],
     "阵营": [
@@ -164,16 +176,16 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
-      "seq": 1069
+      "seq": 1033
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
-      "seq": 1057,
-      "note": "以花天奇躯体"
+      "seq": 1033,
+      "note": "夺舍花天奇"
     },
     "阵营": {
       "asOf": null,
@@ -223,7 +235,8 @@
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-ch1033-pozhen-tuokun"
   ],
-  "updatedAt": "2026-06-16T06:03:53.130Z"
+  "updatedAt": "2026-06-18T06:10:51.715Z"
 }
