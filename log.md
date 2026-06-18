@@ -481,3 +481,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T01:25:37.590Z** `ingest` plot.fmxxz-ch889-tianshui-river-green-bat — 凡人修仙传 第789章 巨幅：韩立护车队、提取苦毒、识破天水河、绿蝙现身 · kind=plot asOf=2026-06-18 entities=51 relations=66 src=00889-00894.md
 - **2026-06-18T01:43:27.226Z** `ingest` plot.fanren-ch925-dajin-imperial-family-ye-clan — 凡人修仙传 第925章：大晋皇族叶家与通天灵宝之谋 · kind=plot asOf=2026-06-18 entities=56 relations=69 src=00925-00930.md
 - **2026-06-18T01:51:51.685Z** `ingest` plot.fanren-943-948-zhayan-hansui-huiyangshui — 凡人修仙传 第943-948章：敲诈·寒髓·回阳水与太阳精火 · kind=plot asOf=2026-06-18 entities=48 relations=50 src=00943-00948.md
+- **2026-06-18T01:59:22.737Z** `ingest` plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong — 凡人修仙传 第949-954章｜妙音宝镜·九幽宗·地下交易会 · kind=plot asOf=2026-06-18 entities=41 relations=33 src=00949-00954.md

@@ -13,7 +13,8 @@
     "小阶段": "元婴后期",
     "阵营": "魔道",
     "身份": "血凄门大长老",
-    "性格": "霸道自负"
+    "性格": "霸道自负",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -43,6 +44,13 @@
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
+      }
     ]
   },
   "firstSeq": 949,
@@ -70,12 +78,19 @@
       "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
       "seq": 949
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:47.000Z"
+  "updatedAt": "2026-06-18T01:59:22.618Z"
 }

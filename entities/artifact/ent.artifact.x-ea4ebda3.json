@@ -6,9 +6,9 @@
   "summary": "土黄色四方小印，表面隐现金银色符文，通天灵宝仿制品，太一门所有；曾在地下拍卖会拍出天价。",
   "attributes": {
     "品阶": "通天灵宝仿制品",
-    "外形": "土黄色四方小印，隐现金银色符文",
-    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成",
-    "能力": "开山裂地、平山开地、灵气庞大",
+    "外形": "土黄色四方小印，隐现金银色符文、土黄色小印,表面浮现变化的金银色微型法阵、数寸土黄色温润小印，闪现金银色微型法阵",
+    "来历": "地下拍卖会拍出天价后落入太一门、三皇观炼制、叶家仿造掌天印炼制、叶家、三皇观各部件融合炼成、叶家耗百年炼制，仿造掌天印",
+    "能力": "开山裂地、平山开地、灵气庞大、超常发挥可达掌天印十之三威能（损宝）",
     "持有者": "叶家"
   },
   "observations": {
@@ -33,6 +33,11 @@
       {
         "value": "土黄色小印,表面浮现变化的金银色微型法阵",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "数寸土黄色温润小印，闪现金银色微型法阵",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -61,6 +66,11 @@
         "value": "三皇观各部件融合炼成",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "叶家耗百年炼制，仿造掌天印",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ],
     "能力": [
@@ -77,6 +87,11 @@
       {
         "value": "灵气庞大",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "超常发挥可达掌天印十之三威能（损宝）",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -98,9 +113,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
-      "seq": 1057
+      "seq": 949
     },
     "来历": {
       "asOf": null,
@@ -130,7 +145,8 @@
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
-    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-18T01:51:51.575Z"
+  "updatedAt": "2026-06-18T01:59:22.627Z"
 }

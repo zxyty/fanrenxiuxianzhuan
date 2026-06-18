@@ -2,11 +2,14 @@
   "id": "ent.faction.x-09160bf6",
   "type": "faction",
   "name": "血凄门",
-  "aliases": [],
+  "aliases": [
+    "血凄门一宗"
+  ],
   "summary": "魔道十宗之一的赫赫宗门，大长老坤无极为元婴后期。",
   "attributes": {
     "阵营": "魔道",
-    "等级": "魔道十宗之一"
+    "等级": "魔道十宗之一",
+    "所属界面": "人界（大晋）"
   },
   "observations": {
     "阵营": [
@@ -20,6 +23,13 @@
       {
         "value": "魔道十宗之一",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界（大晋）",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -37,12 +47,19 @@
       "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
       "seq": 949
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:47.003Z"
+  "updatedAt": "2026-06-18T01:59:22.623Z"
 }

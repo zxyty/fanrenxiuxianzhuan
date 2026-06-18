@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "阴年阴月阴日出生之人坟墓偶出，三百年成果，再以冤魂怨气秘术炼制四十九日；可服用亦可入药炼丹。",
   "attributes": {
-    "类型": "阴属性灵果",
-    "用途": "服用、炼丹材料",
+    "类型": "阴属性灵果、阴属灵果",
+    "用途": "服用、炼丹材料、直接服用、炼丹入药",
     "稀有度": "罕见"
   },
   "observations": {
@@ -14,6 +14,11 @@
       {
         "value": "阴属性灵果",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "阴属灵果",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -26,6 +31,16 @@
       {
         "value": "炼丹材料",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "直接服用",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
+      },
+      {
+        "value": "炼丹入药",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -61,7 +76,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:46.993Z"
+  "updatedAt": "2026-06-18T01:59:22.611Z"
 }

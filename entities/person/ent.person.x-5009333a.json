@@ -5,12 +5,15 @@
   "aliases": [
     "白霞中人影",
     "叶某",
-    "主持交换会者"
+    "主持交换会者",
+    "白光中人影",
+    "交换会主持人"
   ],
   "summary": "叶家修士，交换会主持人，亲自鉴定魔髓钻并用极品眩光晶换走一枚。",
   "attributes": {
     "身份": "交换会主持人",
-    "阵营": "叶家"
+    "阵营": "叶家",
+    "出身地": "大晋叶家"
   },
   "observations": {
     "身份": [
@@ -24,6 +27,13 @@
       {
         "value": "叶家",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      }
+    ],
+    "出身地": [
+      {
+        "value": "大晋叶家",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -41,12 +51,19 @@
       "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
       "seq": 949
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:47.001Z"
+  "updatedAt": "2026-06-18T01:59:22.620Z"
 }

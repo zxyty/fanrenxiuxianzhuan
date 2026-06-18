@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "极品炼材，直视会令人头晕目眩，韩立凑齐傀儡材料所需之一。",
   "attributes": {
-    "类型": "炼材",
-    "稀有度": "罕见"
+    "类型": "炼材、炼器材料",
+    "稀有度": "罕见、极稀有"
   },
   "observations": {
     "类型": [
@@ -14,12 +14,22 @@
         "value": "炼材",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ],
     "稀有度": [
       {
         "value": "罕见",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:47.011Z"
+  "updatedAt": "2026-06-18T01:59:22.626Z"
 }

@@ -5,16 +5,21 @@
   "aliases": [],
   "summary": "天地灵木玉橡树千年一产，制作奇门法宝、机关傀儡的最佳材料，韩立于交易会出价。",
   "attributes": {
-    "类型": "灵木产物",
-    "用途": "制奇门法宝、制机关傀儡",
+    "类型": "灵木产物、灵木胶质",
+    "用途": "制奇门法宝、制机关傀儡、制奇门法宝、机关傀儡",
     "产地": "玉橡树",
-    "稀有度": "罕见"
+    "稀有度": "罕见、千年一产"
   },
   "observations": {
     "类型": [
       {
         "value": "灵木产物",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "灵木胶质",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -27,6 +32,11 @@
       {
         "value": "制机关傀儡",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "制奇门法宝、机关傀儡",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -41,6 +51,11 @@
       {
         "value": "罕见",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "千年一产",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -75,7 +90,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:46.994Z"
+  "updatedAt": "2026-06-18T01:59:22.609Z"
 }

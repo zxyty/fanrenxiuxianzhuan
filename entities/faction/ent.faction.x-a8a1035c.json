@@ -4,12 +4,13 @@
   "name": "九幽宗",
   "aliases": [
     "九幽宗一宗",
-    "贵宗"
+    "贵宗",
+    "九幽宗一门"
   ],
   "summary": "富姓老者所属宗门，曾告知培婴丹炼化需时。",
   "attributes": {
     "阵营": "魔宗",
-    "等级": "魔道十大宗门之一",
+    "等级": "魔道十宗、十大魔宗之一、魔道十大宗门之一、魔道十宗之一",
     "镇派之宝": "紫幽珠（三大镇宗之宝之一）"
   },
   "observations": {
@@ -40,6 +41,11 @@
         "value": "魔道十大宗门之一",
         "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "魔道十宗之一",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ],
     "镇派之宝": [
@@ -60,9 +66,9 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
-      "seq": 997
+      "seq": 949
     },
     "镇派之宝": {
       "asOf": null,
@@ -82,7 +88,8 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-997-1002-kunwu-shan-qian-laomo",
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T04:59:44.976Z"
+  "updatedAt": "2026-06-18T01:59:22.603Z"
 }

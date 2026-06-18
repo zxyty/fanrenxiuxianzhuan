@@ -8,8 +8,8 @@
   "summary": "佛门净火宗高人，仅四百余年进阶元婴后期，公认万年一出之才，化神期候选。",
   "attributes": {
     "小阶段": "元婴后期",
-    "阵营": "佛门",
-    "身份": "净火宗修士"
+    "阵营": "佛门、佛门净火宗",
+    "身份": "净火宗修士、净火宗高僧"
   },
   "observations": {
     "小阶段": [
@@ -24,12 +24,22 @@
         "value": "佛门",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
         "seq": 949
+      },
+      {
+        "value": "佛门净火宗",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ],
     "身份": [
       {
         "value": "净火宗修士",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "净火宗高僧",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:46.985Z"
+  "updatedAt": "2026-06-18T01:59:22.597Z"
 }

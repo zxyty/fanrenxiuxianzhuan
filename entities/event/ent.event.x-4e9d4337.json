@@ -5,15 +5,16 @@
   "aliases": [
     "暗场交易会",
     "晋京地下交易会",
-    "地下交换会"
+    "地下交换会",
+    "元婴级以物易物交易会"
   ],
   "summary": "晋京十年拍卖会的暗场，由魔道邪宗主持、以物换物，多售修仙界明令禁止之物，需知根知底修士经引荐方可参加。",
   "attributes": {
-    "章节": "第949章",
+    "章节": "第938章、第949章、第949-951章",
     "地点": "晋京附近",
-    "参与方": "魔道邪宗、韩立、葛天豪、林银屏、知根知底的修士",
+    "参与方": "魔道邪宗、韩立、葛天豪、林银屏、知根知底的修士、元婴级修士、魔道相关修士",
     "起因": "晋京十年拍卖会一明一暗、晋京十年一次拍卖会分明暗两场",
-    "经过": "暗中以物换物，珍稀材料与明场错开一日、最珍稀材料拍卖与明场错开一日"
+    "经过": "暗中以物换物，珍稀材料与明场错开一日、最珍稀材料拍卖与明场错开一日、符箓+法阵屏蔽身份，灵石拍卖珍材后以物易物"
   },
   "observations": {
     "章节": [
@@ -25,6 +26,11 @@
       {
         "value": "第949章",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "第949-951章",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -65,6 +71,16 @@
         "value": "知根知底的修士",
         "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "元婴级修士",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
+      },
+      {
+        "value": "魔道相关修士",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ],
     "起因": [
@@ -89,6 +105,11 @@
         "value": "最珍稀材料拍卖与明场错开一日",
         "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "符箓+法阵屏蔽身份，灵石拍卖珍材后以物易物",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
       }
     ]
   },
@@ -96,9 +117,9 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-ch949-miaoyin-baojing",
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
-      "seq": 949
+      "seq": 937
     },
     "地点": {
       "asOf": null,
@@ -130,7 +151,8 @@
   "docs": [
     "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-ch949-miaoyin-baojing",
-    "plot.fanren-937-942-tianjige-jiezi-space"
+    "plot.fanren-937-942-tianjige-jiezi-space",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-17T17:07:59.043Z"
+  "updatedAt": "2026-06-18T01:59:22.608Z"
 }

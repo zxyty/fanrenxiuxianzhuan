@@ -7,7 +7,7 @@
   "attributes": {
     "类型": "炼器材料",
     "用途": "炼制玉质法宝",
-    "稀有度": "顶阶"
+    "稀有度": "顶阶、顶阶稀有"
   },
   "observations": {
     "类型": [
@@ -28,6 +28,11 @@
       {
         "value": "顶阶",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "顶阶稀有",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:47.010Z"
+  "updatedAt": "2026-06-18T01:59:22.625Z"
 }

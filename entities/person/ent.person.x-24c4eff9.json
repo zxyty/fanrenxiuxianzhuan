@@ -10,7 +10,8 @@
   "attributes": {
     "小阶段": "元婴后期",
     "身份": "大晋四大散修",
-    "称号": "四大散修最神秘者"
+    "称号": "四大散修最神秘者、大晋四大散修之一",
+    "性格": "神秘"
   },
   "observations": {
     "小阶段": [
@@ -31,6 +32,18 @@
       {
         "value": "四大散修最神秘者",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "大晋四大散修之一",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+        "seq": 949
+      }
+    ],
+    "性格": [
+      {
+        "value": "神秘",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ]
@@ -54,12 +67,19 @@
       "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
       "seq": 949
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+      "dated": false,
+      "seq": 949
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:46.984Z"
+  "updatedAt": "2026-06-18T01:59:22.596Z"
 }

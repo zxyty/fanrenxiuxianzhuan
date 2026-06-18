@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "赤日铁经三名结丹期以上火属性功法修士元神融合祭炼而成，炼制阴火法宝的罕见材料。",
   "attributes": {
-    "类型": "炼器材料",
+    "类型": "炼器材料、炼器灵材",
     "用途": "炼制阴火法宝",
     "稀有度": "罕见"
   },
@@ -14,6 +14,11 @@
       {
         "value": "炼器材料",
         "docId": "plot.fanren-ch949-miaoyin-baojing",
+        "seq": 949
+      },
+      {
+        "value": "炼器灵材",
+        "docId": "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
         "seq": 949
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch949-miaoyin-baojing"
+    "plot.fanren-ch949-miaoyin-baojing",
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
   ],
-  "updatedAt": "2026-06-16T02:23:46.994Z"
+  "updatedAt": "2026-06-18T01:59:22.610Z"
 }
