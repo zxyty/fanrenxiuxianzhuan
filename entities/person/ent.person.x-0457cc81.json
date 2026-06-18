@@ -26,7 +26,7 @@
     "小阶段": "化神后期",
     "身份": "妖妃、残魂、花天奇、银月族大公主、玲珑的一部分、神念之躯主导神识、元刹圣祖化身",
     "性格": "冷傲、恩怨分明",
-    "存殁": "存（沉睡）",
+    "存殁": "存（被封印）、存（沉睡）、残魂、存活、存(沉睡)",
     "标志特征": "声音悦耳娇柔、黑风旗、混沌开天空间神通、明眸罩血色、夺舍占据他人躯体",
     "称号": "本妃"
   },
@@ -195,6 +195,11 @@
         "value": "存活",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "存(沉睡)",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "标志特征": [
@@ -282,9 +287,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 1063
+      "seq": 991
     },
     "标志特征": {
       "asOf": null,
@@ -314,7 +319,8 @@
     "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
     "plot.fanren-ch1045-tun-ying",
     "plot.fanren-ch1051-chinian-zhenlei",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T08:17:02.712Z"
+  "updatedAt": "2026-06-18T09:20:51.000Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.person.x-17ef27c9",
   "type": "person",
   "name": "三首魔物",
-  "aliases": [],
+  "aliases": [
+    "三首魔"
+  ],
   "summary": "大头怪人所化的三首古魔，持六件兵器，本章认准七妙真人连续瞬移缠斗。",
   "attributes": {
     "身份": "三首古魔",
-    "标志特征": "三首、六件兵器"
+    "标志特征": "三首、六件兵器、三首、六件兵器",
+    "种族": "古魔"
   },
   "observations": {
     "身份": [
@@ -27,6 +30,19 @@
         "value": "六件兵器",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "三首、六件兵器",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
+    ],
+    "种族": [
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063,
+        "note": "由人类大头怪人被化为古魔"
       }
     ]
   },
@@ -44,12 +60,20 @@
       "docId": "plot.fanren-1063-xuanwo-heifengqi",
       "dated": false,
       "seq": 1063
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063,
+      "note": "由人类大头怪人被化为古魔"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-16T06:03:53.080Z"
+  "updatedAt": "2026-06-18T09:20:50.940Z"
 }

@@ -5,13 +5,26 @@
   "aliases": [],
   "summary": "上古撤离者点燃以通知灵界重开逆灵通道之香。",
   "attributes": {
-    "用途": "通知灵界开启逆灵通道"
+    "用途": "通知灵界开启逆灵通道、通知灵界重开逆灵通道",
+    "类型": "通讯灵物"
   },
   "observations": {
     "用途": [
       {
         "value": "通知灵界开启逆灵通道",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "通知灵界重开逆灵通道",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
+    ],
+    "类型": [
+      {
+        "value": "通讯灵物",
+        "docId": "plot.fanren-1063-xuanwo",
         "seq": 1063
       }
     ]
@@ -23,12 +36,19 @@
       "docId": "plot.fanren-1063-xuanwo-heifengqi",
       "dated": false,
       "seq": 1063
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-16T06:03:53.116Z"
+  "updatedAt": "2026-06-18T09:20:51.009Z"
 }

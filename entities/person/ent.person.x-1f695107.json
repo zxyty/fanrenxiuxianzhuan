@@ -25,11 +25,11 @@
     "种族": "突兀人",
     "小阶段": "元婴期",
     "身份": "天澜圣殿圣女、天澜圣女、天澜草原圣女、圣女",
-    "外貌": "美貌女子",
+    "外貌": "花容苍白",
     "称号": "仙子",
     "出身地": "天澜草原",
     "标志特征": "身中韩立所种禁制",
-    "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立、突兀人/天澜草原",
+    "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立、突兀人/天澜草原、韩立一方",
     "存殁": "存（被擒昏迷）、存"
   },
   "observations": {
@@ -106,6 +106,11 @@
         "value": "美貌女子",
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
+      },
+      {
+        "value": "花容苍白",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "称号": [
@@ -195,6 +200,11 @@
         "value": "突兀人/天澜草原",
         "docId": "plot.fanren-ch1045-tun-ying",
         "seq": 1045
+      },
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "存殁": [
@@ -239,9 +249,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "docId": "plot.fanren-1063-xuanwo",
       "dated": false,
-      "seq": 1051
+      "seq": 1063
     },
     "称号": {
       "asOf": null,
@@ -306,7 +316,8 @@
     "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
     "plot.fanren-ch1045-tun-ying",
     "plot.fanren-ch1051-chinian-zhenlei",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T08:17:02.738Z"
+  "updatedAt": "2026-06-18T09:20:51.002Z"
 }

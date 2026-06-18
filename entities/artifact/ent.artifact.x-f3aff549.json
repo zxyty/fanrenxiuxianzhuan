@@ -14,9 +14,9 @@
   ],
   "summary": "玲珑所持秘宝，漆黑浮现星光，可发吸力吸纳攻击；唯妖族七大妖王与人类三皇方有资格人手一只。",
   "attributes": {
-    "持有者": "韩立",
-    "能力": "吸纳晶芒/攻击、跨界穿越、抵消界力、吞噬攻击、开启逆灵通道、开辟逆星通道飞升灵界、瞬间传送目标、放出金色星辰之力、激发开启仅供一人通过的小型逆灵通道、隔界传送/返回灵界",
-    "外形": "漆黑圆盘、浮现星光、灵气浓密的圆盘、金色星光圆盘、尺许圆盘、印记，非实体、泛白光的圆盆",
+    "持有者": "玲珑、韩立、玲珑/银月、玲珑(银月)",
+    "能力": "吸纳晶芒/攻击、跨界穿越、抵消界力、吞噬攻击、开启逆灵通道、开辟逆星通道飞升灵界、瞬间传送目标、放出金色星辰之力、激发开启仅供一人通过的小型逆灵通道、隔界传送/返回灵界、涌出金色星辰星光、辅助解除幻妙天象封印",
+    "外形": "漆黑圆盘、浮现星光、灵气浓密的圆盘、金色星光圆盘、尺许圆盘、印记，非实体、泛白光的圆盆、直径尺许圆盘,裹胶质金光",
     "来历": "七大妖王与人类三皇专属、灵界秘宝、姜姓老者所赠、七大妖王与人类三皇各执一只"
   },
   "observations": {
@@ -30,6 +30,17 @@
         "value": "韩立",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "玲珑/银月",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063,
+        "note": "由银发女子催动"
+      },
+      {
+        "value": "玲珑(银月)",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "能力": [
@@ -82,6 +93,16 @@
         "value": "隔界传送/返回灵界",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "涌出金色星辰星光",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "辅助解除幻妙天象封印",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "外形": [
@@ -114,6 +135,11 @@
         "value": "泛白光的圆盆",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "直径尺许圆盘,裹胶质金光",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "来历": [
@@ -144,9 +170,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-ch1057-sanbao-lianshou",
       "dated": false,
-      "seq": 1513
+      "seq": 1057
     },
     "能力": {
       "asOf": null,
@@ -176,7 +202,8 @@
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T08:17:02.742Z"
+  "updatedAt": "2026-06-18T09:20:51.008Z"
 }

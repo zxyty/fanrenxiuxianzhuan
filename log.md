@@ -505,3 +505,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T06:54:22.460Z** `ingest` plot.fanren-ch1045-tun-ying — 凡人修仙传 第1045章 吞婴｜元刹圣祖吞噬三元婴、现双首银狼真身 · kind=plot asOf=2026-06-18 entities=36 relations=43 src=01045-01050.md
 - **2026-06-18T07:36:16.275Z** `ingest` plot.fanren-ch1051-chinian-zhenlei — 凡人修仙传 第1051章 叱念真雷 · kind=plot asOf=2026-06-18 entities=57 relations=67 src=01051-01056.md
 - **2026-06-18T08:17:02.859Z** `ingest` plot.fanren-1057-three-treasures-joint-attack — 凡人修仙传 第1057章 三宝联手对抗狼妖圣祖 · kind=plot asOf=2026-06-18 entities=49 relations=57 src=01057-01062.md
+- **2026-06-18T09:20:51.152Z** `ingest` plot.fanren-1063-xuanwo — 凡人修仙传 第1063章 漩涡——黑风旗引爆与众人逃遁 · kind=plot asOf=2026-06-18 entities=46 relations=66 src=01063-01068.md

@@ -8,7 +8,7 @@
   ],
   "summary": "封印记忆/灵识的秘术，仅封印有关小瓶的极少事情，需器灵配合，除非一方陨落或解除器灵身份否则不解。",
   "attributes": {
-    "效果": "永久封印特定记忆",
+    "效果": "永久封印特定记忆、封印特定记忆,极难破解",
     "修炼条件": "需器灵配合"
   },
   "observations": {
@@ -16,6 +16,11 @@
       {
         "value": "永久封印特定记忆",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
+        "seq": 1063
+      },
+      {
+        "value": "封印特定记忆,极难破解",
+        "docId": "plot.fanren-1063-xuanwo",
         "seq": 1063
       }
     ],
@@ -45,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-16T06:03:53.144Z"
+  "updatedAt": "2026-06-18T09:20:51.011Z"
 }

@@ -9,7 +9,7 @@
   "summary": "九真伏魔阵相关的幻境/囚困之地，元刹圣祖与珑梦融合后曾把闯入的化神期修士扔入其中。",
   "attributes": {
     "出处": "人界上古失传秘术",
-    "效果": "封入临时空间裂缝"
+    "效果": "封入临时空间裂缝、拉人入幻、损其神识、将人封入临时空间裂缝"
   },
   "observations": {
     "出处": [
@@ -34,6 +34,11 @@
         "value": "拉人入幻、损其神识",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "将人封入临时空间裂缝",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ]
   },
@@ -47,9 +52,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1063
+      "seq": 1015
     }
   },
   "contested": false,
@@ -58,7 +63,8 @@
     "plot.fanren-1039-hei-feng-qi",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T05:35:52.303Z"
+  "updatedAt": "2026-06-18T09:20:50.970Z"
 }

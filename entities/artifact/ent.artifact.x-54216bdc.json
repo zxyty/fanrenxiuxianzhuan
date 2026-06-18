@@ -24,11 +24,12 @@
   ],
   "summary": "镇压元刹圣祖的通天灵宝，需修通宝决方能驱使；元刹圣祖凭圣祖魔化神通灌注魔气暂时役使，抖旗可凝结空间。",
   "attributes": {
-    "品阶": "灵宝",
-    "能力": "凝结空间、空间类宝物、吞噬金光、催动黑风飓风/黄云银弧/风刃、刮起切割恶风、地下窜出黑色风柱、空间封印、操控飓风风柱、黑色风刃/挪移、结成禁制空间障壁、空间类、禁制封镇圣祖、催生吞噬空间漩涡、可冲击封印、空间神通/化黑洞、空间收纳、镇压封印者、化绝灵之地、黑色飓风、空间防御、风刃风柱、攻防一体狂风、混沌开天空间封印、黑色风刃绞杀、瞬移光柱、化乌黑蛟龙喷黑风、化黑蟒、化黑风球吞噬",
+    "品阶": "通天灵宝、灵宝、灵宝/通天灵宝",
+    "能力": "凝结空间、空间类宝物、吞噬金光、催动黑风飓风/黄云银弧/风刃、刮起切割恶风、地下窜出黑色风柱、空间封印、操控飓风风柱、黑色风刃/挪移、结成禁制空间障壁、空间类、禁制封镇圣祖、催生吞噬空间漩涡、可冲击封印、空间神通/化黑洞、空间收纳、镇压封印者、化绝灵之地、黑色飓风、空间防御、风刃风柱、攻防一体狂风、混沌开天空间封印、黑色风刃绞杀、瞬移光柱、化乌黑蛟龙喷黑风、化黑蟒、化黑风球吞噬、化风球与黑色漩涡、吸入白光致空间扭曲撕裂、空间神通、压缩漩涡成黑洞吞噬一切",
     "禁制": "需修通宝决驱使、需主人主持方有威力、束缚圣祖、需通宝决驱使",
-    "持有者": "元刹圣祖、古魔圣祖、黑袍女子、韩立、黑甲女子、珑梦、无主",
-    "外形": "黑旗、十余丈碗口粗巨旗，紫色符文黑气缭绕、乌黑巨旗、黑色风球/黑色巨蟒、小半截残骸、残破旗帜、紫色符文流转黑气缭绕巨旗、蛟龙般乌蟒/黑风"
+    "持有者": "元刹圣祖、古魔圣祖、黑袍女子、韩立、黑甲女子、珑梦、无主、元刹圣祖分神、魔魂",
+    "外形": "黑旗、十余丈碗口粗巨旗，紫色符文黑气缭绕、乌黑巨旗、黑色风球/黑色巨蟒、小半截残骸、残破旗帜、紫色符文流转黑气缭绕巨旗、蛟龙般乌蟒/黑风",
+    "来历": "元刹圣祖分神引爆"
   },
   "observations": {
     "品阶": [
@@ -42,6 +43,11 @@
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063,
         "note": "残缺，仅余小半截"
+      },
+      {
+        "value": "灵宝/通天灵宝",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "能力": [
@@ -184,6 +190,26 @@
         "value": "化黑风球吞噬",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "化风球与黑色漩涡",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "吸入白光致空间扭曲撕裂",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "空间神通",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "压缩漩涡成黑洞吞噬一切",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "禁制": [
@@ -244,6 +270,16 @@
         "value": "无主",
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
+      },
+      {
+        "value": "元刹圣祖分神",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "魔魂",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "外形": [
@@ -288,16 +324,22 @@
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
       }
+    ],
+    "来历": [
+      {
+        "value": "元刹圣祖分神引爆",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
     ]
   },
   "firstSeq": 1009,
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
-      "seq": 1063,
-      "note": "残缺，仅余小半截"
+      "seq": 1009
     },
     "能力": {
       "asOf": null,
@@ -322,6 +364,12 @@
       "docId": "plot.fanren-1039-hei-feng-qi",
       "dated": false,
       "seq": 1039
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
@@ -341,7 +389,8 @@
     "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
     "plot.fanren-ch1045-tun-ying",
     "plot.fanren-ch1051-chinian-zhenlei",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T08:17:02.748Z"
+  "updatedAt": "2026-06-18T09:20:50.983Z"
 }

@@ -23,7 +23,9 @@
     "性别": "女",
     "小阶段": "接近元婴后期顶峰、近元婴后期顶峰",
     "标志特征": "丑脸、巨大术化巨人、银色巨斧、妖兽之身、可怕妖气、血红战甲、银色巨斧、青色战甲、银色巨斧·独角巨虎幻影、银色巨斧、虎怪虚影、巨斧、银芒",
-    "阵营": "韩立一方"
+    "阵营": "韩立一方",
+    "存殁": "死亡",
+    "死因": "被空间裂缝吞噬"
   },
   "observations": {
     "外貌": [
@@ -200,6 +202,20 @@
         "seq": 1027,
         "note": "新被收服"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
+    ],
+    "死因": [
+      {
+        "value": "被空间裂缝吞噬",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
     ]
   },
   "firstSeq": 1003,
@@ -247,6 +263,18 @@
       "dated": false,
       "seq": 1027,
       "note": "新被收服"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
@@ -265,7 +293,8 @@
     "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
     "plot.fanren-ch1045-tun-ying",
     "plot.fanren-ch1051-chinian-zhenlei",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T08:17:02.738Z"
+  "updatedAt": "2026-06-18T09:20:50.963Z"
 }

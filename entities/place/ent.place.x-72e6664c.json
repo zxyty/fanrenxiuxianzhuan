@@ -13,9 +13,9 @@
   ],
   "summary": "昆吾山中的镇魔塔，八层宫殿前布有石傀儡大阵，韩立在此破阵。",
   "attributes": {
-    "类型": "塔/禁制、封闭秘境空间、镇压塔、封印阵眼、封印秘塔、封魔之塔、镇魔巨塔、古修镇压妖魔的倒建之塔、秘塔、镇压秘塔、封印禁地、上古镇压之塔、镇魔塔、封印塔",
+    "类型": "塔/禁制、封闭秘境空间、镇压塔、封印阵眼、封印秘塔、封魔之塔、镇魔巨塔、古修镇压妖魔的倒建之塔、秘塔、镇压秘塔、封印禁地、上古镇压之塔、镇魔塔、封印塔、镇魔法塔、塔层大厅、封印层",
     "所属势力": "昆吾山",
-    "危险度": "下层关押强大妖魔",
+    "危险度": "极高(充满真魔气)",
     "守护": "阴魄凝形恶鬼、乌影蛇、鬼王、禁制、传送阵、晶墙、通天灵宝隔离、黑风旗禁制、镇压极强魔气、镇压之妖魔、上古护宝大阵与石傀儡、镇压魔物、鬼王分身恶鬼、封镇强大魔气、巨型大阵与白玉金甲石傀儡、石傀儡大阵、封印古魔圣祖"
   },
   "observations": {
@@ -89,6 +89,21 @@
         "value": "封印塔",
         "docId": "plot.fanren-ch1051-chinian-zhenlei",
         "seq": 1051
+      },
+      {
+        "value": "镇魔法塔",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "塔层大厅",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      },
+      {
+        "value": "封印层",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "所属势力": [
@@ -118,6 +133,11 @@
         "value": "下层关押强大妖魔",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "极高(充满真魔气)",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "守护": [
@@ -209,9 +229,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-1063-xuanwo",
       "dated": false,
-      "seq": 1027
+      "seq": 1063
     },
     "守护": {
       "asOf": null,
@@ -236,7 +256,8 @@
     "plot.fanren-1014-huaxian-ernv",
     "plot.fanren-ch1033-pozhen-tuokun",
     "plot.fanren-ch1045-tun-ying",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T07:36:16.157Z"
+  "updatedAt": "2026-06-18T09:20:50.992Z"
 }

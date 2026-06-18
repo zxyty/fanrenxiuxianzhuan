@@ -7,7 +7,8 @@
   ],
   "summary": "加固昆吾山封印的备用之宝，下落由昆吾三老另一脉后人掌握，藏于意想不到之处。",
   "attributes": {
-    "用途": "备用加固封印"
+    "用途": "唤出昆吾山备用镇魔法阵",
+    "类型": "上古碑石"
   },
   "observations": {
     "用途": [
@@ -15,6 +16,18 @@
         "value": "备用加固封印",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "唤出昆吾山备用镇魔法阵",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
+      }
+    ],
+    "类型": [
+      {
+        "value": "上古碑石",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ]
   },
@@ -22,9 +35,15 @@
   "attrProvenance": {
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-1063-xuanwo",
       "dated": false,
-      "seq": 1009
+      "seq": 1063
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1063-xuanwo",
+      "dated": false,
+      "seq": 1063
     }
   },
   "contested": false,
@@ -32,7 +51,8 @@
   "docs": [
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1014-huaxian-ernv"
+    "plot.fanren-1014-huaxian-ernv",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T04:54:08.581Z"
+  "updatedAt": "2026-06-18T09:20:51.006Z"
 }

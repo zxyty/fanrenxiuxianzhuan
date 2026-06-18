@@ -18,17 +18,18 @@
     "向某",
     "向师祖",
     "向老怪",
-    "笑嘻嘻老者"
+    "笑嘻嘻老者",
+    "小眼老者"
   ],
   "summary": "黄枫谷仅十一层功法的滑头老者，欲拉拢低微弟子结盟自保，被韩立拒绝。",
   "attributes": {
     "小阶段": "炼气期十一层、炼气期十层、化神、疑似化神期、化神期",
-    "身份": "天符门长老",
+    "身份": "黄枫谷弟子、弱者联盟倡导者、护法、慕兰大上师、天符门低阶弟子、大晋修士前辈、化神修士、天符门长老、镇魔塔相关知情修士",
     "性格": "沉稳、重长远利益",
-    "外貌": "面容苍老、两眼细小",
+    "外貌": "黄衫老者、黄衫无须老者、与二百多年前几无变化的老者、笑嘻嘻圆滑老者、满头白发、满脸皱纹、两眼细小、圆滑老者、面容苍老、两眼细小、一脸圆滑、小眼老者",
     "阵营": "大晋",
     "结局": "被幻妙天象卷走沉睡数月",
-    "标志特征": "表面炼气期一层为幻术，真实境界探不出",
+    "标志特征": "曾被封入幻妙天象",
     "性别": "男",
     "出身地": "西灵山",
     "存殁": "死亡"
@@ -104,6 +105,11 @@
         "value": "天符门长老",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "镇魔塔相关知情修士",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "性格": [
@@ -173,6 +179,11 @@
         "value": "面容苍老、两眼细小",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "一脸圆滑、小眼老者",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "阵营": [
@@ -190,6 +201,11 @@
         "value": "大晋",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "人类修士",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "结局": [
@@ -210,6 +226,11 @@
         "value": "表面炼气期一层为幻术，真实境界探不出",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
+      },
+      {
+        "value": "曾被封入幻妙天象",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "性别": [
@@ -224,6 +245,11 @@
         "value": "西灵山",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-1063-xuanwo",
+        "seq": 1063
       }
     ],
     "存殁": [
@@ -251,9 +277,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-ch170-zhanlipin",
       "dated": false,
-      "seq": 1255
+      "seq": 169
     },
     "性格": {
       "asOf": null,
@@ -263,9 +289,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "docId": "plot.fanren-187-192-zhu-sha-feng-yue-de-wu-xue",
       "dated": false,
-      "seq": 1231
+      "seq": 187
     },
     "阵营": {
       "asOf": null,
@@ -282,9 +308,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "docId": "plot.fanren-1063-xuanwo",
       "dated": false,
-      "seq": 955
+      "seq": 1063
     },
     "性别": {
       "asOf": null,
@@ -323,7 +349,8 @@
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-1063-xuanwo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.719Z"
+  "updatedAt": "2026-06-18T09:20:51.001Z"
 }
