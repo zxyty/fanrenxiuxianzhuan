@@ -23,18 +23,20 @@
     "凌玉灵道友",
     "凌玉灵此女",
     "白衣宫装女子",
-    "凌玉灵仙子"
+    "凌玉灵仙子",
+    "凌兄"
   ],
   "summary": "星宫外事执法，绝美而男女难辨，修炼阴性驻颜功法，持天香索护身。",
   "attributes": {
     "性别": "莫辨、男、女、不明",
-    "身份": "星宫外事执法、星宫长老、天星双圣爱女、星宫长老、星宫意属的下任掌控者、星宫宫主、星宫之主、天星双圣之女、星宫修士、星宫主事/长老",
-    "称号": "护法、凌护法",
-    "外貌": "白衫乌发及肩、翠绿嵌玉头带、绝美无喉结、娇艳女子（女装）、淡绿宫装、玉容娇媚、貌美娇媚、乌发及肩、翠绿嵌玉头带、艳美中性",
-    "小阶段": "元婴",
+    "身份": "星宫外事执法、星宫长老、天星双圣爱女、星宫长老、星宫意属的下任掌控者、星宫宫主、星宫之主、天星双圣之女、星宫修士、星宫主事/长老、星宫执事、星宫继承人",
+    "称号": "护法、凌护法、淩长老",
+    "外貌": "白衫乌发及肩、翠绿嵌玉头带、绝美无喉结、娇艳女子（女装）、淡绿宫装、玉容娇媚、貌美娇媚、乌发及肩、翠绿嵌玉头带、艳美中性、脸如白玉、娇媚绝色却不带脂粉气息，难辨男女",
+    "小阶段": "元婴初期、元婴期、元婴中期、元婴",
     "标志特征": "容貌娇媚似女子",
     "阵营": "乱星海",
-    "出身地": "星宫"
+    "出身地": "星宫",
+    "性格": "心思缜密、待人热切"
   },
   "observations": {
     "性别": [
@@ -52,7 +54,7 @@
       {
         "value": "女",
         "docId": "plot.fanren-1131-jidan",
-        "seq": 1129
+        "seq": 1123
       },
       {
         "value": "不明",
@@ -106,6 +108,16 @@
         "value": "星宫主事/长老",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "星宫执事",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
+      },
+      {
+        "value": "星宫继承人",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
       }
     ],
     "称号": [
@@ -118,6 +130,11 @@
         "value": "凌护法",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "淩长老",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
       }
     ],
     "外貌": [
@@ -146,18 +163,24 @@
         "value": "乌发及肩、翠绿嵌玉头带、艳美中性",
         "docId": "plot.fanren-ch499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "脸如白玉、娇媚绝色却不带脂粉气息，难辨男女",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
       }
     ],
     "小阶段": [
       {
         "value": "元婴初期",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
-        "seq": 1123
+        "seq": 1123,
+        "note": "刚凝结元婴，拟数十年后强助突破中期"
       },
       {
         "value": "元婴期",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
-        "seq": 1153,
+        "seq": 1123,
         "note": "尚需进阶后期"
       },
       {
@@ -196,6 +219,13 @@
         "docId": "plot.fanren-1131-jidan",
         "seq": 1129
       }
+    ],
+    "性格": [
+      {
+        "value": "心思缜密、待人热切",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
+      }
     ]
   },
   "firstSeq": 499,
@@ -227,9 +257,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
-      "seq": 1213
+      "seq": 1123,
+      "note": "刚凝结元婴，拟数十年后强助突破中期"
     },
     "标志特征": {
       "asOf": null,
@@ -248,6 +279,12 @@
       "docId": "plot.fanren-1131-jidan",
       "dated": false,
       "seq": 1129
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
@@ -262,7 +299,8 @@
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
   ],
-  "updatedAt": "2026-06-17T06:06:07.754Z"
+  "updatedAt": "2026-06-18T11:23:46.487Z"
 }

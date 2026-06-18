@@ -5,13 +5,16 @@
   "aliases": [
     "甘道友",
     "甘姓中年人",
-    "黄沙门大长老"
+    "黄沙门大长老",
+    "双目灰白中年人"
   ],
   "summary": "黄沙门大长老，元婴初期，双目灰白如瞎子；热情接待并交易韩立，认出其虚天鼎身份后选择封山自保、绝不外泄。",
   "attributes": {
     "小阶段": "元婴初期",
     "身份": "黄沙门大长老",
-    "标志特征": "双目灰白、状若瞎子"
+    "标志特征": "双目灰白、状若瞎子",
+    "外貌": "瞳孔灰白的中年人",
+    "性格": "谨慎、恭谨"
   },
   "observations": {
     "小阶段": [
@@ -32,6 +35,20 @@
       {
         "value": "双目灰白、状若瞎子",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "外貌": [
+      {
+        "value": "瞳孔灰白的中年人",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎、恭谨",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
         "seq": 1123
       }
     ]
@@ -55,12 +72,25 @@
       "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
       "seq": 1123
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "dated": false,
+      "seq": 1123
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1123-1128-houqi-chucheng"
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
   ],
-  "updatedAt": "2026-06-15T10:30:15.438Z"
+  "updatedAt": "2026-06-18T11:23:46.286Z"
 }

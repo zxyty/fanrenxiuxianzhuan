@@ -2,11 +2,14 @@
   "id": "ent.place.x-d57a51d6",
   "type": "place",
   "name": "苦门岛",
-  "aliases": [],
+  "aliases": [
+    "苦门岛屿"
+  ],
   "summary": "乱星海大型岛屿，由黄沙门独占，建有数座凡人城市；离天星城较近、离魁星岛较远。",
   "attributes": {
     "所属势力": "黄沙门",
-    "类型": "海岛"
+    "类型": "海岛",
+    "所属界面": "人界·乱星海"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +23,13 @@
       {
         "value": "海岛",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界·乱星海",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
         "seq": 1123
       }
     ]
@@ -37,12 +47,19 @@
       "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
       "seq": 1123
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1123-1128-houqi-chucheng"
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
   ],
-  "updatedAt": "2026-06-15T10:30:15.447Z"
+  "updatedAt": "2026-06-18T11:23:46.325Z"
 }

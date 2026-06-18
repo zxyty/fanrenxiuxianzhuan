@@ -12,15 +12,16 @@
     "天星城城门",
     "天星城方向",
     "天星城圣山",
-    "天星城洞府"
+    "天星城洞府",
+    "天星双圣城"
   ],
   "summary": "乱星海第一大城，星宫首城，依圣山盘旋而建，自由开放并设通往外星海的传送阵。",
   "attributes": {
     "所属势力": "星宫",
-    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛、城池/海域核心、巨城",
+    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛、城池/海域核心、巨城、城池/势力据点、大城",
     "特产": "妖丹、拍卖收购行",
     "守护": "禁制护城、执法队格杀勿论",
-    "所属界面": "人界乱星海",
+    "所属界面": "乱星海、乱星海内海、乱星海(内星海)、人界、乱星海（内星海）、人界乱星海、天南/乱星海、人界·乱星海",
     "危险度": "高（两方大战）"
   },
   "observations": {
@@ -116,6 +117,16 @@
         "value": "巨城",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      },
+      {
+        "value": "城池/势力据点",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
+      },
+      {
+        "value": "大城",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
       }
     ],
     "特产": [
@@ -182,6 +193,11 @@
         "value": "天南/乱星海",
         "docId": "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
         "seq": 673
+      },
+      {
+        "value": "人界·乱星海",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+        "seq": 1123
       }
     ],
     "危险度": [
@@ -220,9 +236,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "docId": "plot.fanren-ch392-yuchong",
       "dated": false,
-      "seq": 1213
+      "seq": 391
     },
     "危险度": {
       "asOf": null,
@@ -258,7 +274,8 @@
     "plot.fanren-ch505-510-escape-to-outer-star-sea",
     "plot.fanren-523-528-zhenjia-chongmo",
     "plot.fanren-535-540-mishi-wen-siyue",
-    "plot.fanren-672-677-tiantiancheng-yuanying-exchange"
+    "plot.fanren-672-677-tiantiancheng-yuanying-exchange",
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
   ],
-  "updatedAt": "2026-06-17T10:06:57.382Z"
+  "updatedAt": "2026-06-18T11:23:46.517Z"
 }

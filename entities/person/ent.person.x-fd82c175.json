@@ -10,7 +10,8 @@
   "attributes": {
     "性别": "女",
     "小阶段": "结丹期",
-    "标志特征": "二十五六岁、肌肤白腻的大美女"
+    "标志特征": "二十五六岁、肌肤白腻的大美女",
+    "外貌": "二十五六、脸如温玉的美女"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,13 @@
       {
         "value": "二十五六岁、肌肤白腻的大美女",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+        "seq": 1123
+      }
+    ],
+    "外貌": [
+      {
+        "value": "二十五六、脸如温玉的美女",
+        "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
         "seq": 1123
       }
     ]
@@ -54,12 +62,19 @@
       "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
       "dated": false,
       "seq": 1123
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "dated": false,
+      "seq": 1123
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1123-1128-houqi-chucheng"
+    "plot.fanren-ch1123-1128-houqi-chucheng",
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
   ],
-  "updatedAt": "2026-06-15T10:30:15.477Z"
+  "updatedAt": "2026-06-18T11:23:46.500Z"
 }
