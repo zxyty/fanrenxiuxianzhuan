@@ -12,9 +12,10 @@
   ],
   "summary": "韩立防御法宝，被珑梦一击砸出数寸深凹痕。",
   "attributes": {
-    "持有者": "韩立",
-    "能力": "防御、化银色光罩防御、幻化凝厚光盾防御、盾面如镜反射光球攻击、凝光罩护身、消弭并反弹部分攻击、护罩防御",
-    "外形": "银色小盾，可化丈许"
+    "持有者": "韩立、人形傀儡（韩立）、人形傀儡",
+    "能力": "防御、化银色光罩防御、幻化凝厚光盾防御、盾面如镜反射光球攻击、凝光罩护身、消弭并反弹部分攻击、护罩防御、幻化数倍大小光盾、反射敌方光球、盾面光滑如镜弹回攻击",
+    "外形": "银色小盾、银色小盾，可化丈许、巴掌大银盾，可涨为银色巨盾、银光闪闪小盾、银盾,可幻化白濛濛大光盾",
+    "来历": "韩立本体炼化,参照人形傀儡特点新炼制"
   },
   "observations": {
     "持有者": [
@@ -26,6 +27,11 @@
       {
         "value": "人形傀儡（韩立）",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "人形傀儡",
+        "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ],
@@ -64,6 +70,21 @@
         "value": "护罩防御",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "幻化数倍大小光盾",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "反射敌方光球",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "盾面光滑如镜弹回攻击",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "外形": [
@@ -86,6 +107,18 @@
         "value": "银光闪闪小盾",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "银盾,可幻化白濛濛大光盾",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "来历": [
+      {
+        "value": "韩立本体炼化,参照人形傀儡特点新炼制",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -93,9 +126,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
-      "seq": 1015
+      "seq": 967
     },
     "能力": {
       "asOf": null,
@@ -105,9 +138,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
-      "seq": 1147
+      "seq": 967
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -120,7 +159,8 @@
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-16T06:03:53.138Z"
+  "updatedAt": "2026-06-18T02:40:25.610Z"
 }

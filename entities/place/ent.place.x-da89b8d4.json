@@ -9,7 +9,7 @@
     "守护": "木灵卫",
     "特产": "桑木茶、乌凤之翎、乌凤凤翎、天桑神树",
     "所属界面": "人界",
-    "类型": "海外仙岛"
+    "类型": "海岛"
   },
   "observations": {
     "所属势力": [
@@ -65,6 +65,11 @@
         "value": "海外仙岛",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -96,16 +101,17 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "docId": "plot.fanren-967-kuzhu-laoren",
       "dated": false,
-      "seq": 961
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:23:33.535Z"
+  "updatedAt": "2026-06-18T02:40:25.619Z"
 }

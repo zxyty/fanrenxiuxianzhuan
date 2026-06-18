@@ -10,10 +10,10 @@
   ],
   "summary": "人形傀儡所用法宝，射出漫天炙热火矢，威能不下顶阶古宝。",
   "attributes": {
-    "能力": "射赤红火矢",
-    "持有者": "人形傀儡（韩立）",
-    "来历": "赤火蛟灵骨灵筋仿制穿蛟弓而成",
-    "外形": "弓臂呈蛟龙形、鳞片清晰，可由数寸涨为正常弓箭"
+    "能力": "射赤红火矢、蓄发相当元婴后期庞大灵力，威力在穿蛟弓之上、放火矢、一次动用相当元婴后期灵力、赤焰金弧交融、威力在穿蛟弓之上",
+    "持有者": "人形傀儡（韩立）、人形傀儡",
+    "来历": "赤火蛟灵骨灵筋仿制穿蛟弓而成、韩立仿穿蛟弓,以赤火蛟灵骨灵筋炼制",
+    "外形": "弓臂呈蛟龙形、鳞片清晰，可由数寸涨为正常弓箭、弓臂蛟龙形、鳞片清晰,可涨缩"
   },
   "observations": {
     "能力": [
@@ -31,12 +31,32 @@
         "value": "放火矢",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "一次动用相当元婴后期灵力",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "赤焰金弧交融",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "威力在穿蛟弓之上",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "持有者": [
       {
         "value": "人形傀儡（韩立）",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "人形傀儡",
+        "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ],
@@ -45,12 +65,22 @@
         "value": "赤火蛟灵骨灵筋仿制穿蛟弓而成",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
         "seq": 967
+      },
+      {
+        "value": "韩立仿穿蛟弓,以赤火蛟灵骨灵筋炼制",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "外形": [
       {
         "value": "弓臂呈蛟龙形、鳞片清晰，可由数寸涨为正常弓箭",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "弓臂蛟龙形、鳞片清晰,可涨缩",
+        "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ]
@@ -59,9 +89,9 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
-      "seq": 1099
+      "seq": 967
     },
     "持有者": {
       "asOf": null,
@@ -87,7 +117,8 @@
   "docs": [
     "plot.fanren-1099-1104-xuanyu-cave-battle",
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-16T06:03:53.141Z"
+  "updatedAt": "2026-06-18T02:40:25.613Z"
 }

@@ -5,15 +5,18 @@
   "aliases": [
     "苦竹",
     "苦竹岛主",
-    "苦竹道友"
+    "苦竹道友",
+    "苦竹岛之主"
   ],
   "summary": "苦竹岛岛主，元婴中期顶峰，精通飞剑剑阵神通；外貌为驻颜有术的白发少年，斗法败于韩立傀儡后交出乌凤之翎。",
   "attributes": {
-    "小阶段": "元婴中期顶峰",
-    "身份": "苦竹岛主",
-    "外貌": "绿袍白发、面容如少年",
-    "标志特征": "驻颜有术、精通飞剑剑阵",
-    "性别": "男"
+    "小阶段": "元婴中期顶峰、元婴中期、元婴期",
+    "身份": "苦竹岛主、天桑神树之岛岛主、苦竹岛之主",
+    "外貌": "白发如雪、唇红齿白、形如十六七岁少年（面罩淡绿气）、绿袍白发、面容如少年、白发如雪却唇红齿白、貌若十六七岁少年",
+    "标志特征": "驻颜有术、精通飞剑剑阵、面罩淡淡绿气、驻颜有术",
+    "性别": "男",
+    "称号": "苦竹老人",
+    "阵营": "海外、大晋"
   },
   "observations": {
     "小阶段": [
@@ -26,6 +29,11 @@
         "value": "元婴中期",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "身份": [
@@ -33,6 +41,16 @@
         "value": "苦竹岛主",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
         "seq": 961
+      },
+      {
+        "value": "天桑神树之岛岛主",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "苦竹岛之主",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "外貌": [
@@ -45,6 +63,11 @@
         "value": "绿袍白发、面容如少年",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "白发如雪却唇红齿白、貌若十六七岁少年",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "标志特征": [
@@ -52,13 +75,37 @@
         "value": "驻颜有术、精通飞剑剑阵",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
         "seq": 967
+      },
+      {
+        "value": "面罩淡淡绿气、驻颜有术",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
-        "seq": 1231
+        "seq": 967
+      }
+    ],
+    "称号": [
+      {
+        "value": "苦竹老人",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "阵营": [
+      {
+        "value": "海外",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -66,9 +113,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 967
+      "seq": 961
     },
     "身份": {
       "asOf": null,
@@ -78,9 +125,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
-      "seq": 1231
+      "seq": 967
     },
     "标志特征": {
       "asOf": null,
@@ -92,7 +139,19 @@
       "asOf": null,
       "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
       "dated": false,
-      "seq": 1231
+      "seq": 967
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -100,7 +159,8 @@
   "docs": [
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
     "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
-    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:23:33.521Z"
+  "updatedAt": "2026-06-18T02:40:25.609Z"
 }

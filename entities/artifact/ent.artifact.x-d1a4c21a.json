@@ -23,7 +23,8 @@
     "三色火鸟",
     "三焰羽扇",
     "三色光焰",
-    "七焰扇仿制"
+    "七焰扇仿制",
+    "三焰扇仿制品"
   ],
   "summary": "韩立所持通天灵宝（疑仿七焰扇），喷三色火焰可熔解障壁，本章仅发三四成威力，仍难破古魔禁制。",
   "attributes": {
@@ -33,7 +34,7 @@
     "外形": "三色巨扇、金银红三色符文流转、三色羽扇、扇、数寸羽扇，金银红三色、符纹层叠、金银红三色灵芒羽扇、宝扇",
     "五行属性": "火",
     "来历": "韩立搜集材料自炼、仿制七焰扇、疑七焰扇仿制、灵宝仿制品、大衍神君删改七焰扇炼法所得、需昊阳鸟长翎、赤火蛟鳞片等材料炼制",
-    "禁制": "催使吸扯大半法力"
+    "禁制": "需天地人三真火炼料、催使吸扯大半法力、需天、地、人三真火炼料"
   },
   "observations": {
     "品阶": [
@@ -306,6 +307,11 @@
         "value": "催使吸扯大半法力",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
+      },
+      {
+        "value": "需天、地、人三真火炼料",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -350,9 +356,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
-      "seq": 985
+      "seq": 967
     }
   },
   "contested": false,
@@ -387,7 +393,8 @@
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T01:59:22.629Z"
+  "updatedAt": "2026-06-18T02:40:25.668Z"
 }

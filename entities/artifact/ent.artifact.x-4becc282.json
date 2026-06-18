@@ -1,43 +1,38 @@
 {
-  "id": "ent.material.x-955a9be5",
-  "type": "material",
-  "name": "冰玉",
+  "id": "ent.artifact.x-4becc282",
+  "type": "artifact",
+  "name": "五行罩",
   "aliases": [],
-  "summary": "炼器材料，与玄晶合炼成附阴寒之气的寒晶刃。",
+  "summary": "傀儡可用五行玉激发的护罩法宝，大衍神君称其威力不在元罡盾之下，本章未实测。",
   "attributes": {
-    "类型": "寒属性灵材",
-    "用途": "辅修阴寒功法"
+    "持有者": "人形傀儡",
+    "能力": "防御护罩,以五行玉激发"
   },
   "observations": {
-    "类型": [
+    "持有者": [
       {
-        "value": "炼器材料",
-        "docId": "plot.fanren-ch350-instant-kill",
-        "seq": 349
-      },
-      {
-        "value": "寒属性灵材",
+        "value": "人形傀儡",
         "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ],
-    "用途": [
+    "能力": [
       {
-        "value": "辅修阴寒功法",
+        "value": "防御护罩,以五行玉激发",
         "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ]
   },
-  "firstSeq": 349,
+  "firstSeq": 967,
   "attrProvenance": {
-    "类型": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-967-kuzhu-laoren",
       "dated": false,
       "seq": 967
     },
-    "用途": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-967-kuzhu-laoren",
       "dated": false,
@@ -47,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch350-instant-kill",
     "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:40:25.673Z"
+  "updatedAt": "2026-06-18T02:40:25.617Z"
 }

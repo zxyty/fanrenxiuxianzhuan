@@ -9,9 +9,10 @@
   ],
   "summary": "乌凤尾部长翎，晶莹红光如炽焰，火属性炼器材料，可增强三焰扇；本支灵性已流失大半。",
   "attributes": {
-    "类型": "灵禽尾翎、火属性灵羽",
+    "类型": "灵禽尾翎、火属性灵羽、灵禽羽翎/炼制材料",
     "用途": "炼器（增强三焰扇威力）、炼制傀儡相关、炼器材料（强化三焰扇）、强化三焰扇",
-    "稀有度": "极稀有"
+    "稀有度": "极稀有",
+    "产地": "苦竹岛"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
         "value": "火属性灵羽",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      },
+      {
+        "value": "灵禽羽翎/炼制材料",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "用途": [
@@ -54,6 +60,13 @@
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
       }
+    ],
+    "产地": [
+      {
+        "value": "苦竹岛",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
     ]
   },
   "firstSeq": 925,
@@ -75,6 +88,12 @@
       "docId": "plot.fanren-ch925-dajin-huangzu",
       "dated": false,
       "seq": 925
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -82,7 +101,8 @@
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T01:43:27.070Z"
+  "updatedAt": "2026-06-18T02:40:25.617Z"
 }

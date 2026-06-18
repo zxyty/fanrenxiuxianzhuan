@@ -4,14 +4,15 @@
   "name": "天桑神树",
   "aliases": [
     "桑神树",
-    "紫濛濛奇异桑树"
+    "紫濛濛奇异桑树",
+    "天桑神树灵树"
   ],
   "summary": "苦竹岛核心灵树，号称仅次于三大神木的灵树，同根而生，可借其威训练木灵卫、灵叶可泡桑木茶。",
   "attributes": {
     "类型": "灵树",
-    "用途": "训练木灵卫、灵叶泡制桑木茶、万木大阵阵眼",
+    "用途": "训练木灵卫、灵叶泡制桑木茶、万木大阵阵眼、制桑木茶、助修木灵卫合击功法",
     "产地": "苦竹岛",
-    "稀有度": "仅次于三大神木的灵树"
+    "稀有度": "仅次于三大神木的灵树、仅次于三大神木"
   },
   "observations": {
     "类型": [
@@ -41,6 +42,16 @@
         "value": "万木大阵阵眼",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "制桑木茶",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "助修木灵卫合击功法",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "产地": [
@@ -54,6 +65,11 @@
       {
         "value": "仅次于三大神木的灵树",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      },
+      {
+        "value": "仅次于三大神木",
+        "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ]
@@ -89,7 +105,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:23:33.534Z"
+  "updatedAt": "2026-06-18T02:40:25.598Z"
 }

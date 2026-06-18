@@ -6,11 +6,13 @@
     "南疆之地",
     "南疆中部",
     "南疆无名小湖",
-    "南疆本地"
+    "南疆本地",
+    "大晋南疆"
   ],
   "summary": "大晋南方区域，封印之事搅得人心惶惶。",
   "attributes": {
-    "类型": "地域"
+    "类型": "地域",
+    "特产": "毒草毒虫"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,18 @@
         "value": "地域",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "毒系宗门聚集地",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "特产": [
+      {
+        "value": "毒草毒虫",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -33,6 +47,12 @@
       "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
       "seq": 991
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -43,7 +63,8 @@
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-16T03:59:21.465Z"
+  "updatedAt": "2026-06-18T02:40:25.676Z"
 }

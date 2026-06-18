@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "苦竹老人识得的著名弓形法宝，用蛟龙之筋炼制；雷火弓即仿其而造，威力更胜之。",
   "attributes": {
-    "来历": "蛟龙之筋炼制"
+    "来历": "蛟龙之筋炼制",
+    "外形": "弓形法宝"
   },
   "observations": {
     "来历": [
       {
         "value": "蛟龙之筋炼制",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+        "seq": 967
+      }
+    ],
+    "外形": [
+      {
+        "value": "弓形法宝",
+        "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
       "dated": false,
       "seq": 967
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua"
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-16T02:56:45.317Z"
+  "updatedAt": "2026-06-18T02:40:25.614Z"
 }

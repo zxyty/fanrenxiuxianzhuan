@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "助益元婴的丹药，韩立已取得。",
   "attributes": {
-    "功效": "助元婴进阶、服后修为大进、洗炼壮大元婴、一次性洗髓易经、凝练元婴/助突破、结婴/培育元婴相关、助修士结婴/培育元婴、助突破元婴后期",
-    "适用境界": "元婴期",
+    "功效": "助元婴进阶、服后修为大进、洗炼壮大元婴、一次性洗髓易经、凝练元婴/助突破、结婴/培育元婴相关、助修士结婴/培育元婴、助突破元婴后期、助元婴修士突破瓶颈",
+    "适用境界": "元婴",
     "主料": "阴芝马",
     "炼制者": "富姓老者",
     "副作用": "药性大、需闭关半年炼化"
@@ -52,13 +52,18 @@
         "value": "助突破元婴后期",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "助元婴修士突破瓶颈",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "适用境界": [
       {
         "value": "元婴期",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
-        "seq": 991
+        "seq": 967
       },
       {
         "value": "元婴",
@@ -71,13 +76,18 @@
         "value": "阴芝马",
         "docId": "plot.fanren-ch973-minghe-zhiye",
         "seq": 973
+      },
+      {
+        "value": "地阴芝马血肉",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ],
     "炼制者": [
       {
         "value": "富姓老者",
         "docId": "plot.fanren-ch973-minghe-zhiye",
-        "seq": 973
+        "seq": 967
       }
     ],
     "副作用": [
@@ -88,19 +98,19 @@
       }
     ]
   },
-  "firstSeq": 973,
+  "firstSeq": 967,
   "attrProvenance": {
     "功效": {
       "asOf": null,
-      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "docId": "plot.fanren-967-kuzhu-laoren",
       "dated": false,
-      "seq": 973
+      "seq": 967
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 991
+      "seq": 979
     },
     "主料": {
       "asOf": null,
@@ -112,7 +122,7 @@
       "asOf": null,
       "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
-      "seq": 973
+      "seq": 967
     },
     "副作用": {
       "asOf": null,
@@ -130,7 +140,8 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-16T07:03:34.638Z"
+  "updatedAt": "2026-06-18T02:40:25.669Z"
 }

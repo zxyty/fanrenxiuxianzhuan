@@ -5,12 +5,16 @@
   "aliases": [
     "潮云府",
     "双蝎山",
-    "南疆郡"
+    "南疆郡",
+    "双蝎山主峰"
   ],
   "summary": "富姓老者约韩立四年后相见之地（双蝎山为约见其他道友处）。",
   "attributes": {
     "所属界面": "大晋皇朝",
-    "类型": "府郡、山岳/会面点"
+    "类型": "府郡、山岳/会面点、瘴气毒山",
+    "所属势力": "南疆",
+    "特产": "铁尾蝎、红线蝎、毒草",
+    "危险度": "高（瘴气、毒虫）"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +34,42 @@
         "value": "山岳/会面点",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "瘴气毒山",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "特产": [
+      {
+        "value": "铁尾蝎",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "红线蝎",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      },
+      {
+        "value": "毒草",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（瘴气、毒虫）",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
       }
     ]
   },
@@ -46,13 +86,32 @@
       "docId": "plot.fanren-955-zaiyu-gumo",
       "dated": false,
       "seq": 955
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.fanren-955-zaiyu-gumo"
+    "plot.fanren-955-zaiyu-gumo",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:11:21.111Z"
+  "updatedAt": "2026-06-18T02:40:25.676Z"
 }

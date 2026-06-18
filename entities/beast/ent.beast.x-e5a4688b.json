@@ -13,7 +13,8 @@
     "栖息地": "苦竹岛",
     "主人": "苦竹老人",
     "能力": "火属性灵禽",
-    "等级": "七级"
+    "等级": "七级",
+    "外形": "灵禽"
   },
   "observations": {
     "种族": [
@@ -72,6 +73,13 @@
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
+    ],
+    "外形": [
+      {
+        "value": "灵禽",
+        "docId": "plot.fanren-967-kuzhu-laoren",
+        "seq": 967
+      }
     ]
   },
   "firstSeq": 925,
@@ -111,6 +119,12 @@
       "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
       "seq": 961
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-967-kuzhu-laoren",
+      "dated": false,
+      "seq": 967
     }
   },
   "contested": false,
@@ -119,7 +133,8 @@
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
-    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+    "plot.fanren-967-kuzhu-laoren"
   ],
-  "updatedAt": "2026-06-18T02:23:33.530Z"
+  "updatedAt": "2026-06-18T02:40:25.596Z"
 }
