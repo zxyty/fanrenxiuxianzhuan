@@ -16,9 +16,9 @@
   "attributes": {
     "种族": "上古妖修",
     "小阶段": "化神",
-    "身份": "万妖谷高层、万妖谷谷主、化身现为幼童、万妖谷之主",
+    "身份": "万妖谷高层、万妖谷谷主、化身现为幼童、万妖谷之主、妖修化身",
     "阵营": "万妖谷",
-    "标志特征": "万妖幡",
+    "标志特征": "万妖幡、万妖幡、魔天爪、乌黑铁盾、胸前银锁、灰色小幡、持万妖幡",
     "外貌": "头扎三只冲天小辫、胸挂银锁的幼童",
     "称号": "老妖",
     "存殁": "存活",
@@ -75,6 +75,12 @@
         "value": "万妖谷之主",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "妖修化身",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111,
+        "note": "化身"
       }
     ],
     "阵营": [
@@ -89,6 +95,31 @@
         "value": "万妖幡",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "万妖幡、魔天爪",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "乌黑铁盾",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "胸前银锁",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "灰色小幡",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "持万妖幡",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
       }
     ],
     "外貌": [
@@ -198,5 +229,5 @@
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
   ],
-  "updatedAt": "2026-06-18T10:03:53.947Z"
+  "updatedAt": "2026-06-18T10:54:03.878Z"
 }

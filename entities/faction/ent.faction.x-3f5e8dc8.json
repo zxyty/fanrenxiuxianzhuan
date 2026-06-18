@@ -16,7 +16,8 @@
     "等级": "大势力",
     "镇派之宝": "万妖幡（仿制灵宝）",
     "理念": "妖修聚集",
-    "所属界面": "人界"
+    "所属界面": "人界",
+    "掌门": "车老妖"
   },
   "observations": {
     "阵营": [
@@ -105,6 +106,13 @@
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
       }
+    ],
+    "掌门": [
+      {
+        "value": "车老妖",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      }
     ]
   },
   "firstSeq": 901,
@@ -144,6 +152,12 @@
       "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
       "dated": false,
       "seq": 1231
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "dated": false,
+      "seq": 1111
     }
   },
   "contested": false,
@@ -174,5 +188,5 @@
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
     "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:36:30.147Z"
+  "updatedAt": "2026-06-18T10:54:03.808Z"
 }

@@ -517,3 +517,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T10:06:00.578Z** `ingest` plot.fanren-1099-1100-fanmu-zhanqi — 凡人修仙传 第1099-1100章 反目·战起（小极宫为虚天鼎围攻韩立） · kind=plot asOf=2026-06-18 entities=26 relations=35 src=01093-01098.p3.md
 - **2026-06-18T10:27:57.798Z** `ingest` plot.fanren-1101-dongxia-jizhan-shang — 第1101章 洞下激战（上）：韩立力斗白梦馨与青衫中年人 · kind=plot asOf=2026-06-18 entities=42 relations=57 src=01099-01104.md
 - **2026-06-18T10:36:30.509Z** `ingest` plot.fanren-1105-1110-jianzhen-duobao-xuanyu — 凡人修仙传 第1105-1110章：剑阵重现·夺宝·沉水取玄玉 · kind=plot asOf=2026-06-18 entities=35 relations=40 src=01105-01110.md
+- **2026-06-18T10:54:04.288Z** `update` plot.fanren-1113-yaoqi-chongtian — 第1113章 妖气冲天——韩立斩九级妖兽精魂、闯入虚灵殿大殿被困 · kind=plot asOf=2026-06-18 entities=51 relations=68 src=01111-01116.md

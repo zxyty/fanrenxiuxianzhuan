@@ -1,55 +1,58 @@
 {
-  "id": "ent.person.x-e7d46de6",
-  "type": "person",
-  "name": "叶姓灰发老者",
+  "id": "ent.event.x-9f8fc21b",
+  "type": "event",
+  "name": "韩立虚灵殿争脱困之战",
   "aliases": [
-    "小极宫监察长老"
+    "冰凤之威",
+    "空间神通"
   ],
-  "summary": "小极宫监察长老，灰发白衫，驱两口银色飞剑及喷黑白之气的玉瓶，与白瑶怡合斗皂袍老翁。",
+  "summary": "韩立欲夺虚灵殿传送阵脱身，与十级冰凤（化形银衫女子）激战，正待强攻时车老妖万妖幡再罩，脱身愈难。",
   "attributes": {
-    "性别": "男",
-    "身份": "小极宫监察长老",
-    "外貌": "灰发白衫、灰发、白衫",
-    "阵营": "小极宫",
-    "小阶段": "元婴中期"
+    "章节": "第1117-1118章",
+    "地点": "虚灵殿",
+    "参与方": "韩立、冰凤、小极宫宫主、车老妖",
+    "结果": "韩立破界符破灰光，但万妖幡现于头顶，脱身千难万难"
   },
   "observations": {
-    "性别": [
+    "章节": [
       {
-        "value": "男",
+        "value": "第1117-1118章",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
       }
     ],
-    "身份": [
+    "地点": [
       {
-        "value": "小极宫监察长老",
+        "value": "虚灵殿",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
       }
     ],
-    "外貌": [
+    "参与方": [
       {
-        "value": "灰发白衫",
+        "value": "韩立",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
       },
       {
-        "value": "灰发、白衫",
+        "value": "冰凤",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "小极宫宫主",
+        "docId": "plot.fanren-1113-yaoqi-chongtian",
+        "seq": 1111
+      },
+      {
+        "value": "车老妖",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
       }
     ],
-    "阵营": [
+    "结果": [
       {
-        "value": "小极宫",
-        "docId": "plot.fanren-1113-yaoqi-chongtian",
-        "seq": 1111
-      }
-    ],
-    "小阶段": [
-      {
-        "value": "元婴中期",
+        "value": "韩立破界符破灰光，但万妖幡现于头顶，脱身千难万难",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
       }
@@ -57,31 +60,25 @@
   },
   "firstSeq": 1111,
   "attrProvenance": {
-    "性别": {
+    "章节": {
       "asOf": null,
       "docId": "plot.fanren-1113-yaoqi-chongtian",
       "dated": false,
       "seq": 1111
     },
-    "身份": {
+    "地点": {
       "asOf": null,
       "docId": "plot.fanren-1113-yaoqi-chongtian",
       "dated": false,
       "seq": 1111
     },
-    "外貌": {
+    "参与方": {
       "asOf": null,
       "docId": "plot.fanren-1113-yaoqi-chongtian",
       "dated": false,
       "seq": 1111
     },
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.fanren-1113-yaoqi-chongtian",
-      "dated": false,
-      "seq": 1111
-    },
-    "小阶段": {
+    "结果": {
       "asOf": null,
       "docId": "plot.fanren-1113-yaoqi-chongtian",
       "dated": false,
@@ -93,5 +90,5 @@
   "docs": [
     "plot.fanren-1113-yaoqi-chongtian"
   ],
-  "updatedAt": "2026-06-18T10:54:03.692Z"
+  "updatedAt": "2026-06-18T10:54:03.922Z"
 }
