@@ -496,3 +496,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T04:47:46.443Z** `ingest` plot.fanren-1011-three-flame-fan-shocks-enemies — 第1011章 一扇惊敌——韩立三焰扇震退天澜与阴罗宗围攻 · kind=plot asOf=2026-06-18 entities=14 relations=15 src=01009-01014.p3.md
 - **2026-06-18T04:49:39.585Z** `ingest` plot.fanren-1012-qingtong-shi — 第一千一十二章 青铜狮——韩立闯昆吾殿斗兽场 · kind=plot asOf=2026-06-18 entities=17 relations=13 src=01009-01014.p4.md
 - **2026-06-18T04:51:29.399Z** `ingest` plot.fanren-1013-wanjin-yashen-kunwu-shanmen — 第1013章 万斤压身：韩立闯昆吾殿山门遇重压禁制 · kind=plot asOf=2026-06-18 entities=23 relations=18 src=01009-01014.p5.md
+- **2026-06-18T04:54:08.699Z** `ingest` plot.fanren-1014-huaxian-ernv — 凡人修仙传 第1014章 化仙二女——昆吾殿前临时结盟破禁，化仙宗师姐妹谋夺化龙玺 · kind=plot asOf=2026-06-18 entities=30 relations=25 src=01009-01014.p6.md

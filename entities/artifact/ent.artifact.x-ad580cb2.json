@@ -11,7 +11,8 @@
   "attributes": {
     "能力": "加固古魔封印、感应封印地、克制古魔妖魔、加固昆吾山封印",
     "外形": "数寸绿色玉玺、五爪真龙幻影",
-    "持有者": "木夫人"
+    "持有者": "木夫人",
+    "来历": "昆吾三老控印之宝"
   },
   "observations": {
     "能力": [
@@ -49,6 +50,13 @@
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
       }
+    ],
+    "来历": [
+      {
+        "value": "昆吾三老控印之宝",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
+      }
     ]
   },
   "firstSeq": 1009,
@@ -70,6 +78,12 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1014-huaxian-ernv",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -80,7 +94,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-16T06:03:53.146Z"
+  "updatedAt": "2026-06-18T04:54:08.581Z"
 }

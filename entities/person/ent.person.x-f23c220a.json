@@ -13,7 +13,8 @@
     "死因": "被元刹圣祖吞噬元婴",
     "性别": "男",
     "身份": "叶家长老",
-    "外貌": "方脸"
+    "外貌": "方脸",
+    "标志特征": "驱使两口飞剑"
   },
   "observations": {
     "小阶段": [
@@ -27,7 +28,7 @@
       {
         "value": "叶家",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
-        "seq": 1045
+        "seq": 1009
       }
     ],
     "存殁": [
@@ -69,6 +70,13 @@
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
+    ],
+    "标志特征": [
+      {
+        "value": "驱使两口飞剑",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
+      }
     ]
   },
   "firstSeq": 973,
@@ -83,7 +91,7 @@
       "asOf": null,
       "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
-      "seq": 1045
+      "seq": 1009
     },
     "存殁": {
       "asOf": null,
@@ -114,6 +122,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1014-huaxian-ernv",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -123,7 +137,8 @@
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T03:51:46.734Z"
+  "updatedAt": "2026-06-18T04:54:08.570Z"
 }

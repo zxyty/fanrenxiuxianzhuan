@@ -11,7 +11,8 @@
     "镇派之宝": "八灵尺(先人遗宝)、化龙玺、日月梭、四象尺、日月梭(欲立为传承之宝)",
     "阵营": "人界修士",
     "据点": "南疆",
-    "理念": "半隐、守看昆吾山封印"
+    "理念": "诅咒阴毒之术、半隐、守看昆吾山封印、受守城规矩约束、世代看守昆吾山封印",
+    "等级": "半隐宗门"
   },
   "observations": {
     "镇派之宝": [
@@ -70,6 +71,18 @@
         "value": "半隐、守看昆吾山封印",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "受守城规矩约束、世代看守昆吾山封印",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
+      }
+    ],
+    "等级": [
+      {
+        "value": "半隐宗门",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
       }
     ]
   },
@@ -95,7 +108,13 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "dated": false,
+      "seq": 1003
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1014-huaxian-ernv",
       "dated": false,
       "seq": 1009
     }
@@ -110,7 +129,8 @@
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-ch1003-qunmo-yinxian"
+    "plot.fanren-ch1003-qunmo-yinxian",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T04:04:13.834Z"
+  "updatedAt": "2026-06-18T04:54:08.575Z"
 }

@@ -8,7 +8,8 @@
   "summary": "与化仙宗有渊源的大修士，随时可赶到，木夫人倚为后援。",
   "attributes": {
     "阵营": "化仙宗（渊源）",
-    "存殁": "下落不明"
+    "存殁": "下落不明",
+    "身份": "化仙宗倚重的前辈"
   },
   "observations": {
     "阵营": [
@@ -24,6 +25,13 @@
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009,
         "note": "木夫人忧其遇险"
+      }
+    ],
+    "身份": [
+      {
+        "value": "化仙宗倚重的前辈",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
       }
     ]
   },
@@ -41,13 +49,20 @@
       "dated": false,
       "seq": 1009,
       "note": "木夫人忧其遇险"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1014-huaxian-ernv",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-16T04:18:42.267Z"
+  "updatedAt": "2026-06-18T04:54:08.573Z"
 }

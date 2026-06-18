@@ -12,14 +12,16 @@
     "议事堂",
     "昆吾殿后半部",
     "殿",
-    "宫殿大殿"
+    "宫殿大殿",
+    "山门"
   ],
   "summary": "藏本命牌之殿，设有专克三妖的禁制。",
   "attributes": {
     "守护": "克制妖物的禁制、石林禁制大阵、光幕雷击禁制、山门万斤压身禁制、金磁灵木金磁重光禁制、北极元光、金磁灵木、北极元光、昆吾三老神念禁制、石林禁制大阵、带电光幕、光霞禁制、白石路万斤压身禁制",
-    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿、石殿、宫殿/夺宝秘境",
+    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿、石殿、宫殿/夺宝秘境、上古藏宝大殿",
     "危险度": "极高（多重禁制）",
-    "所属势力": "昆吾山封印"
+    "所属势力": "昆吾山封印",
+    "所属界面": "人界"
   },
   "observations": {
     "守护": [
@@ -124,6 +126,11 @@
         "value": "宫殿/夺宝秘境",
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
+      },
+      {
+        "value": "上古藏宝大殿",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
       }
     ],
     "危险度": [
@@ -143,6 +150,13 @@
         "value": "昆吾山封印",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
       }
     ]
   },
@@ -171,6 +185,12 @@
       "docId": "plot.fanren-ch1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1014-huaxian-ernv",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -186,7 +206,8 @@
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1011-three-flame-fan-shocks-enemies",
     "plot.fanren-1012-qingtong-shi",
-    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T04:51:29.280Z"
+  "updatedAt": "2026-06-18T04:54:08.578Z"
 }

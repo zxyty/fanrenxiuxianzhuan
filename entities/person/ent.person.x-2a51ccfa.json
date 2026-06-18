@@ -2,13 +2,15 @@
   "id": "ent.person.x-2a51ccfa",
   "type": "person",
   "name": "化仙宗秀丽女子",
-  "aliases": [],
+  "aliases": [
+    "木夫人师妹"
+  ],
   "summary": "化仙宗木夫人之师妹，元婴初期，携镇宗之宝四象尺前来。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴初期",
     "阵营": "化仙宗",
-    "外貌": "秀丽动人"
+    "外貌": "面容秀丽"
   },
   "observations": {
     "性别": [
@@ -42,6 +44,11 @@
         "value": "秀丽动人",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "面容秀丽",
+        "docId": "plot.fanren-1014-huaxian-ernv",
+        "seq": 1009
       }
     ]
   },
@@ -67,16 +74,17 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1003-qunmo-yinxian",
+      "docId": "plot.fanren-1014-huaxian-ernv",
       "dated": false,
-      "seq": 1003
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-ch1003-qunmo-yinxian"
+    "plot.fanren-ch1003-qunmo-yinxian",
+    "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T04:04:13.822Z"
+  "updatedAt": "2026-06-18T04:54:08.572Z"
 }
