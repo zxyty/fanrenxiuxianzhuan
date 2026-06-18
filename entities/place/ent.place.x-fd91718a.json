@@ -16,8 +16,8 @@
   ],
   "summary": "藏本命牌之殿，设有专克三妖的禁制。",
   "attributes": {
-    "守护": "克制妖物的禁制、石林禁制大阵、光幕雷击禁制、山门万斤压身禁制、金磁灵木金磁重光禁制、北极元光、金磁灵木、北极元光、昆吾三老神念禁制、石林禁制大阵、带电光幕、光霞禁制",
-    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿、石殿",
+    "守护": "克制妖物的禁制、石林禁制大阵、光幕雷击禁制、山门万斤压身禁制、金磁灵木金磁重光禁制、北极元光、金磁灵木、北极元光、昆吾三老神念禁制、石林禁制大阵、带电光幕、光霞禁制、白石路万斤压身禁制",
+    "类型": "殿宇、古殿/秘境、上古殿堂、殿堂、藏宝大殿、上古秘殿、宫殿、大殿、石殿、宫殿/夺宝秘境",
     "危险度": "极高（多重禁制）",
     "所属势力": "昆吾山封印"
   },
@@ -67,6 +67,11 @@
         "value": "石林禁制大阵、带电光幕、光霞禁制",
         "docId": "plot.fanren-1012-qingtong-shi",
         "seq": 1009
+      },
+      {
+        "value": "白石路万斤压身禁制",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "类型": [
@@ -114,6 +119,11 @@
         "value": "石殿",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "宫殿/夺宝秘境",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "危险度": [
@@ -121,6 +131,11 @@
         "value": "极高（多重禁制）",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "高（隐形重压禁制）",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "所属势力": [
@@ -170,7 +185,8 @@
     "plot.fanren-997-1002-kunwushan-qian-laomo",
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1011-three-flame-fan-shocks-enemies",
-    "plot.fanren-1012-qingtong-shi"
+    "plot.fanren-1012-qingtong-shi",
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
   ],
-  "updatedAt": "2026-06-18T04:49:39.462Z"
+  "updatedAt": "2026-06-18T04:51:29.280Z"
 }

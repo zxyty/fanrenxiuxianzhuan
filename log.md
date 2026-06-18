@@ -495,3 +495,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T04:46:32.173Z** `ingest` plot.fanren-1010-xumi-wuxing-bi — 第一千一十章 须弥五行壁 · kind=plot asOf=2026-06-18 entities=20 relations=17 src=01009-01014.p2.md
 - **2026-06-18T04:47:46.443Z** `ingest` plot.fanren-1011-three-flame-fan-shocks-enemies — 第1011章 一扇惊敌——韩立三焰扇震退天澜与阴罗宗围攻 · kind=plot asOf=2026-06-18 entities=14 relations=15 src=01009-01014.p3.md
 - **2026-06-18T04:49:39.585Z** `ingest` plot.fanren-1012-qingtong-shi — 第一千一十二章 青铜狮——韩立闯昆吾殿斗兽场 · kind=plot asOf=2026-06-18 entities=17 relations=13 src=01009-01014.p4.md
+- **2026-06-18T04:51:29.399Z** `ingest` plot.fanren-1013-wanjin-yashen-kunwu-shanmen — 第1013章 万斤压身：韩立闯昆吾殿山门遇重压禁制 · kind=plot asOf=2026-06-18 entities=23 relations=18 src=01009-01014.p5.md

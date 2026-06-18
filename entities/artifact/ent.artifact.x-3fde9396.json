@@ -2,13 +2,15 @@
   "id": "ent.artifact.x-3fde9396",
   "type": "artifact",
   "name": "弥天镯",
-  "aliases": [],
+  "aliases": [
+    "巨大骨环"
+  ],
   "summary": "乾老魔的护身防御法宝，传为上古灵宝『映月环』的仿制之宝。",
   "attributes": {
-    "持有者": "乾老魔",
-    "来历": "映月环仿制（未证实）",
-    "能力": "防御护身",
-    "外形": "白骨镯子",
+    "持有者": "乾老魔、叶家方脸长老",
+    "来历": "映月环仿制（未证实）、传为上古灵宝『映月环』仿制之宝",
+    "能力": "防御护身、幻化无数环影困敌",
+    "外形": "巨大骨环",
     "禁制": "发动需自身精血"
   },
   "observations": {
@@ -17,12 +19,22 @@
         "value": "乾老魔",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "叶家方脸长老",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "来历": [
       {
         "value": "映月环仿制（未证实）",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "传为上古灵宝『映月环』仿制之宝",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
       }
     ],
@@ -31,6 +43,11 @@
         "value": "防御护身",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "幻化无数环影困敌",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "外形": [
@@ -38,6 +55,11 @@
         "value": "白骨镯子",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "巨大骨环",
+        "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+        "seq": 1009
       }
     ],
     "禁制": [
@@ -70,9 +92,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
       "dated": false,
-      "seq": 997
+      "seq": 1009
     },
     "禁制": {
       "asOf": null,
@@ -85,7 +107,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
   ],
-  "updatedAt": "2026-06-18T03:51:46.743Z"
+  "updatedAt": "2026-06-18T04:51:29.273Z"
 }
