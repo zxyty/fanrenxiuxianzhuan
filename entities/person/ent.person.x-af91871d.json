@@ -9,9 +9,10 @@
   "summary": "落云宗白凤峰女修，结丹后期，沉稳，持紫灵所赠内谷路线图，入坠魔谷被擒后先醒。",
   "attributes": {
     "性别": "女",
-    "小阶段": "结丹",
+    "小阶段": "结丹后期、结丹、结丹期",
     "阵营": "落云宗",
-    "性格": "沉稳不躁"
+    "性格": "沉稳不躁",
+    "身份": "落云宗白凤峰弟子"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,11 @@
         "value": "结丹",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165
       }
     ],
     "阵营": [
@@ -46,6 +52,13 @@
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
         "seq": 1165
       }
+    ],
+    "身份": [
+      {
+        "value": "落云宗白凤峰弟子",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165
+      }
     ]
   },
   "firstSeq": 1165,
@@ -58,9 +71,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
       "dated": false,
-      "seq": 1171
+      "seq": 1165
     },
     "阵营": {
       "asOf": null,
@@ -73,13 +86,20 @@
       "docId": "plot.fanren-1167-1172-return-luoyunzong",
       "dated": false,
       "seq": 1165
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+      "dated": false,
+      "seq": 1165
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1167-1172-return-luoyunzong",
-    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
   ],
-  "updatedAt": "2026-06-15T11:57:51.437Z"
+  "updatedAt": "2026-06-18T12:25:03.967Z"
 }

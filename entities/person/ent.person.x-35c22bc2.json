@@ -9,16 +9,17 @@
     "面容酷似韩立的青年",
     "古魔化身",
     "不动声色的古魔",
-    "白发青袍青年"
+    "白发青袍青年",
+    "绿眼黑影"
   ],
   "summary": "魔界古魔的分魂，主魂当年于坠魔谷被韩立灭杀，夺走韩立两口金雷竹飞剑，会施展铁翅魔秘术化影遁。",
   "attributes": {
-    "种族": "魔/古魔、古魔、圣族",
-    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物、容颜酷似韩立的普通青年、酷似韩立的青年、酷似韩立的青袍青年、酷似韩立的青年/韩长老",
-    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒、双首四臂魔影/乌黑魔臂/黑色魔焰、双头三臂、黑青鳞片战甲、黑紫魔焰、震波秘术",
+    "种族": "魔/古魔、古魔、圣族、魔尸之体",
+    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物、容颜酷似韩立的普通青年、酷似韩立的青年、酷似韩立的青袍青年、酷似韩立的青年/韩长老、青袍青年",
+    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒、双首四臂魔影/乌黑魔臂/黑色魔焰、双头三臂、黑青鳞片战甲、黑紫魔焰、震波秘术、周身漆黑、双目绿光",
     "性格": "不动声色、城府深",
     "阵营": "圣界圣族",
-    "小阶段": "元婴初期",
+    "小阶段": "元婴中期",
     "身份": "叶家客卿‘韩长老’",
     "存殁": "死亡",
     "死因": "被韩立以青竹蜂云剑金网、紫焰冰封、辟邪神雷连元神扫灭"
@@ -39,6 +40,11 @@
         "value": "圣族",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "魔尸之体",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165
       }
     ],
     "外貌": [
@@ -87,6 +93,12 @@
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009,
         "note": "化形冒充，起于第955章"
+      },
+      {
+        "value": "青袍青年",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165,
+        "note": "化形冒充韩立形貌，自第1015章"
       }
     ],
     "标志特征": [
@@ -134,6 +146,12 @@
         "value": "震波秘术",
         "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
         "seq": 1039
+      },
+      {
+        "value": "周身漆黑、双目绿光",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165,
+        "note": "魔尸本相"
       }
     ],
     "性格": [
@@ -170,6 +188,11 @@
         "value": "元婴初期",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165
       }
     ],
     "身份": [
@@ -242,9 +265,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-955-zaiyu-gumo",
+      "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
       "dated": false,
-      "seq": 955
+      "seq": 1165
     },
     "身份": {
       "asOf": null,
@@ -278,7 +301,8 @@
     "plot.fanren-1010-xumi-wuxing-bi",
     "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
   ],
-  "updatedAt": "2026-06-18T06:41:47.797Z"
+  "updatedAt": "2026-06-18T12:25:03.970Z"
 }

@@ -5,15 +5,20 @@
   "aliases": [],
   "summary": "外界已灭绝的珍稀灵草，结丹期炼丹所需，仅坠魔谷或可寻得，三女遍寻未果。",
   "attributes": {
-    "稀有度": "外界灭绝",
+    "稀有度": "外界灭绝、极稀",
     "产地": "坠魔谷内谷",
-    "用途": "炼制幻灭丹"
+    "用途": "结丹期炼丹主料、炼制幻灭丹、炼制结丹突破灵丹"
   },
   "observations": {
     "稀有度": [
       {
         "value": "外界灭绝",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
+        "seq": 1165
+      },
+      {
+        "value": "极稀",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
         "seq": 1165
       }
     ],
@@ -39,6 +44,11 @@
         "value": "炼制幻灭丹",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
+      },
+      {
+        "value": "炼制结丹突破灵丹",
+        "docId": "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+        "seq": 1165
       }
     ]
   },
@@ -58,16 +68,17 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
       "dated": false,
-      "seq": 1183
+      "seq": 1165
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1167-1172-return-luoyunzong",
-    "plot.fanren-1183-1188-fuzhong-tonghua-dujie"
+    "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
   ],
-  "updatedAt": "2026-06-16T06:44:53.419Z"
+  "updatedAt": "2026-06-18T12:25:03.983Z"
 }
