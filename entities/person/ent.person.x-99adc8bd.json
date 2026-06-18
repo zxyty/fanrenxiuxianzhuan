@@ -12,7 +12,8 @@
     "摩鸠道友",
     "摩鸠兄",
     "魔鸠",
-    "魔鸠道友"
+    "魔鸠道友",
+    "灰袍老僧"
   ],
   "summary": "慈眉善目灰袍高僧，元婴中期巅峰，与韩立同样修炼非冰寒属性功法却拥极寒之焰。",
   "attributes": {
@@ -23,7 +24,8 @@
     "外貌": "灰袍僧人",
     "阵营": "佛门",
     "存殁": "死亡",
-    "死因": "被大庚剑阵分尸"
+    "死因": "被大庚剑阵分尸",
+    "性格": "冷静、明哲保身"
   },
   "observations": {
     "性别": [
@@ -126,6 +128,13 @@
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
       }
+    ],
+    "性格": [
+      {
+        "value": "冷静、明哲保身",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
+      }
     ]
   },
   "firstSeq": 1081,
@@ -177,6 +186,12 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
@@ -188,7 +203,8 @@
     "plot.fanren-1099-1104-xuanyu-cave-battle",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1086-1087-hanyan-xulingdian",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-1099-1100-fanmu-zhanqi"
   ],
-  "updatedAt": "2026-06-18T10:00:34.531Z"
+  "updatedAt": "2026-06-18T10:06:00.170Z"
 }

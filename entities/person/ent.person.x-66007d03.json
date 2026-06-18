@@ -12,9 +12,9 @@
   "attributes": {
     "性别": "女",
     "小阶段": "元婴",
-    "身份": "小极宫外门长老",
+    "身份": "柳翠派大长老、小极宫外门长老、柳翠派掌门",
     "标志特征": "声如处子、满头白发、拐杖、青色小锤、功法保持年轻声音、黄焰、黄色拐杖",
-    "阵营": "柳翠派",
+    "阵营": "小极宫",
     "外貌": "满头鹤发的老妪、满脸皱纹老妪、须发皆白老妪、声音如处子、满头鹤发",
     "性格": "冷傲"
   },
@@ -49,6 +49,11 @@
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093,
         "note": "对外以柳翠派掌门身份"
+      },
+      {
+        "value": "柳翠派掌门",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ],
     "标志特征": [
@@ -78,6 +83,11 @@
         "value": "柳翠派",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
         "seq": 1081
+      },
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ],
     "外貌": [
@@ -126,10 +136,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
-      "seq": 1093,
-      "note": "对外以柳翠派掌门身份"
+      "seq": 1081
     },
     "标志特征": {
       "asOf": null,
@@ -139,9 +148,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+      "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
       "dated": false,
-      "seq": 1081
+      "seq": 1093
     },
     "外貌": {
       "asOf": null,
@@ -164,7 +173,8 @@
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-1099-1104-xuanyu-cave-battle",
     "plot.fanren-1086-1087-hanyan-xulingdian",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-1099-1100-fanmu-zhanqi"
   ],
-  "updatedAt": "2026-06-18T10:00:34.498Z"
+  "updatedAt": "2026-06-18T10:06:00.174Z"
 }

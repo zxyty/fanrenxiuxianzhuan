@@ -514,3 +514,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T10:00:34.684Z** `ingest` plot.fanren-1087-1092-xuanyu-cave-binghan-formation — 第1087-1092章｜冰魄寒烈阵·玄玉洞——寒骊上人引韩立等入虚灵殿冲化神 · kind=plot asOf=2026-06-18 entities=47 relations=56 src=01087-01092.md
 - **2026-06-18T10:01:36.919Z** `ingest` plot.fanren-1094-1095-hanyan-xisui-qianlan-ding — 第1094-1095章 寒焰洗髓·乾蓝鼎易手与冰凤攻城 · kind=plot asOf=2026-06-18 entities=0 relations=0 src=01093-01098.p1.md
 - **2026-06-18T10:03:54.337Z** `ingest` plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie — 第1096-1097章 妖魂·魔高一丈——寒骊上人冲阶化神失败与小极宫撤离 · kind=plot asOf=2026-06-18 entities=21 relations=20 src=01093-01098.p2.md
+- **2026-06-18T10:06:00.578Z** `ingest` plot.fanren-1099-1100-fanmu-zhanqi — 凡人修仙传 第1099-1100章 反目·战起（小极宫为虚天鼎围攻韩立） · kind=plot asOf=2026-06-18 entities=26 relations=35 src=01093-01098.p3.md

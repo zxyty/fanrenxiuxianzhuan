@@ -10,8 +10,8 @@
   "summary": "位于其中一座虚灵殿内的洞府，极寒之气可助冲击化神瓶颈。",
   "attributes": {
     "所属势力": "小极宫",
-    "特产": "极寒之气、万年玄玉、太阳精石、玄玉寒气、万年玄玉寒气",
-    "类型": "地下洞窟、洞窟/秘地、极寒之地、秘地洞窟、地下洞窟矿脉、矿洞、洞府、玄玉矿脉洞窟、洞窟",
+    "特产": "极寒之气、万年玄玉、太阳精石、玄玉寒气、万年玄玉寒气、极寒之地",
+    "类型": "地下洞窟、洞窟/秘地、极寒之地、秘地洞窟、地下洞窟矿脉、矿洞、洞府、玄玉矿脉洞窟、洞窟、极寒之地/洞府",
     "危险度": "极高（玄玉寒气）"
   },
   "observations": {
@@ -47,6 +47,11 @@
         "value": "万年玄玉寒气",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "极寒之地",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ],
     "类型": [
@@ -94,6 +99,11 @@
         "value": "洞窟",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "极寒之地/洞府",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ],
     "危险度": [
@@ -143,7 +153,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1086-1087-hanyan-xulingdian",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
-    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+    "plot.fanren-1099-1100-fanmu-zhanqi"
   ],
-  "updatedAt": "2026-06-18T10:03:53.997Z"
+  "updatedAt": "2026-06-18T10:06:00.192Z"
 }

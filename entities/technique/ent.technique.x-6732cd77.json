@@ -6,7 +6,8 @@
   "summary": "儒门功法，寒骊上人修炼，可凝金色古文爆裂破敌。",
   "attributes": {
     "出处": "儒门",
-    "外显异象": "金色古文爆裂"
+    "外显异象": "金色古文爆裂",
+    "效果": "金色古文『破』解禁制/法术"
   },
   "observations": {
     "出处": [
@@ -20,6 +21,13 @@
       {
         "value": "金色古文爆裂",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+        "seq": 1093
+      }
+    ],
+    "效果": [
+      {
+        "value": "金色古文『破』解禁制/法术",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
         "seq": 1093
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
       "dated": false,
       "seq": 1093
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1099-1100-fanmu-zhanqi"
   ],
-  "updatedAt": "2026-06-15T09:38:32.763Z"
+  "updatedAt": "2026-06-18T10:06:00.215Z"
 }

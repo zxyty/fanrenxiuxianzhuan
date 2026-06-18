@@ -11,11 +11,12 @@
   "summary": "小极宫修炼乾蓝冰焰的专用法器，亦用于开启玄玉洞通道；本章暂交摩鸠大师保管。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "生乾蓝冰焰、开启玄玉洞通道、乾蓝冰焰、释放蓝色冰蛟、放出火鸦火海、炼火、喷乾蓝冰焰、可缩放、布阵",
+    "能力": "生乾蓝冰焰、开启玄玉洞通道、乾蓝冰焰、释放蓝色冰蛟、放出火鸦火海、炼火、喷乾蓝冰焰、可缩放、布阵、蕴含乾蓝冰焰",
     "来历": "小极宫、虚天鼎仿制品，成对、寒骊上人",
     "五行属性": "冰",
     "禁制": "须修炼乾蓝冰焰方可驱使",
-    "外形": "蓝色小鼎"
+    "外形": "蓝色小鼎",
+    "品阶": "仿制法宝"
   },
   "observations": {
     "持有者": [
@@ -76,6 +77,11 @@
         "value": "可缩放、布阵",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "蕴含乾蓝冰焰",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ],
     "来历": [
@@ -114,6 +120,13 @@
         "value": "蓝色小鼎",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      }
+    ],
+    "品阶": [
+      {
+        "value": "仿制法宝",
+        "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+        "seq": 1093
       }
     ]
   },
@@ -154,6 +167,12 @@
       "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
       "dated": false,
       "seq": 1237
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+      "dated": false,
+      "seq": 1093
     }
   },
   "contested": false,
@@ -163,7 +182,8 @@
     "plot.fanren-1099-1104-xuanyu-cave-battle",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1099-1100-fanmu-zhanqi"
   ],
-  "updatedAt": "2026-06-16T09:33:28.339Z"
+  "updatedAt": "2026-06-18T10:06:00.202Z"
 }
