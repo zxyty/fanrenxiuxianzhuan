@@ -1,0 +1,64 @@
+{
+  "id": "ent.place.x-5d5a8037",
+  "type": "place",
+  "name": "无名小湖",
+  "aliases": [
+    "小湖"
+  ],
+  "summary": "南疆某处无名小湖，叶家解封布阵之地，湖心冒出乳白光柱并被六柱环绕。",
+  "attributes": {
+    "类型": "湖泊",
+    "所属势力": "叶家",
+    "守护": "掩饰法阵(已失效)"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "湖泊",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      }
+    ],
+    "守护": [
+      {
+        "value": "掩饰法阵(已失效)",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 985,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "dated": false,
+      "seq": 985
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "dated": false,
+      "seq": 985
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
+  ],
+  "updatedAt": "2026-06-18T03:23:45.567Z"
+}

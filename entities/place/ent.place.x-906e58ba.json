@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-906e58ba",
+  "type": "place",
+  "name": "擎天巨山",
+  "aliases": [
+    "死山"
+  ],
+  "summary": "韩立被传送至此,似超天星城圣山的上古巨山,笼罩白濛濛巨大禁制,死寂无鸟兽却灵气盎然。",
+  "attributes": {
+    "危险度": "极高",
+    "守护": "白濛濛绝对障壁禁制"
+  },
+  "observations": {
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      }
+    ],
+    "守护": [
+      {
+        "value": "白濛濛绝对障壁禁制",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      }
+    ]
+  },
+  "firstSeq": 985,
+  "attrProvenance": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "dated": false,
+      "seq": 985
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "dated": false,
+      "seq": 985
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
+  ],
+  "updatedAt": "2026-06-18T03:23:45.590Z"
+}

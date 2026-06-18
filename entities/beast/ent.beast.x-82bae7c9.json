@@ -5,13 +5,14 @@
   "aliases": [
     "灵芝马",
     "阴芝马灵物",
-    "灵芝马(误写)"
+    "灵芝马(误写)",
+    "白嫩小马"
   ],
   "summary": "来无影去无踪、擅长隐匿之术的灵物，巢穴在阴阳窟洞口，可用于炼制培婴丹。",
   "attributes": {
-    "能力": "隐匿之术、来无影去无踪、擅长隐匿、狡猾善藏",
+    "能力": "隐匿之术、来无影去无踪、擅长隐匿、狡猾善藏、善隐匿/藏匿宿主体内",
     "栖息地": "阴阳窟洞口、阴阳窟",
-    "外形": "白嫩马首、碧绿眼珠，体型缩小数倍、白嫩马首、碧绿眼珠"
+    "外形": "白嫩马首、碧绿眼珠，体型缩小数倍、白嫩马首、碧绿眼珠、半尺白马,两眼碧绿"
   },
   "observations": {
     "能力": [
@@ -34,6 +35,11 @@
         "value": "狡猾善藏",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "善隐匿/藏匿宿主体内",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "栖息地": [
@@ -58,6 +64,11 @@
         "value": "白嫩马首、碧绿眼珠",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "半尺白马,两眼碧绿",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ]
   },
@@ -89,7 +100,8 @@
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-ch979-wuzi-tongxin-mo"
+    "plot.fanren-ch979-wuzi-tongxin-mo",
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
   ],
-  "updatedAt": "2026-06-18T03:10:23.729Z"
+  "updatedAt": "2026-06-18T03:23:45.583Z"
 }

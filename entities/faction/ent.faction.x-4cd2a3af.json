@@ -17,15 +17,17 @@
     "叶家长老会",
     "叶家世家",
     "天下第一世家",
-    "叶家一族"
+    "叶家一族",
+    "叶家群修",
+    "叶家众修"
   ],
   "summary": "声名赫赫的修仙家族，金光上人自称其弟子以作依仗。",
   "attributes": {
-    "阵营": "修仙家族、人界修士、大晋皇族、真灵世家·天凤血脉、人族真灵世家、大晋皇朝皇族",
-    "据点": "秦叶岭、晋京皇城府邸、皇清观、晋京皇宫、南疆无名小湖湖底、镇魔塔(闯探中)、操控极品灵石矿、天渊城、大晋皇城、晋京、南疆小湖底",
+    "阵营": "修仙家族、人界修士、大晋皇族、真灵世家·天凤血脉、人族真灵世家、大晋皇朝皇族、大晋世家",
+    "据点": "秦叶岭、晋京皇城府邸、皇清观、晋京皇宫、南疆无名小湖湖底、镇魔塔(闯探中)、操控极品灵石矿、天渊城、大晋皇城、晋京、南疆小湖底、大晋、南疆",
     "镇派之宝": "八灵尺、黑血刃、平山印、黑血刀、数种破禁秘宝、天凤灵血、平山印（仿制品）",
     "等级": "真灵世家",
-    "理念": "隐秘成事、只信本族核心长老、破财免灾/让各宗大出血、取宝脱离正魔两道控制、夺取昆吾通天灵宝壮大实力、图谋通天灵宝、夺通天灵宝以自强、摆脱诸势力夹持、囤材炼器、备取宝之行、摆脱正魔两道控制、夺取昆吾山通天灵宝以倍增实力",
+    "理念": "隐秘成事、只信本族核心长老、破财免灾/让各宗大出血、取宝脱离正魔两道控制、夺取昆吾通天灵宝壮大实力、图谋通天灵宝、夺通天灵宝以自强、摆脱诸势力夹持、囤材炼器、备取宝之行、摆脱正魔两道控制、夺取昆吾山通天灵宝以倍增实力、解开昆吾山封印、夺通天灵宝以自保",
     "所属界面": "灵界（蛮荒界）"
   },
   "observations": {
@@ -59,6 +61,11 @@
         "value": "大晋皇朝皇族",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      },
+      {
+        "value": "大晋世家",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "据点": [
@@ -116,6 +123,16 @@
         "value": "南疆小湖底",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "大晋",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "镇派之宝": [
@@ -227,6 +244,16 @@
         "value": "夺取昆吾山通天灵宝以倍增实力",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "解开昆吾山封印",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "夺通天灵宝以自保",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "所属界面": [
@@ -308,7 +335,8 @@
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-955-zaiyu-gumo",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
   ],
-  "updatedAt": "2026-06-18T02:57:43.746Z"
+  "updatedAt": "2026-06-18T03:23:45.591Z"
 }

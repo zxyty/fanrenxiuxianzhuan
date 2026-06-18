@@ -13,14 +13,17 @@
     "银翅怪物",
     "尖耳猴腮怪物",
     "银翅夜叉妖物",
-    "银翅夜叉二妖"
+    "银翅夜叉二妖",
+    "翼翅夜叉",
+    "银翅夜叉飞尸",
+    "尸煞化身"
   ],
   "summary": "由空玄丹士遗躯通灵修炼而成，进阶至银翅夜叉境界，身染尸气；被珑梦识破来历、封死退路。",
   "attributes": {
     "种族": "夜叉、妖族、妖物、炼尸/飞尸、炼尸、妖",
-    "能力": "风遁神通、风土两种遁术、刀枪不入、力大无穷、银瞳幻术、操控煞魂丝/尸煞之气、风遁隐形、翅扇击飞剑光、土遁、化形、银霞隐匿身形、随风掩形之术、青色劲风、煞魂丝、风土遁术",
-    "等级": "仅次于金身月尸、上古凶物、堪比元婴后期、高阶炼尸(近元婴后期)",
-    "外形": "满身绿毛、尖嘴猴腮、无瞳银目、背生银光肉翅、绿毛、背生银翅、尖耳猴腮、红光妖目、化形、背生银翅、绿毛尖嘴猴腮、无瞳银目、背生银翅",
+    "能力": "风遁神通、风土两种遁术、刀枪不入、力大无穷、银瞳幻术、操控煞魂丝/尸煞之气、风遁隐形、翅扇击飞剑光、土遁、化形、银霞隐匿身形、随风掩形之术、青色劲风、煞魂丝、风土遁术、尸煞之气、灰丝巨网、风遁、抓碎元婴",
+    "等级": "仅次于金身月尸、上古凶物、堪比元婴后期、高阶炼尸(近元婴后期)、接近化神期(未成金身月尸)",
+    "外形": "满身绿毛、尖嘴猴腮、无瞳银目、背生银光肉翅、绿毛、背生银翅、尖耳猴腮、红光妖目、化形、背生银翅、绿毛尖嘴猴腮、无瞳银目、背生银翅、背生肉翅(银翅)的飞尸/干尸、银翅飞天尸",
     "栖息地": "昆吾殿"
   },
   "observations": {
@@ -131,6 +134,26 @@
         "value": "风土遁术",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "尸煞之气",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "灰丝巨网",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "风遁",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "抓碎元婴",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "等级": [
@@ -153,6 +176,11 @@
         "value": "高阶炼尸(近元婴后期)",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "接近化神期(未成金身月尸)",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "外形": [
@@ -195,6 +223,16 @@
         "value": "绿毛尖嘴猴腮、无瞳银目、背生银翅",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "背生肉翅(银翅)的飞尸/干尸",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
+      },
+      {
+        "value": "银翅飞天尸",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ],
     "栖息地": [
@@ -207,6 +245,11 @@
         "value": "昆吾殿",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "洞窟法阵(身负禁制不可离)",
+        "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+        "seq": 985
       }
     ]
   },
@@ -259,7 +302,8 @@
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-ch979-wuzi-tongxin-mo"
+    "plot.fanren-ch979-wuzi-tongxin-mo",
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
   ],
-  "updatedAt": "2026-06-18T03:10:23.726Z"
+  "updatedAt": "2026-06-18T03:23:45.581Z"
 }
