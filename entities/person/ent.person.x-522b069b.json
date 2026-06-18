@@ -10,11 +10,11 @@
   ],
   "summary": "自称散修，持仿制魔龙刃的血刃，一路吞噬元婴，临时联手后背叛，化为尸气白毛熊怪。",
   "attributes": {
-    "身份": "散修",
+    "身份": "散修、血刀偷袭者、疑似四散真人",
     "外貌": "和蔼老者/白毛熊脸尸气怪物",
     "性格": "阴险善变",
     "阵营": "魔道",
-    "标志特征": "持血红长刀(疑似魔龙刃)",
+    "标志特征": "持血红长刀(疑似魔龙刃)、血红魔刀",
     "小阶段": "元婴期"
   },
   "observations": {
@@ -30,6 +30,12 @@
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027,
         "note": "存疑，未能确认身份"
+      },
+      {
+        "value": "疑似四散真人",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027,
+        "note": "灵光遮蔽,身份未能看清"
       }
     ],
     "外貌": [
@@ -59,6 +65,11 @@
         "value": "持血红长刀(疑似魔龙刃)",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "血红魔刀",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
       }
     ],
     "小阶段": [
@@ -73,10 +84,10 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
-      "seq": 1045,
-      "note": "自称"
+      "seq": 1027,
+      "note": "存疑，未能确认身份"
     },
     "外貌": {
       "asOf": null,
@@ -117,5 +128,5 @@
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-18T03:51:46.714Z"
+  "updatedAt": "2026-06-18T05:52:33.603Z"
 }

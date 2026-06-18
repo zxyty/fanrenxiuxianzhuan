@@ -24,7 +24,7 @@
     "身份": "阴罗宗大修士",
     "存殁": "死亡",
     "小阶段": "元婴后期、元婴期、元婴、元婴近后期顶峰",
-    "死因": "丧命于韩立（昆吾山事件）",
+    "死因": "丧命于韩立（昆吾山事件）、被韩立带入北极元光抽魂炼化、被韩立制住后遭五子魔反噬、再被抽魂",
     "称号": "大长老",
     "性格": "率性狂悖、煞气深重、凶戾果决、火爆狡诈、阴沉狠辣、狂傲、暴烈",
     "外貌": "灰袍灰发老者，面覆淡灰气",
@@ -135,6 +135,11 @@
       },
       {
         "value": "被韩立带入北极元光抽魂炼化",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "被韩立制住后遭五子魔反噬、再被抽魂",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
       }
@@ -274,9 +279,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
-      "seq": 1099
+      "seq": 1027
     },
     "称号": {
       "asOf": null,
@@ -333,5 +338,5 @@
     "plot.fanren-1014-huaxian-ernv",
     "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo"
   ],
-  "updatedAt": "2026-06-18T05:43:59.005Z"
+  "updatedAt": "2026-06-18T05:52:33.604Z"
 }

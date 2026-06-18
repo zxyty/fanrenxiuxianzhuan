@@ -7,13 +7,19 @@
   ],
   "summary": "偷袭韩立的丈许长凶刀，宽仅两指、薄如纸、闪妖异血芒，可如毒蛇弯曲绕盾，韩立评其『有几分像魔龙刃』。",
   "attributes": {
-    "外形": "丈许长、宽两指、薄如纸、闪血芒",
-    "能力": "锋利劈开剑气、刀身可弯曲诡变如毒蛇"
+    "外形": "丈许长、宽两指、薄如纸、闪血芒、丈许长,宽两指,奇薄如纸,闪血芒",
+    "能力": "锋利劈开剑气、刀身可弯曲诡变如毒蛇",
+    "持有者": "四散真人"
   },
   "observations": {
     "外形": [
       {
         "value": "丈许长、宽两指、薄如纸、闪血芒",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "丈许长,宽两指,奇薄如纸,闪血芒",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
       }
@@ -26,6 +32,13 @@
       },
       {
         "value": "刀身可弯曲诡变如毒蛇",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
+    ],
+    "持有者": [
+      {
+        "value": "四散真人",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
       }
@@ -44,6 +57,12 @@
       "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
       "seq": 1027
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
     }
   },
   "contested": false,
@@ -51,5 +70,5 @@
   "docs": [
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
   ],
-  "updatedAt": "2026-06-16T04:59:44.985Z"
+  "updatedAt": "2026-06-18T05:52:33.614Z"
 }

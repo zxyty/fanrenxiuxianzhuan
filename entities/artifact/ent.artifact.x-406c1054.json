@@ -8,8 +8,8 @@
   ],
   "summary": "血刃所仿制的原版凶器，提及威名令在场妖修动容。",
   "attributes": {
-    "品阶": "顶级魔道宝物",
-    "能力": "曾斩杀化神期修士、吸食修士血肉元神炼化增威、曾斩化神期修士",
+    "品阶": "魔道至宝/法宝、顶级魔道宝物、传说级凶宝",
+    "能力": "曾斩杀化神期修士、吸食修士血肉元神炼化增威、曾斩化神期修士、吸纳血肉精魂炼化增威",
     "来历": "上古炼成一柄、魔髓钻所炼、魔髓钻炼制、需魔髓钻炼制"
   },
   "observations": {
@@ -21,6 +21,11 @@
       },
       {
         "value": "顶级魔道宝物",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      },
+      {
+        "value": "传说级凶宝",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
       }
@@ -40,6 +45,11 @@
         "value": "曾斩化神期修士",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "吸纳血肉精魂炼化增威",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
       }
     ],
     "来历": [
@@ -69,9 +79,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
-      "seq": 1027
+      "seq": 955
     },
     "能力": {
       "asOf": null,
@@ -98,5 +108,5 @@
     "plot.fanren-955-zaiyu-gumo",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T02:23:33.515Z"
+  "updatedAt": "2026-06-18T05:52:33.586Z"
 }

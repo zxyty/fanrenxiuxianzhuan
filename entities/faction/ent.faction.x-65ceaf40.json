@@ -10,7 +10,8 @@
     "阵营": "魔道",
     "据点": "魔陀山",
     "所属界面": "人界",
-    "等级": "魔道第一宗"
+    "等级": "魔道第一宗",
+    "理念": "正魔第一大宗"
   },
   "observations": {
     "阵营": [
@@ -60,6 +61,13 @@
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
       }
+    ],
+    "理念": [
+      {
+        "value": "正魔第一大宗",
+        "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+        "seq": 1027
+      }
     ]
   },
   "firstSeq": 943,
@@ -87,6 +95,12 @@
       "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
       "dated": false,
       "seq": 1231
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "dated": false,
+      "seq": 1027
     }
   },
   "contested": false,
@@ -106,5 +120,5 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T04:04:13.837Z"
+  "updatedAt": "2026-06-18T05:52:33.624Z"
 }
