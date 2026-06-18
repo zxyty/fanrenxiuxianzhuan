@@ -12,12 +12,13 @@
   "attributes": {
     "小阶段": "元婴期",
     "身份": "阴罗宗长老",
-    "阵营": "魔道、阴罗宗、敌对韩立、夺宝修士一方",
-    "标志特征": "面罩淡淡黑气(魔功极深)、魔功修炼极深",
+    "阵营": "魔道、阴罗宗、敌对韩立、夺宝修士一方、阴罗宗一方",
+    "标志特征": "面罩淡淡黑气(魔功极深)、魔功修炼极深、持磷火骨刀、灵犀孔雀坐骑",
     "性格": "狰狞强硬",
     "性别": "男",
     "外貌": "四十余岁、面罩淡淡黑气",
-    "称号": "葛长老"
+    "称号": "葛长老",
+    "结局": "本章一臂焦糊受伤、心神受创"
   },
   "observations": {
     "小阶段": [
@@ -64,6 +65,11 @@
         "value": "夺宝修士一方",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "阴罗宗一方",
+        "docId": "plot.fanren-1011-three-flame-fan-shocks-enemies",
+        "seq": 1009
       }
     ],
     "标志特征": [
@@ -76,6 +82,11 @@
         "value": "魔功修炼极深",
         "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "持磷火骨刀、灵犀孔雀坐骑",
+        "docId": "plot.fanren-1011-three-flame-fan-shocks-enemies",
+        "seq": 1009
       }
     ],
     "性格": [
@@ -104,6 +115,13 @@
         "value": "葛长老",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      }
+    ],
+    "结局": [
+      {
+        "value": "本章一臂焦糊受伤、心神受创",
+        "docId": "plot.fanren-1011-three-flame-fan-shocks-enemies",
+        "seq": 1009
       }
     ]
   },
@@ -156,6 +174,12 @@
       "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
       "dated": false,
       "seq": 943
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1011-three-flame-fan-shocks-enemies",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -173,7 +197,8 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-973-yinyangku-minghe-page",
     "plot.fanren-ch1003-qunmo-yinxian",
-    "plot.fanren-1010-xumi-wuxing-bi"
+    "plot.fanren-1010-xumi-wuxing-bi",
+    "plot.fanren-1011-three-flame-fan-shocks-enemies"
   ],
-  "updatedAt": "2026-06-18T04:46:32.045Z"
+  "updatedAt": "2026-06-18T04:47:46.318Z"
 }

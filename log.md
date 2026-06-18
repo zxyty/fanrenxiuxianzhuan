@@ -493,3 +493,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T04:04:14.020Z** `ingest` plot.fanren-ch1003-qunmo-yinxian — 凡人修仙传 第1003章 群魔隐现 · kind=plot asOf=2026-06-18 entities=54 relations=54 src=01003-01008.md
 - **2026-06-18T04:44:31.307Z** `update` plot.fanren-1009-yinpo-ningxing — 第1009章 阴魄凝形：镇魔塔第七层鬼王分身困局 · kind=plot asOf=2026-06-18 entities=18 relations=23 src=01009-01014.p1.md
 - **2026-06-18T04:46:32.173Z** `ingest` plot.fanren-1010-xumi-wuxing-bi — 第一千一十章 须弥五行壁 · kind=plot asOf=2026-06-18 entities=20 relations=17 src=01009-01014.p2.md
+- **2026-06-18T04:47:46.443Z** `ingest` plot.fanren-1011-three-flame-fan-shocks-enemies — 第1011章 一扇惊敌——韩立三焰扇震退天澜与阴罗宗围攻 · kind=plot asOf=2026-06-18 entities=14 relations=15 src=01009-01014.p3.md
