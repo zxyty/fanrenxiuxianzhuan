@@ -2,12 +2,14 @@
   "id": "ent.place.x-68c79fd3",
   "type": "place",
   "name": "冰渊岛",
-  "aliases": [],
+  "aliases": [
+    "冰凤一族圣地"
+  ],
   "summary": "凤仙子坐镇的妖兽之岛，她两千年来于此闭关不出。",
   "attributes": {
     "守护": "凤仙子",
     "所属势力": "冰凤一族",
-    "类型": "海岛"
+    "类型": "海岛、妖族栖息地、妖族圣地"
   },
   "observations": {
     "守护": [
@@ -34,6 +36,16 @@
         "value": "海岛",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "妖族栖息地",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
+      },
+      {
+        "value": "妖族圣地",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ]
   },
@@ -63,7 +75,8 @@
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-18T10:00:34.565Z"
+  "updatedAt": "2026-06-18T11:11:13.626Z"
 }

@@ -13,11 +13,13 @@
     "乳白色水池",
     "第二层神秘密室",
     "灵麟山灵泉",
-    "深黄圆珠"
+    "深黄圆珠",
+    "神秘密室",
+    "灵眼密室"
   ],
   "summary": "灵眼灵气极稠实体化形成的罕见之泉，散发浓郁灵气，可大幅加快修炼速度且可用法力挪移。",
   "attributes": {
-    "类型": "灵眼实物、灵气宝物、灵泉、灵眼灵物、灵眼之物、灵眼/灵泉、灵物泉水、灵眼之物（灵泉）",
+    "类型": "灵眼实物、灵气宝物、灵泉、灵眼灵物、灵眼之物、灵眼/灵泉、灵物泉水、灵眼之物（灵泉）、密室",
     "用途": "加快修炼，最上好者近二三成；可用法力挪走不损功效、加快修炼、提供浓郁灵气助修炼、提供浓郁灵气、洗髓易经、泡浴恢复法力、凝出万年灵乳、蕴养灵眼之物/灵气",
     "稀有度": "极罕见(需数万至十几万年进化)",
     "产地": "灵麟山主峰"
@@ -63,6 +65,11 @@
         "value": "灵眼之物（灵泉）",
         "docId": "lore.xuanmu-huaying-second-yuanying-technique",
         "seq": 655
+      },
+      {
+        "value": "密室",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "用途": [
@@ -177,7 +184,8 @@
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "lore.xuanmu-huaying-second-yuanying-technique",
-    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-17T14:50:26.043Z"
+  "updatedAt": "2026-06-18T11:11:13.681Z"
 }

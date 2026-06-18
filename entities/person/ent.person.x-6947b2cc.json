@@ -15,18 +15,21 @@
     "阴山女子",
     "冰凤所化女子",
     "晶虹",
-    "冰凤一族妖灵"
+    "冰凤一族妖灵",
+    "银衫冰凤",
+    "冰凤所化银衫女子"
   ],
   "summary": "冰渊岛岛主，十级化形妖兽，姿容淡雅；两千年前闭关，此次为飞升灵界之事亲自出马围攻小极宫。",
   "attributes": {
     "性别": "女",
     "种族": "妖兽、冰凤一族、妖族、冰凤、冰凤一族（冰海一族）",
-    "身份": "冰渊岛岛主",
+    "身份": "准化神修士",
     "称号": "凤仙子",
-    "外貌": "银衫淡雅、肌肤似雪、银衫婀娜妙曼、二十许岁，银杉，双目银芒流动、银衫、肌肤似雪的美女、银衫女子，举止不带烟火之气",
-    "小阶段": "十级妖兽",
+    "外貌": "银衫淡雅、肌肤似雪、银衫婀娜妙曼、二十许岁，银杉，双目银芒流动、银衫、肌肤似雪的美女、银衫女子，举止不带烟火之气、千娇百媚银衫女子",
+    "小阶段": "十级妖兽、元婴后期、相当于后期大修士",
     "性格": "冷静、不温不火",
-    "标志特征": "暴风圈神通"
+    "标志特征": "暴风圈神通",
+    "寿元": "数以万计"
   },
   "observations": {
     "性别": [
@@ -68,6 +71,11 @@
         "value": "冰渊岛岛主",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "准化神修士",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "称号": [
@@ -102,6 +110,11 @@
         "value": "银衫女子，举止不带烟火之气",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "千娇百媚银衫女子",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "小阶段": [
@@ -109,6 +122,17 @@
         "value": "十级妖兽",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
+      },
+      {
+        "value": "相当于后期大修士",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117,
+        "note": "冰凤本体"
       }
     ],
     "性格": [
@@ -134,6 +158,18 @@
         "value": "十级化形妖兽",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "冰凤所化",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
+      }
+    ],
+    "寿元": [
+      {
+        "value": "数以万计",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ]
   },
@@ -153,9 +189,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
       "dated": false,
-      "seq": 1087
+      "seq": 1117
     },
     "称号": {
       "asOf": null,
@@ -186,6 +222,12 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+      "dated": false,
+      "seq": 1117
     }
   },
   "contested": false,
@@ -195,7 +237,8 @@
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-18T10:00:34.556Z"
+  "updatedAt": "2026-06-18T11:11:13.658Z"
 }

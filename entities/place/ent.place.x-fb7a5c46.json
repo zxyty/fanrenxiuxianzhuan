@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "逆星盟与星宫多次大战之地。",
   "attributes": {
-    "所属界面": "乱星海"
+    "所属界面": "乱星海、乱星海内海"
   },
   "observations": {
     "所属界面": [
       {
         "value": "乱星海",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      },
+      {
+        "value": "乱星海内海",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
         "seq": 1117
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-15T10:22:05.227Z"
+  "updatedAt": "2026-06-18T11:11:13.702Z"
 }

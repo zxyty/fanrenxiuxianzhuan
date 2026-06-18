@@ -4,16 +4,19 @@
   "name": "黄泉鬼母",
   "aliases": [
     "本老母",
-    "本鬼母"
+    "本鬼母",
+    "本宫主",
+    "绿气中女子"
   ],
   "summary": "高阶鬼修，被封印于玄鬼令中，受美妇以同生咒制约，欲求解禁。",
   "attributes": {
     "种族": "鬼修",
     "存殁": "存、封印中",
-    "小阶段": "元婴后期巅峰",
+    "小阶段": "元婴后期巅峰、元婴后期",
     "称号": "黄泉鬼母",
     "性别": "女",
-    "身份": "鬼修"
+    "身份": "鬼修",
+    "标志特征": "绿濛濛阴气缠身"
   },
   "observations": {
     "种族": [
@@ -41,6 +44,11 @@
         "value": "元婴后期巅峰",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "称号": [
@@ -62,6 +70,13 @@
         "value": "鬼修",
         "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
         "seq": 1093
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "绿濛濛阴气缠身",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ]
   },
@@ -103,6 +118,12 @@
       "docId": "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
       "dated": false,
       "seq": 1093
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+      "dated": false,
+      "seq": 1117
     }
   },
   "contested": false,
@@ -110,7 +131,8 @@
   "docs": [
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
-    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie"
+    "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-18T10:03:53.942Z"
+  "updatedAt": "2026-06-18T11:11:13.454Z"
 }

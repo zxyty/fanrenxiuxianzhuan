@@ -18,9 +18,9 @@
   "summary": "小极宫内宫三座白玉宫殿，式样同虚天殿而仅三分之一大，自立派起即存在，平时封闭需过半长老同意方可开启。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群、禁地/秘殿、可撕破空间的庞大殿宇、可空间传送的殿堂、宫殿、殿宇/秘境",
+    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群、禁地/秘殿、可撕破空间的庞大殿宇、可空间传送的殿堂、宫殿、殿宇/秘境、上古殿宇",
     "特产": "神识受限",
-    "守护": "冰魄寒烈阵、需过半长老同意方可开启、符文石门封印、禁神禁制、小极宫修士、超级灵石法阵、冰魄寒烈阵、传送阵、冰雕守卫兽、传送阵",
+    "守护": "冰魄寒烈阵、需过半长老同意方可开启、符文石门封印、禁神禁制、小极宫修士、超级灵石法阵、冰魄寒烈阵、传送阵、冰雕守卫兽、传送阵、上古传送阵/禁制",
     "危险度": "极高"
   },
   "observations": {
@@ -111,6 +111,11 @@
         "value": "殿宇/秘境",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "上古殿宇",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "特产": [
@@ -165,6 +170,11 @@
         "value": "传送阵",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "上古传送阵/禁制",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "危险度": [
@@ -223,7 +233,8 @@
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
     "plot.fanren-1099-1100-fanmu-zhanqi",
-    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-18T10:54:03.920Z"
+  "updatedAt": "2026-06-18T11:11:13.501Z"
 }

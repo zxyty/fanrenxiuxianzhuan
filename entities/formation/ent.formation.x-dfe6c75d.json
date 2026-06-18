@@ -4,13 +4,15 @@
   "name": "控制法阵",
   "aliases": [
     "虚天殿控制法阵",
-    "巨阵"
+    "巨阵",
+    "巨**阵"
   ],
   "summary": "虚天殿核心控制法阵,藏于寒骊台祭坛地下,需以虚天鼎启动;银衫女子以十几杆上古符文阵旗布动。",
   "attributes": {
     "出处": "虚天殿",
-    "布置者": "银衫女子(启动)",
-    "破解法": "需虚天鼎启动、化神期修士或数名后期修士联手以虚天鼎驱动"
+    "布置者": "银衫女子(启动)、虚天殿原主",
+    "破解法": "需虚天鼎启动、化神期修士或数名后期修士联手以虚天鼎驱动、化神期修士驱动或数名后期修士合力",
+    "效果": "控制虚天殿禁制/为离开之关键、控制虚天殿"
   },
   "observations": {
     "出处": [
@@ -25,6 +27,11 @@
         "value": "银衫女子(启动)",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
+      },
+      {
+        "value": "虚天殿原主",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "破解法": [
@@ -36,6 +43,23 @@
       {
         "value": "化神期修士或数名后期修士联手以虚天鼎驱动",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      },
+      {
+        "value": "化神期修士驱动或数名后期修士合力",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
+      }
+    ],
+    "效果": [
+      {
+        "value": "控制虚天殿禁制/为离开之关键",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
+      },
+      {
+        "value": "控制虚天殿",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
         "seq": 1117
       }
     ]
@@ -59,12 +83,19 @@
       "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
       "dated": false,
       "seq": 1117
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+      "dated": false,
+      "seq": 1117
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-15T10:22:05.213Z"
+  "updatedAt": "2026-06-18T11:11:13.619Z"
 }

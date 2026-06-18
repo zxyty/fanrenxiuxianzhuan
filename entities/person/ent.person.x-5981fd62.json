@@ -5,13 +5,15 @@
   "aliases": [
     "蜡黄中年人",
     "瞎眼师叔祖",
-    "师叔祖"
+    "师叔祖",
+    "瞎子中年人"
   ],
   "summary": "乱星海某小宗门瞎眼师叔祖(双目灰白)，断言天象多半非宝物出世，提醒混老魔在附近。",
   "attributes": {
     "性别": "男",
-    "外貌": "脸色蜡黄、双目灰白如瞎子",
-    "称号": "师叔祖"
+    "外貌": "脸色蜡黄、双目灰白如瞎子、蜡黄脸、灰白双目如瞎子",
+    "称号": "师叔祖",
+    "身份": "本门师叔祖"
   },
   "observations": {
     "性别": [
@@ -26,12 +28,24 @@
         "value": "脸色蜡黄、双目灰白如瞎子",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
+      },
+      {
+        "value": "蜡黄脸、灰白双目如瞎子",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+        "seq": 1117
       }
     ],
     "称号": [
       {
         "value": "师叔祖",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+        "seq": 1117
+      }
+    ],
+    "身份": [
+      {
+        "value": "本门师叔祖",
+        "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
         "seq": 1117
       }
     ]
@@ -55,12 +69,19 @@
       "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
       "dated": false,
       "seq": 1117
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+      "dated": false,
+      "seq": 1117
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-15T10:22:05.232Z"
+  "updatedAt": "2026-06-18T11:11:13.764Z"
 }
