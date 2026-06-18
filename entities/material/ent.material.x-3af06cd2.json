@@ -18,9 +18,10 @@
   ],
   "summary": "呲咧凶兽的第三只独目，可撕裂空间、看穿幻术遁术瞬移并削弱隔界之力；韩立所得为异种灵兽未熟之目，不纯正。",
   "attributes": {
-    "类型": "破禁偏门神通",
-    "用途": "撕裂空间灭敌、看穿幻术·遁术·瞬移、削弱隔界之力",
-    "稀有度": "价值近金阙玉书"
+    "类型": "妖目/炼化修炼之物、灵目神通、瞳目神通、瞳术神通、破禁偏门神通、妖目",
+    "用途": "撕裂空间灭敌、看穿幻术·遁术·瞬移、削弱隔界之力、操纵诡异法术攻敌、看穿幻术遁术瞬移、削弱隔界之力助偷渡灵界",
+    "稀有度": "价值近金阙玉书",
+    "产地": "继承呲咧兽部分血脉的异种灵兽"
   },
   "observations": {
     "类型": [
@@ -48,6 +49,11 @@
         "value": "破禁偏门神通",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
+      },
+      {
+        "value": "妖目",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "用途": [
@@ -65,6 +71,21 @@
         "value": "削弱隔界之力",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      },
+      {
+        "value": "操纵诡异法术攻敌",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      },
+      {
+        "value": "看穿幻术遁术瞬移",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      },
+      {
+        "value": "削弱隔界之力助偷渡灵界",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "稀有度": [
@@ -73,15 +94,22 @@
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
       }
+    ],
+    "产地": [
+      {
+        "value": "继承呲咧兽部分血脉的异种灵兽",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      }
     ]
   },
   "firstSeq": 1171,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
-      "seq": 1525
+      "seq": 1171
     },
     "用途": {
       "asOf": null,
@@ -92,6 +120,12 @@
     "稀有度": {
       "asOf": null,
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "dated": false,
+      "seq": 1171
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
       "dated": false,
       "seq": 1171
     }
@@ -108,7 +142,8 @@
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-1480-bai-ying",
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-17T02:59:10.941Z"
+  "updatedAt": "2026-06-18T12:42:43.417Z"
 }

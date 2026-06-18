@@ -17,8 +17,8 @@
     "阵营": "正道盟/太真门、正道盟、天南、太真门、正道、正道盟(太真门)、天南修士、天道盟",
     "外貌": "肤白晶莹、五官儒雅、约四十余岁、皮肤晶莹洁白的中年道士、道骨仙风、皮肤晶莹、身背长剑、约四十余岁肤白儒雅背剑道士、道士",
     "标志特征": "背剑、施静心诀",
-    "身份": "正道盟大长老、三大修士之一、太真门修士、道士修士、道士/赌战主事之一、天南三大修士之一、太真门长老/三大势力之一",
-    "称号": "三大修士之一",
+    "身份": "正道盟大长老、三大修士之一、太真门修士、道士修士、道士/赌战主事之一、天南三大修士之一、太真门长老/三大势力之一、太真门大长老",
+    "称号": "天南三大修士之一",
     "结局": "闭生死关冲击化神",
     "性别": "男",
     "性格": "圆滑老道"
@@ -152,6 +152,11 @@
         "value": "太真门长老/三大势力之一",
         "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
+      },
+      {
+        "value": "太真门大长老",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "称号": [
@@ -164,6 +169,11 @@
         "value": "三大修士之一",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "天南三大修士之一",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "结局": [
@@ -222,9 +232,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
       "dated": false,
-      "seq": 865
+      "seq": 1171
     },
     "结局": {
       "asOf": null,
@@ -259,7 +269,8 @@
     "plot.fanren-ch763-antian-zhanqian-anshou",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-17T15:13:41.301Z"
+  "updatedAt": "2026-06-18T12:42:43.304Z"
 }

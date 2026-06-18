@@ -8,7 +8,8 @@
   "summary": "金海宗三名同胞兄弟修士，肩插双色飞叉，曾在坠魔谷外谷遇见白仙子三人，向韩立标注其位置。",
   "attributes": {
     "阵营": "金海宗",
-    "标志特征": "肩插两把异色飞叉、貌似同胞"
+    "标志特征": "肩插两把异色飞叉、貌似同胞、肩插两把飞叉",
+    "种族": "人"
   },
   "observations": {
     "阵营": [
@@ -22,6 +23,18 @@
       {
         "value": "肩插两把异色飞叉、貌似同胞",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "肩插两把飞叉",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      }
+    ],
+    "种族": [
+      {
+        "value": "人",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
       "seq": 1171
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+      "dated": false,
+      "seq": 1171
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-15T11:57:51.561Z"
+  "updatedAt": "2026-06-18T12:42:43.522Z"
 }

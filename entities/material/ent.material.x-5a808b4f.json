@@ -10,16 +10,26 @@
   ],
   "summary": "阴属性矿石久烧而成的稀有炼材，炼制火属性战灵甲的最佳材料，亦可直接驱使为宝物。",
   "attributes": {
-    "类型": "炼器灵材",
-    "用途": "炼制火属性战灵甲、凝炼化丝后可直接驱使（威力不下飞剑）、炼制战甲",
-    "稀有度": "灵界亦少见",
-    "产地": "阴属性矿石在烈火中常年煅烧（百余至数百年）而成"
+    "类型": "炼器灵材、炼器材料、炼器灵丝",
+    "用途": "炼制火属性战灵甲、凝炼化丝后可直接驱使（威力不下飞剑）、炼制战甲、凝炼化丝后可直接驱使攻敌、炼器",
+    "稀有度": "灵界亦少见、灵界亦不多见",
+    "产地": "阴属性矿石在烈火中常年煅烧（百余至数百年）而成、长年燃烧的火鼎"
   },
   "observations": {
     "类型": [
       {
         "value": "炼器灵材",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      },
+      {
+        "value": "炼器灵丝",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
       }
     ],
@@ -38,6 +48,16 @@
         "value": "炼制战甲",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "凝炼化丝后可直接驱使攻敌",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
+      },
+      {
+        "value": "炼器",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "稀有度": [
@@ -45,12 +65,22 @@
         "value": "灵界亦少见",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      },
+      {
+        "value": "灵界亦不多见",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "产地": [
       {
         "value": "阴属性矿石在烈火中常年煅烧（百余至数百年）而成",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      },
+      {
+        "value": "长年燃烧的火鼎",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
       }
     ]
@@ -89,7 +119,8 @@
     "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-16T09:47:06.155Z"
+  "updatedAt": "2026-06-18T12:42:43.547Z"
 }

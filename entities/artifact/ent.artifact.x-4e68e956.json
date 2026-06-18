@@ -10,8 +10,9 @@
   "attributes": {
     "五行属性": "火",
     "持有者": "韩立",
-    "能力": "火焰化灵（赤红火鸦）、凝炼火灵丝",
-    "来历": "燃烧多年、原本诞生火灵丝之物"
+    "能力": "火焰化灵（赤红火鸦）、凝炼火灵丝、火焰化灵生火鸦",
+    "来历": "燃烧多年、原本诞生火灵丝之物",
+    "外形": "赤红小鼎可涨大数倍"
   },
   "observations": {
     "五行属性": [
@@ -38,12 +39,24 @@
         "value": "凝炼火灵丝",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171
+      },
+      {
+        "value": "火焰化灵生火鸦",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "来历": [
       {
         "value": "燃烧多年、原本诞生火灵丝之物",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+        "seq": 1171
+      }
+    ],
+    "外形": [
+      {
+        "value": "赤红小鼎可涨大数倍",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
       }
     ]
@@ -73,12 +86,19 @@
       "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
       "seq": 1171
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+      "dated": false,
+      "seq": 1171
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1173-second-yuanying-tiansha-moshi"
+    "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-15T11:57:51.576Z"
+  "updatedAt": "2026-06-18T12:42:43.536Z"
 }

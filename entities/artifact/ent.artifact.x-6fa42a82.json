@@ -32,9 +32,9 @@
   "summary": "阴罗宗镇宗之宝，被正道击毁数杆，急需大量生魂修复，乃其参战之由。",
   "attributes": {
     "来历": "阴罗宗镇宗之宝、阴罗宗至宝、数十万生魂+数百修士精魂炼成、阴罗宗镇宗至宝、得自阴罗宗、阴罗宗传宗之宝、阴罗宗、韩立修复、大晋昆吾山之行所夺、阴罗宗镇宗之宝/十二鬼罗幡主幡之一、阴罗宗代代相传之宝、炼化之法得自阴罗宗长老神识、阴罗宗宗内至宝、夺自阴罗宗四长老、阴罗宗镇宗之宝（共十八杆）、阴罗宗炼制",
-    "禁制": "需大量生魂修复、无法认主、以生魂修复、以十万生魂及数百修士精魂炼制、无法滴血认主、幡中囚禁主鬼/厉鬼",
+    "禁制": "需大量生魂修复、无法认主、以生魂修复、以十万生魂及数百修士精魂炼制、无法滴血认主、幡中囚禁主鬼/厉鬼、万丈魔气灌注",
     "持有者": "阴罗宗宗主、黑袍青年、韩立、乾老魔、第二元婴、阴罗宗、阴罗宗长老、韩立(第二元婴)、叶家大长老",
-    "能力": "阴魂丝、召鬼火骷髅头、天昏地暗阴风鬼雾、放出元阴魔头/骷髅头、鬼火抗辟邪神雷、护主收容、灌注精纯魔气救治、吸纳魔气、吸纳鬼气自修复、抽取元神、炼制元阴魔头、炼妖尸、护身光幕、放出魔云吞没法宝、断敌法宝联系、催生魔云魔气、召厉鬼、黑雾魔气护体、集十八杆显真威、聚齐十八杆威力难以想象、藏精魂/阴魂、蕴养生魂、喷阴魂丝、天地变色阴风鬼雾、放出骷髅鬼头/元阴魔头、鬼火抵御辟邪神雷、吞噬魔气/鬼气、自行修复、以精纯魔气抽出元神炼为元阴魔头驱使、收纳/吸入灵虫元神与虫躯、化光幕护体（反弹结丹攻击）、放出魔云吞噬法宝/罩杀敌人、黑洞放出噬金虫、布百余丈黑云魔气、放出绿雾护体护众、聚十八杆威力难以想象",
+    "能力": "阴魂丝、召鬼火骷髅头、天昏地暗阴风鬼雾、放出元阴魔头/骷髅头、鬼火抗辟邪神雷、护主收容、灌注精纯魔气救治、吸纳魔气、吸纳鬼气自修复、抽取元神、炼制元阴魔头、炼妖尸、护身光幕、放出魔云吞没法宝、断敌法宝联系、催生魔云魔气、召厉鬼、黑雾魔气护体、集十八杆显真威、聚齐十八杆威力难以想象、藏精魂/阴魂、蕴养生魂、喷阴魂丝、天地变色阴风鬼雾、放出骷髅鬼头/元阴魔头、鬼火抵御辟邪神雷、吞噬魔气/鬼气、自行修复、以精纯魔气抽出元神炼为元阴魔头驱使、收纳/吸入灵虫元神与虫躯、化光幕护体（反弹结丹攻击）、放出魔云吞噬法宝/罩杀敌人、黑洞放出噬金虫、布百余丈黑云魔气、放出绿雾护体护众、聚十八杆威力难以想象、护主神通",
     "外形": "碧绿巨幡，幡面布满人形面孔，缺一角、由碧绿转通体乌黑、乌黑小幡，可涨为数丈巨幡、幡、漆黑如墨小幡、碧绿幡面密布蠕动人脸，缺一角、通体乌黑发亮、乌黑魔幡、乌黑小幡、乌黑小幡，可涨为数丈高巨物",
     "品阶": "魔道法宝",
     "五行属性": "魔",
@@ -153,6 +153,11 @@
         "value": "幡中囚禁主鬼/厉鬼",
         "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
         "seq": 1021
+      },
+      {
+        "value": "万丈魔气灌注",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "持有者": [
@@ -379,6 +384,11 @@
         "value": "聚十八杆威力难以想象",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "护主神通",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "外形": [
@@ -514,41 +524,43 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-1011-three-flame-fan-shocks-enemies",
-    "plot.fanren-1012-qingtong-shi",
-    "plot.fanren-1014-huaxian-ernv",
-    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
-    "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-757-762-gengjing-jiangling-fu",
+    "plot.fanren-775-780-border-war-end-yuanming-lamp",
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
+    "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-1173-second-yuanying-tiansha-moshi",
+    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fanren-ch943-jinjing-extortion-backstab",
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-757-762-gengjing-jiangling-fu",
     "plot.fanren-757-bingxuecan-yu-gengjing",
-    "plot.fanren-775-780-border-war-end-yuanming-lamp",
     "plot.fanren-775-780-giant-ape-appears",
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-781-nangong-jingbian",
-    "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-787-tun-mo-dan-gui",
-    "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
     "plot.fanren-877-882-cangludu-wugui-suoshen",
-    "plot.fanren-937-942-tianjifu-jiezi-space",
     "plot.fanren-937-942-tianjige-jiezi-space",
+    "plot.fmxxz-ch889-tianshui-river-green-bat",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-    "plot.fanren-991-zi-wu",
-    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
-    "plot.fanren-997-1002-kunwushan-qian-laomo",
-    "plot.fanren-ch889-894-tianlan-jinyanshi",
-    "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-ch979-wuzi-tongxin-mo",
-    "plot.fmxxz-ch889-tianshui-river-green-bat"
+    "plot.fanren-991-zi-wu",
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-1011-three-flame-fan-shocks-enemies",
+    "plot.fanren-1012-qingtong-shi",
+    "plot.fanren-1014-huaxian-ernv",
+    "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-18T05:52:33.585Z"
+  "updatedAt": "2026-06-18T12:42:43.269Z"
 }

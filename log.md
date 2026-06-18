@@ -527,3 +527,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T12:14:27.684Z** `ingest` plot.fmxz-ch1155-yaoshou-zhi-luan — 凡人修仙传 第1155章 妖兽之乱——天星双圣设局与外海妖修驱逐令 · kind=plot asOf=2026-06-18 entities=51 relations=71 src=01153-01158.md
 - **2026-06-18T12:22:09.347Z** `ingest` plot.fanren-1159-1164-kunpeng-yu-jinque-yushu — 凡人修仙传 第1159-1164章｜鲲鹏之羽·金阙玉书·重临故地 · kind=plot asOf=2026-06-18 entities=42 relations=51 src=01159-01164.md
 - **2026-06-18T12:25:04.112Z** `ingest` plot.fanren-ch1167-1172-return-to-luoyun-sect — 凡人修仙传 第1167-1172章｜前世今生·重归落云宗·坠魔谷被擒 · kind=plot asOf=2026-06-18 entities=35 relations=35 src=01165-01170.md
+- **2026-06-18T12:42:43.980Z** `ingest` plot.fanren-1173-second-yuanying-tiansha-corpse — 第1173章 第二元婴失控夺舍天煞魔尸，擒慕沛灵三女 · kind=plot asOf=2026-06-18 entities=53 relations=67 src=01171-01176.md

@@ -10,7 +10,7 @@
   "summary": "正道盟宗派，以静心诀闻名；至阳上人出身于此。",
   "attributes": {
     "阵营": "正道盟、正道、天道盟",
-    "据点": "玄武大殿",
+    "据点": "玄武大殿、灵龟岛、玄武大殿、后山金霞谷",
     "理念": "天南第一正门、看守上古封印法阵、镇守封印魔气、看守上古封印大阵、守护封印法阵"
   },
   "observations": {
@@ -41,6 +41,11 @@
         "value": "灵龟岛",
         "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
         "seq": 865
+      },
+      {
+        "value": "玄武大殿、后山金霞谷",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "理念": [
@@ -82,9 +87,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
       "dated": false,
-      "seq": 1171
+      "seq": 865
     },
     "理念": {
       "asOf": null,
@@ -103,7 +108,8 @@
     "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
     "plot.fanren-ch763-antian-zhanqian-anshou",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-17T15:13:41.272Z"
+  "updatedAt": "2026-06-18T12:42:43.348Z"
 }

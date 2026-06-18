@@ -15,12 +15,12 @@
   "attributes": {
     "小阶段": "元婴期",
     "身份": "九国盟太上长老、化意门长老、九国盟大长老、散修、鬼灵门门主、三大修士之一、九国盟大长老/三大修士之一、天南三大修士之一、毒功修士、大修士、正道盟三大修士之一",
-    "称号": "三大修士之一",
+    "称号": "天南三大修士之一",
     "性别": "男",
     "阵营": "化意门、九国盟、天南、鬼灵门盟友、正道、天南修士、与令狐老祖、白衣女子同处",
     "外貌": "相貌普通、青衫、青衫老者、面色灰白、双目黯淡、青衫、面无表情、面色灰白、双目黯淡（受伤）、重伤、皮肤晶莹、面色红润",
     "标志特征": "十指紫黑锐利长指甲、修毒功神通、主修毒功（蝮尸之毒）、绿色毒雾、腹尸毒云毒功、碧绿毒云、十指紫黑锐利长甲、修炼毒功神通、破魂蛇",
-    "寿元": "将尽",
+    "寿元": "将尽、约百余年将坐化、将尽（数年内）",
     "性格": "老奸巨猾、谨慎",
     "存殁": "重伤、死亡、存活",
     "死因": "坐化（寿元将尽，化神未成）"
@@ -125,6 +125,11 @@
         "value": "威震天南数百年的大修士",
         "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
+      },
+      {
+        "value": "天南三大修士之一",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "性别": [
@@ -268,6 +273,11 @@
         "value": "约百余年将坐化",
         "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
+      },
+      {
+        "value": "将尽（数年内）",
+        "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
+        "seq": 1171
       }
     ],
     "性格": [
@@ -318,9 +328,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
       "dated": false,
-      "seq": 865
+      "seq": 1171
     },
     "性别": {
       "asOf": null,
@@ -348,10 +358,9 @@
     },
     "寿元": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
       "dated": false,
-      "seq": 1171,
-      "note": "自言大限将至，仅余数年"
+      "seq": 871
     },
     "性格": {
       "asOf": null,
@@ -407,7 +416,8 @@
     "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
     "plot.fanren-847-852-mojian-zaixian",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan"
+    "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
+    "plot.fanren-1173-second-yuanying-tiansha-corpse"
   ],
-  "updatedAt": "2026-06-17T15:13:41.300Z"
+  "updatedAt": "2026-06-18T12:42:43.298Z"
 }
