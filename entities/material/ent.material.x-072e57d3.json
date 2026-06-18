@@ -2,12 +2,14 @@
   "id": "ent.material.x-072e57d3",
   "type": "material",
   "name": "金焰石",
-  "aliases": [],
+  "aliases": [
+    "金焰奇石"
+  ],
   "summary": "炼制仿制七焰扇最关键的材料，天南早已灭迹多年，外晶莹内有火焰状金光流转。",
   "attributes": {
-    "类型": "炼器灵材",
+    "类型": "炼器灵材、炼器奇石",
     "用途": "炼制仿制七焰扇关键材料",
-    "稀有度": "极稀（天南灭迹多年）",
+    "稀有度": "极稀（天南灭迹多年）、极稀有（天南灭迹多年）",
     "产地": "本章见于天水河滩"
   },
   "observations": {
@@ -15,6 +17,11 @@
       {
         "value": "炼器灵材",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "炼器奇石",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ],
@@ -29,6 +36,11 @@
       {
         "value": "极稀（天南灭迹多年）",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "极稀有（天南灭迹多年）",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ],
@@ -70,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.856Z"
+  "updatedAt": "2026-06-18T01:25:37.417Z"
 }

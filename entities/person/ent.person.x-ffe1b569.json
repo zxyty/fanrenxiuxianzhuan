@@ -2,14 +2,16 @@
   "id": "ent.person.x-ffe1b569",
   "type": "person",
   "name": "顾统领",
-  "aliases": [],
+  "aliases": [
+    "九仙宫顾统领"
+  ],
   "summary": "九仙宫结丹期修士、炼器部出身，追捕江剑英并觊觎金焰石，被韩立噬金虫咬杀。",
   "attributes": {
     "小阶段": "结丹期",
-    "身份": "九仙宫统领、炼器部出身",
+    "身份": "九仙宫统领、炼器部出身、九仙宫统领（炼器部出身）",
     "阵营": "九仙宫",
     "存殁": "死亡",
-    "死因": "被韩立魔化噬金虫钻体咬杀"
+    "死因": "被韩立魔化噬金虫钻体咬杀、被韩立魔化噬金虫钻入体内"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +25,11 @@
       {
         "value": "九仙宫统领、炼器部出身",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "九仙宫统领（炼器部出身）",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ],
@@ -44,6 +51,11 @@
       {
         "value": "被韩立魔化噬金虫钻体咬杀",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "被韩立魔化噬金虫钻入体内",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ]
@@ -84,7 +96,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.844Z"
+  "updatedAt": "2026-06-18T01:25:37.413Z"
 }

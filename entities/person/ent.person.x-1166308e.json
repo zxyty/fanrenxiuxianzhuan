@@ -12,7 +12,9 @@
     "白袍女子",
     "白衣结丹女子",
     "淡白影",
-    "分身白影"
+    "分身白影",
+    "九仙宫白袍女子",
+    "白衣女修"
   ],
   "summary": "掩月宗某长老后人，十二层功法，身怀众多被赐古怪法器（定法器小镜、腐蚀水晶球），追杀黄枫谷女弟子，最终被封岳符宝秒杀。",
   "attributes": {
@@ -20,9 +22,9 @@
     "阵营": "九仙宫",
     "身份": "南宫婉师姐",
     "小阶段": "十二层、炼气期、元婴期、结丹期、元婴",
-    "外貌": "白衣飘飘、有几分姿色、双眉竖起一脸煞气",
+    "外貌": "二十余岁，容颜冷若冰霜",
     "存殁": "存活",
-    "死因": "被韩立第二元婴驱阴罗幡魔云罩杀",
+    "死因": "被封岳的符宝黄芒小刀一击穿透秒杀、被韩立第二元婴驱阴罗幡魔云罩杀、被韩立第二元婴魔云吞噬",
     "标志特征": "紫光宝镜",
     "性格": "执念筑基、心机深"
   },
@@ -111,6 +113,11 @@
         "value": "白衣飘飘、有几分姿色、双眉竖起一脸煞气",
         "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
         "seq": 181
+      },
+      {
+        "value": "二十余岁，容颜冷若冰霜",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "存殁": [
@@ -134,6 +141,11 @@
       {
         "value": "被韩立第二元婴驱阴罗幡魔云罩杀",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "被韩立第二元婴魔云吞噬",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ],
@@ -185,9 +197,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
       "dated": false,
-      "seq": 181
+      "seq": 889
     },
     "存殁": {
       "asOf": null,
@@ -197,9 +209,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
       "dated": false,
-      "seq": 889
+      "seq": 181
     },
     "标志特征": {
       "asOf": null,
@@ -225,7 +237,8 @@
     "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-1480-bai-ying",
-    "plot.fanren-841-846-zhuimogu-lianshou-kangmo"
+    "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-17T14:30:00.899Z"
+  "updatedAt": "2026-06-18T01:25:37.415Z"
 }

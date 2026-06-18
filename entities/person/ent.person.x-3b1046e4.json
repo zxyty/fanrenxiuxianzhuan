@@ -10,8 +10,8 @@
   "attributes": {
     "性别": "男",
     "种族": "突兀族",
-    "身份": "天澜圣殿大仙师",
-    "外貌": "面容俊秀、目光沧桑"
+    "身份": "天澜圣殿大仙师、大仙师",
+    "外貌": "面容俊秀、目光沧桑、面容俊秀、似三十余岁、目光沧桑"
   },
   "observations": {
     "性别": [
@@ -33,12 +33,22 @@
         "value": "天澜圣殿大仙师",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "大仙师",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "外貌": [
       {
         "value": "面容俊秀、目光沧桑",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "面容俊秀、似三十余岁、目光沧桑",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ]
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.866Z"
+  "updatedAt": "2026-06-18T01:25:37.442Z"
 }

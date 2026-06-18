@@ -10,15 +10,17 @@
     "雪晶宝珠",
     "白濛濛晶球",
     "白濛濛圆珠",
-    "晶珠"
+    "晶珠",
+    "晶莹雪白圆珠"
   ],
   "summary": "九仙宫异宝，可放出寒雾御敌，本拟以冰灵根修士血祭祭炼，被江剑英携逃后又被夺回。",
   "attributes": {
-    "能力": "放出寒雾、喷紫罗天火/冰焰之精、放出火鸟、助凝冰壁/冰封、暗藏紫罗极火之力、增益遁速",
-    "来历": "万年玄玉炼制",
+    "能力": "放出寒雾、喷紫罗天火/冰焰之精、放出火鸟、助凝冰壁/冰封、暗藏紫罗极火之力、增益遁速、催发大片寒雾",
+    "来历": "九仙宫之宝、万年玄玉炼制、九仙宫镇宫之宝",
     "外形": "白濛濛圆珠",
     "持有者": "韩立",
-    "五行属性": "寒/冰"
+    "五行属性": "寒/冰",
+    "品阶": "至宝级"
   },
   "observations": {
     "能力": [
@@ -46,6 +48,11 @@
         "value": "暗藏紫罗极火之力、增益遁速",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "催发大片寒雾",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "来历": [
@@ -58,6 +65,11 @@
         "value": "万年玄玉炼制",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "九仙宫镇宫之宝",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "外形": [
@@ -89,6 +101,18 @@
         "value": "寒/冰",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
         "seq": 961
+      },
+      {
+        "value": "冰/水",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "品阶": [
+      {
+        "value": "至宝级",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ]
   },
@@ -102,9 +126,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
+      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
-      "seq": 943
+      "seq": 889
     },
     "外形": {
       "asOf": null,
@@ -123,6 +147,12 @@
       "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
       "dated": false,
       "seq": 961
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
     }
   },
   "contested": false,
@@ -134,7 +164,8 @@
     "plot.fanren-984-xie-yue-huan-jing",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-913-918-xueling-huangsha-zhan"
+    "plot.fanren-913-918-xueling-huangsha-zhan",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-17T16:41:00.867Z"
+  "updatedAt": "2026-06-18T01:25:37.420Z"
 }

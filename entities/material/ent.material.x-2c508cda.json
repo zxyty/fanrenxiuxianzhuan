@@ -3,12 +3,13 @@
   "type": "material",
   "name": "万年灵乳",
   "aliases": [
-    "灵乳"
+    "灵乳",
+    "乳液"
   ],
   "summary": "灵眼之泉万年积累的极品灵液，一小口可瞬间回复全部法力，上万灵石难求一滴。",
   "attributes": {
     "类型": "灵液、灵乳",
-    "用途": "瞬间回复全部法力、助行/恢复法力、弥补精血亏损、快速回复法力",
+    "用途": "瞬间回复全部法力、助行/恢复法力、弥补精血亏损、快速回复法力、补精血、压制反噬",
     "稀有度": "极稀（万灵石难求一滴）、极稀有、万年级、万灵石难求一滴、万年、极珍贵",
     "产地": "灵眼之泉"
   },
@@ -45,6 +46,11 @@
         "value": "快速回复法力",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "补精血、压制反噬",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "稀有度": [
@@ -119,7 +125,8 @@
   "docs": [
     "plot.fanren-ch493-huazhou-zhimi",
     "plot.fanren-ch889-894-tianlan-jinyanshi",
-    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu"
+    "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-17T05:58:16.936Z"
+  "updatedAt": "2026-06-18T01:25:37.471Z"
 }

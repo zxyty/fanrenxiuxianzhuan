@@ -4,7 +4,8 @@
   "name": "天澜草原",
   "aliases": [
     "草原",
-    "天澜草原天澜"
+    "天澜草原天澜",
+    "天澜草原地界"
   ],
   "summary": "突兀人对慕兰大草原的称呼，因信奉天澜兽得名。",
   "attributes": {
@@ -12,7 +13,7 @@
     "类型": "草原势力",
     "特产": "猿鹫等妖兽",
     "守护": "突兀人",
-    "所属界面": "大晋",
+    "所属界面": "大晋、灵界、人界·大晋皇朝",
     "危险度": "妖兽出没"
   },
   "observations": {
@@ -79,6 +80,11 @@
         "value": "灵界",
         "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
         "seq": 877
+      },
+      {
+        "value": "人界·大晋皇朝",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "危险度": [
@@ -117,9 +123,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+      "docId": "plot.fanren-877-882-cangludu-wugui-suoshen",
       "dated": false,
-      "seq": 889
+      "seq": 877
     },
     "危险度": {
       "asOf": null,
@@ -142,7 +148,8 @@
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-877-882-cangludu-wugui-suoshen",
-    "plot.fanren-ch883-leng-mo"
+    "plot.fanren-ch883-leng-mo",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-17T15:46:39.513Z"
+  "updatedAt": "2026-06-18T01:25:37.446Z"
 }

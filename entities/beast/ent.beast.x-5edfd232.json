@@ -10,15 +10,16 @@
     "天澜草原圣兽",
     "天澜妖兽",
     "天澜圣兽人形",
-    "青光童子"
+    "青光童子",
+    "牛首蛟身妖兽"
   ],
   "summary": "灵界颇有名气的大人物，其凝聚分身封于韩立的虚天鼎中，玲珑欲借作临时躯体。",
   "attributes": {
     "栖息地": "灵界",
-    "能力": "灵界遁术、灵界秘术、神识锁定追踪、分神降临实体、幻化虚影、喷青色妖火、吐白雾蔽神识、以神通废雷遁术、喷灰白/银白色妖气御雷、妖气可发金属声反弹雷弧、妖丹挡雷、遁速极快、辨噬金虫气息追踪、牛角化透明水晶查看真伪、喷青濛妖火、白雾(阻神识)",
-    "外形": "幼童声音、童子幻影、牛首蛟身、紫色肉翅、绿色手臂、身长十余丈、童子虚影、牛首蛟首、呆呆模样",
+    "能力": "灵界遁术、灵界秘术、神识锁定追踪、分神降临实体、幻化虚影、喷青色妖火、吐白雾蔽神识、以神通废雷遁术、喷灰白/银白色妖气御雷、妖气可发金属声反弹雷弧、妖丹挡雷、遁速极快、辨噬金虫气息追踪、牛角化透明水晶查看真伪、喷青濛妖火、白雾(阻神识)、凭灵觉远距锁定携噬金虫者",
+    "外形": "幼童声音、童子幻影、牛首蛟身、紫色肉翅、绿色手臂、身长十余丈、童子虚影、牛首蛟首、呆呆模样、牛首蛟身、赤红三四丈、罩青濛霞光",
     "种族": "圣兽、妖族、天地灵兽、突兀族圣兽",
-    "等级": "七级（现阶段）、八级妖兽、八级、圣兽（分神降临）",
+    "等级": "七级（现阶段）、八级妖兽、八级、圣兽（分神降临）、七级",
     "主人": "韩立"
   },
   "observations": {
@@ -109,6 +110,11 @@
         "value": "白雾(阻神识)",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "凭灵觉远距锁定携噬金虫者",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "外形": [
@@ -154,6 +160,11 @@
         "value": "牛首蛟首、呆呆模样",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "牛首蛟身、赤红三四丈、罩青濛霞光",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "种族": [
@@ -198,6 +209,11 @@
         "value": "圣兽（分神降临）",
         "docId": "plot.fanren-ch895-jinpa-yincan",
         "seq": 895
+      },
+      {
+        "value": "七级",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "主人": [
@@ -234,9 +250,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch895-jinpa-yincan",
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
       "dated": false,
-      "seq": 895
+      "seq": 889
     },
     "种族": {
       "asOf": null,
@@ -269,7 +285,8 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-17T16:17:14.647Z"
+  "updatedAt": "2026-06-18T01:25:37.461Z"
 }

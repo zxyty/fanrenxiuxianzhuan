@@ -3,15 +3,19 @@
   "type": "person",
   "name": "江剑英",
   "aliases": [
-    "彪悍青年"
+    "彪悍青年",
+    "雪晶珠盗者"
   ],
   "summary": "九仙宫叛徒，身具冰灵根，携雪晶珠潜逃，本章被擒。",
   "attributes": {
     "小阶段": "筑基期",
     "种族": "冰灵根",
-    "身份": "九仙宫叛徒",
+    "身份": "九仙宫叛徒、九仙宫弟子",
     "出身地": "原为乞儿，经九仙宫灵丹培养成修士",
-    "结局": "被顾统领擒获、雪晶珠被夺"
+    "结局": "被顾统领擒获、雪晶珠被夺",
+    "性别": "男",
+    "外貌": "二十七八岁彪悍青年，身具冰灵根",
+    "标志特征": "冰灵根"
   },
   "observations": {
     "小阶段": [
@@ -33,6 +37,12 @@
         "value": "九仙宫叛徒",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "九仙宫弟子",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889,
+        "note": "已叛逃"
       }
     ],
     "出身地": [
@@ -46,6 +56,27 @@
       {
         "value": "被顾统领擒获、雪晶珠被夺",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "外貌": [
+      {
+        "value": "二十七八岁彪悍青年，身具冰灵根",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "冰灵根",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ]
@@ -81,12 +112,31 @@
       "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
       "seq": 889
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.844Z"
+  "updatedAt": "2026-06-18T01:25:37.416Z"
 }

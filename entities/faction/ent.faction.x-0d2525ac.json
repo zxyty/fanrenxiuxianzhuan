@@ -8,7 +8,9 @@
   "summary": "大晋一方修仙势力，设宫主、统领、炼器部，行事狠辣、以血祭炼宝，类似乱星海大小势力。",
   "attributes": {
     "所属界面": "大晋",
-    "理念": "灭口护宝、以叛徒血祭炼宝"
+    "理念": "灭口护宝、以叛徒血祭炼宝、门规森严、以灵丹堆养弟子供其驱使",
+    "等级": "大晋修仙势力",
+    "镇派之宝": "雪晶珠"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +24,25 @@
       {
         "value": "灭口护宝、以叛徒血祭炼宝",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "门规森严、以灵丹堆养弟子供其驱使",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "等级": [
+      {
+        "value": "大晋修仙势力",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "雪晶珠",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ]
@@ -39,12 +60,25 @@
       "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
       "seq": 889
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.848Z"
+  "updatedAt": "2026-06-18T01:25:37.427Z"
 }

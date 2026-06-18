@@ -4,14 +4,16 @@
   "name": "天澜圣殿圣兽召唤仪式",
   "aliases": [
     "圣兽分身召唤",
-    "开灵日召唤仪式"
+    "开灵日召唤仪式",
+    "圣兽召唤仪式"
   ],
   "summary": "圣女在圣殿禁地主持，首次尝试让圣兽分身永久停留人界，以青风牛、冰甲蟒为祭品施法。",
   "attributes": {
     "章节": "第892章",
-    "地点": "天澜圣殿后禁地广场",
-    "起因": "追杀外族人并尝试永久留住圣兽分身",
-    "经过": "百余高阶仙师列阵，圣女以青焰古鼎施法困青牛上祭坛"
+    "地点": "天澜圣殿后禁地广场、天澜圣殿后禁地",
+    "起因": "追杀外族人并尝试永久留住圣兽分身、追杀『阴罗宗长老』兼首次尝试圣兽分身永驻",
+    "经过": "百余高阶仙师列阵，圣女以青焰古鼎施法困青牛上祭坛、沐浴斋戒、铜人抬祭品、圣女以青焰古鼎施法",
+    "参与方": "天澜圣女、两位大仙师、百余名突兀高阶仙师"
   },
   "observations": {
     "章节": [
@@ -26,6 +28,11 @@
         "value": "天澜圣殿后禁地广场",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "天澜圣殿后禁地",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "起因": [
@@ -33,12 +40,39 @@
         "value": "追杀外族人并尝试永久留住圣兽分身",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "追杀『阴罗宗长老』兼首次尝试圣兽分身永驻",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
       }
     ],
     "经过": [
       {
         "value": "百余高阶仙师列阵，圣女以青焰古鼎施法困青牛上祭坛",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
+        "seq": 889
+      },
+      {
+        "value": "沐浴斋戒、铜人抬祭品、圣女以青焰古鼎施法",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      }
+    ],
+    "参与方": [
+      {
+        "value": "天澜圣女",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      },
+      {
+        "value": "两位大仙师",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+        "seq": 889
+      },
+      {
+        "value": "百余名突兀高阶仙师",
+        "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
       }
     ]
@@ -68,12 +102,19 @@
       "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
       "dated": false,
       "seq": 889
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "dated": false,
+      "seq": 889
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch889-894-tianlan-jinyanshi"
+    "plot.fanren-ch889-894-tianlan-jinyanshi",
+    "plot.fmxxz-ch889-tianshui-river-green-bat"
   ],
-  "updatedAt": "2026-06-16T00:12:42.877Z"
+  "updatedAt": "2026-06-18T01:25:37.453Z"
 }
