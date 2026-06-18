@@ -9,8 +9,8 @@
   "attributes": {
     "性别": "男",
     "小阶段": "结丹期",
-    "身份": "化羽门执掌长老",
-    "外貌": "黑肤魁梧老者"
+    "身份": "化羽门执掌长老、化羽门执掌者之一",
+    "外貌": "黑肤魁梧老者、黑肤魁梧"
   },
   "observations": {
     "性别": [
@@ -32,12 +32,22 @@
         "value": "化羽门执掌长老",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
         "seq": 1159
+      },
+      {
+        "value": "化羽门执掌者之一",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
       }
     ],
     "外貌": [
       {
         "value": "黑肤魁梧老者",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "黑肤魁梧",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
       }
     ]
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.720Z"
+  "updatedAt": "2026-06-18T12:22:09.186Z"
 }

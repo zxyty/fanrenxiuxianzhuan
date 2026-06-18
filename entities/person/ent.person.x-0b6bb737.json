@@ -2,7 +2,9 @@
   "id": "ent.person.x-0b6bb737",
   "type": "person",
   "name": "魔焰门中年修士",
-  "aliases": [],
+  "aliases": [
+    "魔焰宗中年修士"
+  ],
   "summary": "魔焰门筑基后期修士，潜伏灵矿策应灭鬼灵门，被韩立金色剑气洞穿身亡。",
   "attributes": {
     "性别": "男",
@@ -24,7 +26,8 @@
       {
         "value": "筑基后期",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
-        "seq": 1159
+        "seq": 1159,
+        "note": "曾伪装炼气期"
       }
     ],
     "阵营": [
@@ -68,7 +71,8 @@
       "asOf": null,
       "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
-      "seq": 1159
+      "seq": 1159,
+      "note": "曾伪装炼气期"
     },
     "阵营": {
       "asOf": null,
@@ -98,7 +102,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.717Z"
+  "updatedAt": "2026-06-18T12:22:09.183Z"
 }

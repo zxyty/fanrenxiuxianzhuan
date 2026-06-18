@@ -9,7 +9,8 @@
   "summary": "韩立交易后赶往的方向。",
   "attributes": {
     "所属界面": "乱星海",
-    "守护": "白濛濛护岛禁制"
+    "守护": "白濛濛护岛禁制、全岛禁制光幕",
+    "类型": "海岛"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +24,18 @@
       {
         "value": "白濛濛护岛禁制",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "全岛禁制光幕",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
+      }
+    ],
+    "类型": [
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
       }
     ]
@@ -40,13 +53,20 @@
       "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
       "seq": 1159
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+      "dated": false,
+      "seq": 1159
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1155-yaoshou-zhi-luan",
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.702Z"
+  "updatedAt": "2026-06-18T12:22:09.169Z"
 }

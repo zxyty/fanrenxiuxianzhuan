@@ -11,7 +11,7 @@
     "小阶段": "筑基初期",
     "身份": "鬼灵门弟子",
     "存殁": "死亡",
-    "死因": "被孟姓大汉飞剑背刺斩首",
+    "死因": "被孟姓大汉飞剑背刺斩首、被魔焰门中年修士飞剑斩首",
     "外貌": "面容苍白老者"
   },
   "observations": {
@@ -47,6 +47,11 @@
       {
         "value": "被孟姓大汉飞剑背刺斩首",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "被魔焰门中年修士飞剑斩首",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
       }
     ],
@@ -100,7 +105,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.716Z"
+  "updatedAt": "2026-06-18T12:22:09.182Z"
 }

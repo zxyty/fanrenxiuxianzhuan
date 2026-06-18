@@ -8,7 +8,7 @@
   "summary": "落云宗长老，旧伤致元气损耗、寿元将近，急于拉拢交好韩立以保宗门。",
   "attributes": {
     "小阶段": "元婴",
-    "身份": "落云宗长老",
+    "身份": "落云宗前执掌者",
     "外貌": "银发、银发老者",
     "寿元": "至多五六十年",
     "存殁": "存活（伤后寿元将尽）"
@@ -26,6 +26,11 @@
         "value": "落云宗长老",
         "docId": "plot.fanren-ch666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "落云宗前执掌者",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
       }
     ],
     "外貌": [
@@ -65,9 +70,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch666-liuyu",
+      "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
       "dated": false,
-      "seq": 667
+      "seq": 1159
     },
     "外貌": {
       "asOf": null,
@@ -92,7 +97,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch666-liuyu",
-    "plot.fanren-666-liuyu"
+    "plot.fanren-666-liuyu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-17T10:04:47.612Z"
+  "updatedAt": "2026-06-18T12:22:09.189Z"
 }

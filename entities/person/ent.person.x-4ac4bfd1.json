@@ -7,7 +7,8 @@
   "attributes": {
     "称号": "真人",
     "小阶段": "元婴期",
-    "身份": "化羽门掌门"
+    "身份": "化羽门掌门、化羽门掌门/开派祖师",
+    "性别": "男"
   },
   "observations": {
     "称号": [
@@ -28,6 +29,18 @@
       {
         "value": "化羽门掌门",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "化羽门掌门/开派祖师",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
       }
     ]
@@ -51,12 +64,19 @@
       "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
       "seq": 1159
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+      "dated": false,
+      "seq": 1159
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.718Z"
+  "updatedAt": "2026-06-18T12:22:09.187Z"
 }

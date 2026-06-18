@@ -13,7 +13,8 @@
     "小阶段": "筑基中期",
     "阵营": "魔道",
     "身份": "鬼灵门弟子",
-    "外貌": "面目凶恶黑袍大汉"
+    "外貌": "面目凶恶黑袍大汉",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -50,6 +51,13 @@
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
         "seq": 1159
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
+      }
     ]
   },
   "firstSeq": 1159,
@@ -83,12 +91,19 @@
       "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
       "seq": 1159
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+      "dated": false,
+      "seq": 1159
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.716Z"
+  "updatedAt": "2026-06-18T12:22:09.181Z"
 }

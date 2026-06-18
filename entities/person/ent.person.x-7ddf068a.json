@@ -2,13 +2,15 @@
   "id": "ent.person.x-7ddf068a",
   "type": "person",
   "name": "关清",
-  "aliases": [],
+  "aliases": [
+    "儒衫中年修士"
+  ],
   "summary": "化羽门结丹期修士，一身儒衫的中年修士，掌门外出期间与黑肤老者共同执掌宗门。",
   "attributes": {
     "性别": "男",
     "小阶段": "结丹期",
-    "身份": "化羽门执掌长老",
-    "外貌": "儒衫中年修士"
+    "身份": "化羽门执掌长老、化羽门执掌者之一",
+    "外貌": "儒衫中年修士、一身儒衫的中年"
   },
   "observations": {
     "性别": [
@@ -30,12 +32,22 @@
         "value": "化羽门执掌长老",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
         "seq": 1159
+      },
+      {
+        "value": "化羽门执掌者之一",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+        "seq": 1159
       }
     ],
     "外貌": [
       {
         "value": "儒衫中年修士",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+        "seq": 1159
+      },
+      {
+        "value": "一身儒衫的中年",
+        "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
       }
     ]
@@ -70,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
   ],
-  "updatedAt": "2026-06-15T11:41:39.719Z"
+  "updatedAt": "2026-06-18T12:22:09.185Z"
 }
