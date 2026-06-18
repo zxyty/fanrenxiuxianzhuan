@@ -6,7 +6,8 @@
   "summary": "凤仙子坐镇的妖兽之岛，她两千年来于此闭关不出。",
   "attributes": {
     "守护": "凤仙子",
-    "所属势力": "冰凤一族"
+    "所属势力": "冰凤一族",
+    "类型": "海岛"
   },
   "observations": {
     "守护": [
@@ -27,6 +28,13 @@
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
       }
+    ],
+    "类型": [
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
     ]
   },
   "firstSeq": 1087,
@@ -42,13 +50,20 @@
       "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
       "dated": false,
       "seq": 1117
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
-    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji"
+    "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T10:22:05.198Z"
+  "updatedAt": "2026-06-18T10:00:34.565Z"
 }

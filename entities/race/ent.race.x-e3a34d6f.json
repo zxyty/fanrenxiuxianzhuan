@@ -2,11 +2,14 @@
   "id": "ent.race.x-e3a34d6f",
   "type": "race",
   "name": "冰海一族",
-  "aliases": [],
+  "aliases": [
+    "冰海妖族"
+  ],
   "summary": "冰寒属性海族妖兽群体，镇族之宝为镇海钟；低阶存在众多，本章遭小极宫趁镇海钟之威屠戮。",
   "attributes": {
-    "特性": "冰寒属性",
-    "聚居地": "冰渊岛"
+    "特性": "冰寒属性、冰寒属性，八级以下惧镇海钟",
+    "聚居地": "冰渊岛、冰渊岛/冰海海域",
+    "天敌": "镇海钟"
   },
   "observations": {
     "特性": [
@@ -14,12 +17,29 @@
         "value": "冰寒属性",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "冰寒属性，八级以下惧镇海钟",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "聚居地": [
       {
         "value": "冰渊岛",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "冰渊岛/冰海海域",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
+    ],
+    "天敌": [
+      {
+        "value": "镇海钟",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ]
@@ -37,12 +57,19 @@
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
       "seq": 1087
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.976Z"
+  "updatedAt": "2026-06-18T10:00:34.560Z"
 }

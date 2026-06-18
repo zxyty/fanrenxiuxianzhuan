@@ -8,7 +8,8 @@
     "出身地": "五龙海",
     "标志特征": "天地灵兽后裔，上古大战修成",
     "存殁": "死亡",
-    "死因": "坐化"
+    "死因": "坐化、坐化（苟延至今终重回天地轮回）",
+    "种族": "天地灵兽后裔"
   },
   "observations": {
     "出身地": [
@@ -36,6 +37,18 @@
       {
         "value": "坐化",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "坐化（苟延至今终重回天地轮回）",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
+    ],
+    "种族": [
+      {
+        "value": "天地灵兽后裔",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ]
@@ -65,12 +78,19 @@
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
       "seq": 1087
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.974Z"
+  "updatedAt": "2026-06-18T10:00:34.558Z"
 }

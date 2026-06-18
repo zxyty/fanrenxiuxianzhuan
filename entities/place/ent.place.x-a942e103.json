@@ -10,14 +10,15 @@
     "虚灵殿内殿",
     "虚灵殿大殿",
     "三座大殿",
-    "Xuling Hall"
+    "Xuling Hall",
+    "虚灵殿之行"
   ],
   "summary": "小极宫内宫三座白玉宫殿，式样同虚天殿而仅三分之一大，自立派起即存在，平时封闭需过半长老同意方可开启。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群、禁地/秘殿",
+    "类型": "上古玉殿、秘境禁地、禁地、空间秘所、可撕破空间的庞然殿宇、殿宇、秘境大殿、上古秘殿、秘殿、殿宇群、封闭宫殿群、禁地/秘殿、可撕破空间的庞大殿宇",
     "特产": "神识受限",
-    "守护": "冰魄寒烈阵",
+    "守护": "冰魄寒烈阵、需过半长老同意方可开启、符文石门封印、禁神禁制、小极宫修士",
     "危险度": "极高"
   },
   "observations": {
@@ -67,7 +68,7 @@
       {
         "value": "上古秘殿",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
-        "seq": 1117
+        "seq": 1087
       },
       {
         "value": "秘殿",
@@ -88,6 +89,11 @@
         "value": "禁地/秘殿",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "可撕破空间的庞大殿宇",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "特产": [
@@ -117,6 +123,16 @@
         "value": "符文石门封印",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "禁神禁制",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "小极宫修士",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "危险度": [
@@ -149,9 +165,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
       "dated": false,
-      "seq": 1087
+      "seq": 1075
     },
     "危险度": {
       "asOf": null,
@@ -171,7 +187,8 @@
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-1075-1080-beiming-island-xiaojigong",
-    "plot.fanren-1086-1087-hanyan-xulingdian"
+    "plot.fanren-1086-1087-hanyan-xulingdian",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T09:43:45.792Z"
+  "updatedAt": "2026-06-18T10:00:34.565Z"
 }

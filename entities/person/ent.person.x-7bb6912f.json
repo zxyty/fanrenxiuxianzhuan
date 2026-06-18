@@ -11,9 +11,10 @@
   "attributes": {
     "性别": "女",
     "身份": "小极宫宫主、小极宫掌门",
-    "外貌": "白衫中年美妇，声音略沙哑",
+    "外貌": "白衫中年美妇，声音略沙哑、白衫中年美妇、美妇",
     "阵营": "小极宫",
-    "小阶段": "元婴后期"
+    "小阶段": "元婴后期",
+    "标志特征": "沙哑磁性嗓音"
   },
   "observations": {
     "性别": [
@@ -40,6 +41,16 @@
         "value": "白衫中年美妇，声音略沙哑",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "白衫中年美妇",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "美妇",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "阵营": [
@@ -54,6 +65,13 @@
         "value": "元婴后期",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "沙哑磁性嗓音",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -88,6 +106,12 @@
       "docId": "plot.fanren-1113-yaoqi-chongtian",
       "dated": false,
       "seq": 1111
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
@@ -95,7 +119,8 @@
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
-    "plot.fanren-1113-yaoqi-chongtian"
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-16T06:28:51.160Z"
+  "updatedAt": "2026-06-18T10:00:34.533Z"
 }

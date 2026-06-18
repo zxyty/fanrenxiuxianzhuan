@@ -8,10 +8,12 @@
   ],
   "summary": "昔日修士，小极宫为其留在人界的一脉，已成往事人物。",
   "attributes": {
-    "身份": "上古飞升修士/许家先祖",
+    "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖",
     "称号": "上古修士",
     "存殁": "失踪",
-    "性别": "女"
+    "性别": "女",
+    "结局": "飞升前冰封冰渊岛后莫名失踪",
+    "标志特征": "持镇海钟克制冰海一族"
   },
   "observations": {
     "身份": [
@@ -29,6 +31,11 @@
         "value": "上古飞升修士/许家先祖",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "小极宫一脉始祖",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "称号": [
@@ -55,7 +62,21 @@
       {
         "value": "女",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
-        "seq": 1327
+        "seq": 1087
+      }
+    ],
+    "结局": [
+      {
+        "value": "飞升前冰封冰渊岛后莫名失踪",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "持镇海钟克制冰海一族",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -63,9 +84,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
-      "seq": 1327
+      "seq": 1087
     },
     "称号": {
       "asOf": null,
@@ -84,7 +105,19 @@
       "asOf": null,
       "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
       "dated": false,
-      "seq": 1327
+      "seq": 1087
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
@@ -95,7 +128,8 @@
     "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-1327-1332-tianyuan-fangshi",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-17T03:26:19.757Z"
+  "updatedAt": "2026-06-18T10:00:34.557Z"
 }

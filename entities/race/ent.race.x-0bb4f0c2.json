@@ -18,7 +18,8 @@
   "attributes": {
     "特性": "天生具撕破空间能力",
     "代表人物": "银衫女子(十级冰凤)",
-    "聚居地": "冰渊岛"
+    "聚居地": "冰渊岛",
+    "天赋神通": "撕破空间"
   },
   "observations": {
     "特性": [
@@ -46,6 +47,13 @@
         "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
         "seq": 1117
       }
+    ],
+    "天赋神通": [
+      {
+        "value": "撕破空间",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
     ]
   },
   "firstSeq": 1087,
@@ -67,6 +75,12 @@
       "docId": "plot.fanren-1117-1122-huangquan-guimu-chuansong-zhanji",
       "dated": false,
       "seq": 1117
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
@@ -78,7 +92,8 @@
     "plot.fanren-ch1123-1128-houqi-chucheng",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-16T10:12:05.270Z"
+  "updatedAt": "2026-06-18T10:00:34.561Z"
 }

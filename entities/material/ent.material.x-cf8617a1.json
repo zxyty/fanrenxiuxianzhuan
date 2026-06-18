@@ -10,9 +10,9 @@
   ],
   "summary": "比万年玄冰冰寒数倍的奇异材料，掺入法宝即赋冰寒神通；无法强取，唯阴灵水可取下。",
   "attributes": {
-    "类型": "极属性材料",
-    "用途": "掺入法宝赋冰寒神通、孕育寒髓、炼制雪晶珠、加入飞剑、炼制奇宝、精练极寒之焰、炼制飞剑、祭炼飞剑增寒气、炼制极寒法宝、封存灵物、孕育寒髓、炼制雪晶珠",
-    "稀有度": "稀有",
+    "类型": "冰寒灵材、极寒玉石、寒属性玉石、灵玉、炼器材料、极属性材料、极寒矿材",
+    "用途": "掺入法宝赋冰寒神通、孕育寒髓、炼制雪晶珠、加入飞剑、炼制奇宝、精练极寒之焰、炼制飞剑、祭炼飞剑增寒气、炼制极寒法宝、封存灵物、孕育寒髓、炼制雪晶珠、炼器赋冰寒神通",
+    "稀有度": "外界绝迹、有价无市、罕有、极稀、稀有、有价无市/外界几近绝迹",
     "产地": "小极宫"
   },
   "observations": {
@@ -46,6 +46,11 @@
         "value": "极属性材料",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
         "seq": 1381
+      },
+      {
+        "value": "极寒矿材",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "用途": [
@@ -103,6 +108,11 @@
         "value": "孕育寒髓、炼制雪晶珠",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "炼器赋冰寒神通",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "稀有度": [
@@ -125,6 +135,11 @@
         "value": "稀有",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "有价无市/外界几近绝迹",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "产地": [
@@ -144,9 +159,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1381
+      "seq": 943
     },
     "用途": {
       "asOf": null,
@@ -156,9 +171,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
-      "seq": 1327
+      "seq": 1087
     },
     "产地": {
       "asOf": null,
@@ -178,7 +193,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1327-1332-tianyuan-fangshi",
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
-    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T01:51:51.542Z"
+  "updatedAt": "2026-06-18T10:00:34.515Z"
 }

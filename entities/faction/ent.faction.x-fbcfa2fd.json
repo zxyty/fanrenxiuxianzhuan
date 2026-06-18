@@ -15,13 +15,13 @@
   ],
   "summary": "位于北冥冰岛的著名寒地宗门，韩立拟往采玄冰花、探寒髓与太阳精火线索。",
   "attributes": {
-    "据点": "北冥冰岛、北冥岛冰城、北地、北冥岛、海岛、寒骊秘境/虚灵殿、玄玉洞、冰天雪地、虚灵殿、北冥岛冰城/寒骊秘境",
+    "据点": "北冥冰岛、北冥岛冰城、北地、北冥岛、海岛、寒骊秘境/虚灵殿、玄玉洞、冰天雪地、虚灵殿、北冥岛冰城/寒骊秘境、北地海岛、冰渊岛/冰城",
     "等级": "北地第一宗",
     "所属界面": "大晋皇朝",
-    "镇派之宝": "乾蓝冰焰、三大寒焰、虚灵殿/监察灵宝、万年玄玉/玄玉洞、创派祖师所留克冰海低阶妖兽之宝、镇海钟、乾蓝鼎/乾蓝冰焰、乾蓝鼎、大挪移令、乾蓝冰焰(传承)、寒髓、虚灵殿设施、寒髓（已失踪）、蜃楼石（禁断大阵阵眼）、虚灵殿、乾蓝冰焰巨鼎、监察灵宝",
+    "镇派之宝": "乾蓝冰焰、三大寒焰、虚灵殿/监察灵宝、万年玄玉/玄玉洞、创派祖师所留克冰海低阶妖兽之宝、镇海钟、乾蓝鼎/乾蓝冰焰、乾蓝鼎、大挪移令、乾蓝冰焰(传承)、寒髓、虚灵殿设施、寒髓（已失踪）、蜃楼石（禁断大阵阵眼）、虚灵殿、乾蓝冰焰巨鼎、监察灵宝、万年玄玉、阴灵水、创派祖师遗宝（克冰海低阶妖兽）、镇海钟（仿制灵宝）",
     "掌门": "美妇(小极宫宫主)、柳姓美妇、美妇（宫主）、小极宫宫主",
-    "阵营": "人类修士",
-    "理念": "寒骊上人传承、寒属性功法、寒属性功法见长、冰寒属性功法见长"
+    "阵营": "人类修士、正道散修势力、人类修仙界",
+    "理念": "寒骊上人传承、寒属性功法、寒属性功法见长、冰寒属性功法见长、冰魄仙子一脉"
   },
   "observations": {
     "据点": [
@@ -74,6 +74,16 @@
         "value": "北冥岛冰城/寒骊秘境",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
+      },
+      {
+        "value": "北地海岛",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "冰渊岛/冰城",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "等级": [
@@ -185,6 +195,26 @@
         "value": "监察灵宝",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "万年玄玉",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "阴灵水",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "创派祖师遗宝（克冰海低阶妖兽）",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "镇海钟（仿制灵宝）",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "掌门": [
@@ -219,6 +249,11 @@
         "value": "正道散修势力",
         "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
         "seq": 1081
+      },
+      {
+        "value": "人类修仙界",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "理念": [
@@ -241,6 +276,11 @@
         "value": "冰寒属性功法见长",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
+      },
+      {
+        "value": "冰魄仙子一脉",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -278,9 +318,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
       "dated": false,
-      "seq": 1087
+      "seq": 1081
     },
     "理念": {
       "asOf": null,
@@ -316,7 +356,8 @@
     "plot.fanren-1075-1080-beiming-island-xiaojigong",
     "plot.fanren-1081-1082-three-cold-flames",
     "plot.fanren-ch1083-1085-bingning-shou-er-yao",
-    "plot.fanren-1086-1087-hanyan-xulingdian"
+    "plot.fanren-1086-1087-hanyan-xulingdian",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T09:43:45.790Z"
+  "updatedAt": "2026-06-18T10:00:34.559Z"
 }

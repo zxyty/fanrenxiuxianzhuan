@@ -6,8 +6,8 @@
   "summary": "诞生于天地寒气的五六级妖兽，身体透明如水母，不惧风雪酷寒。",
   "attributes": {
     "等级": "五六级",
-    "栖息地": "北冥岛冰海",
-    "外形": "身体透明如水母"
+    "栖息地": "北冥岛冰海、北冥岛/冰海",
+    "外形": "身体透明如水母、透明如水母"
   },
   "observations": {
     "等级": [
@@ -22,12 +22,22 @@
         "value": "北冥岛冰海",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "北冥岛/冰海",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "外形": [
       {
         "value": "身体透明如水母",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "透明如水母",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.968Z"
+  "updatedAt": "2026-06-18T10:00:34.551Z"
 }

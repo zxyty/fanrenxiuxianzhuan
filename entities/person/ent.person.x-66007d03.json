@@ -13,9 +13,10 @@
     "性别": "女",
     "小阶段": "元婴",
     "身份": "小极宫外门长老",
-    "标志特征": "声如处子、满头白发、拐杖、青色小锤、功法保持年轻声音",
+    "标志特征": "声如处子、满头白发、拐杖、青色小锤、功法保持年轻声音、黄焰、黄色拐杖",
     "阵营": "柳翠派",
-    "外貌": "满脸皱纹老妪"
+    "外貌": "满头鹤发的老妪、满脸皱纹老妪、须发皆白老妪、声音如处子、满头鹤发",
+    "性格": "冷傲"
   },
   "observations": {
     "性别": [
@@ -65,6 +66,11 @@
         "value": "功法保持年轻声音",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "黄焰、黄色拐杖",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "阵营": [
@@ -89,6 +95,18 @@
         "value": "须发皆白老妪、声音如处子",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "满头鹤发",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷傲",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -127,9 +145,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
       "dated": false,
-      "seq": 1093
+      "seq": 1081
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
@@ -139,7 +163,8 @@
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-1099-1104-xuanyu-cave-battle",
-    "plot.fanren-1086-1087-hanyan-xulingdian"
+    "plot.fanren-1086-1087-hanyan-xulingdian",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T09:43:45.784Z"
+  "updatedAt": "2026-06-18T10:00:34.498Z"
 }

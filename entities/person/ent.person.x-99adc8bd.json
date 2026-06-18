@@ -18,7 +18,7 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期",
-    "身份": "僧人、僧人/外援、僧修、散修、僧人/寒焰修士",
+    "身份": "僧人、僧人/外援、僧修、散修、僧人/寒焰修士、外援修士",
     "标志特征": "身具极寒之焰",
     "外貌": "灰袍僧人",
     "阵营": "佛门",
@@ -43,6 +43,11 @@
         "value": "元婴中期",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "身份": [
@@ -70,6 +75,11 @@
         "value": "僧人/寒焰修士",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "外援修士",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "标志特征": [
@@ -177,7 +187,8 @@
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
     "plot.fanren-1099-1104-xuanyu-cave-battle",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
-    "plot.fanren-1086-1087-hanyan-xulingdian"
+    "plot.fanren-1086-1087-hanyan-xulingdian",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T09:43:45.785Z"
+  "updatedAt": "2026-06-18T10:00:34.531Z"
 }

@@ -8,17 +8,18 @@
   "summary": "小极宫镇宫之宝，可重创冰海低阶妖兽；效用仅一柱香，用一次后需沉睡百余年。",
   "attributes": {
     "持有者": "小极宫",
-    "能力": "重创冰海低阶妖兽、钟鸣令冰寒妖兽骨松筋软（八级以下大受威慑，八级以上可硬抗，影响约一炷香）",
-    "禁制": "一柱香时效、用后沉睡百余年",
+    "能力": "重创冰海低阶妖兽、钟鸣令冰寒妖兽骨松筋软（八级以下大受威慑，八级以上可硬抗，影响约一炷香）、重创大范围低阶妖兽、令冰寒属性妖兽（八级以下）骨松筋软无法动弹、钟鸣如龙吟虎啸，影响约一炷香",
+    "禁制": "一柱香时效、用后沉睡百余年、效用约一柱香、动用后沉睡百余年",
     "品阶": "灵宝仿制品",
-    "来历": "冰海一族镇族之宝"
+    "来历": "冰海一族镇族之宝、冰海一族镇族之宝，后落入冰魄仙子手中，今在小极宫"
   },
   "observations": {
     "持有者": [
       {
         "value": "小极宫",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
-        "seq": 1087
+        "seq": 1087,
+        "note": "经冰魄仙子之手留下克制冰海一族"
       }
     ],
     "能力": [
@@ -31,12 +32,32 @@
         "value": "钟鸣令冰寒妖兽骨松筋软（八级以下大受威慑，八级以上可硬抗，影响约一炷香）",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "重创大范围低阶妖兽",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "令冰寒属性妖兽（八级以下）骨松筋软无法动弹",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "钟鸣如龙吟虎啸，影响约一炷香",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "禁制": [
       {
         "value": "一柱香时效、用后沉睡百余年",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "效用约一柱香、动用后沉睡百余年",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ],
@@ -52,6 +73,11 @@
         "value": "冰海一族镇族之宝",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "冰海一族镇族之宝，后落入冰魄仙子手中，今在小极宫",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -61,7 +87,8 @@
       "asOf": null,
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
-      "seq": 1087
+      "seq": 1087,
+      "note": "经冰魄仙子之手留下克制冰海一族"
     },
     "能力": {
       "asOf": null,
@@ -91,7 +118,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.977Z"
+  "updatedAt": "2026-06-18T10:00:34.562Z"
 }

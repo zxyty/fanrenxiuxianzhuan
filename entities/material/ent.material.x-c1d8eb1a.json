@@ -2,11 +2,14 @@
   "id": "ent.material.x-c1d8eb1a",
   "type": "material",
   "name": "玄玉寒气",
-  "aliases": [],
+  "aliases": [
+    "玄玉寒气团",
+    "乳白色寒气"
+  ],
   "summary": "玄玉洞中乳白色极寒之气，可助极寒之焰修士突破瓶颈。",
   "attributes": {
-    "类型": "寒气灵气",
-    "用途": "突破极寒之焰瓶颈",
+    "类型": "寒气灵气、灵气/寒气",
+    "用途": "突破极寒之焰瓶颈、辅助突破瓶颈",
     "产地": "北冥岛玄玉洞"
   },
   "observations": {
@@ -15,12 +18,22 @@
         "value": "寒气灵气",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "灵气/寒气",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "用途": [
       {
         "value": "突破极寒之焰瓶颈",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "辅助突破瓶颈",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ],
@@ -56,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.952Z"
+  "updatedAt": "2026-06-18T10:00:34.539Z"
 }

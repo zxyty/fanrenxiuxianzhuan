@@ -3,12 +3,14 @@
   "type": "material",
   "name": "阴灵水",
   "aliases": [
-    "黑色液滴"
+    "黑色液滴",
+    "落石化金之水",
+    "墨滴"
   ],
   "summary": "小极宫创派祖师遗留宝物自汇地灵阴气、十年聚成一滴，落石化金，唯此可完好取下玄玉。",
   "attributes": {
-    "类型": "灵液",
-    "用途": "落石化金、取下玄玉",
+    "类型": "灵液、祖师遗宝所聚灵液",
+    "用途": "落石化金、取下玄玉、落石化金、取下万年玄玉",
     "稀有度": "十年一滴"
   },
   "observations": {
@@ -17,12 +19,22 @@
         "value": "灵液",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "祖师遗宝所聚灵液",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "用途": [
       {
         "value": "落石化金、取下玄玉",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "落石化金、取下万年玄玉",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ],
@@ -58,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.929Z"
+  "updatedAt": "2026-06-18T10:00:34.518Z"
 }

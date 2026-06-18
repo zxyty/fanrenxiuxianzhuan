@@ -12,7 +12,8 @@
     "身份": "小极宫高层/宫主一方",
     "称号": "宫主",
     "外貌": "美妇",
-    "阵营": "小极宫"
+    "阵营": "小极宫",
+    "小阶段": "元婴期"
   },
   "observations": {
     "性别": [
@@ -54,6 +55,13 @@
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
       }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      }
     ]
   },
   "firstSeq": 1087,
@@ -87,13 +95,20 @@
       "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
       "dated": false,
       "seq": 1093
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+      "dated": false,
+      "seq": 1087
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
-    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui"
+    "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:38:32.738Z"
+  "updatedAt": "2026-06-18T10:00:34.546Z"
 }

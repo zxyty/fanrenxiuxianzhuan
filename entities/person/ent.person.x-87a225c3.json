@@ -14,10 +14,10 @@
   "summary": "黄枫谷长老，红脸老者，其侄孙筑基丹名额被取消，上门欲买下韩立的筑基丹。",
   "attributes": {
     "性别": "男",
-    "身份": "小极宫监察长老",
+    "身份": "黄枫谷长老、百机堂堂主／谷内管事、小极宫监察长老、监察长老",
     "外貌": "灰发老者",
     "性格": "伪君子、以权谋私",
-    "阵营": "黄枫谷"
+    "阵营": "小极宫"
   },
   "observations": {
     "性别": [
@@ -41,6 +41,11 @@
       {
         "value": "小极宫监察长老",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+        "seq": 1087
+      },
+      {
+        "value": "监察长老",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
       }
     ],
@@ -68,6 +73,11 @@
         "value": "黄枫谷",
         "docId": "plot.fanren-ch158-blue-robed-woman",
         "seq": 157
+      },
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -81,9 +91,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
       "dated": false,
-      "seq": 1087
+      "seq": 139
     },
     "外貌": {
       "asOf": null,
@@ -99,9 +109,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch158-blue-robed-woman",
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
       "dated": false,
-      "seq": 157
+      "seq": 1087
     }
   },
   "contested": false,
@@ -110,7 +120,8 @@
     "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
     "plot.fanren-146-151-han-li-joins-huangfenggu",
     "plot.fanren-ch158-blue-robed-woman",
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-15T09:30:06.920Z"
+  "updatedAt": "2026-06-18T10:00:34.503Z"
 }

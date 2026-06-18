@@ -13,9 +13,9 @@
   ],
   "summary": "万妖谷之宝，经谷中万年妖气浸泡威力极大；可凭幡中妖气破除禁制，催动后涨为粗若水缸、高约百丈的巨幡，幡上妖兽幻影如真盘旋。",
   "attributes": {
-    "持有者": "车老妖",
-    "能力": "驱万妖之气破禁、释放幡中妖物、强大攻伐、化生妖兽、吞噬修士、放出妖兽幻影、吸食修士惊魂、困敌妖气空间、召妖兽傀儡、黑霞漩涡、扭曲空间使攻击偏移、灰光罩困修士、藏大量妖魂",
-    "外形": "灰濛濛巨幡，妖族符文翻滚",
+    "持有者": "车道友、车老妖、万妖谷、童子",
+    "能力": "驱万妖之气破禁、释放幡中妖物、强大攻伐、化生妖兽、吞噬修士、放出妖兽幻影、吸食修士惊魂、困敌妖气空间、召妖兽傀儡、黑霞漩涡、扭曲空间使攻击偏移、灰光罩困修士、藏大量妖魂、可放出无数妖物冲击破阵、幡身可由五六寸涨至高约百丈",
+    "外形": "灰蒙蒙小幡，可涨为百丈巨幡，幡面妖影重重、灰濛濛巨幡，妖族符文翻滚、灰蒙蒙光笼罩、幡面妖影重重的小幡",
     "来历": "仿上古天妖幡",
     "品阶": "仿制通天灵宝"
   },
@@ -35,6 +35,11 @@
         "value": "万妖谷",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "童子",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "能力": [
@@ -97,6 +102,16 @@
         "value": "藏大量妖魂",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
+      },
+      {
+        "value": "可放出无数妖物冲击破阵",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
+      },
+      {
+        "value": "幡身可由五六寸涨至高约百丈",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "外形": [
@@ -109,6 +124,11 @@
         "value": "灰濛濛巨幡，妖族符文翻滚",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "灰蒙蒙光笼罩、幡面妖影重重的小幡",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "来历": [
@@ -121,6 +141,11 @@
         "value": "仿上古天妖幡",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "万妖谷万年妖气浸泡而成",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ],
     "品阶": [
@@ -138,6 +163,11 @@
         "value": "仿制通天灵宝",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "万妖谷镇派之宝",
+        "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+        "seq": 1087
       }
     ]
   },
@@ -145,9 +175,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
+      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
-      "seq": 1093
+      "seq": 901
     },
     "能力": {
       "asOf": null,
@@ -157,9 +187,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
-      "seq": 1111
+      "seq": 1087
     },
     "来历": {
       "asOf": null,
@@ -184,7 +214,8 @@
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-1113-yaoqi-chongtian",
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
   ],
-  "updatedAt": "2026-06-18T01:59:22.631Z"
+  "updatedAt": "2026-06-18T10:00:34.563Z"
 }
