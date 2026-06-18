@@ -6,8 +6,10 @@
   "summary": "苦竹老人坐镇的岛屿，布有万木大阵，以天桑神树为核心，设木殿、木灵卫守护。",
   "attributes": {
     "所属势力": "苦竹老人",
-    "守护": "万木大阵、木灵卫",
-    "特产": "桑木茶、乌凤之翎"
+    "守护": "木灵卫",
+    "特产": "桑木茶、乌凤之翎、乌凤凤翎、天桑神树",
+    "所属界面": "人界",
+    "类型": "海外仙岛"
   },
   "observations": {
     "所属势力": [
@@ -21,7 +23,7 @@
       {
         "value": "万木大阵",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-        "seq": 967
+        "seq": 961
       },
       {
         "value": "木灵卫",
@@ -39,10 +41,34 @@
         "value": "乌凤之翎",
         "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
         "seq": 967
+      },
+      {
+        "value": "乌凤凤翎",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      },
+      {
+        "value": "天桑神树",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      }
+    ],
+    "类型": [
+      {
+        "value": "海外仙岛",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ]
   },
-  "firstSeq": 967,
+  "firstSeq": 961,
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
@@ -58,15 +84,28 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 967
+      "seq": 961
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua"
+    "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-16T02:56:45.329Z"
+  "updatedAt": "2026-06-18T02:23:33.535Z"
 }

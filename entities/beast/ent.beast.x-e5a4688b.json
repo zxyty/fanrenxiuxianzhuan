@@ -8,11 +8,12 @@
   ],
   "summary": "与昊阳鸟齐名的火属性灵禽，传说中火凤分支之一，血脉自上古流传，由海外某岛主驯养。",
   "attributes": {
-    "种族": "火属性灵禽（火凤分支）、火凤分支",
+    "种族": "火属性灵禽（火凤分支）、火凤分支、上古灵禽",
     "血脉": "上古火凤血脉",
-    "栖息地": "海外",
+    "栖息地": "苦竹岛",
     "主人": "苦竹老人",
-    "能力": "火属性灵禽"
+    "能力": "火属性灵禽",
+    "等级": "七级"
   },
   "observations": {
     "种族": [
@@ -25,6 +26,11 @@
         "value": "火凤分支",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      },
+      {
+        "value": "上古灵禽",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "血脉": [
@@ -39,6 +45,11 @@
         "value": "海外",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "苦竹岛",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "主人": [
@@ -53,6 +64,13 @@
         "value": "火属性灵禽",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      }
+    ],
+    "等级": [
+      {
+        "value": "七级",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ]
   },
@@ -72,9 +90,9 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 925
+      "seq": 961
     },
     "主人": {
       "asOf": null,
@@ -87,6 +105,12 @@
       "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
       "seq": 925
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
     }
   },
   "contested": false,
@@ -94,7 +118,8 @@
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-967-972-kuzhu-laoren-leihuo-gong-dayan-shenjun-zuohua",
-    "plot.fanren-ch925-dajin-imperial-family-ye-clan"
+    "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T01:43:27.053Z"
+  "updatedAt": "2026-06-18T02:23:33.530Z"
 }

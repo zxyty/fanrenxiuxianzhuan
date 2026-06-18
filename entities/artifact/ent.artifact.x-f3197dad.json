@@ -11,15 +11,16 @@
     "白濛濛晶球",
     "白濛濛圆珠",
     "晶珠",
-    "晶莹雪白圆珠"
+    "晶莹雪白圆珠",
+    "白晶珠"
   ],
   "summary": "九仙宫异宝，可放出寒雾御敌，本拟以冰灵根修士血祭祭炼，被江剑英携逃后又被夺回。",
   "attributes": {
-    "能力": "放出寒雾、喷紫罗天火/冰焰之精、放出火鸟、助凝冰壁/冰封、暗藏紫罗极火之力、增益遁速、催发大片寒雾",
+    "能力": "放出寒雾、喷紫罗天火/冰焰之精、放出火鸟、助凝冰壁/冰封、暗藏紫罗极火之力、增益遁速、催发大片寒雾、化紫色火蛟，喷紫焰",
     "来历": "九仙宫之宝、万年玄玉炼制、九仙宫镇宫之宝",
     "外形": "晶莹雪白圆珠、晶莹剔透的圆珠、白濛濛圆珠、晶莹剔透圆珠",
     "持有者": "韩立",
-    "五行属性": "寒/冰",
+    "五行属性": "寒/冰、冰/水、寒",
     "品阶": "至宝级"
   },
   "observations": {
@@ -53,6 +54,11 @@
         "value": "催发大片寒雾",
         "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
+      },
+      {
+        "value": "化紫色火蛟，喷紫焰",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "来历": [
@@ -111,6 +117,11 @@
         "value": "冰/水",
         "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
+      },
+      {
+        "value": "寒",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "品阶": [
@@ -149,9 +160,9 @@
     },
     "五行属性": {
       "asOf": null,
-      "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
       "dated": false,
-      "seq": 961
+      "seq": 889
     },
     "品阶": {
       "asOf": null,
@@ -171,7 +182,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-913-918-xueling-huangsha-zhan",
     "plot.fmxxz-ch889-tianshui-river-green-bat",
-    "plot.fanren-943-948-zhayan-hansui-huiyangshui"
+    "plot.fanren-943-948-zhayan-hansui-huiyangshui",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T01:51:51.574Z"
+  "updatedAt": "2026-06-18T02:23:33.481Z"
 }

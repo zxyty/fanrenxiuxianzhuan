@@ -8,7 +8,7 @@
   ],
   "summary": "临江府群蛟中突现的八级化形蓝蛟，伏击重伤元婴修士，实力或胜元婴中期一线。",
   "attributes": {
-    "种族": "蛟龙",
+    "种族": "蛟",
     "等级": "八级",
     "能力": "化形、海中水遁、水遁术",
     "栖息地": "华云州海域"
@@ -19,6 +19,11 @@
         "value": "蛟龙",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
+      },
+      {
+        "value": "蛟",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "等级": [
@@ -62,9 +67,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 955
+      "seq": 961
     },
     "等级": {
       "asOf": null,
@@ -89,7 +94,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-16T02:49:21.248Z"
+  "updatedAt": "2026-06-18T02:23:33.493Z"
 }

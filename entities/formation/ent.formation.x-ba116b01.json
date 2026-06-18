@@ -1,62 +1,52 @@
 {
-  "id": "ent.place.x-d1646a26",
-  "type": "place",
-  "name": "无名小岛",
+  "id": "ent.formation.x-ba116b01",
+  "type": "formation",
+  "name": "万木大阵",
   "aliases": [],
-  "summary": "双峰岛西侧的无名小岛，岛上丘陵土包内藏妙音门传送阵，由八名弟子看守。",
+  "summary": "苦竹岛以天桑神树为阵眼布下的上古奇阵，威震海外数万年，元婴后期修士闯入也削弱三分神通。",
   "attributes": {
-    "所属界面": "人界",
-    "类型": "海岛",
-    "特产": "低劣灵脉"
+    "效果": "困敌、削弱闯入者神通三分",
+    "出处": "上古奇阵",
+    "布置者": "苦竹岛"
   },
   "observations": {
-    "所属界面": [
+    "效果": [
       {
-        "value": "乱星海",
-        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
-        "seq": 553
-      },
-      {
-        "value": "人界",
+        "value": "困敌、削弱闯入者神通三分",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ],
-    "类型": [
+    "出处": [
       {
-        "value": "小岛",
-        "docId": "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
-        "seq": 553
-      },
-      {
-        "value": "海岛",
+        "value": "上古奇阵",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ],
-    "特产": [
+    "布置者": [
       {
-        "value": "低劣灵脉",
+        "value": "苦竹岛",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ]
   },
-  "firstSeq": 553,
+  "firstSeq": 961,
   "attrProvenance": {
-    "所属界面": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
       "seq": 961
     },
-    "类型": {
+    "出处": {
       "asOf": null,
       "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
       "seq": 961
     },
-    "特产": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
@@ -66,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch553-558-shipo-yu-chuansongzhen-jiaoyi",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T02:23:33.513Z"
+  "updatedAt": "2026-06-18T02:23:33.533Z"
 }

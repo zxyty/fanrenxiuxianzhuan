@@ -7,10 +7,10 @@
   ],
   "summary": "辅助灵药，可助冰寒属性功法修士修炼凡人冰寒之力更进一层；主料多可于药园凑齐，尚缺数种外界可得的珍稀料。",
   "attributes": {
-    "功效": "助冰寒属性功法修士提升凡人冰寒之力、增强冰寒之力、增至阴寒气、助炼紫罗极火、增进冰寒属性功法威力",
+    "功效": "助冰寒属性功法修士提升凡人冰寒之力、增强冰寒之力、增至阴寒气、助炼紫罗极火、增进冰寒属性功法威力、至阴至寒、增强寒气威力、刺激六翼霜蚣进阶",
     "适用境界": "冰寒属性功法修士",
     "品阶": "上古灵丹",
-    "副作用": "炼化间隔三四个月、坐化后力量溃散（此处指精魂力量，泛述）、炼化不易，需间隔三四月一粒",
+    "副作用": "炼化间隔三四个月、坐化后力量溃散（此处指精魂力量，泛述）、炼化不易，需间隔三四月一粒、韩立自炼化需三四月",
     "主料": "药园灵药+原有材料"
   },
   "observations": {
@@ -39,6 +39,21 @@
         "value": "增进冰寒属性功法威力",
         "docId": "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
         "seq": 853
+      },
+      {
+        "value": "至阴至寒",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      },
+      {
+        "value": "增强寒气威力",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      },
+      {
+        "value": "刺激六翼霜蚣进阶",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "适用境界": [
@@ -71,6 +86,11 @@
         "docId": "plot.fanren-ch931-936-jinjing-auction-road",
         "seq": 931,
         "note": "炼化周期长"
+      },
+      {
+        "value": "韩立自炼化需三四月",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "主料": [
@@ -123,7 +143,8 @@
     "plot.fanren-931-936-anliu-jinjing-route",
     "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
-    "plot.fanren-ch931-936-jinjing-auction-road"
+    "plot.fanren-ch931-936-jinjing-auction-road",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-17T16:59:54.715Z"
+  "updatedAt": "2026-06-18T02:23:33.529Z"
 }

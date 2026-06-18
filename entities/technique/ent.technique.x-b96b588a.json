@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "天符门传承的制符秘术，作为聘礼赠予韩立参悟。",
   "attributes": {
-    "出处": "天符门"
+    "出处": "天符门",
+    "效果": "化灵符制符之术"
   },
   "observations": {
     "出处": [
       {
         "value": "天符门",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "效果": [
+      {
+        "value": "化灵符制符之术",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
       "dated": false,
       "seq": 961
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-16T02:49:21.245Z"
+  "updatedAt": "2026-06-18T02:23:33.485Z"
 }

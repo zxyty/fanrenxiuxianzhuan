@@ -3,17 +3,26 @@
   "type": "material",
   "name": "魔气深渊残碑",
   "aliases": [
-    "残碑"
+    "残碑",
+    "残碑材料"
   ],
   "summary": "韩立当日在魔气深渊发现的几块灰濛濛残碑，大衍神君近日才忆起其来历，拟用于傀儡。",
   "attributes": {
-    "产地": "魔气深渊"
+    "产地": "魔气深渊",
+    "类型": "残碑碎块"
   },
   "observations": {
     "产地": [
       {
         "value": "魔气深渊",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      }
+    ],
+    "类型": [
+      {
+        "value": "残碑碎块",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ]
@@ -25,12 +34,19 @@
       "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
       "dated": false,
       "seq": 961
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-16T02:49:21.268Z"
+  "updatedAt": "2026-06-18T02:23:33.506Z"
 }

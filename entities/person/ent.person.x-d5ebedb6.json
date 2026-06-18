@@ -2,12 +2,14 @@
   "id": "ent.person.x-d5ebedb6",
   "type": "person",
   "name": "天符真人",
-  "aliases": [],
+  "aliases": [
+    "天符门创派祖师"
+  ],
   "summary": "数万年前以自创三大密符威震大晋、创立天符门的祖师。",
   "attributes": {
     "身份": "天符门创派祖师、天符门创立者",
     "小阶段": "元婴后期",
-    "存殁": "已死（祖师，年代久远）",
+    "存殁": "已死（祖师，年代久远）、死亡",
     "称号": "天符真人"
   },
   "observations": {
@@ -34,6 +36,11 @@
       {
         "value": "已死（祖师，年代久远）",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ],
@@ -77,7 +84,8 @@
   "docs": [
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
     "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
-    "plot.fanren-955-zaiyu-gumo"
+    "plot.fanren-955-zaiyu-gumo",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T02:11:21.122Z"
+  "updatedAt": "2026-06-18T02:23:33.491Z"
 }

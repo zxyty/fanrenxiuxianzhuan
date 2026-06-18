@@ -2,10 +2,12 @@
   "id": "ent.place.x-1cfa02d9",
   "type": "place",
   "name": "开江镇",
-  "aliases": [],
+  "aliases": [
+    "开江镇坊市"
+  ],
   "summary": "华云州离海二百余里的小镇，白竹山在其外数里。",
   "attributes": {
-    "类型": "城镇",
+    "类型": "坊市/势力范围",
     "所属界面": "大晋皇朝华云州"
   },
   "observations": {
@@ -14,6 +16,11 @@
         "value": "城镇",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "坊市/势力范围",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "所属界面": [
@@ -28,9 +35,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-955-zaiyu-gumo",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 955
+      "seq": 961
     },
     "所属界面": {
       "asOf": null,
@@ -42,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-zaiyu-gumo"
+    "plot.fanren-955-zaiyu-gumo",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-18T02:11:21.135Z"
+  "updatedAt": "2026-06-18T02:23:33.496Z"
 }

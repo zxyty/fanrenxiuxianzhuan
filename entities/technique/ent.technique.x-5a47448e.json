@@ -3,12 +3,14 @@
   "type": "technique",
   "name": "灵影术",
   "aliases": [
-    "灵影分身"
+    "灵影分身",
+    "灵影秘术",
+    "灵影分身术"
   ],
   "summary": "金霞山传承秘术，可化出多个分身以假乱真，临敌迷惑对手。",
   "attributes": {
     "出处": "金霞山",
-    "效果": "化出数个以假乱真的分身"
+    "效果": "化出数个以假乱真的分身、化分身惑敌（两假一真）"
   },
   "observations": {
     "出处": [
@@ -22,6 +24,11 @@
       {
         "value": "化出数个以假乱真的分身",
         "docId": "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+        "seq": 961
+      },
+      {
+        "value": "化分身惑敌（两假一真）",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
       }
     ]
@@ -44,7 +51,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.ch961-966-tianfu-keqing-slay-fire-jiao"
+    "plot.ch961-966-tianfu-keqing-slay-fire-jiao",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-16T02:49:21.246Z"
+  "updatedAt": "2026-06-18T02:23:33.484Z"
 }

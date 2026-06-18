@@ -2,11 +2,15 @@
   "id": "ent.material.x-79cf6f22",
   "type": "material",
   "name": "化一神泥",
-  "aliases": [],
+  "aliases": [
+    "幻形膏",
+    "神泥"
+  ],
   "summary": "传说中的炼宝材料，庚精主人愿以庚精交换之物。",
   "attributes": {
-    "类型": "炼宝材料",
-    "稀有度": "传说级"
+    "类型": "炼器灵材",
+    "稀有度": "罕见(能认出者不超十人)",
+    "用途": "炼制复杂法器、炼制傀儡躯壳、吸收法力攻击"
   },
   "observations": {
     "类型": [
@@ -14,6 +18,11 @@
         "value": "炼宝材料",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "炼器灵材",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ],
     "稀有度": [
@@ -21,6 +30,28 @@
         "value": "传说级",
         "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
         "seq": 679
+      },
+      {
+        "value": "罕见(能认出者不超十人)",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制复杂法器",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      },
+      {
+        "value": "炼制傀儡躯壳",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
+      },
+      {
+        "value": "吸收法力攻击",
+        "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+        "seq": 961
       }
     ]
   },
@@ -28,21 +59,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 679
+      "seq": 961
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 679
+      "seq": 961
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "dated": false,
+      "seq": 961
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-679-684-hunshi-canfu-tiantiancheng"
+    "plot.fanren-679-684-hunshi-canfu-tiantiancheng",
+    "plot.fanren-ch961-966-tu-jiao-mie-jiao"
   ],
-  "updatedAt": "2026-06-14T21:53:35.922Z"
+  "updatedAt": "2026-06-18T02:23:33.522Z"
 }
