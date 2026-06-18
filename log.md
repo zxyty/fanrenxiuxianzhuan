@@ -512,3 +512,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T09:41:32.653Z** `ingest` plot.fanren-ch1083-1085-bingning-shou-er-yao — 凡人修仙传 第1083-1085章：冰缝采玄冰、冰狞兽与二妖之战 · kind=plot asOf=2026-06-18 entities=27 relations=23 src=01081-01086.p2.md
 - **2026-06-18T09:43:45.922Z** `ingest` plot.fanren-1086-1087-hanyan-xulingdian — 凡人修仙传 第1086-1087章 寒焰修士与虚灵殿开启 · kind=plot asOf=2026-06-18 entities=24 relations=23 src=01081-01086.p3.md
 - **2026-06-18T10:00:34.684Z** `ingest` plot.fanren-1087-1092-xuanyu-cave-binghan-formation — 第1087-1092章｜冰魄寒烈阵·玄玉洞——寒骊上人引韩立等入虚灵殿冲化神 · kind=plot asOf=2026-06-18 entities=47 relations=56 src=01087-01092.md
+- **2026-06-18T10:01:36.919Z** `ingest` plot.fanren-1094-1095-hanyan-xisui-qianlan-ding — 第1094-1095章 寒焰洗髓·乾蓝鼎易手与冰凤攻城 · kind=plot asOf=2026-06-18 entities=0 relations=0 src=01093-01098.p1.md
