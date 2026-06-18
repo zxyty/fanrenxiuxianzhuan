@@ -9,7 +9,8 @@
     "长大头怪人",
     "叶家怪人",
     "七",
-    "七叔祖"
+    "七叔祖",
+    "七叔（叶家）"
   ],
   "summary": "叶家辈分最高者，元婴后期，被珑梦重创断臂；身染元刹圣祖魔气，欲取八灵尺反复受阻。",
   "attributes": {
@@ -22,7 +23,7 @@
     "寿元": "大限将至、生气不多",
     "阵营": "投靠圣族古魔",
     "性格": "果决、狂傲",
-    "存殁": "在世"
+    "存殁": "存"
   },
   "observations": {
     "小阶段": [
@@ -86,6 +87,11 @@
         "value": "头颅比常人大近半，摇摇晃晃",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "大头",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
       }
     ],
     "外貌": [
@@ -103,6 +109,12 @@
         "value": "瘦高、双眉焦黄、眼小、头颅奇大",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "假死陨落数百年",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009,
+        "note": "实际未死"
       }
     ],
     "称号": [
@@ -157,6 +169,11 @@
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973,
         "note": "三百年前诈死，死而复生"
+      },
+      {
+        "value": "存",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
       }
     ]
   },
@@ -220,10 +237,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
-      "seq": 973,
-      "note": "三百年前诈死，死而复生"
+      "seq": 1009
     }
   },
   "contested": false,
@@ -237,7 +253,8 @@
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-973-yinyangku-minghe-page",
     "plot.fanren-991-zi-wu",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-1009-yinpo-ningxing"
   ],
-  "updatedAt": "2026-06-18T03:51:46.733Z"
+  "updatedAt": "2026-06-18T04:44:31.166Z"
 }

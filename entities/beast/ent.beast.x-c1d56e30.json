@@ -6,13 +6,16 @@
     "鬼王",
     "黑影",
     "黑色鬼物",
-    "西炳山鬼王"
+    "西炳山鬼王",
+    "鬼王分身",
+    "恶鬼"
   ],
   "summary": "通灵数百年、灵智已开的厉鬼，懂各个击破之策；持玄阴绿珠（内封妖虎器灵），并向器灵施展附灵术。",
   "attributes": {
-    "能力": "玄阴鬼气、各个击破、附灵术、分身、借阴气复活、阴气困敌",
+    "能力": "玄阴鬼气、各个击破、附灵术、分身、借阴气复活、阴气困敌、分身（众恶鬼）、阴气中复活、喷阴气困敌",
     "等级": "阴魄凝形",
-    "栖息地": "镇魔塔第七层"
+    "栖息地": "镇魔塔第七层",
+    "外形": "灰色模糊鬼影／红发赤身青面獠牙恶鬼"
   },
   "observations": {
     "能力": [
@@ -45,6 +48,21 @@
         "value": "阴气困敌",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "分身（众恶鬼）",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "阴气中复活",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "喷阴气困敌",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
       }
     ],
     "等级": [
@@ -57,6 +75,13 @@
     "栖息地": [
       {
         "value": "镇魔塔第七层",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "外形": [
+      {
+        "value": "灰色模糊鬼影／红发赤身青面獠牙恶鬼",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
       }
@@ -81,6 +106,12 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -90,5 +121,5 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan"
   ],
-  "updatedAt": "2026-06-18T01:43:27.051Z"
+  "updatedAt": "2026-06-18T04:44:31.188Z"
 }

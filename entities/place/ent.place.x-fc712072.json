@@ -3,13 +3,15 @@
   "type": "place",
   "name": "铸灵堂",
   "aliases": [
-    "铸灵堂庄园"
+    "铸灵堂庄园",
+    "铸灵堂碑楼"
   ],
   "summary": "昆吾山内疑与炼器有关的庄园式去处，外罩丈许厚光幕禁制。",
   "attributes": {
-    "类型": "炼器堂口、炼器重地",
+    "类型": "炼器堂口、炼器重地、遗迹建筑",
     "所属势力": "昆吾山遗迹",
-    "守护": "光幕禁制"
+    "守护": "光幕禁制",
+    "特产": "太阴真火"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "炼器重地",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "遗迹建筑",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
       }
     ],
     "所属势力": [
@@ -47,6 +54,13 @@
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
+    ],
+    "特产": [
+      {
+        "value": "太阴真火",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
     ]
   },
   "firstSeq": 1003,
@@ -68,6 +82,12 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
@@ -77,5 +97,5 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T04:04:13.874Z"
+  "updatedAt": "2026-06-18T04:44:31.184Z"
 }

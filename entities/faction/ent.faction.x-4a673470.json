@@ -11,7 +11,7 @@
   "attributes": {
     "阵营": "人界修士",
     "据点": "镇魔塔(闯探中)",
-    "镇派之宝": "毒龙珠",
+    "镇派之宝": "感灵珠、毒龙珠、镇魔塔奇宝（线索）",
     "理念": "寻找昆吾山秘宝",
     "等级": "南疆宗门",
     "掌门": "（大长老花天奇出面）"
@@ -61,6 +61,12 @@
         "value": "毒龙珠",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "镇魔塔奇宝（线索）",
+        "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009,
+        "note": "祖师遗言所提"
       }
     ],
     "理念": [
@@ -106,9 +112,9 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 1009
+      "seq": 991
     },
     "理念": {
       "asOf": null,
@@ -144,5 +150,5 @@
     "plot.fanren-997-1002-kunwushan-qian-laomo",
     "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T04:04:13.838Z"
+  "updatedAt": "2026-06-18T04:44:31.175Z"
 }

@@ -491,3 +491,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T03:40:07.303Z** `ingest` plot.fanren-991-zi-wu — 凡人修仙传 第991章 紫雾 · kind=plot asOf=2026-06-18 entities=38 relations=45 src=00991-00996.md
 - **2026-06-18T03:51:46.868Z** `ingest` plot.fanren-997-1002-kunwushan-qian-laomo — 凡人修仙传 第997-1002章｜昆吾山破阵脱困 与阴罗宗乾老魔狭路相逢 · kind=plot asOf=2026-06-18 entities=47 relations=54 src=00997-01002.md
 - **2026-06-18T04:04:14.020Z** `ingest` plot.fanren-ch1003-qunmo-yinxian — 凡人修仙传 第1003章 群魔隐现 · kind=plot asOf=2026-06-18 entities=54 relations=54 src=01003-01008.md
+- **2026-06-18T04:44:31.307Z** `update` plot.fanren-1009-yinpo-ningxing — 第1009章 阴魄凝形：镇魔塔第七层鬼王分身困局 · kind=plot asOf=2026-06-18 entities=18 relations=23 src=01009-01014.p1.md
