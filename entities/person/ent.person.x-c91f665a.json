@@ -9,7 +9,7 @@
   "summary": "炼气期儒生，坊市常住自由掮客（‘风行子’），向韩立牵线引入秘店竞卖会。",
   "attributes": {
     "小阶段": "炼气期",
-    "身份": "修仙者",
+    "身份": "叶家大长老",
     "外貌": "儒生"
   },
   "observations": {
@@ -30,6 +30,11 @@
         "value": "修仙者",
         "docId": "plot.fanren-ch242-zhifu-biguan",
         "seq": 241
+      },
+      {
+        "value": "叶家大长老",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "外貌": [
@@ -50,9 +55,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch242-zhifu-biguan",
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
       "dated": false,
-      "seq": 241
+      "seq": 997
     },
     "外貌": {
       "asOf": null,
@@ -65,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
-    "plot.fanren-ch242-zhifu-biguan"
+    "plot.fanren-ch242-zhifu-biguan",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-14T07:18:30.688Z"
+  "updatedAt": "2026-06-18T03:51:46.732Z"
 }

@@ -8,14 +8,15 @@
     "叶道友",
     "长大头怪人",
     "叶家怪人",
-    "七"
+    "七",
+    "七叔祖"
   ],
   "summary": "叶家辈分最高者，元婴后期，被珑梦重创断臂；身染元刹圣祖魔气，欲取八灵尺反复受阻。",
   "attributes": {
     "小阶段": "元婴后期",
-    "身份": "叶家辈分最高者、叶家修士、叶家叛逆、叶家外聘大修士、叶家长辈、叶家长老、受圣祖之托灭狼魂的修士",
+    "身份": "叶家辈分最高者、叶家修士、叶家叛逆、叶家外聘大修士、叶家长辈、叶家长老、受圣祖之托灭狼魂的修士、叶家七叔",
     "标志特征": "断一臂",
-    "外貌": "大头怪人",
+    "外貌": "大头",
     "称号": "七叔、三叔祖",
     "种族": "人类",
     "寿元": "大限将至、生气不多",
@@ -67,6 +68,11 @@
         "value": "受圣祖之托灭狼魂的修士",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "叶家七叔",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "标志特征": [
@@ -86,7 +92,7 @@
       {
         "value": "大头怪人",
         "docId": "plot.fanren-1039-hei-feng-qi",
-        "seq": 1039
+        "seq": 997
       },
       {
         "value": "大头",
@@ -131,6 +137,11 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015,
         "note": "背叛叶家"
+      },
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "性格": [
@@ -172,9 +183,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1039-hei-feng-qi",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1039
+      "seq": 1015
     },
     "称号": {
       "asOf": null,
@@ -225,7 +236,8 @@
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-991-zi-wu"
+    "plot.fanren-991-zi-wu",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-18T03:40:07.154Z"
+  "updatedAt": "2026-06-18T03:51:46.733Z"
 }

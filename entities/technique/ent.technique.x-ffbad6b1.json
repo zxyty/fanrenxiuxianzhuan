@@ -2,11 +2,14 @@
   "id": "ent.technique.x-ffbad6b1",
   "type": "technique",
   "name": "逆情断天功",
-  "aliases": [],
+  "aliases": [
+    "逆情断天功法"
+  ],
   "summary": "乾老魔所修魔功，最讲究率性而为，受激则狂性大发、煞气暴涨。",
   "attributes": {
-    "效果": "率性而为、激发狂性煞气",
-    "适用境界": "元婴期"
+    "效果": "率性而为、激发狂性煞气、率性而为、易暴走",
+    "适用境界": "元婴期",
+    "出处": "阴罗宗（乾老魔）"
   },
   "observations": {
     "效果": [
@@ -14,12 +17,24 @@
         "value": "率性而为、激发狂性煞气",
         "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "率性而为、易暴走",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "适用境界": [
       {
         "value": "元婴期",
         "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+        "seq": 997
+      }
+    ],
+    "出处": [
+      {
+        "value": "阴罗宗（乾老魔）",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
       "dated": false,
       "seq": 997
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-997-1002-kunwu-shan-qian-laomo"
+    "plot.fanren-997-1002-kunwu-shan-qian-laomo",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-16T03:46:05.737Z"
+  "updatedAt": "2026-06-18T03:51:46.702Z"
 }

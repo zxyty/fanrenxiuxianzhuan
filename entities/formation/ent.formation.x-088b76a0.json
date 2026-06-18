@@ -1,0 +1,65 @@
+{
+  "id": "ent.formation.x-088b76a0",
+  "type": "formation",
+  "name": "石傀儡大阵",
+  "aliases": [
+    "傀儡大阵",
+    "石傀儡阵"
+  ],
+  "summary": "昆吾山巨殿中的上古傀儡大阵，石傀儡呈走兽飞禽状、浑身坚硬、能口吐简单法术，自四条走廊无穷涌出，须摧毁四座偏殿中枢方止。",
+  "attributes": {
+    "效果": "驱无穷石傀儡耗死闯入者",
+    "出处": "昆吾山巨殿（上古遗迹）",
+    "破解法": "破禁进入四座偏殿、毁掉中枢"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "驱无穷石傀儡耗死闯入者",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
+    ],
+    "出处": [
+      {
+        "value": "昆吾山巨殿（上古遗迹）",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
+    ],
+    "破解法": [
+      {
+        "value": "破禁进入四座偏殿、毁掉中枢",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
+    ]
+  },
+  "firstSeq": 997,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
+  ],
+  "updatedAt": "2026-06-18T03:51:46.718Z"
+}

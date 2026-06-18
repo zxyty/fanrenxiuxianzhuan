@@ -3,12 +3,14 @@
   "type": "formation",
   "name": "禁空禁制",
   "aliases": [
-    "北冥岛禁空禁制"
+    "北冥岛禁空禁制",
+    "禁空"
   ],
   "summary": "北冥岛全岛开启的禁飞遁大阵，八级以上妖兽方可无视，其余只能步行。",
   "attributes": {
     "效果": "禁止飞遁",
-    "布置者": "小极宫"
+    "布置者": "小极宫",
+    "出处": "昆吾山核心之地"
   },
   "observations": {
     "效果": [
@@ -16,6 +18,11 @@
         "value": "禁止飞遁",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "禁止飞行/御空",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "布置者": [
@@ -24,9 +31,16 @@
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
       }
+    ],
+    "出处": [
+      {
+        "value": "昆吾山核心之地",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
     ]
   },
-  "firstSeq": 1087,
+  "firstSeq": 997,
   "attrProvenance": {
     "效果": {
       "asOf": null,
@@ -39,12 +53,19 @@
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
       "seq": 1087
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1088-bingpo-hanlie-zhen"
+    "plot.fanren-1088-bingpo-hanlie-zhen",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-15T09:30:06.970Z"
+  "updatedAt": "2026-06-18T03:51:46.719Z"
 }

@@ -7,7 +7,9 @@
   "attributes": {
     "持有者": "乾老魔",
     "来历": "映月环仿制（未证实）",
-    "能力": "防御护身"
+    "能力": "防御护身",
+    "外形": "白骨镯子",
+    "禁制": "发动需自身精血"
   },
   "observations": {
     "持有者": [
@@ -30,9 +32,23 @@
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
       }
+    ],
+    "外形": [
+      {
+        "value": "白骨镯子",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
+    ],
+    "禁制": [
+      {
+        "value": "发动需自身精血",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
     ]
   },
-  "firstSeq": 1009,
+  "firstSeq": 997,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
@@ -51,12 +67,25 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-16T04:18:42.280Z"
+  "updatedAt": "2026-06-18T03:51:46.743Z"
 }

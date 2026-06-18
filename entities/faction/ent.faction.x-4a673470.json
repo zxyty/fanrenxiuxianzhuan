@@ -4,7 +4,8 @@
   "name": "毒圣门",
   "aliases": [
     "毒圣门四老",
-    "毒圣门一宗"
+    "毒圣门一宗",
+    "毒圣门一门"
   ],
   "summary": "人界势力，大长老花天奇被珑梦附身。",
   "attributes": {
@@ -12,7 +13,8 @@
     "据点": "镇魔塔(闯探中)",
     "镇派之宝": "毒龙珠",
     "理念": "寻找昆吾山秘宝",
-    "等级": "南疆宗门"
+    "等级": "南疆宗门",
+    "掌门": "（大长老花天奇出面）"
   },
   "observations": {
     "阵营": [
@@ -79,6 +81,13 @@
         "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
+    ],
+    "掌门": [
+      {
+        "value": "（大长老花天奇出面）",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      }
     ]
   },
   "firstSeq": 973,
@@ -112,6 +121,12 @@
       "docId": "plot.fanren-991-zi-wu",
       "dated": false,
       "seq": 991
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
@@ -125,7 +140,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-991-zi-wu"
+    "plot.fanren-991-zi-wu",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-18T03:40:07.157Z"
+  "updatedAt": "2026-06-18T03:51:46.735Z"
 }

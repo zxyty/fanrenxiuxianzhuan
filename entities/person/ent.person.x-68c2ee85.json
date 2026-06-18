@@ -12,17 +12,18 @@
     "血影",
     "乾老魔血影",
     "乾蓝魔",
-    "隐身修士"
+    "隐身修士",
+    "乾老魔五魔子"
   ],
   "summary": "持日月梭、灵犀孔雀开路先入裂缝的老魔修士。",
   "attributes": {
     "阵营": "阴罗宗",
     "身份": "阴罗宗大修士",
     "存殁": "死亡",
-    "小阶段": "元婴",
+    "小阶段": "元婴后期、元婴期、元婴",
     "死因": "丧命于韩立（昆吾山事件）",
     "称号": "大长老",
-    "性格": "火爆狡诈",
+    "性格": "率性狂悖、煞气深重、凶戾果决、火爆狡诈、阴沉狠辣、狂傲",
     "外貌": "灰袍灰发老者，面覆淡灰气",
     "性别": "男",
     "标志特征": "血影魔功、自爆重组遁术"
@@ -105,7 +106,7 @@
       {
         "value": "元婴期",
         "docId": "plot.fanren-1003-qunmo-yinxian",
-        "seq": 1003
+        "seq": 997
       },
       {
         "value": "元婴",
@@ -157,6 +158,11 @@
         "value": "阴沉狠辣",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "狂傲",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "外貌": [
@@ -177,7 +183,7 @@
       {
         "value": "五子同心魔化身",
         "docId": "plot.fanren-1009-yinpo-ningxing",
-        "seq": 1009
+        "seq": 997
       },
       {
         "value": "五子魔所化、可化血影",
@@ -214,9 +220,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
+      "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
       "dated": false,
-      "seq": 1021
+      "seq": 997
     },
     "死因": {
       "asOf": null,
@@ -232,9 +238,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 1009
+      "seq": 979
     },
     "外貌": {
       "asOf": null,
@@ -271,7 +277,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-    "plot.fanren-ch979-wuzi-tongxin-mo"
+    "plot.fanren-ch979-wuzi-tongxin-mo",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-18T03:10:23.677Z"
+  "updatedAt": "2026-06-18T03:51:46.727Z"
 }

@@ -4,15 +4,19 @@
   "name": "郑卫",
   "aliases": [
     "四方散人",
-    "郑卫道友"
+    "郑卫道友",
+    "郑兄",
+    "郑卫兄",
+    "四散真人郑卫"
   ],
   "summary": "大晋修仙界臭名昭著的元婴初期散修，欺软怕硬、趁人之危，凭四方飞天靴遁速极快。",
   "attributes": {
     "小阶段": "元婴初期",
     "身份": "散修",
     "道号": "四散真人",
-    "性格": "工于心计",
-    "性别": "男"
+    "性格": "欺软怕硬、奸猾趁火打劫、工于心计、欺软怕硬、奸猾趁危、阴险",
+    "性别": "男",
+    "称号": "四散真人"
   },
   "observations": {
     "小阶段": [
@@ -46,6 +50,16 @@
         "value": "工于心计",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "欺软怕硬、奸猾趁危",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
+      },
+      {
+        "value": "阴险",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ],
     "性别": [
@@ -53,6 +67,13 @@
         "value": "男",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      }
+    ],
+    "称号": [
+      {
+        "value": "四散真人",
+        "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+        "seq": 997
       }
     ]
   },
@@ -78,22 +99,29 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "docId": "plot.fanren-997-1002-kunwu-shan-qian-laomo",
       "dated": false,
-      "seq": 1003
+      "seq": 997
     },
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
       "seq": 1003
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "dated": false,
+      "seq": 997
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-997-1002-kunwu-shan-qian-laomo",
-    "plot.fanren-1003-qunmo-yinxian"
+    "plot.fanren-1003-qunmo-yinxian",
+    "plot.fanren-997-1002-kunwushan-qian-laomo"
   ],
-  "updatedAt": "2026-06-16T03:59:21.458Z"
+  "updatedAt": "2026-06-18T03:51:46.729Z"
 }
