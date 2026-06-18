@@ -3,19 +3,26 @@
   "type": "place",
   "name": "冰海",
   "aliases": [
-    "北冥岛外冰海"
+    "北冥岛外冰海",
+    "冰海深处"
   ],
   "summary": "北冥岛外广袤冰海，离岛越远妖兽等阶越高，深处有十级上古冰凤，妖兽与小极宫立有互不侵犯之约。",
   "attributes": {
-    "危险度": "高",
+    "危险度": "高、高（深处有十级妖物）",
     "特产": "万年玄冰、冰灵花",
-    "类型": "海域"
+    "类型": "海域",
+    "守护": "冰海高阶妖兽"
   },
   "observations": {
     "危险度": [
       {
         "value": "高",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "高（深处有十级妖物）",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
         "seq": 1081
       }
     ],
@@ -30,6 +37,13 @@
       {
         "value": "海域",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      }
+    ],
+    "守护": [
+      {
+        "value": "冰海高阶妖兽",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
         "seq": 1081
       }
     ]
@@ -53,12 +67,19 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1081-1082-three-cold-flames"
   ],
-  "updatedAt": "2026-06-15T09:07:09.414Z"
+  "updatedAt": "2026-06-18T09:38:37.613Z"
 }

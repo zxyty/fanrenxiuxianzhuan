@@ -5,12 +5,13 @@
   "aliases": [
     "北冥岛",
     "北冥岛半岛",
-    "北冥岛冰城"
+    "北冥岛冰城",
+    "北地"
   ],
   "summary": "赫赫有名的偏寒之地，小极宫所在。",
   "attributes": {
-    "类型": "极寒之地、半岛/极寒之地、极寒冰岛、极寒灵脉冰岛、海岛",
-    "所属界面": "大晋(北地)",
+    "类型": "极寒之地、半岛/极寒之地、极寒冰岛、极寒灵脉冰岛、海岛、半岛",
+    "所属界面": "大晋皇朝",
     "危险度": "极高(滴水成冰)、极高(万里寒气)、极高（极寒、禁制冰川）",
     "特产": "玄冰花、玄玉寒气、寒髓",
     "所属势力": "小极宫",
@@ -42,6 +43,11 @@
         "value": "海岛",
         "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
+      },
+      {
+        "value": "半岛",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
       }
     ],
     "所属界面": [
@@ -54,6 +60,11 @@
         "value": "大晋",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
       }
     ],
     "危险度": [
@@ -125,9 +136,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
       "dated": false,
-      "seq": 1075
+      "seq": 1081
     },
     "危险度": {
       "asOf": null,
@@ -165,7 +176,8 @@
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-967-kuzhu-laoren",
     "plot.fanren-1069-1074-soul-devour-escape-frost",
-    "plot.fanren-1075-1080-beiming-island-xiaojigong"
+    "plot.fanren-1075-1080-beiming-island-xiaojigong",
+    "plot.fanren-1081-1082-three-cold-flames"
   ],
-  "updatedAt": "2026-06-18T09:36:28.956Z"
+  "updatedAt": "2026-06-18T09:38:37.612Z"
 }

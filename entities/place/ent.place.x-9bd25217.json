@@ -1,0 +1,64 @@
+{
+  "id": "ent.place.x-9bd25217",
+  "type": "place",
+  "name": "冰玉洞",
+  "aliases": [
+    "虚灵殿冰玉洞"
+  ],
+  "summary": "位于虚灵殿中、每逢万年期开启的秘地，小极宫借其搜集寒髓。",
+  "attributes": {
+    "所属势力": "小极宫",
+    "类型": "秘洞",
+    "特产": "寒髓"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      }
+    ],
+    "类型": [
+      {
+        "value": "秘洞",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      }
+    ],
+    "特产": [
+      {
+        "value": "寒髓",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      }
+    ]
+  },
+  "firstSeq": 1081,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1081-1082-three-cold-flames"
+  ],
+  "updatedAt": "2026-06-18T09:38:37.615Z"
+}

@@ -9,7 +9,8 @@
   "summary": "小极宫藏经阁，共七层、各层结界相隔、玉简有禁制不能复制只能默记。",
   "attributes": {
     "所属势力": "小极宫",
-    "类型": "藏书阁"
+    "类型": "藏书阁",
+    "守护": "结丹中期老者"
   },
   "observations": {
     "所属势力": [
@@ -30,6 +31,13 @@
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
       }
+    ],
+    "守护": [
+      {
+        "value": "结丹中期老者",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      }
     ]
   },
   "firstSeq": 955,
@@ -45,13 +53,20 @@
       "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
       "seq": 955
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-1081-1082-three-cold-flames"
   ],
-  "updatedAt": "2026-06-16T02:36:43.774Z"
+  "updatedAt": "2026-06-18T09:38:37.614Z"
 }

@@ -8,8 +8,9 @@
   "summary": "生于万年玄冰脉上的拳头大淡白小花，韩立炼丹主料，采下须立即炼丹。",
   "attributes": {
     "类型": "灵药",
-    "用途": "炼丹主料",
-    "产地": "万年玄冰脉"
+    "用途": "炼丹主料、炼丹",
+    "产地": "万年玄冰脉、冰海雪吼兽巢穴",
+    "稀有度": "高"
   },
   "observations": {
     "类型": [
@@ -24,12 +25,29 @@
         "value": "炼丹主料",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
         "seq": 1081
+      },
+      {
+        "value": "炼丹",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
       }
     ],
     "产地": [
       {
         "value": "万年玄冰脉",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "冰海雪吼兽巢穴",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
+        "seq": 1081
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-1081-1082-three-cold-flames",
         "seq": 1081
       }
     ]
@@ -53,12 +71,19 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1081-1082-three-cold-flames",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-1081-1082-three-cold-flames"
   ],
-  "updatedAt": "2026-06-15T09:07:09.385Z"
+  "updatedAt": "2026-06-18T09:38:37.622Z"
 }
