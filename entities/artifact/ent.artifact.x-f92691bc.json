@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "叶七叔的法宝，被叶家修士用作辨认其真伪的凭据。",
   "attributes": {
-    "持有者": "叶七叔"
+    "持有者": "叶七叔、叶家七叔"
   },
   "observations": {
     "持有者": [
       {
         "value": "叶七叔",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "叶家七叔",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.418Z"
+  "updatedAt": "2026-06-18T02:57:43.693Z"
 }

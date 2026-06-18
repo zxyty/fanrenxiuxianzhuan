@@ -10,7 +10,8 @@
   "attributes": {
     "阵营": "人界修士",
     "据点": "镇魔塔(闯探中)",
-    "镇派之宝": "毒龙珠"
+    "镇派之宝": "毒龙珠",
+    "理念": "用毒/辟毒"
   },
   "observations": {
     "阵营": [
@@ -58,6 +59,13 @@
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
       }
+    ],
+    "理念": [
+      {
+        "value": "用毒/辟毒",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      }
     ]
   },
   "firstSeq": 973,
@@ -79,6 +87,12 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973
     }
   },
   "contested": false,
@@ -90,7 +104,8 @@
     "plot.fanren-997-1002-kunwu-shan-qian-laomo",
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T04:38:13.431Z"
+  "updatedAt": "2026-06-18T02:57:43.702Z"
 }

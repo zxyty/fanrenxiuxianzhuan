@@ -3,14 +3,15 @@
   "type": "beast",
   "name": "孽猿",
   "aliases": [
-    "孽猿鬼"
+    "孽猿鬼",
+    "蛇身猿面怪物"
   ],
   "summary": "重阴之地人怨念凝结的鬼物，蛇身猿面双臂持骨矛，嗜食生人脑浆，能模仿各种鬼声。",
   "attributes": {
     "种族": "鬼物",
-    "能力": "食生人脑浆、模仿各种鬼声",
-    "栖息地": "阴阳窟深处重阴之地",
-    "外形": "蛇身猿面、双臂、乌黑鳞躯三四丈"
+    "能力": "食生人脑浆、模仿各种鬼声、模仿鬼声、喷乌芒、持骨矛偷袭",
+    "栖息地": "阴阳窟深处重阴之地、重阴之地/阴阳窟",
+    "外形": "蛇身猿面、双臂、乌黑鳞躯三四丈、蛇身猿面、乌黑鳞片三四丈长"
   },
   "observations": {
     "种族": [
@@ -30,6 +31,21 @@
         "value": "模仿各种鬼声",
         "docId": "plot.fanren-ch973-minghe-zhiye",
         "seq": 973
+      },
+      {
+        "value": "模仿鬼声",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "喷乌芒",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "持骨矛偷袭",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "栖息地": [
@@ -37,12 +53,22 @@
         "value": "阴阳窟深处重阴之地",
         "docId": "plot.fanren-ch973-minghe-zhiye",
         "seq": 973
+      },
+      {
+        "value": "重阴之地/阴阳窟",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "外形": [
       {
         "value": "蛇身猿面、双臂、乌黑鳞躯三四丈",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "蛇身猿面、乌黑鳞片三四丈长",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ]
@@ -77,7 +103,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.449Z"
+  "updatedAt": "2026-06-18T02:57:43.746Z"
 }

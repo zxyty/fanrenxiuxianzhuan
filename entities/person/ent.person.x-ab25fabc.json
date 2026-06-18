@@ -6,7 +6,8 @@
     "常师妹",
     "常姓女子",
     "常道友",
-    "黑衣美妇人"
+    "黑衣美妇人",
+    "富姓老者师妹"
   ],
   "summary": "全程沉默的黑衣美妇，最后开口为韩立说话，嗓音沙哑而磁性，赞同不用冥河之页。",
   "attributes": {
@@ -17,7 +18,8 @@
     "身份": "多宝修士",
     "存殁": "死亡",
     "死因": "遭银翅夜叉毒手",
-    "结局": "肉身死亡，元婴被擒"
+    "结局": "肉身死亡，元婴被擒",
+    "标志特征": "嗓音沙哑磁性"
   },
   "observations": {
     "性别": [
@@ -50,7 +52,7 @@
       {
         "value": "元婴",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-        "seq": 979
+        "seq": 973
       },
       {
         "value": "元婴中期",
@@ -73,6 +75,11 @@
         "value": "多宝修士",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
+      },
+      {
+        "value": "九幽宗修士",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "存殁": [
@@ -100,6 +107,13 @@
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
       }
+    ],
+    "标志特征": [
+      {
+        "value": "嗓音沙哑磁性",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      }
     ]
   },
   "firstSeq": 973,
@@ -126,7 +140,7 @@
       "asOf": null,
       "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 979
+      "seq": 973
     },
     "身份": {
       "asOf": null,
@@ -151,6 +165,12 @@
       "docId": "plot.fanren-984-xie-yue-huan-jing",
       "dated": false,
       "seq": 985
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973
     }
   },
   "contested": false,
@@ -159,7 +179,8 @@
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-984-xie-yue-huan-jing",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:38:44.983Z"
+  "updatedAt": "2026-06-18T02:57:43.735Z"
 }

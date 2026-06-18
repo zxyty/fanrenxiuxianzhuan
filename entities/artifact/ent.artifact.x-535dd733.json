@@ -7,7 +7,7 @@
   ],
   "summary": "九幽宗三大镇宗之宝之一，可削弱阴阳窟惊魄阴风近半威力。",
   "attributes": {
-    "能力": "削弱惊魄阴风近半威力、化解惊魄阴风、迷神夺魂",
+    "能力": "削弱惊魄阴风近半威力、化解惊魄阴风、迷神夺魂、迷神、分光加持",
     "来历": "九幽宗三大镇宗之宝之一、魔宗镇宗之宝",
     "持有者": "富姓老者"
   },
@@ -26,6 +26,16 @@
       {
         "value": "迷神夺魂",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "迷神",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "分光加持",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ],
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.443Z"
+  "updatedAt": "2026-06-18T02:57:43.737Z"
 }

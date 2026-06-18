@@ -15,18 +15,19 @@
     "身份": "叶家辈分最高者、叶家修士、叶家叛逆、叶家外聘大修士、叶家长辈、叶家长老、受圣祖之托灭狼魂的修士",
     "标志特征": "断一臂",
     "外貌": "大头怪人",
-    "称号": "七叔",
+    "称号": "七叔、三叔祖",
     "种族": "人类",
     "寿元": "大限将至、生气不多",
     "阵营": "投靠圣族古魔",
-    "性格": "果决、狂傲"
+    "性格": "果决、狂傲",
+    "存殁": "在世"
   },
   "observations": {
     "小阶段": [
       {
         "value": "元婴后期",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
-        "seq": 991
+        "seq": 973
       }
     ],
     "身份": [
@@ -59,7 +60,7 @@
       {
         "value": "叶家长老",
         "docId": "plot.fanren-1015-jinci-lingmu",
-        "seq": 1015
+        "seq": 973
       },
       {
         "value": "受圣祖之托灭狼魂的修士",
@@ -73,6 +74,11 @@
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033,
         "note": "被珑梦击断后以符箓愈合"
+      },
+      {
+        "value": "头颅比常人大近半，摇摇晃晃",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "外貌": [
@@ -85,13 +91,23 @@
         "value": "大头",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "瘦高、双眉焦黄、眼小、头颅奇大",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "称号": [
       {
         "value": "七叔",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-        "seq": 991
+        "seq": 973
+      },
+      {
+        "value": "三叔祖",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "种族": [
@@ -122,6 +138,14 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973,
+        "note": "三百年前诈死，死而复生"
+      }
     ]
   },
   "firstSeq": 973,
@@ -130,7 +154,7 @@
       "asOf": null,
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
-      "seq": 991
+      "seq": 973
     },
     "身份": {
       "asOf": null,
@@ -155,7 +179,7 @@
       "asOf": null,
       "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 991
+      "seq": 973
     },
     "种族": {
       "asOf": null,
@@ -181,6 +205,13 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973,
+      "note": "三百年前诈死，死而复生"
     }
   },
   "contested": false,
@@ -191,7 +222,8 @@
     "plot.fanren-1045-1050-tunying-xueren-poqiang",
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T04:38:13.416Z"
+  "updatedAt": "2026-06-18T02:57:43.684Z"
 }

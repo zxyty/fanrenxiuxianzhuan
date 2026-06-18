@@ -5,16 +5,18 @@
   "aliases": [
     "古魂",
     "古魔分心",
-    "古魔分魂青年"
+    "古魔分魂青年",
+    "面容酷似韩立的青年"
   ],
   "summary": "魔界古魔的分魂，主魂当年于坠魔谷被韩立灭杀，夺走韩立两口金雷竹飞剑，会施展铁翅魔秘术化影遁。",
   "attributes": {
     "种族": "魔/古魔、古魔",
-    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物",
-    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤",
+    "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物、容颜酷似韩立的普通青年、酷似韩立的青年",
+    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒",
     "性格": "凶辣狠绝",
-    "阵营": "魔界古魔",
-    "小阶段": "元婴初期"
+    "阵营": "魔道",
+    "小阶段": "元婴初期",
+    "身份": "叶家「韩长老」"
   },
   "observations": {
     "种族": [
@@ -51,6 +53,18 @@
         "value": "双头四臂巨大魔物",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "容颜酷似韩立的普通青年",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973,
+        "note": "化形"
+      },
+      {
+        "value": "酷似韩立的青年",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973,
+        "note": "化形，存疑"
       }
     ],
     "标志特征": [
@@ -68,6 +82,11 @@
         "value": "瞬移极快、吞噬元婴愈伤",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "双首妖魔、四目黑紫精芒",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "性格": [
@@ -82,6 +101,11 @@
         "value": "魔界古魔",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "小阶段": [
@@ -89,6 +113,14 @@
         "value": "元婴初期",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      }
+    ],
+    "身份": [
+      {
+        "value": "叶家「韩长老」",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973,
+        "note": "受雇/化名"
       }
     ]
   },
@@ -121,22 +153,30 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-955-zaiyu-gumo",
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
       "dated": false,
-      "seq": 955
+      "seq": 973
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-955-zaiyu-gumo",
       "dated": false,
       "seq": 955
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973,
+      "note": "受雇/化名"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.fanren-955-zaiyu-gumo"
+    "plot.fanren-955-zaiyu-gumo",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-18T02:11:21.117Z"
+  "updatedAt": "2026-06-18T02:57:43.736Z"
 }

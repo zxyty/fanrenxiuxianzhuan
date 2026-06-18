@@ -1,16 +1,18 @@
 {
-  "id": "ent.faction.x-83990a6b",
-  "type": "faction",
-  "name": "天魔门",
-  "aliases": [],
-  "summary": "风天行所属门派；其元婴中期修士风天行因违冥河之页誓言陨落。",
+  "id": "ent.beast.x-6ea40b73",
+  "type": "beast",
+  "name": "灵鳖",
+  "aliases": [
+    "巨大灵鳖"
+  ],
+  "summary": "元兄灵兽袋中放出的巨大灵兽，可载人腾空。",
   "attributes": {
-    "阵营": "魔道"
+    "主人": "元兄"
   },
   "observations": {
-    "阵营": [
+    "主人": [
       {
-        "value": "魔道",
+        "value": "元兄",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
@@ -18,7 +20,7 @@
   },
   "firstSeq": 973,
   "attrProvenance": {
-    "阵营": {
+    "主人": {
       "asOf": null,
       "docId": "plot.fanren-973-yinyangku-minghe-page",
       "dated": false,
@@ -28,8 +30,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-18T02:57:43.673Z"
+  "updatedAt": "2026-06-18T02:57:43.698Z"
 }

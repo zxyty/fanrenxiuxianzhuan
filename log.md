@@ -485,3 +485,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T02:11:21.244Z** `ingest` plot.fanren-955-zaiyu-gumo — 第955章 再遇古魔：交换会拍卖平山印，韩立离场遭古魔分魂截杀 · kind=plot asOf=2026-06-18 entities=39 relations=42 src=00955-00960.md
 - **2026-06-18T02:23:33.639Z** `ingest` plot.fanren-ch961-966-tu-jiao-mie-jiao — 凡人修仙传 第961-966章：化灵符之约与屠蛟大会斩赤火蛟 · kind=plot asOf=2026-06-18 entities=53 relations=59 src=00961-00966.md
 - **2026-06-18T02:40:25.792Z** `ingest` plot.fanren-967-kuzhu-laoren — 凡人修仙传 第967章 苦竹老人——韩立携傀儡上岛求乌凤之翎，约战苦竹 · kind=plot asOf=2026-06-18 entities=55 relations=66 src=00967-00972.md
+- **2026-06-18T02:57:43.857Z** `ingest` plot.fanren-973-yinyangku-minghe-page — 第973章 冥河之页——富姓老者邀约共闯阴阳窟 · kind=plot asOf=2026-06-18 entities=54 relations=63 src=00973-00978.md

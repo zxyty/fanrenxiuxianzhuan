@@ -8,7 +8,8 @@
     "小阶段": "元婴中期",
     "阵营": "天魔门",
     "存殁": "死亡",
-    "死因": "违背冥河之页誓言遭奇祸"
+    "死因": "违背冥河之页誓言遭奇祸、违背冥河之页誓言（传闻）",
+    "身份": "天魔门修士"
   },
   "observations": {
     "小阶段": [
@@ -36,6 +37,18 @@
       {
         "value": "违背冥河之页誓言遭奇祸",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "违背冥河之页誓言（传闻）",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      }
+    ],
+    "身份": [
+      {
+        "value": "天魔门修士",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ]
@@ -65,12 +78,19 @@
       "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
       "seq": 973
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.399Z"
+  "updatedAt": "2026-06-18T02:57:43.661Z"
 }

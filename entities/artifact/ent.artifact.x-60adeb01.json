@@ -3,15 +3,16 @@
   "type": "artifact",
   "name": "冥河之页",
   "aliases": [
-    "焦黄纸页"
+    "焦黄纸页",
+    "黑色书页"
   ],
   "summary": "燃黑色火焰的焦黄纸页邪器，以精血在其上书写誓言，违誓必遭奇祸；失踪数百年，由富姓老者自地下坊市重金购得。",
   "attributes": {
     "品阶": "邪器",
-    "能力": "立誓守约、违誓遭奇祸",
+    "能力": "立誓守约、违誓遭奇祸、立誓违背必遭奇祸、追踪/探查",
     "来历": "失踪数百年，自地下坊市收购",
     "持有者": "富姓老者、富成",
-    "外形": "燃黑色火焰的焦黄纸页"
+    "外形": "燃黑色火焰的焦黄纸页、燃烧黑色火焰的焦黄纸页"
   },
   "observations": {
     "品阶": [
@@ -31,6 +32,16 @@
         "value": "违誓遭奇祸",
         "docId": "plot.fanren-ch973-minghe-zhiye",
         "seq": 973
+      },
+      {
+        "value": "立誓违背必遭奇祸",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "追踪/探查",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "来历": [
@@ -44,7 +55,8 @@
       {
         "value": "富姓老者",
         "docId": "plot.fanren-ch973-minghe-zhiye",
-        "seq": 973
+        "seq": 973,
+        "note": "从地下坊市收购"
       },
       {
         "value": "富成",
@@ -56,6 +68,11 @@
       {
         "value": "燃黑色火焰的焦黄纸页",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "燃烧黑色火焰的焦黄纸页",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ]
@@ -84,7 +101,8 @@
       "asOf": null,
       "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
-      "seq": 973
+      "seq": 973,
+      "note": "从地下坊市收购"
     },
     "外形": {
       "asOf": null,
@@ -96,7 +114,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.419Z"
+  "updatedAt": "2026-06-18T02:57:43.692Z"
 }

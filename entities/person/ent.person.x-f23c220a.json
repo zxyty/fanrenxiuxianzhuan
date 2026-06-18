@@ -2,7 +2,9 @@
   "id": "ent.person.x-f23c220a",
   "type": "person",
   "name": "方脸修士",
-  "aliases": [],
+  "aliases": [
+    "二小子"
+  ],
   "summary": "叶家元婴中期修士，持仿制灵宝弥天镯/骨环，被元刹吞噬。",
   "attributes": {
     "小阶段": "元婴中期",
@@ -61,6 +63,11 @@
         "value": "方脸",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "方脸锦袍",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ]
   },
@@ -114,7 +121,8 @@
   "docs": [
     "plot.fanren-1045-1050-tunying-xueren-poqiang",
     "plot.fanren-ch973-minghe-zhiye",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T04:38:13.383Z"
+  "updatedAt": "2026-06-18T02:57:43.713Z"
 }

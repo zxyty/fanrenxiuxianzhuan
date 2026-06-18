@@ -8,7 +8,8 @@
   "summary": "元姓大汉的辟毒法器，放银波推开万毒谷毒雾开路。",
   "attributes": {
     "持有者": "元姓大汉",
-    "能力": "辟毒、推散毒雾"
+    "能力": "辟毒、推散毒雾、放银波推开毒雾、辟毒",
+    "外形": "闪银光的玉如意"
   },
   "observations": {
     "持有者": [
@@ -22,6 +23,18 @@
       {
         "value": "辟毒、推散毒雾",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "放银波推开毒雾、辟毒",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      }
+    ],
+    "外形": [
+      {
+        "value": "闪银光的玉如意",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
       "seq": 973
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "dated": false,
+      "seq": 973
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch973-minghe-zhiye"
+    "plot.fanren-ch973-minghe-zhiye",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:09:29.418Z"
+  "updatedAt": "2026-06-18T02:57:43.728Z"
 }

@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "南疆势力/地域，阴阳窟即位于其内。",
   "attributes": {
-    "所属界面": "大晋、南疆、人界",
-    "危险度": "高（毒雾毒虫、禁空禁制）",
-    "守护": "禁空禁制",
-    "类型": "山谷"
+    "所属界面": "大晋、南疆、人界、灵界以下/南疆",
+    "危险度": "高（毒雾毒虫、禁空禁制）、毒花毒草遍布、极高",
+    "守护": "禁空禁制、深黄毒雾、细小毒虫、禁空禁制",
+    "类型": "山谷、谷地凶地、毒谷、上古禁制之地"
   },
   "observations": {
     "所属界面": [
@@ -26,12 +26,27 @@
         "value": "人界",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "灵界以下/南疆",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "危险度": [
       {
         "value": "高（毒雾毒虫、禁空禁制）",
         "docId": "plot.fanren-ch973-minghe-zhiye",
+        "seq": 973
+      },
+      {
+        "value": "毒花毒草遍布",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
     ],
@@ -40,6 +55,11 @@
         "value": "禁空禁制",
         "docId": "plot.fanren-ch973-minghe-zhiye",
         "seq": 973
+      },
+      {
+        "value": "深黄毒雾、细小毒虫、禁空禁制",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ],
     "类型": [
@@ -47,6 +67,21 @@
         "value": "山谷",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "谷地凶地",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "毒谷",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
+      },
+      {
+        "value": "上古禁制之地",
+        "docId": "plot.fanren-973-yinyangku-minghe-page",
+        "seq": 973
       }
     ]
   },
@@ -72,16 +107,17 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-973-yinyangku-minghe-page",
       "dated": false,
-      "seq": 991
+      "seq": 973
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch973-minghe-zhiye",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-973-yinyangku-minghe-page"
   ],
-  "updatedAt": "2026-06-16T03:38:44.994Z"
+  "updatedAt": "2026-06-18T02:57:43.726Z"
 }
