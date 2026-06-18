@@ -8,8 +8,8 @@
   ],
   "summary": "昆吾山山腰白石阶上的牌楼，过此门方达昆吾山众修洞府，被强力禁制封印。",
   "attributes": {
-    "类型": "门户牌楼",
-    "守护": "禁制封印"
+    "类型": "门户牌楼、封印牌楼",
+    "守护": "禁制封印、强力封印禁制"
   },
   "observations": {
     "类型": [
@@ -17,12 +17,22 @@
         "value": "门户牌楼",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "封印牌楼",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "守护": [
       {
         "value": "禁制封印",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "强力封印禁制",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ]
@@ -45,7 +55,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T03:38:45.012Z"
+  "updatedAt": "2026-06-18T03:40:07.146Z"
 }

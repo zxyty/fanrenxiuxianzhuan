@@ -1,0 +1,51 @@
+{
+  "id": "ent.artifact.x-633ae112",
+  "type": "artifact",
+  "name": "银梭",
+  "aliases": [
+    "银芒",
+    "银光闪闪之物"
+  ],
+  "summary": "七叔的飞行法器，数寸银梭，被紫雾怪兽巨爪抓住却令其流绿血。",
+  "attributes": {
+    "持有者": "七叔",
+    "外形": "数寸大小、闪闪发光的小巧银梭"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "七叔",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ],
+    "外形": [
+      {
+        "value": "数寸大小、闪闪发光的小巧银梭",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-991-zi-wu"
+  ],
+  "updatedAt": "2026-06-18T03:40:07.140Z"
+}

@@ -11,7 +11,8 @@
     "阵营": "人界修士",
     "据点": "镇魔塔(闯探中)",
     "镇派之宝": "毒龙珠",
-    "理念": "用毒/辟毒"
+    "理念": "寻找昆吾山秘宝",
+    "等级": "南疆宗门"
   },
   "observations": {
     "阵营": [
@@ -65,6 +66,18 @@
         "value": "用毒/辟毒",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "寻找昆吾山秘宝",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ],
+    "等级": [
+      {
+        "value": "南疆宗门",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ]
   },
@@ -90,9 +103,15 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "docId": "plot.fanren-991-zi-wu",
       "dated": false,
-      "seq": 973
+      "seq": 991
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
     }
   },
   "contested": false,
@@ -105,7 +124,8 @@
     "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1015-jinci-lingmu",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-18T02:57:43.702Z"
+  "updatedAt": "2026-06-18T03:40:07.157Z"
 }

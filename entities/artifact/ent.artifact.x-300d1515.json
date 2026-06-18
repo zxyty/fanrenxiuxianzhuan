@@ -10,8 +10,8 @@
   ],
   "summary": "越皇以乌黑刀柄加大量精血祭炼而成、刀刃由黑血组成的凶险法宝，能斩破五色霞光并吞噬修士神识。",
   "attributes": {
-    "持有者": "白袍儒生",
-    "能力": "斩出十余丈黑色刀芒、斩破霞光、自行吞噬靠近的修士神识、克上古凶禽、破紫色光环",
+    "持有者": "越皇、白袍儒生、叶家",
+    "能力": "斩出十余丈黑色刀芒、斩破霞光、自行吞噬靠近的修士神识、克上古凶禽、破紫色光环、破禁斩物、可血符强化",
     "来历": "叶家传承之宝",
     "外形": "黑红色飞刀"
   },
@@ -25,6 +25,11 @@
       {
         "value": "白袍儒生",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ],
@@ -42,6 +47,11 @@
       {
         "value": "克上古凶禽、破紫色光环",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "破禁斩物、可血符强化",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ],
@@ -74,9 +84,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-ch326-xueling-zuan",
       "dated": false,
-      "seq": 991
+      "seq": 325
     },
     "能力": {
       "asOf": null,
@@ -101,7 +111,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch326-xueling-zuan",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T03:38:44.991Z"
+  "updatedAt": "2026-06-18T03:40:07.159Z"
 }

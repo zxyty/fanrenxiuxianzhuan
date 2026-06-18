@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "南疆府地，昆吾山封印所在地。",
   "attributes": {
-    "类型": "府域",
+    "类型": "府域、府/地域",
     "所属界面": "人界"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "府域",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "府/地域",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ],
@@ -43,7 +48,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T03:38:44.995Z"
+  "updatedAt": "2026-06-18T03:40:07.163Z"
 }

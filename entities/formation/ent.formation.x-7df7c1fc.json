@@ -3,13 +3,15 @@
   "type": "formation",
   "name": "上古传送阵",
   "aliases": [
-    "六角形古朴传送阵"
+    "六角形古朴传送阵",
+    "巨大法阵"
   ],
   "summary": "连通乱星海与天南越国的上古传送阵，一经激发非结丹以上修为不可摧毁；韩立修复乱星海一侧后毁去天南一侧以独占捷径。",
   "attributes": {
     "效果": "传送往乱星海",
     "破解法": "激发后需结丹以上修为方可毁",
-    "布置者": "韩立"
+    "布置者": "韩立",
+    "出处": "上古修士"
   },
   "observations": {
     "效果": [
@@ -22,6 +24,11 @@
         "value": "传送往乱星海",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "远程传送",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "破解法": [
@@ -37,9 +44,16 @@
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
+    ],
+    "出处": [
+      {
+        "value": "上古修士",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
     ]
   },
-  "firstSeq": 1159,
+  "firstSeq": 991,
   "attrProvenance": {
     "效果": {
       "asOf": null,
@@ -58,13 +72,20 @@
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1161-kunpeng-zhi-yu",
-    "plot.fanren-1196-er-nv"
+    "plot.fanren-1196-er-nv",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T07:22:30.050Z"
+  "updatedAt": "2026-06-18T03:40:07.148Z"
 }

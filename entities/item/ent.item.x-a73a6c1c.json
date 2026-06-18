@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "毒圣门祖师爷先人所炼、专感应昆吾山飞仙石的珠子，供于祖师堂；珠鸣即昆吾山出世。",
   "attributes": {
-    "类型": "感应灵宝",
-    "用途": "感应昆吾山飞仙石"
+    "类型": "感应灵宝、感应法器",
+    "用途": "感应昆吾山飞仙石",
+    "产地": "毒圣门祖师堂"
   },
   "observations": {
     "类型": [
@@ -14,12 +15,24 @@
         "value": "感应灵宝",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
         "seq": 991
+      },
+      {
+        "value": "感应法器",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "用途": [
       {
         "value": "感应昆吾山飞仙石",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "产地": [
+      {
+        "value": "毒圣门祖师堂",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
       "seq": 991
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T03:38:44.988Z"
+  "updatedAt": "2026-06-18T03:40:07.166Z"
 }

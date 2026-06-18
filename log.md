@@ -488,3 +488,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T02:57:43.857Z** `ingest` plot.fanren-973-yinyangku-minghe-page — 第973章 冥河之页——富姓老者邀约共闯阴阳窟 · kind=plot asOf=2026-06-18 entities=54 relations=63 src=00973-00978.md
 - **2026-06-18T03:10:23.843Z** `ingest` plot.fanren-ch979-wuzi-tongxin-mo — 凡人修仙传 第979章 五子同心魔 · kind=plot asOf=2026-06-18 entities=47 relations=54 src=00979-00984.md
 - **2026-06-18T03:23:45.699Z** `ingest` plot.fanren-ch985-990-kunmozhen-yinchi-yecha — 凡人修仙传 第985-990章｜困魔阵中战银翅夜叉、邪月幻镜与黑衣美妇之死 · kind=plot asOf=2026-06-18 entities=31 relations=32 src=00985-00990.md
+- **2026-06-18T03:40:07.303Z** `ingest` plot.fanren-991-zi-wu — 凡人修仙传 第991章 紫雾 · kind=plot asOf=2026-06-18 entities=38 relations=45 src=00991-00996.md

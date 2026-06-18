@@ -1,0 +1,71 @@
+{
+  "id": "ent.beast.x-91544c1e",
+  "type": "beast",
+  "name": "紫雾怪物",
+  "aliases": [
+    "紫雾怪兽",
+    "雾中怪物"
+  ],
+  "summary": "藏于紫色云雾、长赤红妖目、兽吼似狮虎又似龙吟、精通隐匿遁术的怪物；被银梭所伤流绿血后隐遁。",
+  "attributes": {
+    "能力": "藏身紫雾、隐匿遁术",
+    "外形": "黑乎乎身躯、拳头大赤红妖目、鸡爪般巨爪、绿色血液"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "藏身紫雾",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "隐匿遁术",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑乎乎身躯",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "拳头大赤红妖目",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "鸡爪般巨爪",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "绿色血液",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-991-zi-wu"
+  ],
+  "updatedAt": "2026-06-18T03:40:07.143Z"
+}

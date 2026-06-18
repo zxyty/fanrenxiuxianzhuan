@@ -10,7 +10,9 @@
   "attributes": {
     "小阶段": "元婴中期顶峰",
     "标志特征": "满脸碧纹",
-    "阵营": "毒圣门"
+    "阵营": "毒圣门",
+    "性别": "男",
+    "身份": "毒圣门长老"
   },
   "observations": {
     "小阶段": [
@@ -31,6 +33,20 @@
       {
         "value": "毒圣门",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ],
+    "身份": [
+      {
+        "value": "毒圣门长老",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ]
@@ -54,12 +70,25 @@
       "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
       "seq": 991
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch991-996-kunwu-shan-peiying-dan"
+    "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-16T03:38:44.980Z"
+  "updatedAt": "2026-06-18T03:40:07.156Z"
 }

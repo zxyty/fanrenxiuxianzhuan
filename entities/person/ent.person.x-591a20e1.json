@@ -17,14 +17,15 @@
   "summary": "元婴中期顶峰修士，持雷灵晶与韩立交易，性急直爽，愿引荐韩立参加地下交易会。",
   "attributes": {
     "小阶段": "元婴中期顶峰、元婴、元婴中期、元婴期",
-    "外貌": "身材高大、面色枣红、皂袍、身材高大、枣红脸、皂袍",
+    "外貌": "身材高大、面色枣红、皂袍、身材高大、枣红脸、皂袍、老者",
     "性格": "直爽性急、老练市侩、谨慎多疑、谨慎、识时务、直性子、爽快、心急",
-    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老、散修/地下交易会引荐人、修士、南疆修士、探宝队领头、同探阴阳窟的修士",
+    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老、散修/地下交易会引荐人、修士、南疆修士、探宝队领头、同探阴阳窟的修士、炼丹修士",
     "阵营": "魔道、九幽宗",
     "性别": "男",
-    "标志特征": "持紫幽珠",
+    "标志特征": "口喷碧绿婴火炼丹",
     "存殁": "被困、死亡、存(被困)、存活",
-    "死因": "被四散真人魔刃剥离血肉灭杀、镇魔塔混战中遇害"
+    "死因": "被四散真人魔刃剥离血肉灭杀、镇魔塔混战中遇害",
+    "出身地": "大晋内陆"
   },
   "observations": {
     "小阶段": [
@@ -69,6 +70,11 @@
         "value": "身材高大、枣红脸、皂袍",
         "docId": "plot.fanren-937-942-tianjige-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "性格": [
@@ -148,6 +154,11 @@
         "value": "同探阴阳窟的修士",
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "炼丹修士",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "阵营": [
@@ -179,6 +190,11 @@
         "value": "精通丹道、持培婴丹配方",
         "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
+      },
+      {
+        "value": "口喷碧绿婴火炼丹",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "存殁": [
@@ -214,6 +230,13 @@
         "value": "镇魔塔混战中遇害",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      }
+    ],
+    "出身地": [
+      {
+        "value": "大晋内陆",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ]
   },
@@ -257,9 +280,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "docId": "plot.fanren-991-zi-wu",
       "dated": false,
-      "seq": 973
+      "seq": 991
     },
     "存殁": {
       "asOf": null,
@@ -273,6 +296,12 @@
       "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
       "seq": 1027
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
     }
   },
   "contested": false,
@@ -294,7 +323,8 @@
     "plot.fanren-967-kuzhu-laoren",
     "plot.fanren-973-yinyangku-minghe-page",
     "plot.fanren-ch979-wuzi-tongxin-mo",
-    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-18T03:23:45.577Z"
+  "updatedAt": "2026-06-18T03:40:07.172Z"
 }

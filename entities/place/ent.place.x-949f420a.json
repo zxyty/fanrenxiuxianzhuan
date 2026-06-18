@@ -10,15 +10,16 @@
     "昆吾仙山",
     "昆吾山秘境",
     "灵山昆吾",
-    "昆吾山封印之地"
+    "昆吾山封印之地",
+    "此山"
   ],
   "summary": "整体被禁制笼罩、封印古魔之地，封印有裂缝入口，玄青子在此守关。",
   "attributes": {
-    "类型": "封印秘境、上古封印之地、上古封印/秘境、封印之地、上古秘境、秘境/封印地、上古仙山圣地、上古灵山、上古仙山/封印之地、古修遗址、封印禁地、上古封印秘境、上古遗迹、封印灵山、上古秘地、仙山、上古灵山/封印之地",
-    "守护": "整山禁制枢纽阵眼、九真伏魔阵、八灵尺、外围大封印、古修上古禁制（遍布方圆百里地下，层层叠叠）、万修之门、九真伏魔大阵、上古幻阵禁制、禁空禁制、克神识禁制、上古层叠禁制",
-    "危险度": "高",
+    "类型": "封印秘境、上古封印之地、上古封印/秘境、封印之地、上古秘境、秘境/封印地、上古仙山圣地、上古灵山、上古仙山/封印之地、古修遗址、封印禁地、上古封印秘境、上古遗迹、封印灵山、上古秘地、仙山、上古灵山/封印之地、上古修真名山、上古仙山/修炼圣地",
+    "守护": "整山禁制枢纽阵眼、九真伏魔阵、八灵尺、外围大封印、古修上古禁制（遍布方圆百里地下，层层叠叠）、万修之门、九真伏魔大阵、上古幻阵禁制、禁空禁制、克神识禁制、上古层叠禁制、上古大神通封印、上古传送阵/禁制",
+    "危险度": "极高、高、高（整山禁制封印、死气沉沉）",
     "所属界面": "人界（南疆）、人界、大晋(灵界)、人界·南疆",
-    "特产": "飞仙石",
+    "特产": "飞仙石、通天灵宝/秘宝、飞仙石、众多秘宝",
     "所属势力": "昆吾三老一脉"
   },
   "observations": {
@@ -107,6 +108,16 @@
         "value": "上古灵山/封印之地",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "上古修真名山",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "上古仙山/修炼圣地",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "守护": [
@@ -159,6 +170,16 @@
         "value": "上古层叠禁制",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "上古大神通封印",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      },
+      {
+        "value": "上古传送阵/禁制",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "危险度": [
@@ -170,6 +191,11 @@
       {
         "value": "高",
         "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+        "seq": 991
+      },
+      {
+        "value": "高（整山禁制封印、死气沉沉）",
+        "docId": "plot.fanren-991-zi-wu",
         "seq": 991
       }
     ],
@@ -205,6 +231,11 @@
         "value": "通天灵宝/秘宝",
         "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
         "seq": 985
+      },
+      {
+        "value": "飞仙石、众多秘宝",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
       }
     ],
     "所属势力": [
@@ -231,9 +262,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
-      "seq": 991
+      "seq": 973
     },
     "所属界面": {
       "asOf": null,
@@ -243,9 +274,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
+      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
       "dated": false,
-      "seq": 991
+      "seq": 985
     },
     "所属势力": {
       "asOf": null,
@@ -272,7 +303,8 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha"
+    "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+    "plot.fanren-991-zi-wu"
   ],
-  "updatedAt": "2026-06-18T03:23:45.590Z"
+  "updatedAt": "2026-06-18T03:40:07.174Z"
 }

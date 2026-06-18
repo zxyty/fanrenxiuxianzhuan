@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-7d556cf3",
+  "type": "artifact",
+  "name": "追踪法盘",
+  "aliases": [],
+  "summary": "韩立暗中使用的追踪法宝，盘上显出一白一黑两个清晰光点。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "追踪并显示目标光点"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ],
+    "能力": [
+      {
+        "value": "追踪并显示目标光点",
+        "docId": "plot.fanren-991-zi-wu",
+        "seq": 991
+      }
+    ]
+  },
+  "firstSeq": 991,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-991-zi-wu",
+      "dated": false,
+      "seq": 991
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-991-zi-wu"
+  ],
+  "updatedAt": "2026-06-18T03:40:07.139Z"
+}
