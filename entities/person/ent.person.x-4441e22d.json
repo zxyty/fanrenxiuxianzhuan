@@ -12,11 +12,12 @@
   "summary": "叶家二长老，主导笼络韩长老与数年后取宝之行的核心人物。",
   "attributes": {
     "性别": "男",
-    "身份": "叶家二长老、叶家长老",
+    "身份": "叶家二长老、叶家长老、叶家修士",
     "阵营": "叶家",
     "外貌": "面容威严、腰缠玉带的方脸中年人、面容威严、腰缠玉带方脸中年人",
     "小阶段": "元婴中期",
-    "称号": "二长老"
+    "称号": "二长老",
+    "标志特征": "白骨环影"
   },
   "observations": {
     "性别": [
@@ -36,6 +37,11 @@
         "value": "叶家长老",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "叶家修士",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "阵营": [
@@ -69,6 +75,13 @@
         "value": "二长老",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "白骨环影",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ]
   },
@@ -109,6 +122,12 @@
       "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
       "dated": false,
       "seq": 943
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -117,7 +136,8 @@
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T01:59:22.621Z"
+  "updatedAt": "2026-06-18T06:41:47.806Z"
 }

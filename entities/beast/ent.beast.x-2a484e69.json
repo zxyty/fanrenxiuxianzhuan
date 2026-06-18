@@ -9,9 +9,9 @@
   ],
   "summary": "原为空玄丹士所养七级灵禽，今已进阶十级妖兽；与银翅夜叉同行。",
   "attributes": {
-    "等级": "十级妖兽",
-    "外形": "狮禽相兼、狮首禽身、狮首鹰身、四翅五六丈、紫光环绕、狮首鹰身四翅、浑身紫光，张翅五六丈、狮首鹰身四翅",
-    "能力": "金色音波、紫雾、金波攻击、隐匿遁术、雷遁术、金色音波震飞法宝、紫色光环、嗅觉灵敏循迹、金色波纹（克法宝）、音波狂吼",
+    "等级": "妖兽",
+    "外形": "狮禽相兼、狮首禽身、狮首鹰身、四翅五六丈、紫光环绕、狮首鹰身四翅、浑身紫光，张翅五六丈、狮首鹰身四翅、狮禽",
+    "能力": "金色音波、紫雾、金波攻击、隐匿遁术、雷遁术、金色音波震飞法宝、紫色光环、嗅觉灵敏循迹、金色波纹（克法宝）、音波狂吼、利爪",
     "栖息地": "昆吾山困灵阵",
     "种族": "妖兽"
   },
@@ -36,6 +36,11 @@
         "value": "凶禽",
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
+      },
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "外形": [
@@ -63,6 +68,11 @@
         "value": "狮首鹰身四翅",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "狮禽",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "能力": [
@@ -115,6 +125,11 @@
         "value": "音波狂吼",
         "docId": "plot.fanren-991-zi-wu",
         "seq": 991
+      },
+      {
+        "value": "利爪",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "栖息地": [
@@ -141,9 +156,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
       "dated": false,
-      "seq": 1033
+      "seq": 1039
     },
     "外形": {
       "asOf": null,
@@ -190,7 +205,8 @@
     "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
     "plot.fanren-1014-huaxian-ernv",
     "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T06:10:51.732Z"
+  "updatedAt": "2026-06-18T06:41:47.808Z"
 }

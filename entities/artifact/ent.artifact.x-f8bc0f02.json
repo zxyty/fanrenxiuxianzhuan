@@ -12,8 +12,9 @@
   ],
   "summary": "韩立以之炼制飞刀，遁速诡异，连斩古魔头颅的关键法宝。",
   "attributes": {
-    "持有者": "韩立",
-    "能力": "炼制诡速飞刀"
+    "持有者": "韩立、人形傀儡",
+    "能力": "炼制诡速飞刀、无声诡异遁速、斩首",
+    "外形": "晶莹如墨寸许飞刀"
   },
   "observations": {
     "持有者": [
@@ -21,12 +22,29 @@
         "value": "韩立",
         "docId": "plot.fanren-1039-hei-feng-qi",
         "seq": 1039
+      },
+      {
+        "value": "人形傀儡",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "能力": [
       {
         "value": "炼制诡速飞刀",
         "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "无声诡异遁速、斩首",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      }
+    ],
+    "外形": [
+      {
+        "value": "晶莹如墨寸许飞刀",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
         "seq": 1039
       }
     ]
@@ -44,6 +62,12 @@
       "docId": "plot.fanren-1039-hei-feng-qi",
       "dated": false,
       "seq": 1039
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -58,7 +82,8 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-955-zaiyu-gumo",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao",
-    "plot.fanren-1027-1032-tongtian-lingbao-fanshi"
+    "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T05:52:33.590Z"
+  "updatedAt": "2026-06-18T06:41:47.810Z"
 }

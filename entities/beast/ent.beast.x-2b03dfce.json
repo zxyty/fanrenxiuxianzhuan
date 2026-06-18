@@ -7,13 +7,14 @@
     "上古灵禽",
     "灵禽",
     "灵犀孔雀灵禽",
-    "上古孔雀"
+    "上古孔雀",
+    "五色孔雀灵禽"
   ],
   "summary": "徐姓青年所养上古灵禽，五色灵光所照之处恶风偃旗息鼓，但道行尚浅。",
   "attributes": {
-    "种族": "灵犀孔雀",
+    "种族": "灵犀孔雀、上古灵禽",
     "主人": "林银屏",
-    "能力": "五色灵光平息恶风、五色灵光、长翎激射破雾、瞬移扭曲身形、五色灵光隔绝天地灵气、开路",
+    "能力": "五色灵光平息恶风、五色灵光、长翎激射破雾、瞬移扭曲身形、五色灵光隔绝天地灵气、开路、五色灵光镇风",
     "外形": "五色孔雀、周身五色灵光、孔雀、上古孔雀、五色彩翎孔雀、数尺长五色彩翎孔雀",
     "等级": "上古灵禽"
   },
@@ -22,6 +23,11 @@
       {
         "value": "灵犀孔雀",
         "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "上古灵禽",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
         "seq": 1039
       }
     ],
@@ -77,6 +83,11 @@
         "value": "开路",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "五色灵光镇风",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "外形": [
@@ -162,7 +173,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1011-three-flame-fan-shocks-enemies",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T06:10:51.672Z"
+  "updatedAt": "2026-06-18T06:41:47.775Z"
 }

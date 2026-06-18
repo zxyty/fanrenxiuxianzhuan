@@ -15,11 +15,13 @@
   "attributes": {
     "种族": "魔/古魔、古魔、圣族",
     "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物、容颜酷似韩立的普通青年、酷似韩立的青年、酷似韩立的青袍青年、酷似韩立的青年/韩长老",
-    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒、双首四臂魔影/乌黑魔臂/黑色魔焰",
+    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒、双首四臂魔影/乌黑魔臂/黑色魔焰、双头三臂、黑青鳞片战甲、黑紫魔焰、震波秘术",
     "性格": "不动声色、城府深",
     "阵营": "圣界圣族",
     "小阶段": "元婴初期",
-    "身份": "叶家客卿‘韩长老’"
+    "身份": "叶家客卿‘韩长老’",
+    "存殁": "死亡",
+    "死因": "被韩立以青竹蜂云剑金网、紫焰冰封、辟邪神雷连元神扫灭"
   },
   "observations": {
     "种族": [
@@ -112,6 +114,26 @@
         "value": "双首四臂魔影/乌黑魔臂/黑色魔焰",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "双头三臂",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      },
+      {
+        "value": "黑青鳞片战甲",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      },
+      {
+        "value": "黑紫魔焰",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      },
+      {
+        "value": "震波秘术",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "性格": [
@@ -169,6 +191,20 @@
         "seq": 1015,
         "note": "化名冒充，自第985章"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立以青竹蜂云剑金网、紫焰冰封、辟邪神雷连元神扫灭",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      }
     ]
   },
   "firstSeq": 955,
@@ -216,6 +252,18 @@
       "dated": false,
       "seq": 1015,
       "note": "化名冒充，自第985章"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+      "dated": false,
+      "seq": 1039
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -229,7 +277,8 @@
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1010-xumi-wuxing-bi",
     "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T05:35:52.277Z"
+  "updatedAt": "2026-06-18T06:41:47.797Z"
 }

@@ -7,7 +7,7 @@
   ],
   "summary": "黑袍女子所用半透明圆珠法宝（实为仿制品），无声击杀叶家修士、击破白袍儒生幻影。",
   "attributes": {
-    "外形": "拇指大小晶莹圆珠",
+    "外形": "拇指大小晶莹圆珠、半透明拇指大圆珠",
     "来历": "仿制品",
     "品阶": "上古灵宝"
   },
@@ -17,13 +17,19 @@
         "value": "拇指大小晶莹圆珠",
         "docId": "plot.fanren-1039-hei-feng-qi",
         "seq": 1039
+      },
+      {
+        "value": "半透明拇指大圆珠",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "来历": [
       {
         "value": "仿制品",
         "docId": "plot.fanren-1039-hei-feng-qi",
-        "seq": 1039
+        "seq": 1039,
+        "note": "非真映月环"
       }
     ],
     "品阶": [
@@ -46,7 +52,8 @@
       "asOf": null,
       "docId": "plot.fanren-1039-hei-feng-qi",
       "dated": false,
-      "seq": 1039
+      "seq": 1039,
+      "note": "非真映月环"
     },
     "品阶": {
       "asOf": null,
@@ -60,7 +67,8 @@
   "docs": [
     "plot.fanren-1039-hei-feng-qi",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T04:51:29.274Z"
+  "updatedAt": "2026-06-18T06:41:47.815Z"
 }

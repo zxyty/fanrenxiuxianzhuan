@@ -3,14 +3,16 @@
   "type": "formation",
   "name": "九真伏魔阵",
   "aliases": [
-    "九真伏魔大阵"
+    "九真伏魔大阵",
+    "伏魔大阵"
   ],
   "summary": "号称人界辟邪退魔第一等法阵，上古大战曾灭杀诸多上古妖魔；由八灵尺激发，升出九座祭坛、各竖十余丈金光巨刃。",
   "attributes": {
-    "效果": "辟邪退魔、灭杀妖魔、化九口金刀射金丝、金光禁制、幻妙天象囚敌、缠困古魔圣祖与珑梦妖妃、伏魔护殿、封印/镇压本妃、辟邪退魔、镇杀上古妖魔",
+    "效果": "辟邪退魔、灭杀妖魔、化九口金刀射金丝、金光禁制、幻妙天象囚敌、缠困古魔圣祖与珑梦妖妃、伏魔护殿、封印/镇压本妃、辟邪退魔、镇杀上古妖魔、九刃金刀护宫、伏魔围困",
     "出处": "上古大战、昆吾山虚天殿",
     "布置者": "上古人界修士",
-    "破解法": "被黑风旗飓风摧毁"
+    "破解法": "被黑风旗飓风摧毁、被黑风旗狂风击破",
+    "品阶": "上古"
   },
   "observations": {
     "效果": [
@@ -53,6 +55,16 @@
         "value": "辟邪退魔、镇杀上古妖魔",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "九刃金刀护宫",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
+      },
+      {
+        "value": "伏魔围困",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ],
     "出处": [
@@ -84,6 +96,19 @@
         "value": "被黑风旗飓风摧毁",
         "docId": "plot.fanren-1039-hei-feng-qi",
         "seq": 1039
+      },
+      {
+        "value": "被黑风旗狂风击破",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039,
+        "note": "本片段被毁"
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ]
   },
@@ -112,6 +137,12 @@
       "docId": "plot.fanren-1039-hei-feng-qi",
       "dated": false,
       "seq": 1039
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+      "dated": false,
+      "seq": 1039
     }
   },
   "contested": false,
@@ -120,7 +151,8 @@
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
     "plot.fanren-1039-hei-feng-qi",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-18T06:10:51.729Z"
+  "updatedAt": "2026-06-18T06:41:47.820Z"
 }

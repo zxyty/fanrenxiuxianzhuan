@@ -7,7 +7,7 @@
   ],
   "summary": "宫殿方向射出的黑红怪刃，可撕裂霞光、化数丈黑红巨刀斩裂大头怪人黄色巨剑。",
   "attributes": {
-    "外形": "黑红色刀光/数丈黑红巨刀",
+    "外形": "黑红色刀光/数丈黑红巨刀、黑红色怪刃化巨刀",
     "持有者": "白袍儒生",
     "来历": "叶家传承之宝",
     "能力": "处置叛逆"
@@ -17,6 +17,11 @@
       {
         "value": "黑红色刀光/数丈黑红巨刀",
         "docId": "plot.fanren-1039-hei-feng-qi",
+        "seq": 1039
+      },
+      {
+        "value": "黑红色怪刃化巨刀",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
         "seq": 1039
       }
     ],
@@ -39,6 +44,11 @@
         "value": "处置叛逆",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045
+      },
+      {
+        "value": "撕裂霞光、斩裂法宝",
+        "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+        "seq": 1039
       }
     ]
   },
@@ -73,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1039-hei-feng-qi",
-    "plot.fanren-1045-1050-tunying-xueren-poqiang"
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
   ],
-  "updatedAt": "2026-06-15T07:43:01.502Z"
+  "updatedAt": "2026-06-18T06:41:47.814Z"
 }
