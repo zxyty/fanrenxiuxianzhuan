@@ -16,13 +16,13 @@
   "summary": "叶家辈分最高者，元婴后期，被珑梦重创断臂；身染元刹圣祖魔气，欲取八灵尺反复受阻。",
   "attributes": {
     "小阶段": "元婴后期",
-    "身份": "叶家辈分最高者、叶家修士、叶家叛逆、叶家外聘大修士、叶家长辈、叶家长老、受圣祖之托灭狼魂的修士、叶家七叔",
+    "身份": "叶家辈分最高者、叶家修士、叶家叛逆、叶家外聘大修士、叶家长辈、叶家长老、受圣祖之托灭狼魂的修士、叶家七叔、叶家叛逆（七叔）",
     "标志特征": "断一臂",
-    "外貌": "大头",
+    "外貌": "巨剑、银色飞叉",
     "称号": "七叔、三叔祖",
     "种族": "人类",
     "寿元": "大限将至、生气不多、大限将至",
-    "阵营": "投靠圣族古魔、叶家、魔道",
+    "阵营": "投靠圣族古魔、叶家、魔道、古魔/元刹一方",
     "性格": "果决、狂傲、冷漠、谋利、犹疑",
     "存殁": "存"
   },
@@ -75,6 +75,11 @@
         "value": "叶家七叔",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "叶家叛逆（七叔）",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "标志特征": [
@@ -116,6 +121,11 @@
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009,
         "note": "实际未死"
+      },
+      {
+        "value": "巨剑、银色飞叉",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "称号": [
@@ -166,6 +176,11 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015,
         "note": "宁坠魔道续命"
+      },
+      {
+        "value": "古魔/元刹一方",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "性格": [
@@ -217,9 +232,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-ch1045-tun-ying",
       "dated": false,
-      "seq": 1015
+      "seq": 1045
     },
     "称号": {
       "asOf": null,
@@ -271,7 +286,8 @@
     "plot.fanren-991-zi-wu",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T06:10:51.719Z"
+  "updatedAt": "2026-06-18T06:54:22.286Z"
 }

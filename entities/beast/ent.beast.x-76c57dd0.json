@@ -7,14 +7,16 @@
     "双首银狼",
     "双首银狼化身",
     "灵界妖狼",
-    "百丈银狼"
+    "百丈银狼",
+    "银狼妖体"
   ],
   "summary": "灵界七大妖王天奎神狼之宠妃，天生一体两魂，被元刹圣祖附身后封印于昆吾山镇魔塔。",
   "attributes": {
-    "种族": "灵界妖狼",
+    "种族": "银狼妖",
     "血脉": "一体两魂（双独立精魂）",
-    "外形": "逾百丈纯银双首巨狼、双首、通体银光如纯银、一首银白一首乌黑生紫色独角、超百丈",
-    "栖息地": "灵界"
+    "外形": "逾百丈纯银双首巨狼、双首、通体银光如纯银、一首银白一首乌黑生紫色独角、超百丈、巨山般双首银狼，一首黑一首银，前爪利爪如巨刃",
+    "栖息地": "灵界",
+    "等级": "化神末期"
   },
   "observations": {
     "种族": [
@@ -22,6 +24,11 @@
         "value": "灵界妖狼",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "银狼妖",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "血脉": [
@@ -56,6 +63,11 @@
         "value": "超百丈",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "巨山般双首银狼，一首黑一首银，前爪利爪如巨刃",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "栖息地": [
@@ -64,15 +76,22 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
+    ],
+    "等级": [
+      {
+        "value": "化神末期",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
+      }
     ]
   },
   "firstSeq": 1015,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-ch1045-tun-ying",
       "dated": false,
-      "seq": 1015
+      "seq": 1045
     },
     "血脉": {
       "asOf": null,
@@ -91,12 +110,19 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1045-tun-ying",
+      "dated": false,
+      "seq": 1045
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T05:35:52.281Z"
+  "updatedAt": "2026-06-18T06:54:22.298Z"
 }

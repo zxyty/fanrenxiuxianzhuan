@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "韩立与徐姓青年临时合布的攻击大阵，催生风火之蛟，可抵元婴后期一击。",
   "attributes": {
-    "效果": "生风火之蛟/增幅攻击",
+    "效果": "生风火之蛟/增幅攻击、风火之蛟撞击破障",
     "布置者": "韩立、徐姓青年"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "生风火之蛟/增幅攻击",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "风火之蛟撞击破障",
+        "docId": "plot.fanren-ch1045-tun-ying",
         "seq": 1045
       }
     ],
@@ -47,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1045-1050-tunying-xueren-poqiang"
+    "plot.fanren-1045-1050-tunying-xueren-poqiang",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-15T07:43:01.506Z"
+  "updatedAt": "2026-06-18T06:54:22.330Z"
 }

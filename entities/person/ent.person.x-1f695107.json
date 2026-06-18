@@ -26,11 +26,11 @@
     "小阶段": "元婴期",
     "身份": "天澜圣殿圣女、天澜圣女、天澜草原圣女、圣女",
     "外貌": "风姿过人白袍女子",
-    "称号": "天澜圣女/天澜大仙师",
+    "称号": "仙子",
     "出身地": "天澜草原",
     "标志特征": "身中韩立所种禁制",
-    "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立",
-    "存殁": "存（被擒昏迷）"
+    "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立、突兀人/天澜草原",
+    "存殁": "存（被擒昏迷）、存"
   },
   "observations": {
     "性别": [
@@ -118,6 +118,11 @@
         "value": "圣女",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1009
+      },
+      {
+        "value": "仙子",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "出身地": [
@@ -175,6 +180,11 @@
         "value": "敌对韩立",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "突兀人/天澜草原",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "存殁": [
@@ -182,6 +192,12 @@
         "value": "存（被擒昏迷）",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045
+      },
+      {
+        "value": "存",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045,
+        "note": "被生擒昏迷"
       }
     ]
   },
@@ -219,9 +235,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-ch1045-tun-ying",
       "dated": false,
-      "seq": 1033
+      "seq": 1045
     },
     "出身地": {
       "asOf": null,
@@ -277,7 +293,8 @@
     "plot.fanren-1012-qingtong-shi",
     "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T06:41:47.802Z"
+  "updatedAt": "2026-06-18T06:54:22.341Z"
 }

@@ -7,11 +7,12 @@
   ],
   "summary": "乾老魔的护身防御法宝，传为上古灵宝『映月环』的仿制之宝。",
   "attributes": {
-    "持有者": "乾老魔、叶家方脸长老",
+    "持有者": "乾老魔、叶家方脸长老、方脸修士",
     "来历": "映月环仿制（未证实）、传为上古灵宝『映月环』仿制之宝",
-    "能力": "防御护身、幻化无数环影困敌",
-    "外形": "巨大骨环",
-    "禁制": "发动需自身精血"
+    "能力": "防御护身、幻化无数环影困敌、黄芒光罩护体",
+    "外形": "骨环",
+    "禁制": "发动需自身精血",
+    "品阶": "仿制灵宝（威力远逊正体）"
   },
   "observations": {
     "持有者": [
@@ -24,6 +25,11 @@
         "value": "叶家方脸长老",
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
+      },
+      {
+        "value": "方脸修士",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "来历": [
@@ -48,6 +54,11 @@
         "value": "幻化无数环影困敌",
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
+      },
+      {
+        "value": "黄芒光罩护体",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "外形": [
@@ -60,6 +71,11 @@
         "value": "巨大骨环",
         "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
         "seq": 1009
+      },
+      {
+        "value": "骨环",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "禁制": [
@@ -67,6 +83,13 @@
         "value": "发动需自身精血",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      }
+    ],
+    "品阶": [
+      {
+        "value": "仿制灵宝（威力远逊正体）",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ]
   },
@@ -92,15 +115,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+      "docId": "plot.fanren-ch1045-tun-ying",
       "dated": false,
-      "seq": 1009
+      "seq": 1045
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
       "dated": false,
       "seq": 997
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1045-tun-ying",
+      "dated": false,
+      "seq": 1045
     }
   },
   "contested": false,
@@ -108,7 +137,8 @@
   "docs": [
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
-    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T04:51:29.273Z"
+  "updatedAt": "2026-06-18T06:54:22.297Z"
 }

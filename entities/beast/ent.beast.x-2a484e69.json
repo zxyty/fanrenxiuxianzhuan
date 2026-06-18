@@ -11,9 +11,10 @@
   "attributes": {
     "等级": "妖兽",
     "外形": "狮禽相兼、狮首禽身、狮首鹰身、四翅五六丈、紫光环绕、狮首鹰身四翅、浑身紫光，张翅五六丈、狮首鹰身四翅、狮禽",
-    "能力": "金色音波、紫雾、金波攻击、隐匿遁术、雷遁术、金色音波震飞法宝、紫色光环、嗅觉灵敏循迹、金色波纹（克法宝）、音波狂吼、利爪",
+    "能力": "金色音波、紫雾、金波攻击、隐匿遁术、雷遁术、金色音波震飞法宝、紫色光环、嗅觉灵敏循迹、金色波纹（克法宝）、音波狂吼、利爪、化紫雾困敌",
     "栖息地": "昆吾山困灵阵",
-    "种族": "妖兽"
+    "种族": "妖兽",
+    "天敌": "灵犀孔雀五色灵光"
   },
   "observations": {
     "等级": [
@@ -130,6 +131,11 @@
         "value": "利爪",
         "docId": "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
         "seq": 1039
+      },
+      {
+        "value": "化紫雾困敌",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "栖息地": [
@@ -149,6 +155,13 @@
         "value": "妖兽",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      }
+    ],
+    "天敌": [
+      {
+        "value": "灵犀孔雀五色灵光",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ]
   },
@@ -183,6 +196,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1045-tun-ying",
+      "dated": false,
+      "seq": 1045
     }
   },
   "contested": false,
@@ -206,7 +225,8 @@
     "plot.fanren-1014-huaxian-ernv",
     "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T06:41:47.808Z"
+  "updatedAt": "2026-06-18T06:54:22.349Z"
 }

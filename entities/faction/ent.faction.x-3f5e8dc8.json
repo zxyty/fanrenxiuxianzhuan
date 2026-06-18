@@ -9,7 +9,7 @@
   ],
   "summary": "大晋可与太一门、天魔宗并驾齐驱的妖族大势力，万年尸熊为其副谷主。",
   "attributes": {
-    "阵营": "妖修",
+    "阵营": "妖族、妖兽、妖修、大晋妖族",
     "据点": "大晋境内",
     "等级": "大势力",
     "镇派之宝": "仿制万妖幡",
@@ -32,6 +32,11 @@
         "value": "妖修",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "大晋妖族",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "据点": [
@@ -89,9 +94,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
-      "seq": 1087
+      "seq": 943
     },
     "据点": {
       "asOf": null,
@@ -141,7 +146,8 @@
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T06:10:51.684Z"
+  "updatedAt": "2026-06-18T06:54:22.355Z"
 }

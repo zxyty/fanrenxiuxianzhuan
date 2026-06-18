@@ -10,11 +10,12 @@
     "小阶段": "元婴中期",
     "阵营": "叶家",
     "存殁": "死亡",
-    "死因": "被元刹圣祖吞噬元婴",
+    "死因": "被元刹圣祖吞噬元婴、被元刹黑风旗黑色风刃绞杀分尸、元婴被吞噬",
     "性别": "男",
     "身份": "叶家长老",
     "外貌": "方脸",
-    "标志特征": "驱使两口飞剑"
+    "标志特征": "驱使两口飞剑",
+    "结局": "第1045章身死、元婴被吞"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +43,11 @@
       {
         "value": "被元刹圣祖吞噬元婴",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+        "seq": 1045
+      },
+      {
+        "value": "被元刹黑风旗黑色风刃绞杀分尸、元婴被吞噬",
+        "docId": "plot.fanren-ch1045-tun-ying",
         "seq": 1045
       }
     ],
@@ -76,6 +82,13 @@
         "value": "驱使两口飞剑",
         "docId": "plot.fanren-1014-huaxian-ernv",
         "seq": 1009
+      }
+    ],
+    "结局": [
+      {
+        "value": "第1045章身死、元婴被吞",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ]
   },
@@ -128,6 +141,12 @@
       "docId": "plot.fanren-1014-huaxian-ernv",
       "dated": false,
       "seq": 1009
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1045-tun-ying",
+      "dated": false,
+      "seq": 1045
     }
   },
   "contested": false,
@@ -138,7 +157,8 @@
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-973-yinyangku-minghe-page",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
-    "plot.fanren-1014-huaxian-ernv"
+    "plot.fanren-1014-huaxian-ernv",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T04:54:08.570Z"
+  "updatedAt": "2026-06-18T06:54:22.291Z"
 }

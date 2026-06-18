@@ -6,16 +6,19 @@
     "郑某",
     "白毛熊怪",
     "四散真人魔修",
-    "四散道友"
+    "四散道友",
+    "白毛怪物",
+    "白毛熊脸怪物"
   ],
   "summary": "自称散修，持仿制魔龙刃的血刃，一路吞噬元婴，临时联手后背叛，化为尸气白毛熊怪。",
   "attributes": {
     "身份": "散修、血刀偷袭者、疑似四散真人",
-    "外貌": "和蔼老者/白毛熊脸尸气怪物",
+    "外貌": "和蔼老者/白毛熊脸尸气怪物、五十余岁和蔼老者",
     "性格": "阴险善变",
     "阵营": "魔道",
-    "标志特征": "持血红长刀(疑似魔龙刃)、血红魔刀",
-    "小阶段": "元婴期"
+    "标志特征": "持血红长刀(疑似魔龙刃)、血红魔刀、白毛熊脸、浑身尸气、双目绿火、手背生数寸白毛",
+    "小阶段": "元婴期",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -44,6 +47,12 @@
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045,
         "note": "现出本体后"
+      },
+      {
+        "value": "五十余岁和蔼老者",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045,
+        "note": "伪装"
       }
     ],
     "性格": [
@@ -70,6 +79,26 @@
         "value": "血红魔刀",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "白毛熊脸",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
+      },
+      {
+        "value": "浑身尸气",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
+      },
+      {
+        "value": "双目绿火",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
+      },
+      {
+        "value": "手背生数寸白毛",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ],
     "小阶段": [
@@ -77,6 +106,13 @@
         "value": "元婴期",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-ch1045-tun-ying",
+        "seq": 1045
       }
     ]
   },
@@ -119,6 +155,12 @@
       "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
       "dated": false,
       "seq": 997
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1045-tun-ying",
+      "dated": false,
+      "seq": 1045
     }
   },
   "contested": false,
@@ -126,7 +168,8 @@
   "docs": [
     "plot.fanren-1045-1050-tunying-xueren-poqiang",
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-ch1045-tun-ying"
   ],
-  "updatedAt": "2026-06-18T05:52:33.603Z"
+  "updatedAt": "2026-06-18T06:54:22.303Z"
 }
