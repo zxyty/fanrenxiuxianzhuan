@@ -4,13 +4,14 @@
   "name": "青铜狮",
   "aliases": [
     "青铜巨狮",
-    "青铜傀儡兽"
+    "青铜傀儡兽",
+    "青铜狮傀儡兽"
   ],
   "summary": "身高丈许的青铜傀儡兽，浑身青光刀枪不入，可喷碗口粗青色光柱，斗兽场中尾随撕咬。",
   "attributes": {
     "等级": "傀儡兽",
-    "能力": "青色光柱远程攻击、刀枪不入",
-    "外形": "丈许青铜巨狮"
+    "能力": "青色光柱远程攻击、刀枪不入、喷碗口粗青色光柱、青光护体刀枪不入",
+    "外形": "丈许青铜巨狮、丈许高青铜巨狮"
   },
   "observations": {
     "等级": [
@@ -30,12 +31,27 @@
         "value": "刀枪不入",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "喷碗口粗青色光柱",
+        "docId": "plot.fanren-1012-qingtong-shi",
+        "seq": 1009
+      },
+      {
+        "value": "青光护体刀枪不入",
+        "docId": "plot.fanren-1012-qingtong-shi",
+        "seq": 1009
       }
     ],
     "外形": [
       {
         "value": "丈许青铜巨狮",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "丈许高青铜巨狮",
+        "docId": "plot.fanren-1012-qingtong-shi",
         "seq": 1009
       }
     ]
@@ -64,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1012-qingtong-shi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.255Z"
+  "updatedAt": "2026-06-18T04:49:39.468Z"
 }

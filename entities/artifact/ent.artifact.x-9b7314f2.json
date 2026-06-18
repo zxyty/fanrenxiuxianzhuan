@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "白骨巨环",
   "aliases": [
-    "白骨骨环"
+    "白骨骨环",
+    "骨环"
   ],
   "summary": "中年修士的护身法宝，黄光濛濛，可化解灰气攻击。",
   "attributes": {
     "持有者": "中年修士",
-    "能力": "护身、化解攻击",
+    "能力": "护身、化解攻击、护身、抵御灰气与电弧",
     "外形": "白骨巨环"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "护身、化解攻击",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "护身、抵御灰气与电弧",
+        "docId": "plot.fanren-1012-qingtong-shi",
         "seq": 1009
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1012-qingtong-shi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.250Z"
+  "updatedAt": "2026-06-18T04:49:39.467Z"
 }
