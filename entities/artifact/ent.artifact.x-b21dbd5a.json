@@ -10,9 +10,9 @@
   "summary": "得自乾老魔储物袋，昆吾三老成名之宝，威力巨大，稍加祭炼可驱使。",
   "attributes": {
     "持有者": "韩立",
-    "来历": "昆吾三老的法宝",
+    "来历": "乾老魔储物袋／昆吾三老、昆吾三老的法宝、昆吾三老成名法宝、昆吾三老之一成名法宝",
     "外形": "土黄色、尺许长杖、黄光巨杖、尺许长黄芒法杖",
-    "能力": "体形狂涨、幻化虚影砸击、巨化砸击、化巨杖重压、梵音七色佛光、化数丈巨杖砸击、巨力镇压、体形狂涨幻化数丈虚影砸击、巨化撞击/七色佛光加持",
+    "能力": "体形狂涨、幻化虚影砸击、巨化砸击、化巨杖重压、梵音七色佛光、化数丈巨杖砸击、巨力镇压、体形狂涨幻化数丈虚影砸击、巨化撞击/七色佛光加持、化数丈巨杖镇压",
     "禁制": "七色佛光"
   },
   "observations": {
@@ -37,6 +37,11 @@
       {
         "value": "昆吾三老成名法宝",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "昆吾三老之一成名法宝",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
     ],
@@ -102,6 +107,11 @@
         "value": "巨化撞击/七色佛光加持",
         "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
+      },
+      {
+        "value": "化数丈巨杖镇压",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "禁制": [
@@ -122,9 +132,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
-      "seq": 1153
+      "seq": 1069
     },
     "外形": {
       "asOf": null,
@@ -155,7 +165,8 @@
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-1075-1080-beiming-island-xiaojigong",
-    "plot.fanren-1101-dongxia-jizhan-shang"
+    "plot.fanren-1101-dongxia-jizhan-shang",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:27:57.385Z"
+  "updatedAt": "2026-06-18T10:36:30.166Z"
 }

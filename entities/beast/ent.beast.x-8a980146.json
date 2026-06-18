@@ -6,13 +6,16 @@
     "三目白发妖兽",
     "九级三目妖兽",
     "九级妖兽",
-    "三目九级妖兽"
+    "三目九级妖兽",
+    "吴兄"
   ],
   "summary": "出身万妖谷的化形期九级妖兽，蛮荒异兽后裔，生第三只妖目（破法天目，可破瞬移遁术），天生巨力，妖体化青黑钢钳。",
   "attributes": {
     "等级": "九级",
     "栖息地": "万妖谷",
-    "能力": "第三只妖目放黑芒"
+    "能力": "第三只妖目放黑芒、破法天目（破各种瞬移遁术）、天生巨力、双臂化刚钳、喷淡黄怪虫化黄雾",
+    "血脉": "蛮荒异兽后裔",
+    "外形": "白发红肤、三只妖目"
   },
   "observations": {
     "等级": [
@@ -34,6 +37,40 @@
         "value": "第三只妖目放黑芒",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "破法天目（破各种瞬移遁术）",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "天生巨力",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "双臂化刚钳",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "喷淡黄怪虫化黄雾",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "血脉": [
+      {
+        "value": "蛮荒异兽后裔",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "外形": [
+      {
+        "value": "白发红肤、三只妖目",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ]
   },
@@ -53,16 +90,29 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
       "dated": false,
-      "seq": 1111
+      "seq": 1105
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
-    "plot.fanren-1113-yaoqi-chongtian"
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-16T06:28:51.105Z"
+  "updatedAt": "2026-06-18T10:36:30.150Z"
 }

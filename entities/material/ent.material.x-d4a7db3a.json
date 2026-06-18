@@ -16,8 +16,8 @@
   "summary": "韩立欲探听线索的至阳之火。",
   "attributes": {
     "类型": "至阳灵火、精火、至阳真灵之火、极火/异火、火灵/仙灵之焰、异火、真灵之火、天地奇火",
-    "用途": "配制回阳水",
-    "产地": "万丈熔岩之下、火狱、万丈熔岩深处",
+    "用途": "淬炼寒髓炼制回阳真水、极火灵物、炼制回阳水、配制回阳水、韩立追寻目标、韩立寻找目标",
+    "产地": "万丈熔岩之下、火狱、万丈熔岩深处、凶险之地（虚灵殿相关）",
     "稀有度": "极稀有、极稀、极难得、人界三大真灵之火之一"
   },
   "observations": {
@@ -88,6 +88,11 @@
         "value": "韩立追寻目标",
         "docId": "plot.fanren-1086-1087-hanyan-xulingdian",
         "seq": 1081
+      },
+      {
+        "value": "韩立寻找目标",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "产地": [
@@ -105,6 +110,11 @@
         "value": "万丈熔岩深处",
         "docId": "plot.fanren-943-948-zhayan-hansui-huiyangshui",
         "seq": 943
+      },
+      {
+        "value": "凶险之地（虚灵殿相关）",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "稀有度": [
@@ -140,9 +150,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1237
+      "seq": 943
     },
     "产地": {
       "asOf": null,
@@ -171,7 +181,8 @@
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1069-1074-soul-devour-escape-frost",
-    "plot.fanren-1086-1087-hanyan-xulingdian"
+    "plot.fanren-1086-1087-hanyan-xulingdian",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T09:43:45.801Z"
+  "updatedAt": "2026-06-18T10:36:30.184Z"
 }

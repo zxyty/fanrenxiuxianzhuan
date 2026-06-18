@@ -10,7 +10,7 @@
   "attributes": {
     "品阶": "上古",
     "布置者": "上古修士",
-    "效果": "玄寒之气永久冰封、释放极寒之气、玄寒之气永久冰封入侵者",
+    "效果": "玄寒之气永久冰封、释放极寒之气、玄寒之气永久冰封入侵者、寒气封锁",
     "破解法": "持相关阵盘法器引路、持白色阵盘开道",
     "出处": "上古奇阵"
   },
@@ -44,6 +44,11 @@
         "value": "玄寒之气永久冰封入侵者",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "寒气封锁",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "破解法": [
@@ -104,7 +109,8 @@
   "docs": [
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
-    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation"
+    "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:00:34.513Z"
+  "updatedAt": "2026-06-18T10:36:30.145Z"
 }

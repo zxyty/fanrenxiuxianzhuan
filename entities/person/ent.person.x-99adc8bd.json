@@ -13,19 +13,21 @@
     "摩鸠兄",
     "魔鸠",
     "魔鸠道友",
-    "灰袍老僧"
+    "灰袍老僧",
+    "灰袍僧"
   ],
   "summary": "慈眉善目灰袍高僧，元婴中期巅峰，与韩立同样修炼非冰寒属性功法却拥极寒之焰。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期",
-    "身份": "僧人、僧人/外援、僧修、散修、僧人/寒焰修士、外援修士、僧人修士",
+    "身份": "僧人、僧人/外援、僧修、散修、僧人/寒焰修士、外援修士、僧人修士、佛门修士",
     "标志特征": "身具极寒之焰",
     "外貌": "灰袍僧人",
     "阵营": "佛门",
     "存殁": "死亡",
-    "死因": "被大庚剑阵分尸",
-    "性格": "冷静、明哲保身"
+    "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸",
+    "性格": "冷静、明哲保身",
+    "种族": "人"
   },
   "observations": {
     "性别": [
@@ -87,6 +89,11 @@
         "value": "僧人修士",
         "docId": "plot.fanren-1101-dongxia-jizhan-shang",
         "seq": 1099
+      },
+      {
+        "value": "佛门修士",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "标志特征": [
@@ -132,6 +139,11 @@
         "value": "被大庚剑阵分尸",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "大庚剑阵乱刃分尸",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "性格": [
@@ -139,6 +151,13 @@
         "value": "冷静、明哲保身",
         "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
         "seq": 1093
+      }
+    ],
+    "种族": [
+      {
+        "value": "人",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ]
   },
@@ -197,6 +216,12 @@
       "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
       "dated": false,
       "seq": 1093
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
@@ -210,7 +235,8 @@
     "plot.fanren-1086-1087-hanyan-xulingdian",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-1099-1100-fanmu-zhanqi",
-    "plot.fanren-1101-dongxia-jizhan-shang"
+    "plot.fanren-1101-dongxia-jizhan-shang",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:27:57.359Z"
+  "updatedAt": "2026-06-18T10:36:30.056Z"
 }

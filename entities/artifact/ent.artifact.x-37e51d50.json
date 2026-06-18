@@ -8,7 +8,8 @@
   "summary": "老妪苦修数百年的本命法宝，黄色细针，击中人形傀儡后反被傀儡搓灭，致老妪损伤元气。",
   "attributes": {
     "持有者": "老妪",
-    "外形": "黄色细针"
+    "外形": "黄色细针、黄色发光细针",
+    "来历": "老妪苦修数百年本命法宝"
   },
   "observations": {
     "持有者": [
@@ -22,6 +23,18 @@
       {
         "value": "黄色细针",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "黄色发光细针",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "来历": [
+      {
+        "value": "老妪苦修数百年本命法宝",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
     ]
@@ -39,12 +52,19 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-16T06:12:07.039Z"
+  "updatedAt": "2026-06-18T10:36:30.085Z"
 }

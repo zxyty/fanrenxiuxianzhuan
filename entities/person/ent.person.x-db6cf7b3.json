@@ -10,7 +10,8 @@
   "attributes": {
     "性别": "女",
     "小阶段": "筑基期",
-    "身份": "小极宫侍女"
+    "身份": "小极宫侍女、小极宫弟子（贵宾楼侍女）",
+    "阵营": "小极宫"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,18 @@
       {
         "value": "小极宫侍女",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "小极宫弟子（贵宾楼侍女）",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "阵营": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
     ]
@@ -54,12 +67,19 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-16T06:12:07.055Z"
+  "updatedAt": "2026-06-18T10:36:30.132Z"
 }

@@ -7,14 +7,16 @@
     "玄玉洞裂缝",
     "玄玉地下洞窟",
     "玄玉洞中",
-    "玄玉矿"
+    "玄玉矿",
+    "地下洞窟"
   ],
   "summary": "位于其中一座虚灵殿内的洞府，极寒之气可助冲击化神瓶颈。",
   "attributes": {
     "所属势力": "小极宫",
     "特产": "极寒之气、万年玄玉、太阳精石、玄玉寒气、万年玄玉寒气、极寒之地",
-    "类型": "地下洞窟、洞窟/秘地、极寒之地、秘地洞窟、地下洞窟矿脉、矿洞、洞府、玄玉矿脉洞窟、洞窟、极寒之地/洞府",
-    "危险度": "极高（玄玉寒气）"
+    "类型": "地下洞窟、洞窟/秘地、极寒之地、秘地洞窟、地下洞窟矿脉、矿洞、洞府、玄玉矿脉洞窟、洞窟、极寒之地/洞府、矿洞/秘地",
+    "危险度": "极高（玄玉寒气）",
+    "守护": "入口神秘符文封禁"
   },
   "observations": {
     "所属势力": [
@@ -106,6 +108,11 @@
         "value": "极寒之地/洞府",
         "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
         "seq": 1093
+      },
+      {
+        "value": "矿洞/秘地",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "危险度": [
@@ -113,6 +120,13 @@
         "value": "极高（玄玉寒气）",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      }
+    ],
+    "守护": [
+      {
+        "value": "入口神秘符文封禁",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ]
   },
@@ -141,6 +155,12 @@
       "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
       "dated": false,
       "seq": 1087
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
@@ -157,7 +177,8 @@
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-ch1096-1097-hanli-bingcheng-yaohun-chongjie",
     "plot.fanren-1099-1100-fanmu-zhanqi",
-    "plot.fanren-1101-dongxia-jizhan-shang"
+    "plot.fanren-1101-dongxia-jizhan-shang",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:27:57.411Z"
+  "updatedAt": "2026-06-18T10:36:30.143Z"
 }

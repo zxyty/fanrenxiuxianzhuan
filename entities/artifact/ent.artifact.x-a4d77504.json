@@ -4,14 +4,16 @@
   "name": "火红圆球",
   "aliases": [
     "红色圆球",
-    "火鸟圆球"
+    "火鸟圆球",
+    "赤红圆球"
   ],
   "summary": "老妪与僧人的杀手锏重宝，半透明内含迷你火鸟与无法辨识的全新上古符文，蕴含火属性灵力，被韩立夺得封存。",
   "attributes": {
     "持有者": "韩立",
     "五行属性": "火",
-    "外形": "拳头大火红圆球，内有迷你火鸟与上古符文",
-    "禁制": "金银双色符箓"
+    "外形": "拳头大火红圆球，内有迷你火鸟与上古符文、拳头大半透明红球，内含迷你火鸟",
+    "禁制": "金银双色符箓、金银双色禁制符箓",
+    "能力": "蕴含火属性灵力、威能寄于未知上古符文"
   },
   "observations": {
     "持有者": [
@@ -34,12 +36,34 @@
         "value": "拳头大火红圆球，内有迷你火鸟与上古符文",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "拳头大半透明红球，内含迷你火鸟",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "禁制": [
       {
         "value": "金银双色符箓",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "金银双色禁制符箓",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "能力": [
+      {
+        "value": "蕴含火属性灵力",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      },
+      {
+        "value": "威能寄于未知上古符文",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
     ]
@@ -70,12 +94,19 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-16T06:12:07.038Z"
+  "updatedAt": "2026-06-18T10:36:30.072Z"
 }

@@ -8,11 +8,12 @@
   "summary": "随行修士，持黄色拐杖喷黄焰护身，对虚灵殿险阵将信将疑。",
   "attributes": {
     "标志特征": "黄焰拐杖",
-    "外貌": "老妪",
+    "外貌": "满脸皱纹老妪",
     "性别": "女",
     "小阶段": "元婴中期",
     "存殁": "死亡",
-    "死因": "被大庚剑阵分尸"
+    "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸",
+    "结局": "肉身元婴俱被剑阵灭杀"
   },
   "observations": {
     "标志特征": [
@@ -27,6 +28,11 @@
         "value": "老妪",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "满脸皱纹老妪",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ],
     "性别": [
@@ -60,6 +66,18 @@
         "value": "被大庚剑阵分尸",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "大庚剑阵乱刃分尸",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "结局": [
+      {
+        "value": "肉身元婴俱被剑阵灭杀",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
       }
     ]
   },
@@ -73,9 +91,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
       "dated": false,
-      "seq": 1087
+      "seq": 1105
     },
     "性别": {
       "asOf": null,
@@ -100,6 +118,12 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
@@ -108,7 +132,8 @@
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
-    "plot.fanren-1101-dongxia-jizhan-shang"
+    "plot.fanren-1101-dongxia-jizhan-shang",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-18T10:27:57.226Z"
+  "updatedAt": "2026-06-18T10:36:30.051Z"
 }

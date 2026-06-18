@@ -8,7 +8,9 @@
   "summary": "小极宫巡查执事，奉命赴玄玉洞向寒骊大长老求援。",
   "attributes": {
     "性别": "女",
-    "身份": "小极宫巡查执事"
+    "身份": "小极宫巡查执事",
+    "阵营": "小极宫",
+    "外貌": "三十余岁妇人"
   },
   "observations": {
     "性别": [
@@ -22,6 +24,20 @@
       {
         "value": "小极宫巡查执事",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "阵营": [
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+        "seq": 1105
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十余岁妇人",
+        "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
     ]
@@ -39,12 +55,25 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+      "dated": false,
+      "seq": 1105
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
   ],
-  "updatedAt": "2026-06-16T06:12:07.055Z"
+  "updatedAt": "2026-06-18T10:36:30.130Z"
 }
