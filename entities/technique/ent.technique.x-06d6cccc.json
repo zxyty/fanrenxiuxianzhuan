@@ -3,14 +3,15 @@
   "type": "technique",
   "name": "托天魔功",
   "aliases": [
-    "托天魔功口诀"
+    "托天魔功口诀",
+    "锁魂秘术"
   ],
   "summary": "蛮胡子所修魔功，发动时周身金芒、手足脸面生满坚固如赤金的金色鳞片。",
   "attributes": {
     "出处": "古魔界魔功（中间变化部分）",
-    "效果": "周身金色鳞片防御、近战极犀利、防御兼攻、防御变态、金色巨力大手、克制傀儡、神念紧守精魂、克制搜魂术、含锁魂秘术、超强防御",
+    "效果": "周身金色鳞片防御、近战极犀利、防御兼攻、防御变态、金色巨力大手、克制傀儡、神念紧守精魂、克制搜魂术、含锁魂秘术、超强防御、神念紧守精魂、不惧搜魂术",
     "外显异象": "身披金甲鳞片、身周银色光带",
-    "适用境界": "元婴期",
+    "适用境界": "魔功",
     "品阶": "魔道顶阶魔功"
   },
   "observations": {
@@ -81,6 +82,11 @@
         "value": "超强防御",
         "docId": "plot.fanren-ch482-guba-zhi-zheng",
         "seq": 482
+      },
+      {
+        "value": "神念紧守精魂、不惧搜魂术",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "外显异象": [
@@ -105,6 +111,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
         "seq": 469
+      },
+      {
+        "value": "魔功",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "品阶": [
@@ -137,9 +148,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-c469-474-yaoyi-guzhi-jimiao-huanjing",
+      "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
-      "seq": 469
+      "seq": 1141
     },
     "品阶": {
       "asOf": null,
@@ -160,7 +171,8 @@
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-ch481-huaxing-zhibao",
-    "plot.fanren-ch482-guba-zhi-zheng"
+    "plot.fanren-ch482-guba-zhi-zheng",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-17T05:18:08.057Z"
+  "updatedAt": "2026-06-18T11:55:02.684Z"
 }

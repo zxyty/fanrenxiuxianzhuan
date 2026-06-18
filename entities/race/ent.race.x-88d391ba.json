@@ -7,12 +7,14 @@
     "化形妖兽",
     "狻猊王族",
     "狻猊一族",
-    "狻猊族"
+    "狻猊族",
+    "海族化形族人"
   ],
   "summary": "外海妖族，精锐尽出突袭逆星盟与星宫，欲夺极品灵石与全岛灵矿。",
   "attributes": {
-    "聚居地": "外海",
-    "代表人物": "金蛟王"
+    "聚居地": "外海/乱星海、乱星海、外海",
+    "代表人物": "金蛟王",
+    "阵营": "妖族"
   },
   "observations": {
     "聚居地": [
@@ -29,7 +31,7 @@
       {
         "value": "外海",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
-        "seq": 1153
+        "seq": 1141
       }
     ],
     "代表人物": [
@@ -38,19 +40,32 @@
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
       }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      }
     ]
   },
   "firstSeq": 1141,
   "attrProvenance": {
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
       "dated": false,
-      "seq": 1153
+      "seq": 1141
     },
     "代表人物": {
       "asOf": null,
       "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "dated": false,
+      "seq": 1141
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
       "seq": 1141
     }
@@ -60,7 +75,8 @@
   "docs": [
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-15T11:28:21.052Z"
+  "updatedAt": "2026-06-18T11:55:02.682Z"
 }

@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-6e0d7695",
+  "type": "place",
+  "name": "铁石峰",
+  "aliases": [
+    "石峰"
+  ],
+  "summary": "逆星盟据守的石峰，矿脉中开采出极品灵石，引来海族大举偷袭。",
+  "attributes": {
+    "所属势力": "逆星盟",
+    "特产": "极品灵石、灵矿"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      }
+    ],
+    "特产": [
+      {
+        "value": "极品灵石、灵矿",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      }
+    ]
+  },
+  "firstSeq": 1141,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1143-yinsha-xueshi",
+      "dated": false,
+      "seq": 1141
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1143-yinsha-xueshi",
+      "dated": false,
+      "seq": 1141
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1143-yinsha-xueshi"
+  ],
+  "updatedAt": "2026-06-18T11:55:02.686Z"
+}

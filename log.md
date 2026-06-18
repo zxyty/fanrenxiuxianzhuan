@@ -522,3 +522,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T11:23:46.891Z** `ingest` plot.fanren-1123-1128-houqi-chucheng-huangshamen — 凡人修仙传 第1123-1128章：韩立进阶元婴后期·虚天殿现世·黄沙门 · kind=plot asOf=2026-06-18 entities=37 relations=45 src=01123-01128.md
 - **2026-06-18T11:35:25.701Z** `ingest` plot.fanren-1129-1134-tianxing-shuangsheng-jidan — 凡人修仙传 第1129-1134章｜天星双圣的忌惮与援手文思月母女 · kind=plot asOf=2026-06-18 entities=36 relations=49 src=01129-01134.md
 - **2026-06-18T11:38:19.112Z** `ingest` plot.fanren-1137-1142-leikong-island-qingyu-miaohe — 凡人修仙传 第1137-1142章｜青羽·雷空岛·截杀妙鹤 · kind=plot asOf=2026-06-18 entities=0 relations=0 src=01135-01140.md
+- **2026-06-18T11:55:02.828Z** `ingest` plot.fanren-1143-yinsha-xueshi — 第1143章 阴煞血尸——韩立潜入逆星盟巨岛 · kind=plot asOf=2026-06-18 entities=36 relations=44 src=01141-01146.md

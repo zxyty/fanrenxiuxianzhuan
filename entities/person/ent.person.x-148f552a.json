@@ -14,13 +14,14 @@
   ],
   "summary": "八级化形初阶海族妖修，玄龟之身，性多疑谨慎。",
   "attributes": {
-    "种族": "玄龟、龟妖、龟、海族龟妖、妖族",
+    "种族": "玄龟、龟妖、龟、海族龟妖、妖族、海族",
     "小阶段": "化形期",
-    "外貌": "龟壳青面、身材高大",
+    "外貌": "黑袍青面、身材高大",
     "身份": "八级妖兽",
     "存殁": "存活",
     "性格": "多心谨慎",
-    "标志特征": "周身土黄淡光"
+    "标志特征": "周身土黄淡光",
+    "阵营": "海族"
   },
   "observations": {
     "种族": [
@@ -48,6 +49,11 @@
         "value": "妖族",
         "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
         "seq": 547
+      },
+      {
+        "value": "海族",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "小阶段": [
@@ -67,6 +73,11 @@
         "value": "龟壳青面、身材高大",
         "docId": "plot.fan-ren-541-bi-yan-jiu",
         "seq": 541
+      },
+      {
+        "value": "黑袍青面、身材高大",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "身份": [
@@ -106,6 +117,13 @@
         "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
         "seq": 547
       }
+    ],
+    "阵营": [
+      {
+        "value": "海族",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      }
     ]
   },
   "firstSeq": 541,
@@ -124,9 +142,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fan-ren-541-bi-yan-jiu",
+      "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
-      "seq": 541
+      "seq": 1141
     },
     "身份": {
       "asOf": null,
@@ -151,6 +169,12 @@
       "docId": "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
       "dated": false,
       "seq": 547
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1143-yinsha-xueshi",
+      "dated": false,
+      "seq": 1141
     }
   },
   "contested": false,
@@ -161,7 +185,8 @@
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-541-546-bifenjiu-fenglei-chi",
-    "plot.fanren-547-552-poison-liquid-kills-jiao-demon"
+    "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-17T07:02:05.925Z"
+  "updatedAt": "2026-06-18T11:55:02.681Z"
 }

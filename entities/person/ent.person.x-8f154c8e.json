@@ -19,16 +19,16 @@
     "小阶段": "元婴中期",
     "寿元": "将尽",
     "阵营": "魔道",
-    "外貌": "通体金灿灿的元婴",
-    "标志特征": "每步令全厅震动，似重逾万斤、托天魔功金色鳞片、满脸胡须、蛮胡子、运功现金色鳞片、托天魔功金色大手、胡子、胸前金甲鳞片、身周银色光带、尖刺铁手套飞金手、须发皆张、金色巨手、金色大手、满身金麟、肌肤淡金元婴、大胡子",
+    "外貌": "黄须卷曲、蓝袍、高大异常、黄须、通体金灿灿的元婴、身材高大、须发卷曲、衣衫破烂、肌肤淡金/浑身金灿灿、仅余元婴",
+    "标志特征": "每步令全厅震动，似重逾万斤、托天魔功金色鳞片、满脸胡须、蛮胡子、运功现金色鳞片、托天魔功金色大手、胡子、胸前金甲鳞片、身周银色光带、尖刺铁手套飞金手、须发皆张、金色巨手、金色大手、满身金麟、肌肤淡金元婴、大胡子、满族被极阴灭杀、元婴灯枯油尽、精魂将无法轮回",
     "身份": "三人之师傅",
     "性别": "男",
     "称号": "虚天殿魔道第一人",
-    "性格": "狰狞、自持身份、好斗、霸道冷酷、大咧咧、不耐、凶狠强横、狂傲、张狂好斗",
+    "性格": "狰狞、自持身份、好斗、霸道冷酷、大咧咧、不耐、凶狠强横、狂傲、张狂好斗、无惧生死、坦然",
     "出身地": "乱星海",
     "存殁": "死亡",
-    "结局": "吞噬极阴元婴后于石室坐化",
-    "死因": "坐化（魂力耗尽求轮回）、二十年前被六道极圣打成重伤不治而亡、坐化（第1141章）"
+    "结局": "吞噬极阴元婴后于石室坐化、坐化溃散为点点金光",
+    "死因": "坐化（魂力耗尽求轮回）、二十年前被六道极圣打成重伤不治而亡、坐化（第1141章）、吞噬极阴祖师精气后自行坐化"
   },
   "observations": {
     "小阶段": [
@@ -82,6 +82,16 @@
         "value": "身材高大、须发卷曲、衣衫破烂",
         "docId": "plot.fanren-ch485-dan-yao-zhi-zheng",
         "seq": 487
+      },
+      {
+        "value": "肌肤淡金/浑身金灿灿",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      },
+      {
+        "value": "仅余元婴",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "标志特征": [
@@ -159,6 +169,16 @@
         "value": "大胡子",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "满族被极阴灭杀",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      },
+      {
+        "value": "元婴灯枯油尽、精魂将无法轮回",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "身份": [
@@ -243,6 +263,11 @@
         "value": "张狂好斗",
         "docId": "plot.fanren-ch480-da-zhan-qi",
         "seq": 480
+      },
+      {
+        "value": "无惧生死、坦然",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "出身地": [
@@ -264,6 +289,11 @@
         "value": "吞噬极阴元婴后于石室坐化",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "坐化溃散为点点金光",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "死因": [
@@ -282,6 +312,11 @@
         "value": "坐化（第1141章）",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "吞噬极阴祖师精气后自行坐化",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ]
   },
@@ -307,9 +342,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
       "dated": false,
-      "seq": 1141
+      "seq": 433
     },
     "标志特征": {
       "asOf": null,
@@ -388,7 +423,8 @@
     "plot.fanren-ch485-yuanying-xian",
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
-    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
+    "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-18T11:11:13.595Z"
+  "updatedAt": "2026-06-18T11:55:02.674Z"
 }

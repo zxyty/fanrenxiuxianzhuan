@@ -11,7 +11,7 @@
   "attributes": {
     "小阶段": "元婴中期",
     "阵营": "逆星盟",
-    "外貌": "清瘦老者",
+    "外貌": "身穿蓝袍、相貌清瘦、清瘦老者、蓝袍清瘦",
     "存殁": "死亡",
     "死因": "被金蛟王金枪洞穿前胸、元婴遭封印"
   },
@@ -40,6 +40,11 @@
         "value": "清瘦老者",
         "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
         "seq": 1147
+      },
+      {
+        "value": "蓝袍清瘦",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "存殁": [
@@ -73,9 +78,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1149-jinjiao-xiongyan",
+      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
       "dated": false,
-      "seq": 1147
+      "seq": 1141
     },
     "存殁": {
       "asOf": null,
@@ -94,7 +99,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1141-1146-capture-jiyin-zushi",
-    "plot.fanren-ch1149-jinjiao-xiongyan"
+    "plot.fanren-ch1149-jinjiao-xiongyan",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-15T11:10:07.869Z"
+  "updatedAt": "2026-06-18T11:55:02.676Z"
 }

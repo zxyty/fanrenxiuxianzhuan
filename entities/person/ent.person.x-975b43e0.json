@@ -5,14 +5,16 @@
   "aliases": [
     "费前辈",
     "费某",
-    "费老儿"
+    "费老儿",
+    "白发散发修士"
   ],
   "summary": "元婴中期魔修，劈头散发面容年轻，携两具阴煞血尸应逆星盟之约。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴中期",
-    "外貌": "劈头散发、面容年轻",
-    "标志特征": "携两具阴煞血尸"
+    "外貌": "劈头散发、面容年轻、劈头散发、白发、面容年轻",
+    "标志特征": "携两具阴煞血尸、祭炼并携带阴煞血尸（魔尸）",
+    "性格": "残忍冷酷"
   },
   "observations": {
     "性别": [
@@ -34,12 +36,29 @@
         "value": "劈头散发、面容年轻",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "劈头散发、白发、面容年轻",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "标志特征": [
       {
         "value": "携两具阴煞血尸",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+        "seq": 1141
+      },
+      {
+        "value": "祭炼并携带阴煞血尸（魔尸）",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
+      }
+    ],
+    "性格": [
+      {
+        "value": "残忍冷酷",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
       }
     ]
@@ -69,12 +88,19 @@
       "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
       "dated": false,
       "seq": 1141
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1143-yinsha-xueshi",
+      "dated": false,
+      "seq": 1141
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1141-1146-capture-jiyin-zushi"
+    "plot.fanren-1141-1146-capture-jiyin-zushi",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-15T10:58:17.794Z"
+  "updatedAt": "2026-06-18T11:55:02.609Z"
 }

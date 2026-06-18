@@ -8,8 +8,8 @@
   ],
   "summary": "强行搜取他人神识记忆的秘术，对修炼托天魔功者无效。",
   "attributes": {
-    "类型": "魂识神通",
-    "适用境界": "配合下筑基期可用，强行需元婴期以上"
+    "类型": "搜魂秘术、魂识神通、神魂类/搜取记忆、神识秘术、搜魂",
+    "适用境界": "元婴"
   },
   "observations": {
     "类型": [
@@ -32,6 +32,11 @@
         "value": "神识秘术",
         "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
+      },
+      {
+        "value": "搜魂",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ],
     "适用境界": [
@@ -39,6 +44,11 @@
         "value": "配合下筑基期可用，强行需元婴期以上",
         "docId": "plot.fanren-ch883-leng-mo",
         "seq": 883
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1143-yinsha-xueshi",
+        "seq": 1141
       }
     ]
   },
@@ -46,15 +56,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1407-jinsui-lianti",
+      "docId": "plot.fanren-787-tun-mo-dan-gui",
       "dated": false,
-      "seq": 1405
+      "seq": 787
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-ch883-leng-mo",
+      "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
-      "seq": 883
+      "seq": 1141
     }
   },
   "contested": false,
@@ -64,7 +74,8 @@
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-787-tun-mo-dan-gui",
-    "plot.fanren-ch883-leng-mo"
+    "plot.fanren-ch883-leng-mo",
+    "plot.fanren-1143-yinsha-xueshi"
   ],
-  "updatedAt": "2026-06-17T15:46:39.477Z"
+  "updatedAt": "2026-06-18T11:55:02.664Z"
 }
