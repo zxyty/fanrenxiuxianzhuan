@@ -12,9 +12,10 @@
   "summary": "阴阳窟中变异鬼物，三丈高绿毛巨狼，喷绿色尸火，远超典籍记载。",
   "attributes": {
     "种族": "鬼物（变异）、炼尸、炼尸/尸兽",
-    "外形": "狼首人身、体形骤缩数倍",
-    "能力": "喷绿色尸火、放绿芒、护体绿焰",
-    "主人": "银翅夜叉"
+    "外形": "三丈高、绿毛、赤红狼目、乌黑利爪、狼首人身、体形骤缩数倍、三丈高绿毛巨狼、赤红血眼、乌黑利爪、护体绿焰巨狼",
+    "能力": "喷绿色尸火、放绿芒、护体绿焰、喷碧绿尸火、背毛激射绿芒",
+    "主人": "银翅夜叉",
+    "等级": "变异鬼物"
   },
   "observations": {
     "种族": [
@@ -45,6 +46,16 @@
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985,
         "note": "秘术化形"
+      },
+      {
+        "value": "三丈高绿毛巨狼、赤红血眼、乌黑利爪",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "护体绿焰巨狼",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "能力": [
@@ -57,6 +68,16 @@
         "value": "护体绿焰",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "喷碧绿尸火",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "背毛激射绿芒",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "主人": [
@@ -64,6 +85,13 @@
         "value": "银翅夜叉",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
+      }
+    ],
+    "等级": [
+      {
+        "value": "变异鬼物",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ]
   },
@@ -77,10 +105,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-984-xie-yue-huan-jing",
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 985,
-      "note": "秘术化形"
+      "seq": 979
     },
     "能力": {
       "asOf": null,
@@ -93,13 +120,20 @@
       "docId": "plot.fanren-984-xie-yue-huan-jing",
       "dated": false,
       "seq": 985
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-    "plot.fanren-984-xie-yue-huan-jing"
+    "plot.fanren-984-xie-yue-huan-jing",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:30:36.321Z"
+  "updatedAt": "2026-06-18T03:10:23.727Z"
 }

@@ -6,8 +6,8 @@
   "summary": "何家镇族法宝，数寸方砖可涨至十余丈，旋出飓风与无数小方砖。",
   "attributes": {
     "持有者": "何家家主",
-    "外形": "黄濛濛方砖，符文流转",
-    "能力": "涨大、生飓风、激射方砖"
+    "外形": "黄濛濛方砖，符文流转、数寸黄濛濛方砖",
+    "能力": "涨大、生飓风、激射方砖、涨大至十余丈、旋转生飓风、喷射无数尺许方砖"
   },
   "observations": {
     "持有者": [
@@ -22,12 +22,32 @@
         "value": "黄濛濛方砖，符文流转",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "数寸黄濛濛方砖",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "能力": [
       {
         "value": "涨大、生飓风、激射方砖",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "涨大至十余丈",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "旋转生飓风",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "喷射无数尺许方砖",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -56,7 +76,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.625Z"
+  "updatedAt": "2026-06-18T03:10:23.686Z"
 }

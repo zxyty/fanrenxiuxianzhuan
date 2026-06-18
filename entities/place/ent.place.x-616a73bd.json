@@ -9,8 +9,8 @@
   ],
   "summary": "大晋公认七大绝地之一，位于万毒谷内地下数千丈，终年惊魄阴风、自生鬼物，传言深藏鬼王。",
   "attributes": {
-    "所属界面": "大晋、南疆、灵界（大晋）",
-    "类型": "绝地/上古废弃矿窟、地下洞窟绝地、阴气秘地/洞窟、秘地、绝地/地下洞窟",
+    "所属界面": "大晋、南疆、灵界（大晋）、大晋皇朝",
+    "类型": "绝地/上古废弃矿窟、地下洞窟绝地、阴气秘地/洞窟、秘地、绝地/地下洞窟、阴气汇集凶地",
     "危险度": "极高、极高（大晋七大绝地之一）、高、极高（惊魄阴风）",
     "守护": "惊魄阴风、鬼物、鬼王（传言）",
     "特产": "阴芝马、黑晶、暖玉原矿、低劣矿脉"
@@ -31,6 +31,11 @@
         "value": "灵界（大晋）",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "类型": [
@@ -58,6 +63,11 @@
         "value": "绝地/地下洞窟",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "阴气汇集凶地",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "危险度": [
@@ -160,7 +170,8 @@
   "docs": [
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.744Z"
+  "updatedAt": "2026-06-18T03:10:23.715Z"
 }

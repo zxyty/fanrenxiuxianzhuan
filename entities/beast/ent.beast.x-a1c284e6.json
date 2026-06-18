@@ -10,10 +10,10 @@
   "summary": "黑晶借阴气幻化出的鬼物飞蛾，可放风刃，最大者数尺。",
   "attributes": {
     "种族": "鬼物",
-    "栖息地": "阴阳窟风穴",
+    "栖息地": "阴阳窟风穴、阴阳窟风穴黑晶",
     "外形": "彩色巨蛾、丈许大、碧绿妖目",
     "主人": "寰天奇",
-    "能力": "七色彩雾"
+    "能力": "七色彩雾、发风刃、成群"
   },
   "observations": {
     "种族": [
@@ -27,6 +27,11 @@
       {
         "value": "阴阳窟风穴",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "阴阳窟风穴黑晶",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ],
@@ -54,6 +59,16 @@
         "value": "七色彩雾",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "发风刃",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "成群",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ]
   },
@@ -85,16 +100,17 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 1303
+      "seq": 979
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T11:47:43.485Z"
+  "updatedAt": "2026-06-18T03:10:23.711Z"
 }

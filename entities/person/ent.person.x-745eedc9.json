@@ -23,7 +23,7 @@
     "性格": "温婉可人",
     "阵营": "落云宗",
     "标志特征": "双银色飞剑、冰系飞刀/扇、玉伞、赤绳、修炼冰属性功法、善用冰系法宝与玉伞",
-    "存殁": "失踪",
+    "存殁": "失踪、被困、存(被困)",
     "外貌": "白色宫装、面容秀美",
     "结局": "退走自保"
   },
@@ -160,6 +160,11 @@
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979,
         "note": "被煞魂丝结茧困住，尚活"
+      },
+      {
+        "value": "存(被困)",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "外貌": [
@@ -239,10 +244,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 1171,
-      "note": "疑困坠魔谷内谷"
+      "seq": 979,
+      "note": "被煞魂丝结茧困住，尚活"
     },
     "外貌": {
       "asOf": null,
@@ -274,7 +279,8 @@
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "plot.fanren-1113-yaoqi-chongtian",
     "plot.fanren-967-kuzhu-laoren",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.733Z"
+  "updatedAt": "2026-06-18T03:10:23.724Z"
 }

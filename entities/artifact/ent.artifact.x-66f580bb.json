@@ -9,15 +9,20 @@
   ],
   "summary": "黑衣美妇所持佛门法宝，可放七色光幕/光柱护身，专克鬼道神通煞魂丝。",
   "attributes": {
-    "持有者": "黑衣美妇",
+    "持有者": "黑衣美妇、常姓女子",
     "来历": "佛门法宝",
-    "能力": "七色灵光，克鬼道神通"
+    "能力": "七色灵光，克鬼道神通、佛门七色灵光，专克鬼道神通"
   },
   "observations": {
     "持有者": [
       {
         "value": "黑衣美妇",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "常姓女子",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ],
@@ -32,6 +37,11 @@
       {
         "value": "七色灵光，克鬼道神通",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "佛门七色灵光，专克鬼道神通",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -60,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.657Z"
+  "updatedAt": "2026-06-18T03:10:23.733Z"
 }

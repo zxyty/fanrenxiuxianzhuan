@@ -15,8 +15,8 @@
     "身份": "毒圣门修士",
     "性别": "男",
     "出身地": "南疆",
-    "存殁": "死亡",
-    "死因": "被银翅夜叉啃噬"
+    "存殁": "死亡、在场行动",
+    "死因": "被银翅夜叉啃噬、被银翅夜叉啃食"
   },
   "observations": {
     "小阶段": [
@@ -69,12 +69,23 @@
         "value": "死亡",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "在场行动",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979,
+        "note": "世界状态须知标其第979章死亡，但本980-981章正文中其活跃在场、非回忆，按正文记录，存疑"
       }
     ],
     "死因": [
       {
         "value": "被银翅夜叉啃噬",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "被银翅夜叉啃食",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -130,7 +141,8 @@
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-967-kuzhu-laoren",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.734Z"
+  "updatedAt": "2026-06-18T03:10:23.725Z"
 }

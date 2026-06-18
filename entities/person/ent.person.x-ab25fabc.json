@@ -13,7 +13,7 @@
   "attributes": {
     "性别": "女",
     "外貌": "黑衣美妇、嗓音沙哑磁性",
-    "阵营": "九幽宗",
+    "阵营": "富姓老者一方、九幽宗、魔道",
     "小阶段": "元婴、元婴中期、元婴期",
     "身份": "多宝修士",
     "存殁": "死亡",
@@ -45,6 +45,11 @@
       {
         "value": "九幽宗",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ],
@@ -132,9 +137,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+      "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
-      "seq": 979
+      "seq": 973
     },
     "小阶段": {
       "asOf": null,
@@ -180,7 +185,8 @@
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-984-xie-yue-huan-jing",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.735Z"
+  "updatedAt": "2026-06-18T03:10:23.723Z"
 }

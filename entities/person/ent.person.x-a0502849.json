@@ -3,14 +3,18 @@
   "type": "person",
   "name": "何家家主",
   "aliases": [
-    "中年黄袍修士"
+    "中年黄袍修士",
+    "威严中年修士"
   ],
   "summary": "何家家主，元婴修士，持镇族法宝浑天砖，被五子同心魔吞噬元婴而死。",
   "attributes": {
     "小阶段": "元婴",
-    "外貌": "容貌威严，黄袍",
+    "外貌": "容貌威严，黄袍、容貌威严的黄袍中年修士",
     "存殁": "死亡",
-    "死因": "元婴被五子同心魔吞噬"
+    "死因": "元婴被五子同心魔吞噬、被阴罗宗五子同心魔吞噬元婴",
+    "性别": "男",
+    "身份": "何家家主",
+    "结局": "被五子同心魔穿体吞噬元婴，化为干尸"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +29,11 @@
         "value": "容貌威严，黄袍",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "容貌威严的黄袍中年修士",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "存殁": [
@@ -38,6 +47,32 @@
       {
         "value": "元婴被五子同心魔吞噬",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "被阴罗宗五子同心魔吞噬元婴",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "身份": [
+      {
+        "value": "何家家主",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
+      }
+    ],
+    "结局": [
+      {
+        "value": "被五子同心魔穿体吞噬元婴，化为干尸",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -67,12 +102,31 @@
       "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
       "seq": 979
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.621Z"
+  "updatedAt": "2026-06-18T03:10:23.675Z"
 }

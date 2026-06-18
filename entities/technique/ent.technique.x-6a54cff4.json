@@ -2,16 +2,23 @@
   "id": "ent.technique.x-6a54cff4",
   "type": "technique",
   "name": "紫幽神光",
-  "aliases": [],
+  "aliases": [
+    "紫幽珠紫幽神光"
+  ],
   "summary": "护体神光，可加持以抵御阴阳窟阴气；富姓老者掌之，曾为韩立加持。",
   "attributes": {
-    "效果": "护体御阴气"
+    "效果": "护体御阴气、防护阴气"
   },
   "observations": {
     "效果": [
       {
         "value": "护体御阴气",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "防护阴气",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -28,7 +35,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.629Z"
+  "updatedAt": "2026-06-18T03:10:23.707Z"
 }

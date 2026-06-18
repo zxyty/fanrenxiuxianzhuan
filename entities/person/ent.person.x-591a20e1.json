@@ -19,11 +19,11 @@
     "小阶段": "元婴中期顶峰、元婴、元婴中期、元婴期",
     "外貌": "身材高大、面色枣红、皂袍、身材高大、枣红脸、皂袍",
     "性格": "直爽性急、老练市侩、谨慎多疑、谨慎、识时务、直性子、爽快、心急",
-    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老、散修/地下交易会引荐人、修士、南疆修士、探宝队领头",
+    "身份": "大晋修士、九幽宗修士、散修、九幽宗执法长老、九幽宗长老、散修/地下交易会引荐人、修士、南疆修士、探宝队领头、同探阴阳窟的修士",
     "阵营": "魔道、九幽宗",
     "性别": "男",
     "标志特征": "持紫幽珠",
-    "存殁": "死亡",
+    "存殁": "被困、死亡、存(被困)",
     "死因": "被四散真人魔刃剥离血肉灭杀、镇魔塔混战中遇害"
   },
   "observations": {
@@ -143,6 +143,11 @@
         "value": "探宝队领头",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "同探阴阳窟的修士",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "阵营": [
@@ -187,6 +192,11 @@
         "value": "死亡",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "存(被困)",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "死因": [
@@ -248,9 +258,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
-      "seq": 1027
+      "seq": 979,
+      "note": "被煞魂丝结茧困住，尚活"
     },
     "死因": {
       "asOf": null,
@@ -276,7 +287,8 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-955-zaiyu-gumo",
     "plot.fanren-967-kuzhu-laoren",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.734Z"
+  "updatedAt": "2026-06-18T03:10:23.724Z"
 }

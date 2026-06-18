@@ -10,8 +10,8 @@
   ],
   "summary": "银翅夜叉所托漆黑妖镜，可使银瞳幻术威力增强一半以上。",
   "attributes": {
-    "能力": "增强银瞳幻术威力一半以上、纳入并涌出无数阴寒光球、巨型光球护体反复还原、催动幻术、护持扭曲空间光球",
-    "外形": "通体妖异乌芒的漆黑小镜、黑镜、黑色小镜",
+    "能力": "增强银瞳幻术威力一半以上、纳入并涌出无数阴寒光球、巨型光球护体反复还原、催动幻术、护持扭曲空间光球、增强银瞳幻术",
+    "外形": "通体妖异乌芒的漆黑小镜、黑镜、黑色小镜、通体妖异乌芒的小型黑镜",
     "持有者": "银翅夜叉"
   },
   "observations": {
@@ -40,6 +40,11 @@
         "value": "护持扭曲空间光球",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
+      },
+      {
+        "value": "增强银瞳幻术",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "外形": [
@@ -57,13 +62,18 @@
         "value": "黑色小镜",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
         "seq": 985
+      },
+      {
+        "value": "通体妖异乌芒的小型黑镜",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "持有者": [
       {
         "value": "银翅夜叉",
         "docId": "plot.fanren-984-xie-yue-huan-jing",
-        "seq": 985
+        "seq": 979
       }
     ]
   },
@@ -85,14 +95,15 @@
       "asOf": null,
       "docId": "plot.fanren-984-xie-yue-huan-jing",
       "dated": false,
-      "seq": 985
+      "seq": 979
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
-    "plot.fanren-984-xie-yue-huan-jing"
+    "plot.fanren-984-xie-yue-huan-jing",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:30:36.325Z"
+  "updatedAt": "2026-06-18T03:10:23.731Z"
 }

@@ -11,7 +11,8 @@
     "种族": "鬼物",
     "能力": "食生人脑浆、模仿各种鬼声、模仿鬼声、喷乌芒、持骨矛偷袭",
     "栖息地": "阴阳窟深处重阴之地、重阴之地/阴阳窟",
-    "外形": "蛇身猿面、双臂、乌黑鳞躯三四丈、蛇身猿面、乌黑鳞片三四丈长"
+    "外形": "蛇身猿面、双臂、乌黑鳞躯三四丈、蛇身猿面、乌黑鳞片三四丈长",
+    "主人": "人形黑影附身的干尸"
   },
   "observations": {
     "种族": [
@@ -71,6 +72,14 @@
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
       }
+    ],
+    "主人": [
+      {
+        "value": "人形黑影附身的干尸",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979,
+        "note": "复活后收为宠物"
+      }
     ]
   },
   "firstSeq": 973,
@@ -98,13 +107,21 @@
       "docId": "plot.fanren-ch973-minghe-zhiye",
       "dated": false,
       "seq": 973
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+      "dated": false,
+      "seq": 979,
+      "note": "复活后收为宠物"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch973-minghe-zhiye",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T02:57:43.746Z"
+  "updatedAt": "2026-06-18T03:10:23.680Z"
 }

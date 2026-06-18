@@ -11,7 +11,8 @@
     "五子同心魔之主",
     "血影",
     "乾老魔血影",
-    "乾蓝魔"
+    "乾蓝魔",
+    "隐身修士"
   ],
   "summary": "持日月梭、灵犀孔雀开路先入裂缝的老魔修士。",
   "attributes": {
@@ -47,6 +48,11 @@
         "value": "魔道·阴罗宗",
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
         "seq": 1021
+      },
+      {
+        "value": "魔/邪",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "身份": [
@@ -58,7 +64,8 @@
       {
         "value": "阴罗宗大长老",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
-        "seq": 991
+        "seq": 979,
+        "note": "被下属黑袍老者称大长老、自称师侄之尊长"
       },
       {
         "value": "魔道老怪",
@@ -145,6 +152,11 @@
         "value": "火爆狡诈",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "阴沉狠辣",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ],
     "外貌": [
@@ -179,7 +191,7 @@
       }
     ]
   },
-  "firstSeq": 991,
+  "firstSeq": 979,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -258,7 +270,8 @@
     "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1219-1224-author-note-vote-request",
-    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T08:58:55.818Z"
+  "updatedAt": "2026-06-18T03:10:23.677Z"
 }

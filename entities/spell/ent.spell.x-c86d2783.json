@@ -10,7 +10,7 @@
   "attributes": {
     "类型": "鬼道神通",
     "出处": "尸煞之气",
-    "威力": "吸纳五行灵气与法术、污染法宝法器、一化百、结茧困敌"
+    "威力": "吸纳五行灵气与法术、污染法宝法器、一化百、结茧困敌、吸五行灵气、专污法宝、不死不灭"
   },
   "observations": {
     "类型": [
@@ -47,6 +47,11 @@
         "value": "结茧困敌",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "吸五行灵气、专污法宝、不死不灭",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
+        "seq": 979
       }
     ]
   },
@@ -74,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.649Z"
+  "updatedAt": "2026-06-18T03:10:23.730Z"
 }

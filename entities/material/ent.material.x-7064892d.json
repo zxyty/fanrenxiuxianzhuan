@@ -8,15 +8,20 @@
   ],
   "summary": "阴阳窟风穴所产风属性晶石，蕴大量阴气，能借阴气幻化阴冥蛾，似黑髓钻而非。",
   "attributes": {
-    "类型": "风属性晶石",
+    "类型": "风属性晶石、风属性晶石(蕴阴气)",
     "产地": "阴阳窟风穴",
-    "稀有度": "数十处风穴仅得三块"
+    "稀有度": "数十处风穴仅得三块、罕见(搜数十处风穴仅得三块)"
   },
   "observations": {
     "类型": [
       {
         "value": "风属性晶石",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "风属性晶石(蕴阴气)",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ],
@@ -31,6 +36,11 @@
       {
         "value": "数十处风穴仅得三块",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+        "seq": 979
+      },
+      {
+        "value": "罕见(搜数十处风穴仅得三块)",
+        "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
     ]
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo"
+    "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+    "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-16T03:18:06.638Z"
+  "updatedAt": "2026-06-18T03:10:23.713Z"
 }
