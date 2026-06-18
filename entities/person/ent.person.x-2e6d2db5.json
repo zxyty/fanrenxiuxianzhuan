@@ -11,12 +11,12 @@
   "attributes": {
     "性别": "男",
     "小阶段": "元婴初期",
-    "外貌": "光头满脸横肉、浑身金光灿灿、服饰长袍如赤金打造、光头大汉、秃头大汉",
-    "标志特征": "金濛濛盾牌、半圆金罩",
+    "外貌": "光头满脸横肉、浑身金光灿灿、服饰长袍如赤金打造、光头大汉、秃头大汉、光头满脸横肉、浑身赤金光罩，持金濛濛盾牌",
+    "标志特征": "金濛濛盾牌、半圆金罩、银蝌文金符、金花护身",
     "身份": "乱星海老祖",
     "阵营": "乱星海修士",
     "存殁": "死亡",
-    "死因": "韩立紫罗极火灭杀（第1158章）"
+    "死因": "韩立紫罗极火灭杀（第1158章）、韩立以紫罗极火困杀元婴"
   },
   "observations": {
     "性别": [
@@ -48,12 +48,22 @@
         "value": "秃头大汉",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "光头满脸横肉、浑身赤金光罩，持金濛濛盾牌",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "标志特征": [
       {
         "value": "金濛濛盾牌、半圆金罩",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "银蝌文金符、金花护身",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -82,6 +92,11 @@
       {
         "value": "韩立紫罗极火灭杀（第1158章）",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "韩立以紫罗极火困杀元婴",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ]
@@ -141,7 +156,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1155-yaoshou-zhi-luan",
-    "plot.fanren-1161-kunpeng-zhi-yu"
+    "plot.fanren-1161-kunpeng-zhi-yu",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:41:39.695Z"
+  "updatedAt": "2026-06-18T12:14:27.526Z"
 }

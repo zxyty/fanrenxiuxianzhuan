@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "魔湖岛湖泊所产、炼制几种独门法器的必需材料，不算珍稀。",
   "attributes": {
-    "类型": "矿石材料",
+    "类型": "矿石材料、炼器材料",
     "用途": "炼制独门法器",
     "稀有度": "不算珍稀",
     "产地": "魔湖岛"
@@ -15,6 +15,11 @@
       {
         "value": "矿石材料",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "炼器材料",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -70,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.077Z"
+  "updatedAt": "2026-06-18T12:14:27.518Z"
 }

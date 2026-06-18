@@ -6,9 +6,9 @@
   "summary": "星宫长老,奉命运送极品灵石返内海,被金蛟王击杀。",
   "attributes": {
     "阵营": "星宫",
-    "身份": "长老",
+    "身份": "长老、星宫长老",
     "存殁": "死亡",
-    "死因": "被金蛟王击杀(本章)"
+    "死因": "被金蛟王击杀(本章)、丧命金蛟王之手"
   },
   "observations": {
     "阵营": [
@@ -23,6 +23,11 @@
         "value": "长老",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "星宫长老",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "存殁": [
@@ -36,6 +41,11 @@
       {
         "value": "被金蛟王击杀(本章)",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "丧命金蛟王之手",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ]
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.004Z"
+  "updatedAt": "2026-06-18T12:14:27.479Z"
 }

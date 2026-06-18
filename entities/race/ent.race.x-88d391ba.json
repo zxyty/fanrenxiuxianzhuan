@@ -12,9 +12,9 @@
   ],
   "summary": "外海妖族，精锐尽出突袭逆星盟与星宫，欲夺极品灵石与全岛灵矿。",
   "attributes": {
-    "聚居地": "外海/乱星海、乱星海、外海",
+    "聚居地": "外海/乱星海、乱星海、外海、乱星海外海",
     "代表人物": "金蛟王",
-    "阵营": "妖族"
+    "阵营": "外海妖修王族"
   },
   "observations": {
     "聚居地": [
@@ -32,6 +32,11 @@
         "value": "外海",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1141
+      },
+      {
+        "value": "乱星海外海",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "代表人物": [
@@ -46,6 +51,11 @@
         "value": "妖族",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "外海妖修王族",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ]
   },
@@ -65,9 +75,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1143-yinsha-xueshi",
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
       "dated": false,
-      "seq": 1141
+      "seq": 1153
     }
   },
   "contested": false,
@@ -77,7 +87,8 @@
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1143-yinsha-xueshi",
-    "plot.fanren-1147-1152-jiaoyu-duobao"
+    "plot.fanren-1147-1152-jiaoyu-duobao",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-18T12:01:49.604Z"
+  "updatedAt": "2026-06-18T12:14:27.496Z"
 }

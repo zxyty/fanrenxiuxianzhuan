@@ -11,9 +11,9 @@
   "attributes": {
     "特性": "喜食龙鳞果、可化人形",
     "代表人物": "金蛟王",
-    "聚居地": "外海",
+    "聚居地": "外海、乱星海深渊、乱星海外海",
     "天赋神通": "化龙决（化蛟成龙）",
-    "阵营": "妖兽"
+    "阵营": "外海妖修"
   },
   "observations": {
     "特性": [
@@ -50,6 +50,11 @@
         "value": "乱星海深渊",
         "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
         "seq": 559
+      },
+      {
+        "value": "乱星海外海",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "天赋神通": [
@@ -64,6 +69,11 @@
         "value": "妖兽",
         "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
         "seq": 559
+      },
+      {
+        "value": "外海妖修",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ]
   },
@@ -83,9 +93,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
       "dated": false,
-      "seq": 1153
+      "seq": 559
     },
     "天赋神通": {
       "asOf": null,
@@ -95,9 +105,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
       "dated": false,
-      "seq": 559
+      "seq": 1153
     }
   },
   "contested": false,
@@ -107,7 +117,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-541-546-bifenjiu-fenglei-chi",
-    "plot.fanren-559-564-haiwai-cuoren-jietoulu"
+    "plot.fanren-559-564-haiwai-cuoren-jietoulu",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-17T07:17:34.854Z"
+  "updatedAt": "2026-06-18T12:14:27.494Z"
 }

@@ -5,14 +5,15 @@
   "aliases": [
     "艳丽女子",
     "红衫艳丽女子",
-    "蔡师姐"
+    "蔡师姐",
+    "红衫女子"
   ],
   "summary": "蛮师名义女弟子实为侍妾，结丹初期，持古宝紫冰镯；暗中勾结金花老祖欲独吞藏宝。",
   "attributes": {
     "性别": "女",
     "小阶段": "结丹初期",
-    "身份": "蛮师侍妾",
-    "外貌": "红衫艳丽、肥臀丰乳、桃花眼",
+    "身份": "蛮师侍妾、蛮胡子侍妾",
+    "外貌": "红衫艳丽、肥臀丰乳、桃花眼、红衫艳丽，肥臀丰乳、桃花眼",
     "结局": "逃走（疑被六翼霜蚣追击）"
   },
   "observations": {
@@ -36,12 +37,22 @@
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153,
         "note": "名义上为女弟子"
+      },
+      {
+        "value": "蛮胡子侍妾",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "外貌": [
       {
         "value": "红衫艳丽、肥臀丰乳、桃花眼",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "红衫艳丽，肥臀丰乳、桃花眼",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -90,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.125Z"
+  "updatedAt": "2026-06-18T12:14:27.511Z"
 }

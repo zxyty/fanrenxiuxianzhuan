@@ -9,8 +9,8 @@
   ],
   "summary": "银鲨岛最北部新发现高阶灵石矿脉的大岛，多产木系灵石，被海中妖兽、天星宫、逆星盟共同瓜分，渐成外海修士聚集地。",
   "attributes": {
-    "类型": "海岛灵矿",
-    "特产": "木系灵石（高阶灵石矿脉）、高阶灵石矿脉、木属性灵石、顶阶/极品灵石、木系灵石、传闻高阶灵石矿脉、木属性灵石（含极品灵石）",
+    "类型": "海岛/灵石矿脉",
+    "特产": "木系灵石（高阶灵石矿脉）、高阶灵石矿脉、木属性灵石、顶阶/极品灵石、木系灵石、传闻高阶灵石矿脉、木属性灵石（含极品灵石）、顶阶灵石",
     "所属界面": "乱星海外海",
     "所属势力": "海族",
     "守护": "极阴祖师",
@@ -32,6 +32,11 @@
         "value": "海岛灵矿",
         "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
+      },
+      {
+        "value": "海岛/灵石矿脉",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "特产": [
@@ -69,6 +74,11 @@
         "value": "木属性灵石（含极品灵石）",
         "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
+      },
+      {
+        "value": "顶阶灵石",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "所属界面": [
@@ -120,9 +130,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
       "dated": false,
-      "seq": 1147
+      "seq": 1153
     },
     "特产": {
       "asOf": null,
@@ -165,7 +175,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
     "plot.fanren-1143-yinsha-xueshi",
-    "plot.fanren-1147-1152-jiaoyu-duobao"
+    "plot.fanren-1147-1152-jiaoyu-duobao",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-18T12:01:49.589Z"
+  "updatedAt": "2026-06-18T12:14:27.490Z"
 }

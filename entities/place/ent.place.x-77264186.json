@@ -3,13 +3,16 @@
   "type": "place",
   "name": "魔湖岛",
   "aliases": [
-    "魔湖"
+    "魔湖",
+    "湖中心",
+    "蛮胡子魔湖"
   ],
   "summary": "内星海近边缘处小岛，无灵脉、产翠铜，湖水碧绿且凡人落水不沉；蛮胡子湖底藏宝洞府所在。",
   "attributes": {
-    "类型": "海岛、湖泊秘地",
+    "类型": "海岛、湖泊秘地、神识隔绝湖泊",
     "特产": "翠铜、蛮胡子洞府藏宝",
-    "守护": "五行禁制光罩"
+    "守护": "五行禁制光罩、五行禁制/传送法阵",
+    "所属界面": "人界"
   },
   "observations": {
     "类型": [
@@ -21,6 +24,11 @@
       {
         "value": "湖泊秘地",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "神识隔绝湖泊",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -40,6 +48,18 @@
       {
         "value": "五行禁制光罩",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "五行禁制/传送法阵",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ]
@@ -63,12 +83,19 @@
       "docId": "plot.fanren-1155-yaoshou-zhi-luan",
       "dated": false,
       "seq": 1153
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.149Z"
+  "updatedAt": "2026-06-18T12:14:27.547Z"
 }

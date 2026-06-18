@@ -9,11 +9,11 @@
   ],
   "summary": "韩立昔日外星海所见、欲跨界攻击的巨大妖鸟，灵界天鹏族奉为神灵；韩立得其一根灵羽。",
   "attributes": {
-    "栖息地": "灵界",
+    "栖息地": "灵界、灵界/星海",
     "外形": "青色巨鹏",
     "种族": "天地妖灵",
     "血脉": "上古生灵",
-    "能力": "领悟风之天地法则、生啖妖物、尖鸣威压",
+    "能力": "领悟风之天地法则、生啖妖物、尖鸣威压、跨界攻击",
     "天敌": "罗睺兽"
   },
   "observations": {
@@ -21,6 +21,11 @@
       {
         "value": "灵界",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "灵界/星海",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -41,6 +46,11 @@
         "value": "天地妖灵",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
         "seq": 1159
+      },
+      {
+        "value": "鲲鹏",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "血脉": [
@@ -65,6 +75,11 @@
         "value": "尖鸣威压",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "跨界攻击",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "天敌": [
@@ -103,9 +118,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
       "dated": false,
-      "seq": 1159
+      "seq": 1153
     },
     "天敌": {
       "asOf": null,
@@ -119,7 +134,8 @@
   "docs": [
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1161-kunpeng-zhi-yu",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-16T19:22:06.810Z"
+  "updatedAt": "2026-06-18T12:14:27.544Z"
 }

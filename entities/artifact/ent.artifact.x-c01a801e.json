@@ -3,14 +3,15 @@
   "type": "artifact",
   "name": "紫冰镯",
   "aliases": [
-    "紫濛濛手镯"
+    "紫濛濛手镯",
+    "紫蒙蒙手镯"
   ],
   "summary": "蛮师赠予蔡师妹的古宝手镯，紫濛濛闪动符文，单凭此宝吴、雷联手亦非其敌。",
   "attributes": {
     "品阶": "古宝",
     "持有者": "蔡师妹",
-    "来历": "蛮师所赠",
-    "外形": "紫濛濛手镯、闪动神秘符文"
+    "来历": "蛮师所赠、蛮胡子所赠",
+    "外形": "紫濛濛手镯、闪动神秘符文、紫蒙蒙手镯，闪动符文"
   },
   "observations": {
     "品阶": [
@@ -32,12 +33,22 @@
         "value": "蛮师所赠",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "蛮胡子所赠",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "外形": [
       {
         "value": "紫濛濛手镯、闪动神秘符文",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "紫蒙蒙手镯，闪动符文",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ]
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.079Z"
+  "updatedAt": "2026-06-18T12:14:27.517Z"
 }

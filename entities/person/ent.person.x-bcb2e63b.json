@@ -3,14 +3,15 @@
   "type": "person",
   "name": "吴姓老者",
   "aliases": [
-    "吴师兄"
+    "吴师兄",
+    "吴师傅"
   ],
   "summary": "黄枫谷长老，鹰勾鼻、出名足智多谋，献策劝叶姓老者出资买下韩立的筑基丹。",
   "attributes": {
     "性别": "男",
-    "身份": "黄枫谷长老、传功弟子、谷内管事",
+    "身份": "黄枫谷长老、传功弟子、谷内管事、金铭楼楼主",
     "性格": "阴沉算计",
-    "外貌": "满脸皱纹的灰袍老者",
+    "外貌": "鹰勾鼻老者、三十来岁青衣弟子、满脸皱纹的灰袍老者、满脸皱纹灰袍老者",
     "小阶段": "结丹后期"
   },
   "observations": {
@@ -36,6 +37,11 @@
         "value": "谷内管事",
         "docId": "plot.fanren-146-151-han-li-joins-huangfenggu",
         "seq": 145
+      },
+      {
+        "value": "金铭楼楼主",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "性格": [
@@ -64,6 +70,11 @@
       {
         "value": "满脸皱纹的灰袍老者",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "满脸皱纹灰袍老者",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ],
@@ -97,9 +108,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
       "dated": false,
-      "seq": 1153
+      "seq": 139
     },
     "小阶段": {
       "asOf": null,
@@ -113,7 +124,8 @@
   "docs": [
     "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
     "plot.fanren-146-151-han-li-joins-huangfenggu",
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.070Z"
+  "updatedAt": "2026-06-18T12:14:27.508Z"
 }

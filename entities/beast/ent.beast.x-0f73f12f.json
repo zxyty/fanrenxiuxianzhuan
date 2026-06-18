@@ -3,13 +3,16 @@
   "type": "beast",
   "name": "田澜圣禽",
   "aliases": [
-    "虚天鼎器灵"
+    "虚天鼎器灵",
+    "鼎中幼童",
+    "圣禽本体"
   ],
   "summary": "虚天鼎器灵，灵界了不得的妖修，分神借体入人界现仅约八级妖兽修为；曾吞噬懂银蝌文者元神而识此文。",
   "attributes": {
     "等级": "八级妖兽（人界分神借体）",
     "能力": "识银蝌文",
-    "种族": "灵界妖修"
+    "种族": "灵界妖修、圣禽/妖修",
+    "栖息地": "灵界"
   },
   "observations": {
     "等级": [
@@ -30,6 +33,18 @@
       {
         "value": "灵界妖修",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+        "seq": 1153
+      },
+      {
+        "value": "圣禽/妖修",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
       }
     ]
@@ -53,12 +68,19 @@
       "docId": "plot.fanren-1155-yaoshou-zhi-luan",
       "dated": false,
       "seq": 1153
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.131Z"
+  "updatedAt": "2026-06-18T12:14:27.543Z"
 }

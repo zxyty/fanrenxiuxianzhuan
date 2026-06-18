@@ -7,8 +7,8 @@
   ],
   "summary": "乱星海外海岛屿，传发现高阶矿脉吸引大半外海修士，可购白鹭鱼妖内丹；田姓夫妇偷渡欲往此岛求药。",
   "attributes": {
-    "类型": "外海岛屿",
-    "所属界面": "乱星海(外海)、乱星海、人界",
+    "类型": "海岛",
+    "所属界面": "乱星海(外海)、乱星海、人界、乱星海内海",
     "所属势力": "星宫",
     "守护": "蓝色光幕防御大阵、防御大阵、传送阵"
   },
@@ -18,6 +18,11 @@
         "value": "外海岛屿",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
         "seq": 1123
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "所属界面": [
@@ -35,6 +40,11 @@
         "value": "人界",
         "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
+      },
+      {
+        "value": "乱星海内海",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ],
     "所属势力": [
@@ -61,9 +71,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
       "dated": false,
-      "seq": 1123
+      "seq": 1153
     },
     "所属界面": {
       "asOf": null,
@@ -93,7 +103,8 @@
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
-    "plot.fanren-1147-1152-jiaoyu-duobao"
+    "plot.fanren-1147-1152-jiaoyu-duobao",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-18T12:01:49.618Z"
+  "updatedAt": "2026-06-18T12:14:27.500Z"
 }

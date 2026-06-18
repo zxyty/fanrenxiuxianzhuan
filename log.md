@@ -524,3 +524,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T11:38:19.112Z** `ingest` plot.fanren-1137-1142-leikong-island-qingyu-miaohe — 凡人修仙传 第1137-1142章｜青羽·雷空岛·截杀妙鹤 · kind=plot asOf=2026-06-18 entities=0 relations=0 src=01135-01140.md
 - **2026-06-18T11:55:02.828Z** `ingest` plot.fanren-1143-yinsha-xueshi — 第1143章 阴煞血尸——韩立潜入逆星盟巨岛 · kind=plot asOf=2026-06-18 entities=36 relations=44 src=01141-01146.md
 - **2026-06-18T12:01:49.769Z** `ingest` plot.fanren-1147-1152-jiaoyu-duobao — 凡人修仙传 第1147-1152章｜金蛟王屠戮元婴·韩立碧灵岛夺极品灵石 · kind=plot asOf=2026-06-18 entities=34 relations=46 src=01147-01152.md
+- **2026-06-18T12:14:27.684Z** `ingest` plot.fmxz-ch1155-yaoshou-zhi-luan — 凡人修仙传 第1155章 妖兽之乱——天星双圣设局与外海妖修驱逐令 · kind=plot asOf=2026-06-18 entities=51 relations=71 src=01153-01158.md

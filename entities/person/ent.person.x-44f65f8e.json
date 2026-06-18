@@ -12,7 +12,8 @@
     "性别": "男",
     "小阶段": "结丹中期、结丹期",
     "称号": "血手魔",
-    "外貌": "面容英俊的蓝袍男子，带血腥煞气"
+    "外貌": "面容英俊的蓝袍男子，带血腥煞气、面容英俊蓝袍男子",
+    "标志特征": "身带血腥煞气"
   },
   "observations": {
     "性别": [
@@ -46,6 +47,18 @@
         "value": "面容英俊的蓝袍男子，带血腥煞气",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "面容英俊蓝袍男子",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "身带血腥煞气",
+        "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+        "seq": 1153
       }
     ]
   },
@@ -74,12 +87,19 @@
       "docId": "plot.fanren-1155-yaoshou-zhi-luan",
       "dated": false,
       "seq": 1153
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
+      "dated": false,
+      "seq": 1153
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1155-yaoshou-zhi-luan"
+    "plot.fanren-1155-yaoshou-zhi-luan",
+    "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-15T11:28:21.130Z"
+  "updatedAt": "2026-06-18T12:14:27.509Z"
 }
