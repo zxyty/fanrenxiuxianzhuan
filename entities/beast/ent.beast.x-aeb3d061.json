@@ -3,13 +3,15 @@
   "type": "beast",
   "name": "绿发男妖",
   "aliases": [
-    "绿光男子"
+    "绿光男子",
+    "男妖"
   ],
   "summary": "绿发黄目大嘴的八级化形妖兽，擅毒雾毒针毒火，被韩立三焰扇焚为青烟。",
   "attributes": {
     "等级": "八级",
     "外形": "散乱绿发、豆粒黄目、巨口利齿",
-    "能力": "至毒毒雾毒针"
+    "能力": "至毒毒雾毒针",
+    "种族": "妖兽化形"
   },
   "observations": {
     "等级": [
@@ -30,6 +32,13 @@
       {
         "value": "至毒毒雾毒针",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      }
+    ],
+    "种族": [
+      {
+        "value": "妖兽化形",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
         "seq": 1081
       }
     ]
@@ -53,12 +62,19 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-ch1083-1085-bingning-shou-er-yao"
   ],
-  "updatedAt": "2026-06-15T09:07:09.398Z"
+  "updatedAt": "2026-06-18T09:41:32.523Z"
 }

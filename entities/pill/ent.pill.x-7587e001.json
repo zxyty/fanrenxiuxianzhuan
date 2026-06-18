@@ -6,7 +6,7 @@
   "summary": "解封魂咒所需药引，寒属性丹药，主料为玄冰花，效用与雪魄丸不同。",
   "attributes": {
     "功效": "解封魂咒",
-    "主料": "玄冰花",
+    "主料": "万年玄冰",
     "炼制者": "韩立"
   },
   "observations": {
@@ -27,6 +27,11 @@
         "value": "玄冰花",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069
+      },
+      {
+        "value": "万年玄冰",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+        "seq": 1081
       }
     ],
     "炼制者": [
@@ -47,9 +52,9 @@
     },
     "主料": {
       "asOf": null,
-      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
       "dated": false,
-      "seq": 1069
+      "seq": 1081
     },
     "炼制者": {
       "asOf": null,
@@ -65,7 +70,8 @@
     "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
     "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
     "plot.fanren-1069-1074-soul-devour-escape-frost",
-    "plot.fanren-1075-1080-beiming-island-xiaojigong"
+    "plot.fanren-1075-1080-beiming-island-xiaojigong",
+    "plot.fanren-ch1083-1085-bingning-shou-er-yao"
   ],
-  "updatedAt": "2026-06-18T09:36:28.961Z"
+  "updatedAt": "2026-06-18T09:41:32.532Z"
 }

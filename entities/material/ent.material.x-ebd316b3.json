@@ -7,9 +7,10 @@
   ],
   "summary": "炼制冰属性法器的绝佳材料，藏于冰海雪吼兽巢穴冰缝底部矿脉。",
   "attributes": {
-    "类型": "炼器材料、寒冰灵材",
+    "类型": "炼器材料、寒冰灵材、冰属性矿材",
     "稀有度": "绝佳",
-    "产地": "冰海"
+    "产地": "冰海、雪吼兽冰缝底部",
+    "用途": "炼器、炼玄冰丹"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,11 @@
       {
         "value": "寒冰灵材",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "冰属性矿材",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
         "seq": 1081
       }
     ],
@@ -35,6 +41,18 @@
       {
         "value": "冰海",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "雪吼兽冰缝底部",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+        "seq": 1081
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼器、炼玄冰丹",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
         "seq": 1081
       }
     ]
@@ -58,12 +76,19 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-ch1083-1085-bingning-shou-er-yao"
   ],
-  "updatedAt": "2026-06-15T09:07:09.408Z"
+  "updatedAt": "2026-06-18T09:41:32.533Z"
 }

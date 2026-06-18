@@ -9,7 +9,8 @@
   "attributes": {
     "等级": "七级",
     "种族": "冰风属性妖兽",
-    "外形": "银光皮毛、狮形巨兽"
+    "外形": "银光皮毛、狮形巨兽、似狮、银毛、数丈大",
+    "能力": "冰风属性、肉搏凶悍"
   },
   "observations": {
     "等级": [
@@ -30,6 +31,18 @@
       {
         "value": "银光皮毛、狮形巨兽",
         "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+        "seq": 1081
+      },
+      {
+        "value": "似狮、银毛、数丈大",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+        "seq": 1081
+      }
+    ],
+    "能力": [
+      {
+        "value": "冰风属性、肉搏凶悍",
+        "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
         "seq": 1081
       }
     ]
@@ -53,12 +66,19 @@
       "docId": "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
       "dated": false,
       "seq": 1081
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1083-1085-bingning-shou-er-yao",
+      "dated": false,
+      "seq": 1081
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua"
+    "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
+    "plot.fanren-ch1083-1085-bingning-shou-er-yao"
   ],
-  "updatedAt": "2026-06-15T09:07:09.382Z"
+  "updatedAt": "2026-06-18T09:41:32.519Z"
 }
