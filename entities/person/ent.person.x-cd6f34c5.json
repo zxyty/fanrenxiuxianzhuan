@@ -3,12 +3,15 @@
   "type": "person",
   "name": "石云",
   "aliases": [
-    "石云道友"
+    "石云道友",
+    "石执事"
   ],
   "summary": "北夜小极宫外宫执事，结丹期，于冰城外迎接韩立。",
   "attributes": {
     "小阶段": "结丹期",
-    "身份": "小极宫外宫执事"
+    "身份": "小极宫外宫执事、外宫执事",
+    "性别": "男",
+    "外貌": "三十许、面容清秀"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +25,25 @@
       {
         "value": "小极宫外宫执事",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "外宫执事",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十许、面容清秀",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -39,12 +61,25 @@
       "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
       "seq": 1075
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.612Z"
+  "updatedAt": "2026-06-18T09:36:28.928Z"
 }

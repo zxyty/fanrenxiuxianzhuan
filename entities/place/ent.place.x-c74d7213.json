@@ -11,7 +11,7 @@
   "attributes": {
     "类型": "极寒之地、半岛/极寒之地、极寒冰岛、极寒灵脉冰岛、海岛",
     "所属界面": "大晋(北地)",
-    "危险度": "极高(滴水成冰)",
+    "危险度": "极高(滴水成冰)、极高(万里寒气)、极高（极寒、禁制冰川）",
     "特产": "玄冰花、玄玉寒气、寒髓",
     "所属势力": "小极宫",
     "守护": "天元阴脉寒眼禁制、禁空禁制"
@@ -66,6 +66,11 @@
         "value": "极高(万里寒气)",
         "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
         "seq": 943
+      },
+      {
+        "value": "极高（极寒、禁制冰川）",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "特产": [
@@ -126,9 +131,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "docId": "plot.fanren-ch943-jinjing-extortion-backstab",
       "dated": false,
-      "seq": 1075
+      "seq": 943
     },
     "特产": {
       "asOf": null,
@@ -159,7 +164,8 @@
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-967-kuzhu-laoren",
-    "plot.fanren-1069-1074-soul-devour-escape-frost"
+    "plot.fanren-1069-1074-soul-devour-escape-frost",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-18T09:28:54.682Z"
+  "updatedAt": "2026-06-18T09:36:28.956Z"
 }

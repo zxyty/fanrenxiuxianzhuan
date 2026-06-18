@@ -1,0 +1,53 @@
+{
+  "id": "ent.place.x-27c60bcf",
+  "type": "place",
+  "name": "白凝阁",
+  "aliases": [],
+  "summary": "白瑶怡在小极宫的居所，韩立受邀前往相见。",
+  "attributes": {
+    "所属势力": "北夜小极宫、小极宫",
+    "类型": "阁楼"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "北夜小极宫",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      },
+      {
+        "value": "小极宫",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
+    ],
+    "类型": [
+      {
+        "value": "阁楼",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
+    ]
+  },
+  "firstSeq": 1075,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
+  ],
+  "updatedAt": "2026-06-18T09:36:28.955Z"
+}

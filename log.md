@@ -507,3 +507,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T08:17:02.859Z** `ingest` plot.fanren-1057-three-treasures-joint-attack — 凡人修仙传 第1057章 三宝联手对抗狼妖圣祖 · kind=plot asOf=2026-06-18 entities=49 relations=57 src=01057-01062.md
 - **2026-06-18T09:20:51.152Z** `ingest` plot.fanren-1063-xuanwo — 凡人修仙传 第1063章 漩涡——黑风旗引爆与众人逃遁 · kind=plot asOf=2026-06-18 entities=46 relations=66 src=01063-01068.md
 - **2026-06-18T09:28:54.823Z** `ingest` plot.fanren-1069-1074-soul-devour-escape-frost — 凡人修仙传 第1069-1074章｜灵魂吞噬·脱困·冰寒之地 · kind=plot asOf=2026-06-18 entities=52 relations=44 src=01069-01074.md
+- **2026-06-18T09:36:29.070Z** `ingest` plot.fanren-1075-1080-beiming-island-xiaojigong — 凡人修仙传 第1075-1080章｜北冥岛·北夜小极宫访友 · kind=plot asOf=2026-06-18 entities=32 relations=34 src=01075-01080.md

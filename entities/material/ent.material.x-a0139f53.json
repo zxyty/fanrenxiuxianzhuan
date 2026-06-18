@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "修仙界有名异宝，作小极宫禁断大阵阵眼，能随机偏离修士神念方位。",
   "attributes": {
-    "类型": "异宝",
-    "用途": "禁断大阵阵眼,偏离神念方位"
+    "类型": "异宝、阵眼异宝",
+    "用途": "禁断大阵阵眼,偏离神念方位、偏移神念、构成禁断大阵"
   },
   "observations": {
     "类型": [
@@ -14,12 +14,22 @@
         "value": "异宝",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
+      },
+      {
+        "value": "阵眼异宝",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "用途": [
       {
         "value": "禁断大阵阵眼,偏离神念方位",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "偏移神念、构成禁断大阵",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.623Z"
+  "updatedAt": "2026-06-18T09:36:28.943Z"
 }

@@ -6,9 +6,10 @@
   "summary": "奇兽双生兽，必一雌一雄同出，隐匿之术神妙，为寒骊上人灵兽，引路韩立。",
   "attributes": {
     "种族": "双生兽",
-    "能力": "隐匿之术",
+    "能力": "隐匿之术、隐形/隐匿之术",
     "主人": "寒骊上人",
-    "外形": "金色皮毛、似猫的小兽"
+    "外形": "金色皮毛、似猫的小兽、金毛大猫、毛皮金光灿灿",
+    "等级": "奇兽"
   },
   "observations": {
     "种族": [
@@ -23,6 +24,11 @@
         "value": "隐匿之术",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
+      },
+      {
+        "value": "隐形/隐匿之术",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "主人": [
@@ -36,6 +42,18 @@
       {
         "value": "金色皮毛、似猫的小兽",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "金毛大猫、毛皮金光灿灿",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
+    ],
+    "等级": [
+      {
+        "value": "奇兽",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -65,12 +83,19 @@
       "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
       "seq": 1075
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.647Z"
+  "updatedAt": "2026-06-18T09:36:28.958Z"
 }

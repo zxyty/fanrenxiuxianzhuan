@@ -17,8 +17,8 @@
   "summary": "北夜小极宫内宫长老，元婴中期，主动热情为韩立带路并探听其来历。",
   "attributes": {
     "小阶段": "元婴",
-    "身份": "小极宫内宫长老、小极宫长老、小极宫修士、长老",
-    "外貌": "青衫中年",
+    "身份": "小极宫内宫长老、小极宫长老、小极宫修士、长老、内宫长老",
+    "外貌": "面容白皙、头发灰白、双目沧桑的青年、青衫中年、面容白皙、头发灰白、双目沧桑",
     "性别": "男",
     "标志特征": "黑色冰焰",
     "阵营": "小极宫",
@@ -58,6 +58,11 @@
         "value": "长老",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "内宫长老",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "外貌": [
@@ -70,6 +75,11 @@
         "value": "青衫中年",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "面容白皙、头发灰白、双目沧桑",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "性别": [
@@ -124,9 +134,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
-      "seq": 1087
+      "seq": 1075
     },
     "性别": {
       "asOf": null,
@@ -166,7 +176,8 @@
     "plot.fanren-1081-1086-xiaoji-gong-bingling-hua",
     "plot.fanren-1088-bingpo-hanlie-zhen",
     "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
-    "plot.fanren-1099-1104-xuanyu-cave-battle"
+    "plot.fanren-1099-1104-xuanyu-cave-battle",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T09:47:06.106Z"
+  "updatedAt": "2026-06-18T09:36:28.950Z"
 }

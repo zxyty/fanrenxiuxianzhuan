@@ -7,14 +7,19 @@
   ],
   "summary": "小极宫商铺出售的指路法器，按其方向前进可不迷失，同时让小极宫掌握持有者行踪。",
   "attributes": {
-    "类型": "法器",
-    "用途": "在禁断大阵中指引方向、供小极宫追踪持有者行踪"
+    "类型": "法器、指路法器",
+    "用途": "在禁断大阵中指引方向、供小极宫追踪持有者行踪、穿越禁断大阵指引方向、被追踪行踪"
   },
   "observations": {
     "类型": [
       {
         "value": "法器",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "指路法器",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ],
@@ -27,6 +32,11 @@
       {
         "value": "供小极宫追踪持有者行踪",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "穿越禁断大阵指引方向、被追踪行踪",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -49,7 +59,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.623Z"
+  "updatedAt": "2026-06-18T09:36:28.942Z"
 }

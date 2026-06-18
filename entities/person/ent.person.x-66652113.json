@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "欲拜入小极宫外宫的散修队伍领头人，修为不高，赠韩立定元盘。",
   "attributes": {
-    "身份": "散修(参加小极宫试炼)",
-    "外貌": "深黄色光罩包裹的中年人"
+    "身份": "散修(参加小极宫试炼)、赴小极宫试炼的散修",
+    "外貌": "深黄色光罩包裹的中年人",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -14,12 +15,24 @@
         "value": "散修(参加小极宫试炼)",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
         "seq": 1075
+      },
+      {
+        "value": "赴小极宫试炼的散修",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "外貌": [
       {
         "value": "深黄色光罩包裹的中年人",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
       "seq": 1075
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.613Z"
+  "updatedAt": "2026-06-18T09:36:28.929Z"
 }

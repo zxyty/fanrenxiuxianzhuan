@@ -17,21 +17,23 @@
     "寒期",
     "寒期道友",
     "寒期兄",
-    "寒期上人"
+    "寒期上人",
+    "寒骊撒上人"
   ],
   "summary": "小极宫大长老，本名师相，身高三尺的蓝袍侏儒，元婴后期顶峰半步化神，欲借五种极寒之焰冲击化神，视韩立为苦寻的第五人。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴(冲击化神期)",
     "身份": "小极宫大长老、大长老、小极宫修士、小极宫大修士、前辈大修士",
-    "称号": "大长老",
-    "外貌": "身高三尺、雪白长须的蓝袍侏儒、侏儒、三十许岁壮汉，要害插五短刃无血、三十余岁",
-    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒",
+    "称号": "寒骊上人、大长老、小极宫大长老",
+    "外貌": "身高三尺、雪白长须的蓝袍侏儒、侏儒、三十许岁壮汉，要害插五短刃无血、三十余岁、三尺侏儒、雪白长须、蓝袍",
+    "标志特征": "半步化神，因服丹失误成侏儒貌、乾蓝冰焰、侏儒、冲化神时肉身檀化、眉间六色莲花标记、浑身蓝光、目泛金芒、半步化神，徘徊此境三百年",
     "寿元": "仅剩寥寥数年",
     "阵营": "小极宫",
     "存殁": "死亡",
     "死因": "元婴被韩立搜魂湮灭",
-    "出身地": "小极宫"
+    "出身地": "小极宫",
+    "道号": "寒骊上人"
   },
   "observations": {
     "性别": [
@@ -101,6 +103,11 @@
         "value": "大长老",
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087
+      },
+      {
+        "value": "小极宫大长老",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "外貌": [
@@ -124,6 +131,11 @@
         "value": "三十余岁",
         "docId": "plot.fanren-1093-1098-hanli-helps-hanli-shangren-wuyan-xisui",
         "seq": 1093
+      },
+      {
+        "value": "三尺侏儒、雪白长须、蓝袍",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "标志特征": [
@@ -151,6 +163,11 @@
         "value": "浑身蓝光、目泛金芒",
         "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
         "seq": 1099
+      },
+      {
+        "value": "半步化神，徘徊此境三百年",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "寿元": [
@@ -194,6 +211,13 @@
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
       }
+    ],
+    "道号": [
+      {
+        "value": "寒骊上人",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
+      }
     ]
   },
   "firstSeq": 1075,
@@ -218,9 +242,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
       "dated": false,
-      "seq": 1087
+      "seq": 1075
     },
     "外貌": {
       "asOf": null,
@@ -265,6 +289,12 @@
       "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
       "dated": false,
       "seq": 1237
+    },
+    "道号": {
+      "asOf": null,
+      "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+      "dated": false,
+      "seq": 1075
     }
   },
   "contested": false,
@@ -279,7 +309,8 @@
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1219-1224-author-note-vote-request",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-16T09:33:28.332Z"
+  "updatedAt": "2026-06-18T09:36:28.951Z"
 }

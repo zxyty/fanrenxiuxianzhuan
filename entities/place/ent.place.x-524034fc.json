@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "大晋极北大郡，冰天雪地、盛产寒属性灵药，多阴寒功法散修聚集。",
   "attributes": {
-    "类型": "郡",
+    "类型": "极寒大郡、郡、州郡",
     "特产": "寒属性灵药与材料、寒属性灵药材料",
     "所属界面": "大晋北部",
     "所属势力": "大晋皇朝"
@@ -20,6 +20,11 @@
       {
         "value": "郡",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "州郡",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ],
@@ -54,9 +59,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
-      "seq": 1075
+      "seq": 1069
     },
     "特产": {
       "asOf": null,
@@ -82,7 +87,8 @@
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
-    "plot.fanren-1069-1074-soul-devour-escape-frost"
+    "plot.fanren-1069-1074-soul-devour-escape-frost",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-18T09:28:54.681Z"
+  "updatedAt": "2026-06-18T09:36:28.934Z"
 }

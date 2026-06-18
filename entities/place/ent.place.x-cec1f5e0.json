@@ -8,8 +8,8 @@
   ],
   "summary": "霜郡内山峰，李家所在。",
   "attributes": {
-    "类型": "灵山/灵地、山脉/闭关灵地、灵山",
-    "守护": "幻阵白雾禁制、六翼霜蚣、白雾幻阵",
+    "类型": "灵山/灵地、山脉/闭关灵地、灵山、灵地/修炼之所",
+    "守护": "幻阵白雾禁制、六翼霜蚣、白雾幻阵、无尽白雾",
     "所属界面": "大晋·霜郡",
     "危险度": "被元婴修士占据后的禁区"
   },
@@ -29,6 +29,11 @@
         "value": "灵山",
         "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
         "seq": 1069
+      },
+      {
+        "value": "灵地/修炼之所",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "守护": [
@@ -46,6 +51,11 @@
         "value": "白雾幻阵",
         "docId": "plot.fanren-1069-1074-soul-devour-escape-frost",
         "seq": 1069
+      },
+      {
+        "value": "无尽白雾",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
+        "seq": 1075
       }
     ],
     "所属界面": [
@@ -95,7 +105,8 @@
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
-    "plot.fanren-1069-1074-soul-devour-escape-frost"
+    "plot.fanren-1069-1074-soul-devour-escape-frost",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-18T09:28:54.699Z"
+  "updatedAt": "2026-06-18T09:36:28.934Z"
 }

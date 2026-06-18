@@ -5,16 +5,21 @@
   "aliases": [],
   "summary": "生长于极寒地带的白色猿类灵兽，聪明易驯，小极宫驯养者达四五级妖兽水准。",
   "attributes": {
-    "等级": "四五级妖兽(小极宫驯养者)",
+    "等级": "四五级妖兽(小极宫驯养者)、四五级（小极宫所养）",
     "栖息地": "极寒地带",
     "能力": "对同类灵觉异常敏锐",
-    "外形": "白色长毛、绿目的猿猴"
+    "外形": "白色长毛、绿目的猿猴、白色长毛、绿目"
   },
   "observations": {
     "等级": [
       {
         "value": "四五级妖兽(小极宫驯养者)",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "四五级（小极宫所养）",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ],
@@ -36,6 +41,11 @@
       {
         "value": "白色长毛、绿目的猿猴",
         "docId": "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+        "seq": 1075
+      },
+      {
+        "value": "白色长毛、绿目",
+        "docId": "plot.fanren-1075-1080-beiming-island-xiaojigong",
         "seq": 1075
       }
     ]
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1075-1080-beiming-island-xiaoji-palace"
+    "plot.fanren-1075-1080-beiming-island-xiaoji-palace",
+    "plot.fanren-1075-1080-beiming-island-xiaojigong"
   ],
-  "updatedAt": "2026-06-15T08:59:02.622Z"
+  "updatedAt": "2026-06-18T09:36:28.937Z"
 }
