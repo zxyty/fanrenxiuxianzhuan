@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "韩立被五人围攻处，三色光晕令小半广场寸寸碎裂融化。",
   "attributes": {
-    "类型": "广场"
+    "类型": "广场",
+    "特产": "神识受限"
   },
   "observations": {
     "类型": [
       {
         "value": "广场",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "特产": [
+      {
+        "value": "神识受限",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
         "seq": 1009
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1010-xumi-wuxing-bi",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.234Z"
+  "updatedAt": "2026-06-18T04:46:32.050Z"
 }

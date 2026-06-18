@@ -9,7 +9,8 @@
   "attributes": {
     "品阶": "镇宗之宝",
     "外形": "晶光浑厚晶壁",
-    "能力": "封门挡攻、五色霞光化攻"
+    "能力": "封门挡攻、五色霞光化攻、生出浑厚晶壁封死通道、五色霞光化解攻击",
+    "来历": "须弥宗镇宗之宝，被毒圣门借用"
   },
   "observations": {
     "品阶": [
@@ -30,6 +31,23 @@
       {
         "value": "封门挡攻、五色霞光化攻",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "生出浑厚晶壁封死通道",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
+        "seq": 1009
+      },
+      {
+        "value": "五色霞光化解攻击",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
+        "seq": 1009
+      }
+    ],
+    "来历": [
+      {
+        "value": "须弥宗镇宗之宝，被毒圣门借用",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
         "seq": 1009
       }
     ]
@@ -53,12 +71,19 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1010-xumi-wuxing-bi",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.219Z"
+  "updatedAt": "2026-06-18T04:46:32.046Z"
 }

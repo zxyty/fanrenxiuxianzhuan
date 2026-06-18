@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "毒圣门之宝，服下后可与元婴后期修士周旋一段时间，代价静养十年。",
   "attributes": {
-    "类型": "霸道辅助珠",
-    "用途": "短时提升以脱身"
+    "类型": "霸道辅助珠、毒圣门秘宝",
+    "用途": "短时提升以脱身、服下短期暴增战力，可斗元婴后期"
   },
   "observations": {
     "类型": [
@@ -14,12 +14,22 @@
         "value": "霸道辅助珠",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "毒圣门秘宝",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
+        "seq": 1009
       }
     ],
     "用途": [
       {
         "value": "短时提升以脱身",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      },
+      {
+        "value": "服下短期暴增战力，可斗元婴后期",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
         "seq": 1009
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.228Z"
+  "updatedAt": "2026-06-18T04:46:32.047Z"
 }

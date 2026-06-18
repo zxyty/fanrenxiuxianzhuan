@@ -8,8 +8,9 @@
     "阵营": "叶家",
     "小阶段": "元婴后期",
     "存殁": "存活",
-    "标志特征": "大头",
-    "性格": "强势、训诫晚辈"
+    "标志特征": "大头、早年假死逃过十大宗门灭杀",
+    "性格": "强势、训诫晚辈",
+    "出身地": "叶家"
   },
   "observations": {
     "阵营": [
@@ -39,12 +40,24 @@
         "value": "大头",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "早年假死逃过十大宗门灭杀",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
+        "seq": 1009
       }
     ],
     "性格": [
       {
         "value": "强势、训诫晚辈",
         "docId": "plot.fanren-1009-yinpo-ningxing",
+        "seq": 1009
+      }
+    ],
+    "出身地": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
         "seq": 1009
       }
     ]
@@ -81,12 +94,19 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1010-xumi-wuxing-bi",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-16T04:18:42.194Z"
+  "updatedAt": "2026-06-18T04:46:32.042Z"
 }

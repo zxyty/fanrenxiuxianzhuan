@@ -7,7 +7,8 @@
   ],
   "summary": "南疆大宗之一，镇宗之宝为须弥五行壁，与毒圣门有渊源。",
   "attributes": {
-    "镇派之宝": "晶墙"
+    "镇派之宝": "晶墙",
+    "据点": "南疆"
   },
   "observations": {
     "镇派之宝": [
@@ -21,6 +22,13 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
+    ],
+    "据点": [
+      {
+        "value": "南疆",
+        "docId": "plot.fanren-1010-xumi-wuxing-bi",
+        "seq": 1009
+      }
     ]
   },
   "firstSeq": 1009,
@@ -30,13 +38,20 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1010-xumi-wuxing-bi",
+      "dated": false,
+      "seq": 1009
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1009-yinpo-ningxing",
-    "plot.fanren-1015-jinci-lingmu"
+    "plot.fanren-1015-jinci-lingmu",
+    "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-16T04:38:13.399Z"
+  "updatedAt": "2026-06-18T04:46:32.051Z"
 }
