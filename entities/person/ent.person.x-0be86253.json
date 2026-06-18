@@ -13,16 +13,17 @@
     "毒圣门花天奇",
     "花某",
     "花师弟",
-    "蓝袍红巾老者"
+    "蓝袍红巾老者",
+    "花天奇本人"
   ],
   "summary": "毒圣门大长老，被珑梦附身夺舍，成为珑梦现世的躯壳。",
   "attributes": {
     "身份": "毒圣门长老",
-    "存殁": "被夺舍、重伤/受制、躯体被夺舍",
+    "存殁": "被夺舍、重伤/受制、躯体被夺舍、躯体被珑梦夺舍占据",
     "小阶段": "元婴",
     "外貌": "脸带碧纹、蓝袍红巾、脸现碧纹、脸有碧纹、蓝袍红巾、脸上碧纹",
     "阵营": "魔道、毒圣门",
-    "标志特征": "七窍流血",
+    "标志特征": "银狼之躯",
     "性格": "阴沉多谋"
   },
   "observations": {
@@ -56,6 +57,11 @@
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033,
         "note": "珑梦自第1033章占据"
+      },
+      {
+        "value": "躯体被珑梦夺舍占据",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "小阶段": [
@@ -124,6 +130,11 @@
         "value": "七窍流血",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "银狼之躯",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "性格": [
@@ -169,9 +180,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
       "dated": false,
-      "seq": 1015
+      "seq": 1051
     },
     "性格": {
       "asOf": null,
@@ -195,7 +206,8 @@
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1010-xumi-wuxing-bi",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.fanren-1039-1044-heifengqi-baoshen-toufu"
+    "plot.fanren-1039-1044-heifengqi-baoshen-toufu",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-18T06:41:47.824Z"
+  "updatedAt": "2026-06-18T07:36:16.140Z"
 }

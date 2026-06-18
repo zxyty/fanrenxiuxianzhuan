@@ -12,7 +12,8 @@
     "据点": "大晋",
     "理念": "正道第一门",
     "所属界面": "人界",
-    "等级": "正魔第一大宗"
+    "等级": "正魔第一大宗",
+    "镇派之宝": "天阿神剑、破界符"
   },
   "observations": {
     "阵营": [
@@ -74,6 +75,18 @@
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "天阿神剑",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "破界符",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
     ]
   },
   "firstSeq": 943,
@@ -107,6 +120,12 @@
       "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
       "seq": 1027
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
@@ -125,7 +144,8 @@
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-ch1003-qunmo-yinxian",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-18T06:10:51.681Z"
+  "updatedAt": "2026-06-18T07:36:16.098Z"
 }

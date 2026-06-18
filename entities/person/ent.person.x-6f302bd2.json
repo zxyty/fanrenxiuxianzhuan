@@ -19,7 +19,9 @@
     "小阶段": "元婴",
     "性格": "沉稳谨慎",
     "出身地": "南疆化仙宗",
-    "外貌": "平凡面孔"
+    "外貌": "平凡面孔",
+    "存殁": "死亡",
+    "死因": "被古魔圣祖分神爪芒斩杀、元婴被擒"
   },
   "observations": {
     "阵营": [
@@ -110,6 +112,20 @@
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ],
+    "死因": [
+      {
+        "value": "被古魔圣祖分神爪芒斩杀、元婴被擒",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
     ]
   },
   "firstSeq": 1003,
@@ -155,6 +171,18 @@
       "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
       "dated": false,
       "seq": 1027
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
@@ -170,7 +198,8 @@
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1014-huaxian-ernv",
     "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-18T06:10:51.722Z"
+  "updatedAt": "2026-06-18T07:36:16.143Z"
 }

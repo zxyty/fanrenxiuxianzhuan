@@ -1,0 +1,53 @@
+{
+  "id": "ent.artifact.x-07f77cef",
+  "type": "artifact",
+  "name": "迷形珠",
+  "aliases": [],
+  "summary": "万妖谷谷主异宝，吞下可随意变幻形貌并遮掩妖气尸气，但法力大受限制。",
+  "attributes": {
+    "能力": "变幻形貌、遮掩妖气尸气",
+    "禁制": "服下后法力受限"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "变幻形貌",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "遮掩妖气尸气",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ],
+    "禁制": [
+      {
+        "value": "服下后法力受限",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ]
+  },
+  "firstSeq": 1051,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1051-chinian-zhenlei"
+  ],
+  "updatedAt": "2026-06-18T07:36:16.106Z"
+}

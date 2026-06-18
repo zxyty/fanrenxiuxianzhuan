@@ -7,14 +7,16 @@
     "万妖谷副谷主",
     "尸熊",
     "熊道友",
-    "白发炼尸"
+    "白发炼尸",
+    "白毛尸熊"
   ],
   "summary": "万妖谷副谷主，万年妖兽兼炼尸，化身人类散修四散真人潜行，持血刃吞噬徐姓青年。",
   "attributes": {
-    "种族": "妖兽/炼尸、妖兽（尸熊）、万年尸熊、妖族、妖、炼尸（原灵界妖兽）",
+    "种族": "妖兽/炼尸、妖兽（尸熊）、万年尸熊、妖族、妖、炼尸（原灵界妖兽）、炼尸/尸熊、万年尸熊(炼尸)",
     "等级": "妖物（修为不及向之礼）",
-    "外形": "白毛",
-    "栖息地": "万妖谷"
+    "外形": "白毛巨熊",
+    "栖息地": "万妖谷",
+    "能力": "血刃；借迷形珠变形遮掩尸气、血刃克制魔气"
   },
   "observations": {
     "种族": [
@@ -47,6 +49,16 @@
         "value": "炼尸（原灵界妖兽）",
         "docId": "plot.fanren-ch1045-tun-ying",
         "seq": 1045
+      },
+      {
+        "value": "炼尸/尸熊",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "万年尸熊(炼尸)",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "等级": [
@@ -66,6 +78,11 @@
         "value": "白毛",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045
+      },
+      {
+        "value": "白毛巨熊",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "栖息地": [
@@ -73,6 +90,18 @@
         "value": "万妖谷",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045
+      }
+    ],
+    "能力": [
+      {
+        "value": "血刃；借迷形珠变形遮掩尸气",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "血刃克制魔气",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ]
   },
@@ -92,15 +121,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
       "dated": false,
-      "seq": 1045
+      "seq": 1051
     },
     "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
       "seq": 1045
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
@@ -111,7 +146,8 @@
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-ch1045-tun-ying"
+    "plot.fanren-ch1045-tun-ying",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-18T06:54:22.340Z"
+  "updatedAt": "2026-06-18T07:36:16.141Z"
 }

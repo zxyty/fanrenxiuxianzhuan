@@ -10,7 +10,7 @@
   "summary": "玲珑赠韩立的最后一枚破界符，灵界用不上。",
   "attributes": {
     "类型": "符箓",
-    "用途": "破除空间障壁、破开空间障壁、破除/逃离禁制空间",
+    "用途": "破除空间障壁、破开空间障壁、破除/逃离禁制空间、破空间障壁",
     "产地": "玲珑仙子所赠"
   },
   "observations": {
@@ -18,7 +18,7 @@
       {
         "value": "符箓",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
-        "seq": 1063
+        "seq": 1051
       }
     ],
     "用途": [
@@ -36,6 +36,11 @@
         "value": "破除/逃离禁制空间",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "破空间障壁",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "产地": [
@@ -52,19 +57,19 @@
       }
     ]
   },
-  "firstSeq": 1063,
+  "firstSeq": 1051,
   "attrProvenance": {
     "类型": {
       "asOf": null,
       "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
       "dated": false,
-      "seq": 1063
+      "seq": 1051
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1063-xuanwo-heifengqi",
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
       "dated": false,
-      "seq": 1063
+      "seq": 1051
     },
     "产地": {
       "asOf": null,
@@ -79,7 +84,8 @@
   "docs": [
     "plot.fanren-1069-soul-devour-longmeng-awaken",
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1113-yaoqi-chongtian"
+    "plot.fanren-1113-yaoqi-chongtian",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-16T06:28:51.158Z"
+  "updatedAt": "2026-06-18T07:36:16.104Z"
 }

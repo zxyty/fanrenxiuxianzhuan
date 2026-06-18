@@ -2,10 +2,13 @@
   "id": "ent.material.x-be68210c",
   "type": "material",
   "name": "叱灵软玉",
-  "aliases": [],
+  "aliases": [
+    "灰色石碑"
+  ],
   "summary": "炼制祭坛两石碑的材料，特性不灭、空间爆裂后不易消失。",
   "attributes": {
-    "用途": "炼制石碑"
+    "用途": "炼制石碑",
+    "类型": "珍稀材料"
   },
   "observations": {
     "用途": [
@@ -13,22 +16,41 @@
         "value": "炼制石碑",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "雕石碑、法阵枢纽",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ],
+    "类型": [
+      {
+        "value": "珍稀材料",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ]
   },
-  "firstSeq": 1063,
+  "firstSeq": 1051,
   "attrProvenance": {
     "用途": {
       "asOf": null,
       "docId": "plot.fanren-1063-xuanwo-heifengqi",
       "dated": false,
       "seq": 1063
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1063-xuanwo-heifengqi"
+    "plot.fanren-1063-xuanwo-heifengqi",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-16T06:03:53.147Z"
+  "updatedAt": "2026-06-18T07:36:16.111Z"
 }

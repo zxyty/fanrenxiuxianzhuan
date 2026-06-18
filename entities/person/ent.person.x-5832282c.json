@@ -4,14 +4,17 @@
   "name": "葛笠",
   "aliases": [
     "葛道友",
-    "葛姓老者"
+    "葛姓老者",
+    "阴罗宗葛道友"
   ],
   "summary": "天台岛筑基初期老修士，坦率，本为采寿元果而来，遇险中途折返。",
   "attributes": {
     "小阶段": "筑基初期",
     "外貌": "灰衣老者",
     "出身地": "天台岛",
-    "性格": "坦率"
+    "性格": "坦率",
+    "存殁": "死亡",
+    "死因": "被叶家大长老偷袭"
   },
   "observations": {
     "小阶段": [
@@ -41,6 +44,20 @@
         "docId": "plot.fanren-c433-438-xutiandian-juji",
         "seq": 433
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ],
+    "死因": [
+      {
+        "value": "被叶家大长老偷袭",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
     ]
   },
   "firstSeq": 433,
@@ -68,12 +85,25 @@
       "docId": "plot.fanren-c433-438-xutiandian-juji",
       "dated": false,
       "seq": 433
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c433-438-xutiandian-juji"
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-14T15:15:07.606Z"
+  "updatedAt": "2026-06-18T07:36:16.095Z"
 }

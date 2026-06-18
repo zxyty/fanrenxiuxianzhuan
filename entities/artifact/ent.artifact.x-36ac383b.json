@@ -2,13 +2,20 @@
   "id": "ent.artifact.x-36ac383b",
   "type": "artifact",
   "name": "禁魔环",
-  "aliases": [],
+  "aliases": [
+    "翠绿色圆环",
+    "五枚翠环",
+    "翠环",
+    "五只翠环"
+  ],
   "summary": "古魔界入侵时灵界修士带来、专门禁困高阶古魔的上古法器；七妙真人带来五只。",
   "attributes": {
     "品阶": "上古法器",
     "来历": "灵界、灵界流传，古魔界入侵时灵界修士带来",
-    "能力": "禁困妖魔/制服高阶古魔、禁困高阶妖魔/古魔",
-    "持有者": "七妙真人"
+    "能力": "禁困妖魔/制服高阶古魔、禁困高阶妖魔/古魔、束缚锁颈/四肢、压制魔气、反弹爪击、缩小勒紧封束魔体",
+    "持有者": "七妙真人",
+    "外形": "翠绿色圆环、五只翠环",
+    "五行属性": "翠绿翠气"
   },
   "observations": {
     "品阶": [
@@ -40,6 +47,26 @@
         "value": "禁困高阶妖魔/古魔",
         "docId": "plot.fanren-ch1033-pozhen-tuokun",
         "seq": 1033
+      },
+      {
+        "value": "束缚锁颈/四肢",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "压制魔气",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "反弹爪击",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "缩小勒紧封束魔体",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ],
     "持有者": [
@@ -47,6 +74,25 @@
         "value": "七妙真人",
         "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
         "seq": 1033
+      }
+    ],
+    "外形": [
+      {
+        "value": "翠绿色圆环",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      },
+      {
+        "value": "五只翠环",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "翠绿翠气",
+        "docId": "plot.fanren-ch1051-chinian-zhenlei",
+        "seq": 1051
       }
     ]
   },
@@ -75,13 +121,26 @@
       "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
       "dated": false,
       "seq": 1033
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1051-chinian-zhenlei",
+      "dated": false,
+      "seq": 1051
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1033-poyzhen-yu-tuokun",
-    "plot.fanren-ch1033-pozhen-tuokun"
+    "plot.fanren-ch1033-pozhen-tuokun",
+    "plot.fanren-ch1051-chinian-zhenlei"
   ],
-  "updatedAt": "2026-06-18T06:10:51.687Z"
+  "updatedAt": "2026-06-18T07:36:16.150Z"
 }
