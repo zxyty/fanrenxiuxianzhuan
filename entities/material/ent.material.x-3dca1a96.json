@@ -5,14 +5,15 @@
   "aliases": [
     "落宝树",
     "金极磁木",
-    "金磁重光灵木"
+    "金磁重光灵木",
+    "金磁灵树"
   ],
   "summary": "上古灵树（外界久绝），克金属性材料、自然散发可叠加的磁光重力，坚逾金石，每棵体内铭刻大光轮降魔咒。",
   "attributes": {
-    "类型": "上古灵树/灵木、磁性灵木",
-    "用途": "天然磁力禁制、克金属性宝物、磁场拦阻、符文制敌",
-    "稀有度": "外界已灭绝",
-    "产地": "昆吾山昆吾殿外"
+    "类型": "上古灵树/灵木、磁性灵木、上古灵树",
+    "用途": "天然磁力禁制、克金属性宝物、磁场拦阻、符文制敌、天然金磁重光禁制",
+    "稀有度": "外界已灭绝、上古灭绝",
+    "产地": "昆吾山昆吾殿外、昆吾山"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
       },
       {
         "value": "磁性灵木",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "上古灵树",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
@@ -37,6 +43,11 @@
         "value": "磁场拦阻、符文制敌",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "天然金磁重光禁制",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "稀有度": [
@@ -44,11 +55,21 @@
         "value": "外界已灭绝",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "上古灭绝",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "产地": [
       {
         "value": "昆吾山昆吾殿外",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      },
+      {
+        "value": "昆吾山",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
@@ -86,5 +107,5 @@
   "docs": [
     "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-16T04:38:13.429Z"
+  "updatedAt": "2026-06-18T05:35:52.261Z"
 }

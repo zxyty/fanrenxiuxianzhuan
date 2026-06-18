@@ -16,15 +16,16 @@
     "晶化巨人",
     "黑狼",
     "此魔",
-    "圣祖大人"
+    "圣祖大人",
+    "圣祖分身"
   ],
   "summary": "古魔圣祖一缕精魂所化，古魔入侵人界三大统领之一；借玲珑（银月与珑梦合用）的原身现世，指弹金刃、灌魔驱使黑风旗。",
   "attributes": {
     "种族": "古魔",
-    "称号": "圣祖",
+    "称号": "古魔入侵人界三大统领之一、圣祖、圣族降临人界三统领之一",
     "外貌": "黑裙绝色女子、黑袍女子、黑袍美貌女子/双首银狼真身、阁楼般大黑色魔像、头生短角、紫色星辰双目、黑色魔像、双目紫光、百丈双首银狼之黑色狼首，生紫色独角、紫芒双目、黑甲女子、双首黑狼",
-    "阵营": "古魔、魔道/古魔、古魔界、古魔界圣族、魔道",
-    "身份": "古魔大统领、古魔、神念分神、圣祖、圣界三统领之一、圣族圣祖、圣祖分神",
+    "阵营": "古魔、魔道/古魔、古魔界、古魔界圣族、魔道、圣界圣族",
+    "身份": "古魔大统领、古魔、神念分神、圣祖、圣界三统领之一、圣族圣祖、圣祖分神、分魂附身灵界妖狼的化身",
     "性别": "女",
     "性格": "强横",
     "标志特征": "跨空神念现形、需真魔气支撑、紫芒/黑甲六臂",
@@ -63,7 +64,12 @@
       {
         "value": "圣祖",
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
-        "seq": 1045
+        "seq": 1015
+      },
+      {
+        "value": "圣族降临人界三统领之一",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "外貌": [
@@ -136,6 +142,11 @@
         "value": "魔道",
         "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
         "seq": 1069
+      },
+      {
+        "value": "圣界圣族",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "身份": [
@@ -173,6 +184,11 @@
         "value": "圣祖分神",
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 1063
+      },
+      {
+        "value": "分魂附身灵界妖狼的化身",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "性别": [
@@ -235,7 +251,7 @@
       "asOf": null,
       "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
-      "seq": 1045
+      "seq": 1015
     },
     "外貌": {
       "asOf": null,
@@ -245,9 +261,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1033
+      "seq": 1015
     },
     "身份": {
       "asOf": null,
@@ -299,5 +315,5 @@
     "plot.fanren-1015-jinci-lingmu",
     "plot.fanren-1063-xuanwo-heifengqi"
   ],
-  "updatedAt": "2026-06-16T06:03:53.130Z"
+  "updatedAt": "2026-06-18T05:35:52.280Z"
 }

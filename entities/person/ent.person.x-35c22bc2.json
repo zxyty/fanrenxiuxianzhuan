@@ -13,13 +13,13 @@
   ],
   "summary": "魔界古魔的分魂，主魂当年于坠魔谷被韩立灭杀，夺走韩立两口金雷竹飞剑，会施展铁翅魔秘术化影遁。",
   "attributes": {
-    "种族": "魔/古魔、古魔",
+    "种族": "魔/古魔、古魔、圣族",
     "外貌": "与韩立面容近似、瞳现黑紫异芒的青袍青年、与韩立近似的青袍青年、半魔半人、乌紫巨臂、数尺紫舌、双头四臂巨大魔物、容颜酷似韩立的普通青年、酷似韩立的青年、酷似韩立的青袍青年、酷似韩立的青年/韩长老",
-    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒",
+    "标志特征": "黑紫魔气、长紫舌、瞳孔黑紫两色异芒、瞬移极快、吞噬元婴愈伤、双首妖魔、四目黑紫精芒、双首四臂魔影/乌黑魔臂/黑色魔焰",
     "性格": "不动声色、城府深",
-    "阵营": "魔道",
+    "阵营": "圣界圣族",
     "小阶段": "元婴初期",
-    "身份": "叶家客卿『韩长老』"
+    "身份": "叶家客卿‘韩长老’"
   },
   "observations": {
     "种族": [
@@ -32,6 +32,11 @@
         "value": "古魔",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "外貌": [
@@ -102,6 +107,11 @@
         "value": "双首妖魔、四目黑紫精芒",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "双首四臂魔影/乌黑魔臂/黑色魔焰",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "性格": [
@@ -126,6 +136,11 @@
         "value": "魔道",
         "docId": "plot.fanren-973-yinyangku-minghe-page",
         "seq": 973
+      },
+      {
+        "value": "圣界圣族",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "小阶段": [
@@ -147,6 +162,12 @@
         "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
         "seq": 985,
         "note": "伪装/化形冒充,自第955章起冒充韩立形貌"
+      },
+      {
+        "value": "叶家客卿‘韩长老’",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015,
+        "note": "化名冒充，自第985章"
       }
     ]
   },
@@ -179,9 +200,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-973-yinyangku-minghe-page",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 973
+      "seq": 1015
     },
     "小阶段": {
       "asOf": null,
@@ -191,10 +212,10 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 985,
-      "note": "伪装/化形冒充,自第955章起冒充韩立形貌"
+      "seq": 1015,
+      "note": "化名冒充，自第985章"
     }
   },
   "contested": false,
@@ -207,7 +228,8 @@
     "plot.fanren-997-1002-kunwushan-qian-laomo",
     "plot.fanren-1009-yinpo-ningxing",
     "plot.fanren-1010-xumi-wuxing-bi",
-    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen"
+    "plot.fanren-1013-wanjin-yashen-kunwu-shanmen",
+    "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-18T04:51:29.269Z"
+  "updatedAt": "2026-06-18T05:35:52.277Z"
 }

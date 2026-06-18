@@ -12,16 +12,17 @@
     "大行老",
     "毒圣门花天奇",
     "花某",
-    "花师弟"
+    "花师弟",
+    "蓝袍红巾老者"
   ],
   "summary": "毒圣门大长老，被珑梦附身夺舍，成为珑梦现世的躯壳。",
   "attributes": {
     "身份": "毒圣门长老",
     "存殁": "被夺舍",
     "小阶段": "元婴",
-    "外貌": "蓝袍红巾、脸现碧纹",
+    "外貌": "脸带碧纹、蓝袍红巾、脸现碧纹、脸有碧纹、蓝袍红巾、脸上碧纹",
     "阵营": "魔道、毒圣门",
-    "标志特征": "脸带碧纹",
+    "标志特征": "七窍流血",
     "性格": "阴沉多谋"
   },
   "observations": {
@@ -78,6 +79,11 @@
         "value": "脸有碧纹",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "蓝袍红巾、脸上碧纹",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "阵营": [
@@ -107,6 +113,11 @@
         "value": "脸带碧纹",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "七窍流血",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "性格": [
@@ -140,9 +151,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
       "dated": false,
-      "seq": 1015
+      "seq": 991
     },
     "阵营": {
       "asOf": null,
@@ -152,9 +163,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1009
+      "seq": 1015
     },
     "性格": {
       "asOf": null,
@@ -178,5 +189,5 @@
     "plot.fanren-ch1003-qunmo-yinxian",
     "plot.fanren-1010-xumi-wuxing-bi"
   ],
-  "updatedAt": "2026-06-18T04:46:32.039Z"
+  "updatedAt": "2026-06-18T05:35:52.292Z"
 }

@@ -14,9 +14,9 @@
   ],
   "summary": "叶家暗图夺取的真正通天灵宝，封印中的至宝；叶家另以仿制品声东击西。",
   "attributes": {
-    "品阶": "通天灵宝(至宝)",
+    "品阶": "灵宝",
     "来历": "修仙界传说威力巨大、昆吾山、镇压于镇魔塔下层、昆吾山秘宝、传闻封于真魔塔塔底",
-    "能力": "传闻可逆转乾坤、镇压封印、传说可逆转乾坤、令势力投鼠忌器"
+    "能力": "传闻可逆转乾坤、镇压封印、传说可逆转乾坤、令势力投鼠忌器、隔离空间区域"
   },
   "observations": {
     "品阶": [
@@ -39,6 +39,11 @@
         "value": "通天灵宝级",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "灵宝",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "来历": [
@@ -83,6 +88,11 @@
         "value": "传说可逆转乾坤、令势力投鼠忌器",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      },
+      {
+        "value": "隔离空间区域",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ]
   },
@@ -90,9 +100,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1009-yinpo-ningxing",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1009
+      "seq": 1015
     },
     "来历": {
       "asOf": null,
@@ -121,7 +131,8 @@
     "plot.fanren-973-yinyangku-minghe-page",
     "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
-    "plot.fanren-1010-xumi-wuxing-bi"
+    "plot.fanren-1010-xumi-wuxing-bi",
+    "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-18T04:46:32.047Z"
+  "updatedAt": "2026-06-18T05:35:52.302Z"
 }

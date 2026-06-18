@@ -8,7 +8,11 @@
   ],
   "summary": "叶家修士，持骨环困敌；曾误称韩立为叶长老后又改口不认识。",
   "attributes": {
-    "外貌": "方脸"
+    "外貌": "方脸",
+    "身份": "叶家长老",
+    "小阶段": "元婴期",
+    "存殁": "死亡",
+    "死因": "被古魔分魂捏碎头颅、黑色魔焰焚毁躯体与元婴"
   },
   "observations": {
     "外貌": [
@@ -16,6 +20,34 @@
         "value": "方脸",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      }
+    ],
+    "身份": [
+      {
+        "value": "叶家长老",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "死因": [
+      {
+        "value": "被古魔分魂捏碎头颅、黑色魔焰焚毁躯体与元婴",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ]
   },
@@ -26,12 +58,37 @@
       "docId": "plot.fanren-1009-yinpo-ningxing",
       "dated": false,
       "seq": 1009
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1009-yinpo-ningxing"
+    "plot.fanren-1009-yinpo-ningxing",
+    "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-16T04:18:42.261Z"
+  "updatedAt": "2026-06-18T05:35:52.278Z"
 }

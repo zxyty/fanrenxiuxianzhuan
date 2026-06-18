@@ -6,7 +6,8 @@
   "summary": "圣族施展之法，可助修士进阶（成功率有限），即便不成亦大增寿元；圣祖以此为酬诱大头怪人灭狼魂。",
   "attributes": {
     "出处": "圣族",
-    "效果": "有几率助进阶、大增寿元"
+    "效果": "有几率助进阶、大增寿元、助进阶化神、增寿元",
+    "适用境界": "元婴冲化神"
   },
   "observations": {
     "出处": [
@@ -26,6 +27,18 @@
         "value": "大增寿元",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "助进阶化神、增寿元",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元婴冲化神",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ]
   },
@@ -42,6 +55,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
     }
   },
   "contested": false,
@@ -49,5 +68,5 @@
   "docs": [
     "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-16T04:38:13.432Z"
+  "updatedAt": "2026-06-18T05:35:52.329Z"
 }

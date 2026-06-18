@@ -2,10 +2,14 @@
   "id": "ent.person.x-f62d5cf5",
   "type": "person",
   "name": "昆吾三老",
-  "aliases": [],
+  "aliases": [
+    "昆吾山古修",
+    "三人望月图神念",
+    "道儒僧三小人"
+  ],
   "summary": "上古封印昆吾山被封印者的古修，其后人分为两脉，一脉创化仙宗、另一脉掌天晶碑。",
   "attributes": {
-    "身份": "昆吾山上古修士",
+    "身份": "昆吾前辈、灭绝大阵布置者、昆吾山上古修士、古修",
     "存殁": "死亡"
   },
   "observations": {
@@ -19,6 +23,11 @@
         "value": "昆吾山上古修士",
         "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
         "seq": 1027
+      },
+      {
+        "value": "古修",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "存殁": [
@@ -33,9 +42,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1027-1032-tongtian-lingbao-fanshi",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1027
+      "seq": 1015
     },
     "存殁": {
       "asOf": null,
@@ -54,5 +63,5 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T04:54:08.573Z"
+  "updatedAt": "2026-06-18T05:35:52.312Z"
 }

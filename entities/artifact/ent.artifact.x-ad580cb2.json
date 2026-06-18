@@ -5,12 +5,13 @@
   "aliases": [
     "绿色玉玺",
     "碧绿色印玺",
-    "半化龙玺"
+    "半化龙玺",
+    "刻五爪真龙印玺"
   ],
   "summary": "重固古魔封印所需之宝，对真正封印地会有反应。",
   "attributes": {
     "能力": "加固古魔封印、感应封印地、克制古魔妖魔、加固昆吾山封印",
-    "外形": "数寸绿色玉玺、五爪真龙幻影",
+    "外形": "数寸绿色玉玺、五爪真龙幻影、碧绿色印玺，雕五爪真龙、碧绿印玺、五爪真龙纹",
     "持有者": "木夫人",
     "来历": "昆吾三老控印之宝"
   },
@@ -42,6 +43,11 @@
         "value": "碧绿色印玺，雕五爪真龙",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "碧绿印玺、五爪真龙纹",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "持有者": [
@@ -69,9 +75,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 1033
+      "seq": 1015
     },
     "持有者": {
       "asOf": null,
@@ -97,5 +103,5 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1014-huaxian-ernv"
   ],
-  "updatedAt": "2026-06-18T04:54:08.581Z"
+  "updatedAt": "2026-06-18T05:35:52.324Z"
 }

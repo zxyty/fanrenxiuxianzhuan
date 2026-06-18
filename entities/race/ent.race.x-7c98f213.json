@@ -3,13 +3,15 @@
   "type": "race",
   "name": "圣族",
   "aliases": [
-    "圣界圣族"
+    "圣界圣族",
+    "圣界一族"
   ],
   "summary": "来自圣界的魔族，曾可经通道往返人界补充魔气；通道堵死后神通大减。",
   "attributes": {
     "聚居地": "圣界",
-    "代表人物": "元刹圣祖、古魔（血焰）、圣祖、古魔",
-    "特性": "寿元远超修士"
+    "代表人物": "元刹圣祖、古魔（血焰）、圣祖、古魔、血焰",
+    "特性": "寿元远超修士",
+    "天赋神通": "魔气灌注/转化"
   },
   "observations": {
     "聚居地": [
@@ -39,11 +41,23 @@
         "value": "古魔",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "血焰",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "特性": [
       {
         "value": "寿元远超修士",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "魔气灌注/转化",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
@@ -68,6 +82,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
     }
   },
   "contested": false,
@@ -76,5 +96,5 @@
     "plot.fanren-1039-hei-feng-qi",
     "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-16T04:38:13.434Z"
+  "updatedAt": "2026-06-18T05:35:52.304Z"
 }

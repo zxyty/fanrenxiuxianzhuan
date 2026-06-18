@@ -1,21 +1,18 @@
 {
-  "id": "ent.beast.x-19db8a61",
-  "type": "beast",
-  "name": "木魁",
+  "id": "ent.technique.x-c4291cea",
+  "type": "technique",
+  "name": "融魂",
   "aliases": [
-    "绿色树妖",
-    "怪树妖物",
-    "绿色妖物",
-    "树妖木魁"
+    "融灵秘术"
   ],
-  "summary": "浑身覆树皮的大妖，修为在银翅夜叉之上，偷袭木夫人夺宝时被昆吾三老神念驱宝一击连元神蒸发。",
+  "summary": "圣祖为不被逼出躯体，与银月第二精魂合二为一化新魂的秘术，以银月神识为主、圣祖为辅。",
   "attributes": {
-    "种族": "树妖"
+    "效果": "两魂合二为一化新魂"
   },
   "observations": {
-    "种族": [
+    "效果": [
       {
-        "value": "树妖",
+        "value": "两魂合二为一化新魂",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
@@ -23,7 +20,7 @@
   },
   "firstSeq": 1015,
   "attrProvenance": {
-    "种族": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
@@ -35,5 +32,5 @@
   "docs": [
     "plot.fanren-1015-jinci-lingmu"
   ],
-  "updatedAt": "2026-06-18T05:35:52.315Z"
+  "updatedAt": "2026-06-18T05:35:52.303Z"
 }

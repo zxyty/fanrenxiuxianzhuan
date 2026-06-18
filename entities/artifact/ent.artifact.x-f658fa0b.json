@@ -9,12 +9,14 @@
     "金银色巨梭",
     "金银色小梭",
     "金银巨梭",
-    "金银梭"
+    "金银梭",
+    "金银色尖梭",
+    "金银小梭"
   ],
   "summary": "三大灵梭之一，可在昆吾山裂缝中开路冒险通行。",
   "attributes": {
     "能力": "裂缝开路通行、藏身、遁地、攻防一体、金银双梭合一为巨梭、合体载人遁行",
-    "外形": "金银双梭",
+    "外形": "金银双梭、两头尖、金银巨梭、金银色巨梭、金银巨梭、金银相间巨梭",
     "持有者": "木夫人",
     "品阶": "人界三大灵梭之一",
     "来历": "三灵梭之一"
@@ -67,6 +69,11 @@
         "value": "金银巨梭",
         "docId": "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
         "seq": 1021
+      },
+      {
+        "value": "金银相间巨梭",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ],
     "持有者": [
@@ -101,9 +108,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch1033-poyzhen-yu-tuokun",
+      "docId": "plot.fanren-1003-qunmo-yinxian",
       "dated": false,
-      "seq": 1033
+      "seq": 1003
     },
     "持有者": {
       "asOf": null,
@@ -133,5 +140,5 @@
     "plot.fanren-1021-1026-guiling-subdued-ambush-qianlaomo",
     "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T04:04:13.843Z"
+  "updatedAt": "2026-06-18T05:35:52.324Z"
 }

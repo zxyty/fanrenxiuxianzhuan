@@ -22,7 +22,9 @@
     "银月道友",
     "儒生的双修伴侣",
     "白衣婢女",
-    "艳美少妇"
+    "艳美少妇",
+    "银白色狼首",
+    "银月狼魂"
   ],
   "summary": "银月狼族妖灵，本为玉如意器灵，以灵魂吞噬夺舍四瞳灵狐躯体后自愿转为韩立青竹蜂云剑器灵。",
   "attributes": {
@@ -31,7 +33,8 @@
     "外形": "银色巨狼、白狐、少妇、雪白皮毛、乌黑眼珠的白狐、妙龄女子、小狐、雪白小狐、白色小狐、白衫妩媚少妇、丈余银色巨狼、身高丈许的银色巨狼（红黄二狼合体）、优雅温雅的少妇人形（黑瞳）、迷你银狼、白狐/艳丽少妇、少妇/白狐、二十余岁娇媚少妇、美艳少妇、白狐/小狐、白衣艳美少妇、艳美少妇、另一个韩立、银月女子",
     "主人": "韩立",
     "天敌": "妖气无法瞒过元婴期修士",
-    "等级": "七级"
+    "等级": "灵界灵妖",
+    "栖息地": "灵界"
   },
   "observations": {
     "种族": [
@@ -422,6 +425,18 @@
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781,
         "note": "所附妖狐之体修为"
+      },
+      {
+        "value": "灵界灵妖",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1015-jinci-lingmu",
+        "seq": 1015
       }
     ]
   },
@@ -459,10 +474,15 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-781-nangong-jingbian",
+      "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
-      "seq": 781,
-      "note": "所附妖狐之体修为"
+      "seq": 1015
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1015-jinci-lingmu",
+      "dated": false,
+      "seq": 1015
     }
   },
   "contested": false,
@@ -549,5 +569,5 @@
     "plot.fmxxz-ch889-tianshui-river-green-bat",
     "plot.fanren-ch1003-qunmo-yinxian"
   ],
-  "updatedAt": "2026-06-18T04:04:13.858Z"
+  "updatedAt": "2026-06-18T05:35:52.308Z"
 }
