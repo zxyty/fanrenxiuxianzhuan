@@ -2,12 +2,16 @@
   "id": "ent.technique.x-64e17a8e",
   "type": "technique",
   "name": "玄阴魔功",
-  "aliases": [],
+  "aliases": [
+    "玄阴**魔功",
+    "极阴魔功"
+  ],
   "summary": "极阴祖师所修魔功，放出漆黑阴气与鬼影笼罩石室。",
   "attributes": {
-    "五行属性": "阴",
-    "效果": "释放玄阴魔气、操控阴煞魔影",
-    "外显异象": "漆黑阴气/鬼哭狼嚎/高大鬼影"
+    "五行属性": "阴/魔",
+    "效果": "修炼者可产生精纯玄阴魔气",
+    "外显异象": "漆黑阴气/鬼哭狼嚎/高大鬼影",
+    "适用境界": "魔道修士"
   },
   "observations": {
     "五行属性": [
@@ -15,6 +19,11 @@
         "value": "阴",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "阴/魔",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ],
     "效果": [
@@ -22,6 +31,11 @@
         "value": "释放玄阴魔气、操控阴煞魔影",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "修炼者可产生精纯玄阴魔气",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ],
     "外显异象": [
@@ -30,34 +44,48 @@
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
       }
+    ],
+    "适用境界": [
+      {
+        "value": "魔道修士",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      }
     ]
   },
   "firstSeq": 1141,
   "attrProvenance": {
     "五行属性": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
       "dated": false,
-      "seq": 1141
+      "seq": 1177
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
       "dated": false,
-      "seq": 1141
+      "seq": 1177
     },
     "外显异象": {
       "asOf": null,
       "docId": "plot.fanren-1143-yinsha-xueshi",
       "dated": false,
       "seq": 1141
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1141-1146-capture-jiyin-zushi",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.ch1179-inner-valley-seek-three-women"
   ],
-  "updatedAt": "2026-06-18T11:55:02.646Z"
+  "updatedAt": "2026-06-19T09:55:58.664Z"
 }

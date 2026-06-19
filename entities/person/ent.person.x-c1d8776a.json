@@ -11,14 +11,17 @@
     "白裙女子",
     "白风峰宋姓女子",
     "宋姓女",
-    "宋姓师侄"
+    "宋姓师侄",
+    "宋姓女子三人",
+    "三女"
   ],
   "summary": "落云宗白凤峰峰主，柳眉的上司。",
   "attributes": {
     "性别": "女",
     "身份": "落云宗长老",
     "小阶段": "元婴期",
-    "阵营": "天南"
+    "阵营": "天南",
+    "标志特征": "共三人，宋姓，不冒失"
   },
   "observations": {
     "性别": [
@@ -103,6 +106,13 @@
         "docId": "plot.fanren-763-768-border-war-gamble-battle",
         "seq": 763
       }
+    ],
+    "标志特征": [
+      {
+        "value": "共三人，宋姓，不冒失",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      }
     ]
   },
   "firstSeq": 637,
@@ -130,6 +140,12 @@
       "docId": "plot.fanren-763-768-border-war-gamble-battle",
       "dated": false,
       "seq": 763
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
@@ -149,7 +165,8 @@
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
     "plot.fanren-757-bingxuecan-yu-gengjing",
     "plot.fanren-ch763-antian-zhanqian-anshou",
-    "plot.fanren-793-798-zhuimo-valley-hanli-return"
+    "plot.fanren-793-798-zhuimo-valley-hanli-return",
+    "plot.ch1179-inner-valley-seek-three-women"
   ],
-  "updatedAt": "2026-06-17T13:15:57.693Z"
+  "updatedAt": "2026-06-19T09:55:58.642Z"
 }

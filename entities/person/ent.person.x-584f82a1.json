@@ -9,17 +9,20 @@
     "黑绿色元婴",
     "黑绿元婴",
     "黑色小人",
-    "至木灵婴所化第二元婴"
+    "至木灵婴所化第二元婴",
+    "韩立分魂元婴",
+    "元婴分身"
   ],
   "summary": "韩立至木灵婴所化的第二元婴，自生神识脱离掌控，夺舍占据天煞魔尸躯体，欲修成后吞噬韩立元神取而代之。",
   "attributes": {
     "小阶段": "中期元婴",
     "外貌": "漆黑长袍、骷髅般头颅、獠牙寸许、一臂如金银打造、黑袍高大黑影、黑袍骷髅头颅、寸长獠牙、一臂金银光灿",
-    "身份": "韩立第二元婴/第二化身、韩立第二元婴、韩立分身元婴、韩立失控的第二元婴",
-    "标志特征": "夺舍天煞魔尸躯体、黑绿色元婴，手持阴罗幡",
+    "身份": "韩立第二元婴/第二化身、韩立第二元婴、韩立分身元婴、韩立失控的第二元婴、独立元婴、韩立元婴",
+    "标志特征": "夺舍天煞魔尸躯体、黑绿色元婴，手持阴罗幡、记忆情感完全复制自韩立、已自行产生神识、主动返回天南藏于坠魔谷、与韩立本体分离后自行发展，据推断已取得新躯体",
     "存殁": "被擒（虚天鼎中）",
     "结局": "被同化、附体操纵人形傀儡",
-    "性格": "凶煞、城府深"
+    "性格": "凶煞、城府深",
+    "阵营": "敌对"
   },
   "observations": {
     "小阶段": [
@@ -75,6 +78,18 @@
         "value": "韩立失控的第二元婴",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
+      },
+      {
+        "value": "独立元婴",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177,
+        "note": "源自韩立本体，已自立多年"
+      },
+      {
+        "value": "韩立元婴",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177,
+        "note": "已独立叛离，成为敌人"
       }
     ],
     "标志特征": [
@@ -87,6 +102,26 @@
       {
         "value": "黑绿色元婴，手持阴罗幡",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "记忆情感完全复制自韩立",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "已自行产生神识",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "主动返回天南藏于坠魔谷",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "与韩立本体分离后自行发展，据推断已取得新躯体",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
         "seq": 1177
       }
     ],
@@ -109,6 +144,13 @@
         "value": "凶煞、城府深",
         "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
         "seq": 1171
+      }
+    ],
+    "阵营": [
+      {
+        "value": "敌对",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ]
   },
@@ -158,6 +200,12 @@
       "docId": "plot.fanren-1173-second-yuanying-tiansha-corpse",
       "dated": false,
       "seq": 1171
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
@@ -171,7 +219,8 @@
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-ch883-leng-mo",
-    "plot.fanren-1173-second-yuanying-tiansha-corpse"
+    "plot.fanren-1173-second-yuanying-tiansha-corpse",
+    "plot.ch1179-inner-valley-seek-three-women"
   ],
-  "updatedAt": "2026-06-18T12:42:43.235Z"
+  "updatedAt": "2026-06-19T09:55:58.703Z"
 }

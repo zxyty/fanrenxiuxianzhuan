@@ -8,11 +8,12 @@
   ],
   "summary": "用更厉害上古禁制将坠魔谷中心圈禁的核心区，外有十余条禁制重重的通道与血色禁制之光，火蟾兽与古修遗骸在其中。",
   "attributes": {
-    "类型": "禁地核心区、灵气紊乱秘境、禁地/谷、上古战场核心区、谷地内区",
+    "类型": "禁地核心区、灵气紊乱秘境、禁地/谷、上古战场核心区、谷地内区、秘境内区、秘境内部",
     "危险度": "极高、高、高（空间裂缝、上古禁制、禁空禁制、灵禽失控）、极高（空间裂缝密度为外界十倍以上）",
     "守护": "血色禁制、北极元光通道、火蟾兽、血色上古禁制、北极元光",
     "所属势力": "坠魔谷",
-    "特产": "火蟾妖丹、灵烛果"
+    "特产": "火蟾妖丹、灵烛果、神识压制环境",
+    "所属界面": "天南修仙界"
   },
   "observations": {
     "类型": [
@@ -40,6 +41,16 @@
         "value": "谷地内区",
         "docId": "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
         "seq": 823
+      },
+      {
+        "value": "秘境内区",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "秘境内部",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ],
     "危险度": [
@@ -108,6 +119,19 @@
         "value": "灵烛果",
         "docId": "plot.fanren-ch811-gang-yin-sha",
         "seq": 811
+      },
+      {
+        "value": "神识压制环境",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177,
+        "note": "神识探查受限，需借灵兽载体"
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天南修仙界",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ]
   },
@@ -142,6 +166,12 @@
       "docId": "plot.fanren-ch811-gang-yin-sha",
       "dated": false,
       "seq": 811
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
@@ -152,7 +182,8 @@
     "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
     "plot.fanren-805-810-zhuimogu-killing-intent",
     "plot.fanren-ch811-816-zhuimogu-neigu-tanbao",
-    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+    "plot.ch1179-inner-valley-seek-three-women"
   ],
-  "updatedAt": "2026-06-17T13:56:43.810Z"
+  "updatedAt": "2026-06-19T09:55:58.697Z"
 }

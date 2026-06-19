@@ -15,10 +15,10 @@
   "attributes": {
     "性别": "女",
     "身份": "御灵宗弟子、御灵宗弟子、融合灵婴候选者、韩立弟子、韩立记名弟子、落云宗弟子、落云宗元婴长老以下第一人、落云宗修士、天道盟修士、御灵宗融合灵婴候选者、记名弟子、白凤峰副峰主",
-    "标志特征": "木灵根",
+    "标志特征": "身上携有六翼霜蚣幼虫",
     "阵营": "落云宗",
     "外貌": "高挑白衣美女、白衣、容貌娇柔、肤如吹弹可破、白袍女修、高挑白衣美貌、白衣、容貌娇柔",
-    "存殁": "失踪",
+    "存殁": "下落不明",
     "种族": "人",
     "小阶段": "结丹",
     "出身地": "魔道"
@@ -99,6 +99,11 @@
         "value": "木灵根",
         "docId": "plot.fanren-666-liuyu",
         "seq": 667
+      },
+      {
+        "value": "身上携有六翼霜蚣幼虫",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177
       }
     ],
     "阵营": [
@@ -151,6 +156,12 @@
         "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
         "seq": 1171,
         "note": "疑困坠魔谷内谷"
+      },
+      {
+        "value": "下落不明",
+        "docId": "plot.ch1179-inner-valley-seek-three-women",
+        "seq": 1177,
+        "note": "被掳走，韩立正在追踪"
       }
     ],
     "种族": [
@@ -206,9 +217,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-666-liuyu",
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
       "dated": false,
-      "seq": 667
+      "seq": 1177
     },
     "阵营": {
       "asOf": null,
@@ -224,10 +235,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
+      "docId": "plot.ch1179-inner-valley-seek-three-women",
       "dated": false,
-      "seq": 1171,
-      "note": "疑困坠魔谷内谷"
+      "seq": 1177,
+      "note": "被掳走，韩立正在追踪"
     },
     "种族": {
       "asOf": null,
@@ -267,7 +278,8 @@
     "plot.fanren-666-liuyu",
     "plot.fanren-781-nangong-jingbian",
     "plot.fanren-ch1167-1172-return-to-luoyun-sect",
-    "plot.fanren-1173-second-yuanying-tiansha-corpse"
+    "plot.fanren-1173-second-yuanying-tiansha-corpse",
+    "plot.ch1179-inner-valley-seek-three-women"
   ],
-  "updatedAt": "2026-06-18T12:42:43.507Z"
+  "updatedAt": "2026-06-19T09:55:58.705Z"
 }
