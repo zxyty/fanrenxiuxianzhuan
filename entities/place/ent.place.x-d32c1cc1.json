@@ -1,0 +1,64 @@
+{
+  "id": "ent.place.x-d32c1cc1",
+  "type": "place",
+  "name": "黑气洞窟",
+  "aliases": [
+    "洞窟"
+  ],
+  "summary": "韩立此番闯入的场所，内有古怪法阵和被困三女，浓重黑气充斥其中。",
+  "attributes": {
+    "类型": "洞窟",
+    "危险度": "高",
+    "特产": "持续喷出黑气的古怪法阵"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "洞窟",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "特产": [
+      {
+        "value": "持续喷出黑气的古怪法阵",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.680Z"
+}

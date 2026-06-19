@@ -1,0 +1,41 @@
+{
+  "id": "ent.formation.x-37646ddc",
+  "type": "formation",
+  "name": "古怪法阵",
+  "aliases": [
+    "黑气法阵"
+  ],
+  "summary": "洞窟深处持续喷出黑色雾气的异常法阵，黑气可凝聚成黑蛇主动攻击入侵者，三名女修被困于法阵之下。",
+  "attributes": {
+    "效果": "持续喷出黑色雾气、黑气可自行凝聚成黑蛇攻击入侵者"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "持续喷出黑色雾气",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      },
+      {
+        "value": "黑气可自行凝聚成黑蛇攻击入侵者",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.679Z"
+}

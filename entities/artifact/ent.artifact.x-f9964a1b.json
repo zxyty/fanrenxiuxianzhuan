@@ -1,0 +1,65 @@
+{
+  "id": "ent.artifact.x-f9964a1b",
+  "type": "artifact",
+  "name": "蓝濛濛的圆珠",
+  "aliases": [
+    "晶莹圆珠",
+    "感知珠"
+  ],
+  "summary": "高大黑影持有的遥感法器，与其所布禁制相连，禁制被破后珠面出现裂缝以作警示",
+  "attributes": {
+    "持有者": "高大黑影",
+    "能力": "感知远处禁制状态，禁制被破则珠面现裂缝",
+    "外形": "蓝濛濛晶莹光滑圆珠"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "高大黑影",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "能力": [
+      {
+        "value": "感知远处禁制状态，禁制被破则珠面现裂缝",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "外形": [
+      {
+        "value": "蓝濛濛晶莹光滑圆珠",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.692Z"
+}

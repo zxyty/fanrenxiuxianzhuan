@@ -35,7 +35,7 @@
     "称号": "慕师叔",
     "出身地": "落云宗",
     "性格": "聪慧乖巧",
-    "存殁": "死亡",
+    "存殁": "失踪、死亡、下落不明、生存（被困）",
     "死因": "突破元婴时心魔趁虚、法力反噬",
     "标志特征": "处子之身"
   },
@@ -334,6 +334,12 @@
         "docId": "plot.ch1179-inner-valley-seek-three-women",
         "seq": 1177,
         "note": "本片段时失踪，推断尚存活"
+      },
+      {
+        "value": "生存（被困）",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177,
+        "note": "第1180章，趴伏内洞中心"
       }
     ],
     "死因": [
@@ -403,9 +409,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "docId": "plot.fanren-1173-second-yuanying-tiansha-moshi",
       "dated": false,
-      "seq": 1249
+      "seq": 1171,
+      "note": "疑困坠魔谷内谷"
     },
     "死因": {
       "asOf": null,
@@ -473,7 +480,8 @@
     "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
     "plot.fanren-ch1167-1172-return-to-luoyun-sect",
     "plot.fanren-1173-second-yuanying-tiansha-corpse",
-    "plot.ch1179-inner-valley-seek-three-women"
+    "plot.ch1179-inner-valley-seek-three-women",
+    "plot.ch1180-rescue-lava-lake-mupeilin"
   ],
-  "updatedAt": "2026-06-19T09:55:58.726Z"
+  "updatedAt": "2026-06-19T10:12:28.701Z"
 }

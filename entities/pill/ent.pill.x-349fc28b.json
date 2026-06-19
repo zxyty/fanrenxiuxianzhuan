@@ -1,0 +1,51 @@
+{
+  "id": "ent.pill.x-349fc28b",
+  "type": "pill",
+  "name": "碧绿玉瓶丹丸",
+  "aliases": [
+    "香气扑鼻的丹丸",
+    "救治丹丸"
+  ],
+  "summary": "韩立从碧绿玉瓶中取出的丹丸，用于救醒被困昏迷的三名结丹女修，约一盏茶见效",
+  "attributes": {
+    "功效": "解除昏迷、恢复神志",
+    "适用境界": "结丹期"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "解除昏迷、恢复神志",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹期",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.693Z"
+}

@@ -6,14 +6,16 @@
     "姥姥",
     "妖婴",
     "绿光小人",
-    "绿油油小人"
+    "绿油油小人",
+    "走失的第二元婴"
   ],
   "summary": "以炫光化物决隐身、女童声音、气息仅元婴初期却能直接吞噬修士生魂与元婴以增长修为的半尺绿光小人，来历不明。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴初期",
     "外貌": "半尺高、面目清秀、绿光濛濛、仿佛一丝不挂的小人",
-    "标志特征": "可直接吞噬修士生魂/元婴增进修为"
+    "标志特征": "可直接吞噬修士生魂/元婴增进修为、能模仿韩立形貌、以银针封禁他人法力、具备独立行动能力",
+    "身份": "韩立元婴分身（已走失，自立行事）"
   },
   "observations": {
     "性别": [
@@ -44,6 +46,28 @@
         "value": "可直接吞噬修士生魂/元婴增进修为",
         "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
         "seq": 643
+      },
+      {
+        "value": "能模仿韩立形貌",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      },
+      {
+        "value": "以银针封禁他人法力",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      },
+      {
+        "value": "具备独立行动能力",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "身份": [
+      {
+        "value": "韩立元婴分身（已走失，自立行事）",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
       }
     ]
   },
@@ -74,12 +98,19 @@
       "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
       "dated": false,
       "seq": 643
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch642-dianfeng-peiyuan-gong"
+    "plot.fanren-ch642-dianfeng-peiyuan-gong",
+    "plot.ch1180-rescue-lava-lake-mupeilin"
   ],
-  "updatedAt": "2026-06-14T20:41:21.893Z"
+  "updatedAt": "2026-06-19T10:12:28.699Z"
 }

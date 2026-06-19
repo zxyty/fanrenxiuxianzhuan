@@ -1,0 +1,53 @@
+{
+  "id": "ent.place.x-689ff76a",
+  "type": "place",
+  "name": "熔岩湖",
+  "aliases": [
+    "赤红熔岩湖",
+    "熔岩湖底"
+  ],
+  "summary": "韩立潜入的熔岩湖，湖底二百余丈深处藏有蓝色光幕禁制，其下连通地下石窟系统",
+  "attributes": {
+    "危险度": "极高（赤红熔岩，高温）",
+    "特产": "湖底蓝色光幕禁制及地下洞窟入口"
+  },
+  "observations": {
+    "危险度": [
+      {
+        "value": "极高（赤红熔岩，高温）",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "特产": [
+      {
+        "value": "湖底蓝色光幕禁制及地下洞窟入口",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177,
+        "note": "第1180章发现"
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177,
+      "note": "第1180章发现"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.673Z"
+}

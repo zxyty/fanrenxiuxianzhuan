@@ -529,3 +529,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T12:25:04.112Z** `ingest` plot.fanren-ch1167-1172-return-to-luoyun-sect — 凡人修仙传 第1167-1172章｜前世今生·重归落云宗·坠魔谷被擒 · kind=plot asOf=2026-06-18 entities=35 relations=35 src=01165-01170.md
 - **2026-06-18T12:42:43.980Z** `ingest` plot.fanren-1173-second-yuanying-tiansha-corpse — 第1173章 第二元婴失控夺舍天煞魔尸，擒慕沛灵三女 · kind=plot asOf=2026-06-18 entities=53 relations=67 src=01171-01176.md
 - **2026-06-19T09:55:58.853Z** `ingest` plot.ch1179-inner-valley-seek-three-women — 第1179章·血月觅灵——韩立内谷以噬金虫搜寻宋姓三女 · kind=plot asOf=2026-06-19 entities=30 relations=38 src=01177-01182.p1.md
+- **2026-06-19T10:12:28.827Z** `ingest` plot.ch1180-rescue-lava-lake-mupeilin — 第1180章·解救——韩立潜入熔岩湖底寻获慕沛灵三女 · kind=plot asOf=2026-06-19 entities=21 relations=21 src=01177-01182.p2.md

@@ -1,0 +1,52 @@
+{
+  "id": "ent.place.x-15e53f65",
+  "type": "place",
+  "name": "地下石窟",
+  "aliases": [
+    "天然石窟",
+    "内洞窟",
+    "地下隧道"
+  ],
+  "summary": "熔岩湖底禁制之下的天然地下空间，包含一条长约五六里的隧道与至少两层洞窟；深处洞窟充满漆黑雾气并有禁制，慕沛灵三女被困于此",
+  "attributes": {
+    "类型": "天然地下石窟（含隧道+多层洞窟）",
+    "危险度": "内洞存在漆黑雾气与毁器禁制"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "天然地下石窟（含隧道+多层洞窟）",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ],
+    "危险度": [
+      {
+        "value": "内洞存在漆黑雾气与毁器禁制",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
+    ]
+  },
+  "firstSeq": 1177,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.ch1180-rescue-lava-lake-mupeilin"
+  ],
+  "updatedAt": "2026-06-19T10:12:28.674Z"
+}

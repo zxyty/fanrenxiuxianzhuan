@@ -4,14 +4,16 @@
   "name": "万丈魔渊",
   "aliases": [
     "魔渊",
-    "魔渊入口"
+    "魔渊入口",
+    "七灵岛魔渊"
   ],
   "summary": "韩立所得魔髓钻自然凝炼之地。",
   "attributes": {
-    "特产": "精纯魔气",
+    "特产": "魔髓钻、精纯魔气、魔气",
     "危险度": "极高",
     "类型": "魔气深渊",
-    "守护": "石柱光幕封印"
+    "守护": "石柱光幕封印",
+    "所属界面": "人间界"
   },
   "observations": {
     "特产": [
@@ -23,6 +25,11 @@
       {
         "value": "精纯魔气",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "魔气",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
         "seq": 1177
       }
     ],
@@ -46,15 +53,22 @@
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
         "seq": 1177
       }
+    ],
+    "所属界面": [
+      {
+        "value": "人间界",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
+      }
     ]
   },
   "firstSeq": 949,
   "attrProvenance": {
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+      "docId": "plot.fanren-ch949-miaoyin-baojing",
       "dated": false,
-      "seq": 1177
+      "seq": 949
     },
     "危险度": {
       "asOf": null,
@@ -73,13 +87,20 @@
       "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
       "dated": false,
       "seq": 1177
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch949-miaoyin-baojing",
-    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "plot.ch1180-rescue-lava-lake-mupeilin"
   ],
-  "updatedAt": "2026-06-16T06:37:19.279Z"
+  "updatedAt": "2026-06-19T10:12:28.695Z"
 }

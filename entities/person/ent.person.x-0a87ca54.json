@@ -5,15 +5,17 @@
   "aliases": [
     "高大黑影",
     "高大人影",
-    "黑气中高大人影"
+    "黑气中高大人影",
+    "万丈魔渊黑影",
+    "嘶哑声音者"
   ],
   "summary": "大王之子，墓室左棺尸王；因派出的化身被看破收走而失一分神、并丢失金刚罩，暴怒。",
   "attributes": {
     "性别": "男",
-    "身份": "尸王、大王之子",
-    "外貌": "黑气缭绕的高大人影、高大人影，绿毛手臂，血红双目",
+    "身份": "尸王、大王之子、不明魔修/走魔道者",
+    "外貌": "黑气缭绕的高大人影、高大人影，绿毛手臂，血红双目、高大黑影，魔气包裹，双目精光四射",
     "种族": "万年尸王",
-    "标志特征": "尸气无法收敛入身"
+    "标志特征": "嘶哑声音"
   },
   "observations": {
     "性别": [
@@ -33,6 +35,12 @@
         "value": "大王之子",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "不明魔修/走魔道者",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177,
+        "note": "正进行魔气灌体，身份未披露"
       }
     ],
     "外貌": [
@@ -45,6 +53,11 @@
         "value": "高大人影，绿毛手臂，血红双目",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "高大黑影，魔气包裹，双目精光四射",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
       }
     ],
     "种族": [
@@ -59,6 +72,11 @@
         "value": "尸气无法收敛入身",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "嘶哑声音",
+        "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+        "seq": 1177
       }
     ]
   },
@@ -90,15 +108,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
       "dated": false,
-      "seq": 901
+      "seq": 1177
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.ch1180-rescue-lava-lake-mupeilin"
   ],
-  "updatedAt": "2026-06-16T00:43:53.284Z"
+  "updatedAt": "2026-06-19T10:12:28.689Z"
 }
