@@ -1,24 +1,24 @@
 {
-  "id": "ent.technique.x-f878ccfc",
-  "type": "technique",
-  "name": "三千翠",
+  "id": "ent.item.x-94676697",
+  "type": "item",
+  "name": "神秘玉简地图",
   "aliases": [],
-  "summary": "萱仙子修炼的神通，据说厉害非常。",
+  "summary": "神秘修士离城前所留玉简，内含残缺大半的巨型地图，缺口边缘有一淡金光点。",
   "attributes": {
-    "适用境界": "化神期",
-    "效果": "据说厉害非常"
+    "类型": "地图玉简",
+    "用途": "韩立离城要事线索"
   },
   "observations": {
-    "适用境界": [
+    "类型": [
       {
-        "value": "化神期",
+        "value": "地图玉简",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
-    "效果": [
+    "用途": [
       {
-        "value": "据说厉害非常",
+        "value": "韩立离城要事线索",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 1351,
   "attrProvenance": {
-    "适用境界": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
       "seq": 1351
     },
-    "效果": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:51:18.916Z"
+  "updatedAt": "2026-06-20T09:51:18.949Z"
 }

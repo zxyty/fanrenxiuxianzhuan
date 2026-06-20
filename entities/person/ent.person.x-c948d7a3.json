@@ -9,8 +9,8 @@
   "attributes": {
     "小阶段": "炼虚后期",
     "称号": "青元子",
-    "标志特征": "青色剑光、七十二口飞剑剑阵",
-    "结局": "进入蛮荒后再无消息",
+    "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法",
+    "结局": "进入蛮荒后再无消息、进入蛮荒后失踪",
     "存殁": "下落不明",
     "身份": "青元剑诀创立者"
   },
@@ -34,12 +34,22 @@
         "value": "青色剑光、七十二口飞剑剑阵",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "七十二口青色飞剑剑阵、自创功法",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "结局": [
       {
         "value": "进入蛮荒后再无消息",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "进入蛮荒后失踪",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
@@ -102,7 +112,8 @@
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1369-1374-heiye-senlin-muzu",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T19:14:17.500Z"
+  "updatedAt": "2026-06-20T09:51:18.987Z"
 }

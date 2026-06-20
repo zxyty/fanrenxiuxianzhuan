@@ -2,18 +2,26 @@
   "id": "ent.spell.x-cb8737fd",
   "type": "spell",
   "name": "黑炎焰",
-  "aliases": [],
+  "aliases": [
+    "黑炎"
+  ],
   "summary": "黑凤族天赋神通，黑色火焰，怪鸟沾染一丝即化灰烬，飓风雷电击之泥牛入海。",
   "attributes": {
-    "类型": "天赋神通",
+    "类型": "天赋神通、黑凤族天赋神通",
     "出处": "黑凤族",
-    "威力": "沾染即化灰烬"
+    "威力": "沾染即化灰烬",
+    "适用境界": "化神"
   },
   "observations": {
     "类型": [
       {
         "value": "天赋神通",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "黑凤族天赋神通",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
@@ -28,6 +36,13 @@
       {
         "value": "沾染即化灰烬",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ]
@@ -51,12 +66,19 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:02:15.402Z"
+  "updatedAt": "2026-06-20T09:51:18.994Z"
 }

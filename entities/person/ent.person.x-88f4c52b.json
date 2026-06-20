@@ -10,10 +10,12 @@
   ],
   "summary": "天渊城高层，出关后改变计划坚持派飞升精英赴异族之地。",
   "attributes": {
-    "身份": "天渊城高层、天渊城长老会成员、老僧、玄天之宝研究者",
+    "身份": "天渊城高层、天渊城长老会成员、老僧、玄天之宝研究者、天渊城高层/任务策划者、天渊城长老会",
     "种族": "人族",
     "称号": "金越大师、大师",
-    "外貌": "老僧"
+    "外貌": "老僧",
+    "性格": "沉稳缜密",
+    "标志特征": "钻研玄天之宝最多"
   },
   "observations": {
     "身份": [
@@ -35,6 +37,16 @@
       {
         "value": "玄天之宝研究者",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "天渊城高层/任务策划者",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      },
+      {
+        "value": "天渊城长老会",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
@@ -61,6 +73,20 @@
       {
         "value": "老僧",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "性格": [
+      {
+        "value": "沉稳缜密",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "钻研玄天之宝最多",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ]
@@ -90,12 +116,25 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:02:15.395Z"
+  "updatedAt": "2026-06-20T09:51:18.981Z"
 }

@@ -1,24 +1,24 @@
 {
-  "id": "ent.technique.x-f878ccfc",
-  "type": "technique",
-  "name": "三千翠",
+  "id": "ent.formation.x-40b9aaff",
+  "type": "formation",
+  "name": "天木梦罗",
   "aliases": [],
-  "summary": "萱仙子修炼的神通，据说厉害非常。",
+  "summary": "木灵族笼罩黑石森林的大阵/神通，化神以上者一入即暴露行迹。",
   "attributes": {
-    "适用境界": "化神期",
-    "效果": "据说厉害非常"
+    "效果": "笼罩黑石森林，化神以上者入内即暴露行迹",
+    "布置者": "木灵族"
   },
   "observations": {
-    "适用境界": [
+    "效果": [
       {
-        "value": "化神期",
+        "value": "笼罩黑石森林，化神以上者入内即暴露行迹",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
-    "效果": [
+    "布置者": [
       {
-        "value": "据说厉害非常",
+        "value": "木灵族",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 1351,
   "attrProvenance": {
-    "适用境界": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
       "seq": 1351
     },
-    "效果": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:51:18.916Z"
+  "updatedAt": "2026-06-20T09:51:18.951Z"
 }

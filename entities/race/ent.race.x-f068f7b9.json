@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "混沌谷一侧现身的妖族势力，以妖气化灰白妖雾，疑欲趁火打劫。",
   "attributes": {
-    "阵营": "妖族"
+    "阵营": "与人族联盟",
+    "聚居地": "风元大陆西北角"
   },
   "observations": {
     "阵营": [
@@ -13,6 +14,18 @@
         "value": "妖族",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "与人族联盟",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "风元大陆西北角",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ]
   },
@@ -20,9 +33,15 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
-      "seq": 1297
+      "seq": 1351
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
@@ -31,7 +50,8 @@
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:33:05.017Z"
+  "updatedAt": "2026-06-20T09:51:18.975Z"
 }

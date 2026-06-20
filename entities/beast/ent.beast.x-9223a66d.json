@@ -8,7 +8,8 @@
   "summary": "人族玄武境中具托城之力的巨龟，传闻可能即是一只极巨大的雷龟。",
   "attributes": {
     "能力": "托城之力",
-    "外形": "体大如城的巨龟"
+    "外形": "体大如城的巨龟",
+    "栖息地": "人族玄武境"
   },
   "observations": {
     "能力": [
@@ -22,6 +23,13 @@
       {
         "value": "体大如城的巨龟",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "人族玄武境",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ]
@@ -39,12 +47,19 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:02:15.415Z"
+  "updatedAt": "2026-06-20T09:51:18.995Z"
 }

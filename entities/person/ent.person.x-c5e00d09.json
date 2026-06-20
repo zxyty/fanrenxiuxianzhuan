@@ -8,7 +8,8 @@
     "筱姐姐",
     "黑裙少妇",
     "黑凤族少妇",
-    "貌美少妇"
+    "貌美少妇",
+    "黑凤族筱姓女子"
   ],
   "summary": "黑凤族化神后期大成女修，韩立旧识，暗谋叶颖天凤之血。",
   "attributes": {
@@ -16,11 +17,12 @@
     "种族": "黑凤族",
     "小阶段": "化神后期大成、化神、化神后期",
     "标志特征": "黛眉入鬓、面带煞气、修本命极火、黑炎焰、幻霞幡、黑焰火凤",
-    "外貌": "黑裙少妇、貌美少妇、黑袍少妇",
-    "身份": "夺宝同行修士、妖女、韩立临时同行队友、天渊城任务修士、黑凤族嫡系妖修",
+    "外貌": "黑裙少妇、貌美少妇、黑袍少妇、黑裙修长少妇，黛眉带煞气",
+    "身份": "夺宝同行修士、妖女、韩立临时同行队友、天渊城任务修士、黑凤族嫡系妖修、黑凤族此次行动负责人、化形妖修",
     "阵营": "妖族",
     "存殁": "被擒",
-    "结局": "被元磁神山镇压禁制"
+    "结局": "被元磁神山镇压禁制",
+    "性格": "阴冷工于心计"
   },
   "observations": {
     "性别": [
@@ -91,6 +93,11 @@
         "value": "黑袍少妇",
         "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
         "seq": 1363
+      },
+      {
+        "value": "黑裙修长少妇，黛眉带煞气",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "身份": [
@@ -118,6 +125,16 @@
         "value": "黑凤族嫡系妖修",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "黑凤族此次行动负责人",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      },
+      {
+        "value": "化形妖修",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "阵营": [
@@ -144,6 +161,13 @@
         "value": "被元磁神山镇压禁制",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴冷工于心计",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ]
   },
@@ -181,9 +205,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
-      "seq": 1357
+      "seq": 1351
     },
     "阵营": {
       "asOf": null,
@@ -202,6 +226,12 @@
       "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
       "seq": 1375
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
@@ -212,7 +242,8 @@
     "plot.fanren-1363-1368-ying-clan-mirage-city",
     "plot.fanren-1369-1374-heiye-senlin-muzu",
     "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
-    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:51:31.336Z"
+  "updatedAt": "2026-06-20T09:51:18.985Z"
 }

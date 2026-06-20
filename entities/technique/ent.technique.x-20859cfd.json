@@ -1,24 +1,24 @@
 {
-  "id": "ent.technique.x-f878ccfc",
+  "id": "ent.technique.x-20859cfd",
   "type": "technique",
-  "name": "三千翠",
+  "name": "催熟秘术",
   "aliases": [],
-  "summary": "萱仙子修炼的神通，据说厉害非常。",
+  "summary": "韩立从天澜圣女处得来、用于祭炼催熟噬金虫使其加速转化成熟体的秘术。",
   "attributes": {
-    "适用境界": "化神期",
-    "效果": "据说厉害非常"
+    "出处": "天澜圣女",
+    "效果": "催熟噬金虫加速转化成熟体"
   },
   "observations": {
-    "适用境界": [
+    "出处": [
       {
-        "value": "化神期",
+        "value": "天澜圣女",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
     "效果": [
       {
-        "value": "据说厉害非常",
+        "value": "催熟噬金虫加速转化成熟体",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
@@ -26,7 +26,7 @@
   },
   "firstSeq": 1351,
   "attrProvenance": {
-    "适用境界": {
+    "出处": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:51:18.916Z"
+  "updatedAt": "2026-06-20T09:51:18.917Z"
 }

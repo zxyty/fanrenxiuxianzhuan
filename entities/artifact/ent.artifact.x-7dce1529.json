@@ -7,9 +7,9 @@
   ],
   "summary": "数万年前天灵境一位合体期前辈炼制的通天灵宝，名列混沌万灵榜，可同驱石化、熔金、冰封三大神通；叶颖手中为仅具石化的仿制古宝。",
   "attributes": {
-    "品阶": "仿制灵宝",
+    "品阶": "通天灵宝（正品）、仿制灵宝、通天灵宝",
     "能力": "石化、熔金、冰封",
-    "来历": "数万年前天灵境合体期前辈炼制",
+    "来历": "数万年前天灵境合体期前辈炼制、数万年前天灵境合体期前辈所炼",
     "外形": "迷你琵琶",
     "持有者": "白袍少女"
   },
@@ -24,6 +24,11 @@
         "value": "仿制灵宝",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "通天灵宝",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "能力": [
@@ -47,6 +52,11 @@
       {
         "value": "数万年前天灵境合体期前辈炼制",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "数万年前天灵境合体期前辈所炼",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ],
@@ -74,9 +84,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
-      "seq": 1375
+      "seq": 1351
     },
     "能力": {
       "asOf": null,
@@ -107,7 +117,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:43:54.391Z"
+  "updatedAt": "2026-06-20T09:51:18.990Z"
 }

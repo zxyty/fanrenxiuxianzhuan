@@ -11,8 +11,8 @@
   "summary": "陇家所有的远行灵舟，可化巨云隐匿，遁速极快，内含十余间静室。",
   "attributes": {
     "持有者": "陇东",
-    "能力": "化云隐匿、遁速极快、内含静室、化白云遁行、隐匿行迹、云雾禁制隐匿、极速遁行、飞遁、幻化隐匿",
-    "外形": "通体洁白如玉、金银符文、玉舟/白云巨舟、巨舟"
+    "能力": "化云隐匿、遁速极快、内含静室、化白云遁行、隐匿行迹、云雾禁制隐匿、极速遁行、飞遁、幻化隐匿、内设十余间静室、白云遮蔽行迹、高速遁行",
+    "外形": "通体洁白如玉、金银符文、玉舟/白云巨舟、巨舟、双层白玉舟身，铭印金银云纹符文"
   },
   "observations": {
     "持有者": [
@@ -62,6 +62,21 @@
         "value": "幻化隐匿",
         "docId": "plot.fanren-ch1359-shuanghuang-appears",
         "seq": 1357
+      },
+      {
+        "value": "内设十余间静室",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      },
+      {
+        "value": "白云遮蔽行迹",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      },
+      {
+        "value": "高速遁行",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "外形": [
@@ -79,6 +94,11 @@
         "value": "巨舟",
         "docId": "plot.fanren-ch1359-shuanghuang-appears",
         "seq": 1357
+      },
+      {
+        "value": "双层白玉舟身，铭印金银云纹符文",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ]
   },
@@ -107,7 +127,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-ch1359-shuanghuang-appears"
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:14:43.025Z"
+  "updatedAt": "2026-06-20T09:51:18.991Z"
 }

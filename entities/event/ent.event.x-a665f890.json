@@ -3,12 +3,14 @@
   "type": "event",
   "name": "百族大战",
   "aliases": [
-    "异族攻城"
+    "异族攻城",
+    "攻城之战"
   ],
   "summary": "五十万年前席卷大半灵界、持续约万年的超级种族之战，人妖两族几乎被灭族；雷罗情报称十年内或重演。",
   "attributes": {
     "参与方": "人族、妖族、异族联军",
-    "影响": "人妖两族近乎灭族、修士死伤近九成"
+    "影响": "弱小种族被卷入并充作血祭对象",
+    "起因": "玄天之宝出世"
   },
   "observations": {
     "参与方": [
@@ -33,6 +35,18 @@
         "value": "人妖两族近乎灭族、修士死伤近九成",
         "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
+      },
+      {
+        "value": "弱小种族被卷入并充作血祭对象",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      }
+    ],
+    "起因": [
+      {
+        "value": "玄天之宝出世",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ]
   },
@@ -46,15 +60,22 @@
     },
     "影响": {
       "asOf": null,
-      "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+      "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
-      "seq": 1345
+      "seq": 1351
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:33:05.018Z"
+  "updatedAt": "2026-06-20T09:51:18.976Z"
 }

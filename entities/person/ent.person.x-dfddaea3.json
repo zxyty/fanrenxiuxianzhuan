@@ -4,17 +4,18 @@
   "name": "雷罗真人",
   "aliases": [
     "雷罗长老",
-    "雷罗"
+    "雷罗",
+    "古老友"
   ],
   "summary": "天渊城长老会成员，赵无归之师，是翡翠蛟龙忌惮的存在。",
   "attributes": {
-    "身份": "天渊城长老会成员、天渊城长老、飞升修士首领、长老会成员、道法奇才、长老会真人、飞升修士",
+    "身份": "天渊城长老会成员、天渊城长老、飞升修士首领、长老会成员、道法奇才、长老会真人、飞升修士、天渊城修士/长老会",
     "小阶段": "合体",
     "阵营": "天渊城",
     "种族": "人族",
     "称号": "雷罗真人",
     "存殁": "死亡",
-    "死因": "约百年前于蛮荒世界被紫影附身夺舍，本章紫影被逼出后肉身枯瘪并被金越以金色火焰焚毁"
+    "死因": "约百年前于蛮荒世界被紫影附身夺舍，本章紫影被逼出后肉身枯瘪并被金越以金色火焰焚毁、被紫影夺舍,肉身精气抽空后被金焰焚化"
   },
   "observations": {
     "身份": [
@@ -52,6 +53,11 @@
         "value": "飞升修士",
         "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
+      },
+      {
+        "value": "天渊城修士/长老会",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
       }
     ],
     "小阶段": [
@@ -86,13 +92,19 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
-        "seq": 1351
+        "seq": 1351,
+        "note": "据世界状态须知第1351章已死，本章仅追述其布置任务"
       }
     ],
     "死因": [
       {
         "value": "约百年前于蛮荒世界被紫影附身夺舍，本章紫影被逼出后肉身枯瘪并被金越以金色火焰焚毁",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
+        "seq": 1351
+      },
+      {
+        "value": "被紫影夺舍,肉身精气抽空后被金焰焚化",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
     ]
@@ -133,7 +145,8 @@
       "asOf": null,
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
-      "seq": 1351
+      "seq": 1351,
+      "note": "据世界状态须知第1351章已死，本章仅追述其布置任务"
     },
     "死因": {
       "asOf": null,
@@ -149,7 +162,8 @@
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1339-1344-leipao-shenmi-kongjian",
-    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-20T09:33:05.006Z"
+  "updatedAt": "2026-06-20T09:51:18.967Z"
 }

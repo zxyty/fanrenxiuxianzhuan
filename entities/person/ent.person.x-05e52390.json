@@ -10,16 +10,19 @@
   "attributes": {
     "种族": "影族",
     "阵营": "影族",
-    "身份": "雷罗真人",
+    "身份": "雷罗真人、天渊城雷罗真人",
     "标志特征": "紫色影子",
-    "结局": "被四神香克制后由青色玉钵收服"
+    "结局": "被四神香克制后由青色玉钵收服",
+    "存殁": "被擒",
+    "性格": "狡诈"
   },
   "observations": {
     "种族": [
       {
         "value": "影族",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
-        "seq": 1351
+        "seq": 1351,
+        "note": "存疑"
       }
     ],
     "阵营": [
@@ -35,6 +38,12 @@
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351,
         "note": "附身夺舍冒充约百年"
+      },
+      {
+        "value": "天渊城雷罗真人",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351,
+        "note": "夺舍冒充"
       }
     ],
     "标志特征": [
@@ -50,6 +59,21 @@
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
       }
+    ],
+    "存殁": [
+      {
+        "value": "被擒",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351,
+        "note": "被四神香克制、收入青色玉钵"
+      }
+    ],
+    "性格": [
+      {
+        "value": "狡诈",
+        "docId": "plot.fanren-1353-lingchong-dacheng",
+        "seq": 1351
+      }
     ]
   },
   "firstSeq": 1351,
@@ -58,7 +82,8 @@
       "asOf": null,
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
-      "seq": 1351
+      "seq": 1351,
+      "note": "存疑"
     },
     "阵营": {
       "asOf": null,
@@ -84,12 +109,26 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351,
+      "note": "被四神香克制、收入青色玉钵"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "dated": false,
+      "seq": 1351
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1353-lingchong-dacheng"
   ],
-  "updatedAt": "2026-06-16T14:02:15.407Z"
+  "updatedAt": "2026-06-20T09:51:18.982Z"
 }
