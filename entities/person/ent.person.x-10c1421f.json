@@ -15,13 +15,14 @@
   "summary": "文思月爱女，身中奇毒，懂阵法，手心有红痣，给韩立似曾相识之感。",
   "attributes": {
     "性别": "女",
-    "标志特征": "手心豆粒大嫣红红痣、龙吟之体、手心血红龙纹、阵法天赋、阵法天赋出众、龙吟之体；天生阵法天赋、服驻颜丹驻容、阵法天才、掌心血红色红痣、镇定漠视生死、龙吟之体(隐性体质)、手心血红色龙纹、女生龙吟之体、身怀龙吟之体、阵法天赋惊人，阵道远超韩立",
+    "标志特征": "手心豆粒大嫣红红痣、龙吟之体、手心血红龙纹、阵法天赋、阵法天赋出众、龙吟之体；天生阵法天赋、服驻颜丹驻容、阵法天才、掌心血红色红痣、镇定漠视生死、龙吟之体(隐性体质)、手心血红色龙纹、女生龙吟之体、身怀龙吟之体、阵法天赋惊人，阵道远超韩立、龙吟之体(女身)",
     "身份": "中奇毒的少女、结丹修士之女、韩立弟子、韩立亲传弟子、文思月夫妇之女、韩立新收弟子、韩立记名弟子",
     "小阶段": "炼气期、筑基中期、结丹期、结丹后期、凡人/未入修炼、结丹",
-    "外貌": "十几岁清秀少女、十六七岁少女容颜、黄袍女子、枯瘦少女、清秀少女，似其母娇媚",
+    "外貌": "十几岁清秀少女、十六七岁少女容颜、黄袍女子、枯瘦少女、清秀少女，似其母娇媚、身材苗条的黄袍女子,面目如画",
     "寿元": "百余年(若停修)",
     "出身地": "银鲨岛",
-    "阵营": "落云宗"
+    "阵营": "落云宗",
+    "种族": "人族"
   },
   "observations": {
     "性别": [
@@ -102,6 +103,11 @@
         "value": "阵法天赋惊人，阵道远超韩立",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "龙吟之体(女身)",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ],
     "身份": [
@@ -198,6 +204,11 @@
         "value": "清秀少女，似其母娇媚",
         "docId": "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
         "seq": 1159
+      },
+      {
+        "value": "身材苗条的黄袍女子,面目如画",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ],
     "寿元": [
@@ -219,6 +230,13 @@
         "value": "落云宗",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ]
   },
@@ -271,6 +289,12 @@
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
@@ -290,7 +314,8 @@
     "plot.fanren-ch1167-1172-return-to-luoyun-sect",
     "plot.fanren-1184-shou-ying-capture-second-nascent-soul",
     "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-20T06:47:36.455Z"
+  "updatedAt": "2026-06-20T06:59:42.196Z"
 }

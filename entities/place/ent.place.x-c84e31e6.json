@@ -3,12 +3,13 @@
   "type": "place",
   "name": "雾海小岛",
   "aliases": [
-    "雾海小岛海域"
+    "雾海小岛海域",
+    "藏空间节点的小岛"
   ],
   "summary": "韩立洞府所在方向，他决意返回此处闭关二三十年避风头。",
   "attributes": {
-    "类型": "海岛洞府、洞府所在、洞府海岛",
-    "守护": "幻阵、巨猿傀儡"
+    "类型": "海岛洞府、洞府所在、洞府海岛、海岛",
+    "守护": "幻阵、巨猿傀儡、田琴儿、韩立手下四名结丹修士"
   },
   "observations": {
     "类型": [
@@ -26,6 +27,11 @@
         "value": "洞府海岛",
         "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ],
     "守护": [
@@ -38,6 +44,16 @@
         "value": "巨猿傀儡",
         "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
+      },
+      {
+        "value": "田琴儿",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
+      },
+      {
+        "value": "韩立手下四名结丹修士",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ]
   },
@@ -60,7 +76,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-523-528-zhenjia-chongmo"
+    "plot.fanren-523-528-zhenjia-chongmo",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-17T06:27:25.756Z"
+  "updatedAt": "2026-06-20T06:59:42.183Z"
 }

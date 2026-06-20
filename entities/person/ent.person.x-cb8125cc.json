@@ -22,7 +22,7 @@
     "标志特征": "万妖幡、万妖幡、魔天爪、乌黑铁盾、胸前银锁、灰色小幡、持万妖幡",
     "外貌": "头扎三只冲天小辫、胸挂银锁的幼童",
     "称号": "老妖",
-    "存殁": "存活",
+    "存殁": "生死不明",
     "寿元": "将尽",
     "性格": "老谋深算、识趣"
   },
@@ -160,6 +160,12 @@
         "value": "存活",
         "docId": "plot.fanren-1113-yaoqi-chongtian",
         "seq": 1111
+      },
+      {
+        "value": "生死不明",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255,
+        "note": "进入另一更狂暴空间节点,未留元神灯"
       }
     ],
     "寿元": [
@@ -224,9 +230,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1113-yaoqi-chongtian",
+      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
       "dated": false,
-      "seq": 1111
+      "seq": 1255,
+      "note": "进入另一更狂暴空间节点,未留元神灯"
     },
     "寿元": {
       "asOf": null,
@@ -256,7 +263,8 @@
     "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
     "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-20T06:47:36.417Z"
+  "updatedAt": "2026-06-20T06:59:42.174Z"
 }

@@ -2,10 +2,14 @@
   "id": "ent.place.x-c21e9a15",
   "type": "place",
   "name": "血色禁地",
-  "aliases": [],
+  "aliases": [
+    "血色禁地宝塔"
+  ],
   "summary": "韩立与向之礼当年走出之凶险禁地。",
   "attributes": {
-    "危险度": "极高"
+    "危险度": "极高",
+    "类型": "上古遗迹",
+    "守护": "压制修为之古怪禁制"
   },
   "observations": {
     "危险度": [
@@ -13,6 +17,20 @@
         "value": "极高",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
+      }
+    ],
+    "类型": [
+      {
+        "value": "上古遗迹",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
+      }
+    ],
+    "守护": [
+      {
+        "value": "压制修为之古怪禁制",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ]
   },
@@ -23,12 +41,25 @@
       "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
       "dated": false,
       "seq": 955
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+      "dated": false,
+      "seq": 1255
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen"
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-16T02:36:43.787Z"
+  "updatedAt": "2026-06-20T06:59:42.227Z"
 }

@@ -548,3 +548,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T06:16:33.230Z** `ingest` plot.fanren-1237-1244-ziling-exchange-huoyu — 凡人修仙传 第1237-1244章｜韩立寒髓换紫灵、硬接呼老魔一击、入火狱寻太阳精火 · kind=plot asOf=2026-06-20 entities=29 relations=29 src=01237-01242.md
 - **2026-06-20T06:29:36.132Z** `ingest` plot.fanren-ch1245-jinghuo-xian — 第1245章 精火现：韩立熔岩诱捕太阳精火 · kind=plot asOf=2026-06-20 entities=53 relations=60 src=01243-01248.md
 - **2026-06-20T06:47:36.606Z** `ingest` plot.fanren-1251-li-ya-er-yao — 凡人修仙传 第1251章 力压二妖：韩立独战金蛟王与风希 · kind=plot asOf=2026-06-20 entities=64 relations=66 src=01249-01254.md
+- **2026-06-20T06:59:42.373Z** `ingest` plot.fanren-1257-lianshou-zhiyi-bingfeng — 凡人修仙传 第1257章 联手之仪——韩立约冰凤共闯空间节点 · kind=plot asOf=2026-06-20 entities=37 relations=38 src=01255-01260.md

@@ -13,7 +13,7 @@
   "attributes": {
     "所属界面": "大晋国、大晋皇朝、人界(大晋)、灵界(大晋皇朝)",
     "据点": "晋国华云州、华云州开江镇白竹山、华云州、白竹山",
-    "镇派之宝": "三灵符（含降灵符）、三大密符、化灵符、六丁天甲符、降灵符",
+    "镇派之宝": "三灵符（含降灵符）、三大密符、化灵符、六丁天甲符、降灵符、三大密符（含六丁天甲符）",
     "理念": "符箓之道",
     "等级": "末流小派、小宗门、小宗派",
     "掌门": "岳真、云师兄"
@@ -88,6 +88,11 @@
         "value": "降灵符",
         "docId": "plot.fanren-955-960-zaiyu-gumo-tianfumen",
         "seq": 955
+      },
+      {
+        "value": "三大密符（含六丁天甲符）",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
       }
     ],
     "理念": [
@@ -185,7 +190,8 @@
     "plot.fanren-955-zaiyu-gumo",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao",
     "plot.fanren-967-kuzhu-laoren",
-    "plot.fanren-973-yinyangku-minghe-page"
+    "plot.fanren-973-yinyangku-minghe-page",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-18T02:57:43.722Z"
+  "updatedAt": "2026-06-20T06:59:42.221Z"
 }

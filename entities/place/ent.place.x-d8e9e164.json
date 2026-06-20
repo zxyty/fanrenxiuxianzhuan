@@ -12,7 +12,8 @@
   "attributes": {
     "类型": "海岛洞府、海域、雾海/秘地",
     "守护": "幻阵与巨猿傀儡",
-    "所属势力": "五龙海"
+    "所属势力": "五龙海",
+    "所属界面": "人界"
   },
   "observations": {
     "类型": [
@@ -45,6 +46,13 @@
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
       }
+    ],
+    "所属界面": [
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+        "seq": 1255
+      }
     ]
   },
   "firstSeq": 523,
@@ -66,6 +74,12 @@
       "docId": "plot.fanren-1251-li-ya-er-yao",
       "dated": false,
       "seq": 1249
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+      "dated": false,
+      "seq": 1255
     }
   },
   "contested": false,
@@ -73,7 +87,8 @@
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-20T06:47:36.459Z"
+  "updatedAt": "2026-06-20T06:59:42.224Z"
 }

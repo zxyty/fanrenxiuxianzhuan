@@ -10,7 +10,7 @@
   "attributes": {
     "品阶": "顶阶防御法宝",
     "持有者": "冰凤",
-    "外形": "冰舟",
+    "外形": "冰舟、半透明冰舟，可涨至十余丈",
     "来历": "寒元凝练万载"
   },
   "observations": {
@@ -32,6 +32,11 @@
       {
         "value": "冰舟",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+        "seq": 1255
+      },
+      {
+        "value": "半透明冰舟，可涨至十余丈",
+        "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
         "seq": 1255
       }
     ],
@@ -73,7 +78,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao"
+    "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
   ],
-  "updatedAt": "2026-06-16T09:55:48.364Z"
+  "updatedAt": "2026-06-20T06:59:42.207Z"
 }
