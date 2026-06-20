@@ -8,9 +8,9 @@
   ],
   "summary": "地渊守卫普遍修炼的煞气凝甲秘术，需身具莫大煞气方有大用，可将体内煞气逼出幻化成战甲护身。",
   "attributes": {
-    "效果": "煞气幻化战甲护身，煞气越多越凝实",
-    "修炼条件": "身具大量煞气",
-    "出处": "地渊守卫常修；天鹏族石长老亦精通",
+    "效果": "煞气幻化战甲护身，煞气越多越凝实、凝聚煞气幻化为护体战甲",
+    "修炼条件": "身具大量煞气、需身具莫大煞气",
+    "出处": "地渊守卫常修；天鹏族石长老亦精通、飞灵族地渊守卫",
     "外显异象": "身周浮现淡黑煞气化黑风、身形若隐若现"
   },
   "observations": {
@@ -19,6 +19,11 @@
         "value": "煞气幻化战甲护身，煞气越多越凝实",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "凝聚煞气幻化为护体战甲",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+        "seq": 1429
       }
     ],
     "修炼条件": [
@@ -26,12 +31,22 @@
         "value": "身具大量煞气",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "需身具莫大煞气",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+        "seq": 1429
       }
     ],
     "出处": [
       {
         "value": "地渊守卫常修；天鹏族石长老亦精通",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "飞灵族地渊守卫",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
       }
     ],
@@ -73,7 +88,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
   ],
-  "updatedAt": "2026-06-16T16:20:08.379Z"
+  "updatedAt": "2026-06-20T11:43:45.767Z"
 }

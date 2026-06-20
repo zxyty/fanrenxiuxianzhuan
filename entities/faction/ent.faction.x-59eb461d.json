@@ -7,13 +7,21 @@
   ],
   "summary": "飞灵族一支，代表高手熬青。",
   "attributes": {
-    "阵营": "飞灵族"
+    "阵营": "飞灵族",
+    "据点": "灵界"
   },
   "observations": {
     "阵营": [
       {
         "value": "飞灵族",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "据点": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
       }
     ]
@@ -25,6 +33,12 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
@@ -32,7 +46,8 @@
   "docs": [
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
     "plot.fanren-1438-yin-zhu-feng",
-    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
   ],
-  "updatedAt": "2026-06-20T11:39:50.557Z"
+  "updatedAt": "2026-06-20T11:43:45.779Z"
 }

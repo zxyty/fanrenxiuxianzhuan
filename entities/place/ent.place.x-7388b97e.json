@@ -19,9 +19,9 @@
   ],
   "summary": "飞灵族圣子试炼之地，妖物横行，为飞灵族生死大敌，近期不太平。",
   "attributes": {
-    "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高",
+    "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高、极高（含妖王级妖物）",
     "所属界面": "灵界",
-    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地",
+    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地、地下凶险界域、入口巨渊",
     "守护": "飞灵族地渊守卫、飞灵族封锁地渊之门、地渊妖物、飞灵族",
     "特产": "冥焰果"
   },
@@ -40,6 +40,11 @@
       {
         "value": "高",
         "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
+      },
+      {
+        "value": "极高（含妖王级妖物）",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
       }
     ],
@@ -114,6 +119,16 @@
       {
         "value": "守卫要地",
         "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+        "seq": 1429
+      },
+      {
+        "value": "地下凶险界域",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+        "seq": 1429
+      },
+      {
+        "value": "入口巨渊",
+        "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
       }
     ],
@@ -196,7 +211,8 @@
     "plot.fanren-1516-bamboo-leaves",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
     "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
-    "plot.fanren-1433-1434-tianpeng-shitan-diyuan"
+    "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
   ],
-  "updatedAt": "2026-06-20T11:41:45.969Z"
+  "updatedAt": "2026-06-20T11:43:45.783Z"
 }
