@@ -2,7 +2,10 @@
   "id": "ent.item.x-7fcbb20a",
   "type": "item",
   "name": "储物镯",
-  "aliases": [],
+  "aliases": [
+    "青色储物镯",
+    "筱虹储物镯"
+  ],
   "summary": "韩立随身储物法器，本章用以倒出高阶灵石支付货款。",
   "attributes": {
     "类型": "储物法器",
@@ -25,7 +28,7 @@
       {
         "value": "储物",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
-        "seq": 1393
+        "seq": 1381
       }
     ]
   },
@@ -41,14 +44,15 @@
       "asOf": null,
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
-      "seq": 1393
+      "seq": 1381
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1393-1398-yecha-wang-changnu"
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-16T15:11:49.233Z"
+  "updatedAt": "2026-06-20T10:38:54.952Z"
 }

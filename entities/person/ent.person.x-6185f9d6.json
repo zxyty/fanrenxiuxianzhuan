@@ -4,16 +4,20 @@
   "name": "木瑞",
   "aliases": [
     "银阶下位灵师木瑞",
-    "高大木族"
+    "高大木族",
+    "绿色巨人",
+    "绿肤木灵"
   ],
   "summary": "木族银阶下位灵师，相当于人族合体期，率木猿兽群围杀众人，腰系橙黄带银丝腰带。",
   "attributes": {
-    "种族": "木族",
-    "身份": "银阶下位灵师",
-    "外貌": "高大、碧绿肌肤、双目微紫",
-    "标志特征": "橙黄带银丝腰带（银阶）、腰带橙黄中带一条银丝",
+    "种族": "木灵族",
+    "身份": "银阶木灵",
+    "外貌": "身高十丈绿色巨人，主干浮现木瑞面孔",
+    "标志特征": "橙黄带银丝腰带（银阶）、腰带橙黄中带一条银丝、人树合一化绿巨人/翡翠般晶莹体表",
     "性别": "男",
-    "称号": "灵师"
+    "称号": "灵师",
+    "小阶段": "银阶",
+    "结局": "重伤罢手、本命灵树受损，往黑叶森林遁走"
   },
   "observations": {
     "种族": [
@@ -21,6 +25,11 @@
         "value": "木族",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
         "seq": 1369
+      },
+      {
+        "value": "木灵族",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "身份": [
@@ -28,6 +37,11 @@
         "value": "银阶下位灵师",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
         "seq": 1369
+      },
+      {
+        "value": "银阶木灵",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "外貌": [
@@ -35,6 +49,12 @@
         "value": "高大、碧绿肌肤、双目微紫",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
         "seq": 1369
+      },
+      {
+        "value": "身高十丈绿色巨人，主干浮现木瑞面孔",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381,
+        "note": "木灵之体形态"
       }
     ],
     "标志特征": [
@@ -47,6 +67,11 @@
         "value": "腰带橙黄中带一条银丝",
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
+      },
+      {
+        "value": "人树合一化绿巨人/翡翠般晶莹体表",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "性别": [
@@ -62,27 +87,42 @@
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
       }
+    ],
+    "小阶段": [
+      {
+        "value": "银阶",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "结局": [
+      {
+        "value": "重伤罢手、本命灵树受损，往黑叶森林遁走",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
     ]
   },
   "firstSeq": 1369,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
-      "seq": 1369
+      "seq": 1381
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
-      "seq": 1369
+      "seq": 1381
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
-      "seq": 1369
+      "seq": 1381,
+      "note": "木灵之体形态"
     },
     "标志特征": {
       "asOf": null,
@@ -101,13 +141,26 @@
       "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
       "dated": false,
       "seq": 1369
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1369-1374-heiye-senlin-muzu",
-    "plot.fanren-1369-1374-black-leaf-forest-muzu"
+    "plot.fanren-1369-1374-black-leaf-forest-muzu",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-20T10:19:10.717Z"
+  "updatedAt": "2026-06-20T10:38:54.939Z"
 }

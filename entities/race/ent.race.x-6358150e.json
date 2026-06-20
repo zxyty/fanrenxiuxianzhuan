@@ -13,10 +13,11 @@
   "summary": "五行灵族之一，灵将天樱所属。",
   "attributes": {
     "阵营": "灵界木族",
-    "聚居地": "黑叶森林一带",
-    "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉、碧绿肌肤、腰带分阶、可由树木化形隐匿",
+    "聚居地": "南艮大沙漠之外、黑叶森林等、黑叶森林、黑叶森林一带、黑叶森林、一线天范围",
+    "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉、碧绿肌肤、腰带分阶、可由树木化形隐匿、肉身强横、银阶力大",
     "代表人物": "木瑞、紫阶木灵、橙阶木灵",
-    "天赋神通": "天木梦罗"
+    "天赋神通": "天木梦罗、人树合一/木灵之体、人树合一",
+    "天敌": "成熟体噬金虫"
   },
   "observations": {
     "阵营": [
@@ -50,6 +51,11 @@
       {
         "value": "黑叶森林一带",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "黑叶森林、一线天范围",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
         "seq": 1381
       }
     ],
@@ -98,6 +104,11 @@
         "value": "可由树木化形隐匿",
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
+      },
+      {
+        "value": "肉身强横、银阶力大",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "代表人物": [
@@ -122,6 +133,23 @@
         "value": "天木梦罗",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "人树合一/木灵之体",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "人树合一",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "天敌": [
+      {
+        "value": "成熟体噬金虫",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ]
   },
@@ -135,9 +163,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "docId": "plot.fanren-ch1359-shuanghuang-appears",
       "dated": false,
-      "seq": 1381
+      "seq": 1357
     },
     "特性": {
       "asOf": null,
@@ -156,6 +184,12 @@
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
       "seq": 1351
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
     }
   },
   "contested": false,
@@ -171,7 +205,8 @@
     "plot.fanren-1353-lingchong-dacheng",
     "plot.fanren-ch1365-moying-zaixian",
     "plot.fanren-1369-1374-black-leaf-forest-muzu",
-    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-20T10:26:58.830Z"
+  "updatedAt": "2026-06-20T10:38:54.968Z"
 }

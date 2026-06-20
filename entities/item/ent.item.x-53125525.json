@@ -8,13 +8,15 @@
     "顶阶凤翎",
     "天凤之羽",
     "乌风长翎",
-    "天凤之翎羽"
+    "天凤之翎羽",
+    "五色长翎",
+    "五色羽翎"
   ],
   "summary": "木族所藏、供天凤浴火重生用的三支灵物，叶家与妖族均为之潜伏争夺。",
   "attributes": {
-    "用途": "重炼宝物",
+    "用途": "天凤浴火重生、重炼宝物、增强七焰扇威力、炼制/重炼宝物、炼制灵宝",
     "产地": "木族",
-    "类型": "顶阶凤翎"
+    "类型": "顶阶凤翎、灵禽材料、顶阶灵羽、真灵材料"
   },
   "observations": {
     "用途": [
@@ -32,6 +34,16 @@
         "value": "增强七焰扇威力",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "炼制/重炼宝物",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "炼制灵宝",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "产地": [
@@ -56,6 +68,16 @@
         "value": "灵禽材料",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "顶阶灵羽",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "真灵材料",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ]
   },
@@ -63,9 +85,9 @@
   "attrProvenance": {
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 1381
+      "seq": 961
     },
     "产地": {
       "asOf": null,
@@ -75,9 +97,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
       "dated": false,
-      "seq": 1381
+      "seq": 961
     }
   },
   "contested": false,
@@ -86,7 +108,8 @@
     "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao",
-    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-20T10:26:58.862Z"
+  "updatedAt": "2026-06-20T10:38:54.959Z"
 }

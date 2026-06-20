@@ -3,12 +3,15 @@
   "type": "person",
   "name": "银阶木灵",
   "aliases": [
-    "高阶木灵"
+    "高阶木灵",
+    "银阶下位高阶木灵"
   ],
   "summary": "黑叶森林一名银阶下位高阶木灵，身负重伤仍追杀韩立，肉身强横、可分身、放木甲银刺、显古树虚影。",
   "attributes": {
     "种族": "木族",
-    "存殁": "重伤"
+    "存殁": "重伤",
+    "外貌": "绿濛濛人影、淡银色腰带",
+    "标志特征": "绿色倒刺木甲、银刺弩矢、十丈古树虚影"
   },
   "observations": {
     "种族": [
@@ -24,6 +27,30 @@
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
         "seq": 1381,
         "note": "先前与叶颖天凤之魄大战所致"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "绿濛濛人影、淡银色腰带",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "绿色倒刺木甲",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "银刺弩矢",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "十丈古树虚影",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ]
   },
@@ -41,12 +68,25 @@
       "dated": false,
       "seq": 1381,
       "note": "先前与叶颖天凤之魄大战所致"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-16T14:51:31.337Z"
+  "updatedAt": "2026-06-20T10:38:54.868Z"
 }

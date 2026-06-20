@@ -569,3 +569,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T10:06:35.869Z** `ingest` plot.fanren-ch1365-moying-zaixian — 第1365章 魔影再现——绿洲鬼城影族傀儡伏击 · kind=plot asOf=2026-06-20 entities=44 relations=56 src=01363-01368.md
 - **2026-06-20T10:19:10.946Z** `ingest` plot.fanren-1369-1374-black-leaf-forest-muzu — 凡人修仙传 第1369-1374章｜黑叶森林·木族设伏·六臂初现 · kind=plot asOf=2026-06-20 entities=36 relations=47 src=01369-01374.md
 - **2026-06-20T10:26:59.074Z** `ingest` plot.fanren-1375-1380-true-dragon-vs-phoenix-soul — 凡人修仙传 第1375-1380章｜真龙之魄、血晶摩诃剑与黑凤族筱虹 · kind=plot asOf=2026-06-20 entities=35 relations=49 src=01375-01380.md
+- **2026-06-20T10:38:55.137Z** `ingest` plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan — 凡人修仙传 第1381-1386章｜天凤之翎·暗手·木灵之战 · kind=plot asOf=2026-06-20 entities=46 relations=49 src=01381-01386.md

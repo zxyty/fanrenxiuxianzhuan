@@ -4,13 +4,14 @@
   "name": "真龙之血",
   "aliases": [
     "真龙灵血",
-    "真龙天凤之灵血"
+    "真龙天凤之灵血",
+    "真龙天凤之灵血（龙）"
   ],
   "summary": "上古真灵血脉之一，强行催动可幻化真龙之魄。",
   "attributes": {
     "类型": "真灵之血",
     "用途": "幻化真龙之魄",
-    "稀有度": "极稀",
+    "稀有度": "极稀有、极稀、整个人族或仅陇家有",
     "产地": "陇家血脉"
   },
   "observations": {
@@ -43,6 +44,11 @@
         "value": "极稀",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
         "seq": 1381
+      },
+      {
+        "value": "整个人族或仅陇家有",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "产地": [
@@ -69,9 +75,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+      "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
-      "seq": 1381
+      "seq": 1375
     },
     "产地": {
       "asOf": null,
@@ -84,7 +90,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
-    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-16T14:51:31.344Z"
+  "updatedAt": "2026-06-20T10:38:54.895Z"
 }

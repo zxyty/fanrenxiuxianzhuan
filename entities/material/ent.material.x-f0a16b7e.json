@@ -6,13 +6,15 @@
     "真灵之血",
     "真凤之血",
     "真凤血脉",
-    "天凤血"
+    "天凤血",
+    "血凤"
   ],
   "summary": "号称万禽之王的真灵之血，叶颖身具，为筱虹、李道友所图。",
   "attributes": {
     "类型": "真灵之血",
     "稀有度": "极稀有",
-    "用途": "成就天凤血脉/合体"
+    "用途": "成就天凤血脉/合体",
+    "产地": "叶家血脉"
   },
   "observations": {
     "类型": [
@@ -50,6 +52,13 @@
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
+    ],
+    "产地": [
+      {
+        "value": "叶家血脉",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
     ]
   },
   "firstSeq": 1351,
@@ -71,6 +80,12 @@
       "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
       "seq": 1375
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
     }
   },
   "contested": false,
@@ -80,7 +95,8 @@
     "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1369-1374-black-leaf-forest-muzu"
+    "plot.fanren-1369-1374-black-leaf-forest-muzu",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-20T10:19:10.743Z"
+  "updatedAt": "2026-06-20T10:38:54.897Z"
 }

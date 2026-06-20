@@ -7,8 +7,9 @@
   ],
   "summary": "与玄玉齐名的极属性罕见材料，制成火红玉盒可保凤翎灵气不泄。",
   "attributes": {
-    "类型": "极属性材料",
-    "用途": "封存灵物不泄灵气"
+    "类型": "极属性材料、极属性材料（火）",
+    "用途": "封存灵物不泄灵气、制器保灵气",
+    "稀有度": "罕见"
   },
   "observations": {
     "类型": [
@@ -16,12 +17,29 @@
         "value": "极属性材料",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
         "seq": 1381
+      },
+      {
+        "value": "极属性材料（火）",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
       }
     ],
     "用途": [
       {
         "value": "封存灵物不泄灵气",
         "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+        "seq": 1381
+      },
+      {
+        "value": "制器保灵气",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+        "seq": 1381
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "罕见",
+        "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
         "seq": 1381
       }
     ]
@@ -39,12 +57,19 @@
       "docId": "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
       "dated": false,
       "seq": 1381
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+      "dated": false,
+      "seq": 1381
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan"
+    "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
   ],
-  "updatedAt": "2026-06-16T14:51:31.346Z"
+  "updatedAt": "2026-06-20T10:38:54.900Z"
 }
