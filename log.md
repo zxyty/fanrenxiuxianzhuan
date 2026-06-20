@@ -532,3 +532,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-19T10:12:28.827Z** `ingest` plot.ch1180-rescue-lava-lake-mupeilin — 第1180章·解救——韩立潜入熔岩湖底寻获慕沛灵三女 · kind=plot asOf=2026-06-19 entities=21 relations=21 src=01177-01182.p2.md
 - **2026-06-20T04:12:14.975Z** `ingest` plot.fanren-1181-chonglin-qiling — 第1181章 重临七灵——韩立追索第二元婴 · kind=plot asOf=2026-06-20 entities=17 relations=18 src=01177-01182.p3.md
 - **2026-06-20T04:13:25.813Z** `ingest` plot.fanren-1182-han-li-enters-mo-yuan — 第1182章 入渊：韩立现身落云宗、布阵潜入魔渊探查第二元婴 · kind=plot asOf=2026-06-20 entities=0 relations=0 src=01177-01182.p4.md
+- **2026-06-20T04:15:03.778Z** `ingest` plot.fanren-1183-mohua — 第1183章 魔化——韩立万丈魔渊战第二元婴 · kind=plot asOf=2026-06-20 entities=12 relations=15 src=01177-01182.p5.md
