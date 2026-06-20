@@ -9,9 +9,10 @@
   "attributes": {
     "炼制者": "筱虹",
     "功效": "助冲击炼虚境界、助突破化神后期瓶颈、增化神后期突破几率、冲击炼虚期、助突破瓶颈、辅助突破炼虚境界、助修炼/冲击炼虚之珍贵丹药、助化神大成突破炼虚瓶颈（三颗约增两成几率）",
-    "适用境界": "化神后期巅峰",
-    "副作用": "焰烈，修为/肉身不足者或被焚毙",
-    "主料": "黑凤本命之火"
+    "适用境界": "化神、化神后期、化神后期巅峰、化神大成",
+    "副作用": "焰烈，修为/肉身不足者或被焚毙、黑凤之焰可焚毁弱修士",
+    "主料": "黑凤本命之火",
+    "品阶": "极品"
   },
   "observations": {
     "炼制者": [
@@ -72,7 +73,7 @@
       {
         "value": "化神后期",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
-        "seq": 1411
+        "seq": 1399
       },
       {
         "value": "化神后期巅峰",
@@ -90,6 +91,11 @@
         "value": "焰烈，修为/肉身不足者或被焚毙",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "黑凤之焰可焚毁弱修士",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ],
     "主料": [
@@ -97,6 +103,13 @@
         "value": "黑凤本命之火",
         "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
         "seq": 1381
+      }
+    ],
+    "品阶": [
+      {
+        "value": "极品",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ]
   },
@@ -116,9 +129,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
-      "seq": 1513
+      "seq": 1381
     },
     "副作用": {
       "asOf": null,
@@ -131,6 +144,12 @@
       "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
       "seq": 1381
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
@@ -142,7 +161,8 @@
     "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-20T10:38:54.954Z"
+  "updatedAt": "2026-06-20T11:03:27.502Z"
 }

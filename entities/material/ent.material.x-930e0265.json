@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "传闻中珍稀材料里最沉重者,指甲大一块即可压趴壮汉;被韩立用作衡量奇异石墩之重的参照。",
   "attributes": {
-    "类型": "重金属材料",
+    "类型": "重金属材料、至重灵材",
     "稀有度": "传闻级"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "重金属材料",
         "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "至重灵材",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
       }
     ],
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T15:24:46.639Z"
+  "updatedAt": "2026-06-20T11:03:27.537Z"
 }

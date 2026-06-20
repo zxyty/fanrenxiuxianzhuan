@@ -5,13 +5,31 @@
   "aliases": [],
   "summary": "灵界妖兽一族,神通略成后天生能辨认金髓晶虫并令其不再化晶;黑冥雾半鬼半妖前辈亦出身于此。",
   "attributes": {
-    "天赋神通": "天生辨认金髓晶虫"
+    "天赋神通": "天生辨认金髓晶虫、辨认/活捉金髓晶虫",
+    "代表人物": "牛首小兽、黑冥雾半鬼半妖前辈"
   },
   "observations": {
     "天赋神通": [
       {
         "value": "天生辨认金髓晶虫",
         "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "辨认/活捉金髓晶虫",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "牛首小兽",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
+      },
+      {
+        "value": "黑冥雾半鬼半妖前辈",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
       }
     ]
@@ -23,12 +41,19 @@
       "docId": "plot.fanren-1401-black-mist-sea",
       "dated": false,
       "seq": 1399
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T15:24:46.631Z"
+  "updatedAt": "2026-06-20T11:03:27.549Z"
 }

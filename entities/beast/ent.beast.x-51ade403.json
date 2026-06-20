@@ -2,13 +2,17 @@
   "id": "ent.beast.x-51ade403",
   "type": "beast",
   "name": "牛首小兽",
-  "aliases": [],
+  "aliases": [
+    "牛首狮身翠绿小兽",
+    "皓兽"
+  ],
   "summary": "皓兽一族妖兽,本片段与韩立交易、被天鹏族种下奴痕、暗中供奉黑冥雾前辈以求除痕。",
   "attributes": {
     "种族": "皓兽一族",
-    "外形": "牛首小兽",
-    "栖息地": "黑隐山",
-    "等级": "中阶妖物"
+    "外形": "牛首小兽、牛首狮身、通体翠绿",
+    "栖息地": "黑隐山、黑隐山脉",
+    "等级": "中阶妖物",
+    "能力": "辨认/活捉金髓晶虫、内丹布隔音罩"
   },
   "observations": {
     "种族": [
@@ -23,12 +27,22 @@
         "value": "牛首小兽",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "牛首狮身、通体翠绿",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ],
     "栖息地": [
       {
         "value": "黑隐山",
         "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "黑隐山脉",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
       }
     ],
@@ -37,6 +51,23 @@
         "value": "中阶妖物",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "七级大成",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
+      }
+    ],
+    "能力": [
+      {
+        "value": "辨认/活捉金髓晶虫",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
+      },
+      {
+        "value": "内丹布隔音罩",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ]
   },
@@ -65,13 +96,20 @@
       "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
       "dated": false,
       "seq": 1519
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T19:22:06.813Z"
+  "updatedAt": "2026-06-20T11:03:27.545Z"
 }

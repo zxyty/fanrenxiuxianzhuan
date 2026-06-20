@@ -10,13 +10,15 @@
     "翠色灵剑",
     "玄天仙藤果实",
     "玄天灵物",
-    "棍子"
+    "棍子",
+    "玄天仙木果实"
   ],
   "summary": "韩立所得『棍子』状玄天之物，内有白色光点，唯神秘绿液可使其白光壮大。",
   "attributes": {
-    "类型": "玄天灵物、逆天宝物、仙藤果实",
+    "类型": "玄天灵物、逆天宝物、仙藤果实、至宝/灵果",
     "用途": "蕴含一界法则之力",
-    "产地": "玄天仙藤"
+    "产地": "玄天仙藤",
+    "品阶": "逆天级"
   },
   "observations": {
     "类型": [
@@ -34,6 +36,11 @@
         "value": "仙藤果实",
         "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
+      },
+      {
+        "value": "至宝/灵果",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ],
     "用途": [
@@ -53,6 +60,13 @@
         "value": "玄天仙藤",
         "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
+      }
+    ],
+    "品阶": [
+      {
+        "value": "逆天级",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ]
   },
@@ -75,6 +89,12 @@
       "docId": "plot.fanren-1323-xuantian-guoshi",
       "dated": false,
       "seq": 1321
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
@@ -83,7 +103,8 @@
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-    "plot.fanren-1323-xuantian-guoshi"
+    "plot.fanren-1323-xuantian-guoshi",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-20T08:55:17.914Z"
+  "updatedAt": "2026-06-20T11:03:27.498Z"
 }

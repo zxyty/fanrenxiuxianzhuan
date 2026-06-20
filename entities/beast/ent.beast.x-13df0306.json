@@ -8,14 +8,16 @@
     "三首怪蟒",
     "巨蟒",
     "乌蛇",
-    "三首蟒"
+    "三首蟒",
+    "三头巨蟒"
   ],
   "summary": "盘踞坠魔谷通道的古兽，乌黑似铁五六十丈长，喷灰雾妖雾、瞬间拉长吞噬法宝、以青色霞光护体并具吸力，现三颗蛇首；被三人合力斩杀，疑为变异而非真正三首乌蛇。",
   "attributes": {
     "等级": "中阶妖物",
     "栖息地": "黑隐山",
     "能力": "喷灰雾妖雾、瞬间拉长吞噬法宝、青色霞光护体、吸力摄物、现三颗蛇首、吸纳碎石摄敌入口",
-    "外形": "乌黑如铁、五六十丈长、巨鳞、绿幽蛇目、三头巨蟒(绿色眼珠)、三颗蛇首、乌黑铁鳞、绿目"
+    "外形": "乌黑如铁、五六十丈长、巨鳞、绿幽蛇目、三头巨蟒(绿色眼珠)、三颗蛇首、乌黑铁鳞、绿目",
+    "种族": "蟒妖"
   },
   "observations": {
     "等级": [
@@ -90,6 +92,13 @@
         "docId": "plot.fanren-805-810-zhuimogu-killing-intent",
         "seq": 805
       }
+    ],
+    "种族": [
+      {
+        "value": "蟒妖",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
+      }
     ]
   },
   "firstSeq": 805,
@@ -117,6 +126,12 @@
       "docId": "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
       "dated": false,
       "seq": 805
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
@@ -125,7 +140,8 @@
     "plot.fanren-805-810-zhuimo-valley-entry-inner-valley-path",
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
-    "plot.fanren-805-810-zhuimogu-killing-intent"
+    "plot.fanren-805-810-zhuimogu-killing-intent",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-17T13:31:45.641Z"
+  "updatedAt": "2026-06-20T11:03:27.546Z"
 }

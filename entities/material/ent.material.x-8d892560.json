@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "宝光尊者洞府大厅玉砖之下的黑色地面材料,被韩立一眼认出。",
   "attributes": {
-    "类型": "矿石材料"
+    "类型": "矿石材料、炼器矿材"
   },
   "observations": {
     "类型": [
       {
         "value": "矿石材料",
         "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "炼器矿材",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T15:24:46.639Z"
+  "updatedAt": "2026-06-20T11:03:27.536Z"
 }

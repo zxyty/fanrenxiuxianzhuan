@@ -3,17 +3,23 @@
   "type": "person",
   "name": "宝光尊者",
   "aliases": [
-    "蓝甲大汉"
+    "蓝甲大汉",
+    "八级海蛟"
   ],
   "summary": "搜魂所得讯息中提及的人物，与天鹏族供奉相关。",
   "attributes": {
-    "种族": "蛟龙(海蛟)"
+    "种族": "蛟龙(海蛟)、海蛟"
   },
   "observations": {
     "种族": [
       {
         "value": "蛟龙(海蛟)",
         "docId": "plot.fanren-1401-black-mist-sea",
+        "seq": 1399
+      },
+      {
+        "value": "海蛟",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
       }
     ]
@@ -30,7 +36,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T15:24:46.631Z"
+  "updatedAt": "2026-06-20T11:03:27.548Z"
 }

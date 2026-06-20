@@ -9,8 +9,9 @@
   "summary": "半晶半虫奇物，深藏珍稀矿石中，难寻且一被抓便化为晶石，妖兽以十对作报酬。",
   "attributes": {
     "类型": "半晶半虫奇物、炼体灵物、灵虫材料",
-    "稀有度": "极稀、极罕见",
-    "用途": "凝炼梵圣真魔法相"
+    "稀有度": "极稀、极罕见、极稀有",
+    "用途": "凝炼梵圣真魔法相",
+    "产地": "地下珍稀矿石中"
   },
   "observations": {
     "类型": [
@@ -40,6 +41,11 @@
         "value": "极罕见",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ],
     "用途": [
@@ -57,6 +63,13 @@
         "value": "凝炼梵圣真魔法相",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      }
+    ],
+    "产地": [
+      {
+        "value": "地下珍稀矿石中",
+        "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+        "seq": 1399
       }
     ]
   },
@@ -79,6 +92,12 @@
       "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
       "dated": false,
       "seq": 1519
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+      "dated": false,
+      "seq": 1399
     }
   },
   "contested": false,
@@ -87,7 +106,8 @@
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
   ],
-  "updatedAt": "2026-06-16T19:22:06.800Z"
+  "updatedAt": "2026-06-20T11:03:27.531Z"
 }
