@@ -3,12 +3,15 @@
   "type": "person",
   "name": "三目傀儡",
   "aliases": [
-    "三目武将傀儡"
+    "三目武将傀儡",
+    "三目武将",
+    "守地傀儡"
   ],
   "summary": "蜉蝣族一方武将傀儡，四五丈高、三目、持巨斧、青色尖刺战甲；提议拖住敌人待援。",
   "attributes": {
-    "身份": "傀儡",
-    "外貌": "四五丈高、三目、青色尖刺战甲、持巨斧"
+    "身份": "傀儡、蜉蝣族守地傀儡",
+    "外貌": "四五丈高、三目、青色尖刺战甲、持巨斧",
+    "阵营": "蜉蝣族"
   },
   "observations": {
     "身份": [
@@ -17,12 +20,25 @@
         "docId": "plot.fanren-1480-bai-ying",
         "seq": 1477,
         "note": "大神通者附身"
+      },
+      {
+        "value": "蜉蝣族守地傀儡",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477,
+        "note": "金蜉本体附身，实力约半"
       }
     ],
     "外貌": [
       {
         "value": "四五丈高、三目、青色尖刺战甲、持巨斧",
         "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      }
+    ],
+    "阵营": [
+      {
+        "value": "蜉蝣族",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
         "seq": 1477
       }
     ]
@@ -41,12 +57,19 @@
       "docId": "plot.fanren-1480-bai-ying",
       "dated": false,
       "seq": 1477
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+      "dated": false,
+      "seq": 1477
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1480-bai-ying"
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1477-1482-baiying-guinv-fuyou-zu"
   ],
-  "updatedAt": "2026-06-16T17:48:19.464Z"
+  "updatedAt": "2026-06-20T13:02:17.410Z"
 }

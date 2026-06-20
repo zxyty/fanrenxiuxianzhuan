@@ -8,8 +8,10 @@
   ],
   "summary": "蜉蝣族一方的为首傀儡，紫色盔甲背双金色大锤，由大神通者附身，自称傀儡之身可发挥本体一半实力。",
   "attributes": {
-    "身份": "傀儡",
-    "外貌": "紫色盔甲、背两件金色大锤"
+    "身份": "傀儡、蜉蝣族守地傀儡",
+    "外貌": "紫色盔甲、背两件金色大锤",
+    "种族": "蜉蝣族",
+    "阵营": "蜉蝣族"
   },
   "observations": {
     "身份": [
@@ -18,12 +20,31 @@
         "docId": "plot.fanren-1480-bai-ying",
         "seq": 1477,
         "note": "被大神通者附身操控"
+      },
+      {
+        "value": "蜉蝣族守地傀儡",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ],
     "外貌": [
       {
         "value": "紫色盔甲、背两件金色大锤",
         "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      }
+    ],
+    "种族": [
+      {
+        "value": "蜉蝣族",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
+      }
+    ],
+    "阵营": [
+      {
+        "value": "蜉蝣族",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
         "seq": 1477
       }
     ]
@@ -42,12 +63,25 @@
       "docId": "plot.fanren-1480-bai-ying",
       "dated": false,
       "seq": 1477
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+      "dated": false,
+      "seq": 1477
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+      "dated": false,
+      "seq": 1477
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1480-bai-ying"
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1477-1482-baiying-guinv-fuyou-zu"
   ],
-  "updatedAt": "2026-06-16T17:48:19.463Z"
+  "updatedAt": "2026-06-20T13:02:17.414Z"
 }

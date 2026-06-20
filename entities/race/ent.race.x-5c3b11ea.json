@@ -5,14 +5,15 @@
   "aliases": [
     "蜉蝣",
     "蜉蝣之族",
-    "蜉蝣一族"
+    "蜉蝣一族",
+    "Fuyou clan"
   ],
   "summary": "灵界异族，以冥河之地为圣地、护圣物，竟修阴鬼之力，冥河之水为其所生；最高战力称『天蜉阶』。",
   "attributes": {
-    "聚居地": "冥河之地（蜉蝣族圣地）、灵界、冥河之地",
-    "特性": "以附身傀儡守护圣地、竟修阴鬼之力、冥河之水为其所生、灵虫之躯、等级真灵>天蜉>金蜉",
-    "代表人物": "天蜉阶存在、六足、血甲傀儡、木青、蜉蝣族长老、血甲傀儡本体",
-    "天赋神通": "研制淬晶砖与密符"
+    "聚居地": "冥河之地（蜉蝣族圣地）、灵界、冥河之地、冥河之地圣地、冥河圣地",
+    "特性": "以附身傀儡守护圣地、竟修阴鬼之力、冥河之水为其所生、灵虫之躯、等级真灵>天蜉>金蜉、生成冥河之水、驱附身傀儡大军、灵虫之躯",
+    "代表人物": "天蜉阶存在、六足、血甲傀儡、木青、蜉蝣族长老、血甲傀儡本体、天蜉",
+    "天赋神通": "虫海大军、布设连通异空间的禁制法阵、研制淬晶砖与密符、翅翼尖鸣、复眼光柱"
   },
   "observations": {
     "聚居地": [
@@ -30,6 +31,16 @@
         "value": "冥河之地",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "冥河之地圣地",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
+      },
+      {
+        "value": "冥河圣地",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ],
     "特性": [
@@ -51,6 +62,21 @@
       {
         "value": "灵虫之躯、等级真灵>天蜉>金蜉",
         "docId": "plot.fanren-1480-bai-ying",
+        "seq": 1477
+      },
+      {
+        "value": "生成冥河之水",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
+      },
+      {
+        "value": "驱附身傀儡大军",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
+      },
+      {
+        "value": "灵虫之躯",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
         "seq": 1477
       }
     ],
@@ -84,6 +110,11 @@
         "value": "血甲傀儡本体",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "天蜉",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ],
     "天赋神通": [
@@ -101,6 +132,16 @@
         "value": "研制淬晶砖与密符",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "翅翼尖鸣",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
+      },
+      {
+        "value": "复眼光柱",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ]
   },
@@ -126,9 +167,9 @@
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "docId": "plot.fanren-1480-bai-ying",
       "dated": false,
-      "seq": 1501
+      "seq": 1477
     }
   },
   "contested": false,
@@ -138,7 +179,8 @@
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1477-1482-baiying-guinv-fuyou-zu"
   ],
-  "updatedAt": "2026-06-16T19:14:17.447Z"
+  "updatedAt": "2026-06-20T13:02:17.404Z"
 }

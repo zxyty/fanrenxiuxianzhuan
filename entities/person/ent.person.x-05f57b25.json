@@ -10,8 +10,8 @@
   "summary": "半面碧绿干瘪、半面貌美的女鬼，精通空间神通，骨爪攻击韩立未果，闻巨吼后遁走。",
   "attributes": {
     "性别": "女",
-    "种族": "鬼物",
-    "外貌": "身穿闪亮白袍、一臂衣袖荡然无存",
+    "种族": "鬼物、高阶鬼物",
+    "外貌": "半面碧绿干瘪、半面唇红齿白，两绿眼，青丝如云，身披白亮袍、诡异白袍、身穿闪亮白袍、一臂衣袖荡然无存、半面碧绿干瘪、半面唇红齿白貌美",
     "标志特征": "独臂",
     "身份": "高阶鬼物",
     "存殁": "死亡",
@@ -30,6 +30,11 @@
         "value": "鬼物",
         "docId": "plot.fanren-1480-bai-ying",
         "seq": 1477
+      },
+      {
+        "value": "高阶鬼物",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ],
     "外貌": [
@@ -47,6 +52,11 @@
         "value": "身穿闪亮白袍、一臂衣袖荡然无存",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "半面碧绿干瘪、半面唇红齿白貌美",
+        "docId": "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
+        "seq": 1477
       }
     ],
     "标志特征": [
@@ -100,9 +110,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "docId": "plot.fanren-1480-bai-ying",
       "dated": false,
-      "seq": 1489
+      "seq": 1477
     },
     "标志特征": {
       "asOf": null,
@@ -135,7 +145,8 @@
   "docs": [
     "plot.fanren-1480-bai-ying",
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
-    "plot.fanren-1489-1494-dazhan-minglei-shou"
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1477-1482-baiying-guinv-fuyou-zu"
   ],
-  "updatedAt": "2026-06-16T18:22:13.437Z"
+  "updatedAt": "2026-06-20T13:02:17.312Z"
 }
