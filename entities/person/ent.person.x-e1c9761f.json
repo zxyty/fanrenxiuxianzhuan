@@ -4,14 +4,17 @@
   "name": "旬道友",
   "aliases": [
     "蓝袍中年",
-    "旬姓中年修士"
+    "旬姓中年修士",
+    "蓝袍中年修士"
   ],
   "summary": "化神级，外围警戒，被雪亮光片斩首，逃出的元婴携令箭状宝物仍被黑霞卷走身亡。",
   "attributes": {
     "性别": "男",
     "小阶段": "化神",
     "存殁": "死亡",
-    "死因": "被带翅异族斩首、元婴遭黑霞卷走"
+    "死因": "被带翅异族斩首、元婴遭黑霞卷走、被带翅异族斩首、元婴被卷走",
+    "外貌": "蓝袍中年",
+    "身份": "山外警戒"
   },
   "observations": {
     "性别": [
@@ -39,6 +42,25 @@
       {
         "value": "被带翅异族斩首、元婴遭黑霞卷走",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "被带翅异族斩首、元婴被卷走",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "外貌": [
+      {
+        "value": "蓝袍中年",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "身份": [
+      {
+        "value": "山外警戒",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -68,12 +90,25 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.645Z"
+  "updatedAt": "2026-06-20T10:47:31.741Z"
 }

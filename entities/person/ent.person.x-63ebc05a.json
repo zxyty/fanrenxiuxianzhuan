@@ -8,7 +8,9 @@
     "性别": "男",
     "小阶段": "化神",
     "存殁": "死亡",
-    "死因": "被带翅异族青黑巨爪捏爆元婴"
+    "死因": "被带翅异族青黑巨爪捏爆元婴、被带翅异族巨爪捏爆",
+    "外貌": "白袍老者",
+    "身份": "山外警戒"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,25 @@
       {
         "value": "被带翅异族青黑巨爪捏爆元婴",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "被带翅异族巨爪捏爆",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白袍老者",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "身份": [
+      {
+        "value": "山外警戒",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -65,12 +86,25 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.644Z"
+  "updatedAt": "2026-06-20T10:47:31.740Z"
 }

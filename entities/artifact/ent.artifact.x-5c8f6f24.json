@@ -4,13 +4,15 @@
   "name": "百障迷光幡",
   "aliases": [
     "迷光幡",
-    "白幡"
+    "白幡",
+    "雪白小幡"
   ],
   "summary": "肖仙子所持遮隐法宝，放乳白霞光可遮蔽身形、连明清灵目亦难看破，但瞒不过神念。",
   "attributes": {
     "持有者": "肖仙子",
-    "能力": "遮蔽身形（连明清灵目难破，神念可探）",
-    "外形": "雪白小幡"
+    "能力": "遮蔽身形（连明清灵目难破，神念可探）、极强隐形",
+    "外形": "雪白小幡",
+    "禁制": "对神念不强的虫兽尤效，挡不住强神念扫描"
   },
   "observations": {
     "持有者": [
@@ -25,12 +27,24 @@
         "value": "遮蔽身形（连明清灵目难破，神念可探）",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "极强隐形",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "外形": [
       {
         "value": "雪白小幡",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "禁制": [
+      {
+        "value": "对神念不强的虫兽尤效，挡不住强神念扫描",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -54,12 +68,19 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.631Z"
+  "updatedAt": "2026-06-20T10:47:31.703Z"
 }

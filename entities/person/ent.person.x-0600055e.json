@@ -6,14 +6,15 @@
     "青前辈",
     "美艳女子",
     "祝夫人",
-    "祝姓青年之妻"
+    "祝姓青年之妻",
+    "祝姓青年夫人"
   ],
   "summary": "祝姓青年的炼虚期女伴侣，青丝高盘、美艳异常，自始至终一言不发。",
   "attributes": {
     "性别": "女",
     "小阶段": "炼虚期、炼虚",
-    "身份": "天渊城金卫、祝姓青年之妻",
-    "外貌": "青丝高盘、身材丰满、莲藕玉臂玉足",
+    "身份": "天渊城金卫、祝姓青年之妻、取血队成员",
+    "外貌": "青丝高盘、身材丰满、莲藕玉臂玉足、美艳女子",
     "标志特征": "全程不语",
     "阵营": "人族"
   },
@@ -47,12 +48,22 @@
         "value": "祝姓青年之妻",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "取血队成员",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "外貌": [
       {
         "value": "青丝高盘、身材丰满、莲藕玉臂玉足",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "美艳女子",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ],
@@ -114,7 +125,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1393-1398-yecha-wang-changnu"
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T15:11:49.186Z"
+  "updatedAt": "2026-06-20T10:47:31.735Z"
 }

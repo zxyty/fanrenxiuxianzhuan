@@ -7,8 +7,9 @@
   ],
   "summary": "巨山中巨大矿脉，遁入山石者灵力被强行禁制吸走，并遮蔽神念探测。",
   "attributes": {
-    "类型": "矿脉/磁力禁地",
-    "用途": "禁制吸取灵力、遮蔽探测"
+    "类型": "灵矿矿脉、矿脉/磁力禁地、灵磁矿脉",
+    "用途": "禁制吸取灵力、遮蔽探测、禁制吸走灵力、阻断神念探测",
+    "产地": "蛮荒界巨山"
   },
   "observations": {
     "类型": [
@@ -21,12 +22,29 @@
         "value": "矿脉/磁力禁地",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "灵磁矿脉",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "用途": [
       {
         "value": "禁制吸取灵力、遮蔽探测",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "禁制吸走灵力、阻断神念探测",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "产地": [
+      {
+        "value": "蛮荒界巨山",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -35,13 +53,19 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
-      "seq": 1393
+      "seq": 1387
     },
     "用途": {
       "asOf": null,
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+      "dated": false,
+      "seq": 1387
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
       "dated": false,
       "seq": 1387
     }
@@ -50,7 +74,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1393-1398-yecha-wang-changnu"
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T15:11:49.203Z"
+  "updatedAt": "2026-06-20T10:47:31.756Z"
 }

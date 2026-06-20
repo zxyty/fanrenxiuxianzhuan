@@ -10,9 +10,9 @@
   ],
   "summary": "蛮荒世界古兽，其灵血为真蟾液主料，罕见难求。",
   "attributes": {
-    "栖息地": "蛮荒世界、蛮荒界地下深处巢穴、蛮荒界巨山地下巢穴",
+    "栖息地": "蛮荒世界、蛮荒界地下深处巢穴、蛮荒界巨山地下巢穴、湖中巨山底部地下洞窟",
     "能力": "体内蕴含银白色灵血",
-    "等级": "炼虚中期(成年)、元婴级(幼蟾)",
+    "等级": "炼虚中期(成年)、元婴级(幼蟾)、成年炼虚中期、幼蟾元婴级",
     "外形": "巨蟾，有大小之分(两大七小共九具尸体)",
     "种族": "蛮荒古兽"
   },
@@ -32,6 +32,11 @@
         "value": "蛮荒界巨山地下巢穴",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "湖中巨山底部地下洞窟",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "能力": [
@@ -44,6 +49,11 @@
         "value": "体内蕴含银白色灵血",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "灵血珍贵",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "等级": [
@@ -55,6 +65,16 @@
       {
         "value": "元婴级(幼蟾)",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "成年炼虚中期",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "幼蟾元婴级",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ],
@@ -113,7 +133,8 @@
     "plot.fanren-1387-1392-julji-tushan-zhentu",
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-20T09:02:29.372Z"
+  "updatedAt": "2026-06-20T10:47:31.744Z"
 }

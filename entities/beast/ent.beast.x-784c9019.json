@@ -8,9 +8,9 @@
   "summary": "蛮荒界虫兽，体长两丈白胖如蚕蛹、六只红眼，天生精通水雷两遁、胆小，遇敌发巨鼓怪鸣传数百里，常被驯作警戒。",
   "attributes": {
     "等级": "化神级",
-    "能力": "水遁术、雷遁术、巨鼓怪鸣警报",
-    "栖息地": "蛮荒界",
-    "外形": "白胖蚕蛹状、六只红眼、獠牙大口"
+    "能力": "水遁术、雷遁术、巨鼓怪鸣警报、巨鼓警鸣",
+    "栖息地": "蛮荒界、蛮荒界巨山地下通道",
+    "外形": "白胖蚕蛹状、六只红眼、獠牙大口、两丈白胖蚕蛹状、一端有六红眼獠牙头颅"
   },
   "observations": {
     "等级": [
@@ -35,6 +35,11 @@
         "value": "巨鼓怪鸣警报",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "巨鼓警鸣",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "栖息地": [
@@ -42,12 +47,22 @@
         "value": "蛮荒界",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "蛮荒界巨山地下通道",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "外形": [
       {
         "value": "白胖蚕蛹状、六只红眼、獠牙大口",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "两丈白胖蚕蛹状、一端有六红眼獠牙头颅",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -82,7 +97,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.646Z"
+  "updatedAt": "2026-06-20T10:47:31.743Z"
 }

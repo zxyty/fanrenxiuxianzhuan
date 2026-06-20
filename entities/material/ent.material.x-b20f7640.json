@@ -8,7 +8,7 @@
   "summary": "毫无味道的碧绿色香，对黑血蚁有莫大吸引力，点燃可将其引出地面。",
   "attributes": {
     "类型": "灵香",
-    "用途": "引诱黑血蚁出地面"
+    "用途": "引诱黑血蚁出地面、引诱黑血蚁出地"
   },
   "observations": {
     "类型": [
@@ -22,6 +22,11 @@
       {
         "value": "引诱黑血蚁出地面",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "引诱黑血蚁出地",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -44,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.632Z"
+  "updatedAt": "2026-06-20T10:47:31.706Z"
 }

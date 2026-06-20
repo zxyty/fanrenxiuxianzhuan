@@ -12,7 +12,8 @@
   "attributes": {
     "性别": "男",
     "小阶段": "化神后期",
-    "标志特征": "斗笠、风遁术"
+    "标志特征": "斗笠、风遁术、风遁术",
+    "外貌": "斗笠老翁"
   },
   "observations": {
     "性别": [
@@ -33,6 +34,18 @@
       {
         "value": "斗笠、风遁术",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "风遁术",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "外貌": [
+      {
+        "value": "斗笠老翁",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -56,12 +69,19 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.642Z"
+  "updatedAt": "2026-06-20T10:47:31.736Z"
 }

@@ -9,10 +9,11 @@
   ],
   "summary": "祝夫妇从好友处借来的雷属性法宝旗，八名雷属性修士持之可组成天都环雷阵困影虫兽。",
   "attributes": {
-    "能力": "组天都环雷阵困影虫兽、组天都玄雷阵、布雷光",
+    "能力": "组天都环雷阵困影虫兽、组天都玄雷阵、布雷光、组成天都环雷阵困影虫兽、布雷光法阵困敌",
     "五行属性": "雷",
-    "持有者": "祝姓青年（分发）",
-    "外形": "数寸银旗、紫符雷纹"
+    "持有者": "祝姓青年（分发）、取血队多名修士",
+    "外形": "数寸银旗、紫符雷纹",
+    "来历": "祝夫妇从好友处借来"
   },
   "observations": {
     "能力": [
@@ -24,6 +25,16 @@
       {
         "value": "组天都玄雷阵、布雷光",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "组成天都环雷阵困影虫兽",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "布雷光法阵困敌",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ],
@@ -39,12 +50,24 @@
         "value": "祝姓青年（分发）",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "取血队多名修士",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "外形": [
       {
         "value": "数寸银旗、紫符雷纹",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "来历": [
+      {
+        "value": "祝夫妇从好友处借来",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -74,12 +97,19 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.650Z"
+  "updatedAt": "2026-06-20T10:47:31.748Z"
 }

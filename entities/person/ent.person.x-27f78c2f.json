@@ -11,11 +11,12 @@
   "summary": "银白长裙、二十五六岁清秀女修，所修功法克制影虫兽，持百障迷光幡。",
   "attributes": {
     "性别": "女",
-    "外貌": "身材婀娜娇小",
-    "标志特征": "持法盘、催动金篆文旗阵",
+    "外貌": "银白长裙、相貌清秀、约二十五六岁、身材婀娜娇小、银白长裙、二十五六岁、相貌清秀",
+    "标志特征": "赤红玉尺、白色冰罩、持法盘、催动金篆文旗阵、持百障迷光幡、白色冰罩",
     "种族": "人族",
     "小阶段": "化神",
-    "阵营": "人族"
+    "阵营": "人族",
+    "身份": "取血队成员"
   },
   "observations": {
     "性别": [
@@ -35,6 +36,11 @@
         "value": "身材婀娜娇小",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "银白长裙、二十五六岁、相貌清秀",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "标志特征": [
@@ -47,6 +53,16 @@
         "value": "持法盘、催动金篆文旗阵",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "持百障迷光幡",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "白色冰罩",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "种族": [
@@ -69,6 +85,13 @@
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
+    ],
+    "身份": [
+      {
+        "value": "取血队成员",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
     ]
   },
   "firstSeq": 1387,
@@ -81,15 +104,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
-      "seq": 1393
+      "seq": 1387
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
-      "seq": 1393
+      "seq": 1387
     },
     "种族": {
       "asOf": null,
@@ -108,13 +131,20 @@
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1393-1398-yecha-wang-changnu"
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T15:11:49.222Z"
+  "updatedAt": "2026-06-20T10:47:31.737Z"
 }

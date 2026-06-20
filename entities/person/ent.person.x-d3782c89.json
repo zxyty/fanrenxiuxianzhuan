@@ -5,14 +5,16 @@
   "aliases": [
     "莹道友",
     "面纱女子",
-    "面带面纱的莹仙子"
+    "面带面纱的莹仙子",
+    "翠衫女子"
   ],
   "summary": "翠衫戴面纱女修，碧眼真蟾巢穴的发现者之一，亦为行动发起人之一。",
   "attributes": {
     "性别": "女",
     "小阶段": "化神中期",
-    "外貌": "翠衫、头戴面纱、似极年轻",
-    "标志特征": "面纱"
+    "外貌": "翠衫、头戴面纱、似极年轻、翠衫、头戴面纱、面带面纱",
+    "标志特征": "面纱",
+    "身份": "发起人之一、取血队成员"
   },
   "observations": {
     "性别": [
@@ -34,12 +36,34 @@
         "value": "翠衫、头戴面纱、似极年轻",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "翠衫、头戴面纱",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "面带面纱",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "标志特征": [
       {
         "value": "面纱",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      }
+    ],
+    "身份": [
+      {
+        "value": "发起人之一",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "取血队成员",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -69,12 +93,19 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.643Z"
+  "updatedAt": "2026-06-20T10:47:31.739Z"
 }

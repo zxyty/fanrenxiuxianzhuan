@@ -5,11 +5,13 @@
   "aliases": [
     "夜叉",
     "带翅之人",
-    "巨鬼一族"
+    "巨鬼一族",
+    "背生双翅异族",
+    "翅人"
   ],
   "summary": "蛮荒界异族，背生赤红肉翼，分丑恶巨鬼（男）与貌美女子，吞食人族元婴为大补，进阶可成夜叉王、合体期。",
   "attributes": {
-    "特性": "背生赤红肉翼、吞食修士元婴为大补",
+    "特性": "背生赤红肉翼、吞食修士元婴为大补、吞食人族元婴为补、进阶夜叉王",
     "聚居地": "蛮荒界",
     "代表人物": "梦祥"
   },
@@ -23,6 +25,16 @@
       {
         "value": "吞食修士元婴为大补",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "吞食人族元婴为补",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      },
+      {
+        "value": "进阶夜叉王",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ],
@@ -65,7 +77,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.648Z"
+  "updatedAt": "2026-06-20T10:47:31.751Z"
 }

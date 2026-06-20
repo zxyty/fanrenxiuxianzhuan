@@ -7,8 +7,9 @@
   ],
   "summary": "由八名雷属性修士持玄清天雷旗组成的雷系困阵，用于困住影虫兽群。",
   "attributes": {
-    "效果": "困住影虫兽群",
-    "布置者": "八名雷属性飞升修士"
+    "效果": "困住影虫兽群、困住影虫兽",
+    "布置者": "八名雷属性飞升修士、八名雷属性修士",
+    "出处": "玄清天雷旗"
   },
   "observations": {
     "效果": [
@@ -16,12 +17,29 @@
         "value": "困住影虫兽群",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "困住影虫兽",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
       }
     ],
     "布置者": [
       {
         "value": "八名雷属性飞升修士",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
+        "seq": 1387
+      },
+      {
+        "value": "八名雷属性修士",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+        "seq": 1387
+      }
+    ],
+    "出处": [
+      {
+        "value": "玄清天雷旗",
+        "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
       }
     ]
@@ -39,12 +57,19 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "dated": false,
+      "seq": 1387
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-16T14:59:17.631Z"
+  "updatedAt": "2026-06-20T10:47:31.705Z"
 }
