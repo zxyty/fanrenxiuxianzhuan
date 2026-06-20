@@ -18,9 +18,9 @@
   "summary": "乱星海第一大城，星宫首城，依圣山盘旋而建，自由开放并设通往外星海的传送阵。",
   "attributes": {
     "所属势力": "星宫",
-    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛、城池/海域核心、巨城、城池/势力据点、大城、城/宗门据点",
+    "类型": "超级城市、修仙城市、坊市/城池、修仙城池、修士城池/坊市、修仙城池/坊市、城池、修士城池、城池/岛屿、修真城市、城市、大城/宗门据点、巨岛都城、城、城池/巨岛、城池/海域核心、巨城、城池/势力据点、大城、城/宗门据点、城/宫",
     "特产": "妖丹、拍卖收购行",
-    "守护": "风火天绝阵",
+    "守护": "风火天绝阵／蓝色光幕禁制",
     "所属界面": "乱星海、乱星海内海、乱星海(内星海)、人界、乱星海（内星海）、人界乱星海、天南/乱星海、人界·乱星海",
     "危险度": "高（两方大战）"
   },
@@ -132,6 +132,11 @@
         "value": "城/宗门据点",
         "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "城/宫",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "特产": [
@@ -166,6 +171,11 @@
         "value": "风火天绝阵",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "风火天绝阵／蓝色光幕禁制",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "所属界面": [
@@ -240,9 +250,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
       "dated": false,
-      "seq": 1195
+      "seq": 1201
     },
     "所属界面": {
       "asOf": null,
@@ -288,7 +298,8 @@
     "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
     "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
     "plot.fanren-1147-1152-jiaoyu-duobao",
-    "plot.fmxz-ch1155-yaoshou-zhi-luan"
+    "plot.fmxz-ch1155-yaoshou-zhi-luan",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-20T05:00:29.080Z"
+  "updatedAt": "2026-06-20T05:16:59.786Z"
 }

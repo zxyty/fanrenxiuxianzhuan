@@ -7,10 +7,10 @@
   ],
   "summary": "上古禁断大阵，借天地风火之力、阵体庞大；万天明请阵法大家在天星城四周布设以困城。",
   "attributes": {
-    "效果": "借天地风火之力、困城、阻挡中低阶修士与大型禁制、对单个神通惊人者效用有限、风火之力轰击、对筑基期巨大杀伤、借风火之力围困封锁",
-    "出处": "上古禁断大阵",
-    "布置者": "万天明、逆星盟、万天明请来的数名阵法大家",
-    "破解法": "毁阵眼(青红色铜柱)",
+    "效果": "借天地风火之力、困城、阻挡中低阶修士与大型禁制、对单个神通惊人者效用有限、风火之力轰击、对筑基期巨大杀伤、借风火之力围困封锁、阻挡中低阶修士、破大型禁制、对单个神通惊人修士效用有限、护岛禁制／淡蓝光幕、风火之力轰击、围城绞杀",
+    "出处": "逆星盟",
+    "布置者": "万天明、逆星盟、万天明请来的数名阵法大家、星宫",
+    "破解法": "毁去三十六根关键风火柱中大半、先夺阵眼、毁阵眼(青红色铜柱)、破阵眼(柱毁可修复，难真正破除)、高阶修士可强闯穿过",
     "品阶": "上古禁断大阵"
   },
   "observations": {
@@ -44,6 +44,31 @@
         "value": "借风火之力围困封锁",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "阻挡中低阶修士",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "破大型禁制",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "对单个神通惊人修士效用有限",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "护岛禁制／淡蓝光幕",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "风火之力轰击、围城绞杀",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "出处": [
@@ -51,6 +76,11 @@
         "value": "上古禁断大阵",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "布置者": [
@@ -68,6 +98,11 @@
         "value": "万天明请来的数名阵法大家",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "破解法": [
@@ -85,6 +120,11 @@
         "value": "破阵眼(柱毁可修复，难真正破除)",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "高阶修士可强闯穿过",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "品阶": [
@@ -105,9 +145,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
       "dated": false,
-      "seq": 1195
+      "seq": 1201
     },
     "布置者": {
       "asOf": null,
@@ -117,9 +157,9 @@
     },
     "破解法": {
       "asOf": null,
-      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+      "docId": "plot.fanren-1196-er-nv",
       "dated": false,
-      "seq": 1213
+      "seq": 1195
     },
     "品阶": {
       "asOf": null,
@@ -133,7 +173,8 @@
   "docs": [
     "plot.fanren-1196-er-nv",
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
-    "lore.fanren-1215-linggen-wuxing-heyi"
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-20T05:00:29.084Z"
+  "updatedAt": "2026-06-20T05:16:59.787Z"
 }

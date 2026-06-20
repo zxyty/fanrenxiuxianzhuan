@@ -4,14 +4,17 @@
   "name": "骅姓道士",
   "aliases": [
     "骅道友",
-    "灰袍中年道士"
+    "灰袍中年道士",
+    "骅兄"
   ],
   "summary": "元婴初期中年道士，灰道袍，持八卦镜、雪白灵禽、白色如意、赤红令牌，被韩立斩首焚尸、元婴灭杀身亡。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴初期",
+    "小阶段": "元婴初期、元婴",
     "存殁": "死亡",
-    "死因": "被韩立辟邪神雷金网灭杀元婴"
+    "死因": "被韩立辟邪神雷金网灭杀元婴、被韩立斩首焚尸、元婴被辟邪神雷金网轰灭",
+    "外貌": "灰色道袍中年道士、中年道士",
+    "性格": "不肯出世"
   },
   "observations": {
     "性别": [
@@ -26,6 +29,11 @@
         "value": "元婴初期",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "存殁": [
@@ -39,6 +47,30 @@
       {
         "value": "被韩立辟邪神雷金网灭杀元婴",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "被韩立斩首焚尸、元婴被辟邪神雷金网轰灭",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰色道袍中年道士",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "中年道士",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
+    ],
+    "性格": [
+      {
+        "value": "不肯出世",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
       }
     ]
@@ -68,12 +100,25 @@
       "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
       "dated": false,
       "seq": 1201
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-16T07:30:46.455Z"
+  "updatedAt": "2026-06-20T05:16:59.753Z"
 }

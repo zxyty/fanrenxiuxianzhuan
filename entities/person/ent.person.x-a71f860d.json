@@ -5,15 +5,19 @@
   "aliases": [
     "隆兄",
     "隆道友",
-    "面色泛青老者"
+    "面色泛青老者",
+    "龙姓老者"
   ],
   "summary": "金莲门之人，元婴初期，乘天风车追击韩立，败后自斩手臂化血影遁逃。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴初期",
     "出身地": "金莲门",
-    "标志特征": "面色泛青、面皮泛青、断臂秘术移接",
-    "身份": "逆星盟修士"
+    "标志特征": "面色泛青、面皮泛青、断臂秘术移接、持两面青钹／圆钹",
+    "身份": "逆星盟修士",
+    "外貌": "面色泛青老者、老者、面皮泛青老者",
+    "阵营": "逆星盟（助阵）、逆星盟",
+    "结局": "以血影遁逃脱无踪"
   },
   "observations": {
     "性别": [
@@ -47,12 +51,53 @@
         "value": "面皮泛青、断臂秘术移接",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "持两面青钹／圆钹",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "身份": [
       {
         "value": "逆星盟修士",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      }
+    ],
+    "外貌": [
+      {
+        "value": "面色泛青老者",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "面皮泛青老者",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
+    ],
+    "阵营": [
+      {
+        "value": "逆星盟（助阵）",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
+    ],
+    "结局": [
+      {
+        "value": "以血影遁逃脱无踪",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
       }
     ]
@@ -88,12 +133,31 @@
       "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
       "dated": false,
       "seq": 1201
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-16T07:30:46.483Z"
+  "updatedAt": "2026-06-20T05:16:59.777Z"
 }

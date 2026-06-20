@@ -6,7 +6,8 @@
   "summary": "万法门三大灵岛之一，灵脉品质高、产珍稀灵花灵草，被许诺让予金莲门。",
   "attributes": {
     "所属势力": "万法门",
-    "特产": "高品灵脉、珍稀灵花灵草"
+    "特产": "高品灵脉、珍稀灵花灵草、高品质灵脉、灵花灵草",
+    "类型": "灵岛"
   },
   "observations": {
     "所属势力": [
@@ -26,6 +27,23 @@
         "value": "珍稀灵花灵草",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "高品质灵脉",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "灵花灵草",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵岛",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ]
   },
@@ -42,12 +60,19 @@
       "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
       "dated": false,
       "seq": 1201
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-16T07:30:46.472Z"
+  "updatedAt": "2026-06-20T05:16:59.745Z"
 }

@@ -11,7 +11,8 @@
   "summary": "星宫客卿令牌，持有者可调用星宫在外海的所有人手资源。",
   "attributes": {
     "类型": "令牌、身份令牌、身份信物",
-    "用途": "调用星宫外海人手资源、客卿身份/可被追踪行踪、证明星宫客卿身份、调用星宫外海资源/被双圣用于追踪行踪"
+    "用途": "调用星宫外海人手资源、客卿身份/可被追踪行踪、证明星宫客卿身份、调用星宫外海资源/被双圣用于追踪行踪",
+    "产地": "星宫"
   },
   "observations": {
     "类型": [
@@ -52,6 +53,13 @@
         "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
+    ],
+    "产地": [
+      {
+        "value": "星宫",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
     ]
   },
   "firstSeq": 1129,
@@ -67,6 +75,12 @@
       "docId": "plot.fanren-1131-jidan",
       "dated": false,
       "seq": 1129
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
     }
   },
   "contested": false,
@@ -76,7 +90,8 @@
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
-    "plot.fanren-1147-1152-jiaoyu-duobao"
+    "plot.fanren-1147-1152-jiaoyu-duobao",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-18T12:01:49.628Z"
+  "updatedAt": "2026-06-20T05:16:59.769Z"
 }

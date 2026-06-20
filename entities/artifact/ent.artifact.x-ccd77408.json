@@ -8,8 +8,8 @@
   "summary": "隆姓老者法宝，数寸玉车可涨数丈，于风火大阵中遁速加倍、可隐匿并与阵融合。",
   "attributes": {
     "持有者": "隆姓老者",
-    "能力": "阵中遁速加倍、隐匿",
-    "外形": "玉车"
+    "能力": "阵中遁速加倍、隐匿、风火大阵中遁速翻倍、隐匿禁制、融入光霞",
+    "外形": "玉车、数寸至数丈玉车"
   },
   "observations": {
     "持有者": [
@@ -29,12 +29,32 @@
         "value": "隐匿",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "风火大阵中遁速翻倍",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "隐匿禁制",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      },
+      {
+        "value": "融入光霞",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
       }
     ],
     "外形": [
       {
         "value": "玉车",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+        "seq": 1201
+      },
+      {
+        "value": "数寸至数丈玉车",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
       }
     ]
@@ -63,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-16T07:30:46.467Z"
+  "updatedAt": "2026-06-20T05:16:59.741Z"
 }

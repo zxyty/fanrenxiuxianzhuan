@@ -10,7 +10,8 @@
     "性别": "女",
     "小阶段": "元婴中期",
     "身份": "逆星盟修士",
-    "外貌": "大红大绿服饰老妪"
+    "外貌": "大红大绿服饰老妪",
+    "阵营": "逆星盟"
   },
   "observations": {
     "性别": [
@@ -40,6 +41,13 @@
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
       }
+    ],
+    "阵营": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+        "seq": 1201
+      }
     ]
   },
   "firstSeq": 1201,
@@ -67,12 +75,19 @@
       "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
       "dated": false,
       "seq": 1201
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "dated": false,
+      "seq": 1201
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5"
+    "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+    "plot.fanren-1202-xinggong-zhi-zhan-3"
   ],
-  "updatedAt": "2026-06-16T07:30:46.484Z"
+  "updatedAt": "2026-06-20T05:16:59.777Z"
 }
