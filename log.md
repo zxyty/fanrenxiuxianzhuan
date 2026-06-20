@@ -530,3 +530,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-18T12:42:43.980Z** `ingest` plot.fanren-1173-second-yuanying-tiansha-corpse — 第1173章 第二元婴失控夺舍天煞魔尸，擒慕沛灵三女 · kind=plot asOf=2026-06-18 entities=53 relations=67 src=01171-01176.md
 - **2026-06-19T09:55:58.853Z** `ingest` plot.ch1179-inner-valley-seek-three-women — 第1179章·血月觅灵——韩立内谷以噬金虫搜寻宋姓三女 · kind=plot asOf=2026-06-19 entities=30 relations=38 src=01177-01182.p1.md
 - **2026-06-19T10:12:28.827Z** `ingest` plot.ch1180-rescue-lava-lake-mupeilin — 第1180章·解救——韩立潜入熔岩湖底寻获慕沛灵三女 · kind=plot asOf=2026-06-19 entities=21 relations=21 src=01177-01182.p2.md
+- **2026-06-20T04:12:14.975Z** `ingest` plot.fanren-1181-chonglin-qiling — 第1181章 重临七灵——韩立追索第二元婴 · kind=plot asOf=2026-06-20 entities=17 relations=18 src=01177-01182.p3.md

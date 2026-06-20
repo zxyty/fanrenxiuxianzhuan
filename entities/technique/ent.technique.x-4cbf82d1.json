@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "炼出玄阴魔气的魔功，仅极阴祖师、乌丑及韩立第二元婴修过；含魔气灌体之法，可短期强行突破但后患不小。",
   "attributes": {
-    "效果": "炼玄阴魔气、魔气灌体强行突破"
+    "效果": "炼玄阴魔气、魔气灌体强行突破、魔气灌体强行突破瓶颈",
+    "五行属性": "阴"
   },
   "observations": {
     "效果": [
@@ -18,6 +19,18 @@
         "value": "魔气灌体强行突破",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
         "seq": 1177
+      },
+      {
+        "value": "魔气灌体强行突破瓶颈",
+        "docId": "plot.fanren-1181-chonglin-qiling",
+        "seq": 1177
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "阴",
+        "docId": "plot.fanren-1181-chonglin-qiling",
+        "seq": 1177
       }
     ]
   },
@@ -28,12 +41,19 @@
       "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
       "dated": false,
       "seq": 1177
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-1181-chonglin-qiling",
+      "dated": false,
+      "seq": 1177
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women"
+    "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+    "plot.fanren-1181-chonglin-qiling"
   ],
-  "updatedAt": "2026-06-16T06:37:19.263Z"
+  "updatedAt": "2026-06-20T04:12:14.842Z"
 }
