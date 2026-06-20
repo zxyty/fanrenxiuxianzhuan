@@ -8,9 +8,11 @@
   "summary": "与巨灵花伴生的猿猴状妖物，头生四耳、手持发白光石矛、可投出石锥攻击。",
   "attributes": {
     "等级": "妖物",
-    "外形": "数尺高猿猴状、头生四耳、持石矛",
+    "外形": "数尺高猿猴状、头生四耳、持石矛、数尺高、头生四耳、持石矛",
     "主人": "血袍人",
-    "能力": "幻化隐匿、毒雾、分身（八身）"
+    "能力": "幻化隐匿、毒雾、分身（八身）",
+    "栖息地": "地渊",
+    "天敌": "青竹蜂云剑"
   },
   "observations": {
     "等级": [
@@ -24,6 +26,11 @@
       {
         "value": "数尺高猿猴状、头生四耳、持石矛",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "数尺高、头生四耳、持石矛",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ],
@@ -48,6 +55,20 @@
       {
         "value": "分身（八身）",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "地渊",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
+      }
+    ],
+    "天敌": [
+      {
+        "value": "青竹蜂云剑",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ]
@@ -77,12 +98,25 @@
       "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
       "seq": 1435
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+      "dated": false,
+      "seq": 1435
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+      "dated": false,
+      "seq": 1435
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1438-1440-yinzhufeng-juilinghua"
   ],
-  "updatedAt": "2026-06-16T16:33:50.675Z"
+  "updatedAt": "2026-06-20T11:45:55.834Z"
 }

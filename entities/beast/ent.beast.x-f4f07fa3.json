@@ -2,19 +2,26 @@
   "id": "ent.beast.x-f4f07fa3",
   "type": "beast",
   "name": "巨灵花",
-  "aliases": [],
+  "aliases": [
+    "妖花"
+  ],
   "summary": "地渊中阶妖物，可幻化成血潭绿洲诱捕猎物放血，花蕊化长舌攻击，花蜜为炼丹上材，常与怨猿兽伴生。",
   "attributes": {
-    "等级": "中阶妖物",
+    "等级": "中阶妖物、中阶",
     "栖息地": "地渊",
-    "能力": "幻化绿洲诱敌、粗大花蕊化长舌攻击",
-    "外形": "巨大妖花，淡银花瓣、赤红花心"
+    "能力": "幻化绿洲诱敌、粗大花蕊化长舌攻击、幻化绿洲血潭诱敌、花蕊长舌攻击、伴生怨猿兽",
+    "外形": "巨大妖花，淡银花瓣、赤红花心、花瓣淡银、花心赤红如血潭"
   },
   "observations": {
     "等级": [
       {
         "value": "中阶妖物",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "中阶",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ],
@@ -35,12 +42,32 @@
         "value": "粗大花蕊化长舌攻击",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "幻化绿洲血潭诱敌",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
+      },
+      {
+        "value": "花蕊长舌攻击",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
+      },
+      {
+        "value": "伴生怨猿兽",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
       }
     ],
     "外形": [
       {
         "value": "巨大妖花，淡银花瓣、赤红花心",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "花瓣淡银、花心赤红如血潭",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ]
@@ -75,7 +102,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1438-1440-yinzhufeng-juilinghua"
   ],
-  "updatedAt": "2026-06-16T16:33:50.692Z"
+  "updatedAt": "2026-06-20T11:45:55.833Z"
 }

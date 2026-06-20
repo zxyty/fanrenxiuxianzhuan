@@ -2,13 +2,15 @@
   "id": "ent.beast.x-9c467120",
   "type": "beast",
   "name": "阴蛛蜂",
-  "aliases": [],
+  "aliases": [
+    "阴蛛蜂群"
+  ],
   "summary": "地渊低阶妖物中最麻烦者，由黑暗秽气凝聚，攻击发光移动物体，可借黑暗气息复原，离地渊则失此能力。",
   "attributes": {
-    "等级": "低阶妖物",
+    "等级": "低阶妖物、低阶",
     "栖息地": "地渊",
-    "能力": "攻击发光移动物体、借黑暗气息快速复原",
-    "外形": "拇指大、前半身似蜘蛛后半身带毒刺、碧绿带黄纹",
+    "能力": "攻击发光移动物体、借黑暗气息快速复原、黑暗秽气复原、群攻发光移动物",
+    "外形": "拇指大、前半身似蜘蛛后半身带毒刺、碧绿带黄纹、拇指大，前身似蜘蛛后身带毒刺，碧绿带黄纹",
     "天敌": "噬灵天火"
   },
   "observations": {
@@ -16,6 +18,11 @@
       {
         "value": "低阶妖物",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "低阶",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ],
@@ -36,12 +43,27 @@
         "value": "借黑暗气息快速复原",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "黑暗秽气复原",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
+      },
+      {
+        "value": "群攻发光移动物",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
+        "seq": 1435
       }
     ],
     "外形": [
       {
         "value": "拇指大、前半身似蜘蛛后半身带毒刺、碧绿带黄纹",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "拇指大，前身似蜘蛛后身带毒刺，碧绿带黄纹",
+        "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
       }
     ],
@@ -89,7 +111,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1438-1440-yinzhufeng-juilinghua"
   ],
-  "updatedAt": "2026-06-16T16:33:50.630Z"
+  "updatedAt": "2026-06-20T11:45:55.831Z"
 }

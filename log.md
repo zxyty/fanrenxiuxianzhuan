@@ -580,3 +580,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T11:39:50.703Z** `ingest` plot.fanren-1431-1432-zhuyinzi-jiaojichang — 第1431-1432章 祝音子·较技场：玉皇顶三族角力与雷兰斗虹纱 · kind=plot asOf=2026-06-20 entities=22 relations=25 src=01429-01434.p1.md
 - **2026-06-20T11:41:46.123Z** `ingest` plot.fanren-1433-1434-tianpeng-shitan-diyuan — 第1433-1434章 试探·地渊守卫：韩立较技场救雷兰、与祝音子试探交手 · kind=plot asOf=2026-06-20 entities=21 relations=21 src=01429-01434.p2.md
 - **2026-06-20T11:43:45.936Z** `ingest` plot.fanren-1435-1437-sicha-huajia-diyuan-shilian — 第1435-1437章 四煞化甲术与地渊试炼开启 · kind=plot asOf=2026-06-20 entities=20 relations=25 src=01429-01434.p3.md
+- **2026-06-20T11:45:56.028Z** `ingest` plot.fanren-1438-1440-yinzhufeng-juilinghua — 凡人修仙传 第1438-1440章：地渊一层·阴蛛蜂与巨灵花 · kind=plot asOf=2026-06-20 entities=24 relations=25 src=01435-01440.p1.md
