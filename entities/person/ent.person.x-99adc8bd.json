@@ -14,7 +14,8 @@
     "魔鸠",
     "魔鸠道友",
     "灰袍老僧",
-    "灰袍僧"
+    "灰袍僧",
+    "灰袍僧人摩鸠"
   ],
   "summary": "慈眉善目灰袍高僧，元婴中期巅峰，与韩立同样修炼非冰寒属性功法却拥极寒之焰。",
   "attributes": {
@@ -27,7 +28,8 @@
     "存殁": "死亡",
     "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸",
     "性格": "冷静、明哲保身",
-    "种族": "人"
+    "种族": "人",
+    "出身地": "小极宫玄玉洞"
   },
   "observations": {
     "性别": [
@@ -159,6 +161,13 @@
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
+    ],
+    "出身地": [
+      {
+        "value": "小极宫玄玉洞",
+        "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
+        "seq": 1225
+      }
     ]
   },
   "firstSeq": 1081,
@@ -222,6 +231,12 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
+      "dated": false,
+      "seq": 1225
     }
   },
   "contested": false,
@@ -236,7 +251,8 @@
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-1099-1100-fanmu-zhanqi",
     "plot.fanren-1101-dongxia-jizhan-shang",
-    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai"
   ],
-  "updatedAt": "2026-06-18T10:36:30.056Z"
+  "updatedAt": "2026-06-20T06:06:09.337Z"
 }

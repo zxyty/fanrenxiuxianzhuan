@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "韩立借风雷翅灌注青白电弧化电弧连续瞬现的遁法，遁速惊人。",
   "attributes": {
-    "效果": "高速连续瞬现遁走"
+    "效果": "高速连续瞬现遁走、高速遁走"
   },
   "observations": {
     "效果": [
       {
         "value": "高速连续瞬现遁走",
         "docId": "plot.hanli-slays-yinluo-zongzhu-ch1229",
+        "seq": 1225
+      },
+      {
+        "value": "高速遁走",
+        "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
         "seq": 1225
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-slays-yinluo-zongzhu-ch1229"
+    "plot.hanli-slays-yinluo-zongzhu-ch1229",
+    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai"
   ],
-  "updatedAt": "2026-06-20T06:03:44.553Z"
+  "updatedAt": "2026-06-20T06:06:09.347Z"
 }
