@@ -8,16 +8,18 @@
     "小猴(误)",
     "灵兽",
     "进阶豹麟兽",
-    "豹鳞兽"
+    "豹鳞兽",
+    "狸猫般小兽"
   ],
   "summary": "一只变异灵兽，被骅光追擒、捆缚后暂交噬炎以灵戒收纳。",
   "attributes": {
     "等级": "化神级",
     "栖息地": "混沌谷一带",
-    "血脉": "麒麟真灵",
+    "血脉": "麒麟血脉、麒麟、麒麟真灵、变异、麒麟血脉（些许）",
     "主人": "韩立",
-    "外形": "斑纹泛金、银色瞳孔",
-    "能力": "闻息寻物神通(百万里追踪)、身法奇快、体硬逾铁、化巨猿、幻出残影"
+    "外形": "似豹/狸猫，碧绿眼睛、巴掌大小金钱豹，翠绿眼珠、豹形小兽、斑纹泛金、银色瞳孔、豹麟兽、似豹子、碧绿眼睛、尺许大小",
+    "能力": "闻息寻物神通(百万里追踪)、身法奇快、体硬逾铁、化巨猿、幻出残影",
+    "种族": "豹麟兽（变异）"
   },
   "observations": {
     "等级": [
@@ -69,6 +71,11 @@
         "value": "变异",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "麒麟血脉（些许）",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "主人": [
@@ -103,6 +110,11 @@
         "value": "豹麟兽",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "似豹子、碧绿眼睛、尺许大小",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "能力": [
@@ -131,6 +143,13 @@
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
       }
+    ],
+    "种族": [
+      {
+        "value": "豹麟兽（变异）",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      }
     ]
   },
   "firstSeq": 1297,
@@ -149,9 +168,9 @@
     },
     "血脉": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1447
+      "seq": 1297
     },
     "主人": {
       "asOf": null,
@@ -161,15 +180,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1447
+      "seq": 1297
     },
     "能力": {
       "asOf": null,
       "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
       "dated": false,
       "seq": 1369
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+      "dated": false,
+      "seq": 1315
     }
   },
   "contested": false,
@@ -183,7 +208,8 @@
     "plot.fanren-1495-1500-xutian-rescue-melee",
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-20T08:08:58.595Z"
+  "updatedAt": "2026-06-20T08:42:30.740Z"
 }

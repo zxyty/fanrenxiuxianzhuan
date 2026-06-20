@@ -6,7 +6,7 @@
   "summary": "天渊城内负责分配洞府灵地的三层阁楼，一层接待黑铁卫、二层供化神修士，配有筑基侍女。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "灵地分配机构、洞府灵地分配机构",
+    "类型": "灵地分配机构、洞府灵地分配机构、楼阁",
     "所属界面": "灵界"
   },
   "observations": {
@@ -27,6 +27,11 @@
         "value": "洞府灵地分配机构",
         "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
+      },
+      {
+        "value": "楼阁",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "所属界面": [
@@ -63,7 +68,8 @@
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-    "plot.fanren-1311-1316-tianyuan-city-ascension"
+    "plot.fanren-1311-1316-tianyuan-city-ascension",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-20T08:28:59.765Z"
+  "updatedAt": "2026-06-20T08:42:30.696Z"
 }

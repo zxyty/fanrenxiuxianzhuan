@@ -6,7 +6,7 @@
   "summary": "灵地争夺的举办地，露天广场上空设白色光幕作为斗法场。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "灵地争夺斗法场"
+    "类型": "灵地争夺斗法场、殿堂/争斗场"
   },
   "observations": {
     "所属界面": [
@@ -20,6 +20,11 @@
       {
         "value": "灵地争夺斗法场",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "殿堂/争斗场",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.100Z"
+  "updatedAt": "2026-06-20T08:42:30.690Z"
 }

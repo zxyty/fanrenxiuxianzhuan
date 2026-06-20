@@ -15,10 +15,11 @@
     "性别": "男",
     "小阶段": "化神初期、元婴、化神中期",
     "标志特征": "吊眉、亲手祭炼蓝晶沙(蓝沙)灵宝、持黎金沙断金法轮",
-    "身份": "翡翠蛟龙之徒",
+    "身份": "翡翠蛟龙之徒、翡翠蛟龙弟子",
     "外貌": "吊眉",
     "阵营": "玉阙阁一方、韩立之敌、天渊城",
-    "性格": "凶恶傲然"
+    "性格": "凶恶傲然",
+    "结局": "争地失败、负内伤、认输离去"
   },
   "observations": {
     "性别": [
@@ -62,6 +63,11 @@
         "value": "翡翠蛟龙之徒",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "翡翠蛟龙弟子",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "外貌": [
@@ -98,6 +104,13 @@
         "value": "凶恶傲然",
         "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
+      }
+    ],
+    "结局": [
+      {
+        "value": "争地失败、负内伤、认输离去",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -144,13 +157,20 @@
       "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
       "seq": 1309
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+      "dated": false,
+      "seq": 1315
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-    "plot.fanren-1311-1316-tianyuan-city-ascension"
+    "plot.fanren-1311-1316-tianyuan-city-ascension",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-20T08:28:59.759Z"
+  "updatedAt": "2026-06-20T08:42:30.706Z"
 }

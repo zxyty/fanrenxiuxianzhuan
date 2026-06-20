@@ -7,7 +7,7 @@
   "attributes": {
     "所属势力": "天渊城",
     "所属界面": "灵界",
-    "类型": "飞升修士临时居所"
+    "类型": "殿宇/居所"
   },
   "observations": {
     "所属势力": [
@@ -29,6 +29,11 @@
         "value": "飞升修士临时居所",
         "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
+      },
+      {
+        "value": "殿宇/居所",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -48,9 +53,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
       "dated": false,
-      "seq": 1309
+      "seq": 1315
     }
   },
   "contested": false,
@@ -59,7 +64,8 @@
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1311-1316-tianyuan-city-ascension"
+    "plot.fanren-1311-1316-tianyuan-city-ascension",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-20T08:28:59.764Z"
+  "updatedAt": "2026-06-20T08:42:30.691Z"
 }

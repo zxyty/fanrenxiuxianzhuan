@@ -8,8 +8,8 @@
   "summary": "天渊城城区中心、人妖两族唯一共处之地，十余名合体期长老共议决断之所，为天渊城最终战力。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "议事/战力中枢巨塔、驻塔",
-    "守护": "十余名合体期两族长老、合体期长老",
+    "类型": "议事/战力中枢巨塔、驻塔、巨塔、塔",
+    "守护": "十余名合体期两族长老、合体期长老、合体期长老十余名",
     "所属界面": "灵界"
   },
   "observations": {
@@ -30,6 +30,16 @@
         "value": "驻塔",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "巨塔",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      },
+      {
+        "value": "塔",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "守护": [
@@ -41,6 +51,11 @@
       {
         "value": "合体期长老",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "合体期长老十余名",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ],
@@ -82,7 +97,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.098Z"
+  "updatedAt": "2026-06-20T08:42:30.689Z"
 }

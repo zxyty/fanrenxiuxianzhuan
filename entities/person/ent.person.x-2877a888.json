@@ -8,15 +8,17 @@
     "翁姓汉子之师",
     "尺许翡翠蛟龙",
     "鸣老魔",
-    "巨蛟"
+    "巨蛟",
+    "翁姓汉子师傅"
   ],
   "summary": "翁姓吊眉汉子之师，以尺许翠绿蛟龙分身现身；本体正祭炼灵宝准备度劫，命徒夺灵地求高人遗宝。",
   "attributes": {
-    "种族": "蛟",
+    "种族": "蛟龙、蛟、蛟龙(妖)",
     "身份": "翁姓汉子之师",
     "外貌": "尺许大、通体翠绿如翡翠的蛟龙",
     "小阶段": "炼虚",
-    "标志特征": "断一角、紫雷独角"
+    "标志特征": "断一角、紫雷独角",
+    "阵营": "妖族"
   },
   "observations": {
     "种族": [
@@ -29,6 +31,11 @@
         "value": "蛟",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "蛟龙(妖)",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "身份": [
@@ -58,6 +65,19 @@
         "value": "断一角、紫雷独角",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "尺许大翠绿蛟龙(分身)",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315,
+        "note": "本章为分身现身"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -65,9 +85,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1341-leipao-xianshi",
+      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
       "dated": false,
-      "seq": 1339
+      "seq": 1315
     },
     "身份": {
       "asOf": null,
@@ -93,13 +113,20 @@
       "docId": "plot.fanren-1341-leipao-xianshi",
       "dated": false,
       "seq": 1339
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+      "dated": false,
+      "seq": 1315
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T13:09:39.516Z"
+  "updatedAt": "2026-06-20T08:42:30.707Z"
 }

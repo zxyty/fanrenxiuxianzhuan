@@ -7,8 +7,8 @@
   ],
   "summary": "韩立的身份玉佩，被注入灵地标记以确认灵地归属。",
   "attributes": {
-    "类型": "身份玉佩",
-    "用途": "记录灵地标记"
+    "类型": "身份玉佩、身份/灵地标记玉佩",
+    "用途": "记录灵地标记、确立灵地归属"
   },
   "observations": {
     "类型": [
@@ -16,12 +16,22 @@
         "value": "身份玉佩",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "身份/灵地标记玉佩",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "用途": [
       {
         "value": "记录灵地标记",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "确立灵地归属",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ]
@@ -44,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.142Z"
+  "updatedAt": "2026-06-20T08:42:30.741Z"
 }

@@ -7,15 +7,17 @@
     "黑铃",
     "黑色铃影",
     "千魂铃本体",
-    "黑色铃铛"
+    "黑色铃铛",
+    "黑幽幽铃铛"
   ],
   "summary": "翡翠蛟龙所有的灵宝级乌铃，寸许大、黑气缠绕铭印符文咒语，临时祭炼三日即可暂时驱使。",
   "attributes": {
     "品阶": "灵宝、重宝、灵宝级",
-    "外形": "寸许乌铃，表面黑气缠绕、铭印密密符文咒语、寸许黑幽幽铃铛、黑色铃铛",
+    "外形": "寸许乌铃，表面黑气缠绕、铭印密密符文咒语、寸许黑幽幽铃铛、黑色铃铛、寸许大乌铃,表面黑气符文",
     "禁制": "需临时祭炼三日方可暂时驱使、需借秘术才能勉强驱使，事后元气大伤",
     "持有者": "翁姓汉子、吊眉汉子",
-    "能力": "摄魂攻击、化虚影免切割、放黑丝缠绕、开辟阴魂空间、困禁修士法力"
+    "能力": "摄魂攻击、化虚影免切割、放黑丝缠绕、开辟阴魂空间、困禁修士法力、开辟阴魂空间困敌、上万凶魂",
+    "器灵": "主魂(生前化神中期天地灵兽精魂)"
   },
   "observations": {
     "品阶": [
@@ -49,6 +51,11 @@
       {
         "value": "黑色铃铛",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "寸许大乌铃,表面黑气符文",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ],
@@ -103,6 +110,23 @@
         "value": "困禁修士法力",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "开辟阴魂空间困敌",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      },
+      {
+        "value": "上万凶魂",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      }
+    ],
+    "器灵": [
+      {
+        "value": "主魂(生前化神中期天地灵兽精魂)",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -138,12 +162,19 @@
       "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
       "dated": false,
       "seq": 1315
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+      "dated": false,
+      "seq": 1315
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.132Z"
+  "updatedAt": "2026-06-20T08:42:30.710Z"
 }

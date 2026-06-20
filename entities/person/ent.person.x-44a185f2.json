@@ -11,8 +11,8 @@
   "summary": "化神中期修士，双眉倒吊、目露凶光，鸣老怪之徒，欲取琼籁山灵地修炼秘术，上门威胁韩立。",
   "attributes": {
     "小阶段": "化神期",
-    "标志特征": "双眉倒吊、蓝袍额带、吊眉、翁姓",
-    "性格": "凶恶蛮横",
+    "标志特征": "双眉倒吊、蓝袍额带、吊眉、翁姓、吊眉、疤痕",
+    "性格": "嚣张凶悍、阴森",
     "性别": "男",
     "身份": "鸣老怪之徒",
     "外貌": "吊眉",
@@ -29,6 +29,11 @@
         "value": "化神期",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "化神后期",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "标志特征": [
@@ -46,6 +51,11 @@
         "value": "翁姓",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "吊眉、疤痕",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "性格": [
@@ -53,6 +63,12 @@
         "value": "凶恶蛮横",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
         "seq": 1309
+      },
+      {
+        "value": "嚣张凶悍、阴森",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315,
+        "note": "本片段表现"
       }
     ],
     "性别": [
@@ -86,6 +102,11 @@
         "value": "炼虚修士一方随从",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "争夺灵地的对手",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -105,9 +126,10 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
       "dated": false,
-      "seq": 1309
+      "seq": 1315,
+      "note": "本片段表现"
     },
     "性别": {
       "asOf": null,
@@ -140,7 +162,8 @@
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T13:09:39.514Z"
+  "updatedAt": "2026-06-20T08:42:30.643Z"
 }

@@ -9,8 +9,8 @@
   "summary": "翁姓汉子由淡银符箓所化银雾幻出的黑色巨狼，狼目阴森碧绿，旋即化黑雾隐匿伺机。",
   "attributes": {
     "主人": "翁姓汉子",
-    "外形": "黑色巨狼、碧绿狼目、黑色巨狼",
-    "能力": "化虚影潜行、利爪无视元磁神光、口吐黑色光球"
+    "外形": "黑色巨狼、碧绿狼目、黑色巨狼、黑色巨狼虚影、碧目",
+    "能力": "化虚影潜行、利爪无视元磁神光、口吐黑色光球、幽灵虚影、利爪无视五行护罩"
   },
   "observations": {
     "主人": [
@@ -30,6 +30,11 @@
         "value": "黑色巨狼",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "黑色巨狼虚影、碧目",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "能力": [
@@ -46,6 +51,11 @@
       {
         "value": "口吐黑色光球",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "幽灵虚影、利爪无视五行护罩",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ]
@@ -74,7 +84,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.111Z"
+  "updatedAt": "2026-06-20T08:42:30.738Z"
 }

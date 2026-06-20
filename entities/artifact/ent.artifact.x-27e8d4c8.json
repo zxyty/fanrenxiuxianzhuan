@@ -10,15 +10,21 @@
   ],
   "summary": "吊眉汉子护身青甲，可如泥鳅般卸去大半拳力。",
   "attributes": {
-    "持有者": "吊眉汉子",
+    "持有者": "吊眉汉子、翁姓汉子",
     "能力": "卸力护身",
-    "来历": "天甲殿配发"
+    "来历": "天甲殿配发",
+    "外形": "青色战甲"
   },
   "observations": {
     "持有者": [
       {
         "value": "吊眉汉子",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+        "seq": 1315
+      },
+      {
+        "value": "翁姓汉子",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
     ],
@@ -34,6 +40,13 @@
         "value": "天甲殿配发",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      }
+    ],
+    "外形": [
+      {
+        "value": "青色战甲",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ]
   },
@@ -56,13 +69,20 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+      "dated": false,
+      "seq": 1315
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:27:08.892Z"
+  "updatedAt": "2026-06-20T08:42:30.715Z"
 }

@@ -10,8 +10,8 @@
   "summary": "监战灵地争夺的炼虚期修士，身穿金色战甲、面带疤痕，点破千魂铃乃鸣老怪重宝。",
   "attributes": {
     "小阶段": "炼虚期",
-    "身份": "灵地争夺监战、灵地争夺监督者",
-    "外貌": "疤面、金色战甲、疤面金甲",
+    "身份": "灵地争夺监战、灵地争夺监督者、灵地争夺监战者、天渊城天卫",
+    "外貌": "疤面、金色战甲、疤面金甲、金色战甲、疤面、疤面、金甲",
     "称号": "天卫"
   },
   "observations": {
@@ -32,6 +32,16 @@
         "value": "灵地争夺监督者",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "灵地争夺监战者",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      },
+      {
+        "value": "天渊城天卫",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "外貌": [
@@ -45,6 +55,16 @@
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315,
         "note": "本片段所见"
+      },
+      {
+        "value": "金色战甲、疤面",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
+      },
+      {
+        "value": "疤面、金甲",
+        "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+        "seq": 1315
       }
     ],
     "称号": [
@@ -85,7 +105,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
   ],
-  "updatedAt": "2026-06-16T12:14:21.129Z"
+  "updatedAt": "2026-06-20T08:42:30.708Z"
 }
