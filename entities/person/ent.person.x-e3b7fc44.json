@@ -3,14 +3,16 @@
   "type": "person",
   "name": "土甲大汉",
   "aliases": [
-    "大汉"
+    "大汉",
+    "那大汉"
   ],
   "summary": "偷袭韩立的二人组之一，持黑索长刀、以土甲术护体，被韩立用符宝斩首。",
   "attributes": {
     "性别": "男",
     "存殁": "死亡",
     "死因": "被韩立灰光符宝绕颈斩落头颅",
-    "标志特征": "全身土甲术护体黄光"
+    "标志特征": "全身土甲术护体黄光",
+    "外貌": "大汉"
   },
   "observations": {
     "性别": [
@@ -40,6 +42,13 @@
         "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
         "seq": 139
       }
+    ],
+    "外貌": [
+      {
+        "value": "大汉",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
     ]
   },
   "firstSeq": 139,
@@ -67,12 +76,19 @@
       "docId": "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
       "dated": false,
       "seq": 139
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush"
+    "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-14T04:06:34.617Z"
+  "updatedAt": "2026-06-20T11:37:56.411Z"
 }

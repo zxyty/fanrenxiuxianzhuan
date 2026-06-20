@@ -4,12 +4,14 @@
   "name": "翠绿木牌",
   "aliases": [
     "翠牌",
-    "绿牌"
+    "绿牌",
+    "绿色木牌"
   ],
   "summary": "店主的法宝，喷绿丝可强行抽拉并封印灵兽精魂。",
   "attributes": {
-    "持有者": "鱼姓店主",
-    "能力": "抽拉、封印灵兽精魂"
+    "持有者": "鱼姓店主、枯瘦店主",
+    "能力": "抽拉、封印灵兽精魂、激射绿丝拉拔精魂、封印灵兽精魂",
+    "外形": "翠绿、遍布复杂花纹、翠绿木牌"
   },
   "observations": {
     "持有者": [
@@ -17,12 +19,39 @@
         "value": "鱼姓店主",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "枯瘦店主",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "能力": [
       {
         "value": "抽拉、封印灵兽精魂",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "激射绿丝拉拔精魂",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      },
+      {
+        "value": "封印灵兽精魂",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
+    ],
+    "外形": [
+      {
+        "value": "翠绿、遍布复杂花纹",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      },
+      {
+        "value": "翠绿木牌",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ]
@@ -40,12 +69,19 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.549Z"
+  "updatedAt": "2026-06-20T11:37:56.478Z"
 }

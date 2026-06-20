@@ -10,7 +10,8 @@
   "attributes": {
     "身份": "万雷坊主",
     "出身地": "圣城",
-    "性格": "贪婪背诺"
+    "性格": "贪婪背诺",
+    "存殁": "存活"
   },
   "observations": {
     "身份": [
@@ -31,6 +32,13 @@
       {
         "value": "贪婪背诺",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ]
@@ -54,12 +62,19 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.566Z"
+  "updatedAt": "2026-06-20T11:37:56.530Z"
 }

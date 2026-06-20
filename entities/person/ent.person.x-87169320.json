@@ -12,7 +12,9 @@
     "种族": "魔族",
     "标志特征": "双巨锤",
     "性别": "男",
-    "身份": "魔族尊者"
+    "身份": "魔族尊者",
+    "阵营": "天鹏族",
+    "存殁": "重伤昏迷"
   },
   "observations": {
     "小阶段": [
@@ -71,6 +73,20 @@
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
       }
+    ],
+    "阵营": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤昏迷",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
     ]
   },
   "firstSeq": 1417,
@@ -110,6 +126,18 @@
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
       "seq": 1909
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
@@ -119,7 +147,8 @@
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-20T11:25:39.529Z"
+  "updatedAt": "2026-06-20T11:37:56.468Z"
 }

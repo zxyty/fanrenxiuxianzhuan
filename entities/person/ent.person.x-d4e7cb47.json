@@ -7,9 +7,11 @@
   "attributes": {
     "性别": "男",
     "种族": "乌翎族",
-    "身份": "长老",
+    "身份": "天鹏族石长老、长老、天鹏族长老",
     "外貌": "黑袍、乌翅",
-    "阵营": "天鹏族"
+    "阵营": "天鹏族",
+    "出身地": "乌翎族",
+    "标志特征": "黑袍、背生乌翅、浑身黑气"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,11 @@
         "value": "长老",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "天鹏族长老",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "外貌": [
@@ -50,6 +57,20 @@
         "value": "天鹏族",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      }
+    ],
+    "出身地": [
+      {
+        "value": "乌翎族",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黑袍、背生乌翅、浑身黑气",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ]
   },
@@ -69,9 +90,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
-      "seq": 1429
+      "seq": 1423
     },
     "外貌": {
       "asOf": null,
@@ -84,13 +105,26 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:20:08.376Z"
+  "updatedAt": "2026-06-20T11:37:56.517Z"
 }

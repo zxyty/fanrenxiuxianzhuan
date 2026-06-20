@@ -7,8 +7,8 @@
   ],
   "summary": "成年雷龟体内所生异珠之一，可引动雷电，无雷灵根者得之亦能操纵雷电之力。",
   "attributes": {
-    "类型": "异珠、暗算/陷阱法器、雷系法器",
-    "用途": "操纵/引动雷电、引下雷球电弧轰击目标、引动五色天雷",
+    "类型": "异珠、暗算/陷阱法器、雷系法器、暗算/引雷法器、雷系暗器",
+    "用途": "操纵/引动雷电、引下雷球电弧轰击目标、引动五色天雷、诱使天雷劈杀目标、暗算/引动五色天雷",
     "产地": "成年雷龟体内",
     "稀有度": "极罕见"
   },
@@ -28,6 +28,16 @@
         "value": "雷系法器",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "暗算/引雷法器",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      },
+      {
+        "value": "雷系暗器",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "用途": [
@@ -44,6 +54,16 @@
       {
         "value": "引动五色天雷",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "诱使天雷劈杀目标",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      },
+      {
+        "value": "暗算/引动五色天雷",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ],
@@ -93,7 +113,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.579Z"
+  "updatedAt": "2026-06-20T11:37:56.547Z"
 }

@@ -7,7 +7,7 @@
   "attributes": {
     "所属界面": "灵界",
     "所属势力": "天鹏族",
-    "类型": "盛会/长老会所在巨峰",
+    "类型": "盛会/长老会所在巨峰、试炼/盛会之地",
     "守护": "禁制（场外不得动手）"
   },
   "observations": {
@@ -34,6 +34,11 @@
       {
         "value": "盛会/长老会所在巨峰",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "试炼/盛会之地",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ],
@@ -76,7 +81,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:20:08.385Z"
+  "updatedAt": "2026-06-20T11:37:56.539Z"
 }

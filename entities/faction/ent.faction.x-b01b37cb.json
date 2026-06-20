@@ -9,7 +9,7 @@
   "attributes": {
     "等级": "合体以上",
     "据点": "玉皇顶",
-    "理念": "加入即弃原族身份,只对飞灵族负责"
+    "理念": "加入即弃原族身份,只对飞灵族负责、放弃原族身份，对整个飞灵族负责"
   },
   "observations": {
     "等级": [
@@ -30,6 +30,11 @@
       {
         "value": "加入即弃原族身份,只对飞灵族负责",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "放弃原族身份，对整个飞灵族负责",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ]
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.591Z"
+  "updatedAt": "2026-06-20T11:37:56.537Z"
 }

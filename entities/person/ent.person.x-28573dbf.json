@@ -9,7 +9,9 @@
   "attributes": {
     "性别": "女",
     "种族": "五光族",
-    "外貌": "俊俏少妇、服饰艳丽"
+    "外貌": "俊俏少妇、服饰艳丽",
+    "身份": "五光族长老",
+    "阵营": "五光族"
   },
   "observations": {
     "性别": [
@@ -30,6 +32,20 @@
       {
         "value": "俊俏少妇、服饰艳丽",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      }
+    ],
+    "身份": [
+      {
+        "value": "五光族长老",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
+    ],
+    "阵营": [
+      {
+        "value": "五光族",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ]
@@ -53,12 +69,25 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.585Z"
+  "updatedAt": "2026-06-20T11:37:56.529Z"
 }

@@ -19,14 +19,15 @@
     "种族": "飞灵族",
     "小阶段": "元婴中期、元婴、炼虚初期",
     "道号": "云露真人",
-    "标志特征": "阴阳同体、阴柔脂粉气、周身脂粉之气、背生双翅、驱银色电弧、阴阳同体、身带阴柔脂粉气、粉红云雾",
+    "标志特征": "阴阳同体、阴柔脂粉气、周身脂粉之气、背生双翅、驱银色电弧、阴阳同体、身带阴柔脂粉气、粉红云雾、背后双翅",
     "称号": "云露老魔、云露真人",
-    "阵营": "魔道·合欢宗、魔道、合欢宗",
-    "外貌": "面容阴柔",
+    "阵营": "魔道·合欢宗、魔道、合欢宗、天鹏族",
+    "外貌": "阴柔青年",
     "身份": "老魔、合欢宗修士、合欢宗老魔、天鹏族最年轻长老之弟",
     "出身地": "天鹏族",
     "性别": "男",
-    "性格": "不甘示弱"
+    "性格": "不甘示弱",
+    "存殁": "重伤昏迷"
   },
   "observations": {
     "种族": [
@@ -95,6 +96,11 @@
         "value": "粉红云雾",
         "docId": "plot.fanren-775-780-giant-ape-appears",
         "seq": 775
+      },
+      {
+        "value": "背后双翅",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "称号": [
@@ -124,6 +130,11 @@
         "value": "合欢宗",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "外貌": [
@@ -141,6 +152,11 @@
         "value": "面容阴柔",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
         "seq": 1417
+      },
+      {
+        "value": "阴柔青年",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "身份": [
@@ -196,6 +212,13 @@
         "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
       }
+    ],
+    "存殁": [
+      {
+        "value": "重伤昏迷",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
     ]
   },
   "firstSeq": 751,
@@ -238,9 +261,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "docId": "plot.fanren-1425",
       "dated": false,
-      "seq": 1417
+      "seq": 1423
     },
     "身份": {
       "asOf": null,
@@ -266,6 +289,12 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
@@ -279,7 +308,8 @@
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-757-bingxuecan-yu-gengjing",
     "plot.fanren-775-780-giant-ape-appears",
-    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-20T11:25:39.527Z"
+  "updatedAt": "2026-06-20T11:37:56.466Z"
 }

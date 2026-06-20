@@ -8,16 +8,19 @@
     "鱼姓枯瘦店主",
     "鱼前辈",
     "儒雅中年人",
-    "枯瘦店主"
+    "枯瘦店主",
+    "店主",
+    "枯瘦的男子"
   ],
   "summary": "天鹏族炼虚初期修士，拥有须弥洞天图与人工催育的雷兽，召集三人助其降服雷兽。",
   "attributes": {
-    "种族": "飞灵族",
+    "种族": "天鹏族、飞灵族、五光族",
     "小阶段": "炼虚初期",
     "身份": "店主、门下弟子尊为师祖",
-    "性格": "阴厉、诡诈",
+    "性格": "刻薄多疑、孤注一掷、阴厉、诡诈、阴厉狡诈",
     "外貌": "瘦削儒雅中年人",
-    "标志特征": "眉宇间现晶核虚影"
+    "标志特征": "眉宇间现晶核虚影、眉宇间晶核虚影",
+    "结局": "弃天鹏族圣城，经地下传送阵潜往五光族另用备好身份"
   },
   "observations": {
     "种族": [
@@ -29,6 +32,11 @@
       {
         "value": "飞灵族",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "五光族",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ],
@@ -61,6 +69,11 @@
         "value": "阴厉、诡诈",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "阴厉狡诈",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "外貌": [
@@ -81,6 +94,18 @@
         "value": "眉宇间现晶核虚影",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "眉宇间晶核虚影",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
+      }
+    ],
+    "结局": [
+      {
+        "value": "弃天鹏族圣城，经地下传送阵潜往五光族另用备好身份",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ]
   },
@@ -88,9 +113,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
       "dated": false,
-      "seq": 1423
+      "seq": 1417
     },
     "小阶段": {
       "asOf": null,
@@ -106,9 +131,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
       "dated": false,
-      "seq": 1423
+      "seq": 1417
     },
     "外貌": {
       "asOf": null,
@@ -122,6 +147,12 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1425",
+      "dated": false,
+      "seq": 1423
     }
   },
   "contested": false,
@@ -129,7 +160,8 @@
   "docs": [
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-20T11:25:39.526Z"
+  "updatedAt": "2026-06-20T11:37:56.465Z"
 }

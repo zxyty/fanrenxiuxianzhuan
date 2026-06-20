@@ -2,18 +2,26 @@
   "id": "ent.artifact.x-142f7722",
   "type": "artifact",
   "name": "黑星匕",
-  "aliases": [],
+  "aliases": [
+    "五把黑星匕",
+    "乌黑匕首"
+  ],
   "summary": "店主取出的五把乌黑匕首，轻若木制，扎入灵兽体内可封锁其雷电本源并吸纳电弧。",
   "attributes": {
-    "持有者": "鱼姓店主",
-    "外形": "五把乌黑匕首",
-    "能力": "封锁雷电本源、吸纳电弧"
+    "持有者": "鱼姓店主、枯瘦店主",
+    "外形": "五把乌黑匕首、乌黑匕首、轻如木制",
+    "能力": "封锁雷电本源、吸纳电弧、吸纳雷电之力"
   },
   "observations": {
     "持有者": [
       {
         "value": "鱼姓店主",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "枯瘦店主",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ],
@@ -22,12 +30,22 @@
         "value": "五把乌黑匕首",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "乌黑匕首、轻如木制",
+        "docId": "plot.fanren-1425",
+        "seq": 1423
       }
     ],
     "能力": [
       {
         "value": "封锁雷电本源、吸纳电弧",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "吸纳雷电之力",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ]
@@ -56,7 +74,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.549Z"
+  "updatedAt": "2026-06-20T11:37:56.423Z"
 }

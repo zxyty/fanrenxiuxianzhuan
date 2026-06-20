@@ -3,12 +3,13 @@
   "type": "spell",
   "name": "天钟降魔神通",
   "aliases": [
-    "天钟降魔"
+    "天钟降魔",
+    "天钟"
   ],
   "summary": "角鹫族族传神通，化丈许黄钟，钟音震慑令听者脑鸣坠落。",
   "attributes": {
     "类型": "音波神通",
-    "威力": "钟音令人脑中嗡鸣、大受影响",
+    "威力": "钟音令人脑中嗡鸣、大受影响、钟音震荡神魂",
     "出处": "角鹫族"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "钟音令人脑中嗡鸣、大受影响",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+        "seq": 1423
+      },
+      {
+        "value": "钟音震荡神魂",
+        "docId": "plot.fanren-1425",
         "seq": 1423
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1425"
   ],
-  "updatedAt": "2026-06-16T16:12:01.593Z"
+  "updatedAt": "2026-06-20T11:37:56.545Z"
 }
