@@ -9,7 +9,8 @@
   ],
   "summary": "金灿如纯金、非金非木之物，可炼金罡灭魔雷，亦可供灵虫服食致其变异。",
   "attributes": {
-    "用途": "炼制金罡灭魔雷、供灵虫服食致变异"
+    "用途": "炼制金罡灭魔雷、供灵虫服食致变异",
+    "稀有度": "珍稀"
   },
   "observations": {
     "用途": [
@@ -23,6 +24,13 @@
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
       }
+    ],
+    "稀有度": [
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-1516-1517-zhuye-likai",
+        "seq": 1513
+      }
     ]
   },
   "firstSeq": 1513,
@@ -32,12 +40,19 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-1517-zhuye-likai",
+      "dated": false,
+      "seq": 1513
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1516-1517-zhuye-likai"
   ],
-  "updatedAt": "2026-06-16T19:14:17.409Z"
+  "updatedAt": "2026-06-20T14:01:10.202Z"
 }

@@ -595,3 +595,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T13:29:23.557Z** `ingest` plot.fanren-1495-1500-xutiandian-jiuren — 凡人修仙传 第1495-1500章｜虚天殿混战·韩立趁乱救人脱身 · kind=plot asOf=2026-06-20 entities=26 relations=33 src=01495-01500.md
 - **2026-06-20T13:50:49.845Z** `ingest` plot.fanren-1504-cuijingzhuan — 第1504章 淬晶砖｜韩立拔除木青印记 · 六足以淬晶砖争冥河神乳 · kind=plot asOf=2026-06-20 entities=44 relations=74 src=01501-01506.md
 - **2026-06-20T13:58:52.550Z** `ingest` plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi — 凡人修仙传 第1507-1512章｜罗睺之谜·玉台·青元子 · kind=plot asOf=2026-06-20 entities=31 relations=37 src=01507-01512.md
+- **2026-06-20T14:01:10.427Z** `ingest` plot.fanren-1516-1517-zhuye-likai — 第1516-1517章 竹叶·离开：金雷竹叶换剑诀、神乳之约与离开冥河之地 · kind=plot asOf=2026-06-20 entities=25 relations=21 src=01513-01518.p1.md

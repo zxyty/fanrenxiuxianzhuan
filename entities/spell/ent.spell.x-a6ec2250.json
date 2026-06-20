@@ -7,7 +7,8 @@
   "attributes": {
     "类型": "神雷",
     "威力": "对付魔物胜过辟邪神雷",
-    "适用境界": "大乘期"
+    "适用境界": "大乘期",
+    "出处": "金雷竹叶子炼制"
   },
   "observations": {
     "类型": [
@@ -28,6 +29,13 @@
       {
         "value": "大乘期",
         "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "出处": [
+      {
+        "value": "金雷竹叶子炼制",
+        "docId": "plot.fanren-1516-1517-zhuye-likai",
         "seq": 1513
       }
     ]
@@ -51,12 +59,19 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1516-1517-zhuye-likai",
+      "dated": false,
+      "seq": 1513
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1516-1517-zhuye-likai"
   ],
-  "updatedAt": "2026-06-16T19:14:17.417Z"
+  "updatedAt": "2026-06-20T14:01:10.223Z"
 }
