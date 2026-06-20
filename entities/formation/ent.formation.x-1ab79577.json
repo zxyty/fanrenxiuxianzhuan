@@ -3,12 +3,13 @@
   "type": "formation",
   "name": "八门引雷阵",
   "aliases": [
-    "雷属性辅助法阵"
+    "雷属性辅助法阵",
+    "辅助雷阵"
   ],
   "summary": "韩立闭关独创，以八面雷符阵旗组成，能吸纳放出雷电之力，在祭雷术反噬时将辟邪神雷之力暂引到阵上以自保。",
   "attributes": {
-    "效果": "稳定祭雷术、反噬时引导辟邪神雷之力护身",
-    "出处": "韩立闭关自创",
+    "效果": "稳定祭雷术、反噬时引导辟邪神雷之力护身、辟邪神雷反噬时引导其力至法阵护身",
+    "出处": "韩立闭关自创、韩立闭关自悟",
     "布置者": "韩立"
   },
   "observations": {
@@ -22,12 +23,22 @@
         "value": "反噬时引导辟邪神雷之力护身",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
         "seq": 1471
+      },
+      {
+        "value": "辟邪神雷反噬时引导其力至法阵护身",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "出处": [
       {
         "value": "韩立闭关自创",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "韩立闭关自悟",
+        "docId": "plot.fanren-1474-jingkongmo",
         "seq": 1471
       }
     ],
@@ -63,7 +74,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1471-1476-jingkongmo-minghe-pojin"
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-16T17:35:43.386Z"
+  "updatedAt": "2026-06-20T12:54:50.750Z"
 }

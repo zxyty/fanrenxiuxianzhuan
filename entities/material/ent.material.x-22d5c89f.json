@@ -7,8 +7,8 @@
   ],
   "summary": "冥河之灵体内的乳白色鸡蛋大小发光晶石，六足称持有它『过那一关』可轻松许多。",
   "attributes": {
-    "类型": "灵晶",
-    "用途": "便于通过冥河之地某『关』",
+    "类型": "灵晶、晶石",
+    "用途": "便于通过冥河之地某『关』、通过冥河之地某关",
     "产地": "冥河之灵体内"
   },
   "observations": {
@@ -17,12 +17,22 @@
         "value": "灵晶",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
         "seq": 1471
+      },
+      {
+        "value": "晶石",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "用途": [
       {
         "value": "便于通过冥河之地某『关』",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "通过冥河之地某关",
+        "docId": "plot.fanren-1474-jingkongmo",
         "seq": 1471
       }
     ],
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1471-1476-jingkongmo-minghe-pojin"
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-16T17:35:43.405Z"
+  "updatedAt": "2026-06-20T12:54:50.886Z"
 }

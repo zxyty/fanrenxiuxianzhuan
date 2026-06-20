@@ -588,3 +588,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T12:11:10.361Z** `ingest` plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei — 凡人修仙传 第1457-1462章｜韩立逃遁被擒·木青图谋辟邪神雷 · kind=plot asOf=2026-06-20 entities=24 relations=24 src=01453-01458.md
 - **2026-06-20T12:23:24.085Z** `ingest` plot.fanren-1463-muqing-dong — 第1463章 木精洞——韩立入木精洞修炼辟邪神雷、再渡灵界第二次小天劫 · kind=plot asOf=2026-06-20 entities=31 relations=36 src=01459-01464.md
 - **2026-06-20T12:41:41.954Z** `ingest` plot.fanren-1468-zhai-lei-zhi-shu — 第1468章 祭雷之术——韩立当众演示辟邪神雷祭雷术 · kind=plot asOf=2026-06-20 entities=46 relations=70 src=01465-01470.md
+- **2026-06-20T12:54:51.408Z** `ingest` plot.fanren-1474-jingkongmo — 凡人修仙传 第1474章 惊空魔——血食引魔撕裂空间，妖王借道冥河之地 · kind=plot asOf=2026-06-20 entities=30 relations=48 src=01471-01476.md

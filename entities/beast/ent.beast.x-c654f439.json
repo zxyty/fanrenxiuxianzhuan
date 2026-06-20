@@ -7,8 +7,8 @@
   ],
   "summary": "盘踞冥河之水一地的鬼物，白色无鼻无目巨大肉球、巨口、七八条触手；体内孕有冥灵之晶，被五名合体期合力斩杀。",
   "attributes": {
-    "栖息地": "冥河之水",
-    "外形": "白色无目巨大肉球、巨口、多条触手"
+    "栖息地": "冥河之水、冥河之水之处",
+    "外形": "白色无目巨大肉球、巨口、多条触手、白色巨大肉球、多触手"
   },
   "observations": {
     "栖息地": [
@@ -16,12 +16,22 @@
         "value": "冥河之水",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
         "seq": 1471
+      },
+      {
+        "value": "冥河之水之处",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "外形": [
       {
         "value": "白色无目巨大肉球、巨口、多条触手",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "白色巨大肉球、多触手",
+        "docId": "plot.fanren-1474-jingkongmo",
         "seq": 1471
       }
     ]
@@ -44,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1471-1476-jingkongmo-minghe-pojin"
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-16T17:35:43.404Z"
+  "updatedAt": "2026-06-20T12:54:50.880Z"
 }

@@ -7,9 +7,9 @@
   ],
   "summary": "数十丈银色独目巨头颅、无身躯仅双耳生银臂的妖物，能撕破虚空、尖叫制敌，无自我意识仅凭本能活动。",
   "attributes": {
-    "能力": "撕破虚空、尖叫令周围生灵受制",
+    "能力": "撕破虚空、尖叫令周围生灵受制、撕裂虚空、尖叫令妖物受制",
     "栖息地": "冥河之地",
-    "外形": "数十丈银色头颅、翠绿独目、双耳生毛茸茸银臂、无身躯"
+    "外形": "数十丈银色头颅、翠绿独目、双耳生毛茸茸银臂、无身躯、银色独目巨头颅，无躯，双耳伸出银臂"
   },
   "observations": {
     "能力": [
@@ -21,6 +21,16 @@
       {
         "value": "尖叫令周围生灵受制",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "撕裂虚空",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
+      },
+      {
+        "value": "尖叫令妖物受制",
+        "docId": "plot.fanren-1474-jingkongmo",
         "seq": 1471
       }
     ],
@@ -35,6 +45,11 @@
       {
         "value": "数十丈银色头颅、翠绿独目、双耳生毛茸茸银臂、无身躯",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+        "seq": 1471
+      },
+      {
+        "value": "银色独目巨头颅，无躯，双耳伸出银臂",
+        "docId": "plot.fanren-1474-jingkongmo",
         "seq": 1471
       }
     ]
@@ -63,7 +78,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1471-1476-jingkongmo-minghe-pojin"
+    "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-16T17:35:43.372Z"
+  "updatedAt": "2026-06-20T12:54:50.462Z"
 }

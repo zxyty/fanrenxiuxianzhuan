@@ -10,10 +10,10 @@
   "summary": "有群鬼阻拦之地，深处设有以阴气与冥魔之气构成的结界。",
   "attributes": {
     "特产": "冥魔之气、冥河神乳、阴气、灵气、鬼王魂妖、魔物、万丈诡异冥水、阴气共鸣可解印记",
-    "守护": "冥河群鬼、针状怪鱼、晶莹黑丝魔气、冥河禁制、阴鬼、冥河之灵、阴骨怪、炼虚级厉鬼、蜉蝣族附身傀儡",
+    "守护": "冥河群鬼、针状怪鱼、晶莹黑丝魔气、冥河禁制、阴鬼、冥河之灵、阴骨怪、炼虚级厉鬼、蜉蝣族附身傀儡、冥水寒意、黑丝魔气、禁制",
     "所属界面": "灵界、灵界·地渊、地渊",
     "危险度": "阴气极重",
-    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地、独立空间、秘境",
+    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地、独立空间、秘境、危险水域/禁制之河、鬼物聚集之地、凶地",
     "所属势力": "蜉蝣族"
   },
   "observations": {
@@ -104,6 +104,21 @@
         "value": "蜉蝣族附身傀儡",
         "docId": "plot.fanren-1480-bai-ying",
         "seq": 1477
+      },
+      {
+        "value": "冥水寒意",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
+      },
+      {
+        "value": "黑丝魔气",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
+      },
+      {
+        "value": "禁制",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "所属界面": [
@@ -200,6 +215,21 @@
         "value": "秘境",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "危险水域/禁制之河",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
+      },
+      {
+        "value": "鬼物聚集之地",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
+      },
+      {
+        "value": "凶地",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "所属势力": [
@@ -259,7 +289,8 @@
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-20T12:41:41.723Z"
+  "updatedAt": "2026-06-20T12:54:50.887Z"
 }

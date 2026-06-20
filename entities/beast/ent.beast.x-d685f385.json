@@ -8,14 +8,15 @@
     "玄鬼",
     "阴甲鬼兵",
     "八名阴甲鬼王",
-    "八千阴甲玄鬼"
+    "八千阴甲玄鬼",
+    "八道黑影"
   ],
   "summary": "老妇人培养的阴鬼大军，八千阴甲玄鬼由八名阴甲鬼王统率；鬼王需神念强大的极品精魂炼制，现仅成三名。",
   "attributes": {
-    "外形": "黑甲模糊人影",
+    "外形": "乌黑怪甲人影、半身黑甲、干尸般灰肤、头罩绿色鬼火骷髅、黑甲模糊人影、身高数丈、披狰狞战甲、面目模糊、黑甲干尸绿火骷髅",
     "栖息地": "地渊六层黑色深潭、地渊六层黑潭",
-    "等级": "炼虚中后期",
-    "能力": "聚黑甲阴气化黑云",
+    "等级": "炼虚中后期、炼虚中后期(八鬼王)",
+    "能力": "凝聚阴气成巨鬼影、聚黑甲阴气化黑云、成军作战、阴气可凝聚联结",
     "主人": "白发美妇",
     "种族": "鬼物"
   },
@@ -40,6 +41,11 @@
         "value": "身高数丈、披狰狞战甲、面目模糊",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "黑甲干尸绿火骷髅",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "栖息地": [
@@ -59,6 +65,11 @@
         "value": "炼虚中后期",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
         "seq": 1471
+      },
+      {
+        "value": "炼虚中后期(八鬼王)",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "能力": [
@@ -76,6 +87,11 @@
         "value": "成军作战",
         "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
         "seq": 1435
+      },
+      {
+        "value": "阴气可凝聚联结",
+        "docId": "plot.fanren-1474-jingkongmo",
+        "seq": 1471
       }
     ],
     "主人": [
@@ -97,9 +113,9 @@
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
-      "seq": 1489
+      "seq": 1435
     },
     "栖息地": {
       "asOf": null,
@@ -115,9 +131,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
       "dated": false,
-      "seq": 1489
+      "seq": 1435
     },
     "主人": {
       "asOf": null,
@@ -139,7 +155,8 @@
     "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1443-1444-diyuan-shenceng-weiji",
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1474-jingkongmo"
   ],
-  "updatedAt": "2026-06-20T12:41:41.715Z"
+  "updatedAt": "2026-06-20T12:54:50.694Z"
 }
