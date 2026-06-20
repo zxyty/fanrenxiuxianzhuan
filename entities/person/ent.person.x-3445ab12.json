@@ -11,13 +11,14 @@
     "地血道友",
     "本座",
     "地血前辈",
-    "地血老弟"
+    "地血老弟",
+    "血袍神秘人"
   ],
   "summary": "地渊深层红袍神秘人，道号/称地血，负责炼制大量傀儡，以泥傀儡分神监视并图谋掳走韩立精魂。",
   "attributes": {
     "外貌": "鲜红长袍笼罩、血袍、两名一般无二的血袍人、血袍、双手倒背、被血雾包裹、立于紫血傀儡肩头",
-    "身份": "炼傀儡者、地渊深层势力、四大妖王之一、血焰宫之主、地渊妖王、妖王/合体级、妖王",
-    "性格": "狡诈",
+    "身份": "炼傀儡者、地渊深层势力、四大妖王之一、血焰宫之主、地渊妖王、妖王/合体级、妖王、傀儡道修士",
+    "性格": "贪利、从容、阴狠、阴沉、狡诈、狡黠贪利、从容自得",
     "阵营": "地渊妖物、木青等四人同盟、妖族夺宝一方",
     "标志特征": "上万傀儡、血傀儡、血袍、声音金属般生硬、通体血袍笼罩、现两名血袍人分立傀儡双肩、血色长袍、驱使紫血傀儡与金属傀儡、血袍、万年秽气血球、血之道法、血傀儡化身",
     "种族": "妖族/血族、妖族",
@@ -88,6 +89,11 @@
         "value": "妖王",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "傀儡道修士",
+        "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+        "seq": 1435
       }
     ],
     "性格": [
@@ -110,6 +116,11 @@
         "value": "狡诈",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "狡黠贪利、从容自得",
+        "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+        "seq": 1435
       }
     ],
     "阵营": [
@@ -211,7 +222,7 @@
       {
         "value": "地血老怪",
         "docId": "plot.fanren-1504-cuijing-zhuan",
-        "seq": 1501
+        "seq": 1435
       }
     ]
   },
@@ -231,9 +242,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
-      "seq": 1501
+      "seq": 1435
     },
     "阵营": {
       "asOf": null,
@@ -269,7 +280,7 @@
       "asOf": null,
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
-      "seq": 1501
+      "seq": 1435
     }
   },
   "contested": false,
@@ -284,7 +295,8 @@
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1495-1500-xutian-rescue-melee",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1443-1444-diyuan-shenceng-weiji"
   ],
-  "updatedAt": "2026-06-16T19:14:17.458Z"
+  "updatedAt": "2026-06-20T11:49:43.547Z"
 }

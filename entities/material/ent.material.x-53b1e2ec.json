@@ -7,13 +7,21 @@
   ],
   "summary": "老妇人手中的珍贵之物，被血袍人用韩立精魂交换（一条）。",
   "attributes": {
-    "稀有度": "极高"
+    "稀有度": "极高",
+    "用途": "交易报酬"
   },
   "observations": {
     "稀有度": [
       {
         "value": "极高",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      }
+    ],
+    "用途": [
+      {
+        "value": "交易报酬",
+        "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
         "seq": 1435
       }
     ]
@@ -25,12 +33,19 @@
       "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
       "seq": 1435
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+      "dated": false,
+      "seq": 1435
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1443-1444-diyuan-shenceng-weiji"
   ],
-  "updatedAt": "2026-06-16T16:33:50.690Z"
+  "updatedAt": "2026-06-20T11:49:43.578Z"
 }

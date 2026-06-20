@@ -582,3 +582,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T11:43:45.936Z** `ingest` plot.fanren-1435-1437-sicha-huajia-diyuan-shilian — 第1435-1437章 四煞化甲术与地渊试炼开启 · kind=plot asOf=2026-06-20 entities=20 relations=25 src=01429-01434.p3.md
 - **2026-06-20T11:45:56.028Z** `ingest` plot.fanren-1438-1440-yinzhufeng-juilinghua — 凡人修仙传 第1438-1440章：地渊一层·阴蛛蜂与巨灵花 · kind=plot asOf=2026-06-20 entities=24 relations=25 src=01435-01440.p1.md
 - **2026-06-20T11:47:41.191Z** `ingest` plot.fanren-1441-1442-mysterious-mountain-green-shadow — 第1441-1442章 神秘山脉与绿影怨猿兽 · kind=plot asOf=2026-06-20 entities=22 relations=22 src=01435-01440.p2.md
+- **2026-06-20T11:49:43.756Z** `ingest` plot.fanren-1443-1444-diyuan-shenceng-weiji — 第1443-1444章 危机·地渊深层——韩立三人穿越地渊，血袍人觊觎其精魂 · kind=plot asOf=2026-06-20 entities=19 relations=22 src=01435-01440.p3.md
