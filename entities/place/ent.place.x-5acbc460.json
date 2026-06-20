@@ -1,40 +1,45 @@
 {
-  "id": "ent.race.x-0a782583",
-  "type": "race",
-  "name": "娲氏一族",
-  "aliases": [
-    "娲氏",
-    "娲氏蛇人"
-  ],
-  "summary": "灵界异族大族，火阳族为其小小分支。",
+  "id": "ent.place.x-5acbc460",
+  "type": "place",
+  "name": "火云岛",
+  "aliases": [],
+  "summary": "火阳族唯一常驻岛屿，有土城、灵脉与灵药，韩立在此静养。",
   "attributes": {
-    "特性": "蛇身一系大族、蛇人种族、分多支",
-    "聚居地": "火瑚群岛附近海域",
-    "天敌": "乌罗族"
+    "所属界面": "灵界",
+    "所属势力": "火阳族",
+    "类型": "海岛",
+    "特产": "上佳灵脉、罕见灵药"
   },
   "observations": {
-    "特性": [
+    "所属界面": [
       {
-        "value": "蛇身一系大族",
+        "value": "灵界",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "火阳族",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "类型": [
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "特产": [
+      {
+        "value": "上佳灵脉",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       },
       {
-        "value": "蛇人种族、分多支",
-        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-        "seq": 1531
-      }
-    ],
-    "聚居地": [
-      {
-        "value": "火瑚群岛附近海域",
-        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-        "seq": 1531
-      }
-    ],
-    "天敌": [
-      {
-        "value": "乌罗族",
+        "value": "罕见灵药",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -42,19 +47,25 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "特性": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "聚居地": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "天敌": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
+    },
+    "特产": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -64,8 +75,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.386Z"
+  "updatedAt": "2026-06-20T14:29:20.401Z"
 }

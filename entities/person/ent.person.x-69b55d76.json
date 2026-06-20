@@ -1,40 +1,42 @@
 {
-  "id": "ent.race.x-0a782583",
-  "type": "race",
-  "name": "娲氏一族",
+  "id": "ent.person.x-69b55d76",
+  "type": "person",
+  "name": "珠儿",
   "aliases": [
-    "娲氏",
-    "娲氏蛇人"
+    "珠儿蛇人少女"
   ],
-  "summary": "灵界异族大族，火阳族为其小小分支。",
+  "summary": "火月之女，携师傅破天弓赶回族中的蛇人少女。",
   "attributes": {
-    "特性": "蛇身一系大族、蛇人种族、分多支",
-    "聚居地": "火瑚群岛附近海域",
-    "天敌": "乌罗族"
+    "性别": "女",
+    "种族": "娲氏（火阳族）",
+    "外貌": "约十六七岁、乌发、白皙蛇身",
+    "标志特征": "背黄大弓白骨箭、持白幡"
   },
   "observations": {
-    "特性": [
+    "性别": [
       {
-        "value": "蛇身一系大族",
-        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-        "seq": 1531
-      },
-      {
-        "value": "蛇人种族、分多支",
+        "value": "女",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "聚居地": [
+    "种族": [
       {
-        "value": "火瑚群岛附近海域",
+        "value": "娲氏（火阳族）",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "天敌": [
+    "外貌": [
       {
-        "value": "乌罗族",
+        "value": "约十六七岁、乌发、白皙蛇身",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "背黄大弓白骨箭、持白幡",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -42,19 +44,25 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "特性": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "聚居地": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "天敌": {
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
+    },
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -64,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.386Z"
+  "updatedAt": "2026-06-20T14:29:20.383Z"
 }

@@ -1,40 +1,34 @@
 {
-  "id": "ent.race.x-0a782583",
-  "type": "race",
-  "name": "娲氏一族",
+  "id": "ent.place.x-9d50b831",
+  "type": "place",
+  "name": "火山海岛",
   "aliases": [
-    "娲氏",
-    "娲氏蛇人"
+    "火阳族海岛"
   ],
-  "summary": "灵界异族大族，火阳族为其小小分支。",
+  "summary": "数百里中型海岛，最高巨山顶泛红为火山，设有借灵石之力运转、可射出乳白光柱破云的法阵/法器，为火阳族居地。",
   "attributes": {
-    "特性": "蛇身一系大族、蛇人种族、分多支",
-    "聚居地": "火瑚群岛附近海域",
-    "天敌": "乌罗族"
+    "类型": "海岛/火山岛",
+    "所属势力": "火阳族",
+    "守护": "可放乳白色光柱破云的法阵/法器"
   },
   "observations": {
-    "特性": [
+    "类型": [
       {
-        "value": "蛇身一系大族",
-        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-        "seq": 1531
-      },
-      {
-        "value": "蛇人种族、分多支",
+        "value": "海岛/火山岛",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "聚居地": [
+    "所属势力": [
       {
-        "value": "火瑚群岛附近海域",
+        "value": "火阳族",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "天敌": [
+    "守护": [
       {
-        "value": "乌罗族",
+        "value": "可放乳白色光柱破云的法阵/法器",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -42,19 +36,19 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "特性": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "聚居地": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "天敌": {
+    "守护": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -64,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.386Z"
+  "updatedAt": "2026-06-20T14:29:20.347Z"
 }

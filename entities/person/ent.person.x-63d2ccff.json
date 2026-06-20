@@ -9,7 +9,7 @@
   "attributes": {
     "性别": "男",
     "种族": "飞灵族",
-    "外貌": "皂袍，背生两对灰翅，拄龙头拐杖"
+    "外貌": "皂袍，背生两对灰翅，拄龙头拐杖、皂袍、两对灰翅、龙头拐杖"
   },
   "observations": {
     "性别": [
@@ -30,6 +30,11 @@
       {
         "value": "皂袍，背生两对灰翅，拄龙头拐杖",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "皂袍、两对灰翅、龙头拐杖",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.948Z"
+  "updatedAt": "2026-06-20T14:29:20.308Z"
 }

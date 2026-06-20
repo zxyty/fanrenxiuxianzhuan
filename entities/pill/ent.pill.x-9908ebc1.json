@@ -1,40 +1,39 @@
 {
-  "id": "ent.race.x-0a782583",
-  "type": "race",
-  "name": "娲氏一族",
+  "id": "ent.pill.x-9908ebc1",
+  "type": "pill",
+  "name": "烈阳神丹",
   "aliases": [
-    "娲氏",
-    "娲氏蛇人"
+    "裂阳神丹"
   ],
-  "summary": "灵界异族大族，火阳族为其小小分支。",
+  "summary": "火阳族珍藏数千年的火属性灵丹，可白骨生肉、起死回生。",
   "attributes": {
-    "特性": "蛇身一系大族、蛇人种族、分多支",
-    "聚居地": "火瑚群岛附近海域",
-    "天敌": "乌罗族"
+    "功效": "疗伤、白骨生肉、起死回生",
+    "炼制者": "火阳族",
+    "主料": "双头炎蛟内丹"
   },
   "observations": {
-    "特性": [
+    "功效": [
       {
-        "value": "蛇身一系大族",
+        "value": "疗伤",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       },
       {
-        "value": "蛇人种族、分多支",
+        "value": "白骨生肉、起死回生",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "聚居地": [
+    "炼制者": [
       {
-        "value": "火瑚群岛附近海域",
+        "value": "火阳族",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "天敌": [
+    "主料": [
       {
-        "value": "乌罗族",
+        "value": "双头炎蛟内丹",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -42,19 +41,19 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "特性": {
+    "功效": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "聚居地": {
+    "炼制者": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "天敌": {
+    "主料": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -64,8 +63,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.386Z"
+  "updatedAt": "2026-06-20T14:29:20.393Z"
 }

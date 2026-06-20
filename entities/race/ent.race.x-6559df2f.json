@@ -4,13 +4,15 @@
   "name": "火阳族",
   "aliases": [
     "蛇人",
-    "火阳一族"
+    "火阳一族",
+    "火阳族一族"
   ],
   "summary": "下半身为各色蛇身的异族，娲氏一族的小小分支，居于有火山的海岛，崇奉「上族」，设大祭司、辅助祭祀。",
   "attributes": {
-    "特性": "下半身蛇身、身手矫健无灵气、近似炼体士、力大善投掷",
-    "聚居地": "海岛（含火山，火阳城）",
-    "代表人物": "炎舞、大祭司"
+    "特性": "下半身蛇身、身手矫健无灵气、近似炼体士、力大善投掷、炼体过人、力大无穷、蛇人之躯（下半身蛇身）、女多男少、全民皆兵",
+    "聚居地": "海岛（含火山，火阳城）、火山海岛/火阳城、火云岛",
+    "代表人物": "炎舞、大祭司、大汉",
+    "天敌": "乌罗族"
   },
   "observations": {
     "特性": [
@@ -28,12 +30,42 @@
         "value": "力大善投掷",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
         "seq": 1531
+      },
+      {
+        "value": "炼体过人、力大无穷",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "蛇人之躯（下半身蛇身）",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "女多男少",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "全民皆兵",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
       }
     ],
     "聚居地": [
       {
         "value": "海岛（含火山，火阳城）",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "火山海岛/火阳城",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "火云岛",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
@@ -46,6 +78,18 @@
       {
         "value": "大祭司",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "大汉",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "天敌": [
+      {
+        "value": "乌罗族",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -69,12 +113,19 @@
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
       "dated": false,
       "seq": 1531
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.924Z"
+  "updatedAt": "2026-06-20T14:29:20.385Z"
 }

@@ -600,3 +600,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T14:06:17.658Z** `ingest` plot.fanren-1520-1521-huifu-zhonglian-shenshan — 第1520-1521章 回府·重炼神山：韩立出黑冥雾海归洞府，重炼元磁神山、参悟春黎剑阵 · kind=plot asOf=2026-06-20 entities=24 relations=23 src=01513-01518.p3.md
 - **2026-06-20T14:14:47.452Z** `ingest` plot.fanren-1519-1524-zhong-jian-jinjie-lianxu — 第1519-1524章 种剑·进阶炼虚·重祭元磁神山 · kind=plot asOf=2026-06-20 entities=32 relations=36 src=01519-01524.md
 - **2026-06-20T14:21:42.551Z** `update` plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian — 凡人修仙传 第1525-1530章｜九幽冥尸 · 新飞剑 · kind=plot asOf=2026-06-20 entities=15 relations=15 src=01525-01530.md
+- **2026-06-20T14:29:20.629Z** `ingest` plot.fanren-1531-1536-escape-snakemen-huoyangzu — 凡人修仙传 第1531-1536章：玄天剑斩空脱困，流落火阳族海岛 · kind=plot asOf=2026-06-20 entities=34 relations=29 src=01531-01536.md

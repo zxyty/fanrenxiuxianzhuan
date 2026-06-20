@@ -9,7 +9,7 @@
   "summary": "飞灵族驼背弓腰、被白雾笼罩看不清容貌的高阶存在，威望甚高，拍板再助血祭一次。",
   "attributes": {
     "种族": "飞灵族",
-    "外貌": "驼背弓腰，被淡淡白雾笼罩"
+    "外貌": "驼背弓腰，被淡淡白雾笼罩、驼背弓腰、白雾笼罩"
   },
   "observations": {
     "种族": [
@@ -23,6 +23,11 @@
       {
         "value": "驼背弓腰，被淡淡白雾笼罩",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "驼背弓腰、白雾笼罩",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -45,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.950Z"
+  "updatedAt": "2026-06-20T14:29:20.310Z"
 }

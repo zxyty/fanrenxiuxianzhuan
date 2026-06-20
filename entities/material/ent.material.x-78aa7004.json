@@ -1,24 +1,24 @@
 {
-  "id": "ent.place.x-fed5b985",
-  "type": "place",
-  "name": "雷鸣大陆",
+  "id": "ent.material.x-78aa7004",
+  "type": "material",
+  "name": "炼仙果",
   "aliases": [],
-  "summary": "血灵计划魔劫退去后前往之地，需虚皇鼎等钥匙方可进入。",
+  "summary": "可助跨数百年瓶颈突破的灵果，代价为寿命大损。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "大陆"
+    "类型": "灵果/灵药",
+    "用途": "强行突破境界瓶颈"
   },
   "observations": {
-    "所属界面": [
+    "类型": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "value": "灵果/灵药",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "类型": [
+    "用途": [
       {
-        "value": "大陆",
+        "value": "强行突破境界瓶颈",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "所属界面": {
+    "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "类型": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.406Z"
+  "updatedAt": "2026-06-20T14:29:20.395Z"
 }

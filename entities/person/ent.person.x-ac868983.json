@@ -1,24 +1,24 @@
 {
-  "id": "ent.place.x-fed5b985",
-  "type": "place",
-  "name": "雷鸣大陆",
+  "id": "ent.person.x-ac868983",
+  "type": "person",
+  "name": "火阳族大祭司",
   "aliases": [],
-  "summary": "血灵计划魔劫退去后前往之地，需虚皇鼎等钥匙方可进入。",
+  "summary": "火阳族最高祭司，本章未出场，炎舞欲将气息诡异的韩立交其处理。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "大陆"
+    "种族": "火阳族",
+    "身份": "大祭司"
   },
   "observations": {
-    "所属界面": [
+    "种族": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "value": "火阳族",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "类型": [
+    "身份": [
       {
-        "value": "大陆",
+        "value": "大祭司",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "所属界面": {
+    "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "类型": {
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.406Z"
+  "updatedAt": "2026-06-20T14:29:20.327Z"
 }

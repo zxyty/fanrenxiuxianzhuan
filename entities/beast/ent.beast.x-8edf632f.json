@@ -8,15 +8,20 @@
   ],
   "summary": "身高十余丈、浑身倒刺青甲、双目绿光、可喷腥臭白沫的海岛巨蟹，被蛇人合力猎杀。",
   "attributes": {
-    "栖息地": "海岛/海边",
-    "外形": "身高十余丈，浑身倒刺，青色硬壳幽光",
-    "能力": "巨钳，喷腥臭白沫"
+    "栖息地": "海岛/海边、海岛/近海",
+    "外形": "身高十余丈，浑身倒刺，青色硬壳幽光、十余丈、青壳倒刺、绿目",
+    "能力": "巨钳，喷腥臭白沫、喷腥臭白沫、巨钳斩物"
   },
   "observations": {
     "栖息地": [
       {
         "value": "海岛/海边",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "海岛/近海",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
@@ -25,12 +30,27 @@
         "value": "身高十余丈，浑身倒刺，青色硬壳幽光",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
         "seq": 1531
+      },
+      {
+        "value": "十余丈、青壳倒刺、绿目",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
       }
     ],
     "能力": [
       {
         "value": "巨钳，喷腥臭白沫",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "喷腥臭白沫",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "巨钳斩物",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -59,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.921Z"
+  "updatedAt": "2026-06-20T14:29:20.339Z"
 }

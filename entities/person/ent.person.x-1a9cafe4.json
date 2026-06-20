@@ -7,7 +7,8 @@
   "attributes": {
     "性别": "男",
     "种族": "角蚩族",
-    "标志特征": "头生一根发光白角"
+    "标志特征": "头生一根发光白角、独角",
+    "外貌": "头生闪光独角"
   },
   "observations": {
     "性别": [
@@ -28,6 +29,18 @@
       {
         "value": "头生一根发光白角",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "独角",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "外貌": [
+      {
+        "value": "头生闪光独角",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -51,12 +64,19 @@
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
       "dated": false,
       "seq": 1531
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.939Z"
+  "updatedAt": "2026-06-20T14:29:20.290Z"
 }

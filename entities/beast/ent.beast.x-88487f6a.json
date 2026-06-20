@@ -1,24 +1,24 @@
 {
-  "id": "ent.place.x-fed5b985",
-  "type": "place",
-  "name": "雷鸣大陆",
+  "id": "ent.beast.x-88487f6a",
+  "type": "beast",
+  "name": "双头炎蛟",
   "aliases": [],
-  "summary": "血灵计划魔劫退去后前往之地，需虚皇鼎等钥匙方可进入。",
+  "summary": "其内丹被火阳族用以炼制烈阳神丹的火属性蛟类。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "大陆"
+    "能力": "火属性",
+    "外形": "双头蛟"
   },
   "observations": {
-    "所属界面": [
+    "能力": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "value": "火属性",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
-    "类型": [
+    "外形": [
       {
-        "value": "大陆",
+        "value": "双头蛟",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
@@ -26,13 +26,13 @@
   },
   "firstSeq": 1531,
   "attrProvenance": {
-    "所属界面": {
+    "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
     },
-    "类型": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
@@ -42,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.406Z"
+  "updatedAt": "2026-06-20T14:29:20.398Z"
 }

@@ -2,14 +2,19 @@
   "id": "ent.person.x-089ede1f",
   "type": "person",
   "name": "炎舞",
-  "aliases": [],
+  "aliases": [
+    "艳丽蛇女",
+    "辅助祭祀炎舞",
+    "舞儿",
+    "女祭司"
+  ],
   "summary": "火阳族辅助祭祀，艳丽蛇女，炼气期修为，懂飞灵语（说得结巴），护送韩立赴火阳城见大祭司。",
   "attributes": {
     "性别": "女",
-    "种族": "火阳族（蛇人）",
+    "种族": "火阳族（蛇人）、火阳族、娲氏（火阳族）",
     "小阶段": "炼气期",
-    "身份": "辅助祭祀",
-    "外貌": "二十余岁，身材丰满，容貌艳丽，下半身蛇身"
+    "身份": "辅助祭祀、低阶女祭司",
+    "外貌": "二十余岁，身材丰满，容貌艳丽，下半身蛇身、身材丰满、容貌艳丽"
   },
   "observations": {
     "性别": [
@@ -23,6 +28,16 @@
       {
         "value": "火阳族（蛇人）",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "火阳族",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      },
+      {
+        "value": "娲氏（火阳族）",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ],
@@ -38,12 +53,22 @@
         "value": "辅助祭祀",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
         "seq": 1531
+      },
+      {
+        "value": "低阶女祭司",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
       }
     ],
     "外貌": [
       {
         "value": "二十余岁，身材丰满，容貌艳丽，下半身蛇身",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
+        "seq": 1531
+      },
+      {
+        "value": "身材丰满、容貌艳丽",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
     ]
@@ -84,7 +109,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.928Z"
+  "updatedAt": "2026-06-20T14:29:20.382Z"
 }

@@ -4,7 +4,9 @@
   "name": "土甲大汉",
   "aliases": [
     "大汉",
-    "那大汉"
+    "那大汉",
+    "黑蛇身大汉",
+    "蛇人首领"
   ],
   "summary": "偷袭韩立的二人组之一，持黑索长刀、以土甲术护体，被韩立用符宝斩首。",
   "attributes": {
@@ -12,7 +14,9 @@
     "存殁": "死亡",
     "死因": "被韩立灰光符宝绕颈斩落头颅",
     "标志特征": "全身土甲术护体黄光",
-    "外貌": "大汉"
+    "外貌": "古铜色皮肤、黑色蛇身",
+    "种族": "火阳族",
+    "身份": "蛇人队伍首领"
   },
   "observations": {
     "性别": [
@@ -48,6 +52,25 @@
         "value": "大汉",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "古铜色皮肤、黑色蛇身",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "种族": [
+      {
+        "value": "火阳族",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
+      }
+    ],
+    "身份": [
+      {
+        "value": "蛇人队伍首领",
+        "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+        "seq": 1531
       }
     ]
   },
@@ -79,16 +102,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1425",
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
-      "seq": 1423
+      "seq": 1531
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "dated": false,
+      "seq": 1531
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
   ],
-  "updatedAt": "2026-06-20T11:37:56.411Z"
+  "updatedAt": "2026-06-20T14:29:20.318Z"
 }
