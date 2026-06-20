@@ -22,7 +22,7 @@
     "标志特征": "功法讲究清静",
     "存殁": "疑陨落、死亡",
     "称号": "风老怪",
-    "死因": "陨落于空间节点"
+    "死因": "过空间节点遭空间风暴陨落"
   },
   "observations": {
     "小阶段": [
@@ -164,6 +164,11 @@
         "value": "陨落于空间节点",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "过空间节点遭空间风暴陨落",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ]
   },
@@ -239,9 +244,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
-      "seq": 1249
+      "seq": 1573
     }
   },
   "contested": false,
@@ -256,7 +261,8 @@
     "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
     "plot.fanren-1237-1244-ziling-exchange-huoyu",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T06:47:36.415Z"
+  "updatedAt": "2026-06-20T15:37:14.782Z"
 }

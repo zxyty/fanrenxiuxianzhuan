@@ -4,13 +4,17 @@
   "name": "天云十三族",
   "aliases": [
     "天云十三族联盟",
-    "十三族"
+    "十三族",
+    "天云诸族",
+    "天云",
+    "天元十三族"
   ],
   "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
   "attributes": {
     "所属界面": "灵界",
     "阵营": "灵界势力联盟",
-    "据点": "绿光城、云城"
+    "据点": "绿光城、云城、横水城、金甲城",
+    "镇派之宝": "超级传送阵"
   },
   "observations": {
     "所属界面": [
@@ -42,6 +46,23 @@
         "value": "云城",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "横水城",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      },
+      {
+        "value": "金甲城",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "超级传送阵",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ]
   },
@@ -64,6 +85,12 @@
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "dated": false,
+      "seq": 1573
     }
   },
   "contested": false,
@@ -71,7 +98,8 @@
   "docs": [
     "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
-    "plot.fanren-ch1569-tuizou"
+    "plot.fanren-ch1569-tuizou",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T15:29:15.484Z"
+  "updatedAt": "2026-06-20T15:37:14.787Z"
 }

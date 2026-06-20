@@ -23,17 +23,18 @@
   ],
   "summary": "黄枫谷仅十一层功法的滑头老者，欲拉拢低微弟子结盟自保，被韩立拒绝。",
   "attributes": {
-    "小阶段": "炼气期十一层、炼气期十层、化神、疑似化神期、化神期",
-    "身份": "黄枫谷弟子、弱者联盟倡导者、护法、慕兰大上师、天符门低阶弟子、大晋修士前辈、化神修士、天符门长老、镇魔塔相关知情修士",
+    "小阶段": "炼气期十一层、炼气期十层、化神、疑似化神期、化神期、结丹期",
+    "身份": "黄枫谷弟子、弱者联盟倡导者、护法、慕兰大上师、天符门低阶弟子、大晋修士前辈、化神修士、天符门长老、镇魔塔相关知情修士、客栈帮工",
     "性格": "圆滑滑头、不可信、油嘴滑舌、善于撮合奉承、滑头投机、圆滑而强势、圆滑老练、沉稳、重长远利益、圆滑、老练",
     "外貌": "黄衫老者、黄衫无须老者、与二百多年前几无变化的老者、笑嘻嘻圆滑老者、满头白发、满脸皱纹、两眼细小、圆滑老者、面容苍老、两眼细小、一脸圆滑、小眼老者",
     "阵营": "黄枫谷、魔道六宗、大晋、人类修士、魔道",
     "结局": "被幻妙天象卷走沉睡数月",
-    "标志特征": "巨灵爪神通",
+    "标志特征": "脸色焦黄略带病容、白发灰袍",
     "性别": "男",
-    "出身地": "西灵山",
-    "存殁": "生死不明、死亡",
-    "死因": "陨落于空间节点"
+    "出身地": "人界",
+    "存殁": "生死不明、死亡、存活",
+    "死因": "陨落于空间节点",
+    "种族": "人族"
   },
   "observations": {
     "小阶段": [
@@ -63,6 +64,11 @@
         "docId": "plot.fanren-1063-xuanwo-heifengqi",
         "seq": 973,
         "note": "韩立怀疑"
+      },
+      {
+        "value": "结丹期",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "身份": [
@@ -111,6 +117,11 @@
         "value": "镇魔塔相关知情修士",
         "docId": "plot.fanren-1063-xuanwo",
         "seq": 1063
+      },
+      {
+        "value": "客栈帮工",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "性格": [
@@ -247,6 +258,11 @@
         "value": "巨灵爪神通",
         "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
+      },
+      {
+        "value": "脸色焦黄略带病容、白发灰袍",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "性别": [
@@ -266,6 +282,11 @@
         "value": "大晋",
         "docId": "plot.fanren-1063-xuanwo",
         "seq": 1063
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "存殁": [
@@ -280,6 +301,11 @@
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1249,
         "note": "据世界状态须知第1249章死亡；本章为回忆"
+      },
+      {
+        "value": "存活",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "死因": [
@@ -287,6 +313,13 @@
         "value": "陨落于空间节点",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ]
   },
@@ -331,9 +364,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
-      "seq": 1237
+      "seq": 1573
     },
     "性别": {
       "asOf": null,
@@ -343,9 +376,9 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
-      "seq": 1231
+      "seq": 1573
     },
     "存殁": {
       "asOf": null,
@@ -359,6 +392,12 @@
       "docId": "plot.fanren-1251-li-ya-er-yao",
       "dated": false,
       "seq": 1249
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "dated": false,
+      "seq": 1573
     }
   },
   "contested": false,
@@ -385,7 +424,8 @@
     "plot.fanren-1237-1244-ziling-exchange-huoyu",
     "plot.fanren-ch1245-jinghuo-xian",
     "plot.fanren-1251-li-ya-er-yao",
-    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T06:59:42.198Z"
+  "updatedAt": "2026-06-20T15:37:14.766Z"
 }

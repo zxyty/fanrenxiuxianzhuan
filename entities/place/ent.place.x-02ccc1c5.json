@@ -6,7 +6,7 @@
   "summary": "天云十三族在该区域最大城市兼最大要塞险关，长期驻扎大批精锐与高阶存在，韩立欲赴此避祸。",
   "attributes": {
     "所属势力": "天云十三族",
-    "类型": "要塞险关/大城",
+    "类型": "城市",
     "守护": "十三族精锐部队与高阶存在"
   },
   "observations": {
@@ -22,6 +22,11 @@
         "value": "要塞险关/大城",
         "docId": "plot.fanren-ch1569-tuizou",
         "seq": 1567
+      },
+      {
+        "value": "城市",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "守护": [
@@ -42,9 +47,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch1569-tuizou",
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
-      "seq": 1567
+      "seq": 1573
     },
     "守护": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1569-tuizou"
+    "plot.fanren-ch1569-tuizou",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T15:29:15.395Z"
+  "updatedAt": "2026-06-20T15:37:14.724Z"
 }

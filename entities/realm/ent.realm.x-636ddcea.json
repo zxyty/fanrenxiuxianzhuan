@@ -24,8 +24,8 @@
     "阶序": "炼虚期",
     "上一境": "合体期",
     "下一境": "化神",
-    "突破关键": "五行合一、三千年一次大天劫、度劫、化神大圆满、黑炎丹与天罗丹辅助、灵力五行合一、掌控天地元气、灌注法体、掌控天地元气",
-    "寿元": "理论无穷尽(元气充足)、天地元气充足则无穷",
+    "突破关键": "五行合一、三千年一次大天劫、度劫、化神大圆满、黑炎丹与天罗丹辅助、灵力五行合一、掌控天地元气、灌注法体、掌控天地元气、上承化神",
+    "寿元": "理论无穷尽(元气充足)、天地元气充足则无穷、数以万计",
     "小阶段": "炼虚初期、炼虚中期、后期、炼虚后期、炼虚期、初期、中期",
     "突破征兆": "五色光霞天象、聚天地元气、万里五色光霞汇聚、百余里灵云云环、四真灵虚影现身"
   },
@@ -106,6 +106,11 @@
         "value": "掌控天地元气",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "上承化神",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "寿元": [
@@ -118,6 +123,11 @@
         "value": "天地元气充足则无穷",
         "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
         "seq": 1213
+      },
+      {
+        "value": "数以万计",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "小阶段": [
@@ -218,46 +228,46 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-ch127-132-linggen-realms-taonan",
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-1287-chuancheng-zhu",
+    "lore.fanren-ch127-132-linggen-realms-taonan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1305-juren-zhi-zhan",
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1311-1316-tianyuan-city-ascension",
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
     "plot.fanren-1341-leipao-xianshi",
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-ch1359-shuanghuang-appears",
     "plot.fanren-1363-1368-ying-clan-mirage-city",
-    "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-ch1441-1446-bingsha-wanteng",
-    "plot.fanren-1480-bai-ying",
-    "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
-    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
-    "plot.fanren-1305-juren-zhi-zhan",
-    "plot.fanren-1311-1316-tianyuan-city-ascension",
-    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
-    "plot.fanren-ch1365-moying-zaixian",
     "plot.fanren-1369-1374-black-leaf-forest-muzu",
     "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
     "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
     "plot.fanren-1387-1392-juji-tumou-zhenchan",
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+    "plot.fanren-1480-bai-ying",
+    "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1518-1519-heiming-wuhai-haoshou",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
     "plot.fanren-1542-1543-wujiashou-dixian",
     "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
     "plot.fanren-1563-huaxue-lihun-dafa",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-ch1365-moying-zaixian",
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
     "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:29:15.488Z"
+  "updatedAt": "2026-06-20T15:37:14.806Z"
 }

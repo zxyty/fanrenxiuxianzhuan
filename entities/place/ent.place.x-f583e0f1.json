@@ -3,12 +3,16 @@
   "type": "place",
   "name": "云城",
   "aliases": [
-    "天城"
+    "天城",
+    "运城",
+    "天运城"
   ],
   "summary": "天云十三族长老（含万古族大长老）聚集坐镇以应对角蚩族之地，约定数月后于此再会。",
   "attributes": {
     "所属势力": "天云十三族",
-    "类型": "重镇"
+    "类型": "重镇、悬浮空中之城、重城",
+    "所属界面": "灵界",
+    "守护": "云城之卫（十余颗万丈白色球体）、十三只战争傀儡"
   },
   "observations": {
     "所属势力": [
@@ -23,6 +27,35 @@
         "value": "重镇",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "悬浮空中之城",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      },
+      {
+        "value": "重城",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      }
+    ],
+    "守护": [
+      {
+        "value": "云城之卫（十余颗万丈白色球体）",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
+      },
+      {
+        "value": "十三只战争傀儡",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ]
   },
@@ -39,12 +72,25 @@
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "dated": false,
+      "seq": 1573
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "dated": false,
+      "seq": 1573
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T15:03:42.535Z"
+  "updatedAt": "2026-06-20T15:37:14.785Z"
 }

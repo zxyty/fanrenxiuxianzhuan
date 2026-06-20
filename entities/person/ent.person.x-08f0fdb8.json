@@ -22,8 +22,9 @@
     "性别": "男",
     "标志特征": "好女色、怒时面浮黑气、双目转红、不动唇隐秘传音术、动怒时面浮黑气、双目转红现寒芒",
     "寿元": "尚可再活三四百年、活过千余载，自称尚可再活三四百年",
-    "存殁": "存疑",
-    "性格": "好女色、阴狠多疑"
+    "存殁": "死亡",
+    "性格": "好女色、阴狠多疑",
+    "死因": "过空间节点遭空间风暴陨落"
   },
   "observations": {
     "小阶段": [
@@ -138,6 +139,11 @@
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249,
         "note": "元神灯灭，或升灵界或陨落"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ],
     "性格": [
@@ -145,6 +151,13 @@
         "value": "好女色、阴狠多疑",
         "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
         "seq": 1231
+      }
+    ],
+    "死因": [
+      {
+        "value": "过空间节点遭空间风暴陨落",
+        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+        "seq": 1573
       }
     ]
   },
@@ -200,16 +213,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
-      "seq": 1249,
-      "note": "元神灯灭，或升灵界或陨落"
+      "seq": 1573
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
       "dated": false,
       "seq": 1231
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "dated": false,
+      "seq": 1573
     }
   },
   "contested": false,
@@ -222,7 +240,8 @@
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
     "plot.fanren-1237-1244-ziling-exchange-huoyu",
     "plot.fanren-ch1245-jinghuo-xian",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
   ],
-  "updatedAt": "2026-06-20T06:47:36.416Z"
+  "updatedAt": "2026-06-20T15:37:14.774Z"
 }
