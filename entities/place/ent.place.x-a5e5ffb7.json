@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-a5e5ffb7",
+  "type": "place",
+  "name": "沙漠",
+  "aliases": [
+    "灵界沙漠"
+  ],
+  "summary": "灵界中异族常活动的大沙漠，影族在此设蜃景伏杀韩立一行。",
+  "attributes": {
+    "所属界面": "灵界",
+    "危险度": "高(异族常活动)"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高(异族常活动)",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363
+      }
+    ]
+  },
+  "firstSeq": 1363,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1365-moying-zaixian",
+      "dated": false,
+      "seq": 1363
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1365-moying-zaixian",
+      "dated": false,
+      "seq": 1363
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1365-moying-zaixian"
+  ],
+  "updatedAt": "2026-06-20T10:06:35.683Z"
+}

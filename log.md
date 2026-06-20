@@ -566,3 +566,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T09:33:05.154Z** `ingest` plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying — 凡人修仙传 第1345-1350章｜百脉炼宝决・天渊城巡逻擒绿影 · kind=plot asOf=2026-06-20 entities=33 relations=37 src=01345-01350.md
 - **2026-06-20T09:51:19.141Z** `ingest` plot.fanren-1353-lingchong-dacheng — 第1353章 灵虫大成——韩立催熟噬金虫、婉拒联手、接秘任务离城 · kind=plot asOf=2026-06-20 entities=55 relations=66 src=01351-01356.md
 - **2026-06-20T09:53:50.209Z** `ingest` plot.fanren-1359-1364-zhilongguo-manhuang — 凡人修仙传 第1359-1364章｜蛮荒界双皇现·五人合谋夺芝龙果·入南艮大沙漠 · kind=plot asOf=2026-06-20 entities=0 relations=0 src=01357-01362.md
+- **2026-06-20T10:06:35.869Z** `ingest` plot.fanren-ch1365-moying-zaixian — 第1365章 魔影再现——绿洲鬼城影族傀儡伏击 · kind=plot asOf=2026-06-20 entities=44 relations=56 src=01363-01368.md

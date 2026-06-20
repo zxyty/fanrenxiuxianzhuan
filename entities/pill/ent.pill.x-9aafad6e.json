@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "天渊城每年发予飞升修士的丹药，洗去下界异界气息，连服三百年方可彻底清除。",
   "attributes": {
-    "功效": "洗去下界异界气息、奖励/灵丹、度两色天劫、任务奖励、解禁后恢复自由身、韩立急需之物，关系其自由身、削弱/降低天劫威力、洗去异界气息、压制两色雷劫、助渡两色天劫",
+    "功效": "洗去下界异界气息、奖励/灵丹、度两色天劫、任务奖励、解禁后恢复自由身、韩立急需之物，关系其自由身、削弱/降低天劫威力、洗去异界气息、压制两色雷劫、助渡两色天劫、完成任务即可恢复自由之身（奖励）",
     "主料": "蛮荒世界珍稀材料",
-    "副作用": "被设禁制，未完成任务自行毁去、瓶上重禁制，强破则爆毁、需连服三百年方除净、未完成任务则禁制发动自毁",
+    "副作用": "被设禁制，未完成任务自行毁去、瓶上重禁制，强破则爆毁、需连服三百年方除净、未完成任务则禁制发动自毁、药瓶禁制，强行破坏则爆裂毁丹",
     "适用境界": "化神渡劫"
   },
   "observations": {
@@ -56,6 +56,11 @@
         "value": "助渡两色天劫",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "完成任务即可恢复自由之身（奖励）",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363
       }
     ],
     "主料": [
@@ -85,6 +90,11 @@
         "value": "未完成任务则禁制发动自毁",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "药瓶禁制，强行破坏则爆裂毁丹",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363
       }
     ],
     "适用境界": [
@@ -144,7 +154,8 @@
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1311-1316-tianyuan-city-ascension",
     "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.fanren-ch1365-moying-zaixian"
   ],
-  "updatedAt": "2026-06-20T09:51:18.946Z"
+  "updatedAt": "2026-06-20T10:06:35.709Z"
 }

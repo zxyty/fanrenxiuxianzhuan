@@ -4,15 +4,17 @@
   "name": "紫云上人",
   "aliases": [
     "紫袍老道",
-    "赤影"
+    "赤影",
+    "紫袍老道士"
   ],
   "summary": "自称隐居人族炼虚中期老道、慈眉善目，实为影族中相当于炼虚级的『赤影』存在，附身一名炼虚中期修士躯体，以蜃兽幻城设伏猎杀过路修士。",
   "attributes": {
     "种族": "影族",
     "小阶段": "炼虚中期",
     "称号": "尊者",
-    "外貌": "慈眉善目的紫袍老年道士",
-    "阵营": "影族"
+    "外貌": "慈眉善目的紫袍老年道士、紫袍老年道士，慈眉善目",
+    "阵营": "影族",
+    "身份": "影族附身傀儡"
   },
   "observations": {
     "种族": [
@@ -42,6 +44,11 @@
         "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
         "seq": 1363,
         "note": "影族赤影附身炼虚中期修士的伪装"
+      },
+      {
+        "value": "紫袍老年道士，慈眉善目",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363
       }
     ],
     "阵营": [
@@ -49,6 +56,14 @@
         "value": "影族",
         "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
         "seq": 1363
+      }
+    ],
+    "身份": [
+      {
+        "value": "影族附身傀儡",
+        "docId": "plot.fanren-ch1365-moying-zaixian",
+        "seq": 1363,
+        "note": "对外伪称隐居一族之主"
       }
     ]
   },
@@ -84,12 +99,20 @@
       "docId": "plot.fanren-1363-1368-ying-clan-mirage-city",
       "dated": false,
       "seq": 1363
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1365-moying-zaixian",
+      "dated": false,
+      "seq": 1363,
+      "note": "对外伪称隐居一族之主"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1363-1368-ying-clan-mirage-city"
+    "plot.fanren-1363-1368-ying-clan-mirage-city",
+    "plot.fanren-ch1365-moying-zaixian"
   ],
-  "updatedAt": "2026-06-16T14:23:27.883Z"
+  "updatedAt": "2026-06-20T10:06:35.617Z"
 }
