@@ -9,13 +9,29 @@
   ],
   "summary": "天机殿守卫，初见韩立时欲驱傀儡攻击，得知其元婴后期修为后赔罪引路。",
   "attributes": {
-    "身份": "天机殿守卫"
+    "身份": "天机殿守卫",
+    "小阶段": "元婴",
+    "外貌": "黑脸武将"
   },
   "observations": {
     "身份": [
       {
         "value": "天机殿守卫",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑脸武将",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ]
@@ -27,12 +43,25 @@
       "docId": "plot.fanren-1219-1224-author-note-vote-request",
       "dated": false,
       "seq": 1219
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+      "dated": false,
+      "seq": 1219
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+      "dated": false,
+      "seq": 1219
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-16T08:46:38.125Z"
+  "updatedAt": "2026-06-20T05:50:26.345Z"
 }

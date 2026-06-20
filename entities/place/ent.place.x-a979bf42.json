@@ -16,10 +16,10 @@
   ],
   "summary": "慕兰族世居的广袤游牧草原，资源贫乏；另一头为突兀人。",
   "attributes": {
-    "所属势力": "慕兰人",
+    "所属势力": "突兀族",
     "类型": "草原/藏宝处",
     "危险度": "极高、高（法士出没/战乱）、高(法士聚居)",
-    "特产": "修仙资源匮乏",
+    "特产": "天澜圣殿",
     "守护": "外围巨大风阵",
     "所属界面": "人界"
   },
@@ -39,6 +39,11 @@
         "value": "慕兰人",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "突兀族",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "类型": [
@@ -80,6 +85,11 @@
         "value": "修仙资源匮乏",
         "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
         "seq": 691
+      },
+      {
+        "value": "天澜圣殿",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "守护": [
@@ -101,9 +111,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
       "dated": false,
-      "seq": 691
+      "seq": 1219
     },
     "类型": {
       "asOf": null,
@@ -119,9 +129,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-ch691-696-bingjing-heifeng-zaiju",
+      "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
       "dated": false,
-      "seq": 691
+      "seq": 1219
     },
     "守护": {
       "asOf": null,
@@ -157,7 +167,8 @@
     "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
     "plot.fanren-ch745-750-huigui-mingzhen-yifang",
     "plot.fanren-ch829-yuanbo-duoshe-mo-dong",
-    "plot.ch1179-inner-valley-seek-three-women"
+    "plot.ch1179-inner-valley-seek-three-women",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-19T09:55:58.688Z"
+  "updatedAt": "2026-06-20T05:50:26.355Z"
 }

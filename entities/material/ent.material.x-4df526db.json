@@ -5,15 +5,20 @@
   "aliases": [],
   "summary": "稀少程度更甚庚精的炼器材料，可抵挡掺入庚精的飞剑斩击；元智赤红禅杖以其炼成。",
   "attributes": {
-    "类型": "炼器材料",
-    "用途": "炼制可抗利器的法宝",
-    "稀有度": "比庚精更难寻觅"
+    "类型": "炼器材料、炼器灵材",
+    "用途": "炼制可抗利器的法宝、炼制可抗庚精飞剑的法宝",
+    "稀有度": "比庚精更难寻觅、比庚精更稀少"
   },
   "observations": {
     "类型": [
       {
         "value": "炼器材料",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "炼器灵材",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ],
@@ -22,12 +27,22 @@
         "value": "炼制可抗利器的法宝",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "炼制可抗庚精飞剑的法宝",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "稀有度": [
       {
         "value": "比庚精更难寻觅",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "比庚精更稀少",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ]
@@ -56,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-16T08:46:38.138Z"
+  "updatedAt": "2026-06-20T05:50:26.362Z"
 }

@@ -6,8 +6,8 @@
   "summary": "元智法宝，祭出后化为绿色光幕护身。",
   "attributes": {
     "持有者": "元智",
-    "能力": "化绿色护幕",
-    "外形": "翠绿欲滴的佛珠串"
+    "能力": "化绿色护幕、化绿色光幕护体",
+    "外形": "翠绿欲滴的佛珠串、一串翠绿佛珠"
   },
   "observations": {
     "持有者": [
@@ -22,12 +22,22 @@
         "value": "化绿色护幕",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "化绿色光幕护体",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "外形": [
       {
         "value": "翠绿欲滴的佛珠串",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "一串翠绿佛珠",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ]
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-16T08:46:38.136Z"
+  "updatedAt": "2026-06-20T05:50:26.361Z"
 }

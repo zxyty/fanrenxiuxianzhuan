@@ -10,8 +10,8 @@
   "attributes": {
     "性别": "男",
     "小阶段": "结丹后期",
-    "身份": "天机殿守门人",
-    "外貌": "脸色黝黑、着盔甲武将打扮"
+    "身份": "天机殿守门人、天机殿守门修士",
+    "外貌": "脸色黝黑、着盔甲武将打扮、黑脸武将打扮"
   },
   "observations": {
     "性别": [
@@ -33,12 +33,22 @@
         "value": "天机殿守门人",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "天机殿守门修士",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "外貌": [
       {
         "value": "脸色黝黑、着盔甲武将打扮",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "黑脸武将打扮",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ]
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-16T08:46:38.096Z"
+  "updatedAt": "2026-06-20T05:50:26.317Z"
 }

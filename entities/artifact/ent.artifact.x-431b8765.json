@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "赤红禅杖",
   "aliases": [
-    "赤蛟禅杖"
+    "赤蛟禅杖",
+    "赤红蛟龙"
   ],
   "summary": "元智法宝，万年火珊瑚炼制，可化赤红蛟龙，能扛住掺庚精飞剑齐斩而不碎。",
   "attributes": {
     "持有者": "元智",
-    "能力": "化赤红蛟龙、抗利器斩击",
-    "外形": "数尺长赤红禅杖"
+    "能力": "化赤红蛟龙、抗利器斩击、化赤红蛟龙、抵御庚精飞剑",
+    "外形": "数尺长赤红禅杖、赤红禅杖",
+    "来历": "万年火珊瑚炼制"
   },
   "observations": {
     "持有者": [
@@ -24,12 +26,29 @@
         "value": "化赤红蛟龙、抗利器斩击",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
         "seq": 1219
+      },
+      {
+        "value": "化赤红蛟龙、抵御庚精飞剑",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
       }
     ],
     "外形": [
       {
         "value": "数尺长赤红禅杖",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "赤红禅杖",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+        "seq": 1219
+      }
+    ],
+    "来历": [
+      {
+        "value": "万年火珊瑚炼制",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ]
@@ -53,12 +72,19 @@
       "docId": "plot.fanren-1219-1224-author-note-vote-request",
       "dated": false,
       "seq": 1219
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+      "dated": false,
+      "seq": 1219
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1219-1224-author-note-vote-request"
+    "plot.fanren-1219-1224-author-note-vote-request",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-16T08:46:38.135Z"
+  "updatedAt": "2026-06-20T05:50:26.361Z"
 }

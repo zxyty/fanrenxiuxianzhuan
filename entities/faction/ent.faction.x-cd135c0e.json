@@ -9,8 +9,8 @@
   ],
   "summary": "大晋修仙界商号，以炼制天机屋/天机府及芥子空间秘术闻名，主商号在晋京。",
   "attributes": {
-    "据点": "天机殿",
-    "镇派之宝": "天机府、天机屋、芥子空间炼制之法、芥子法阵布阵器具",
+    "据点": "晋京、晋西坊市、天机殿、大晋玉州天机殿",
+    "镇派之宝": "天机府、天机屋、芥子空间炼制之法、芥子法阵布阵器具、炼制芥子空间秘术",
     "所属界面": "大晋",
     "等级": "大晋著名商号",
     "掌门": "粲苦"
@@ -30,6 +30,11 @@
       {
         "value": "天机殿",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "大晋玉州天机殿",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ],
@@ -52,6 +57,11 @@
       {
         "value": "芥子法阵布阵器具",
         "docId": "plot.fanren-1219-1224-author-note-vote-request",
+        "seq": 1219
+      },
+      {
+        "value": "炼制芥子空间秘术",
+        "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
       }
     ],
@@ -91,9 +101,9 @@
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1219-1224-author-note-vote-request",
+      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
       "dated": false,
-      "seq": 1219
+      "seq": 931
     },
     "镇派之宝": {
       "asOf": null,
@@ -134,7 +144,8 @@
     "plot.fanren-ch931-936-jinjing-auction-road",
     "plot.fanren-937-942-tianjige-jiezi-space",
     "plot.fanren-943-948-zhayan-hansui-huiyangshui",
-    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong"
+    "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
   ],
-  "updatedAt": "2026-06-18T01:59:22.607Z"
+  "updatedAt": "2026-06-20T05:50:26.351Z"
 }
