@@ -7,12 +7,25 @@
   ],
   "summary": "安远城军官，带领韩立一行守护遭赤蟒/带翅飞蟒侵袭的城墙，向众人讲解变异蟒兽与战况。",
   "attributes": {
-    "身份": "安远城军官"
+    "身份": "安远城军官、安远城中年军官",
+    "标志特征": "大胡子、铁甲"
   },
   "observations": {
     "身份": [
       {
         "value": "安远城军官",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "安远城中年军官",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "大胡子、铁甲",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
@@ -25,6 +38,12 @@
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
     }
   },
   "contested": false,
@@ -32,5 +51,5 @@
   "docs": [
     "plot.fanren-1273-1278-anyuan-beast-tide"
   ],
-  "updatedAt": "2026-06-16T10:20:06.379Z"
+  "updatedAt": "2026-06-20T07:18:08.755Z"
 }

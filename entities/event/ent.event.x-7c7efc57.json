@@ -9,8 +9,9 @@
   "attributes": {
     "章节": "第1275-1277章",
     "地点": "安远城",
-    "参与方": "安远城、天东商号、青狼兽、赤蟒兽、豹禽兽",
-    "结果": "首日普通士兵伤亡三分之一、天东商号阵亡二十余人"
+    "参与方": "安远城、天东商号、青狼兽、赤蟒兽、豹禽兽、安远城守军、韩立",
+    "结果": "首日普通士兵伤亡三分之一、天东商号阵亡二十余人、半日激战守军伤亡三分之一",
+    "经过": "投石机火球开路、青狼飞檐走壁攻城、变异巨狼声东击西扑杀军官"
   },
   "observations": {
     "章节": [
@@ -52,11 +53,33 @@
         "value": "豹禽兽",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "安远城守军",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
       }
     ],
     "结果": [
       {
         "value": "首日普通士兵伤亡三分之一、天东商号阵亡二十余人",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "半日激战守军伤亡三分之一",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "经过": [
+      {
+        "value": "投石机火球开路、青狼飞檐走壁攻城、变异巨狼声东击西扑杀军官",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
@@ -87,6 +110,12 @@
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
     }
   },
   "contested": false,
@@ -94,5 +123,5 @@
   "docs": [
     "plot.fanren-1273-1278-anyuan-beast-tide"
   ],
-  "updatedAt": "2026-06-16T10:20:06.373Z"
+  "updatedAt": "2026-06-20T07:18:08.747Z"
 }

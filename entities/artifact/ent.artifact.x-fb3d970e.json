@@ -1,32 +1,32 @@
 {
-  "id": "ent.person.x-3d423eb2",
-  "type": "person",
-  "name": "安远城城主",
+  "id": "ent.artifact.x-fb3d970e",
+  "type": "artifact",
+  "name": "金莹",
   "aliases": [],
-  "summary": "安远城城主，掌世俗大权，忧心对空防御薄弱难御豹禽兽。",
+  "summary": "张奎所持的金色短剑灵具，可斩青狼，对妖狼胜算约三成。",
   "attributes": {
-    "性别": "男",
-    "身份": "安远城城主",
-    "外貌": "紫袍大汉"
+    "品阶": "低阶灵具",
+    "持有者": "张奎",
+    "外形": "金色短剑"
   },
   "observations": {
-    "性别": [
+    "品阶": [
       {
-        "value": "男",
+        "value": "低阶灵具",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
     ],
-    "身份": [
+    "持有者": [
       {
-        "value": "安远城城主",
+        "value": "张奎",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
     ],
-    "外貌": [
+    "外形": [
       {
-        "value": "紫袍大汉",
+        "value": "金色短剑",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
@@ -34,19 +34,19 @@
   },
   "firstSeq": 1273,
   "attrProvenance": {
-    "性别": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
     },
-    "身份": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
     },
-    "外貌": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
@@ -58,5 +58,5 @@
   "docs": [
     "plot.fanren-1273-1278-anyuan-beast-tide"
   ],
-  "updatedAt": "2026-06-20T07:18:08.727Z"
+  "updatedAt": "2026-06-20T07:18:08.765Z"
 }

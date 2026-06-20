@@ -3,16 +3,18 @@
   "type": "beast",
   "name": "豹禽兽",
   "aliases": [
-    "雾化豹禽兽"
+    "雾化豹禽兽",
+    "豹首鹰身妖禽"
   ],
   "summary": "黑陵山脉飞行妖禽，天生散发剧毒、闻之力毙，出生即一级妖兽，灵活迅捷，须远程击落。",
   "attributes": {
     "栖息地": "黑陵山脉",
     "等级": "低阶妖兽",
-    "能力": "天生剧毒、飞行灵活迅捷、绿色妖雾、妖羽激射、射妖羽、化雾凝身（雾化豹禽兽）、绿色毒雾、小者通体蓝光、喷蓝色雷弧",
+    "能力": "天生剧毒、飞行灵活迅捷、绿色妖雾、妖羽激射、射妖羽、化雾凝身（雾化豹禽兽）、绿色毒雾、小者通体蓝光、喷蓝色雷弧、天生散发剧毒、飞行灵活快速、淡绿妖雾、部分带雷鸣灵光",
     "种族": "妖禽",
-    "外形": "碧绿羽毛、豹首狰狞",
-    "主人": "黑凤族妖女"
+    "外形": "豹首鹰身,数尺大小、碧绿羽毛、豹首狰狞、豹首鹰身、色彩斑斓",
+    "主人": "黑凤族妖女",
+    "天敌": "远程击落"
   },
   "observations": {
     "栖息地": [
@@ -74,6 +76,21 @@
         "value": "小者通体蓝光、喷蓝色雷弧",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "天生散发剧毒、飞行灵活快速",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "淡绿妖雾",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      },
+      {
+        "value": "部分带雷鸣灵光",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
       }
     ],
     "种族": [
@@ -93,6 +110,11 @@
         "value": "碧绿羽毛、豹首狰狞",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "豹首鹰身、色彩斑斓",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
       }
     ],
     "主人": [
@@ -100,6 +122,13 @@
         "value": "黑凤族妖女",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      }
+    ],
+    "天敌": [
+      {
+        "value": "远程击落",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
       }
     ]
   },
@@ -131,15 +160,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
-      "seq": 1279
+      "seq": 1273
     },
     "主人": {
       "asOf": null,
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
       "seq": 1279
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
     }
   },
   "contested": false,
@@ -148,5 +183,5 @@
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
   ],
-  "updatedAt": "2026-06-16T10:33:15.761Z"
+  "updatedAt": "2026-06-20T07:18:08.770Z"
 }

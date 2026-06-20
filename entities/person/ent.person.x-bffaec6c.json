@@ -9,7 +9,9 @@
   "attributes": {
     "性别": "男",
     "身份": "金玉宗修士",
-    "阵营": "金玉宗"
+    "阵营": "金玉宗",
+    "小阶段": "筑基",
+    "外貌": "锦袍男子"
   },
   "observations": {
     "性别": [
@@ -29,6 +31,20 @@
     "阵营": [
       {
         "value": "金玉宗",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
+      }
+    ],
+    "外貌": [
+      {
+        "value": "锦袍男子",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
       }
@@ -53,6 +69,18 @@
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "dated": false,
+      "seq": 1273
     }
   },
   "contested": false,
@@ -60,5 +88,5 @@
   "docs": [
     "plot.fanren-1273-1278-anyuan-beast-tide"
   ],
-  "updatedAt": "2026-06-16T10:20:06.349Z"
+  "updatedAt": "2026-06-20T07:18:08.723Z"
 }

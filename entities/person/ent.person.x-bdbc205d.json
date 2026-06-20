@@ -11,7 +11,7 @@
   "summary": "方夫人之子、蓝袍青年（二十五六），在金玉宗修炼仙术，筑基不久、灵气较弱。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基初期",
+    "小阶段": "筑基",
     "外貌": "蓝袍青年",
     "身份": "天东商号少东主",
     "标志特征": "资质极佳",
@@ -30,6 +30,11 @@
         "value": "筑基初期",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+        "seq": 1273
       }
     ],
     "外貌": [
@@ -41,7 +46,7 @@
       {
         "value": "蓝袍青年",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-        "seq": 1279
+        "seq": 1273
       }
     ],
     "身份": [
@@ -86,15 +91,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
-      "seq": 1267
+      "seq": 1273
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
-      "seq": 1279
+      "seq": 1273
     },
     "身份": {
       "asOf": null,
@@ -123,5 +128,5 @@
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
     "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-20T07:11:01.096Z"
+  "updatedAt": "2026-06-20T07:18:08.724Z"
 }
