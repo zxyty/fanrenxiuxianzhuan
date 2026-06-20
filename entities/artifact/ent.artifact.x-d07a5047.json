@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "天鹏族圣器",
   "aliases": [
-    "圣器"
+    "圣器",
+    "天鹏圣器"
   ],
   "summary": "天鹏族镇族圣器，由大长老执掌，能看穿一切幻化、直接扫视目标体内真元。",
   "attributes": {
     "持有者": "天鹏族大长老",
-    "能力": "破幻视真元"
+    "能力": "破幻视真元、看穿幻化、直扫体内真元"
   },
   "observations": {
     "持有者": [
@@ -22,6 +23,16 @@
       {
         "value": "破幻视真元",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "看穿幻化",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
+      },
+      {
+        "value": "直扫体内真元",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
         "seq": 1411
       }
     ]
@@ -44,7 +55,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-16T15:50:19.163Z"
+  "updatedAt": "2026-06-20T11:18:12.725Z"
 }

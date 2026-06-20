@@ -10,8 +10,10 @@
     "性别": "女",
     "种族": "天鹏族",
     "小阶段": "合体中期以上",
-    "身份": "天鹏族大长老·执掌圣器",
-    "外貌": "容颜普通、面覆流转莹光、背生金色羽翅、白袍"
+    "身份": "天鹏族大长老·执掌圣器、大长老",
+    "外貌": "容颜普通、面覆流转莹光、背生金色羽翅、白袍、背生金色羽翅的白袍少女、面覆莹光",
+    "称号": "大长老",
+    "阵营": "天鹏族"
   },
   "observations": {
     "性别": [
@@ -40,12 +42,36 @@
         "value": "天鹏族大长老·执掌圣器",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "大长老",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "外貌": [
       {
         "value": "容颜普通、面覆流转莹光、背生金色羽翅、白袍",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "背生金色羽翅的白袍少女、面覆莹光",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
+      }
+    ],
+    "称号": [
+      {
+        "value": "大长老",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
         "seq": 1411
       }
     ]
@@ -81,12 +107,25 @@
       "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
       "seq": 1411
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+      "dated": false,
+      "seq": 1411
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+      "dated": false,
+      "seq": 1411
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-16T15:50:19.146Z"
+  "updatedAt": "2026-06-20T11:18:12.702Z"
 }

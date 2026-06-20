@@ -11,8 +11,8 @@
   "attributes": {
     "所属势力": "天鹏族",
     "所属界面": "灵界",
-    "守护": "幻象禁制(伪山+雷云)、白濛濛光幕、天鹏之禁、白濛濛凝厚光幕、城墙五色巨柱",
-    "类型": "种族圣城、异族圣城、族城、族地圣城"
+    "守护": "幻象禁制(伪山+雷云)、白濛濛光幕、天鹏之禁、白濛濛凝厚光幕、城墙五色巨柱、天鹏之禁(护城大阵)",
+    "类型": "种族圣城、异族圣城、族城、族地圣城、城池"
   },
   "observations": {
     "所属势力": [
@@ -49,6 +49,11 @@
         "value": "城墙五色巨柱",
         "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
+      },
+      {
+        "value": "天鹏之禁(护城大阵)",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "类型": [
@@ -71,6 +76,11 @@
         "value": "族地圣城",
         "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ]
   },
@@ -109,7 +119,8 @@
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1438-yin-zhu-feng",
-    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-20T11:11:09.612Z"
+  "updatedAt": "2026-06-20T11:18:12.749Z"
 }

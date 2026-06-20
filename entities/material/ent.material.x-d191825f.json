@@ -11,9 +11,9 @@
   ],
   "summary": "圣药天罗丹的主材料，成熟需五六千年、每树仅一枚、采后树废，极难培育与保存。",
   "attributes": {
-    "类型": "灵果/丹药主料",
-    "用途": "催育灵兽、入药",
-    "稀有度": "珍稀",
+    "类型": "灵果、灵果/药材、灵果/丹药主料、灵果/灵药种子",
+    "用途": "炼制天罗丹、催育灵兽、入药、炼制天罗丹的主材料",
+    "稀有度": "极罕见、珍稀、极稀有",
     "产地": "天鹏族"
   },
   "observations": {
@@ -32,6 +32,11 @@
         "value": "灵果/丹药主料",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "灵果/灵药种子",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "用途": [
@@ -44,6 +49,11 @@
         "value": "催育灵兽、入药",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "炼制天罗丹的主材料",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "稀有度": [
@@ -56,6 +66,11 @@
         "value": "珍稀",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "产地": [
@@ -70,21 +85,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
-      "seq": 1513
+      "seq": 1411
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
-      "seq": 1423
+      "seq": 1411
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
-      "seq": 1423
+      "seq": 1411
     },
     "产地": {
       "asOf": null,
@@ -99,7 +114,8 @@
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-16T19:14:17.495Z"
+  "updatedAt": "2026-06-20T11:18:12.742Z"
 }

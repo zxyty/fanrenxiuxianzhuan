@@ -6,15 +6,16 @@
     "枯瘦掌柜",
     "枯瘦中年男子",
     "万雷坊掌柜",
-    "山羊胡中年人"
+    "山羊胡中年人",
+    "鱼姓掌柜"
   ],
   "summary": "交易大殿第九层万雷坊店主，炼虚后期，出售青罗果并提出三个换取条件。",
   "attributes": {
     "性别": "男",
     "种族": "天鹏族",
     "小阶段": "炼虚后期",
-    "身份": "万雷坊店主",
-    "外貌": "枯瘦山羊胡中年"
+    "身份": "万雷坊店主、万雷坊掌柜",
+    "外貌": "枯瘦山羊胡中年、枯瘦、山羊胡"
   },
   "observations": {
     "性别": [
@@ -43,12 +44,22 @@
         "value": "万雷坊店主",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "万雷坊掌柜",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "外貌": [
       {
         "value": "枯瘦山羊胡中年",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+        "seq": 1411
+      },
+      {
+        "value": "枯瘦、山羊胡",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
         "seq": 1411
       }
     ]
@@ -89,7 +100,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-16T15:50:19.171Z"
+  "updatedAt": "2026-06-20T11:18:12.737Z"
 }

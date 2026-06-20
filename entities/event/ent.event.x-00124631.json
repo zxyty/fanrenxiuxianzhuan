@@ -6,15 +6,17 @@
     "圣子地渊试炼",
     "试炼",
     "地渊之试",
-    "地渊大开"
+    "地渊大开",
+    "圣子试炼",
+    "圣子的地渊试炼"
   ],
   "summary": "各族圣子参加的凶险试炼，折损率约六七成，迫在眉睫，天鹏族两名圣子准备不足。",
   "attributes": {
     "参与方": "各族圣子、天鹏族圣子、韩立、飞灵族诸分支、白璧、雷兰、他族圣子、天鹏族、赤融族、五光族",
-    "起因": "天鹏族圣主意外陨落、圣子须过试炼以免被吞并、天鹏族需出圣主以保七十二分支排名、天鹏族存亡之劫/继承圣主之位、每三百年定期举行",
-    "影响": "关系天鹏族生死存亡",
+    "起因": "天鹏族圣主意外陨落、圣子须过试炼以免被吞并、天鹏族需出圣主以保七十二分支排名、天鹏族存亡之劫/继承圣主之位、每三百年定期举行、天鹏族圣主陨落、圣子实力不足",
+    "影响": "关系天鹏族存亡、关系天鹏族生死存亡、通不过则族群被其他分支吞并",
     "地点": "地渊",
-    "章节": "第1428章、1429-1430",
+    "章节": "第1428章、1429-1430、1416",
     "经过": "各族圣子先赴玉皇顶集会、再入地渊"
   },
   "observations": {
@@ -57,7 +59,7 @@
       {
         "value": "天鹏族",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-        "seq": 1423
+        "seq": 1411
       },
       {
         "value": "赤融族",
@@ -90,6 +92,11 @@
         "value": "每三百年定期举行",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "天鹏族圣主陨落、圣子实力不足",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "影响": [
@@ -102,6 +109,11 @@
         "value": "关系天鹏族生死存亡",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "通不过则族群被其他分支吞并",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "地点": [
@@ -121,6 +133,11 @@
         "value": "1429-1430",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "1416",
+        "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+        "seq": 1411
       }
     ],
     "经过": [
@@ -147,9 +164,9 @@
     },
     "影响": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
-      "seq": 1423
+      "seq": 1411
     },
     "地点": {
       "asOf": null,
@@ -159,9 +176,9 @@
     },
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
       "dated": false,
-      "seq": 1423
+      "seq": 1411
     },
     "经过": {
       "asOf": null,
@@ -175,7 +192,8 @@
   "docs": [
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
   ],
-  "updatedAt": "2026-06-16T16:12:01.595Z"
+  "updatedAt": "2026-06-20T11:18:12.751Z"
 }
