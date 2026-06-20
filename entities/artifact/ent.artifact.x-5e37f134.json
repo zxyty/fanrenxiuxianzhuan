@@ -2,13 +2,15 @@
   "id": "ent.artifact.x-5e37f134",
   "type": "artifact",
   "name": "蛟索",
-  "aliases": [],
+  "aliases": [
+    "地蛟筋奇门兵刃"
+  ],
   "summary": "韩立托人以地蛟筋打造的奇门兵刃，银光绳索状，数十年来助其击杀众多兽类与敌人，巨力催动威力不下一般法器一击。",
   "attributes": {
     "品阶": "奇门兵刃",
     "来历": "地蛟筋打造",
     "持有者": "韩立",
-    "外形": "银光灿灿的绳索状"
+    "外形": "银光灿灿的绳索状、银光灿灿绳索状"
   },
   "observations": {
     "品阶": [
@@ -35,6 +37,11 @@
     "外形": [
       {
         "value": "银光灿灿的绳索状",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "银光灿灿绳索状",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -72,5 +79,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.098Z"
+  "updatedAt": "2026-06-20T07:38:20.206Z"
 }

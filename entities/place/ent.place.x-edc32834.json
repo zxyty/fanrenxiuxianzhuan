@@ -4,13 +4,15 @@
   "name": "落日之墓",
   "aliases": [
     "落日墓",
-    "落日之城"
+    "落日之城",
+    "落日洼地",
+    "Luori Tomb"
   ],
   "summary": "人妖边境，远古坠落太阳形成的巨大洼地，凶险无比。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "巨大洼地/凶险之地、凶险秘境/峡谷、凶地/秘境、秘境",
-    "危险度": "极高（怪毒、妖兽）、高（高空为禁空之区，有不计其数禽类古兽与妖修）、极高、高",
+    "类型": "巨大洼地/凶险之地、凶险秘境/峡谷、凶地/秘境、秘境、边境凶地/洼地",
+    "危险度": "极高（怪毒、妖兽）、高（高空为禁空之区，有不计其数禽类古兽与妖修）、极高、高、极高（化神级妖修与修士活动）",
     "守护": "禽类古兽、妖修、落日城修士暗中驻守入口（化神坐镇）",
     "特产": "太乙银精芝等灵药",
     "所属势力": "人族、妖族"
@@ -43,6 +45,11 @@
         "value": "秘境",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "边境凶地/洼地",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "危险度": [
@@ -65,6 +72,11 @@
         "value": "高",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "极高（化神级妖修与修士活动）",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "守护": [
@@ -84,6 +96,11 @@
         "value": "太乙银精芝等灵药",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "独产灵物、丰富灵脉灵药",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "所属势力": [
@@ -146,5 +163,5 @@
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley"
   ],
-  "updatedAt": "2026-06-16T11:47:43.537Z"
+  "updatedAt": "2026-06-20T07:38:20.231Z"
 }

@@ -7,8 +7,8 @@
   ],
   "summary": "黑凤族传承宝物，承载先辈经验、秘术乃至部分精魂，注入后辈体内供其继承族中之物。",
   "attributes": {
-    "类型": "黑凤族传承宝物",
-    "用途": "注入后辈体内继承先辈经验/秘术/精魂"
+    "类型": "黑凤族传承宝物、传承宝物",
+    "用途": "注入后辈体内继承先辈经验/秘术/精魂、向后辈传承先辈精魂/秘术/阅历"
   },
   "observations": {
     "类型": [
@@ -16,11 +16,21 @@
         "value": "黑凤族传承宝物",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "传承宝物",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "用途": [
       {
         "value": "注入后辈体内继承先辈经验/秘术/精魂",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "向后辈传承先辈精魂/秘术/阅历",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -46,5 +56,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.074Z"
+  "updatedAt": "2026-06-20T07:38:20.182Z"
 }

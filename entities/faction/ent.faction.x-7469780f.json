@@ -3,15 +3,46 @@
   "type": "faction",
   "name": "隆兴拍卖行",
   "aliases": [],
-  "summary": "",
-  "attributes": {},
-  "observations": {},
+  "summary": "虞阳城最大几家拍卖行之一，崛起不久，靠韩立独家供应灵具发展壮大。",
+  "attributes": {
+    "据点": "虞阳城",
+    "等级": "城中顶级拍卖行"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "虞阳城",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "等级": [
+      {
+        "value": "城中顶级拍卖行",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ]
+  },
   "firstSeq": 1285,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.130Z"
+  "updatedAt": "2026-06-20T07:38:20.203Z"
 }

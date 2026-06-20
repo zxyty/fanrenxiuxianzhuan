@@ -12,7 +12,7 @@
     "标志特征": "炼体术近筑基后期、炼体术不下筑基后期",
     "性别": "男",
     "存殁": "死亡",
-    "死因": "尸体被宫装少妇以化尸术夺用操控、被黑凤族妖女搜魂",
+    "死因": "尸体被宫装少妇以化尸术夺用操控、被黑凤族妖女搜魂、（已死，尸体被黑凤族妖女操控冒名）",
     "种族": "人族",
     "结局": "尸体被化尸术改造成傀儡，遭妖女分神冒名操控"
   },
@@ -66,6 +66,11 @@
         "value": "被黑凤族妖女搜魂",
         "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
+      },
+      {
+        "value": "（已死，尸体被黑凤族妖女操控冒名）",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "种族": [
@@ -133,7 +138,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+    "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-20T07:25:46.853Z"
+  "updatedAt": "2026-06-20T07:38:20.189Z"
 }

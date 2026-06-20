@@ -2,11 +2,14 @@
   "id": "ent.place.x-a27dfbfe",
   "type": "place",
   "name": "穹宇阁",
-  "aliases": [],
+  "aliases": [
+    "穹宇阁商铺"
+  ],
   "summary": "落日城内专收售奇物的店铺，掌柜胥老。",
   "attributes": {
-    "类型": "奇货店铺",
-    "守护": "门前两头赤红蜥蜴看门兽"
+    "类型": "奇货店铺、商铺",
+    "守护": "门前两头赤红蜥蜴看门兽、赤红蜥蜴看门兽",
+    "所属势力": "落日城"
   },
   "observations": {
     "类型": [
@@ -14,11 +17,28 @@
         "value": "奇货店铺",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "商铺",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "守护": [
       {
         "value": "门前两头赤红蜥蜴看门兽",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "赤红蜥蜴看门兽",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "落日城",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -37,6 +57,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -44,5 +70,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.124Z"
+  "updatedAt": "2026-06-20T07:38:20.235Z"
 }

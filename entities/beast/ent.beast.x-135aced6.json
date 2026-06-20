@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "青罗沙漠中漫天五色斑斓、巴掌大小、背生双翅的毒蝎群，能喷彩色毒气吞噬黑云，被霜蚣寒风冻成冰晶坠落。",
   "attributes": {
-    "外形": "巴掌大小,五色斑斓,背生双翅",
-    "能力": "口喷彩色毒气"
+    "外形": "巴掌大小,五色斑斓,背生双翅、巴掌大小五色斑斓背翅，蝎王二十余丈毒雾托身",
+    "能力": "口喷彩色毒气、喷彩色毒气、凝聚成蝎王",
+    "栖息地": "青罗沙漠"
   },
   "observations": {
     "外形": [
@@ -14,11 +15,33 @@
         "value": "巴掌大小,五色斑斓,背生双翅",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "巴掌大小五色斑斓背翅，蝎王二十余丈毒雾托身",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "能力": [
       {
         "value": "口喷彩色毒气",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "喷彩色毒气",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "凝聚成蝎王",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "青罗沙漠",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -37,6 +60,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -44,5 +73,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.101Z"
+  "updatedAt": "2026-06-20T07:38:20.209Z"
 }

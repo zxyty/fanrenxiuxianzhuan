@@ -13,7 +13,8 @@
     "所属界面": "灵界、灵界·天元境、灵界天元境",
     "等级": "商号",
     "据点": "天元圣城(总部)、天元境、如云客栈西院、灵界人类城市、天元圣城（总部）、数百城市分号、安远城客栈",
-    "理念": "经营货殖、雇修护商"
+    "理念": "经营货殖、雇修护商",
+    "阵营": "人类"
   },
   "observations": {
     "所属界面": [
@@ -88,6 +89,13 @@
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
+    ],
+    "阵营": [
+      {
+        "value": "人类",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
     ]
   },
   "firstSeq": 1261,
@@ -115,6 +123,12 @@
       "docId": "plot.fanren-1267-1272-anyuan-city",
       "dated": false,
       "seq": 1267
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -129,5 +143,5 @@
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-20T07:25:46.847Z"
+  "updatedAt": "2026-06-20T07:38:20.187Z"
 }

@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "天元境上古中等凡人城市，炼体士最多、藏炼体法门的圣塔所在、灵具制造名城，历次兽潮安稳至今。",
   "attributes": {
-    "所属界面": "灵界·天元境",
-    "类型": "上古凡人城市(中等)",
-    "特产": "炼体法门、灵具",
+    "所属界面": "灵界·天元境、灵界",
+    "类型": "上古凡人城市(中等)、上古凡人城市",
+    "特产": "炼体法门、灵具、炼体术法门",
     "守护": "众多炼体士"
   },
   "observations": {
@@ -16,11 +16,21 @@
         "value": "灵界·天元境",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "类型": [
       {
         "value": "上古凡人城市(中等)",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "上古凡人城市",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -33,6 +43,11 @@
       },
       {
         "value": "灵具",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "炼体术法门",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -77,5 +92,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.089Z"
+  "updatedAt": "2026-06-20T07:38:20.198Z"
 }

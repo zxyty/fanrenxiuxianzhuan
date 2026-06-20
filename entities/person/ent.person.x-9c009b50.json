@@ -7,8 +7,9 @@
   ],
   "summary": "结丹期男修，与吕师妹同行，讨好吕师妹。",
   "attributes": {
-    "小阶段": "结丹期",
-    "外貌": "英俊轩昂"
+    "小阶段": "结丹期、结丹",
+    "外貌": "英俊轩昂",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -16,11 +17,23 @@
         "value": "结丹期",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "外貌": [
       {
         "value": "英俊轩昂",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -39,6 +52,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -46,5 +65,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.120Z"
+  "updatedAt": "2026-06-20T07:38:20.241Z"
 }

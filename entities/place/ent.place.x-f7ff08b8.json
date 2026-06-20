@@ -5,12 +5,25 @@
   "aliases": [],
   "summary": "虞阳城中心专藏各种炼体法门与心得之塔，藏量丰富，天元境数一数二。",
   "attributes": {
-    "类型": "藏炼体法门之塔"
+    "类型": "藏炼体法门之塔、藏书塔",
+    "所属势力": "虞阳城"
   },
   "observations": {
     "类型": [
       {
         "value": "藏炼体法门之塔",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "藏书塔",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "虞阳城",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -23,6 +36,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -30,5 +49,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.091Z"
+  "updatedAt": "2026-06-20T07:38:20.199Z"
 }

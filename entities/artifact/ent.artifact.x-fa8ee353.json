@@ -2,14 +2,16 @@
   "id": "ent.artifact.x-fa8ee353",
   "type": "artifact",
   "name": "蛟纹长剑",
-  "aliases": [],
+  "aliases": [
+    "金鞘三尺长剑"
+  ],
   "summary": "韩立为范胖子打造的最后一件顶阶灵具，三尺长剑配金鞘、剑柄镶三块异色灵石，能化器成形、金芒化金色小蛟，将献予城主。",
   "attributes": {
     "品阶": "顶阶灵具",
-    "能力": "化器成形(化为金色小蛟)",
+    "能力": "化器成形(化为金色小蛟)、化器成形",
     "持有者": "范胖子",
     "来历": "韩立亲手打造",
-    "外形": "三尺长剑,金色剑鞘,剑柄镶三块异色灵石"
+    "外形": "三尺长剑,金色剑鞘,剑柄镶三块异色灵石、金鞘三尺长剑，蛟纹"
   },
   "observations": {
     "品阶": [
@@ -22,6 +24,11 @@
     "能力": [
       {
         "value": "化器成形(化为金色小蛟)",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "化器成形",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -44,6 +51,11 @@
     "外形": [
       {
         "value": "三尺长剑,金色剑鞘,剑柄镶三块异色灵石",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "金鞘三尺长剑，蛟纹",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -88,5 +100,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.098Z"
+  "updatedAt": "2026-06-20T07:38:20.205Z"
 }

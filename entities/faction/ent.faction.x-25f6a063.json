@@ -12,7 +12,8 @@
     "所属界面": "灵界",
     "等级": "中小宗门",
     "镇派之宝": "九玄明玉潭",
-    "理念": "借兽潮助低阶弟子突破瓶颈"
+    "理念": "借兽潮助低阶弟子突破瓶颈",
+    "阵营": "人类"
   },
   "observations": {
     "所属界面": [
@@ -42,6 +43,13 @@
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
+    ],
+    "阵营": [
+      {
+        "value": "人类",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
     ]
   },
   "firstSeq": 1267,
@@ -69,6 +77,12 @@
       "docId": "plot.fanren-1267-1272-anyuan-city",
       "dated": false,
       "seq": 1267
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -81,5 +95,5 @@
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-20T07:25:46.866Z"
+  "updatedAt": "2026-06-20T07:38:20.203Z"
 }

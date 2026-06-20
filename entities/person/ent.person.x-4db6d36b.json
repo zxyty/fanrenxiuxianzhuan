@@ -12,11 +12,12 @@
   "summary": "约四五岁女童，安远城赵城主之孙女，城破时被韩立所救，后由赵府老管家与丫鬟兰儿接回。",
   "attributes": {
     "性别": "女",
-    "身份": "安远城赵城主孙女、赵某孙女、赵城主孙女、半妖女童、少族长嫡亲孙女",
+    "身份": "安远城赵城主孙女、赵某孙女、赵城主孙女、半妖女童、少族长嫡亲孙女、黑凤族直系血脉",
     "外貌": "四五岁女童，面容白嫩，乌黑大眼、女童、四五岁、白嫩可爱、乌黑大眼、华美精致服饰、女童，清澈双目",
-    "种族": "黑凤族",
+    "种族": "半妖、半妖(黑凤族直系血脉)、黑凤族、半妖（黑凤族血脉）",
     "小阶段": "结丹",
-    "标志特征": "修炼速度奇快"
+    "标志特征": "修炼速度奇快",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -51,6 +52,11 @@
         "value": "少族长嫡亲孙女",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "黑凤族直系血脉",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "外貌": [
@@ -91,6 +97,12 @@
         "value": "黑凤族",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "半妖（黑凤族血脉）",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285,
+        "note": "直系血脉"
       }
     ],
     "小阶段": [
@@ -116,6 +128,13 @@
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
     ]
   },
   "firstSeq": 1279,
@@ -140,9 +159,10 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
-      "seq": 1291
+      "seq": 1279,
+      "note": "身负黑凤族(圣族)血脉"
     },
     "小阶段": {
       "asOf": null,
@@ -155,6 +175,12 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -166,5 +192,5 @@
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-20T07:25:46.854Z"
+  "updatedAt": "2026-06-20T07:38:20.178Z"
 }

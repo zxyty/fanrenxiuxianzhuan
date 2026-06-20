@@ -5,12 +5,25 @@
   "aliases": [],
   "summary": "妖兽巢穴中的珍稀灵物，韩立凭见识神通轻易取得，金玉宗一干人因此联名保举他入九玄明玉潭。",
   "attributes": {
-    "类型": "灵芝类灵物"
+    "类型": "灵芝类灵物、灵芝灵药",
+    "用途": "换取九玄明玉潭文书"
   },
   "observations": {
     "类型": [
       {
         "value": "灵芝类灵物",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      },
+      {
+        "value": "灵芝灵药",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "用途": [
+      {
+        "value": "换取九玄明玉潭文书",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
       }
@@ -23,6 +36,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -30,5 +49,5 @@
   "docs": [
     "plot.fanren-1287-chuancheng-zhu"
   ],
-  "updatedAt": "2026-06-16T10:51:11.102Z"
+  "updatedAt": "2026-06-20T07:38:20.213Z"
 }

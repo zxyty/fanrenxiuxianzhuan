@@ -7,9 +7,10 @@
   ],
   "summary": "落日城炼气期修士、地头蛇，被韩立雇为向导。",
   "attributes": {
-    "身份": "韩立在落日城的随行同伴/向导",
+    "身份": "向导、韩立在落日城的随行同伴/向导、向导/地头蛇",
     "性格": "口若悬河、会察言观色",
-    "外貌": "枯瘦"
+    "外貌": "枯瘦、枯瘦男子",
+    "小阶段": "炼气期"
   },
   "observations": {
     "身份": [
@@ -22,6 +23,11 @@
         "value": "韩立在落日城的随行同伴/向导",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "向导/地头蛇",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "性格": [
@@ -36,6 +42,18 @@
         "value": "枯瘦",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "枯瘦男子",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼气期",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ]
   },
@@ -43,9 +61,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
-      "seq": 1291
+      "seq": 1285
     },
     "性格": {
       "asOf": null,
@@ -58,6 +76,12 @@
       "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
       "seq": 1285
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "dated": false,
+      "seq": 1285
     }
   },
   "contested": false,
@@ -66,5 +90,5 @@
     "plot.fanren-1287-chuancheng-zhu",
     "plot.fanren-1293-yinxinshi-tianxindan"
   ],
-  "updatedAt": "2026-06-16T11:04:31.809Z"
+  "updatedAt": "2026-06-20T07:38:20.236Z"
 }

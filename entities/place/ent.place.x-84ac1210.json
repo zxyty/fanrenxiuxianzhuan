@@ -4,13 +4,14 @@
   "name": "落日城",
   "aliases": [
     "人族落日城",
-    "落日城坊市"
+    "落日城坊市",
+    "Sunset City"
   ],
   "summary": "紧邻落日之墓的人族巨型城市，化神修士坐镇，城主化神中期。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "修士巨城、城池、人族城池",
-    "守护": "蓝城主"
+    "类型": "修士巨城、城池、人族城池、修士/炼体士之城",
+    "守护": "化神修士坐镇、蓝城主、化神修士坐镇、城主化神中期"
   },
   "observations": {
     "所属界面": [
@@ -35,6 +36,11 @@
         "value": "人族城池",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "修士/炼体士之城",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ],
     "守护": [
@@ -47,6 +53,11 @@
         "value": "蓝城主",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "化神修士坐镇、城主化神中期",
+        "docId": "plot.fanren-1287-chuancheng-zhu",
+        "seq": 1285
       }
     ]
   },
@@ -66,9 +77,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
-      "seq": 1291
+      "seq": 1285
     }
   },
   "contested": false,
@@ -79,5 +90,5 @@
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1341-leipao-xianshi"
   ],
-  "updatedAt": "2026-06-16T13:09:39.477Z"
+  "updatedAt": "2026-06-20T07:38:20.232Z"
 }
