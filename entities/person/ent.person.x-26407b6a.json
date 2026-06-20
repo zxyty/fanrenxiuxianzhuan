@@ -4,14 +4,18 @@
   "name": "闵姓修士",
   "aliases": [
     "闵道友",
-    "闵兄"
+    "闵兄",
+    "白袍独角青年"
   ],
   "summary": "结丹初期修士，面色淡金，心细，性急抱怨连连。",
   "attributes": {
-    "小阶段": "结丹初期",
-    "外貌": "面色淡金、淡金面容",
+    "小阶段": "合体期",
+    "外貌": "面色淡金、淡金面容、高大俊美、头生银色独角",
     "性格": "心细、性急",
-    "阵营": "散修"
+    "阵营": "散修",
+    "性别": "男",
+    "种族": "角蚩族",
+    "标志特征": "化身百丈带角怪物、持黑色怪刃与青色玉瓶"
   },
   "observations": {
     "小阶段": [
@@ -19,6 +23,11 @@
         "value": "结丹初期",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "外貌": [
@@ -31,6 +40,11 @@
         "value": "淡金面容",
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
+      },
+      {
+        "value": "高大俊美、头生银色独角",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "性格": [
@@ -46,15 +60,36 @@
         "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
         "seq": 517
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "种族": [
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化身百丈带角怪物、持黑色怪刃与青色玉瓶",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      }
     ]
   },
   "firstSeq": 517,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
       "dated": false,
-      "seq": 517
+      "seq": 1519
     },
     "外貌": {
       "asOf": null,
@@ -73,6 +108,24 @@
       "docId": "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
       "dated": false,
       "seq": 517
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
     }
   },
   "contested": false,
@@ -80,7 +133,8 @@
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-523-528-zhenjia-chongmo"
+    "plot.fanren-523-528-zhenjia-chongmo",
+    "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu"
   ],
-  "updatedAt": "2026-06-17T06:27:25.722Z"
+  "updatedAt": "2026-06-20T14:14:47.247Z"
 }

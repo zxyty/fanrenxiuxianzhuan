@@ -10,8 +10,8 @@
   "attributes": {
     "所属界面": "灵界",
     "类型": "山脉/洞府所在、山脉、巨型半岛/山脉",
-    "特产": "血杏",
-    "守护": "天鹏族（统治）",
+    "特产": "木铃花、血杏、血杏等上古遗址灵物",
+    "守护": "天鹏族（统治）、韩立所布超大禁制、天鹏族",
     "危险度": "近黑冥雾"
   },
   "observations": {
@@ -49,6 +49,11 @@
         "value": "血杏",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "血杏等上古遗址灵物",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "守护": [
@@ -56,6 +61,16 @@
         "value": "天鹏族（统治）",
         "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
+      },
+      {
+        "value": "韩立所布超大禁制",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "危险度": [
@@ -82,9 +97,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "docId": "plot.fanren-1401-black-mist-sea",
       "dated": false,
-      "seq": 1519
+      "seq": 1399
     },
     "守护": {
       "asOf": null,
@@ -106,7 +121,8 @@
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
-    "plot.fanren-1520-1521-huifu-zhonglian-shenshan"
+    "plot.fanren-1520-1521-huifu-zhonglian-shenshan",
+    "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu"
   ],
-  "updatedAt": "2026-06-20T14:06:17.449Z"
+  "updatedAt": "2026-06-20T14:14:47.269Z"
 }

@@ -5,17 +5,20 @@
   "aliases": [
     "简兄",
     "简道友",
-    "简某"
+    "简某",
+    "死鱼眼红发异族"
   ],
   "summary": "高瘦沉默的结丹中期修士，暗藏洪荒古宝三杆黑幡，黑幡于此战被怪人骷髅头吞毁。",
   "attributes": {
-    "小阶段": "结丹中期",
+    "小阶段": "合体期",
     "外貌": "鱼眼",
     "阵营": "散修",
     "存殁": "死亡",
     "死因": "采七霞莲被妖冠蛇拖入毒池、剧毒蚀身",
     "结局": "本章身亡，尸体被毒池/邪法操控复活后被击爆",
-    "种族": "海王族"
+    "种族": "海王族",
+    "性别": "男",
+    "性格": "凶戾狞笑"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +26,11 @@
         "value": "结丹中期",
         "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
         "seq": 415
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "外貌": [
@@ -35,6 +43,11 @@
         "value": "鱼眼",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
         "seq": 1531
+      },
+      {
+        "value": "赤红长发、死鱼眼、脸带鱼鳞、绿色兽皮",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "阵营": [
@@ -69,7 +82,21 @@
       {
         "value": "海王族",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
-        "seq": 1531
+        "seq": 1519
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "性格": [
+      {
+        "value": "凶戾狞笑",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ]
   },
@@ -77,9 +104,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch416-421-tushan-fengling-zhu",
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
       "dated": false,
-      "seq": 415
+      "seq": 1519
     },
     "外貌": {
       "asOf": null,
@@ -115,7 +142,19 @@
       "asOf": null,
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyang",
       "dated": false,
-      "seq": 1531
+      "seq": 1519
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
     }
   },
   "contested": false,
@@ -123,7 +162,8 @@
   "docs": [
     "plot.fanren-ch416-421-tushan-fengling-zhu",
     "plot.fanren-421-426-qixialian-yaoguanshe",
-    "plot.fanren-1531-1536-escape-snakemen-huoyang"
+    "plot.fanren-1531-1536-escape-snakemen-huoyang",
+    "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu"
   ],
-  "updatedAt": "2026-06-16T19:37:09.941Z"
+  "updatedAt": "2026-06-20T14:14:47.250Z"
 }

@@ -3,13 +3,15 @@
   "type": "material",
   "name": "血杏",
   "aliases": [
-    "血杏果"
+    "血杏果",
+    "银丝血杏"
   ],
   "summary": "拳头大、表面布银色丝网的鲜红灵果，具换血炼体奇效，妖兽进阶辅助灵药，亦为凝练梵圣真魔法相的一味材料。",
   "attributes": {
-    "用途": "妖兽进阶换血炼体、凝练梵圣真魔法相材料",
+    "用途": "妖兽进阶换血炼体、凝练梵圣真魔法相材料、妖兽换血炼体进阶、凝炼梵圣真魔法相材料",
     "稀有度": "千年难得一见",
-    "产地": "黑隐山脉上古遗址"
+    "产地": "黑隐山脉上古遗址",
+    "类型": "灵果灵药"
   },
   "observations": {
     "用途": [
@@ -21,6 +23,16 @@
       {
         "value": "凝练梵圣真魔法相材料",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "妖兽换血炼体进阶",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "凝炼梵圣真魔法相材料",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
         "seq": 1519
       }
     ],
@@ -35,6 +47,13 @@
       {
         "value": "黑隐山脉上古遗址",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵果灵药",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
         "seq": 1519
       }
     ]
@@ -58,12 +77,19 @@
       "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
       "dated": false,
       "seq": 1519
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+      "dated": false,
+      "seq": 1519
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu"
   ],
-  "updatedAt": "2026-06-16T19:22:06.792Z"
+  "updatedAt": "2026-06-20T14:14:47.256Z"
 }

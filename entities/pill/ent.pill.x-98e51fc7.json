@@ -8,9 +8,9 @@
     "品阶": "炼虚级",
     "主料": "芝龙果、腾云胶",
     "适用境界": "炼虚初中期",
-    "功效": "精进炼虚初中期修为",
+    "功效": "精进炼虚初中期修为、精进炼虚初中期修士修为",
     "炼制者": "韩立",
-    "副作用": "成丹率极低(十炼七八败)"
+    "副作用": "成丹率极低(十炼七八败)、成丹率极低、炼制繁难"
   },
   "observations": {
     "品阶": [
@@ -49,6 +49,11 @@
         "value": "精进炼虚初中期修为",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "精进炼虚初中期修士修为",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
+        "seq": 1519
       }
     ],
     "炼制者": [
@@ -62,6 +67,11 @@
       {
         "value": "成丹率极低(十炼七八败)",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+        "seq": 1519
+      },
+      {
+        "value": "成丹率极低、炼制繁难",
+        "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
         "seq": 1519
       }
     ]
@@ -109,7 +119,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1359-shuanghuang-appears",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu"
   ],
-  "updatedAt": "2026-06-16T19:22:06.794Z"
+  "updatedAt": "2026-06-20T14:14:47.259Z"
 }
