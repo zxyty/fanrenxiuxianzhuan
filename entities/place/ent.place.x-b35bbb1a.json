@@ -6,8 +6,8 @@
   "summary": "落日之墓中一座灰濛濛山谷，有上古巨人传闻、修士莫名失踪；谷中『炙光潭』神秘凶险，为叛逆藏身处与各方争夺焦点。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "山谷",
-    "危险度": "高（地下有反弹之力）",
+    "类型": "山谷、凶地",
+    "危险度": "极高、高（地下有反弹之力）、高",
     "守护": "天樱、黄石",
     "特产": "神血(机会)"
   },
@@ -24,6 +24,11 @@
         "value": "山谷",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "凶地",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "危险度": [
@@ -36,6 +41,11 @@
         "value": "高（地下有反弹之力）",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "守护": [
@@ -74,9 +84,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "守护": {
       "asOf": null,
@@ -96,7 +106,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:47:43.538Z"
+  "updatedAt": "2026-06-20T07:55:03.527Z"
 }

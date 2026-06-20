@@ -2,14 +2,17 @@
   "id": "ent.beast.x-9a9b4389",
   "type": "beast",
   "name": "幻焰蛾",
-  "aliases": [],
+  "aliases": [
+    "幻焰蛾分身",
+    "彩色飞蛾"
+  ],
   "summary": "奇虫榜排名第十七的飞虫，由金丝蚕二次进化而成，天生具幻化能力，上古罕见。",
   "attributes": {
     "等级": "奇虫榜第十七、奇虫排名第十七",
-    "能力": "天生幻化、分身潜入、短时间化为无形、自爆、千蛾之术搜寻",
-    "外形": "飞蛾、拳头大小、彩色双翅、散发艳丽灵光、蛾、彩霞中的飞蛾，成熟体",
+    "能力": "天生幻化、分身潜入、短时间化为无形、自爆、千蛾之术搜寻、短时间化无形、偷听/侦查、分身自爆幻术",
+    "外形": "飞蛾、拳头大小、彩色双翅、散发艳丽灵光、蛾、彩霞中的飞蛾，成熟体、蛾形",
     "种族": "灵虫",
-    "主人": "寰前辈、黑凤族清秀少年、寰天奇",
+    "主人": "寰前辈、黑凤族清秀少年、寰天奇、妖族清秀少年",
     "血脉": "金丝蚕二次进化"
   },
   "observations": {
@@ -50,6 +53,21 @@
         "value": "千蛾之术搜寻",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "短时间化无形",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "偷听/侦查",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "分身自爆幻术",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "外形": [
@@ -72,6 +90,11 @@
         "value": "彩霞中的飞蛾，成熟体",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "蛾形",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "种族": [
@@ -96,6 +119,11 @@
         "value": "寰天奇",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "妖族清秀少年",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "血脉": [
@@ -151,7 +179,8 @@
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-511-516-qiyuan-island-wuzhong-island"
+    "plot.fanren-511-516-qiyuan-island-wuzhong-island",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-17T06:11:35.859Z"
+  "updatedAt": "2026-06-20T07:55:03.531Z"
 }

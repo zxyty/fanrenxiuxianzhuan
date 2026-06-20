@@ -9,7 +9,8 @@
   "attributes": {
     "特性": "背生巨翅、形如恶鬼、善放刃芒",
     "代表人物": "夜叉王、梦祥、转轮王、不死王",
-    "阵营": "妖族/敌方"
+    "阵营": "妖族/敌方",
+    "天赋神通": "吸食天地之灵"
   },
   "observations": {
     "特性": [
@@ -52,6 +53,13 @@
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
+    ],
+    "天赋神通": [
+      {
+        "value": "吸食天地之灵",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
     ]
   },
   "firstSeq": 1291,
@@ -73,13 +81,20 @@
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1393-1398-yecha-wang-changnu"
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T15:11:49.225Z"
+  "updatedAt": "2026-06-20T07:55:03.523Z"
 }

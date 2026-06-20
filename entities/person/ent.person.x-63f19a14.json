@@ -3,13 +3,16 @@
   "type": "person",
   "name": "铁刃",
   "aliases": [
-    "银色人影"
+    "银色人影",
+    "银光男子",
+    "银人",
+    "银色灵将"
   ],
   "summary": "五行灵族灵将，化银光闪闪男子，以坚硬无比的银色大手撕杀蛇王；与赤灭联手追猎叛逆。",
   "attributes": {
-    "种族": "金灵族",
-    "身份": "灵将",
-    "外貌": "银光闪闪、看不清面目",
+    "种族": "灵族、金灵族、五行灵族",
+    "身份": "灵将、炼体士",
+    "外貌": "银光闪闪、看不清面目、看不清面目的银光男子、银色人影",
     "标志特征": "化银色巨人"
   },
   "observations": {
@@ -23,12 +26,22 @@
         "value": "金灵族",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "五行灵族",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "身份": [
       {
         "value": "灵将",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -37,6 +50,16 @@
         "value": "银光闪闪、看不清面目",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "看不清面目的银光男子",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "银色人影",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "标志特征": [
@@ -44,6 +67,11 @@
         "value": "化银色巨人",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "浑身银光、坚硬无比的银色大手",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ]
   },
@@ -51,9 +79,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "身份": {
       "asOf": null,
@@ -78,7 +106,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.042Z"
+  "updatedAt": "2026-06-20T07:55:03.515Z"
 }

@@ -3,13 +3,15 @@
   "type": "person",
   "name": "头陀",
   "aliases": [
-    "蓝城主身后头陀"
+    "蓝城主身后头陀",
+    "瘦高头陀"
   ],
   "summary": "人族一方的化神期修士，僧人打扮，于炙光潭边与妖族对峙。",
   "attributes": {
     "阵营": "人族、蓝城主一方",
     "小阶段": "化神期",
-    "存殁": "生死不明"
+    "存殁": "生死不明",
+    "外貌": "瘦高、乌黑佛珠"
   },
   "observations": {
     "阵营": [
@@ -38,9 +40,16 @@
         "seq": 1297,
         "note": "被上古巨人吸入潭水失踪"
       }
+    ],
+    "外貌": [
+      {
+        "value": "瘦高、乌黑佛珠",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
     ]
   },
-  "firstSeq": 1297,
+  "firstSeq": 1291,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -60,12 +69,19 @@
       "dated": false,
       "seq": 1297,
       "note": "被上古巨人吸入潭水失踪"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.089Z"
+  "updatedAt": "2026-06-20T07:55:03.458Z"
 }

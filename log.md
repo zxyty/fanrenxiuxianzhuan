@@ -554,3 +554,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T07:18:08.906Z** `update` plot.fanren-1273-1278-anyuan-beast-tide — 凡人修仙传 第1273-1278章｜安远城兽潮与金玉宗算计 · kind=plot asOf=2026-06-20 entities=34 relations=31 src=01273-01278.md
 - **2026-06-20T07:25:47.037Z** `ingest` plot.fanren-1279-1284-anyuancheng-beast-tide-fall — 第1279-1284章 安远城兽潮城破与韩立救黛儿 · kind=plot asOf=2026-06-20 entities=28 relations=34 src=01279-01284.md
 - **2026-06-20T07:38:20.392Z** `update` plot.fanren-1287-chuancheng-zhu — 第1287章 传承珠——韩立以灭仙珠逼退黑凤族化神妖女，放走半妖黛儿 · kind=plot asOf=2026-06-20 entities=39 relations=44 src=01285-01290.md
+- **2026-06-20T07:55:03.696Z** `ingest` plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu — 凡人修仙传 第1291-1296章｜银芯石与天心丹·灵族浮现·初入落日之墓 · kind=plot asOf=2026-06-20 entities=61 relations=65 src=01291-01296.md

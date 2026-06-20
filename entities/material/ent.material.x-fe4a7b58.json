@@ -9,8 +9,8 @@
   "summary": "人界传闻已灭绝的灵药，银光灿灿、裹乳白灵雾，服食可体表生银精鳞片辟刀枪水火；防御力逊于金刚诀，对化神期用处不大。",
   "attributes": {
     "类型": "灵药",
-    "用途": "服食生银精鳞片辟刀枪水火",
-    "稀有度": "人界传闻灭绝",
+    "用途": "服食生银精鳞片辟刀枪水火、服食生银精鳞片，辟刀枪水火",
+    "稀有度": "人界传闻灭绝、人界已绝迹/传闻级",
     "产地": "落日之墓"
   },
   "observations": {
@@ -26,12 +26,22 @@
         "value": "服食生银精鳞片辟刀枪水火",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "服食生银精鳞片，辟刀枪水火",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "稀有度": [
       {
         "value": "人界传闻灭绝",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "人界已绝迹/传闻级",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.860Z"
+  "updatedAt": "2026-06-20T07:55:03.542Z"
 }

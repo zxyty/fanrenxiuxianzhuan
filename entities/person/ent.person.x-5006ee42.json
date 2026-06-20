@@ -11,7 +11,7 @@
   "attributes": {
     "性别": "女",
     "小阶段": "结丹期、结丹",
-    "身份": "黄粱前辈后人",
+    "身份": "黄粱灵君后人、黄粱前辈后人、黄粱真君后人",
     "外貌": "容颜秀丽",
     "称号": "吕仙子"
   },
@@ -44,6 +44,11 @@
       {
         "value": "黄粱前辈后人",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "黄粱真君后人",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -78,9 +83,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
-      "seq": 1291
+      "seq": 1285
     },
     "外貌": {
       "asOf": null,
@@ -99,7 +104,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1287-chuancheng-zhu",
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-20T07:38:20.240Z"
+  "updatedAt": "2026-06-20T07:55:03.444Z"
 }

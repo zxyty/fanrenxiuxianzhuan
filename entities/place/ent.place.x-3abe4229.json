@@ -6,7 +6,8 @@
   "summary": "落日城内一家材料店铺，掌柜为胥老，售卖银芯石与变异灵具材料，自称讲究先来后到、非拍卖行。",
   "attributes": {
     "类型": "材料店铺",
-    "守护": "掌柜胥老"
+    "守护": "掌柜胥老",
+    "所属界面": "灵界"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,13 @@
       {
         "value": "掌柜胥老",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
       "seq": 1291
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.818Z"
+  "updatedAt": "2026-06-20T07:55:03.462Z"
 }

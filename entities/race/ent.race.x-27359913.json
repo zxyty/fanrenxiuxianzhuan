@@ -3,13 +3,15 @@
   "type": "race",
   "name": "五行灵族",
   "aliases": [
-    "五行族"
+    "五行族",
+    "五行灵族灵将"
   ],
   "summary": "灵族中以五行划分的族群，含木灵族、水灵族等；与器灵族争夺神血。",
   "attributes": {
     "阵营": "灵族",
     "代表人物": "天樱、黄石公",
-    "聚居地": "灵界"
+    "聚居地": "灵界",
+    "天敌": "夜叉族"
   },
   "observations": {
     "阵营": [
@@ -35,7 +37,14 @@
       {
         "value": "灵界",
         "docId": "plot.fanren-1299-shiyan-takeover",
-        "seq": 1297
+        "seq": 1291
+      }
+    ],
+    "天敌": [
+      {
+        "value": "夜叉族",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ]
   },
@@ -57,14 +66,21 @@
       "asOf": null,
       "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.032Z"
+  "updatedAt": "2026-06-20T07:55:03.522Z"
 }

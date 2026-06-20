@@ -7,7 +7,8 @@
   "attributes": {
     "阵营": "灵族",
     "代表人物": "旭天、黄石公、天樱",
-    "特性": "以器物为本体"
+    "特性": "以器物为本体",
+    "聚居地": "灵界"
   },
   "observations": {
     "阵营": [
@@ -45,6 +46,13 @@
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
       }
+    ],
+    "聚居地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
     ]
   },
   "firstSeq": 1291,
@@ -66,6 +74,12 @@
       "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
       "dated": false,
       "seq": 1303
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
@@ -73,7 +87,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:47:43.499Z"
+  "updatedAt": "2026-06-20T07:55:03.522Z"
 }

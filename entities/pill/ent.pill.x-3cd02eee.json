@@ -6,8 +6,8 @@
   "summary": "黄粱前辈独门秘药，盛于碧绿瓷瓶，突破瓶颈圣药，可临时增长神念弥补炼体士神念不足，对修士效果微乎其微。",
   "attributes": {
     "功效": "临时增长神念、弥补炼体士神念不足、助突破瓶颈、临时增加神识",
-    "适用境界": "炼体士（修士效果微乎其微）",
-    "炼制者": "黄粱前辈"
+    "适用境界": "炼体士（修士效果微乎其微）、炼体士",
+    "炼制者": "黄粱前辈、黄粱真君"
   },
   "observations": {
     "功效": [
@@ -37,12 +37,22 @@
         "value": "炼体士（修士效果微乎其微）",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "炼制者": [
       {
         "value": "黄粱前辈",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "黄粱真君",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ]
@@ -72,7 +82,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.064Z"
+  "updatedAt": "2026-06-20T07:55:03.475Z"
 }

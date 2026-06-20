@@ -5,14 +5,16 @@
   "aliases": [
     "蛮荒之地",
     "蛮荒古界",
-    "蛮荒"
+    "蛮荒",
+    "三境七妖地外"
   ],
   "summary": "凶险之地,寰苍奇邀黄粱灵君联手再闯以寻度大天劫之宝。",
   "attributes": {
     "所属界面": "灵界",
     "类型": "凶险蛮荒之地",
     "危险度": "极高",
-    "守护": "百目巨人等蛮荒存在"
+    "守护": "百目巨人等蛮荒存在",
+    "特产": "逆天级天材地宝"
   },
   "observations": {
     "所属界面": [
@@ -32,13 +34,18 @@
         "value": "凶险蛮荒之地",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "界外蛮荒",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "危险度": [
       {
         "value": "极高",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-        "seq": 1315
+        "seq": 1291
       }
     ],
     "守护": [
@@ -47,9 +54,16 @@
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
       }
+    ],
+    "特产": [
+      {
+        "value": "逆天级天材地宝",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
     ]
   },
-  "firstSeq": 1297,
+  "firstSeq": 1291,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
@@ -67,13 +81,19 @@
       "asOf": null,
       "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
       "dated": false,
-      "seq": 1315
+      "seq": 1291
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
@@ -86,7 +106,8 @@
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1327-1332-tianyuan-fangshi",
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-ch1359-shuanghuang-appears"
+    "plot.fanren-ch1359-shuanghuang-appears",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T14:14:43.042Z"
+  "updatedAt": "2026-06-20T07:55:03.539Z"
 }

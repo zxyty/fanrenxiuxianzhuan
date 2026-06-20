@@ -7,17 +7,18 @@
     "黄粱真君",
     "簧粱灵君",
     "白袍男子",
-    "黄粱兄"
+    "黄粱兄",
+    "黄粱老儿"
   ],
   "summary": "落日城第一修士，山中居万年，已过五行合一，炼虚初期。",
   "attributes": {
     "小阶段": "元婴",
     "称号": "落日城第一修士、真君、灵君",
     "寿元": "居住万年",
-    "身份": "灵君",
+    "身份": "吕姓女子之祖/前辈、灵君、落日城高阶大能",
     "标志特征": "独门秘药天心丹的炼制者、元婴离体、白玉大印、八卦镜状灵镜、白纸扇、黄色剑气、三头虎头龙首怪兽拉青色飞车",
     "性别": "男",
-    "外貌": "白袍",
+    "外貌": "宽大黄袍、面色异常苍白、白袍、宽大黄袍、面色苍白",
     "阵营": "敌（追杀韩立）",
     "种族": "人族"
   },
@@ -73,6 +74,11 @@
         "value": "灵君",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "落日城高阶大能",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "标志特征": [
@@ -114,6 +120,11 @@
         "value": "白袍",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "宽大黄袍、面色苍白",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "阵营": [
@@ -158,9 +169,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "标志特征": {
       "asOf": null,
@@ -176,9 +187,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "阵营": {
       "asOf": null,
@@ -199,7 +210,8 @@
     "plot.fanren-1287-chuancheng-zhu",
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-20T07:38:20.239Z"
+  "updatedAt": "2026-06-20T07:55:03.519Z"
 }

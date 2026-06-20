@@ -8,15 +8,20 @@
   ],
   "summary": "灰扑扑、表面光滑如美玉却颜色黯淡诡异的长方形矿石，是一种极罕见的灵具材料变异材料，对一般灵具师价值不大，却对炼体士韩立妙用无穷。",
   "attributes": {
-    "类型": "灵具材料的变异材料",
-    "用途": "特使法器宝物炼制、对炼体士韩立有奇用",
-    "稀有度": "非常罕见"
+    "类型": "灵具材料的变异材料、变异灵具材料",
+    "用途": "特使法器宝物炼制、对炼体士韩立有奇用、修士特殊法器宝物炼制",
+    "稀有度": "非常罕见、极罕见"
   },
   "observations": {
     "类型": [
       {
         "value": "灵具材料的变异材料",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "变异灵具材料",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -30,12 +35,22 @@
         "value": "对炼体士韩立有奇用",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "修士特殊法器宝物炼制",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "稀有度": [
       {
         "value": "非常罕见",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "极罕见",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ]
@@ -64,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.817Z"
+  "updatedAt": "2026-06-20T07:55:03.472Z"
 }

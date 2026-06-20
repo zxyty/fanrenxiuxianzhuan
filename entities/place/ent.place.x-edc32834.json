@@ -6,15 +6,16 @@
     "落日墓",
     "落日之城",
     "落日洼地",
-    "Luori Tomb"
+    "Luori Tomb",
+    "落日之墓入口"
   ],
   "summary": "人妖边境，远古坠落太阳形成的巨大洼地，凶险无比。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "巨大洼地/凶险之地、凶险秘境/峡谷、凶地/秘境、秘境、边境凶地/洼地",
+    "类型": "巨大洼地/凶险之地、凶险秘境/峡谷、凶地/秘境、秘境、边境凶地/洼地、秘地/凶地",
     "危险度": "极高（怪毒、妖兽）、高（高空为禁空之区，有不计其数禽类古兽与妖修）、极高、高、极高（化神级妖修与修士活动）",
-    "守护": "禽类古兽、妖修、落日城修士暗中驻守入口（化神坐镇）",
-    "特产": "太乙银精芝等灵药",
+    "守护": "禽类古兽、妖修、落日城修士暗中驻守入口（化神坐镇）、落日城修士驻守、化神期坐镇",
+    "特产": "太乙银精芝等灵药、独产灵物、丰富灵脉灵药、太乙银精芝、传闻级灵药材料",
     "所属势力": "人族、妖族"
   },
   "observations": {
@@ -50,6 +51,11 @@
         "value": "边境凶地/洼地",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "秘地/凶地",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "危险度": [
@@ -89,6 +95,11 @@
         "value": "落日城修士暗中驻守入口（化神坐镇）",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "落日城修士驻守、化神期坐镇",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "特产": [
@@ -101,6 +112,16 @@
         "value": "独产灵物、丰富灵脉灵药",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "太乙银精芝",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "传闻级灵药材料",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "所属势力": [
@@ -144,9 +165,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
-      "seq": 1291
+      "seq": 1285
     },
     "所属势力": {
       "asOf": null,
@@ -161,7 +182,8 @@
     "plot.fanren-1287-chuancheng-zhu",
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-20T07:38:20.231Z"
+  "updatedAt": "2026-06-20T07:55:03.538Z"
 }

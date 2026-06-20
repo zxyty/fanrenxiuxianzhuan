@@ -12,7 +12,7 @@
   "attributes": {
     "种族": "玄灵族",
     "身份": "八大玄灵之一、灵族首领、潜伏黑影（疑似）、玄灵、灵族玄灵",
-    "称号": "玄灵",
+    "称号": "玄灵、八大玄灵之一",
     "阵营": "灵族",
     "小阶段": "炼虚期",
     "外貌": "面容普通、皂青长袍、脚踩血色云雾、皂青长袍男子",
@@ -55,7 +55,7 @@
       {
         "value": "玄灵",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-        "seq": 1303
+        "seq": 1291
       },
       {
         "value": "灵族玄灵",
@@ -67,6 +67,11 @@
       {
         "value": "玄灵",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "八大玄灵之一",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -162,7 +167,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:47:43.524Z"
+  "updatedAt": "2026-06-20T07:55:03.517Z"
 }

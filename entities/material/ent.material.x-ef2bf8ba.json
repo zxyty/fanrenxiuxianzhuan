@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "拳头大小的淡银色石头，灵界一种珍贵材料，引钱姓青年与吕仙子争抢。",
   "attributes": {
-    "类型": "灵界材料",
+    "类型": "灵界材料、灵具材料",
     "稀有度": "珍贵"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "灵界材料",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "灵具材料",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.816Z"
+  "updatedAt": "2026-06-20T07:55:03.470Z"
 }

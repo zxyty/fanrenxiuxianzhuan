@@ -8,7 +8,7 @@
     "性别": "男",
     "种族": "灵族",
     "身份": "中阶神将",
-    "外貌": "拄白石拐老翁"
+    "外貌": "黄袍、拄白色拐杖的老者小人、拄白石拐老翁、黄袍、白色拐杖"
   },
   "observations": {
     "性别": [
@@ -47,6 +47,11 @@
         "value": "拄白石拐老翁",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "黄袍、白色拐杖",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ]
   },
@@ -72,16 +77,17 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.039Z"
+  "updatedAt": "2026-06-20T07:55:03.451Z"
 }

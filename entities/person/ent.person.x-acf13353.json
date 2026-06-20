@@ -2,11 +2,15 @@
   "id": "ent.person.x-acf13353",
   "type": "person",
   "name": "天樱",
-  "aliases": [],
+  "aliases": [
+    "绿袍裙女子",
+    "绿装女子",
+    "绿裙女子"
+  ],
   "summary": "木灵族灵将，本体为木樱成灵，能观察常人难见之物，察觉韩立神识强大而主张不轻举妄动。",
   "attributes": {
     "性别": "女",
-    "种族": "灵族",
+    "种族": "木灵族、灵族",
     "身份": "中阶神将",
     "外貌": "绿裙女子",
     "标志特征": "本体木樱成灵"
@@ -28,7 +32,7 @@
       {
         "value": "灵族",
         "docId": "plot.fanren-1299-shiyan-takeover",
-        "seq": 1297
+        "seq": 1291
       }
     ],
     "身份": [
@@ -73,9 +77,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "身份": {
       "asOf": null,
@@ -100,7 +104,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:26:21.040Z"
+  "updatedAt": "2026-06-20T07:55:03.449Z"
 }

@@ -3,14 +3,17 @@
   "type": "person",
   "name": "水魅",
   "aliases": [
-    "水人"
+    "水人",
+    "晶莹水人",
+    "水魅兄"
   ],
   "summary": "五行灵族灵将，水灵之体，可化尺许晶莹水人，性情阴厉；刚从对抗夜叉族的战场归来，主张静候器灵族旭天到来擒叛逆。",
   "attributes": {
-    "种族": "灵族",
-    "身份": "灵将",
+    "种族": "灵族、五行灵族",
+    "身份": "灵将、炼体士",
     "性格": "阴厉",
-    "外貌": "尺许晶莹水人、难辨男女"
+    "外貌": "尺许晶莹水人、难辨男女、尺许大、晶莹、辨不出男女的水人",
+    "标志特征": "水灵之体/水性神通"
   },
   "observations": {
     "种族": [
@@ -18,12 +21,22 @@
         "value": "灵族",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "五行灵族",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "身份": [
       {
         "value": "灵将",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -38,6 +51,18 @@
       {
         "value": "尺许晶莹水人、难辨男女",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "尺许大、晶莹、辨不出男女的水人",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "水灵之体/水性神通",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ]
@@ -67,12 +92,19 @@
       "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
       "seq": 1291
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.866Z"
+  "updatedAt": "2026-06-20T07:55:03.516Z"
 }

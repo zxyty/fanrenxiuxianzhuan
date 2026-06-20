@@ -18,9 +18,10 @@
   "attributes": {
     "特性": "可由灵物点化进化而生",
     "天敌": "夜叉族",
-    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎",
+    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）",
     "聚居地": "灵界",
-    "阵营": "灵族"
+    "阵营": "灵族",
+    "天赋神通": "化白色小剑、剑丝、剑气"
   },
   "observations": {
     "特性": [
@@ -67,6 +68,11 @@
         "value": "噬炎",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "白袍小剑人（灵将）",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "聚居地": [
@@ -81,6 +87,28 @@
         "value": "灵族",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "人族敌对种族",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "化白色小剑",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "剑丝",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "剑气",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ]
   },
@@ -115,6 +143,12 @@
       "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
       "seq": 1297
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
@@ -127,7 +161,8 @@
     "plot.fanren-1438-yin-zhu-feng",
     "plot.fanren-1457-taodun-didi-escape",
     "plot.fanren-1480-bai-ying",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T18:53:56.351Z"
+  "updatedAt": "2026-06-20T07:55:03.536Z"
 }

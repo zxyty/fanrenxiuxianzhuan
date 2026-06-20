@@ -5,13 +5,15 @@
   "aliases": [
     "长枪灵具",
     "黑色长枪",
-    "灵具长枪"
+    "灵具长枪",
+    "黑光长枪"
   ],
   "summary": "韩立所持长枪，枪柄镶青色灵石供能，可驱动如飞剑般洞穿妖兽；被灵族剑丝寸寸裂断。",
   "attributes": {
     "持有者": "韩立",
     "能力": "御枪洞穿、化乌芒投掷",
-    "禁制": "青色灵石供能"
+    "禁制": "青色灵石供能",
+    "外形": "长枪"
   },
   "observations": {
     "持有者": [
@@ -39,6 +41,13 @@
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
       }
+    ],
+    "外形": [
+      {
+        "value": "长枪",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      }
     ]
   },
   "firstSeq": 1291,
@@ -60,12 +69,19 @@
       "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
       "seq": 1291
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.855Z"
+  "updatedAt": "2026-06-20T07:55:03.506Z"
 }

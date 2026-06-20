@@ -5,19 +5,34 @@
   "aliases": [
     "小兽",
     "变异小兽",
-    "黄影小兽"
+    "黄影小兽",
+    "小豹",
+    "猫大金钱豹",
+    "变异兽",
+    "黄毛小兽"
   ],
   "summary": "猫般大小、形似金钱豹的变异兽类，速度极快、爪锋利、能一化数十只分身，纯靠肉身搏斗（无妖力）；曾给韩立带来顿悟契机，后被灵族剑丝灵将追猎。",
   "attributes": {
-    "外形": "猫般大小金钱豹",
-    "能力": "极速、利爪、分身一化数十",
-    "栖息地": "落日之墓"
+    "外形": "猫般大小金钱豹、猫大、形似金钱豹、碧绿眼珠、小巧黄毛兽",
+    "能力": "极速、利爪、分身一化数十、分身(一化数十)、化数十虚影分身、极速遁逃",
+    "栖息地": "落日之墓",
+    "等级": "变异兽类"
   },
   "observations": {
     "外形": [
       {
         "value": "猫般大小金钱豹",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      },
+      {
+        "value": "猫大、形似金钱豹、碧绿眼珠",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "小巧黄毛兽",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ],
@@ -36,12 +51,34 @@
         "value": "分身一化数十",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "分身(一化数十)",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "化数十虚影分身",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
+      },
+      {
+        "value": "极速遁逃",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+        "seq": 1291
       }
     ],
     "栖息地": [
       {
         "value": "落日之墓",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+        "seq": 1291
+      }
+    ],
+    "等级": [
+      {
+        "value": "变异兽类",
+        "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
     ]
@@ -65,12 +102,19 @@
       "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
       "seq": 1291
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "dated": false,
+      "seq": 1291
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-16T11:04:31.859Z"
+  "updatedAt": "2026-06-20T07:55:03.536Z"
 }
