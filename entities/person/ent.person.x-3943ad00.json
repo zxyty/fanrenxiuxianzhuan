@@ -10,8 +10,8 @@
   "attributes": {
     "性别": "女",
     "种族": "飞灵族",
-    "身份": "玉皇顶杂役/向导",
-    "外貌": "白衫、娇小"
+    "身份": "玉皇顶杂役/向导、玉皇顶侍婢",
+    "外貌": "白衫、娇小、白衫娇小少女"
   },
   "observations": {
     "性别": [
@@ -33,12 +33,22 @@
         "value": "玉皇顶杂役/向导",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "玉皇顶侍婢",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
       }
     ],
     "外貌": [
       {
         "value": "白衫、娇小",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "白衫娇小少女",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
       }
     ]
@@ -73,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.344Z"
+  "updatedAt": "2026-06-20T11:39:50.552Z"
 }

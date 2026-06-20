@@ -3,16 +3,17 @@
   "type": "person",
   "name": "天鸣",
   "aliases": [
-    "赤融族秃头大汉"
+    "赤融族秃头大汉",
+    "天鸣师兄"
   ],
   "summary": "赤融族领头大汉，红袍秃头，化神中期，率众以困魔网伏击天鹏人。",
   "attributes": {
     "种族": "赤融族",
-    "小阶段": "化神中期",
+    "小阶段": "中阶灵将",
     "外貌": "身材高大、红袍、头上寸草不生、秃头/光头大汉、秃头大汉",
     "阵营": "赤融族",
     "标志特征": "所化火鸟喷紫色火焰、化巨型紫焰火鸟",
-    "身份": "赤融族首领"
+    "身份": "赤融族圣子"
   },
   "observations": {
     "种族": [
@@ -27,6 +28,11 @@
         "value": "化神中期",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "中阶灵将",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
       }
     ],
     "外貌": [
@@ -71,6 +77,11 @@
         "value": "赤融族首领",
         "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
+      },
+      {
+        "value": "赤融族圣子",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
       }
     ]
   },
@@ -84,9 +95,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1407-jinsui-lianti",
+      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
       "dated": false,
-      "seq": 1405
+      "seq": 1429
     },
     "外貌": {
       "asOf": null,
@@ -108,16 +119,17 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
       "dated": false,
-      "seq": 1405
+      "seq": 1429
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1407-jinsui-lianti",
-    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-20T11:11:09.588Z"
+  "updatedAt": "2026-06-20T11:39:50.551Z"
 }

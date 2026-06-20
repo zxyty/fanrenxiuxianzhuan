@@ -8,7 +8,7 @@
   "summary": "玉皇顶最东、唯一可正式比斗之处，外覆千丈光罩；雷兰与虹纱在此比斗，韩立与祝音子在此试探交手。",
   "attributes": {
     "所属势力": "飞灵族",
-    "类型": "比斗场",
+    "类型": "比斗场、斗技场",
     "守护": "千丈光罩"
   },
   "observations": {
@@ -23,6 +23,11 @@
       {
         "value": "比斗场",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "斗技场",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
       }
     ],
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.353Z"
+  "updatedAt": "2026-06-20T11:39:50.560Z"
 }

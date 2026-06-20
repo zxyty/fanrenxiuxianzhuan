@@ -6,7 +6,7 @@
   "summary": "虹纱用作比斗彩头的灵石，以之为饵将雷兰诱至较技场，实为引出韩立。",
   "attributes": {
     "用途": "比斗彩头/诱饵、增进阶灵帅把握",
-    "类型": "灵石"
+    "类型": "灵石、灵石/异宝"
   },
   "observations": {
     "用途": [
@@ -25,6 +25,11 @@
       {
         "value": "灵石",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "灵石/异宝",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
       }
     ]
@@ -47,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.382Z"
+  "updatedAt": "2026-06-20T11:39:50.561Z"
 }

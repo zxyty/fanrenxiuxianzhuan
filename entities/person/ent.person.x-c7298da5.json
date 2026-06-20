@@ -6,7 +6,8 @@
   "summary": "七越族年轻高手，与祝音子、费夜齐名（提及）。",
   "attributes": {
     "种族": "飞灵族",
-    "阵营": "七越族"
+    "阵营": "七越族",
+    "身份": "七越族圣子/年轻一辈高手"
   },
   "observations": {
     "种族": [
@@ -20,6 +21,13 @@
       {
         "value": "七越族",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      }
+    ],
+    "身份": [
+      {
+        "value": "七越族圣子/年轻一辈高手",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.346Z"
+  "updatedAt": "2026-06-20T11:39:50.553Z"
 }

@@ -10,7 +10,8 @@
     "种族": "飞灵族",
     "阵营": "赤融族",
     "身份": "赤融族圣子",
-    "外貌": "圆脸、笑嘻嘻"
+    "外貌": "圆脸、笑嘻嘻、圆脸青年",
+    "性格": "笑里藏刀"
   },
   "observations": {
     "种族": [
@@ -38,6 +39,18 @@
       {
         "value": "圆脸、笑嘻嘻",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+        "seq": 1429
+      },
+      {
+        "value": "圆脸青年",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
+      }
+    ],
+    "性格": [
+      {
+        "value": "笑里藏刀",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
       }
     ]
@@ -67,12 +80,19 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.339Z"
+  "updatedAt": "2026-06-20T11:39:50.546Z"
 }

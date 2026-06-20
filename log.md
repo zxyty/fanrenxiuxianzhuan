@@ -577,3 +577,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T11:18:12.919Z** `ingest` plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda — 凡人修仙传 第1411-1416章｜封灵塔与天鹏圣子 · kind=plot asOf=2026-06-20 entities=24 relations=27 src=01411-01416.md
 - **2026-06-20T11:25:39.724Z** `ingest` plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian — 凡人修仙传 第1417-1422章｜鲲鹏舍利、天鹏之誓与惊蛰十二变 · kind=plot asOf=2026-06-20 entities=36 relations=36 src=01417-01422.md
 - **2026-06-20T11:37:56.728Z** `ingest` plot.fanren-1425 — 凡人修仙传 第1425章 降兽：枯瘦店主收服雷兽 · kind=plot asOf=2026-06-20 entities=48 relations=59 src=01423-01428.md
+- **2026-06-20T11:39:50.703Z** `ingest` plot.fanren-1431-1432-zhuyinzi-jiaojichang — 第1431-1432章 祝音子·较技场：玉皇顶三族角力与雷兰斗虹纱 · kind=plot asOf=2026-06-20 entities=22 relations=25 src=01429-01434.p1.md

@@ -12,7 +12,8 @@
     "种族": "飞灵族",
     "阵营": "赤融族",
     "身份": "赤融族圣子",
-    "外貌": "姿色妩媚"
+    "外貌": "姿色妩媚",
+    "标志特征": "驭火、红霞火云"
   },
   "observations": {
     "性别": [
@@ -49,6 +50,13 @@
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
       }
+    ],
+    "标志特征": [
+      {
+        "value": "驭火、红霞火云",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
+      }
     ]
   },
   "firstSeq": 1429,
@@ -82,12 +90,19 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-16T16:20:08.378Z"
+  "updatedAt": "2026-06-20T11:39:50.547Z"
 }

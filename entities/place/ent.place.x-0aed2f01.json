@@ -8,7 +8,7 @@
     "所属界面": "灵界",
     "所属势力": "天鹏族",
     "类型": "盛会/长老会所在巨峰、试炼/盛会之地",
-    "守护": "禁制（场外不得动手）"
+    "守护": "禁制（场外不得动手）、禁制·除较技场外不得争斗"
   },
   "observations": {
     "所属界面": [
@@ -47,6 +47,11 @@
         "value": "禁制（场外不得动手）",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "禁制·除较技场外不得争斗",
+        "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
       }
     ]
   },
@@ -82,7 +87,8 @@
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
   ],
-  "updatedAt": "2026-06-20T11:37:56.539Z"
+  "updatedAt": "2026-06-20T11:39:50.559Z"
 }
