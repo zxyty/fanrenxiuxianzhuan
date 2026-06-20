@@ -1,60 +1,54 @@
 {
-  "id": "ent.faction.x-f75bdb5d",
-  "type": "faction",
-  "name": "天云十三族",
+  "id": "ent.beast.x-c5d4a789",
+  "type": "beast",
+  "name": "双头巨鹰",
   "aliases": [
-    "天云十三族联盟",
-    "十三族"
+    "白色双头鹰"
   ],
-  "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
+  "summary": "角蚩族战舟放出的第一波追兵，千余只，三四丈、披白甲、爪套金属指套，速不下金丹修士，专杀低阶异族。",
   "attributes": {
-    "所属界面": "灵界",
-    "阵营": "对抗角蚩族",
-    "据点": "绿光城、云城"
+    "等级": "金丹级速度",
+    "能力": "白甲御攻、利爪撕裂",
+    "外形": "三四丈披白甲双头巨鹰"
   },
   "observations": {
-    "所属界面": [
+    "等级": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-        "seq": 1549
-      }
-    ],
-    "阵营": [
-      {
-        "value": "对抗角蚩族",
+        "value": "金丹级速度",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ],
-    "据点": [
+    "能力": [
       {
-        "value": "绿光城",
+        "value": "白甲御攻、利爪撕裂",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
-      },
+      }
+    ],
+    "外形": [
       {
-        "value": "云城",
+        "value": "三四丈披白甲双头巨鹰",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ]
   },
-  "firstSeq": 1549,
+  "firstSeq": 1555,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-      "dated": false,
-      "seq": 1549
-    },
-    "阵营": {
+    "等级": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
     },
-    "据点": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
@@ -64,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
   ],
-  "updatedAt": "2026-06-20T15:03:42.528Z"
+  "updatedAt": "2026-06-20T15:03:42.549Z"
 }

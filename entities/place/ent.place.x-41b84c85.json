@@ -6,8 +6,10 @@
   "summary": "雷鸣大陆上天云十三族数小组共管的中转小城，本片段已沦为数万异族难民聚集地，遭角蚩族封锁。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "中转小城",
-    "守护": "角蚩族围困中"
+    "类型": "中转小城、交易小城、异族城池",
+    "守护": "元姓大头异族",
+    "所属势力": "天云十三族",
+    "危险度": "极高（角蚩族大军围攻）"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +24,16 @@
         "value": "中转小城",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "交易小城",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      },
+      {
+        "value": "异族城池",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
       }
     ],
     "守护": [
@@ -29,6 +41,25 @@
         "value": "角蚩族围困中",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "元姓大头异族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "天云十三族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（角蚩族大军围攻）",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
       }
     ]
   },
@@ -48,15 +79,28 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
-      "seq": 1549
+      "seq": 1555
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1551-qidu-hanli-vs-guaie"
+    "plot.fanren-1551-qidu-hanli-vs-guaie",
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
   ],
-  "updatedAt": "2026-06-20T14:55:43.763Z"
+  "updatedAt": "2026-06-20T15:03:42.585Z"
 }

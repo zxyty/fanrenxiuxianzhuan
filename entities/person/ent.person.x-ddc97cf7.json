@@ -1,60 +1,55 @@
 {
-  "id": "ent.faction.x-f75bdb5d",
-  "type": "faction",
-  "name": "天云十三族",
+  "id": "ent.person.x-ddc97cf7",
+  "type": "person",
+  "name": "绿肤异族人",
   "aliases": [
-    "天云十三族联盟",
-    "十三族"
+    "绿肤人",
+    "墨绿族修士"
   ],
-  "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
+  "summary": "墨绿族炼虚修士，以绿色长舌吞玉匣，施墨绿族隐匿秘术遁走。",
   "attributes": {
-    "所属界面": "灵界",
-    "阵营": "对抗角蚩族",
-    "据点": "绿光城、云城"
+    "小阶段": "炼虚级",
+    "种族": "墨绿族",
+    "标志特征": "绿色长舌"
   },
   "observations": {
-    "所属界面": [
+    "小阶段": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-        "seq": 1549
-      }
-    ],
-    "阵营": [
-      {
-        "value": "对抗角蚩族",
+        "value": "炼虚级",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ],
-    "据点": [
+    "种族": [
       {
-        "value": "绿光城",
+        "value": "墨绿族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
-      },
+      }
+    ],
+    "标志特征": [
       {
-        "value": "云城",
+        "value": "绿色长舌",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ]
   },
-  "firstSeq": 1549,
+  "firstSeq": 1555,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-      "dated": false,
-      "seq": 1549
-    },
-    "阵营": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
     },
-    "据点": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
@@ -64,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
   ],
-  "updatedAt": "2026-06-20T15:03:42.528Z"
+  "updatedAt": "2026-06-20T15:03:42.513Z"
 }

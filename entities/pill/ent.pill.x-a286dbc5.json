@@ -1,0 +1,52 @@
+{
+  "id": "ent.pill.x-a286dbc5",
+  "type": "pill",
+  "name": "金血丸",
+  "aliases": [
+    "金血丸丹药"
+  ],
+  "summary": "鲜红似血、隐放金光的丹药，仅次于万妙丹，可助突破上三阶瓶颈；弘灭曾以之欲换玉匣，被杀后由韩立搜得。",
+  "attributes": {
+    "功效": "助突破上三阶瓶颈",
+    "品阶": "仅次于万妙丹"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "助突破上三阶瓶颈",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      }
+    ],
+    "品阶": [
+      {
+        "value": "仅次于万妙丹",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555,
+        "note": "据弘灭所言"
+      }
+    ]
+  },
+  "firstSeq": 1555,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555,
+      "note": "据弘灭所言"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+  ],
+  "updatedAt": "2026-06-20T15:03:42.571Z"
+}

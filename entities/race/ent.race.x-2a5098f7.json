@@ -2,12 +2,17 @@
   "id": "ent.race.x-2a5098f7",
   "type": "race",
   "name": "角蚩族",
-  "aliases": [],
+  "aliases": [
+    "Jiaochi",
+    "角蚩族追兵"
+  ],
   "summary": "跨洋而来天元大陆的强大异族，代表人物闵；可化身百丈带角巨怪。",
   "attributes": {
-    "代表人物": "闵、闵某、闵道友",
-    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族",
-    "阵营": "敌对"
+    "代表人物": "闵、闵某、闵道友、图某、狞兄、弘灭",
+    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族",
+    "阵营": "敌对天云十三族",
+    "天敌": "天云十三族",
+    "天赋神通": "换血洗髓转化血脉"
   },
   "observations": {
     "代表人物": [
@@ -25,6 +30,21 @@
         "value": "闵道友",
         "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "图某",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      },
+      {
+        "value": "狞兄",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      },
+      {
+        "value": "弘灭",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
       }
     ],
     "特性": [
@@ -47,6 +67,16 @@
         "value": "灵界前十超级大族",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      },
+      {
+        "value": "炎/火系血脉、半步圣族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
       }
     ],
     "阵营": [
@@ -54,6 +84,25 @@
         "value": "敌对",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "敌对天云十三族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      }
+    ],
+    "天敌": [
+      {
+        "value": "天云十三族",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "换血洗髓转化血脉",
+        "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+        "seq": 1555
       }
     ]
   },
@@ -73,9 +122,21 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
-      "seq": 1549
+      "seq": 1555
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
     }
   },
   "contested": false,
@@ -85,7 +146,8 @@
     "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-    "plot.fanren-1551-qidu-hanli-vs-guaie"
+    "plot.fanren-1551-qidu-hanli-vs-guaie",
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
   ],
-  "updatedAt": "2026-06-20T14:55:43.775Z"
+  "updatedAt": "2026-06-20T15:03:42.589Z"
 }

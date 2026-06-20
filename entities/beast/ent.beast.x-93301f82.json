@@ -1,60 +1,54 @@
 {
-  "id": "ent.faction.x-f75bdb5d",
-  "type": "faction",
-  "name": "天云十三族",
+  "id": "ent.beast.x-93301f82",
+  "type": "beast",
+  "name": "羽蛟",
   "aliases": [
-    "天云十三族联盟",
-    "十三族"
+    "背生双翅金蛟"
   ],
-  "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
+  "summary": "角蚩族驱使的金色背生双翅怪蛟，凶悍可怕，连同阶甲士、双头鹰都不敢支援其追猎，随长老分头搜捕。",
   "attributes": {
-    "所属界面": "灵界",
-    "阵营": "对抗角蚩族",
-    "据点": "绿光城、云城"
+    "外形": "浑身金光、背生双翅的怪蛟",
+    "能力": "追猎逃修",
+    "栖息地": "角蚩族战舟/银色巨岛"
   },
   "observations": {
-    "所属界面": [
+    "外形": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-        "seq": 1549
-      }
-    ],
-    "阵营": [
-      {
-        "value": "对抗角蚩族",
+        "value": "浑身金光、背生双翅的怪蛟",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ],
-    "据点": [
+    "能力": [
       {
-        "value": "绿光城",
+        "value": "追猎逃修",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
-      },
+      }
+    ],
+    "栖息地": [
       {
-        "value": "云城",
+        "value": "角蚩族战舟/银色巨岛",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
     ]
   },
-  "firstSeq": 1549,
+  "firstSeq": 1555,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
-      "dated": false,
-      "seq": 1549
-    },
-    "阵营": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
     },
-    "据点": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "dated": false,
+      "seq": 1555
+    },
+    "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
@@ -64,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
   ],
-  "updatedAt": "2026-06-20T15:03:42.528Z"
+  "updatedAt": "2026-06-20T15:03:42.584Z"
 }
