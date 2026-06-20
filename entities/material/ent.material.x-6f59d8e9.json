@@ -5,15 +5,20 @@
   "aliases": [],
   "summary": "可开妖兽灵智、对妖族化形塑体至关重要、对人族修士可扩充经脉的灵物；一次不易吸纳过多、放置不超一月；童子留给韩立修明王决。",
   "attributes": {
-    "类型": "灵物/灵液",
-    "用途": "开妖兽灵智、助妖族化形塑体、扩充人族修士经脉、助修炼突破",
-    "稀有度": "奇物"
+    "类型": "灵物/灵液、奇物/灵液",
+    "用途": "开妖兽灵智、助妖族化形塑体、扩充人族修士经脉、助修炼突破、开启妖兽灵智、妖族化形塑体、人族修士扩充身体经脉、助修炼、省苦修",
+    "稀有度": "奇物、珍贵；一次不易吸纳过多，放置不可超过一月"
   },
   "observations": {
     "类型": [
       {
         "value": "灵物/灵液",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "奇物/灵液",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ],
@@ -37,12 +42,37 @@
         "value": "助修炼突破",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "开启妖兽灵智",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      },
+      {
+        "value": "妖族化形塑体",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      },
+      {
+        "value": "人族修士扩充身体经脉",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      },
+      {
+        "value": "助修炼、省苦修",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "稀有度": [
       {
         "value": "奇物",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "珍贵；一次不易吸纳过多，放置不可超过一月",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ]
@@ -71,7 +101,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.638Z"
+  "updatedAt": "2026-06-20T04:41:50.242Z"
 }

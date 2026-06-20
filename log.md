@@ -535,3 +535,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T04:15:03.778Z** `ingest` plot.fanren-1183-mohua — 第1183章 魔化——韩立万丈魔渊战第二元婴 · kind=plot asOf=2026-06-20 entities=12 relations=15 src=01177-01182.p5.md
 - **2026-06-20T04:16:34.715Z** `ingest` plot.fanren-1184-shou-ying-capture-second-nascent-soul — 第1184章 收婴：韩立虚天鼎擒第二元婴，回子母峰召集弟子 · kind=plot asOf=2026-06-20 entities=15 relations=14 src=01177-01182.p6.md
 - **2026-06-20T04:24:28.557Z** `update` plot.fanren-1183-1188-fuzhong-tonghua-dujie — 凡人修仙传 第1183-1188章｜府中安排、同化第二元婴、护天澜度化形雷劫 · kind=plot asOf=2026-06-20 entities=32 relations=37 src=01183-01188.md
+- **2026-06-20T04:41:50.403Z** `ingest` plot.fanren-ch1190-huajiezhu-jifeng-jiubian — 凡人修仙传 第1190章 化界珠和疾风九变 · kind=plot asOf=2026-06-20 entities=62 relations=76 src=01189-01194.md

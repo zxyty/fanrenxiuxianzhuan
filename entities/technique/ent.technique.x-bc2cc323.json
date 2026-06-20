@@ -12,9 +12,9 @@
   ],
   "summary": "出自佛门、灵界传播极广的炼体功法，无灵根凡人亦可修炼；修炼极难，与明王决几乎同源（多出灵气灌体手段）。",
   "attributes": {
-    "出处": "凡人炼体术",
-    "效果": "无灵根凡人亦可炼体、三层以上配特殊武器可抗低阶修仙者妖兽、五层以上中阶修仙者妖兽不敢轻惹、肉身刚猛、凡器难伤、肉身坚韧至极、抗打击、强化肉身，第五层可硬拼结丹修士、强化肉身巨力，大成可比元婴、第三层成不惧一般中低阶灵器攻击、增力大无穷、金光横练、金光拳碎敌、洗髓易经、运足功法可抗低阶灵器全力一击、奔驰如风、双掌如神兵利刃、炼出强横体魄,可对抗结丹乃至更高修士、肉身强横、护体金光、金色拳风、护体、爆发神力、金光护体、金刚之身、炼体金身、非人神力、拳风撕裂空间、锻炼肉身、金光护体金拳、护体、强横肉身（炼体）",
-    "修炼条件": "借灵气灌体之术",
+    "出处": "佛门/灵界、灵界炼体功法、炼体术、凡人炼体术、佛门",
+    "效果": "无灵根凡人亦可炼体、三层以上配特殊武器可抗低阶修仙者妖兽、五层以上中阶修仙者妖兽不敢轻惹、肉身刚猛、凡器难伤、肉身坚韧至极、抗打击、强化肉身，第五层可硬拼结丹修士、强化肉身巨力，大成可比元婴、第三层成不惧一般中低阶灵器攻击、增力大无穷、金光横练、金光拳碎敌、洗髓易经、运足功法可抗低阶灵器全力一击、奔驰如风、双掌如神兵利刃、炼出强横体魄,可对抗结丹乃至更高修士、肉身强横、护体金光、金色拳风、护体、爆发神力、金光护体、金刚之身、炼体金身、非人神力、拳风撕裂空间、锻炼肉身、金光护体金拳、护体、强横肉身（炼体）、凡人无灵根可修、五层以上中阶修仙者妖兽忌惮",
+    "修炼条件": "极难，二层需易经洗髓之痛、借外界灵力灌体、借灵气灌体之术、极难，多数凡人只到第一层；第二层须经易经洗髓之痛",
     "品阶": "炼体功法",
     "适用境界": "凡人炼体术最高境界为大成",
     "外显异象": "浑身金光灿灿、金灿灿拳头",
@@ -41,6 +41,11 @@
         "value": "凡人炼体术",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "佛门",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "效果": [
@@ -173,6 +178,16 @@
         "value": "强横肉身（炼体）",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "凡人无灵根可修",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      },
+      {
+        "value": "五层以上中阶修仙者妖兽忌惮",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "修炼条件": [
@@ -190,6 +205,11 @@
         "value": "借灵气灌体之术",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "极难，多数凡人只到第一层；第二层须经易经洗髓之痛",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "品阶": [
@@ -255,9 +275,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
-      "seq": 1315
+      "seq": 1189
     },
     "效果": {
       "asOf": null,
@@ -267,9 +287,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
-      "seq": 1273
+      "seq": 1189
     },
     "品阶": {
       "asOf": null,
@@ -310,7 +330,8 @@
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1341-leipao-xianshi",
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T13:17:17.844Z"
+  "updatedAt": "2026-06-20T04:41:50.218Z"
 }

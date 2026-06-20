@@ -2,11 +2,14 @@
   "id": "ent.artifact.x-5c38c6af",
   "type": "artifact",
   "name": "血魂镯",
-  "aliases": [],
+  "aliases": [
+    "血红手镯"
+  ],
   "summary": "历代鬼灵门主携带之魔器，不能直接克敌，可在镯中饲养阴魂血鬼并借血气速增其力后释放。",
   "attributes": {
     "品阶": "魔器",
-    "能力": "饲养阴魂血鬼/借血气速增其力"
+    "能力": "饲养阴魂血鬼/借血气速增其力、饲养阴魂血鬼/借血气增强",
+    "外形": "血红手镯"
   },
   "observations": {
     "品阶": [
@@ -20,6 +23,18 @@
       {
         "value": "饲养阴魂血鬼/借血气速增其力",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "饲养阴魂血鬼/借血气增强",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      }
+    ],
+    "外形": [
+      {
+        "value": "血红手镯",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ]
@@ -37,12 +52,19 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+      "dated": false,
+      "seq": 1189
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.665Z"
+  "updatedAt": "2026-06-20T04:41:50.266Z"
 }

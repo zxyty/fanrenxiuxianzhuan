@@ -8,10 +8,10 @@
   "summary": "轮回功中最危险的置之死地而后生之秘术，南宫婉所修。",
   "attributes": {
     "出处": "轮回功",
-    "修炼条件": "须借阴月之力布阵汇集",
+    "修炼条件": "生死一线、须借阴月之力布阵汇集、需借阴月之力布阵",
     "适用境界": "元婴期",
     "外显异象": "阴月之力有害他人修炼",
-    "效果": "置之死地而后生（极危险）"
+    "效果": "助封印中突破"
   },
   "observations": {
     "出处": [
@@ -30,6 +30,11 @@
       {
         "value": "须借阴月之力布阵汇集",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "需借阴月之力布阵",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ],
@@ -52,6 +57,11 @@
         "value": "置之死地而后生（极危险）",
         "docId": "plot.fanren-787-tun-mo-dan-gui",
         "seq": 787
+      },
+      {
+        "value": "助封印中突破",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ]
   },
@@ -65,9 +75,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "docId": "plot.fanren-787-792-tunmo-jigui-jixizhidi",
       "dated": false,
-      "seq": 1189
+      "seq": 787
     },
     "适用境界": {
       "asOf": null,
@@ -83,9 +93,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-787-tun-mo-dan-gui",
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
       "dated": false,
-      "seq": 787
+      "seq": 1189
     }
   },
   "contested": false,
@@ -95,7 +105,8 @@
     "plot.fanren-1167-1172-return-luoyunzong",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-787-tun-mo-dan-gui",
-    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-18T12:25:03.980Z"
+  "updatedAt": "2026-06-20T04:41:50.241Z"
 }

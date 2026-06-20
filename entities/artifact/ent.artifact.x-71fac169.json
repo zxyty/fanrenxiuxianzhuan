@@ -6,7 +6,8 @@
   "summary": "后天炼成、可多次使用的破界宝物，威能约为化界石百分之一，于破除空间禁制有名，是通过空间节点上界的助力。",
   "attributes": {
     "能力": "破除空间禁制、助过空间节点",
-    "来历": "以吸灵材料后天炼制"
+    "来历": "以吸灵材料后天炼制",
+    "品阶": "后天炼成可多次使用"
   },
   "observations": {
     "能力": [
@@ -21,6 +22,14 @@
         "value": "以吸灵材料后天炼制",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      }
+    ],
+    "品阶": [
+      {
+        "value": "后天炼成可多次使用",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189,
+        "note": "威能约化界石1%"
       }
     ]
   },
@@ -37,12 +46,20 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+      "dated": false,
+      "seq": 1189,
+      "note": "威能约化界石1%"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.599Z"
+  "updatedAt": "2026-06-20T04:41:50.199Z"
 }

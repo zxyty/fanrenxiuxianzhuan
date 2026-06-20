@@ -12,7 +12,7 @@
   "summary": "人族三皇之一，原为凡人中名人，后机缘巧合生成灵根转为修仙者，神通不逊另外二皇。",
   "attributes": {
     "称号": "圣皇",
-    "出身地": "人族炼体士出身",
+    "出身地": "凡人、人族炼体士出身、原为凡人",
     "身份": "人族至强者",
     "标志特征": "法体双修大成进阶合体",
     "种族": "人族",
@@ -58,6 +58,11 @@
         "value": "人族炼体士出身",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "原为凡人",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "身份": [
@@ -70,6 +75,11 @@
         "value": "人族至强者",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "人族三皇之一",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "标志特征": [
@@ -83,7 +93,7 @@
       {
         "value": "人族",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
-        "seq": 1351
+        "seq": 1189
       }
     ],
     "外貌": [
@@ -116,9 +126,10 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
-      "seq": 1267
+      "seq": 1189,
+      "note": "后生灵根转修仙者"
     },
     "身份": {
       "asOf": null,
@@ -136,7 +147,7 @@
       "asOf": null,
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
-      "seq": 1351
+      "seq": 1189
     },
     "外貌": {
       "asOf": null,
@@ -159,7 +170,8 @@
     "plot.fanren-1287-chuancheng-zhu",
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-17T03:26:19.775Z"
+  "updatedAt": "2026-06-20T04:41:50.227Z"
 }

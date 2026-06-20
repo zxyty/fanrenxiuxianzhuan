@@ -6,7 +6,7 @@
   "summary": "由木灵珠加多种木属性材料炼化而成的宝物，可施展一次‘不灭之体’神通。",
   "attributes": {
     "类型": "炼化宝物",
-    "用途": "加速经脉修复"
+    "用途": "一次性不灭之体保命、加速经脉修复、施展一次不灭之体"
   },
   "observations": {
     "类型": [
@@ -26,6 +26,11 @@
         "value": "加速经脉修复",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "施展一次不灭之体",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ]
   },
@@ -39,9 +44,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
-      "seq": 1267
+      "seq": 1189
     }
   },
   "contested": false,
@@ -50,7 +55,8 @@
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-1196-er-nv",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T10:12:05.262Z"
+  "updatedAt": "2026-06-20T04:41:50.267Z"
 }

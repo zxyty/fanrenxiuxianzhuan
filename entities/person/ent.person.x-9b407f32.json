@@ -6,7 +6,8 @@
     "王门主",
     "王大门主",
     "王绝楚",
-    "韩神医旧识"
+    "韩神医旧识",
+    "王家门主"
   ],
   "summary": "七玄门现任正门主，七绝上人嫡传后人，曾中伏重伤获墨大夫救命。",
   "attributes": {
@@ -17,7 +18,9 @@
     "称号": "王门主",
     "性格": "城府深、阅历老到",
     "外貌": "白衣中年、头插木簪、佩白鞘长剑、脸色苍白、目光如剑",
-    "结局": "多年后病逝"
+    "结局": "多年后病逝",
+    "存殁": "死亡",
+    "死因": "陨落坠魔谷"
   },
   "observations": {
     "身份": [
@@ -96,6 +99,20 @@
         "seq": 97,
         "note": "闪前交代"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      }
+    ],
+    "死因": [
+      {
+        "value": "陨落坠魔谷",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      }
     ]
   },
   "firstSeq": 1,
@@ -148,6 +165,18 @@
       "dated": false,
       "seq": 97,
       "note": "闪前交代"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+      "dated": false,
+      "seq": 1189
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+      "dated": false,
+      "seq": 1189
     }
   },
   "contested": false,
@@ -160,7 +189,8 @@
     "plot.fanren-ch79-84-luori-feng-siege",
     "plot.fanren-ch85-90-sikexie-doudou",
     "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
-    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan"
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-14T03:09:31.515Z"
+  "updatedAt": "2026-06-20T04:41:50.260Z"
 }

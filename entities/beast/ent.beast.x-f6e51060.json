@@ -13,11 +13,11 @@
   "summary": "传说中的守护神兽，突兀人世代信奉。",
   "attributes": {
     "栖息地": "人界",
-    "等级": "经历十一波化形雷劫",
+    "等级": "八级（未历化形雷劫）、经历十一波化形雷劫、化形（11波化形雷劫）",
     "外形": "数尺高童子",
-    "种族": "天澜兽",
+    "种族": "圣兽、妖族、天澜兽、妖兽",
     "主人": "韩立",
-    "能力": "参悟符箓之道；灵界本体后手"
+    "能力": "辨认真伪、化形人身、通晓灵界天材地宝与功法、参悟符箓之道；灵界本体后手、金色独角可吸入/释放灵力、降下分神、复制功法口诀"
   },
   "observations": {
     "栖息地": [
@@ -48,6 +48,12 @@
         "value": "经历十一波化形雷劫",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "化形（11波化形雷劫）",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189,
+        "note": "本章方化形"
       }
     ],
     "外形": [
@@ -94,6 +100,11 @@
         "value": "天澜兽",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "妖兽",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "主人": [
@@ -124,6 +135,16 @@
         "value": "参悟符箓之道；灵界本体后手",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "金色独角可吸入/释放灵力",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      },
+      {
+        "value": "降下分神、复制功法口诀",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ]
   },
@@ -138,9 +159,9 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
       "dated": false,
-      "seq": 1189
+      "seq": 1159
     },
     "外形": {
       "asOf": null,
@@ -150,9 +171,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 1255
+      "seq": 895
     },
     "主人": {
       "asOf": null,
@@ -163,9 +184,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-ch895-jinpa-yincan",
       "dated": false,
-      "seq": 1255
+      "seq": 895
     }
   },
   "contested": false,
@@ -176,7 +197,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-356-huofu-xiangyi",
-    "plot.fanren-877-882-canglu-bu-wugui-suoshen"
+    "plot.fanren-877-882-canglu-bu-wugui-suoshen",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T09:55:48.343Z"
+  "updatedAt": "2026-06-20T04:41:50.217Z"
 }

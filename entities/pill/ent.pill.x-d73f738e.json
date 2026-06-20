@@ -5,13 +5,26 @@
   "aliases": [],
   "summary": "鬼灵门圣药，专疗躯体损伤，肢体断尽及时服下可重生如初，门中仅余十余颗。",
   "attributes": {
-    "功效": "疗躯体损伤/断肢重生"
+    "功效": "疗躯体损伤/断肢重生、断肢重生",
+    "炼制者": "鬼灵门"
   },
   "observations": {
     "功效": [
       {
         "value": "疗躯体损伤/断肢重生",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "断肢重生",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ]
@@ -23,12 +36,19 @@
       "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
       "dated": false,
       "seq": 1189
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+      "dated": false,
+      "seq": 1189
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.667Z"
+  "updatedAt": "2026-06-20T04:41:50.268Z"
 }

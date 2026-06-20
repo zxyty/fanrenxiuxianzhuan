@@ -15,11 +15,11 @@
   "summary": "燕家约十七八岁的绝色女子,具天灵根资质,被鬼灵门指定嫁与其少门主共修血灵功法。",
   "attributes": {
     "性别": "女",
-    "外貌": "约十七八岁,艳若仙子、绝色少女、绝色娇艳",
+    "外貌": "约十七八岁,艳若仙子、绝色少女、绝色娇艳、二十许岁貌美少妇",
     "标志特征": "天灵根",
     "身份": "燕家女、燕家少女",
-    "阵营": "燕家",
-    "小阶段": "元婴期",
+    "阵营": "鬼灵门",
+    "小阶段": "元婴期、元婴初期",
     "称号": "越国小辈第一女弟子",
     "出身地": "越国"
   },
@@ -46,6 +46,11 @@
         "value": "绝色娇艳",
         "docId": "plot.fanren-ch254-yanjia-laozu",
         "seq": 253
+      },
+      {
+        "value": "二十许岁貌美少妇",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "标志特征": [
@@ -72,12 +77,22 @@
         "value": "燕家",
         "docId": "plot.fanren-ch254-yanjia-laozu",
         "seq": 253
+      },
+      {
+        "value": "鬼灵门",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "小阶段": [
       {
         "value": "元婴期",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ],
@@ -124,9 +139,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch254-yanjia-laozu",
+      "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
       "dated": false,
-      "seq": 253
+      "seq": 1189
     },
     "小阶段": {
       "asOf": null,
@@ -151,7 +166,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch254-yanjia-laozu",
-    "plot.fanren-1190-huajiezhu-jifengjiubian"
+    "plot.fanren-1190-huajiezhu-jifengjiubian",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T07:03:34.650Z"
+  "updatedAt": "2026-06-20T04:41:50.256Z"
 }

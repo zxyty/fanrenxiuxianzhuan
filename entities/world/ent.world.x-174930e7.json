@@ -9,8 +9,8 @@
   "summary": "韩立所处界面，曾遭上古魔界古魔肆虐。",
   "attributes": {
     "层次": "下位界面",
-    "灵气浓度": "稀薄（逊于他界）",
-    "特点": "经魔劫、人族主导"
+    "灵气浓度": "稀薄（逊于他界）、稀薄（远逊其他下界）",
+    "特点": "经魔劫、人族主导、早年经历魔劫（古魔入侵）；人族主导"
   },
   "observations": {
     "层次": [
@@ -35,12 +35,22 @@
         "value": "稀薄（逊于他界）",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
         "seq": 1189
+      },
+      {
+        "value": "稀薄（远逊其他下界）",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
+        "seq": 1189
       }
     ],
     "特点": [
       {
         "value": "经魔劫、人族主导",
         "docId": "plot.fanren-1190-huajiezhu-jifengjiubian",
+        "seq": 1189
+      },
+      {
+        "value": "早年经历魔劫（古魔入侵）；人族主导",
+        "docId": "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
         "seq": 1189
       }
     ]
@@ -81,7 +91,8 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1190-huajiezhu-jifengjiubian",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-16T10:03:55.736Z"
+  "updatedAt": "2026-06-20T04:41:50.229Z"
 }
