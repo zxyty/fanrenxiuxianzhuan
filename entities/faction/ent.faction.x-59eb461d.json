@@ -8,7 +8,8 @@
   "summary": "飞灵族一支，代表高手熬青。",
   "attributes": {
     "阵营": "飞灵族",
-    "据点": "灵界"
+    "据点": "灵界",
+    "理念": "飞灵族第一分支"
   },
   "observations": {
     "阵营": [
@@ -23,6 +24,13 @@
         "value": "灵界",
         "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
+      }
+    ],
+    "理念": [
+      {
+        "value": "飞灵族第一分支",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+        "seq": 1435
       }
     ]
   },
@@ -39,6 +47,12 @@
       "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
       "dated": false,
       "seq": 1429
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+      "dated": false,
+      "seq": 1435
     }
   },
   "contested": false,
@@ -47,7 +61,8 @@
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
     "plot.fanren-1438-yin-zhu-feng",
     "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
-    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+    "plot.fanren-1441-1442-mysterious-mountain-green-shadow"
   ],
-  "updatedAt": "2026-06-20T11:43:45.779Z"
+  "updatedAt": "2026-06-20T11:47:41.033Z"
 }

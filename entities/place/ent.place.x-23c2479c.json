@@ -2,18 +2,26 @@
   "id": "ent.place.x-23c2479c",
   "type": "place",
   "name": "神秘山脉",
-  "aliases": [],
+  "aliases": [
+    "地下山脉"
+  ],
   "summary": "地渊一层深处一片近百年被人以神通『移山』整片挪来的黑色高山，两侧为地渊风带与黑渊飞蚁巢穴，韩立疑其凶险而绕行。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "移来山脉",
-    "危险度": "未知/疑高"
+    "所属界面": "灵界、灵界地渊一层",
+    "类型": "移来山脉、人为移来的山脉",
+    "危险度": "未知/疑高、高（深处藏强大鬼物）",
+    "守护": "未知强大鬼物/阴魂之力"
   },
   "observations": {
     "所属界面": [
       {
         "value": "灵界",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "灵界地渊一层",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
         "seq": 1435
       }
     ],
@@ -22,12 +30,29 @@
         "value": "移来山脉",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "人为移来的山脉",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+        "seq": 1435
       }
     ],
     "危险度": [
       {
         "value": "未知/疑高",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "高（深处藏强大鬼物）",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+        "seq": 1435
+      }
+    ],
+    "守护": [
+      {
+        "value": "未知强大鬼物/阴魂之力",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
         "seq": 1435
       }
     ]
@@ -51,12 +76,19 @@
       "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
       "seq": 1435
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+      "dated": false,
+      "seq": 1435
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1441-1442-mysterious-mountain-green-shadow"
   ],
-  "updatedAt": "2026-06-16T16:33:50.664Z"
+  "updatedAt": "2026-06-20T11:47:41.023Z"
 }

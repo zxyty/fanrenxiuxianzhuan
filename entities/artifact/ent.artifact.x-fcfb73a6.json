@@ -4,14 +4,15 @@
   "name": "飞车",
   "aliases": [
     "三角灵车",
-    "土黄色飞车"
+    "土黄色飞车",
+    "三角飞车"
   ],
   "summary": "灵木炼制、布满法阵的飞行宝物，可起乳白光罩隐形提速；缺陷为需高阶木属性灵石驱动、耗费大且防御极差。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "隐匿、高速飞行",
+    "能力": "隐匿、高速飞行、飞遁、隐匿禁制",
     "禁制": "隐匿光罩",
-    "外形": "前窄后宽土黄色飞车，七八丈大"
+    "外形": "前窄后宽土黄色飞车，七八丈大、三角形"
   },
   "observations": {
     "持有者": [
@@ -31,6 +32,16 @@
         "value": "高速飞行",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "飞遁",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+        "seq": 1435
+      },
+      {
+        "value": "隐匿禁制",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
+        "seq": 1435
       }
     ],
     "禁制": [
@@ -44,6 +55,11 @@
       {
         "value": "前窄后宽土黄色飞车，七八丈大",
         "docId": "plot.fanren-1438-yin-zhu-feng",
+        "seq": 1435
+      },
+      {
+        "value": "三角形",
+        "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
         "seq": 1435
       }
     ]
@@ -78,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1438-yin-zhu-feng"
+    "plot.fanren-1438-yin-zhu-feng",
+    "plot.fanren-1441-1442-mysterious-mountain-green-shadow"
   ],
-  "updatedAt": "2026-06-16T16:33:50.661Z"
+  "updatedAt": "2026-06-20T11:47:41.030Z"
 }
