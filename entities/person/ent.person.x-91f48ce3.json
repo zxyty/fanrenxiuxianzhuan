@@ -18,17 +18,19 @@
     "木青美妇",
     "叶青",
     "木青女子",
-    "木青鬼婆"
+    "木青鬼婆",
+    "木青前辈",
+    "金花黑影女子"
   ],
   "summary": "大计四方之一，负责搜集血食祭祀。",
   "attributes": {
     "身份": "搜集血食祭祀、地渊势力主、妖物巢穴主人、妖王/家主、四大妖王之一、地渊妖王、木精洞主人、妖王、外界进入冥河之地的前辈修士、金灵之主、大计同盟者、地渊三层势力首脑",
     "性别": "女",
-    "外貌": "身形模糊黑影、黑光笼罩,透出翠绿、身材高挑、面容秀丽、身负绿光、宛若草木仙灵的女子",
+    "外貌": "身形模糊黑影、黑光笼罩,透出翠绿、身材高挑、面容秀丽、身负绿光、宛若草木仙灵的女子、黑光笼罩、透出翠绿",
     "种族": "木灵凝形之体、妖族、木灵之妖、地渊妖物、蜉蝣族、木属性妖族、木妖",
-    "小阶段": "合体级以上",
+    "小阶段": "合体级、合体期、合体级以上、合体",
     "称号": "木仙子",
-    "标志特征": "精纯木灵力、血红圆珠化血色火雷、金色巨花/金灿灿巨轮、腰下可化树木之躯、树根扎地、足踩金花、肌肤可化翠绿、翠绿小树/青丝灵丝、绿濛濛人影、化绿虹、青木之身、木遁、木系大阵、本体为半荣半枯、通体乌黑的巨大松树",
+    "标志特征": "精纯木灵力、血红圆珠化血色火雷、金色巨花/金灿灿巨轮、腰下可化树木之躯、树根扎地、足踩金花、肌肤可化翠绿、翠绿小树/青丝灵丝、绿濛濛人影、化绿虹、青木之身、木遁、木系大阵、本体为半荣半枯、通体乌黑的巨大松树、精纯木灵力、坐金色巨花",
     "阵营": "妖族夺宝一方",
     "性格": "老谋深算、警惕"
   },
@@ -72,7 +74,7 @@
       {
         "value": "妖王",
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
-        "seq": 1471
+        "seq": 1453
       },
       {
         "value": "外界进入冥河之地的前辈修士",
@@ -124,6 +126,12 @@
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501,
         "note": "化形/本相为灵木"
+      },
+      {
+        "value": "黑光笼罩、透出翠绿",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453,
+        "note": "明清灵目亦难看清"
       }
     ],
     "种族": [
@@ -179,6 +187,11 @@
         "value": "合体级以上",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "称号": [
@@ -238,6 +251,11 @@
         "value": "本体为半荣半枯、通体乌黑的巨大松树",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "精纯木灵力、坐金色巨花",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "阵营": [
@@ -294,9 +312,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-1457-taodun-didi-escape",
       "dated": false,
-      "seq": 1513
+      "seq": 1453
     },
     "称号": {
       "asOf": null,
@@ -338,7 +356,8 @@
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1443-1444-diyuan-shenceng-weiji",
-    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-20T12:08:11.196Z"
+  "updatedAt": "2026-06-20T12:11:10.187Z"
 }

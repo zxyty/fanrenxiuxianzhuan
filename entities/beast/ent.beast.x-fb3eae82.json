@@ -6,16 +6,17 @@
     "蛟首妖物",
     "儒生模样血蛟",
     "血前辈",
-    "蛟首人身妖物"
+    "蛟首人身妖物",
+    "蛟首人身血色妖物"
   ],
   "summary": "木青手下高阶灵帅级血蛟，蛟首人身、头颅鲜红暴虐，以天罡血雷杀飞灵圣子。",
   "attributes": {
-    "种族": "血蛟",
+    "种族": "血蛟（蛟龙）",
     "等级": "高阶灵帅级、高阶灵帅",
     "主人": "木青",
-    "外形": "蛟首人身、头颅鲜红",
+    "外形": "蛟首人身／可化中年儒生",
     "栖息地": "地渊",
-    "能力": "天罡血雷"
+    "能力": "血河冥针"
   },
   "observations": {
     "种族": [
@@ -23,6 +24,11 @@
         "value": "血蛟",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "血蛟（蛟龙）",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "等级": [
@@ -49,6 +55,11 @@
         "value": "蛟首人身、头颅鲜红",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "蛟首人身／可化中年儒生",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "栖息地": [
@@ -63,6 +74,11 @@
         "value": "天罡血雷",
         "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
+      },
+      {
+        "value": "血河冥针",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ]
   },
@@ -70,9 +86,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
       "dated": false,
-      "seq": 1447
+      "seq": 1453
     },
     "等级": {
       "asOf": null,
@@ -88,9 +104,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
       "dated": false,
-      "seq": 1447
+      "seq": 1453
     },
     "栖息地": {
       "asOf": null,
@@ -100,9 +116,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
       "dated": false,
-      "seq": 1447
+      "seq": 1453
     }
   },
   "contested": false,
@@ -110,7 +126,8 @@
   "docs": [
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
     "plot.fanren-1457-taodun-didi-escape",
-    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-20T12:08:11.198Z"
+  "updatedAt": "2026-06-20T12:11:10.188Z"
 }

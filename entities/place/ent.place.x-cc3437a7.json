@@ -3,12 +3,13 @@
   "type": "place",
   "name": "黑雾林",
   "aliases": [
-    "地渊三层黑雾林"
+    "地渊三层黑雾林",
+    "黑雾密林"
   ],
   "summary": "地渊三层被阴雾笼罩之密林，传说入者不出，实为木青布下禁制的妖物巢穴所在。",
   "attributes": {
-    "所属界面": "地渊",
-    "类型": "妖物巢穴",
+    "所属界面": "地渊、灵界·地渊",
+    "类型": "妖物巢穴、密林",
     "危险度": "高",
     "守护": "木青禁制"
   },
@@ -18,12 +19,22 @@
         "value": "地渊",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "灵界·地渊",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "类型": [
       {
         "value": "妖物巢穴",
         "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "密林",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
         "seq": 1453
       }
     ],
@@ -72,7 +83,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-16T17:08:35.974Z"
+  "updatedAt": "2026-06-20T12:11:10.208Z"
 }

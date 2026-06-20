@@ -2,11 +2,13 @@
   "id": "ent.formation.x-ad2c39c2",
   "type": "formation",
   "name": "冥河禁制",
-  "aliases": [],
+  "aliases": [
+    "冥河禁制结界"
+  ],
   "summary": "封禁『冥河之地』的厉害禁制，四大妖王欲借辟邪神雷狂击破之。",
   "attributes": {
-    "效果": "封禁冥河之地",
-    "破解法": "辟邪神雷狂击"
+    "效果": "封禁冥河之地、护卫冥河之地",
+    "破解法": "辟邪神雷狂击、八千玄鬼与上万傀儡冲开冥河群鬼、辟邪神雷破除冥魔之气"
   },
   "observations": {
     "效果": [
@@ -14,12 +16,27 @@
         "value": "封禁冥河之地",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "护卫冥河之地",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "破解法": [
       {
         "value": "辟邪神雷狂击",
         "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "八千玄鬼与上万傀儡冲开冥河群鬼",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
+      },
+      {
+        "value": "辟邪神雷破除冥魔之气",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
         "seq": 1453
       }
     ]
@@ -42,7 +59,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-16T17:08:36.010Z"
+  "updatedAt": "2026-06-20T12:11:10.207Z"
 }

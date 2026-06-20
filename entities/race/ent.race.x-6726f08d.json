@@ -2,10 +2,12 @@
   "id": "ent.race.x-6726f08d",
   "type": "race",
   "name": "邪龙族",
-  "aliases": [],
+  "aliases": [
+    "邪龙"
+  ],
   "summary": "上古曾称霸灵界之族，几乎将灵界金雷竹及其拥有者灭杀殆尽。",
   "attributes": {
-    "特性": "上古霸主、上古大族,受辟邪神雷克制",
+    "特性": "上古霸主、上古大族,受辟邪神雷克制、上古霸主、克于辟邪神雷",
     "天敌": "辟邪神雷"
   },
   "observations": {
@@ -18,6 +20,11 @@
       {
         "value": "上古大族,受辟邪神雷克制",
         "docId": "plot.fanren-1457-taodun-didi-escape",
+        "seq": 1453
+      },
+      {
+        "value": "上古霸主、克于辟邪神雷",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
         "seq": 1453
       }
     ],
@@ -47,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-16T17:08:36.012Z"
+  "updatedAt": "2026-06-20T12:11:10.210Z"
 }

@@ -14,9 +14,10 @@
     "种族": "天鹏族",
     "性别": "女",
     "阵营": "韩立一行、飞灵族、夜绿族",
-    "身份": "飞灵族圣子、圣子、夜绿族圣子",
+    "身份": "飞灵族圣子、圣子、夜绿族圣子、飞灵人",
     "称号": "中阶灵将",
-    "外貌": "背生白翅、头生翠绿小角"
+    "外貌": "背生白翅、头生翠绿小角",
+    "小阶段": "灵将"
   },
   "observations": {
     "种族": [
@@ -75,6 +76,11 @@
         "value": "夜绿族圣子",
         "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
+      },
+      {
+        "value": "飞灵人",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "称号": [
@@ -89,6 +95,13 @@
         "value": "背生白翅、头生翠绿小角",
         "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "灵将",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ]
   },
@@ -129,6 +142,12 @@
       "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
       "dated": false,
       "seq": 1441
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+      "dated": false,
+      "seq": 1453
     }
   },
   "contested": false,
@@ -138,7 +157,8 @@
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
     "plot.fanren-1457-taodun-didi-escape",
     "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
-    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-20T12:08:11.216Z"
+  "updatedAt": "2026-06-20T12:11:10.200Z"
 }

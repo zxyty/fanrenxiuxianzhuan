@@ -9,8 +9,8 @@
   "attributes": {
     "性别": "男",
     "种族": "天鹏族、飞灵族、飞灵人、飞灵族·天鹏族",
-    "小阶段": "初阶灵将",
-    "身份": "天鹏族圣子、圣子、飞灵族圣子",
+    "小阶段": "灵将",
+    "身份": "天鹏族圣子、圣子、飞灵族圣子、飞灵人",
     "标志特征": "掐诀生淡金色丝芒",
     "性格": "潇洒温和,如沐春风、温和潇洒",
     "外貌": "眉清目亮",
@@ -56,6 +56,11 @@
         "value": "初阶灵将",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "灵将",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "身份": [
@@ -73,6 +78,11 @@
         "value": "飞灵族圣子",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "飞灵人",
+        "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+        "seq": 1453
       }
     ],
     "标志特征": [
@@ -145,9 +155,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
       "dated": false,
-      "seq": 1435
+      "seq": 1453
     },
     "身份": {
       "asOf": null,
@@ -197,7 +207,8 @@
     "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
     "plot.fanren-1443-1444-diyuan-shenceng-weiji",
     "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
-    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
   ],
-  "updatedAt": "2026-06-20T12:08:11.215Z"
+  "updatedAt": "2026-06-20T12:11:10.199Z"
 }

@@ -585,3 +585,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T11:49:43.756Z** `ingest` plot.fanren-1443-1444-diyuan-shenceng-weiji — 第1443-1444章 危机·地渊深层——韩立三人穿越地渊，血袍人觊觎其精魂 · kind=plot asOf=2026-06-20 entities=19 relations=22 src=01435-01440.p3.md
 - **2026-06-20T12:00:51.732Z** `ingest` plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha — 凡人修仙传 第1441-1446章｜地渊试炼：霹雳灭黄风族、冰煞之地与万藤道 · kind=plot asOf=2026-06-20 entities=42 relations=56 src=01441-01446.md
 - **2026-06-20T12:08:11.408Z** `ingest` plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance — 凡人修仙传 第1447-1452章｜血傀儡、豹麟兽进阶化神、地血借血蛟猎杀飞灵人 · kind=plot asOf=2026-06-20 entities=36 relations=51 src=01447-01452.md
+- **2026-06-20T12:11:10.361Z** `ingest` plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei — 凡人修仙传 第1457-1462章｜韩立逃遁被擒·木青图谋辟邪神雷 · kind=plot asOf=2026-06-20 entities=24 relations=24 src=01453-01458.md
