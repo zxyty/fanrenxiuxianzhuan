@@ -13,8 +13,8 @@
   "attributes": {
     "小阶段": "化神",
     "性别": "男",
-    "外貌": "六十余岁、三角发髻、长马脸、马脸老者、六十余岁老者、三角发髻、长马脸",
-    "性格": "好奇贪心、冷笑多疑",
+    "外貌": "六十余岁、三角发髻、长马脸、马脸老者、六十余岁老者、三角发髻、长马脸、马脸苍老老者",
+    "性格": "自持身高、性子火爆、好奇贪心、冷笑多疑、贪婪、计较、好清静",
     "寿元": "已亏损数年",
     "身份": "化神修士",
     "阵营": "大晋",
@@ -73,6 +73,11 @@
         "value": "长马脸",
         "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
         "seq": 1225
+      },
+      {
+        "value": "马脸苍老老者",
+        "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+        "seq": 1231
       }
     ],
     "性格": [
@@ -85,6 +90,16 @@
         "value": "好奇贪心、冷笑多疑",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      },
+      {
+        "value": "贪婪、计较",
+        "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+        "seq": 1231
+      },
+      {
+        "value": "好清静",
+        "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+        "seq": 1231
       }
     ],
     "寿元": [
@@ -161,9 +176,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
       "dated": false,
-      "seq": 1237
+      "seq": 1225
     },
     "寿元": {
       "asOf": null,
@@ -219,7 +234,8 @@
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-ch1033-pozhen-tuokun",
-    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai"
+    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
+    "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo"
   ],
-  "updatedAt": "2026-06-20T06:06:09.343Z"
+  "updatedAt": "2026-06-20T06:13:48.712Z"
 }

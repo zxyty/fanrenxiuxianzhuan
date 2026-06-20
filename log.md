@@ -544,3 +544,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T06:00:57.012Z** `ingest` plot.fanren-1226-jingang-hanli-vs-yuanzhi — 第1226章 金刚：韩立天机殿切磋击败雷音宗元智和尚 · kind=plot asOf=2026-06-20 entities=31 relations=31 src=01225-01230.p1.md
 - **2026-06-20T06:03:44.708Z** `ingest` plot.hanli-slays-yinluo-zongzhu-ch1229 — 第1229-1230章 斩杀大修·图谋阴罗 · kind=plot asOf=2026-06-20 entities=25 relations=26 src=01225-01230.p2.md
 - **2026-06-20T06:06:09.488Z** `ingest` plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai — 第1231-1232章 雷震子与灭仙珠·血洗阴罗宗·化神风老怪追杀 · kind=plot asOf=2026-06-20 entities=19 relations=17 src=01225-01230.p3.md
+- **2026-06-20T06:13:48.854Z** `ingest` plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo — 凡人修仙传 第1231-1236章｜再见向之礼·与化神修士合作·魔陀山 · kind=plot asOf=2026-06-20 entities=29 relations=39 src=01231-01236.md

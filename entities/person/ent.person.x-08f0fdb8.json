@@ -20,9 +20,10 @@
     "外貌": "面带病容的木冠老者、微黄面孔的木冠老者、木冠老者",
     "阵营": "魔道",
     "性别": "男",
-    "标志特征": "好女色、怒时面浮黑气、双目转红、不动唇隐秘传音术",
+    "标志特征": "好女色、怒时面浮黑气、双目转红、不动唇隐秘传音术、动怒时面浮黑气、双目转红现寒芒",
     "寿元": "尚可再活三四百年",
-    "存殁": "存疑"
+    "存殁": "存疑",
+    "性格": "好女色、阴狠多疑"
   },
   "observations": {
     "小阶段": [
@@ -107,6 +108,11 @@
         "value": "不动唇隐秘传音术",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "动怒时面浮黑气、双目转红现寒芒",
+        "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+        "seq": 1231
       }
     ],
     "寿元": [
@@ -122,6 +128,13 @@
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249,
         "note": "元神灯灭，或升灵界或陨落"
+      }
+    ],
+    "性格": [
+      {
+        "value": "好女色、阴狠多疑",
+        "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+        "seq": 1231
       }
     ]
   },
@@ -181,6 +194,12 @@
       "dated": false,
       "seq": 1249,
       "note": "元神灯灭，或升灵界或陨落"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+      "dated": false,
+      "seq": 1231
     }
   },
   "contested": false,
@@ -189,7 +208,8 @@
     "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo"
   ],
-  "updatedAt": "2026-06-16T09:47:06.177Z"
+  "updatedAt": "2026-06-20T06:13:48.711Z"
 }
