@@ -10,8 +10,9 @@
   "summary": "炼虚修士，金胖子之师；本章以度劫分魂现身（淡金道袍、背插迷你木剑、面孔光濛濛），追寻千宝上人遗宝。",
   "attributes": {
     "小阶段": "炼虚",
-    "外貌": "半尺高金色小人、淡金道袍、背插迷你木剑、面孔光濛濛",
-    "标志特征": "身高尺许金色小人、御木剑"
+    "外貌": "身高尺许金色小人",
+    "标志特征": "身高尺许金色小人、御木剑",
+    "性格": "老奸巨猾"
   },
   "observations": {
     "小阶段": [
@@ -27,6 +28,12 @@
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333,
         "note": "度劫分魂之身"
+      },
+      {
+        "value": "身高尺许金色小人",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+        "seq": 1339,
+        "note": "度劫分魂/化身"
       }
     ],
     "标志特征": [
@@ -38,6 +45,13 @@
       {
         "value": "身高尺许金色小人、御木剑",
         "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      }
+    ],
+    "性格": [
+      {
+        "value": "老奸巨猾",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
         "seq": 1339
       }
     ]
@@ -52,14 +66,20 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
       "dated": false,
-      "seq": 1333,
-      "note": "度劫分魂之身"
+      "seq": 1339,
+      "note": "度劫分魂/化身"
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1341-leipao-xianshi",
+      "dated": false,
+      "seq": 1339
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
       "dated": false,
       "seq": 1339
     }
@@ -68,7 +88,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1339-1344-leipao-shenmi-kongjian"
   ],
-  "updatedAt": "2026-06-16T13:09:39.516Z"
+  "updatedAt": "2026-06-20T09:24:54.913Z"
 }

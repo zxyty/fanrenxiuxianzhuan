@@ -8,7 +8,8 @@
   "summary": "被上古修士禁制囚于光门后空间的魔物，连炼虚修士也避之不及；脱困后随空间塌陷，仅一只魔爪（骨手）残存被韩立炼为死物。",
   "attributes": {
     "外形": "洁白如玉、灵压惊人的骨爪",
-    "栖息地": "光门后封闭空间"
+    "栖息地": "光门后封闭空间、上古禁制秘境",
+    "能力": "凄厉尖叫令血液沸腾、巨大骨爪灵压惊人"
   },
   "observations": {
     "外形": [
@@ -22,6 +23,23 @@
       {
         "value": "光门后封闭空间",
         "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "上古禁制秘境",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+        "seq": 1339
+      }
+    ],
+    "能力": [
+      {
+        "value": "凄厉尖叫令血液沸腾",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+        "seq": 1339
+      },
+      {
+        "value": "巨大骨爪灵压惊人",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
         "seq": 1339
       }
     ]
@@ -39,12 +57,19 @@
       "docId": "plot.fanren-1341-leipao-xianshi",
       "dated": false,
       "seq": 1339
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+      "dated": false,
+      "seq": 1339
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1341-leipao-xianshi"
+    "plot.fanren-1341-leipao-xianshi",
+    "plot.fanren-1339-1344-leipao-shenmi-kongjian"
   ],
-  "updatedAt": "2026-06-16T13:09:39.518Z"
+  "updatedAt": "2026-06-20T09:24:54.915Z"
 }

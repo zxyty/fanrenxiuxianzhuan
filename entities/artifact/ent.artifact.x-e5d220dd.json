@@ -6,14 +6,15 @@
     "金银色长袍",
     "金银两色长袍",
     "雷袍杀手锏",
-    "金银色电弧雷袍"
+    "金银色电弧雷袍",
+    "雷纹之袍"
   ],
   "summary": "韩立以雷纹与虚天鼎中大半天雷凝炼的金银色长袍，凝聚十余种雷纹符号，可同时激发作杀手锏，平日外披青袍遮蔽。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "金银两色长袍、金银符文若隐若现",
+    "外形": "金银两色长袍、金银符文若隐若现、金银两色符文若隐若现的长袍",
     "能力": "金银色电弧防护",
-    "来历": "本章以雷纹凝炼成功",
+    "来历": "本章以雷纹凝炼成功、用辟邪神雷及虚天鼎所收金银天雷凝炼",
     "五行属性": "雷"
   },
   "observations": {
@@ -28,6 +29,11 @@
       {
         "value": "金银两色长袍、金银符文若隐若现",
         "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "金银两色符文若隐若现的长袍",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
         "seq": 1339
       }
     ],
@@ -47,6 +53,11 @@
       {
         "value": "本章以雷纹凝炼成功",
         "docId": "plot.fanren-1341-leipao-xianshi",
+        "seq": 1339
+      },
+      {
+        "value": "用辟邪神雷及虚天鼎所收金银天雷凝炼",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
         "seq": 1339
       }
     ],
@@ -95,7 +106,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1341-leipao-xianshi",
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1339-1344-leipao-shenmi-kongjian"
   ],
-  "updatedAt": "2026-06-16T16:49:29.687Z"
+  "updatedAt": "2026-06-20T09:24:54.859Z"
 }

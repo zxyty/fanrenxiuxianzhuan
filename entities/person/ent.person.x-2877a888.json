@@ -15,10 +15,11 @@
   "attributes": {
     "种族": "蛟龙、蛟、蛟龙(妖)",
     "身份": "翁姓汉子之师",
-    "外貌": "尺许大、通体翠绿如翡翠的蛟龙",
+    "外貌": "翡翠小蛟/巨大绿蛟",
     "小阶段": "炼虚",
     "标志特征": "断一角、紫雷独角",
-    "阵营": "妖族"
+    "阵营": "妖族",
+    "性格": "狡诈"
   },
   "observations": {
     "种族": [
@@ -51,6 +52,12 @@
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315,
         "note": "本章为分身现身"
+      },
+      {
+        "value": "翡翠小蛟/巨大绿蛟",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+        "seq": 1339,
+        "note": "本尊化身"
       }
     ],
     "小阶段": [
@@ -79,6 +86,13 @@
         "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
       }
+    ],
+    "性格": [
+      {
+        "value": "狡诈",
+        "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+        "seq": 1339
+      }
     ]
   },
   "firstSeq": 1315,
@@ -97,10 +111,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
       "dated": false,
-      "seq": 1315,
-      "note": "本章为分身现身"
+      "seq": 1339,
+      "note": "本尊化身"
     },
     "小阶段": {
       "asOf": null,
@@ -119,6 +133,12 @@
       "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
       "dated": false,
       "seq": 1315
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1339-1344-leipao-shenmi-kongjian",
+      "dated": false,
+      "seq": 1339
     }
   },
   "contested": false,
@@ -126,7 +146,8 @@
   "docs": [
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
     "plot.fanren-1341-leipao-xianshi",
-    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+    "plot.fanren-1339-1344-leipao-shenmi-kongjian"
   ],
-  "updatedAt": "2026-06-20T08:42:30.707Z"
+  "updatedAt": "2026-06-20T09:24:54.910Z"
 }
