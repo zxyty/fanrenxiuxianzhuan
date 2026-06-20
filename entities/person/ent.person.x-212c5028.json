@@ -5,14 +5,15 @@
   "aliases": [
     "卓贤侄",
     "黑甲修士",
-    "卓兄"
+    "卓兄",
+    "双目碧绿的大汉"
   ],
   "summary": "天渊城黑甲守卫，元婴后期大成，奉命带韩立去飞灵殿安顿。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴后期",
-    "身份": "天渊城黑甲守卫",
-    "标志特征": "碧绿双目",
+    "身份": "天渊城黑甲守卫、黑铁卫",
+    "标志特征": "碧绿双目、双目碧绿",
     "阵营": "人族"
   },
   "observations": {
@@ -40,6 +41,11 @@
         "value": "天渊城黑甲守卫",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
         "seq": 1309
+      },
+      {
+        "value": "黑铁卫",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "标志特征": [
@@ -47,13 +53,18 @@
         "value": "碧绿双目",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
         "seq": 1309
+      },
+      {
+        "value": "双目碧绿",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "阵营": [
       {
         "value": "天渊城",
         "docId": "plot.fanren-1323-xuantian-fruit",
-        "seq": 1321
+        "seq": 1309
       },
       {
         "value": "人族",
@@ -100,7 +111,8 @@
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1323-xuantian-fruit",
-    "plot.fanren-1327-1332-tianyuan-fangshi"
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T12:39:22.058Z"
+  "updatedAt": "2026-06-20T08:28:59.756Z"
 }

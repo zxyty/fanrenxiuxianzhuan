@@ -8,8 +8,9 @@
   "summary": "天渊城所辖山脉，原属元婴、近划归化神，灵气最薄但洞府稀疏、灵地范围极广（可独占方圆万里）；韩立选地于此，引发与翁姓汉子之争。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "灵地山脉",
-    "特产": "范围广大但灵气稀薄"
+    "类型": "灵脉山脉、灵地山脉、化神灵地",
+    "特产": "范围广大但灵气稀薄",
+    "危险度": "灵气稀薄、范围广大"
   },
   "observations": {
     "所属势力": [
@@ -29,12 +30,24 @@
         "value": "灵地山脉",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "化神灵地",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "特产": [
       {
         "value": "范围广大但灵气稀薄",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      }
+    ],
+    "危险度": [
+      {
+        "value": "灵气稀薄、范围广大",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ]
@@ -49,13 +62,19 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
-      "seq": 1315
+      "seq": 1309
     },
     "特产": {
       "asOf": null,
       "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "dated": false,
+      "seq": 1309
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
       "seq": 1309
     }
@@ -64,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T12:14:21.144Z"
+  "updatedAt": "2026-06-20T08:28:59.768Z"
 }

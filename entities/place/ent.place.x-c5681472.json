@@ -10,11 +10,11 @@
   ],
   "summary": "凶险之地,寰苍奇邀黄粱灵君联手再闯以寻度大天劫之宝。",
   "attributes": {
-    "所属界面": "灵界",
+    "所属界面": "灵界外域",
     "类型": "凶险蛮荒之地",
     "危险度": "极高",
     "守护": "百目巨人等蛮荒存在",
-    "特产": "逆天级天材地宝"
+    "特产": "奇珍材料"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +22,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "灵界外域",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "类型": [
@@ -60,6 +65,11 @@
         "value": "逆天级天材地宝",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      },
+      {
+        "value": "奇珍材料",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ]
   },
@@ -67,9 +77,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
-      "seq": 1297
+      "seq": 1309
     },
     "类型": {
       "asOf": null,
@@ -91,9 +101,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
-      "seq": 1291
+      "seq": 1309
     }
   },
   "contested": false,
@@ -108,7 +118,8 @@
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-ch1359-shuanghuang-appears",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
-    "plot.fanren-1305-juren-zhi-zhan"
+    "plot.fanren-1305-juren-zhi-zhan",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-20T08:26:29.780Z"
+  "updatedAt": "2026-06-20T08:28:59.769Z"
 }

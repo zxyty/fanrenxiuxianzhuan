@@ -3,12 +3,14 @@
   "type": "person",
   "name": "金姓胖子",
   "aliases": [
-    "员外胖子"
+    "员外胖子",
+    "员外打扮的胖子"
   ],
   "summary": "化神后期修士，以四千年火候银仙芝作供奉，选中翠泷山最佳灵地。",
   "attributes": {
     "小阶段": "化神后期",
-    "外貌": "员外打扮、肥硕"
+    "外貌": "员外打扮、肥硕、员外打扮胖子",
+    "阵营": "天渊城"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +24,18 @@
       {
         "value": "员外打扮、肥硕",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "员外打扮胖子",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ]
@@ -39,12 +53,19 @@
       "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
       "seq": 1309
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T11:55:47.509Z"
+  "updatedAt": "2026-06-20T08:28:59.761Z"
 }

@@ -12,9 +12,11 @@
   "summary": "化神修士，初代飞升修士的二代嫡系，主动向韩立透露天渊城与飞升修士内情。",
   "attributes": {
     "性别": "男",
-    "小阶段": "化神",
-    "身份": "初代飞升修士二代嫡系、青冥卫小头目、天渊城金卫属下",
-    "外貌": "青面白发、青面、青面白发、似五六十岁"
+    "小阶段": "化神、化神期",
+    "身份": "初代飞升修士二代嫡系、青冥卫小头目、天渊城金卫属下、青冥卫",
+    "外貌": "青面白发、青面、青面白发、似五六十岁、满头白发、脸色泛青",
+    "阵营": "天渊城",
+    "出身地": "初代飞升修士二代嫡系"
   },
   "observations": {
     "性别": [
@@ -28,6 +30,11 @@
       {
         "value": "化神",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ],
@@ -46,6 +53,11 @@
         "value": "天渊城金卫属下",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "青冥卫",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "外貌": [
@@ -63,6 +75,25 @@
         "value": "青面白发、似五六十岁",
         "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
         "seq": 1387
+      },
+      {
+        "value": "满头白发、脸色泛青",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "出身地": [
+      {
+        "value": "初代飞升修士二代嫡系",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ]
   },
@@ -91,13 +122,26 @@
       "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
       "seq": 1309
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
-    "plot.fanren-1387-1392-julji-tushan-zhentu"
+    "plot.fanren-1387-1392-julji-tushan-zhentu",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T14:59:17.625Z"
+  "updatedAt": "2026-06-20T08:28:59.755Z"
 }

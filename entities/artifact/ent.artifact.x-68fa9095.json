@@ -3,12 +3,15 @@
   "type": "artifact",
   "name": "金庭舟",
   "aliases": [
-    "金舟"
+    "金舟",
+    "四方金舟"
   ],
   "summary": "天渊卫所用赤金传送飞舟，通体铭刻银蝌文，自带凭空传送法阵，以高阶灵石连续传送。",
   "attributes": {
-    "外形": "四方赤金金舟，遍布淡银色银蝌文",
-    "能力": "凭空传送"
+    "外形": "四方赤金金舟，遍布淡银色银蝌文、五六丈赤金四方舟、密布银蝌文",
+    "能力": "凭空传送、凭空远程传送(高阶灵石)",
+    "持有者": "天渊卫",
+    "禁制": "中心黄色光罩"
   },
   "observations": {
     "外形": [
@@ -16,12 +19,36 @@
         "value": "四方赤金金舟，遍布淡银色银蝌文",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
         "seq": 1309
+      },
+      {
+        "value": "五六丈赤金四方舟、密布银蝌文",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "能力": [
       {
         "value": "凭空传送",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "凭空远程传送(高阶灵石)",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "持有者": [
+      {
+        "value": "天渊卫",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "禁制": [
+      {
+        "value": "中心黄色光罩",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ]
@@ -39,12 +66,25 @@
       "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
       "seq": 1309
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T11:55:47.482Z"
+  "updatedAt": "2026-06-20T08:28:59.771Z"
 }

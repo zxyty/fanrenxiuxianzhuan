@@ -10,8 +10,8 @@
   "summary": "炼虚期修士，初见为金甲、再见作儒生装扮，为韩立申请并安排青冥卫身份与丙五十六队。",
   "attributes": {
     "小阶段": "炼虚",
-    "身份": "金甲修士、天卫、天渊城天卫、飞升修士、天渊城前辈/任务发布者",
-    "外貌": "白面无须中年",
+    "身份": "金甲修士、天卫、天渊城天卫、飞升修士、天渊城前辈/任务发布者、天渊卫(金甲)",
+    "外貌": "白面无须、白面无须中年、三十许岁面白无须，后改儒生装扮",
     "性格": "冷厉",
     "阵营": "天渊城"
   },
@@ -53,6 +53,11 @@
         "value": "天渊城前辈/任务发布者",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "天渊卫(金甲)",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "外貌": [
@@ -65,6 +70,11 @@
         "value": "白面无须中年",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "三十许岁面白无须，后改儒生装扮",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "性格": [
@@ -78,7 +88,7 @@
       {
         "value": "天渊城",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
-        "seq": 1345
+        "seq": 1309
       }
     ]
   },
@@ -98,9 +108,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
-      "seq": 1345
+      "seq": 1309
     },
     "性格": {
       "asOf": null,
@@ -112,7 +122,7 @@
       "asOf": null,
       "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
       "dated": false,
-      "seq": 1345
+      "seq": 1309
     }
   },
   "contested": false,
@@ -121,7 +131,8 @@
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1341-leipao-xianshi",
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T14:02:15.363Z"
+  "updatedAt": "2026-06-20T08:28:59.752Z"
 }

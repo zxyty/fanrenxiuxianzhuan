@@ -6,7 +6,7 @@
   "summary": "天渊城所辖灵脉山脉，灵气次于翠泷山，亦有不少适合化神的灵地。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "灵脉山脉"
+    "类型": "灵脉山脉、化神灵地"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +20,11 @@
       {
         "value": "灵脉山脉",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "化神灵地",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T11:55:47.514Z"
+  "updatedAt": "2026-06-20T08:28:59.767Z"
 }

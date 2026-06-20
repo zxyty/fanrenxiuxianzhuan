@@ -13,11 +13,12 @@
   "summary": "化神初期修士，翡翠蛟龙之徒；奉师命争夺灵地，约战韩立，欲借此进阶炼虚。",
   "attributes": {
     "性别": "男",
-    "小阶段": "化神初期、元婴",
+    "小阶段": "化神初期、元婴、化神中期",
     "标志特征": "吊眉、亲手祭炼蓝晶沙(蓝沙)灵宝、持黎金沙断金法轮",
     "身份": "翡翠蛟龙之徒",
     "外貌": "吊眉",
-    "阵营": "玉阙阁一方、韩立之敌"
+    "阵营": "玉阙阁一方、韩立之敌、天渊城",
+    "性格": "凶恶傲然"
   },
   "observations": {
     "性别": [
@@ -37,6 +38,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "化神中期",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "标志特征": [
@@ -63,6 +69,11 @@
         "value": "吊眉",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "蓝袍头扎额带、双眉倒吊",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "阵营": [
@@ -75,10 +86,22 @@
         "value": "韩立之敌",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
+      }
+    ],
+    "性格": [
+      {
+        "value": "凶恶傲然",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ]
   },
-  "firstSeq": 1315,
+  "firstSeq": 1309,
   "attrProvenance": {
     "性别": {
       "asOf": null,
@@ -88,9 +111,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
-      "seq": 1315
+      "seq": 1309
     },
     "标志特征": {
       "asOf": null,
@@ -112,15 +135,22 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
-      "seq": 1315
+      "seq": 1309
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+      "dated": false,
+      "seq": 1309
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-16T12:14:21.108Z"
+  "updatedAt": "2026-06-20T08:28:59.759Z"
 }

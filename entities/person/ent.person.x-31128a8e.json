@@ -9,14 +9,15 @@
     "烈火道友",
     "烈火",
     "焦师叔",
-    "紫袍方脸大汉"
+    "紫袍方脸大汉",
+    "方脸紫袍大汉"
   ],
   "summary": "百巧院大长老，元婴中期，与金老怪一同被韩立压服。",
   "attributes": {
     "性别": "男",
     "小阶段": "炼虚初期",
-    "阵营": "百巧院",
-    "身份": "玉阙阁二层执掌",
+    "阵营": "天渊城",
+    "身份": "百巧院大长老、百巧院修士、玉阙阁二层执掌、玉阙阁管事",
     "外貌": "方脸紫袍",
     "存殁": "死亡(被焚毁)",
     "死因": "被黑凤族妖女以黑火焚化",
@@ -47,6 +48,11 @@
         "value": "百巧院",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
         "seq": 865
+      },
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
+        "seq": 1309
       }
     ],
     "身份": [
@@ -63,6 +69,11 @@
       {
         "value": "玉阙阁二层执掌",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+        "seq": 1309
+      },
+      {
+        "value": "玉阙阁管事",
+        "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
       }
     ],
@@ -121,15 +132,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
       "dated": false,
-      "seq": 865
+      "seq": 1309
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+      "docId": "plot.fanren-1167-1172-return-luoyunzong",
       "dated": false,
-      "seq": 1309
+      "seq": 859
     },
     "外貌": {
       "asOf": null,
@@ -166,7 +177,8 @@
     "plot.fanren-1287-chuancheng-zhu",
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+    "plot.fanren-1311-1316-tianyuan-city-ascension"
   ],
-  "updatedAt": "2026-06-18T12:25:03.961Z"
+  "updatedAt": "2026-06-20T08:28:59.758Z"
 }
