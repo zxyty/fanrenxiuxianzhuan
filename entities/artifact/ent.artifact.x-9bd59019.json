@@ -7,10 +7,10 @@
   ],
   "summary": "残页所记影傀儡符箓，韩立在天渊城坊市机缘领悟其关键处。",
   "attributes": {
-    "能力": "影傀儡、影傀儡复制驱使者七八成以上实力及大半神通、可复制合体初期及以下修士",
+    "能力": "影傀儡、影傀儡复制驱使者七八成以上实力及大半神通、可复制合体初期及以下修士、金甲人影潜影伏击",
     "持有者": "韩立",
-    "来历": "玉书残页符箓",
-    "外形": "银符上铭印持枪/持刀金甲人影"
+    "来历": "玉书残页符箓、金阙玉书外页、玉书残页",
+    "外形": "银符上铭印持枪/持刀金甲人影、银符铭金甲人影"
   },
   "observations": {
     "能力": [
@@ -28,6 +28,11 @@
         "value": "可复制合体初期及以下修士",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      },
+      {
+        "value": "金甲人影潜影伏击",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "持有者": [
@@ -47,12 +52,22 @@
         "value": "金阙玉书外页",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      },
+      {
+        "value": "玉书残页",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "外形": [
       {
         "value": "银符上铭印持枪/持刀金甲人影",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      },
+      {
+        "value": "银符铭金甲人影",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
         "seq": 1489
       }
     ]
@@ -73,9 +88,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "docId": "plot.fanren-1463-muqing-dong",
       "dated": false,
-      "seq": 1489
+      "seq": 1459
     },
     "外形": {
       "asOf": null,
@@ -90,7 +105,8 @@
     "plot.fanren-1341-leipao-xianshi",
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
-    "plot.fanren-1463-muqing-dong"
+    "plot.fanren-1463-muqing-dong",
+    "plot.fanren-1492-da-zhan-ming-lei-shou"
   ],
-  "updatedAt": "2026-06-20T12:23:23.890Z"
+  "updatedAt": "2026-06-20T13:22:02.100Z"
 }

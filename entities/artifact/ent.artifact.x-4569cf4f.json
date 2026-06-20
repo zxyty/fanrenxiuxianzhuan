@@ -9,10 +9,10 @@
   "summary": "困敌用仙家符箓，韩立只参悟出一半，凭此研制出万珑珠。",
   "attributes": {
     "品阶": "仙家符箓",
-    "能力": "困敌、结成巨型光阵困敌、化宫殿楼台困敌、笼罩镇压",
+    "能力": "困敌、结成巨型光阵困敌、化宫殿楼台困敌、笼罩镇压、化光阵困敌、幻境宫殿",
     "持有者": "韩立",
-    "外形": "一百零八张银符排成奇异图案",
-    "来历": "金阙玉书外页"
+    "外形": "一百零八张银符排成奇异图案、108张银色符箓",
+    "来历": "玉书残页"
   },
   "observations": {
     "品阶": [
@@ -42,6 +42,11 @@
         "value": "笼罩镇压",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915
+      },
+      {
+        "value": "化光阵困敌、幻境宫殿",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "持有者": [
@@ -56,6 +61,11 @@
         "value": "一百零八张银符排成奇异图案",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "108张银色符箓",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "来历": [
@@ -63,6 +73,11 @@
         "value": "金阙玉书外页",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      },
+      {
+        "value": "玉书残页",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ]
   },
@@ -94,9 +109,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1463-muqing-dong",
+      "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
       "dated": false,
-      "seq": 1459
+      "seq": 1489
     }
   },
   "contested": false,
@@ -107,7 +122,8 @@
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1495-1500-xutian-rescue-melee",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
-    "plot.fanren-1463-muqing-dong"
+    "plot.fanren-1463-muqing-dong",
+    "plot.fanren-1492-da-zhan-ming-lei-shou"
   ],
-  "updatedAt": "2026-06-20T12:23:23.895Z"
+  "updatedAt": "2026-06-20T13:22:02.098Z"
 }

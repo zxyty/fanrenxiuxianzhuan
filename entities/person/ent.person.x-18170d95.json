@@ -18,11 +18,11 @@
   "attributes": {
     "身份": "收集阴灵之力、四大妖王之一、妖王、队伍首领、地渊妖王、争夺冥河神乳者、大计同盟者、妖王/行动主谋",
     "标志特征": "精于炼制阴灵、冷寒气息,不含一丝生命气息、背可生出两臂、持三角乌黑令牌与梭形蓝色宝物、口喷黑色光柱、真身为黑色巨虫、背生四乌翅、擅风属性神通、六足、复目异芒、一对复眼、复眼绿芒、复眼、可切断灵脉、无法分身、看穿强横程度的天赋神通、化身遍布骨刺的黑色巨虫、喷黑色光环、寒气逼人、无一丝生命气息、不惧辟邪神雷、头顶悬浮丈许灰芒巨大眼球、黑斗篷、黑濛剑光、黑色巨虫化身、风属性神通、复目异芒",
-    "阵营": "妖族夺宝一方",
+    "阵营": "地渊妖王",
     "外貌": "头戴黑色斗篷、下半部似年轻男子、上半部一对翠绿复眼、黑袍、生有复眼、黑色斗篷、下半脸年轻男子、上半双目翠绿复眼",
     "小阶段": "合体后期巅峰、合体期、合体巅峰、合体、合体级",
     "种族": "飞灵族",
-    "称号": "地渊妖王中神通最大者",
+    "称号": "地渊妖王中神通最大者、妖王中神通最大",
     "性别": "男"
   },
   "observations": {
@@ -185,6 +185,11 @@
         "value": "妖族夺宝一方",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "地渊妖王",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "外貌": [
@@ -257,12 +262,22 @@
         "value": "飞灵族",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "妖",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "称号": [
       {
         "value": "地渊妖王中神通最大者",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      },
+      {
+        "value": "妖王中神通最大",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
         "seq": 1489
       }
     ],
@@ -290,9 +305,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
       "dated": false,
-      "seq": 1483
+      "seq": 1489
     },
     "外貌": {
       "asOf": null,
@@ -342,7 +357,8 @@
     "plot.fanren-1468-zhai-lei-zhi-shu",
     "plot.fanren-1474-jingkongmo",
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
-    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+    "plot.fanren-1492-da-zhan-ming-lei-shou"
   ],
-  "updatedAt": "2026-06-20T13:09:55.430Z"
+  "updatedAt": "2026-06-20T13:22:02.139Z"
 }

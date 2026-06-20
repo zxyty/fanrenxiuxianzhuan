@@ -13,10 +13,10 @@
     "性别": "女",
     "种族": "鬼物、高阶鬼物",
     "外貌": "半面碧绿干瘪、半面唇红齿白，两绿眼，青丝如云，身披白亮袍、诡异白袍、身穿闪亮白袍、一臂衣袖荡然无存、半面碧绿干瘪、半面唇红齿白貌美、诡异白袍、独臂",
-    "标志特征": "独臂",
+    "标志特征": "白袍化白色护身光罩",
     "身份": "高阶鬼物",
     "存殁": "死亡",
-    "死因": "被啼魂兽以血色电弧擒杀吞噬"
+    "死因": "被啼魂兽以血色电弧擒杀吞噬、被韩立的啼魂兽吞噬"
   },
   "observations": {
     "性别": [
@@ -76,6 +76,11 @@
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483,
         "note": "本章已断一臂"
+      },
+      {
+        "value": "白袍化白色护身光罩",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "身份": [
@@ -102,6 +107,11 @@
         "value": "被啼魂兽以血色电弧擒杀吞噬",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "被韩立的啼魂兽吞噬",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ]
   },
@@ -127,10 +137,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
       "dated": false,
-      "seq": 1483,
-      "note": "本章已断一臂"
+      "seq": 1489
     },
     "身份": {
       "asOf": null,
@@ -158,7 +167,8 @@
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
-    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+    "plot.fanren-1492-da-zhan-ming-lei-shou"
   ],
-  "updatedAt": "2026-06-20T13:09:55.489Z"
+  "updatedAt": "2026-06-20T13:22:02.114Z"
 }

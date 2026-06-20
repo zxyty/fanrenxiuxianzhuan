@@ -9,9 +9,10 @@
   "summary": "黑色光幕后的禁地，灵气浓郁、地势荒凉似深渊之地，中心有数十丈高粗石宫殿（殿门两侧藏高阶鬼物），藏有妖王所重的冥河神乳。",
   "attributes": {
     "所属界面": "灵界",
-    "危险度": "极高（内有合体级以上存在）",
+    "危险度": "极高（内有合体级以上存在）、极高(合体级以上存在)",
     "特产": "冥河神乳",
-    "守护": "高阶鬼物"
+    "守护": "高阶鬼物",
+    "类型": "禁地"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +27,11 @@
         "value": "极高（内有合体级以上存在）",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "极高(合体级以上存在)",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+        "seq": 1489
       }
     ],
     "特产": [
@@ -39,6 +45,13 @@
       {
         "value": "高阶鬼物",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+        "seq": 1489
+      }
+    ],
+    "类型": [
+      {
+        "value": "禁地",
+        "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
         "seq": 1489
       }
     ]
@@ -68,12 +81,19 @@
       "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
       "dated": false,
       "seq": 1489
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
+      "dated": false,
+      "seq": 1489
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1489-1494-dazhan-minglei-shou"
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1492-da-zhan-ming-lei-shou"
   ],
-  "updatedAt": "2026-06-16T18:22:13.451Z"
+  "updatedAt": "2026-06-20T13:22:02.122Z"
 }
