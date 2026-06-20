@@ -11,8 +11,8 @@
   "attributes": {
     "特产": "魔髓钻、精纯魔气、魔气",
     "危险度": "极高",
-    "类型": "魔气深渊",
-    "守护": "石柱光幕封印",
+    "类型": "魔气深渊、封印之地",
+    "守护": "石柱光幕封印、落云宗等宗门修士",
     "所属界面": "人间界"
   },
   "observations": {
@@ -45,12 +45,22 @@
         "value": "魔气深渊",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
         "seq": 1177
+      },
+      {
+        "value": "封印之地",
+        "docId": "plot.fanren-1184-shou-ying-capture-second-nascent-soul",
+        "seq": 1177
       }
     ],
     "守护": [
       {
         "value": "石柱光幕封印",
         "docId": "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
+        "seq": 1177
+      },
+      {
+        "value": "落云宗等宗门修士",
+        "docId": "plot.fanren-1184-shou-ying-capture-second-nascent-soul",
         "seq": 1177
       }
     ],
@@ -102,7 +112,8 @@
     "plot.fanren-1177-1182-xueyue-miling-rescue-three-women",
     "plot.ch1180-rescue-lava-lake-mupeilin",
     "plot.fanren-1181-chonglin-qiling",
-    "plot.fanren-1183-mohua"
+    "plot.fanren-1183-mohua",
+    "plot.fanren-1184-shou-ying-capture-second-nascent-soul"
   ],
-  "updatedAt": "2026-06-20T04:15:03.650Z"
+  "updatedAt": "2026-06-20T04:16:34.589Z"
 }
