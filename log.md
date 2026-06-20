@@ -542,3 +542,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T05:42:41.462Z** `ingest` plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan — 凡人修仙传 第1213-1218章｜五行合一论·破风火天绝阵·元磁山 · kind=plot asOf=2026-06-20 entities=41 relations=46 src=01213-01218.md
 - **2026-06-20T05:50:26.496Z** `ingest` plot.fanren-1219-1224-zaidu-yuanyou-tianjidian — 凡人修仙传 第1219-1224章｜冲击化神未果·再度远游天机殿 · kind=plot asOf=2026-06-20 entities=50 relations=49 src=01219-01224.md
 - **2026-06-20T06:00:57.012Z** `ingest` plot.fanren-1226-jingang-hanli-vs-yuanzhi — 第1226章 金刚：韩立天机殿切磋击败雷音宗元智和尚 · kind=plot asOf=2026-06-20 entities=31 relations=31 src=01225-01230.p1.md
+- **2026-06-20T06:03:44.708Z** `ingest` plot.hanli-slays-yinluo-zongzhu-ch1229 — 第1229-1230章 斩杀大修·图谋阴罗 · kind=plot asOf=2026-06-20 entities=25 relations=26 src=01225-01230.p2.md

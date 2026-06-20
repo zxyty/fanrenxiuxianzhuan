@@ -9,8 +9,8 @@
   "summary": "大衍诀中的神通，大衍神君承诺危急时破例助韩立施展。",
   "attributes": {
     "出处": "大衍神君",
-    "类型": "神识/神念攻击",
-    "适用境界": "对元婴后期效果短暂"
+    "类型": "神念攻击、神魂秘术、神识/神念攻击、神识攻击",
+    "适用境界": "对元婴后期效果短暂、元婴"
   },
   "observations": {
     "出处": [
@@ -40,12 +40,22 @@
         "value": "神识/神念攻击",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "神识攻击",
+        "docId": "plot.hanli-slays-yinluo-zongzhu-ch1229",
+        "seq": 1225
       }
     ],
     "适用境界": [
       {
         "value": "对元婴后期效果短暂",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.hanli-slays-yinluo-zongzhu-ch1229",
         "seq": 1225
       }
     ]
@@ -60,9 +70,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
       "dated": false,
-      "seq": 1315
+      "seq": 1225
     },
     "适用境界": {
       "asOf": null,
@@ -77,7 +87,8 @@
     "plot.fanren-ch943-jinjing-extortion-backstab",
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot"
+    "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+    "plot.hanli-slays-yinluo-zongzhu-ch1229"
   ],
-  "updatedAt": "2026-06-16T12:14:21.115Z"
+  "updatedAt": "2026-06-20T06:03:44.553Z"
 }
