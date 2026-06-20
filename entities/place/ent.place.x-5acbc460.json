@@ -8,7 +8,8 @@
     "所属界面": "灵界",
     "所属势力": "火阳族",
     "类型": "海岛",
-    "特产": "上佳灵脉、罕见灵药"
+    "特产": "上佳灵脉、罕见灵药",
+    "守护": "赤黄绿三层光幕、五色光霞"
   },
   "observations": {
     "所属界面": [
@@ -43,6 +44,18 @@
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
       }
+    ],
+    "守护": [
+      {
+        "value": "赤黄绿三层光幕",
+        "docId": "plot.fanren-1542-1543-wujiashou-dixian",
+        "seq": 1537
+      },
+      {
+        "value": "五色光霞",
+        "docId": "plot.fanren-1542-1543-wujiashou-dixian",
+        "seq": 1537
+      }
     ]
   },
   "firstSeq": 1531,
@@ -70,12 +83,19 @@
       "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
       "dated": false,
       "seq": 1531
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1542-1543-wujiashou-dixian",
+      "dated": false,
+      "seq": 1537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+    "plot.fanren-1542-1543-wujiashou-dixian"
   ],
-  "updatedAt": "2026-06-20T14:29:20.401Z"
+  "updatedAt": "2026-06-20T14:33:49.471Z"
 }
