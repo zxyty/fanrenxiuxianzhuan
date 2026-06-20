@@ -10,8 +10,9 @@
   "attributes": {
     "种族": "飞灵族",
     "性别": "女",
-    "外貌": "貌美、带银色羽翅",
-    "小阶段": "飞灵将"
+    "外貌": "貌美、带银色羽翅、貌美",
+    "小阶段": "飞灵将",
+    "标志特征": "银色羽翅"
   },
   "observations": {
     "种族": [
@@ -38,6 +39,11 @@
         "value": "貌美、带银色羽翅",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "貌美",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "小阶段": [
@@ -45,6 +51,13 @@
         "value": "飞灵将",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
         "seq": 1417
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "银色羽翅",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ]
   },
@@ -73,6 +86,12 @@
       "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
       "dated": false,
       "seq": 1417
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
@@ -80,7 +99,8 @@
   "docs": [
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T16:12:01.568Z"
+  "updatedAt": "2026-06-20T11:11:09.587Z"
 }

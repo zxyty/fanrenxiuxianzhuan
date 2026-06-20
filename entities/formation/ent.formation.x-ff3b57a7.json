@@ -10,16 +10,22 @@
   ],
   "summary": "赤融族以困魔筒射出蓝色光球，爆裂融合成的蓝色大网，封闭数百丈空间困敌。",
   "attributes": {
-    "效果": "封闭方圆数百丈空间成囚笼，短时困住敌人",
+    "效果": "封闭方圆数百丈空间成囚笼，短时困住敌人、困锁猎物难以遁出",
     "出处": "困魔筒",
     "布置者": "赤融族",
-    "品阶": "最低阶困魔网"
+    "品阶": "最低阶困魔网",
+    "破解法": "噬灵天火焚烧"
   },
   "observations": {
     "效果": [
       {
         "value": "封闭方圆数百丈空间成囚笼，短时困住敌人",
         "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "困锁猎物难以遁出",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
       }
     ],
@@ -41,6 +47,13 @@
       {
         "value": "最低阶困魔网",
         "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      }
+    ],
+    "破解法": [
+      {
+        "value": "噬灵天火焚烧",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
       }
     ]
@@ -70,12 +83,19 @@
       "docId": "plot.fanren-1407-jinsui-lianti",
       "dated": false,
       "seq": 1405
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1407-jinsui-lianti"
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:42:40.185Z"
+  "updatedAt": "2026-06-20T11:11:09.616Z"
 }

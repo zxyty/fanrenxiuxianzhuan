@@ -14,7 +14,8 @@
     "小阶段": "飞灵将",
     "外貌": "三十余岁、相貌英俊、扎银色头带白袍、带银色羽翅",
     "称号": "风灵将",
-    "身份": "灵将"
+    "身份": "灵将",
+    "标志特征": "银色羽翅"
   },
   "observations": {
     "种族": [
@@ -65,6 +66,18 @@
         "value": "灵将",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "高阶飞灵师",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "银色羽翅",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ]
   },
@@ -99,6 +112,12 @@
       "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
       "seq": 1411
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
@@ -106,7 +125,8 @@
   "docs": [
     "plot.fanren-1407-jinsui-lianti",
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
-    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian"
+    "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:57:46.843Z"
+  "updatedAt": "2026-06-20T11:11:09.581Z"
 }

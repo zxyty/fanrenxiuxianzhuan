@@ -11,7 +11,8 @@
     "小阶段": "化神中期",
     "外貌": "身材高大、红袍、头上寸草不生、秃头/光头大汉、秃头大汉",
     "阵营": "赤融族",
-    "标志特征": "所化火鸟喷紫色火焰"
+    "标志特征": "所化火鸟喷紫色火焰、化巨型紫焰火鸟",
+    "身份": "赤融族首领"
   },
   "observations": {
     "种族": [
@@ -58,6 +59,18 @@
         "value": "所化火鸟喷紫色火焰",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "化巨型紫焰火鸟",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      }
+    ],
+    "身份": [
+      {
+        "value": "赤融族首领",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ]
   },
@@ -92,12 +105,19 @@
       "docId": "plot.fanren-1407-jinsui-lianti",
       "dated": false,
       "seq": 1405
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1407-jinsui-lianti"
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:42:40.180Z"
+  "updatedAt": "2026-06-20T11:11:09.588Z"
 }

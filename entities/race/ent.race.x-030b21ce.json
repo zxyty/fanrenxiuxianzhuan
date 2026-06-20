@@ -12,9 +12,10 @@
   ],
   "summary": "背生赤红火翅、可化火鸟的飞灵族异族，由天鸣率领伏击天鹏人抢夺木玲花。",
   "attributes": {
-    "特性": "背生赤红火翅、可化赤色火鸟、化火鸟、火焰不死之身般再生、擅火焰、紫焰、所化火鸟可融合成超大火鸟、深紫发、淡红肤、有赤红飞蝎",
-    "阵营": "飞灵族、与天鹏族敌对、敌对天鹏族、飞灵族七十二支（强支）",
-    "代表人物": "祝音子"
+    "特性": "背生赤红火翅、可化赤色火鸟、化火鸟、火焰不死之身般再生、擅火焰、紫焰、所化火鸟可融合成超大火鸟、深紫发、淡红肤、有赤红飞蝎、可化火鸟,火焰自愈、外形狰狞",
+    "阵营": "飞灵族、与天鹏族敌对、敌对天鹏族、飞灵族七十二支（强支）、天鹏族之敌",
+    "代表人物": "祝音子",
+    "天敌": "天鹏族"
   },
   "observations": {
     "特性": [
@@ -52,6 +53,16 @@
         "value": "深紫发、淡红肤、有赤红飞蝎",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "可化火鸟,火焰自愈",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      },
+      {
+        "value": "外形狰狞",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "阵营": [
@@ -74,6 +85,11 @@
         "value": "飞灵族七十二支（强支）",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "天鹏族之敌",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "代表人物": [
@@ -91,6 +107,13 @@
         "value": "祝音子",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      }
+    ],
+    "天敌": [
+      {
+        "value": "天鹏族",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ]
   },
@@ -113,6 +136,12 @@
       "docId": "plot.fanren-1438-yin-zhu-feng",
       "dated": false,
       "seq": 1435
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
@@ -122,7 +151,8 @@
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
     "plot.fanren-1438-yin-zhu-feng",
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T16:49:29.697Z"
+  "updatedAt": "2026-06-20T11:11:09.594Z"
 }

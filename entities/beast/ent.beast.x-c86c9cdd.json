@@ -4,13 +4,14 @@
   "name": "通灵之蜂",
   "aliases": [
     "灵蜂",
-    "黄色毒蜂"
+    "黄色毒蜂",
+    "黄色毒峰"
   ],
   "summary": "赤融族追踪用灵蜂，数寸大、散淡淡灵光，凭晶核辨认气息追踪目标；本章误寻到炼有鲲鹏之羽的韩立。",
   "attributes": {
     "主人": "天鸣",
-    "能力": "凭晶核气息追踪",
-    "外形": "数寸大黄色毒蜂"
+    "能力": "凭晶核气息追踪、凭晶核气味追踪目标",
+    "外形": "数寸大黄色毒蜂、数寸黄色毒蜂,散淡灵光"
   },
   "observations": {
     "主人": [
@@ -25,12 +26,22 @@
         "value": "凭晶核气息追踪",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "凭晶核气味追踪目标",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "外形": [
       {
         "value": "数寸大黄色毒蜂",
         "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "数寸黄色毒蜂,散淡灵光",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
       }
     ]
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1407-jinsui-lianti"
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:42:40.169Z"
+  "updatedAt": "2026-06-20T11:11:09.607Z"
 }

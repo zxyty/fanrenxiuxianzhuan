@@ -8,7 +8,7 @@
   "summary": "赤融族至宝，散赤红火光笼罩数十丈、可幻化火蟒，经族中长老布禁制；本章被韩立以巨力连禁制带珠身捏碎。",
   "attributes": {
     "持有者": "天鸣",
-    "能力": "赤红火光笼罩范围、追踪压制、幻化赤红火蟒",
+    "能力": "赤红火光笼罩范围、追踪压制、幻化赤红火蟒、红光罩护身、瞬移、幻化数丈赤红火蟒",
     "禁制": "族中长老所布",
     "外形": "赤红圆珠"
   },
@@ -34,6 +34,21 @@
       {
         "value": "幻化赤红火蟒",
         "docId": "plot.fanren-1407-jinsui-lianti",
+        "seq": 1405
+      },
+      {
+        "value": "红光罩护身",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      },
+      {
+        "value": "瞬移",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      },
+      {
+        "value": "幻化数丈赤红火蟒",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
       }
     ],
@@ -82,7 +97,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1407-jinsui-lianti"
+    "plot.fanren-1407-jinsui-lianti",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:42:40.167Z"
+  "updatedAt": "2026-06-20T11:11:09.599Z"
 }

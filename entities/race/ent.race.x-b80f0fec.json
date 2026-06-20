@@ -9,7 +9,7 @@
   "attributes": {
     "代表人物": "秋夫人",
     "天赋神通": "炼制须弥洞天图",
-    "特性": "独有幻化秘术（真假难辨）、翅小、服饰艳丽",
+    "特性": "独有幻化秘术（真假难辨）、翅小、服饰艳丽、外貌与天鹏族相似",
     "阵营": "与天鹏族交好"
   },
   "observations": {
@@ -42,6 +42,11 @@
         "value": "翅小、服饰艳丽",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "外貌与天鹏族相似",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "阵营": [
@@ -52,7 +57,7 @@
       }
     ]
   },
-  "firstSeq": 1417,
+  "firstSeq": 1405,
   "attrProvenance": {
     "代表人物": {
       "asOf": null,
@@ -68,9 +73,9 @@
     },
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
       "dated": false,
-      "seq": 1423
+      "seq": 1405
     },
     "阵营": {
       "asOf": null,
@@ -84,7 +89,8 @@
   "docs": [
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan"
+    "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T16:20:08.350Z"
+  "updatedAt": "2026-06-20T11:11:09.595Z"
 }

@@ -573,3 +573,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T10:47:31.925Z** `ingest` plot.fanren-1387-1392-juji-tumou-zhenchan — 第1387-1392章 蛮荒界聚集·图谋碧眼真蟾 · kind=plot asOf=2026-06-20 entities=41 relations=47 src=01387-01392.md
 - **2026-06-20T10:55:26.217Z** `update` plot.fanren-1393-1398-yecha-wang-changnu — 凡人修仙传 第1393-1398章｜夜叉王赌约与猖奴追杀、设伏反击 · kind=plot asOf=2026-06-20 entities=30 relations=37 src=01393-01398.md
 - **2026-06-20T11:03:27.701Z** `ingest` plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute — 凡人修仙传 第1399-1404章｜黑色雾海·苦修闭关·天鹏族与供奉 · kind=plot asOf=2026-06-20 entities=32 relations=36 src=01399-01404.md
+- **2026-06-20T11:11:09.773Z** `ingest` plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong — 凡人修仙传 第1405-1410章｜金髓炼体·天鹏人·赤融族伏击 · kind=plot asOf=2026-06-20 entities=24 relations=24 src=01405-01410.md

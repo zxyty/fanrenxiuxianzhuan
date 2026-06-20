@@ -10,7 +10,8 @@
   "attributes": {
     "种族": "天鹏族",
     "小阶段": "筑基",
-    "身份": "引路族人"
+    "身份": "巡逻队随员/向导、引路族人、巡逻队属下/向导",
+    "外貌": "形貌儒雅"
   },
   "observations": {
     "种族": [
@@ -37,6 +38,18 @@
         "value": "引路族人",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "巡逻队属下/向导",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
+      }
+    ],
+    "外貌": [
+      {
+        "value": "形貌儒雅",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ]
   },
@@ -56,16 +69,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "docId": "plot.fanren-1407-jinsui-lianti",
       "dated": false,
-      "seq": 1411
+      "seq": 1405
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+      "dated": false,
+      "seq": 1405
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1407-jinsui-lianti",
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-16T15:50:19.147Z"
+  "updatedAt": "2026-06-20T11:11:09.590Z"
 }

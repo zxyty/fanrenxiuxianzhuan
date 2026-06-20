@@ -11,7 +11,7 @@
   "attributes": {
     "类型": "灵草、灵花、灵花/供奉之物",
     "产地": "黑隐山韩立所居灵山、黑隐山脉灵山、黑隐山",
-    "用途": "天鹏族供奉所需、天鹏族征收贡品、赤融族伏击争夺的目标物、天鹏族供奉首位之物、天鹏族供奉",
+    "用途": "天鹏族供奉所需、天鹏族征收贡品、赤融族伏击争夺的目标物、天鹏族供奉首位之物、天鹏族供奉、天鹏族所需,赤融族劫夺目标",
     "稀有度": "极稀少(他处枯竭)、珍稀、稀有（仅存一处）、他处已枯竭"
   },
   "observations": {
@@ -74,6 +74,11 @@
         "value": "天鹏族供奉",
         "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
+      },
+      {
+        "value": "天鹏族所需,赤融族劫夺目标",
+        "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+        "seq": 1405
       }
     ],
     "稀有度": [
@@ -131,7 +136,8 @@
   "docs": [
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1407-jinsui-lianti",
-    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
   ],
-  "updatedAt": "2026-06-20T11:03:27.534Z"
+  "updatedAt": "2026-06-20T11:11:09.607Z"
 }
