@@ -10,8 +10,9 @@
   "attributes": {
     "小阶段": "炼虚期",
     "种族": "皓兽族",
-    "外貌": "头生白色弯角、一脸碧色",
-    "阵营": "敌"
+    "外貌": "头生白色弯角、一脸碧色、头生白色弯角、一脸碧色的青年",
+    "阵营": "敌",
+    "标志特征": "双角化白光弯刀"
   },
   "observations": {
     "小阶段": [
@@ -33,12 +34,24 @@
         "value": "头生白色弯角、一脸碧色",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "头生白色弯角、一脸碧色的青年",
+        "docId": "plot.fanren-1518-1519-heiming-wuhai-haoshou",
+        "seq": 1513
       }
     ],
     "阵营": [
       {
         "value": "敌",
         "docId": "plot.fanren-1516-bamboo-leaves",
+        "seq": 1513
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "双角化白光弯刀",
+        "docId": "plot.fanren-1518-1519-heiming-wuhai-haoshou",
         "seq": 1513
       }
     ]
@@ -68,12 +81,19 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1518-1519-heiming-wuhai-haoshou",
+      "dated": false,
+      "seq": 1513
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1518-1519-heiming-wuhai-haoshou"
   ],
-  "updatedAt": "2026-06-16T19:14:17.460Z"
+  "updatedAt": "2026-06-20T14:03:42.492Z"
 }
