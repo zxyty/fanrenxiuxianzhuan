@@ -6,9 +6,9 @@
   "summary": "传送法阵核心材料，具空间属性，唯雷鸣大陆少数矿脉出产，现被变异海兽吞入体内完好无存。",
   "attributes": {
     "类型": "空间属性灵材",
-    "用途": "传送法阵核心",
-    "稀有度": "极珍稀",
-    "产地": "雷鸣大陆少数矿脉"
+    "用途": "传送法阵核心、修复传送法阵、驱动传送法阵",
+    "稀有度": "稀有",
+    "产地": "蛟首海兽腹中（变异）"
   },
   "observations": {
     "类型": [
@@ -23,6 +23,16 @@
         "value": "传送法阵核心",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "修复传送法阵",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      },
+      {
+        "value": "驱动传送法阵",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "稀有度": [
@@ -30,6 +40,11 @@
         "value": "极珍稀",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "产地": [
@@ -37,6 +52,11 @@
         "value": "雷鸣大陆少数矿脉",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "蛟首海兽腹中（变异）",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -56,21 +76,22 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:42:22.868Z"
+  "updatedAt": "2026-06-20T14:55:43.759Z"
 }

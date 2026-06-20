@@ -4,14 +4,16 @@
   "name": "青筱",
   "aliases": [
     "青筱仙子",
-    "青姐姐"
+    "青姐姐",
+    "青妹妹"
   ],
   "summary": "化神中期风属性女修，火阳族白珠儿之师，邀韩立随银鲨居士联手猎海兽。",
   "attributes": {
     "性别": "女",
-    "小阶段": "化神中期",
+    "小阶段": "五阶（停留多年）",
     "身份": "白珠儿之师",
-    "外貌": "青色宫装、姿容华贵、约二十五六、宫装女子"
+    "外貌": "青色宫装、姿容华贵、约二十五六、宫装女子",
+    "阵营": "火瑚群岛"
   },
   "observations": {
     "性别": [
@@ -26,6 +28,11 @@
         "value": "化神中期",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "五阶（停留多年）",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "身份": [
@@ -46,6 +53,13 @@
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
       }
+    ],
+    "阵营": [
+      {
+        "value": "火瑚群岛",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      }
     ]
   },
   "firstSeq": 1543,
@@ -58,9 +72,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     },
     "身份": {
       "asOf": null,
@@ -73,12 +87,19 @@
       "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
       "dated": false,
       "seq": 1543
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "dated": false,
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:42:22.889Z"
+  "updatedAt": "2026-06-20T14:55:43.639Z"
 }

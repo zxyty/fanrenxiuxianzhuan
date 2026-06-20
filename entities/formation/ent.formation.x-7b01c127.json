@@ -6,12 +6,15 @@
     "旗阵",
     "三十六杆阵旗",
     "三十六杆巨幡",
-    "光阵"
+    "光阵",
+    "火瑚群岛传送法阵",
+    "绿光城传送法阵"
   ],
   "summary": "肖姓女子以三十六杆阵旗配合法盘、金篆文/银蝌文催动的大型法阵，调动天地元气，于云层浮现百余丈光阵，可瞬间传送目标；威能远胜大庚剑阵。",
   "attributes": {
-    "效果": "瞬间传送目标",
-    "布置者": "肖姓女子"
+    "效果": "瞬间传送目标、传送、跨海域/大陆传送",
+    "布置者": "肖姓女子",
+    "破解法": "以空云晶修复、—"
   },
   "observations": {
     "效果": [
@@ -19,6 +22,16 @@
         "value": "瞬间传送目标",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "传送",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      },
+      {
+        "value": "跨海域/大陆传送",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "布置者": [
@@ -26,6 +39,18 @@
         "value": "肖姓女子",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      }
+    ],
+    "破解法": [
+      {
+        "value": "以空云晶修复",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      },
+      {
+        "value": "—",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -42,10 +67,19 @@
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "dated": false,
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
-  "docs": [],
-  "updatedAt": "2026-06-16T15:11:49.211Z"
+  "docs": [
+    "plot.fanren-1393-1398-yecha-wang-changnu",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
+  ],
+  "updatedAt": "2026-06-20T14:55:43.757Z"
 }

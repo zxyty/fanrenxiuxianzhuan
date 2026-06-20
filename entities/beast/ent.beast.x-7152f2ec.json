@@ -2,10 +2,13 @@
   "id": "ent.beast.x-7152f2ec",
   "type": "beast",
   "name": "银光鲨",
-  "aliases": [],
+  "aliases": [
+    "银光"
+  ],
   "summary": "银鲨居士的灵兽，与主人联手对抗怪蛾时一同陨落。",
   "attributes": {
-    "主人": "银鲨居士"
+    "主人": "银鲨居士",
+    "能力": "追踪神通——见过之物万里内可感应寻踪"
   },
   "observations": {
     "主人": [
@@ -13,6 +16,13 @@
         "value": "银鲨居士",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      }
+    ],
+    "能力": [
+      {
+        "value": "追踪神通——见过之物万里内可感应寻踪",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -23,12 +33,19 @@
       "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
       "dated": false,
       "seq": 1543
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "dated": false,
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:42:22.896Z"
+  "updatedAt": "2026-06-20T14:55:43.635Z"
 }

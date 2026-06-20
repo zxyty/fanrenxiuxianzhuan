@@ -6,7 +6,8 @@
   "summary": "跨洋而来天元大陆的强大异族，代表人物闵；可化身百丈带角巨怪。",
   "attributes": {
     "代表人物": "闵、闵某、闵道友",
-    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角"
+    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族",
+    "阵营": "敌对"
   },
   "observations": {
     "代表人物": [
@@ -41,6 +42,18 @@
         "value": "头生独角",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
+      },
+      {
+        "value": "灵界前十超级大族",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      }
+    ],
+    "阵营": [
+      {
+        "value": "敌对",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -57,6 +70,12 @@
       "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
       "dated": false,
       "seq": 1519
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "dated": false,
+      "seq": 1549
     }
   },
   "contested": false,
@@ -65,7 +84,8 @@
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
-    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:29:20.333Z"
+  "updatedAt": "2026-06-20T14:55:43.775Z"
 }

@@ -2,14 +2,16 @@
   "id": "ent.person.x-c2ccf27f",
   "type": "person",
   "name": "银鲨居士",
-  "aliases": [],
+  "aliases": [
+    "银鲨居士大人"
+  ],
   "summary": "火瑚群岛海域第一人，上三阶存在，组织人手猎杀变异海兽以修复传送阵。",
   "attributes": {
     "称号": "海域第一人",
     "小阶段": "上三阶",
-    "身份": "散修/居士",
+    "身份": "火瑚群岛上族修士",
     "存殁": "死亡",
-    "死因": "被双首怪蛾所杀"
+    "死因": "对抗怪蛾时陨落"
   },
   "observations": {
     "称号": [
@@ -31,6 +33,11 @@
         "value": "散修/居士",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "火瑚群岛上族修士",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "存殁": [
@@ -45,6 +52,11 @@
         "value": "被双首怪蛾所杀",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "对抗怪蛾时陨落",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -64,9 +76,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     },
     "存殁": {
       "asOf": null,
@@ -76,15 +88,16 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:42:22.893Z"
+  "updatedAt": "2026-06-20T14:55:43.596Z"
 }

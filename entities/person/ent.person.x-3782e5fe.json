@@ -6,17 +6,20 @@
     "元某",
     "元兄",
     "铁塔大汉",
-    "毒圣门大汉"
+    "毒圣门大汉",
+    "大头异族人",
+    "侏儒般异族"
   ],
   "summary": "元婴中期修士，最先决意赴约并立下冥河之页血誓。",
   "attributes": {
-    "小阶段": "元婴",
-    "外貌": "大汉",
+    "小阶段": "炼虚期",
+    "外貌": "头颅奇大、寸毛不生的侏儒",
     "身份": "毒圣门修士",
     "性别": "男",
     "出身地": "南疆",
     "存殁": "死亡、在场行动",
-    "死因": "被银翅夜叉啃噬、被银翅夜叉啃食"
+    "死因": "被银翅夜叉啃噬、被银翅夜叉啃食",
+    "种族": "异族"
   },
   "observations": {
     "小阶段": [
@@ -29,6 +32,11 @@
         "value": "元婴",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "外貌": [
@@ -41,6 +49,11 @@
         "value": "铁塔般身材、相貌奇丑、浑身黝黑发亮",
         "docId": "plot.fanren-967-kuzhu-laoren",
         "seq": 967
+      },
+      {
+        "value": "头颅奇大、寸毛不生的侏儒",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ],
     "身份": [
@@ -88,21 +101,28 @@
         "docId": "plot.fanren-ch979-wuzi-tongxin-mo",
         "seq": 979
       }
+    ],
+    "种族": [
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
+      }
     ]
   },
   "firstSeq": 967,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 979
+      "seq": 1549
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch973-minghe-zhiye",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 973
+      "seq": 1549
     },
     "身份": {
       "asOf": null,
@@ -133,6 +153,12 @@
       "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
       "dated": false,
       "seq": 979
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "dated": false,
+      "seq": 1549
     }
   },
   "contested": false,
@@ -142,7 +168,8 @@
     "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
     "plot.fanren-967-kuzhu-laoren",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-ch979-wuzi-tongxin-mo"
+    "plot.fanren-ch979-wuzi-tongxin-mo",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-18T03:10:23.725Z"
+  "updatedAt": "2026-06-20T14:55:43.782Z"
 }

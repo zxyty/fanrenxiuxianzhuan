@@ -8,7 +8,7 @@
   "summary": "外海群岛，火阳族所在海域，距雷鸣大陆较近。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "海域群岛"
+    "类型": "海外岛群"
   },
   "observations": {
     "所属界面": [
@@ -28,6 +28,11 @@
         "value": "海域群岛",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "海外岛群",
+        "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+        "seq": 1549
       }
     ]
   },
@@ -41,16 +46,17 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
-      "seq": 1543
+      "seq": 1549
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1551-qidu-hanli-vs-guaie"
   ],
-  "updatedAt": "2026-06-20T14:42:22.877Z"
+  "updatedAt": "2026-06-20T14:55:43.762Z"
 }
