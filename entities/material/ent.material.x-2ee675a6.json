@@ -23,7 +23,7 @@
   "attributes": {
     "类型": "神木（三大神木之一）、神竹/灵竹、天材地宝(竹)、灵竹、灵竹/灵材、灵木/灵竹、炼器灵材、炼剑主料、灵竹/材料、木属性灵材、神木、灵竹/炼器材料、上古灵竹、炼剑灵竹、灵竹材料、炼器材料、灵木",
     "用途": "炼制木属性法宝、炼制木系法宝(青竹蜂云剑)主原料、炼制青竹蜂云剑、炼制法宝（青竹蜂云剑、箭矢）、炼剑、炼制克鬼道法宝、炼制飞剑、辟邪神雷、炼制法宝、炼制飞剑（青竹蜂云剑）、克制魔功、炼制特殊法宝/法宝主原料、炼制飞剑、修成辟邪神雷、出辟邪神雷、蕴生辟邪神雷、炼制金雷竹飞剑、种剑主材料、祭炼金罡灭魔雷、淬炼青竹蜂云剑、淬炼飞剑、增益辟邪神雷、炼制飞剑、产辟邪神雷、炼制青竹蜂云剑/破邪、催生辟邪神雷、炼制青竹蜂云剑、炼制本命法宝（青竹蜂云剑）、炼制木属性飞剑（青竹蜂云剑主材料）、种剑、竹叶祭炼金罡灭魔雷",
-    "稀有度": "顶阶/极稀有、修仙界三大神竹之一、极高(需万年份)、极稀有、稀有、三大神木之一（传闻已灭绝）、极稀（千年增高寸许、难培育）、珍稀、三大神木之一、极罕、被邪龙族搜毁殆尽、罕见",
+    "稀有度": "顶阶/极稀有、修仙界三大神竹之一、极高(需万年份)、极稀有、稀有、三大神木之一（传闻已灭绝）、极稀（千年增高寸许、难培育）、珍稀、三大神木之一、极罕、被邪龙族搜毁殆尽、罕见、灵界极稀有",
     "产地": "乱星海"
   },
   "observations": {
@@ -312,6 +312,11 @@
         "value": "罕见",
         "docId": "plot.fanren-955-zaiyu-gumo",
         "seq": 955
+      },
+      {
+        "value": "灵界极稀有",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "产地": [
@@ -357,28 +362,30 @@
   "contested": false,
   "contradictions": {},
   "docs": [
+    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
+    "plot.fanren-ch428-xuangu-shangren-xiaocha",
+    "plot.fanren-c433-438-xutiandian-juji",
+    "plot.fanren-ch446-zaiju",
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-398-jiedan-yu-fabao",
+    "plot.fanren-421-426-qixialian-yaoguanshe",
+    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
+    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
     "plot.fanren-1457-taodun-didi-escape",
     "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+    "plot.fanren-955-zaiyu-gumo",
     "plot.fanren-1463-muqing-dong",
     "plot.fanren-1468-zhai-lei-zhi-shu",
     "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
     "plot.fanren-1516-1517-zhuye-likai",
-    "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
-    "plot.fanren-398-jiedan-yu-fabao",
-    "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
-    "plot.fanren-410-miaoyinmen-mingyi-zhanglao",
-    "plot.fanren-421-426-qixialian-yaoguanshe",
-    "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
-    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
-    "plot.fanren-823-828-xuezhou-jiejin-zhuimogu",
-    "plot.fanren-955-960-zaiyu-gumo-tianfumen",
-    "plot.fanren-955-zaiyu-gumo",
-    "plot.fanren-c433-438-xutiandian-juji",
-    "plot.fanren-ch428-xuangu-shangren-xiaocha",
-    "plot.fanren-ch446-zaiju",
-    "plot.fanren-ch648-zhimu-lingying"
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T14:14:47.203Z"
+  "updatedAt": "2026-06-20T16:11:26.795Z"
 }

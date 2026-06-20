@@ -3,12 +3,13 @@
   "type": "place",
   "name": "八云山",
   "aliases": [
-    "八座灵山"
+    "八座灵山",
+    "把云山"
   ],
   "summary": "云城由古时大神通者挪移八座大山、各打入极品灵脉而成的灵地，是城中唯一可长久居住修炼、可飞遁之处，洞府百年期对外高价出租。",
   "attributes": {
-    "所属势力": "云城",
-    "类型": "灵地/洞府区"
+    "所属势力": "万古族",
+    "类型": "山脉/洞府区"
   },
   "observations": {
     "所属势力": [
@@ -16,6 +17,11 @@
         "value": "云城",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "万古族",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "类型": [
@@ -23,6 +29,11 @@
         "value": "灵地/洞府区",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "山脉/洞府区",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ]
   },
@@ -30,21 +41,22 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1579
+      "seq": 1585
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1579
+      "seq": 1585
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:06.959Z"
+  "updatedAt": "2026-06-20T16:11:26.008Z"
 }

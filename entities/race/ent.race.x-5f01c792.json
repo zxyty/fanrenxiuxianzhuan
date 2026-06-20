@@ -4,15 +4,33 @@
   "name": "石茧族",
   "aliases": [],
   "summary": "天云十三族之一，与万古族合力打造云城之卫。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "阵营": "天云十三族"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "天云十三族",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      }
+    ]
+  },
   "firstSeq": 1573,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1586-qianjizi",
+      "dated": false,
+      "seq": 1585
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:07.046Z"
+  "updatedAt": "2026-06-20T16:11:25.899Z"
 }

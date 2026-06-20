@@ -3,16 +3,18 @@
   "type": "person",
   "name": "马长老",
   "aliases": [
-    "满脸麻子紫袍大汉"
+    "满脸麻子紫袍大汉",
+    "马姓中年人",
+    "马上老"
   ],
   "summary": "星宫元婴中期长老，紫袍麻脸、桀骜不驯，神念探韩立莫测后收敛气焰。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴中期",
-    "身份": "星宫长老",
+    "小阶段": "合体级",
+    "身份": "万古族长老",
     "标志特征": "满脸麻子、紫袍",
-    "外貌": "紫袍大汉",
-    "阵营": "星宫"
+    "外貌": "皂袍中年人，细长眼、白面鹰鼻",
+    "阵营": "天云十三族"
   },
   "observations": {
     "性别": [
@@ -27,6 +29,11 @@
         "value": "元婴中期",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "合体级",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "身份": [
@@ -34,6 +41,11 @@
         "value": "星宫长老",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "万古族长老",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "标志特征": [
@@ -48,6 +60,11 @@
         "value": "紫袍大汉",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "皂袍中年人，细长眼、白面鹰鼻",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "阵营": [
@@ -55,6 +72,11 @@
         "value": "星宫",
         "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
+      },
+      {
+        "value": "天云十三族",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ]
   },
@@ -68,15 +90,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1201
+      "seq": 1585
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1201
+      "seq": 1585
     },
     "标志特征": {
       "asOf": null,
@@ -86,15 +108,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1201
+      "seq": 1585
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1201
+      "seq": 1585
     }
   },
   "contested": false,
@@ -102,7 +124,8 @@
   "docs": [
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "plot.fanren-1202-xinggong-zhi-zhan-3",
-    "plot.fanren-1208-xinggong-war-9"
+    "plot.fanren-1208-xinggong-war-9",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T05:34:10.316Z"
+  "updatedAt": "2026-06-20T16:11:25.618Z"
 }

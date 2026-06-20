@@ -6,8 +6,9 @@
   "summary": "比通灵级傀儡更稀少的神丹，凭匣中物有七八成希望向万古族换取。",
   "attributes": {
     "品阶": "神丹级",
-    "适用境界": "高阶",
-    "功效": "助突破上三阶瓶颈"
+    "适用境界": "炼虚",
+    "功效": "炼虚级突破瓶颈辅助",
+    "炼制者": "晶族宗师级炼丹师"
   },
   "observations": {
     "品阶": [
@@ -22,6 +23,11 @@
         "value": "高阶",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "功效": [
@@ -29,6 +35,18 @@
         "value": "助突破上三阶瓶颈",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "炼虚级突破瓶颈辅助",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "晶族宗师级炼丹师",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ]
   },
@@ -42,21 +60,28 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1555
+      "seq": 1585
     },
     "功效": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1555
+      "seq": 1585
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1586-qianjizi",
+      "dated": false,
+      "seq": 1585
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:03:42.571Z"
+  "updatedAt": "2026-06-20T16:11:26.270Z"
 }

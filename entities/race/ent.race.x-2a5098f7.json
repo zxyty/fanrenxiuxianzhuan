@@ -14,7 +14,7 @@
   "attributes": {
     "代表人物": "闵、闵某、闵道友、图某、狞兄、弘灭、图姓老者、银袍中年人",
     "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族、隐匿/土遁神通、法体双修、霸道火属性功法、富足、超级大族",
-    "阵营": "敌对、敌对天云十三族、灵界异族、敌对韩立、进攻天云十三族、天云十三族之敌、天云诸族之敌、入侵天云的敌方",
+    "阵营": "敌对、敌对天云十三族、灵界异族、敌对韩立、进攻天云十三族、天云十三族之敌、天云诸族之敌、入侵天云的敌方、敌对（入侵边境）、敌对入侵",
     "天敌": "圣族",
     "天赋神通": "换血洗髓转化血脉",
     "聚居地": "灵界"
@@ -149,6 +149,16 @@
         "value": "入侵天云的敌方",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "敌对（入侵边境）",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      },
+      {
+        "value": "敌对入侵",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "天敌": [
@@ -234,7 +244,8 @@
     "plot.fanren-1563-huaxue-lihun-dafa",
     "plot.fanren-ch1569-tuizou",
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:07.160Z"
+  "updatedAt": "2026-06-20T16:11:25.927Z"
 }

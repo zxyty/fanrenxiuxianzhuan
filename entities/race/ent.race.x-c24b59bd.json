@@ -6,7 +6,8 @@
   "summary": "天云十三族之一，族人稀少、寿元为人族三四倍、容貌俊美智慧极高，精于炼丹阵法符箓，颇受诸族欢迎。",
   "attributes": {
     "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲",
-    "代表人物": "纤纤"
+    "代表人物": "纤纤",
+    "阵营": "天云十三族"
   },
   "observations": {
     "特性": [
@@ -37,6 +38,13 @@
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
       }
+    ],
+    "阵营": [
+      {
+        "value": "天云十三族",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      }
     ]
   },
   "firstSeq": 1573,
@@ -52,13 +60,20 @@
       "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
       "seq": 1579
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1586-qianjizi",
+      "dated": false,
+      "seq": 1585
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:07.043Z"
+  "updatedAt": "2026-06-20T16:11:25.952Z"
 }

@@ -611,3 +611,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T15:29:15.690Z** `ingest` plot.fanren-ch1569-tuizou — 凡人修仙传 第1569章 退走：韩立逼退角蚩族合体老者，玉匣追缉与遁往金甲城 · kind=plot asOf=2026-06-20 entities=46 relations=66 src=01567-01572.md
 - **2026-06-20T15:37:15.075Z** `ingest` plot.fanren-1573-1578-yunnianzhu-yuncheng — 凡人修仙传 第1573-1578章｜蕴念珠·邀请·云城 · kind=plot asOf=2026-06-20 entities=39 relations=37 src=01573-01578.md
 - **2026-06-20T15:58:07.490Z** `ingest` plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai — 凡人修仙传 第1579-1584章：天外魔甲、魔金山脉与通灵傀儡 · kind=plot asOf=2026-06-20 entities=40 relations=53 src=01579-01584.md
+- **2026-06-20T16:11:36.854Z** `ingest` plot.fanren-1586-qianjizi — 第1586章 千机子——广寒令引来三族争邀，万古族千机子降临 · kind=plot asOf=2026-06-20 entities=41 relations=52 src=01585-01590.md

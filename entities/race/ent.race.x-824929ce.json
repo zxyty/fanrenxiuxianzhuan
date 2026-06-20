@@ -2,12 +2,15 @@
   "id": "ent.race.x-824929ce",
   "type": "race",
   "name": "万古族",
-  "aliases": [],
+  "aliases": [
+    "天云万古族",
+    "万古族一族"
+  ],
   "summary": "天云十三族之一，元姓异族所属；据称凭其重宝可换通灵级傀儡或万妙丹。",
   "attributes": {
     "阵营": "灵界种族",
-    "代表人物": "万古族大头人",
-    "特性": "最擅傀儡术三大种族之一",
+    "代表人物": "元姓大头异族、甲天木、万古族大头人、千机子、马长老、皇长老",
+    "特性": "擅长傀儡之术",
     "天赋神通": "通灵傀儡炼制"
   },
   "observations": {
@@ -38,6 +41,21 @@
         "value": "万古族大头人",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "千机子",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      },
+      {
+        "value": "马长老",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
+      },
+      {
+        "value": "皇长老",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "特性": [
@@ -45,6 +63,11 @@
         "value": "最擅傀儡术三大种族之一",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "擅长傀儡之术",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "天赋神通": [
@@ -65,15 +88,15 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
-      "seq": 1579
+      "seq": 1555
     },
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1579
+      "seq": 1585
     },
     "天赋神通": {
       "asOf": null,
@@ -88,7 +111,8 @@
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
     "plot.fanren-ch1569-tuizou",
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:07.159Z"
+  "updatedAt": "2026-06-20T16:11:25.896Z"
 }

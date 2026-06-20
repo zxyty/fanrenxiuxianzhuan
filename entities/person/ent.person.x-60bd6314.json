@@ -15,9 +15,9 @@
   "attributes": {
     "种族": "万古族",
     "小阶段": "上族三阶",
-    "身份": "万古族修士、天云十三族出力者、万古族傀儡大师、天云十三族族人、傀儡炼制高手、傀儡师",
+    "身份": "万古族修士、天云十三族出力者、万古族傀儡大师、天云十三族族人、傀儡炼制高手、傀儡师、万古族四大顶阶傀儡师之一",
     "外貌": "一头乱发遮住半边脸孔",
-    "标志特征": "护身傀儡/傀儡术",
+    "标志特征": "傀儡术造诣出神入化",
     "性别": "男",
     "性格": "豪爽、谨慎(涉族中隐秘不答)、聪明过人、说到傀儡术则双目发亮、滔滔不绝"
   },
@@ -72,6 +72,11 @@
         "value": "傀儡师",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "万古族四大顶阶傀儡师之一",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "外貌": [
@@ -91,6 +96,11 @@
         "value": "护身傀儡/傀儡术",
         "docId": "plot.fanren-ch1569-tuizou",
         "seq": 1567
+      },
+      {
+        "value": "傀儡术造诣出神入化",
+        "docId": "plot.fanren-1586-qianjizi",
+        "seq": 1585
       }
     ],
     "性别": [
@@ -147,9 +157,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch1569-tuizou",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1567
+      "seq": 1585
     },
     "性别": {
       "asOf": null,
@@ -169,7 +179,8 @@
   "docs": [
     "plot.fanren-ch1569-tuizou",
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1586-qianjizi"
   ],
-  "updatedAt": "2026-06-20T15:58:07.060Z"
+  "updatedAt": "2026-06-20T16:11:25.019Z"
 }
