@@ -21,10 +21,10 @@
   "summary": "灵界中聚集飞升修士、专应对外族大敌的城池，三境七地中唯一不受三圣皇七妖王管辖，由长老会主理。",
   "attributes": {
     "所属界面": "蛮荒界",
-    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池",
+    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池、城池/据点",
     "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫、巨墙禁制、传送阵、执法天卫、人妖两族",
     "所属势力": "叶家",
-    "特产": "珍稀符箓材料",
+    "特产": "丰富炼丹材料、珍稀符箓材料、一次性小型传送法盘、万里符",
     "危险度": "高(异族攻城前线)、极高"
   },
   "observations": {
@@ -145,6 +145,11 @@
         "value": "飞升修士据点城池",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "城池/据点",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "守护": [
@@ -226,6 +231,16 @@
         "value": "珍稀符箓材料",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "一次性小型传送法盘",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "万里符",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "危险度": [
@@ -269,9 +284,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1463-mujing-cave",
+      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
       "dated": false,
-      "seq": 1459
+      "seq": 1333
     },
     "危险度": {
       "asOf": null,
@@ -311,7 +326,8 @@
     "plot.fanren-1339-1344-leipao-shenmi-kongjian",
     "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-ch1365-moying-zaixian"
+    "plot.fanren-ch1365-moying-zaixian",
+    "plot.fanren-1369-1374-black-leaf-forest-muzu"
   ],
-  "updatedAt": "2026-06-20T10:06:35.714Z"
+  "updatedAt": "2026-06-20T10:19:10.789Z"
 }

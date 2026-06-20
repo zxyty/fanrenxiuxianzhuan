@@ -6,16 +6,17 @@
     "黑叶森林",
     "Black Leaf Forest",
     "黑夜森林",
-    "黑叶森林木族范围"
+    "黑叶森林木族范围",
+    "黑叶森林边缘"
   ],
   "summary": "蛮荒界深处凶险之地，木灵族势力范围，被天木梦罗笼罩。",
   "attributes": {
     "所属界面": "蛮荒界",
     "所属势力": "木族",
     "危险度": "高",
-    "守护": "木猿兽、木灵",
+    "守护": "天木梦罗、木猿兽、木灵、梦罗灵树、木族、木猿兽",
     "特产": "梦罗树",
-    "类型": "黑绿色巨型森林、森林、凶险森林"
+    "类型": "黑绿色巨型森林、森林、凶险森林、森林险地"
   },
   "observations": {
     "所属界面": [
@@ -69,6 +70,16 @@
         "value": "梦罗灵树",
         "docId": "plot.fanren-ch1365-moying-zaixian",
         "seq": 1363
+      },
+      {
+        "value": "木族",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "木猿兽",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "特产": [
@@ -93,6 +104,11 @@
         "value": "凶险森林",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "森林险地",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ]
   },
@@ -118,9 +134,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+      "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
-      "seq": 1369
+      "seq": 1351
     },
     "特产": {
       "asOf": null,
@@ -143,7 +159,8 @@
     "plot.fanren-1369-1374-heiye-senlin-muzu",
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-ch1365-moying-zaixian"
+    "plot.fanren-ch1365-moying-zaixian",
+    "plot.fanren-1369-1374-black-leaf-forest-muzu"
   ],
-  "updatedAt": "2026-06-20T10:06:35.712Z"
+  "updatedAt": "2026-06-20T10:19:10.772Z"
 }

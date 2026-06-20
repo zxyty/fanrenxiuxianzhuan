@@ -7,14 +7,15 @@
     "木灵",
     "Wood Tribe",
     "木族高层",
-    "木灵一族"
+    "木灵一族",
+    "木族人"
   ],
   "summary": "五行灵族之一，灵将天樱所属。",
   "attributes": {
-    "阵营": "灵族",
+    "阵营": "灵界木族",
     "聚居地": "黑叶森林一带",
-    "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉",
-    "代表人物": "木瑞",
+    "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉、碧绿肌肤、腰带分阶、可由树木化形隐匿",
+    "代表人物": "木瑞、紫阶木灵、橙阶木灵",
     "天赋神通": "天木梦罗"
   },
   "observations": {
@@ -23,6 +24,11 @@
         "value": "灵族",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "灵界木族",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "聚居地": [
@@ -77,12 +83,37 @@
         "value": "五感差、长于灵觉",
         "docId": "plot.fanren-ch1365-moying-zaixian",
         "seq": 1363
+      },
+      {
+        "value": "碧绿肌肤",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "腰带分阶",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "可由树木化形隐匿",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "代表人物": [
       {
         "value": "木瑞",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "紫阶木灵",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "橙阶木灵",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
       }
     ],
@@ -98,9 +129,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
       "dated": false,
-      "seq": 1291
+      "seq": 1369
     },
     "聚居地": {
       "asOf": null,
@@ -138,7 +169,8 @@
     "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
     "plot.fanren-1381-1386-zhenling-xie-muling-zhizhan",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-ch1365-moying-zaixian"
+    "plot.fanren-ch1365-moying-zaixian",
+    "plot.fanren-1369-1374-black-leaf-forest-muzu"
   ],
-  "updatedAt": "2026-06-20T10:06:35.713Z"
+  "updatedAt": "2026-06-20T10:19:10.788Z"
 }

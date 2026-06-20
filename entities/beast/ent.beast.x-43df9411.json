@@ -3,14 +3,18 @@
   "type": "beast",
   "name": "木猿兽",
   "aliases": [
-    "长毛兽"
+    "长毛兽",
+    "木猿",
+    "银毛木猿",
+    "金毛木猿"
   ],
   "summary": "木族近千年研制的战兽，由森林树木幻化而成，三目、皮糙肉厚，武器毛色各异，数量数千。",
   "attributes": {
     "种族": "木族战兽",
     "栖息地": "黑叶森林",
-    "外形": "巨猿状、长毛三目",
-    "能力": "由树木幻化、群战"
+    "外形": "巨猿状、长毛三目、巨猿状、长毛、三目、毛色各异、体长七八丈、银白或赤金皮毛、持大棍/巨斧",
+    "能力": "由树木幻化、群战、第三妖目识破隐匿/幻术、树木化形",
+    "主人": "木族"
   },
   "observations": {
     "种族": [
@@ -32,12 +36,39 @@
         "value": "巨猿状、长毛三目",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
         "seq": 1369
+      },
+      {
+        "value": "巨猿状、长毛、三目、毛色各异",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "体长七八丈、银白或赤金皮毛、持大棍/巨斧",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
       }
     ],
     "能力": [
       {
         "value": "由树木幻化、群战",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "第三妖目识破隐匿/幻术",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "树木化形",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+        "seq": 1369
+      }
+    ],
+    "主人": [
+      {
+        "value": "木族",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
       }
     ]
@@ -67,12 +98,19 @@
       "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
       "dated": false,
       "seq": 1369
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+      "dated": false,
+      "seq": 1369
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1369-1374-heiye-senlin-muzu"
+    "plot.fanren-1369-1374-heiye-senlin-muzu",
+    "plot.fanren-1369-1374-black-leaf-forest-muzu"
   ],
-  "updatedAt": "2026-06-16T14:31:24.753Z"
+  "updatedAt": "2026-06-20T10:19:10.771Z"
 }

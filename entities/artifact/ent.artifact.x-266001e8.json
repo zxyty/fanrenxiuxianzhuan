@@ -6,7 +6,7 @@
   "summary": "筱虹的隐匿法宝，连同阶修士也难看穿，但被木族第三妖目识破。",
   "attributes": {
     "持有者": "筱虹",
-    "能力": "隐匿"
+    "能力": "隐匿、隐匿/障目"
   },
   "observations": {
     "持有者": [
@@ -20,6 +20,11 @@
       {
         "value": "隐匿",
         "docId": "plot.fanren-1369-1374-heiye-senlin-muzu",
+        "seq": 1369
+      },
+      {
+        "value": "隐匿/障目",
+        "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
       }
     ]
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1369-1374-heiye-senlin-muzu"
+    "plot.fanren-1369-1374-heiye-senlin-muzu",
+    "plot.fanren-1369-1374-black-leaf-forest-muzu"
   ],
-  "updatedAt": "2026-06-16T14:31:24.756Z"
+  "updatedAt": "2026-06-20T10:19:10.736Z"
 }
