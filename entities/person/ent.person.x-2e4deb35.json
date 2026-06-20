@@ -5,16 +5,24 @@
   "aliases": [],
   "summary": "冥尸谷元婴期修士，尾随宫装少妇时被其黑色火焰灵禽烧杀，连元婴化为灰烬。",
   "attributes": {
-    "小阶段": "元婴",
+    "小阶段": "元婴、元婴期",
     "阵营": "冥尸谷",
     "存殁": "死亡",
-    "死因": "被宫装少妇灵禽黑焰焚杀"
+    "死因": "被宫装少妇灵禽黑焰焚杀、被黑凤族妖女黑色火焰灵禽烧灭躯体与元婴",
+    "性别": "男",
+    "种族": "人族",
+    "外貌": "脸孔阴厉的黑袍老者"
   },
   "observations": {
     "小阶段": [
       {
         "value": "元婴",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ],
@@ -37,6 +45,33 @@
         "value": "被宫装少妇灵禽黑焰焚杀",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "被黑凤族妖女黑色火焰灵禽烧灭躯体与元婴",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "外貌": [
+      {
+        "value": "脸孔阴厉的黑袍老者",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279,
+        "note": "伪装小树"
       }
     ]
   },
@@ -65,12 +100,32 @@
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
       "seq": 1279
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279,
+      "note": "伪装小树"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:33:15.768Z"
+  "updatedAt": "2026-06-20T07:25:46.855Z"
 }

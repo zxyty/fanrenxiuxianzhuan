@@ -9,7 +9,7 @@
   "attributes": {
     "所属势力": "金玉宗",
     "类型": "灵潭",
-    "特产": "助炼体士突破瓶颈之潭水（一次性）"
+    "特产": "助炼体士突破瓶颈之潭水（一次性）、助炼体士突破瓶颈的潭水"
   },
   "observations": {
     "所属势力": [
@@ -30,6 +30,11 @@
       {
         "value": "助炼体士突破瓶颈之潭水（一次性）",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "助炼体士突破瓶颈的潭水",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ]
@@ -59,7 +64,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1287-chuancheng-zhu"
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:51:11.095Z"
+  "updatedAt": "2026-06-20T07:25:46.868Z"
 }

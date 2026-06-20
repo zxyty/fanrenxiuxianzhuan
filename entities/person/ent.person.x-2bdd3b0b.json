@@ -2,16 +2,31 @@
   "id": "ent.person.x-2bdd3b0b",
   "type": "person",
   "name": "兰儿",
-  "aliases": [],
+  "aliases": [
+    "赵府侍女"
+  ],
   "summary": "赵府清秀少女/丫鬟，与老管家一同接回黛儿。",
   "attributes": {
-    "身份": "赵府丫鬟"
+    "身份": "赵府丫鬟、赵府侍女",
+    "性别": "女"
   },
   "observations": {
     "身份": [
       {
         "value": "赵府丫鬟",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "赵府侍女",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ]
@@ -23,12 +38,19 @@
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
       "seq": 1279
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:33:15.739Z"
+  "updatedAt": "2026-06-20T07:25:46.834Z"
 }

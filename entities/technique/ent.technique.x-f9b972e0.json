@@ -6,7 +6,7 @@
   "summary": "冥尸谷的秘术，可改造尸体为尸傀儡，使其发声、行动并供分神操控。",
   "attributes": {
     "出处": "冥尸谷",
-    "效果": "改造尸体为可操控尸傀儡"
+    "效果": "改造尸体为可操控尸傀儡、改造/复活尸体、分神操控尸傀模仿生前言行"
   },
   "observations": {
     "出处": [
@@ -20,6 +20,16 @@
       {
         "value": "改造尸体为可操控尸傀儡",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "改造/复活尸体",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      },
+      {
+        "value": "分神操控尸傀模仿生前言行",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ]
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:33:15.774Z"
+  "updatedAt": "2026-06-20T07:25:46.866Z"
 }

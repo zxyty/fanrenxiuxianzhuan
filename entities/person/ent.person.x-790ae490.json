@@ -9,7 +9,9 @@
   "attributes": {
     "小阶段": "筑基期",
     "身份": "金玉宗修士",
-    "外貌": "锦袍男子"
+    "外貌": "锦袍男子、锦袍",
+    "性别": "男",
+    "阵营": "金玉宗"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +32,25 @@
       {
         "value": "锦袍男子",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "锦袍",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "阵营": [
+      {
+        "value": "金玉宗",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ]
@@ -53,12 +74,25 @@
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
       "seq": 1279
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:33:15.732Z"
+  "updatedAt": "2026-06-20T07:25:46.828Z"
 }

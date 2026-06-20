@@ -3,15 +3,18 @@
   "type": "person",
   "name": "赵城主",
   "aliases": [
-    "赵府老爷"
+    "赵府老爷",
+    "安远城赵城主"
   ],
   "summary": "安远城城主，炼体术近于筑基后期修士，城破后应能逃生，黛儿之祖父。",
   "attributes": {
-    "身份": "安远城城主",
-    "标志特征": "炼体术近筑基后期",
+    "身份": "安远城城主、炼体士",
+    "标志特征": "炼体术近筑基后期、炼体术不下筑基后期",
     "性别": "男",
     "存殁": "死亡",
-    "死因": "尸体被宫装少妇以化尸术夺用操控"
+    "死因": "尸体被宫装少妇以化尸术夺用操控、被黑凤族妖女搜魂",
+    "种族": "人族",
+    "结局": "尸体被化尸术改造成傀儡，遭妖女分神冒名操控"
   },
   "observations": {
     "身份": [
@@ -19,12 +22,22 @@
         "value": "安远城城主",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
       }
     ],
     "标志特征": [
       {
         "value": "炼体术近筑基后期",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "炼体术不下筑基后期",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ],
@@ -48,6 +61,25 @@
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279,
         "note": "真身先已死"
+      },
+      {
+        "value": "被黑凤族妖女搜魂",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      }
+    ],
+    "结局": [
+      {
+        "value": "尸体被化尸术改造成傀儡，遭妖女分神冒名操控",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
       }
     ]
   },
@@ -83,12 +115,25 @@
       "dated": false,
       "seq": 1279,
       "note": "真身先已死"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+      "dated": false,
+      "seq": 1279
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T10:33:15.765Z"
+  "updatedAt": "2026-06-20T07:25:46.853Z"
 }

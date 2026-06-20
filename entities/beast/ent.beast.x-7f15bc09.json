@@ -12,9 +12,9 @@
   "summary": "黑陵山脉巨蟒兽，口中无毒不喷毒雾，变异巨蟒体长逾十丈，数量远超青狼群。",
   "attributes": {
     "栖息地": "黑陵山脉",
-    "外形": "过丈红色巨蟒（变异者逾十丈）、红色巨蟒，变异者体长超十丈",
+    "外形": "过丈红色巨蟒（变异者逾十丈）、红色巨蟒，变异者体长超十丈、赤红巨蟒",
     "种族": "蟒蛇",
-    "能力": "力大无穷、带翅飞行、黑色毒雾、生命顽强、破坏城墙、首尾相咬弹射攻城、带翅飞行喷黑色毒雾、变异巨蟒力大无穷"
+    "能力": "力大无穷、带翅飞行、黑色毒雾、生命顽强、破坏城墙、首尾相咬弹射攻城、带翅飞行喷黑色毒雾、变异巨蟒力大无穷、生命顽强、变异巨蟒破坏力强"
   },
   "observations": {
     "栖息地": [
@@ -34,6 +34,11 @@
         "value": "红色巨蟒，变异者体长超十丈",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "赤红巨蟒",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
       }
     ],
     "种族": [
@@ -78,6 +83,16 @@
         "value": "变异巨蟒力大无穷",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "生命顽强",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
+      },
+      {
+        "value": "变异巨蟒破坏力强",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
+        "seq": 1279
       }
     ]
   },
@@ -112,7 +127,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1273-1278-anyuan-beast-tide",
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-20T07:18:08.769Z"
+  "updatedAt": "2026-06-20T07:25:46.841Z"
 }

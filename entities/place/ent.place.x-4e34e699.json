@@ -6,7 +6,7 @@
   "summary": "天元圣皇居住的天元境主城，面积之大可比人界一小国，相对最『正常』。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "城市、大城、城池",
+    "类型": "城市、大城、城池、高阶城市/辖区",
     "所属势力": "圣皇宫"
   },
   "observations": {
@@ -31,6 +31,11 @@
       {
         "value": "城池",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+        "seq": 1279
+      },
+      {
+        "value": "高阶城市/辖区",
+        "docId": "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
         "seq": 1279
       }
     ],
@@ -73,7 +78,8 @@
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1279-1284-anyuancheng-beast-tide-fall"
   ],
-  "updatedAt": "2026-06-16T11:04:31.848Z"
+  "updatedAt": "2026-06-20T07:25:46.849Z"
 }
