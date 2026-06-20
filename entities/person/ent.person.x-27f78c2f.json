@@ -6,7 +6,8 @@
     "肖姓女子",
     "肖道友",
     "肖姓女修",
-    "身材娇小的肖姓女修"
+    "身材娇小的肖姓女修",
+    "肖姓人族修士"
   ],
   "summary": "银白长裙、二十五六岁清秀女修，所修功法克制影虫兽，持百障迷光幡。",
   "attributes": {
@@ -14,9 +15,9 @@
     "外貌": "银白长裙、相貌清秀、约二十五六岁、身材婀娜娇小、银白长裙、二十五六岁、相貌清秀",
     "标志特征": "赤红玉尺、白色冰罩、持法盘、催动金篆文旗阵、持百障迷光幡、白色冰罩",
     "种族": "人族",
-    "小阶段": "化神",
+    "小阶段": "化神、化神期",
     "阵营": "人族",
-    "身份": "取血队成员"
+    "身份": "人族修士"
   },
   "observations": {
     "性别": [
@@ -77,6 +78,11 @@
         "value": "化神",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ],
     "阵营": [
@@ -91,6 +97,11 @@
         "value": "取血队成员",
         "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
+      },
+      {
+        "value": "人族修士",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ]
   },
@@ -134,9 +145,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
-      "seq": 1387
+      "seq": 1393
     }
   },
   "contested": false,
@@ -146,5 +157,5 @@
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-20T10:47:31.737Z"
+  "updatedAt": "2026-06-20T10:55:26.035Z"
 }

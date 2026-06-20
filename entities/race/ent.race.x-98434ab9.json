@@ -3,14 +3,17 @@
   "type": "race",
   "name": "夜叉族",
   "aliases": [
-    "夜叉族人"
+    "夜叉族人",
+    "Yecha",
+    "夜叉族大军"
   ],
   "summary": "天生喜食天地之灵、能克制灵族诸多神通，出动夜叉王，是五行灵族真正大敌。",
   "attributes": {
     "特性": "背生巨翅、形如恶鬼、善放刃芒",
     "代表人物": "夜叉王、梦祥、转轮王、不死王",
-    "阵营": "妖族/敌方",
-    "天赋神通": "吸食天地之灵"
+    "阵营": "妖族/敌方、妖族",
+    "天赋神通": "吸食天地之灵",
+    "聚居地": "灵界"
   },
   "observations": {
     "特性": [
@@ -52,6 +55,11 @@
         "value": "妖族/敌方",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ],
     "天赋神通": [
@@ -59,6 +67,13 @@
         "value": "吸食天地之灵",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ]
   },
@@ -87,6 +102,12 @@
       "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
       "dated": false,
       "seq": 1291
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
     }
   },
   "contested": false,
@@ -96,5 +117,5 @@
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
   ],
-  "updatedAt": "2026-06-20T07:55:03.523Z"
+  "updatedAt": "2026-06-20T10:55:26.037Z"
 }

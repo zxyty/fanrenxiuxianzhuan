@@ -8,7 +8,8 @@
     "金色瞳孔异族",
     "不死王",
     "斩巨山夜叉首领",
-    "金瞳异族"
+    "金瞳异族",
+    "夜叉首领"
   ],
   "summary": "带翅异族大军首领，瞳孔淡金、肌肤赤红、肉翅倍大，以鲜红光片配合巨大异族之力一击斩开万丈巨山。",
   "attributes": {
@@ -16,7 +17,8 @@
     "种族": "夜叉族",
     "身份": "异族大军首领、夜叉王、异族统领",
     "标志特征": "淡金瞳孔、赤红肌肤、倍大肉翅、淡金瞳、赤红肌肤、巨大肉翅",
-    "称号": "不死王、夜叉王"
+    "称号": "不死王、夜叉王",
+    "外貌": "身高十余丈、背生巨翅"
   },
   "observations": {
     "性别": [
@@ -78,6 +80,13 @@
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
+    ],
+    "外貌": [
+      {
+        "value": "身高十余丈、背生巨翅",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
     ]
   },
   "firstSeq": 1387,
@@ -111,6 +120,12 @@
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
     }
   },
   "contested": false,
@@ -120,5 +135,5 @@
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-20T10:47:31.742Z"
+  "updatedAt": "2026-06-20T10:55:26.035Z"
 }

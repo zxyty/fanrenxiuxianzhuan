@@ -15,7 +15,8 @@
     "身份": "天渊城金卫、队伍首领、取血队首领",
     "外貌": "满头银发、面若处子的俊美青年、银发青年、银发、满头银发、面若处子的俊美年轻人",
     "出身地": "下界飞升",
-    "阵营": "人族"
+    "阵营": "人族",
+    "种族": "人族"
   },
   "observations": {
     "性别": [
@@ -89,6 +90,13 @@
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      }
     ]
   },
   "firstSeq": 1387,
@@ -128,6 +136,12 @@
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+      "dated": false,
+      "seq": 1393
     }
   },
   "contested": false,
@@ -137,5 +151,5 @@
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1387-1392-juji-tumou-zhenchan"
   ],
-  "updatedAt": "2026-06-20T10:47:31.734Z"
+  "updatedAt": "2026-06-20T10:55:26.007Z"
 }

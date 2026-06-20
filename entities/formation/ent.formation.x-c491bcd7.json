@@ -1,37 +1,29 @@
 {
-  "id": "ent.person.x-ecc252f2",
-  "type": "person",
-  "name": "转轮王",
+  "id": "ent.formation.x-c491bcd7",
+  "type": "formation",
+  "name": "传送光阵",
   "aliases": [],
-  "summary": "夜叉王，看出韩立、肖姓女子血脉不凡，提议以二人为赌注各放猖奴追杀。",
+  "summary": "肖姓女子以三十六杆阵旗、银蝌文与金篆文催动法盘召出的百余丈光阵，威能远胜大庚剑阵，可远距离传送自身及敌人。",
   "attributes": {
-    "种族": "夜叉族",
-    "称号": "转轮王、夜叉王",
-    "身份": "夜叉王"
+    "布置者": "肖姓女子",
+    "效果": "远距离传送、传送敌人"
   },
   "observations": {
-    "种族": [
+    "布置者": [
       {
-        "value": "夜叉族",
+        "value": "肖姓女子",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
     ],
-    "称号": [
+    "效果": [
       {
-        "value": "转轮王",
+        "value": "远距离传送",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       },
       {
-        "value": "夜叉王",
-        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
-        "seq": 1393
-      }
-    ],
-    "身份": [
-      {
-        "value": "夜叉王",
+        "value": "传送敌人",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
@@ -39,19 +31,13 @@
   },
   "firstSeq": 1393,
   "attrProvenance": {
-    "种族": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
       "seq": 1393
     },
-    "称号": {
-      "asOf": null,
-      "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
-      "dated": false,
-      "seq": 1393
-    },
-    "身份": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
       "dated": false,
@@ -63,5 +49,5 @@
   "docs": [
     "plot.fanren-1393-1398-yecha-wang-changnu"
   ],
-  "updatedAt": "2026-06-20T10:55:26.036Z"
+  "updatedAt": "2026-06-20T10:55:26.043Z"
 }

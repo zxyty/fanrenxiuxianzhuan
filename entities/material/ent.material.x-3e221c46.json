@@ -8,15 +8,20 @@
   ],
   "summary": "赤红海岸所产、龟纹含银的灵龟之壳，异常坚硬可挡强击；银纹越纯越坚。",
   "attributes": {
-    "类型": "灵龟甲壳",
-    "用途": "极坚防御材料",
-    "产地": "灵界赤红海洋海滩",
-    "稀有度": "稀有（深埋沙下）"
+    "类型": "灵龟甲壳、妖材/龟壳",
+    "用途": "极坚防御材料、抗击/疑似炼器材料",
+    "产地": "灵界赤红海洋海滩、赤红海岸沙滩",
+    "稀有度": "稀有（深埋沙下）、稀有"
   },
   "observations": {
     "类型": [
       {
         "value": "灵龟甲壳",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      },
+      {
+        "value": "妖材/龟壳",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
@@ -26,6 +31,11 @@
         "value": "极坚防御材料",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "抗击/疑似炼器材料",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ],
     "产地": [
@@ -33,11 +43,21 @@
         "value": "灵界赤红海洋海滩",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
+      },
+      {
+        "value": "赤红海岸沙滩",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
       }
     ],
     "稀有度": [
       {
         "value": "稀有（深埋沙下）",
+        "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
+        "seq": 1393
+      },
+      {
+        "value": "稀有",
         "docId": "plot.fanren-1393-1398-yecha-wang-changnu",
         "seq": 1393
       }
@@ -75,5 +95,5 @@
   "docs": [
     "plot.fanren-1393-1398-yecha-wang-changnu"
   ],
-  "updatedAt": "2026-06-16T15:11:49.232Z"
+  "updatedAt": "2026-06-20T10:55:26.054Z"
 }
