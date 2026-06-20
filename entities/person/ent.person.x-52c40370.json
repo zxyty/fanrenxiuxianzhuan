@@ -8,10 +8,10 @@
   ],
   "summary": "琼鼠族长老,炼虚中期妖修,已成就五行之体,面目清秀、肩停发光飞蛾;揭破人族埋伏并促成人妖联手。",
   "attributes": {
-    "种族": "琼鼠族",
+    "种族": "琼鼠族、妖族",
     "小阶段": "炼虚中期",
     "身份": "琼鼠族长老",
-    "标志特征": "五行之体、肩停发光飞蛾",
+    "标志特征": "五行之体、肩停发光飞蛾、清秀少年、肩头发光飞蛾",
     "外貌": "面目清秀少年"
   },
   "observations": {
@@ -19,6 +19,11 @@
       {
         "value": "琼鼠族",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ],
@@ -45,6 +50,16 @@
       {
         "value": "肩停发光飞蛾",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "清秀少年",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "肩头发光飞蛾",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ],
@@ -92,7 +107,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-16T11:26:21.036Z"
+  "updatedAt": "2026-06-20T08:08:58.583Z"
 }

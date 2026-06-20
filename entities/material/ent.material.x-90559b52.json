@@ -8,8 +8,8 @@
   "summary": "圣灵级灵族消亡后身体本源所生的神秘液体，可点化灵物为低阶灵族，亦为炼制血阳丹、修成血晶战衣之原料，是灵族保族至宝。",
   "attributes": {
     "类型": "灵族神血",
-    "用途": "点化灵物生灵族、炼制血阳丹、修血晶战衣、助炼体士突破瓶颈",
-    "稀有度": "极稀有",
+    "用途": "点化灵物生灵族、炼制血阳丹、修血晶战衣、助炼体士突破瓶颈、点化天地灵物生灵智进化低阶灵族、炼血阳丹",
+    "稀有度": "极稀有、极稀有秘宝",
     "产地": "灵族"
   },
   "observations": {
@@ -45,12 +45,27 @@
         "value": "助炼体士突破瓶颈",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "点化天地灵物生灵智进化低阶灵族",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "炼血阳丹",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "稀有度": [
       {
         "value": "极稀有",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "极稀有秘宝",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ],
@@ -98,7 +113,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-16T11:47:43.536Z"
+  "updatedAt": "2026-06-20T08:08:58.604Z"
 }

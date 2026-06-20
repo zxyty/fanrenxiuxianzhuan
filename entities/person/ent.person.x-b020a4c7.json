@@ -6,9 +6,11 @@
   "summary": "五行灵族灵将，黄袍拄白拐杖老者，主张击杀韩立、削弱人族。",
   "attributes": {
     "性别": "男",
-    "种族": "灵族",
+    "种族": "器灵族",
     "身份": "中阶神将",
-    "外貌": "黄袍、拄白色拐杖的老者小人、拄白石拐老翁、黄袍、白色拐杖"
+    "外貌": "黄袍、拄白色拐杖的老者小人、拄白石拐老翁、黄袍、白色拐杖",
+    "小阶段": "中阶灵将",
+    "标志特征": "石巨人、白色石拐"
   },
   "observations": {
     "性别": [
@@ -23,6 +25,11 @@
         "value": "灵族",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "器灵族",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "身份": [
@@ -53,6 +60,25 @@
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
+    ],
+    "小阶段": [
+      {
+        "value": "中阶灵将",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "石巨人",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "白色石拐",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
     ]
   },
   "firstSeq": 1291,
@@ -65,9 +91,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1291
+      "seq": 1297
     },
     "身份": {
       "asOf": null,
@@ -80,6 +106,18 @@
       "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
       "seq": 1291
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
@@ -87,7 +125,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.451Z"
+  "updatedAt": "2026-06-20T08:08:58.582Z"
 }

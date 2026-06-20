@@ -5,15 +5,17 @@
   "aliases": [
     "绿袍裙女子",
     "绿装女子",
-    "绿裙女子"
+    "绿裙女子",
+    "筱丫头"
   ],
   "summary": "木灵族灵将，本体为木樱成灵，能观察常人难见之物，察觉韩立神识强大而主张不轻举妄动。",
   "attributes": {
     "性别": "女",
-    "种族": "木灵族、灵族",
+    "种族": "木灵族、灵族、器灵族",
     "身份": "中阶神将",
     "外貌": "绿裙女子",
-    "标志特征": "本体木樱成灵"
+    "标志特征": "翠绿木凤",
+    "小阶段": "中阶灵将"
   },
   "observations": {
     "性别": [
@@ -33,6 +35,11 @@
         "value": "灵族",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1291
+      },
+      {
+        "value": "器灵族",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "身份": [
@@ -64,6 +71,18 @@
         "value": "本体木樱成灵",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "翠绿木凤",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "中阶灵将",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ]
   },
@@ -95,9 +114,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1291
+      "seq": 1297
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
@@ -105,7 +130,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.449Z"
+  "updatedAt": "2026-06-20T08:08:58.583Z"
 }

@@ -6,8 +6,9 @@
   "summary": "炼体士以灵族神血涂身修成的秘术，可一段时间内抵挡炼虚之下任何攻击，威力胜金刚诀等炼体术大成，为一次性消耗。",
   "attributes": {
     "出处": "炼体士秘术",
-    "效果": "一段时间内挡炼虚之下任何攻击、一次性消耗",
-    "修炼条件": "以灵族神血涂全身"
+    "效果": "一段时间内挡炼虚之下任何攻击、一次性消耗、短时抵挡炼虚以下任何攻击、威力在金刚诀等炼体术大成之上",
+    "修炼条件": "以灵族神血涂全身、神血涂抹全身",
+    "适用境界": "炼体士"
   },
   "observations": {
     "出处": [
@@ -27,12 +28,34 @@
         "value": "一次性消耗",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "短时抵挡炼虚以下任何攻击",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "威力在金刚诀等炼体术大成之上",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "修炼条件": [
       {
         "value": "以灵族神血涂全身",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "神血涂抹全身",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ]
@@ -56,12 +79,19 @@
       "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
       "seq": 1297
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-16T11:26:21.062Z"
+  "updatedAt": "2026-06-20T08:08:58.607Z"
 }

@@ -4,14 +4,16 @@
   "name": "灵族叛逆",
   "aliases": [
     "器灵族叛逆",
-    "那叛逆"
+    "那叛逆",
+    "灵族之人叛逆者"
   ],
   "summary": "出自器灵族、携神血逃入落日之墓的灵族叛逆，已被打成重伤并下感应标记，欲投奔人族。",
   "attributes": {
     "种族": "器灵族、灵族",
     "身份": "叛逆",
     "存殁": "重伤未死、死亡",
-    "结局": "被追杀，困于落日之墓"
+    "结局": "被追杀，困于落日之墓",
+    "死因": "被上古巨人吞噬（韩立推断）"
   },
   "observations": {
     "种族": [
@@ -51,6 +53,13 @@
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
       }
+    ],
+    "死因": [
+      {
+        "value": "被上古巨人吞噬（韩立推断）",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
     ]
   },
   "firstSeq": 1291,
@@ -78,6 +87,12 @@
       "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
       "dated": false,
       "seq": 1291
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
@@ -85,7 +100,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.517Z"
+  "updatedAt": "2026-06-20T08:08:58.635Z"
 }

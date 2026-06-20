@@ -2,14 +2,17 @@
   "id": "ent.place.x-b35bbb1a",
   "type": "place",
   "name": "混沌谷",
-  "aliases": [],
+  "aliases": [
+    "谷中",
+    "混沌谷迷雾"
+  ],
   "summary": "落日之墓中一座灰濛濛山谷，有上古巨人传闻、修士莫名失踪；谷中『炙光潭』神秘凶险，为叛逆藏身处与各方争夺焦点。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "山谷、凶地",
+    "类型": "山谷、凶地、灵族据点、山谷（百余里）、秘谷",
     "危险度": "极高、高（地下有反弹之力）、高",
-    "守护": "天樱、黄石",
-    "特产": "神血(机会)"
+    "守护": "天樱、黄石、石巨人傀儡、绿色木鸟傀儡、反弹之力（克制遁地）、上古独目巨人",
+    "特产": "神血(机会)、神血、炙光潭、灵族神血争夺地"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +32,21 @@
         "value": "凶地",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      },
+      {
+        "value": "灵族据点",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "山谷（百余里）",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "秘谷",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "危险度": [
@@ -58,12 +76,42 @@
         "value": "黄石",
         "docId": "plot.fanren-1293-yinxinshi-tianxindan",
         "seq": 1291
+      },
+      {
+        "value": "石巨人傀儡",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "绿色木鸟傀儡",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "反弹之力（克制遁地）",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "上古独目巨人",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "特产": [
       {
         "value": "神血(机会)",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "神血",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "炙光潭、灵族神血争夺地",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ]
@@ -107,7 +155,8 @@
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.527Z"
+  "updatedAt": "2026-06-20T08:08:58.642Z"
 }

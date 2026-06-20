@@ -10,8 +10,10 @@
   "attributes": {
     "阵营": "人族、蓝城主一方",
     "小阶段": "化神期",
-    "存殁": "生死不明",
-    "外貌": "瘦高、乌黑佛珠"
+    "存殁": "生死不明、死亡",
+    "外貌": "瘦高、乌黑佛珠",
+    "身份": "蓝城主部下",
+    "死因": "被上古巨人吸入炙光潭"
   },
   "observations": {
     "阵营": [
@@ -39,6 +41,11 @@
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297,
         "note": "被上古巨人吸入潭水失踪"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "外貌": [
@@ -46,6 +53,20 @@
         "value": "瘦高、乌黑佛珠",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      }
+    ],
+    "身份": [
+      {
+        "value": "蓝城主部下",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
+    ],
+    "死因": [
+      {
+        "value": "被上古巨人吸入炙光潭",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ]
   },
@@ -75,13 +96,26 @@
       "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
       "dated": false,
       "seq": 1291
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.458Z"
+  "updatedAt": "2026-06-20T08:08:58.631Z"
 }

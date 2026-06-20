@@ -13,7 +13,8 @@
     "外貌": "白袍中年人、白袍中年",
     "阵营": "人族修士",
     "种族": "人族",
-    "小阶段": "化神级以上、化神期"
+    "小阶段": "化神级以上、化神期、化神",
+    "标志特征": "七口蓝色飞剑、五口蓝色飞剑"
   },
   "observations": {
     "性别": [
@@ -76,6 +77,23 @@
         "value": "化神期",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "七口蓝色飞剑",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "五口蓝色飞剑",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ]
   },
@@ -116,6 +134,12 @@
       "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
       "seq": 1297
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+      "dated": false,
+      "seq": 1297
     }
   },
   "contested": false,
@@ -123,7 +147,8 @@
   "docs": [
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.520Z"
+  "updatedAt": "2026-06-20T08:08:58.630Z"
 }

@@ -2,12 +2,14 @@
   "id": "ent.race.x-6777102d",
   "type": "race",
   "name": "器灵族",
-  "aliases": [],
+  "aliases": [
+    "水族"
+  ],
   "summary": "携神血叛逃的灵族叛逆所属之族，欲派人追杀叛逆，被五行族斥为贪图神血。",
   "attributes": {
     "阵营": "灵族",
     "代表人物": "旭天、黄石公、天樱",
-    "特性": "以器物为本体",
+    "特性": "八大玄灵、以器物为本体、寿元极长、五行分族、石/木/金等傀儡之躯",
     "聚居地": "灵界"
   },
   "observations": {
@@ -45,6 +47,21 @@
         "value": "以器物为本体",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "寿元极长",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "五行分族",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "石/木/金等傀儡之躯",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "聚居地": [
@@ -71,9 +88,9 @@
     },
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1303
+      "seq": 1291
     },
     "聚居地": {
       "asOf": null,
@@ -88,7 +105,8 @@
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.522Z"
+  "updatedAt": "2026-06-20T08:08:58.624Z"
 }

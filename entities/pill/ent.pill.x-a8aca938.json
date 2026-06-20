@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "以灵族神血为原料炼制的灵药，服后可凭空增添元婴以上修士百余年苦修之功。",
   "attributes": {
-    "功效": "增添元婴以上修士百余年苦修之功",
+    "功效": "增添元婴以上修士百余年苦修之功、凭空增百余年苦修之功",
     "适用境界": "元婴以上",
     "主料": "灵族神血"
   },
@@ -14,6 +14,11 @@
       {
         "value": "增添元婴以上修士百余年苦修之功",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "凭空增百余年苦修之功",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1299-shiyan-takeover"
+    "plot.fanren-1299-shiyan-takeover",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-16T11:26:21.061Z"
+  "updatedAt": "2026-06-20T08:08:58.606Z"
 }

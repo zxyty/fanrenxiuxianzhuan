@@ -13,11 +13,11 @@
   ],
   "summary": "韩立依金阙玉书残页参悟炼成的一次性隐匿符箓，以银蝌灵文书写，使持有者雾化无形、瞒过同阶。",
   "attributes": {
-    "品阶": "仙家符箓",
+    "品阶": "半仙家灵符（半成品）、仙家符箓、半仙家灵符（隐匿符，半成品）",
     "持有者": "韩立",
-    "能力": "隐匿无形、瞒过同阶存在、化身体为虚无、瞒过炼虚修士耳目、虚无态仍可调动法宝灵力、虚化身体、隐匿、隐匿身形气息",
-    "来历": "依金阙玉书残页参悟、人界炼成",
-    "外形": "紫色符箓",
+    "能力": "隐匿无形、瞒过同阶存在、化身体为虚无、瞒过炼虚修士耳目、虚无态仍可调动法宝灵力、虚化身体、隐匿、隐匿身形气息、化身透明雾形隐匿",
+    "来历": "依金阙玉书残页参悟、人界炼成、金阙玉书残页",
+    "外形": "紫色符箓，上有银色符文、紫色符箓、紫色符箓，浮现银蝌灵文",
     "禁制": "施展过强手段会自破"
   },
   "observations": {
@@ -31,6 +31,11 @@
         "value": "仙家符箓",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "半仙家灵符（隐匿符，半成品）",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "持有者": [
@@ -75,12 +80,22 @@
         "value": "隐匿身形气息",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "化身透明雾形隐匿",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "来历": [
       {
         "value": "依金阙玉书残页参悟、人界炼成",
         "docId": "plot.fanren-1299-shiyan-takeover",
+        "seq": 1297
+      },
+      {
+        "value": "金阙玉书残页",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
       }
     ],
@@ -95,6 +110,11 @@
         "value": "紫色符箓",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "紫色符箓，浮现银蝌灵文",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ],
     "禁制": [
@@ -102,6 +122,11 @@
         "value": "施展过强手段会自破",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "限于材料，使用时无法动用耗灵力的秘术法宝",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ]
   },
@@ -109,9 +134,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1341-leipao-xianshi",
+      "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1339
+      "seq": 1297
     },
     "持有者": {
       "asOf": null,
@@ -133,9 +158,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
+      "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1489
+      "seq": 1297,
+      "note": "激发后化银雾"
     },
     "禁制": {
       "asOf": null,
@@ -154,7 +180,8 @@
     "plot.fanren-1369-1374-heiye-senlin-muzu",
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
-    "plot.fanren-1489-1494-dazhan-minglei-shou"
+    "plot.fanren-1489-1494-dazhan-minglei-shou",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-16T18:22:13.499Z"
+  "updatedAt": "2026-06-20T08:08:58.647Z"
 }

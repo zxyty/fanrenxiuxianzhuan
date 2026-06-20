@@ -16,7 +16,7 @@
     "阵营": "灵族",
     "小阶段": "炼虚期",
     "外貌": "面容普通、皂青长袍、脚踩血色云雾、皂青长袍男子",
-    "标志特征": "透明模糊影子"
+    "标志特征": "透明模糊影子、皂青长袍、血莲/血河神通"
   },
   "observations": {
     "种族": [
@@ -113,6 +113,16 @@
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303,
         "note": "潜伏隐匿"
+      },
+      {
+        "value": "皂青长袍",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
+      },
+      {
+        "value": "血莲/血河神通",
+        "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+        "seq": 1297
       }
     ]
   },
@@ -156,10 +166,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1303,
-      "note": "潜伏隐匿"
+      "seq": 1297
     }
   },
   "contested": false,
@@ -168,7 +177,8 @@
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
   ],
-  "updatedAt": "2026-06-20T07:55:03.517Z"
+  "updatedAt": "2026-06-20T08:08:58.577Z"
 }
