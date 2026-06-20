@@ -1,0 +1,62 @@
+{
+  "id": "ent.person.x-3bca6955",
+  "type": "person",
+  "name": "辛姓披发大汉",
+  "aliases": [],
+  "summary": "鲍姓汉子的炼体士同伴，长发披肩、背金枪，曾起劫财之念被劝止。",
+  "attributes": {
+    "性别": "男",
+    "身份": "炼体士",
+    "外貌": "身材高大、长发披肩、背金枪"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "炼体士",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身材高大、长发披肩、背金枪",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city"
+  ],
+  "updatedAt": "2026-06-20T07:11:01.040Z"
+}

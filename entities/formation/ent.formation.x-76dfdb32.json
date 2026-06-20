@@ -4,19 +4,35 @@
   "name": "超级仙阵",
   "aliases": [
     "超级古仙阵",
-    "十大阵眼仙阵"
+    "十大阵眼仙阵",
+    "古仙阵"
   ],
   "summary": "源自真仙界、由初代三皇七妖王及众多大神通者布下的古仙阵，笼罩三境七地；专挡过强异族（越强越阻），共十个阵眼。",
   "attributes": {
-    "效果": "阻挡过强异族入侵，越强越受阻",
-    "出处": "真仙界",
-    "破解法": "摧毁对应阵眼"
+    "效果": "阻挡过强异族入侵，越强越受阻、专门阻挡过于强大的异族生灵、个体越强越被阻、中低阶妖兽不受限",
+    "出处": "真仙界、真仙界流传",
+    "破解法": "摧毁对应阵眼、同时对抗十大阵眼之力或摧毁圣山/古龟/灵树"
   },
   "observations": {
     "效果": [
       {
         "value": "阻挡过强异族入侵，越强越受阻",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "专门阻挡过于强大的异族生灵",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "个体越强越被阻",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "中低阶妖兽不受限",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ],
@@ -25,12 +41,22 @@
         "value": "真仙界",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "真仙界流传",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "破解法": [
       {
         "value": "摧毁对应阵眼",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "同时对抗十大阵眼之力或摧毁圣山/古龟/灵树",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ]
@@ -59,7 +85,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:12:05.279Z"
+  "updatedAt": "2026-06-20T07:11:01.083Z"
 }

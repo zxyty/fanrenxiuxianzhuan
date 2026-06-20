@@ -10,7 +10,7 @@
   "summary": "人族三皇之一，简称『灵皇』，统治天灵境，主城天灵城建于直通仙界的擎天灵树上。",
   "attributes": {
     "称号": "三皇之一·灵皇",
-    "身份": "灵界三皇之一",
+    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一",
     "种族": "人族"
   },
   "observations": {
@@ -36,6 +36,11 @@
         "value": "灵界三皇之一",
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333
+      },
+      {
+        "value": "人族三皇之一",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "种族": [
@@ -56,9 +61,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
       "dated": false,
-      "seq": 1333
+      "seq": 1267
     },
     "种族": {
       "asOf": null,
@@ -72,7 +77,8 @@
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T15:50:19.151Z"
+  "updatedAt": "2026-06-20T07:11:01.077Z"
 }

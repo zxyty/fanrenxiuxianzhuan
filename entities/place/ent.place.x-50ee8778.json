@@ -3,13 +3,14 @@
   "type": "place",
   "name": "天灵境",
   "aliases": [
-    "人族天灵境"
+    "人族天灵境",
+    "天灵城"
   ],
   "summary": "天妙灵皇统治的人族境域，主城天灵城建于直径百里、据说直通仙界的擎天灵树上，阵眼即擎天灵树。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "高空飞岛禁地",
-    "守护": "超级仙阵（阵眼擎天灵树）",
+    "类型": "人族境域、高空飞岛禁地、人族三皇境之一",
+    "守护": "超级仙阵（阵眼擎天灵树）、擎天灵树（仙阵阵眼）",
     "所属势力": "人族"
   },
   "observations": {
@@ -30,12 +31,22 @@
         "value": "高空飞岛禁地",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "人族三皇境之一",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "守护": [
       {
         "value": "超级仙阵（阵眼擎天灵树）",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "擎天灵树（仙阵阵眼）",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ],
@@ -57,9 +68,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1323-xuantian-fruit",
+      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
       "dated": false,
-      "seq": 1321
+      "seq": 1267
     },
     "守护": {
       "asOf": null,
@@ -78,7 +89,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T12:27:08.899Z"
+  "updatedAt": "2026-06-20T07:11:01.080Z"
 }

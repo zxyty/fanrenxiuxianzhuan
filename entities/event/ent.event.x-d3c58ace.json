@@ -12,10 +12,10 @@
   "summary": "约二十余年前发生的妖兽之祸，青灵门唯一的结丹期长老于此役陨落；韩立对此事表现出意外与关注。",
   "attributes": {
     "结果": "黑石城被毁、人类修士几近全灭、外海人类聚居村镇尽毁",
-    "参与方": "青灵门、妖兽",
-    "地点": "奇渊岛、黑石城、深渊海域、安远城",
-    "起因": "深渊海域妖兽无征兆狂涌、强大兽群迁入或千年大兽潮、兽类繁衍争地盘、协议禁高阶清剿",
-    "影响": "奇渊岛成高阶妖兽聚集地，幸存修士被持续清剿；内星海断绝消息未派援兵、城主雇全城炼体士守城、低阶伤亡巨大，亦多生死突破"
+    "参与方": "青灵门、妖兽、各城炼体士、兽群",
+    "地点": "奇渊岛、黑石城、深渊海域、安远城、安远城（即将爆发，疑为大兽潮）",
+    "起因": "深渊海域妖兽无征兆狂涌、强大兽群迁入或千年大兽潮、兽类繁衍争地盘、协议禁高阶清剿、兽群周期性来袭、兽群繁衍力强、受协议庇护、为争地盘厮杀并引同类攻城",
+    "影响": "奇渊岛成高阶妖兽聚集地，幸存修士被持续清剿；内星海断绝消息未派援兵、城主雇全城炼体士守城、低阶伤亡巨大，亦多生死突破、低阶人员伤亡大，但常借生死一线突破瓶颈"
   },
   "observations": {
     "结果": [
@@ -40,6 +40,16 @@
         "value": "妖兽",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
+      },
+      {
+        "value": "各城炼体士",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "兽群",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "地点": [
@@ -62,6 +72,11 @@
         "value": "安远城",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "安远城（即将爆发，疑为大兽潮）",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "起因": [
@@ -79,6 +94,16 @@
         "value": "兽类繁衍争地盘、协议禁高阶清剿",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "兽群周期性来袭",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "兽群繁衍力强、受协议庇护、为争地盘厮杀并引同类攻城",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "影响": [
@@ -95,6 +120,11 @@
       {
         "value": "低阶伤亡巨大，亦多生死突破",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "低阶人员伤亡大，但常借生死一线突破瓶颈",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ]
@@ -137,7 +167,8 @@
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
     "plot.fanren-529-534-gongsun-xing-yu-shou-chao",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:12:05.280Z"
+  "updatedAt": "2026-06-20T07:11:01.084Z"
 }

@@ -10,8 +10,9 @@
   "summary": "灵界一支大型商号，以护卫队护送贵重货物穿越青罗沙漠；以血咒文书招募效力者。",
   "attributes": {
     "所属界面": "灵界、灵界·天元境、灵界天元境",
-    "等级": "天元境三大商号之一",
-    "据点": "天元圣城(总部)、天元境、如云客栈西院、灵界人类城市、天元圣城（总部）、数百城市分号"
+    "等级": "商号",
+    "据点": "天元圣城(总部)、天元境、如云客栈西院、灵界人类城市、天元圣城（总部）、数百城市分号",
+    "理念": "经营货殖、雇修护商"
   },
   "observations": {
     "所属界面": [
@@ -36,6 +37,11 @@
         "value": "天元境三大商号之一",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "商号",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "据点": [
@@ -69,6 +75,13 @@
         "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
+    ],
+    "理念": [
+      {
+        "value": "经营货殖、雇修护商",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
     ]
   },
   "firstSeq": 1261,
@@ -81,15 +94,21 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "docId": "plot.fanren-1267-1272-anyuan-city",
       "dated": false,
-      "seq": 1261
+      "seq": 1267
     },
     "据点": {
       "asOf": null,
       "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
       "dated": false,
       "seq": 1261
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
     }
   },
   "contested": false,
@@ -100,7 +119,8 @@
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
     "plot.fanren-1287-chuancheng-zhu",
-    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-20T07:02:22.225Z"
+  "updatedAt": "2026-06-20T07:11:01.094Z"
 }

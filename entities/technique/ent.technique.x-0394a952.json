@@ -7,9 +7,10 @@
   ],
   "summary": "金蛟王储物袋所得奇异法决，人妖皆可如陪炼法宝般淬炼自身骨骼以强健肉身，耗时甚长。",
   "attributes": {
-    "效果": "淬炼骨骼强化肉身、淬炼骨骼（粗大呈淡金）、与明王决相辅相成、淬炼骨骼、强化肉身",
+    "效果": "淬炼骨骼强化肉身、淬炼骨骼（粗大呈淡金）、与明王决相辅相成、淬炼骨骼、强化肉身、强化肉身至不下妖兽之体",
     "修炼条件": "耗时长、配合龙鳞果炼化药力、耗时极长",
-    "出处": "金蛟王储物袋玉简、金蛟王储物袋上古传承"
+    "出处": "金蛟王储物袋玉简、金蛟王储物袋上古传承",
+    "适用境界": "炼体"
   },
   "observations": {
     "效果": [
@@ -27,6 +28,11 @@
         "value": "淬炼骨骼、强化肉身",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "强化肉身至不下妖兽之体",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "修炼条件": [
@@ -57,6 +63,13 @@
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
       }
+    ],
+    "适用境界": [
+      {
+        "value": "炼体",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
     ]
   },
   "firstSeq": 1249,
@@ -78,6 +91,12 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
     }
   },
   "contested": false,
@@ -87,7 +106,8 @@
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-20T06:47:36.391Z"
+  "updatedAt": "2026-06-20T07:11:01.085Z"
 }

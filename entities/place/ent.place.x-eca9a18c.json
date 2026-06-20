@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "灵界一座偏僻小城，城主以天价灵石雇天东商号运送关系全城安危的货物。",
   "attributes": {
-    "所属界面": "灵界、灵界天元境",
-    "类型": "城池、城市、石城、人类城市、人族城池、城市废墟",
-    "危险度": "面临兽潮/大兽潮、面临大兽潮、兽潮围城、兽潮围城,前景堪忧、本章被兽潮攻破、已被攻破",
+    "所属界面": "灵界、灵界天元境、灵界·天元境",
+    "类型": "城池、城市、石城、人类城市、人族城池、城市废墟、人族城市",
+    "危险度": "面临兽潮/大兽潮、面临大兽潮、兽潮围城、兽潮围城,前景堪忧、本章被兽潮攻破、已被攻破、兽潮将至，高度戒备、临兽潮",
     "所属势力": "天元镜",
     "守护": "赵某(城主)"
   },
@@ -22,6 +22,11 @@
         "value": "灵界天元境",
         "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
+      },
+      {
+        "value": "灵界·天元境",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "类型": [
@@ -54,6 +59,11 @@
         "value": "城市废墟",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "人族城市",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "危险度": [
@@ -87,6 +97,16 @@
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279,
         "note": "本章兽群联手破城"
+      },
+      {
+        "value": "兽潮将至，高度戒备",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "临兽潮",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "所属势力": [
@@ -94,6 +114,11 @@
         "value": "天元镜",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "守护": [
@@ -150,7 +175,8 @@
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
     "plot.fanren-1287-chuancheng-zhu",
-    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-20T07:02:22.234Z"
+  "updatedAt": "2026-06-20T07:11:01.092Z"
 }

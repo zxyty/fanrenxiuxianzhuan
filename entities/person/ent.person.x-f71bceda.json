@@ -8,9 +8,10 @@
   "summary": "金玉宗弟子，面容年轻、鬓角灰白、神情冷漠；修为已达筑基后期大成的假丹境界，看出韩立有天生神力。",
   "attributes": {
     "性别": "男",
-    "小阶段": "假丹（筑基后期大成）",
-    "外貌": "锦袍、鬓角灰白",
-    "性格": "冷漠"
+    "小阶段": "假丹（筑基后期大成）、筑基后期（假丹境）",
+    "外貌": "锦袍、鬓角灰白、面容年轻、鬓角灰白、锦袍",
+    "性格": "冷漠",
+    "身份": "金玉宗弟子"
   },
   "observations": {
     "性别": [
@@ -25,6 +26,11 @@
         "value": "假丹（筑基后期大成）",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "筑基后期（假丹境）",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "外貌": [
@@ -32,12 +38,24 @@
         "value": "锦袍、鬓角灰白",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "面容年轻、鬓角灰白、锦袍",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "性格": [
       {
         "value": "冷漠",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "金玉宗弟子",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ]
@@ -67,12 +85,19 @@
       "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
       "dated": false,
       "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:12:05.283Z"
+  "updatedAt": "2026-06-20T07:11:01.097Z"
 }

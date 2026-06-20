@@ -2,12 +2,14 @@
   "id": "ent.place.x-ab61b0b8",
   "type": "place",
   "name": "玄武境",
-  "aliases": [],
+  "aliases": [
+    "玄武镜"
+  ],
   "summary": "玄武霸皇统治的人族境域，主城玄武城建于远古巨龟骖灵背上，阵眼即骖灵古龟。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "人族境域",
-    "守护": "超级仙阵（阵眼骖灵古龟）"
+    "类型": "人族境域、人族三皇境之一",
+    "守护": "超级仙阵（阵眼骖灵古龟）、骖灵古龟（仙阵阵眼）"
   },
   "observations": {
     "所属界面": [
@@ -22,12 +24,22 @@
         "value": "人族境域",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "人族三皇境之一",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "守护": [
       {
         "value": "超级仙阵（阵眼骖灵古龟）",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "骖灵古龟（仙阵阵眼）",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ]
@@ -56,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:12:05.276Z"
+  "updatedAt": "2026-06-20T07:11:01.080Z"
 }

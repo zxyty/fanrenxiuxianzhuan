@@ -10,8 +10,8 @@
   "summary": "黄袍道士，三十余岁，脸现青光的筑基期修士，受托为韩立诊治、赠清心符。",
   "attributes": {
     "道号": "南歧子",
-    "小阶段": "筑基期",
-    "身份": "修仙士、受雇修士/道长、岣嵝山修士/天东商号雇佣修仙者",
+    "小阶段": "结丹",
+    "身份": "修仙士、受雇修士/道长、岣嵝山修士/天东商号雇佣修仙者、岣嵝山雇佣修士",
     "外貌": "三十余岁黄袍道士，脸现青光、三十余岁、脸上青光微闪",
     "性别": "男",
     "出身地": "岣嵝山",
@@ -30,6 +30,11 @@
         "value": "筑基期",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "身份": [
@@ -47,6 +52,11 @@
         "value": "岣嵝山修士/天东商号雇佣修仙者",
         "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
+      },
+      {
+        "value": "岣嵝山雇佣修士",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "外貌": [
@@ -93,9 +103,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+      "docId": "plot.fanren-1267-1272-anyuan-city",
       "dated": false,
-      "seq": 1261
+      "seq": 1267
     },
     "身份": {
       "asOf": null,
@@ -133,7 +143,8 @@
   "docs": [
     "plot.fanren-1261-1266-blood-curse-tiandong",
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-20T07:02:22.218Z"
+  "updatedAt": "2026-06-20T07:11:01.027Z"
 }

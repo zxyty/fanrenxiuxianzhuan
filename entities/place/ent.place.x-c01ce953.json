@@ -8,7 +8,7 @@
   "summary": "七大妖王统治的妖族境域，与人族半敌半友，亦设有超级仙阵的阵眼。",
   "attributes": {
     "所属界面": "灵界",
-    "所属势力": "七大妖王",
+    "所属势力": "七大妖王、妖族七大妖王",
     "类型": "妖族境域"
   },
   "observations": {
@@ -23,6 +23,11 @@
       {
         "value": "七大妖王",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "妖族七大妖王",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ],
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:12:05.277Z"
+  "updatedAt": "2026-06-20T07:11:01.082Z"
 }

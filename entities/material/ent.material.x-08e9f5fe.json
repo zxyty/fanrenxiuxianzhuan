@@ -7,15 +7,20 @@
   ],
   "summary": "击杀低阶妖兽地蛟所得兽筋，乳黄色、纤细坚韧、弹性十足可伸缩数倍；韩立购得后盘成手镯，评为上佳弓弦材料。",
   "attributes": {
-    "类型": "妖兽筋",
-    "用途": "弓弦/灵具材料",
-    "稀有度": "低阶妖兽中难得"
+    "类型": "妖兽筋、妖兽材料",
+    "用途": "弓弦/灵具材料、弓弦、炼制特殊灵具材料、委托铁匠打造器物",
+    "稀有度": "低阶妖兽中难得、低阶妖兽中难得材料"
   },
   "observations": {
     "类型": [
       {
         "value": "妖兽筋",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "妖兽材料",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ],
@@ -24,12 +29,32 @@
         "value": "弓弦/灵具材料",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "弓弦",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "炼制特殊灵具材料",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "委托铁匠打造器物",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "稀有度": [
       {
         "value": "低阶妖兽中难得",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+        "seq": 1267
+      },
+      {
+        "value": "低阶妖兽中难得材料",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
       }
     ]
@@ -59,7 +84,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1293-yinxinshi-tianxindan"
+    "plot.fanren-1293-yinxinshi-tianxindan",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T11:04:31.826Z"
+  "updatedAt": "2026-06-20T07:11:01.092Z"
 }

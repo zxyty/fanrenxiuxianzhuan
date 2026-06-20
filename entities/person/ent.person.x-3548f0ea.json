@@ -1,0 +1,50 @@
+{
+  "id": "ent.person.x-3548f0ea",
+  "type": "person",
+  "name": "赵统领",
+  "aliases": [
+    "银甲中年人"
+  ],
+  "summary": "安远城守城统领，身披银甲，主持入城盘查并放行天东商号车队。",
+  "attributes": {
+    "性别": "男",
+    "身份": "安远城守城统领"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ],
+    "身份": [
+      {
+        "value": "安远城守城统领",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city"
+  ],
+  "updatedAt": "2026-06-20T07:11:01.042Z"
+}

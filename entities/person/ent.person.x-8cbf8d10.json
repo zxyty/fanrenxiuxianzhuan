@@ -6,10 +6,11 @@
   "summary": "天东商号主人二儿媳，夫早逝，主持十几城事务；自小收养四名贴身侍女，已包下安远城如云客栈。",
   "attributes": {
     "性别": "女",
-    "身份": "天东商号一方主事/二儿媳、天东商号主事、天东商号东主夫人",
+    "身份": "天东商号一方主事/二儿媳、天东商号主事、天东商号东主夫人、天东商号一方主事、商号主人儿媳、天东商号高层",
     "外貌": "容貌秀丽",
     "种族": "凡人",
-    "性格": "七窍玲珑"
+    "性格": "七窍玲珑",
+    "称号": "方夫人"
   },
   "observations": {
     "性别": [
@@ -34,6 +35,16 @@
         "value": "天东商号东主夫人",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "天东商号一方主事、商号主人儿媳",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "天东商号高层",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ],
     "外貌": [
@@ -60,6 +71,13 @@
         "value": "七窍玲珑",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      }
+    ],
+    "称号": [
+      {
+        "value": "方夫人",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
       }
     ]
   },
@@ -94,13 +112,20 @@
       "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
       "seq": 1279
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.fanren-1267-1272-anyuan-city"
   ],
-  "updatedAt": "2026-06-16T10:33:15.767Z"
+  "updatedAt": "2026-06-20T07:11:01.096Z"
 }

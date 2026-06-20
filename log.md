@@ -550,3 +550,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T06:47:36.606Z** `ingest` plot.fanren-1251-li-ya-er-yao — 凡人修仙传 第1251章 力压二妖：韩立独战金蛟王与风希 · kind=plot asOf=2026-06-20 entities=64 relations=66 src=01249-01254.md
 - **2026-06-20T06:59:42.373Z** `ingest` plot.fanren-1257-lianshou-zhiyi-bingfeng — 凡人修仙传 第1257章 联手之仪——韩立约冰凤共闯空间节点 · kind=plot asOf=2026-06-20 entities=37 relations=38 src=01255-01260.md
 - **2026-06-20T07:02:22.389Z** `ingest` plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao — 凡人修仙传 第1261-1268章｜初入灵界·青罗沙漠与天东商号 · kind=plot asOf=2026-06-20 entities=26 relations=28 src=01261-01266.md
+- **2026-06-20T07:11:01.228Z** `ingest` plot.fanren-1267-1272-anyuan-city — 凡人修仙传 第1267-1272章｜初入灵界·安远城与地蛟筋 · kind=plot asOf=2026-06-20 entities=40 relations=39 src=01267-01272.md

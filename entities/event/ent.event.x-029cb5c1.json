@@ -1,0 +1,55 @@
+{
+  "id": "ent.event.x-029cb5c1",
+  "type": "event",
+  "name": "三皇七妖王协议",
+  "aliases": [
+    "三皇和七妖王协议"
+  ],
+  "summary": "约束兽潮之战的协议：结丹以上修士不得助各城抵挡兽潮，相对地兽群中不出现五级以上高阶妖兽。",
+  "attributes": {
+    "参与方": "三皇、七妖王",
+    "结果": "结丹以上修士不参战、兽群无五级以上妖兽，守城靠炼体士"
+  },
+  "observations": {
+    "参与方": [
+      {
+        "value": "三皇",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      },
+      {
+        "value": "七妖王",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ],
+    "结果": [
+      {
+        "value": "结丹以上修士不参战、兽群无五级以上妖兽，守城靠炼体士",
+        "docId": "plot.fanren-1267-1272-anyuan-city",
+        "seq": 1267
+      }
+    ]
+  },
+  "firstSeq": 1267,
+  "attrProvenance": {
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-1267-1272-anyuan-city",
+      "dated": false,
+      "seq": 1267
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1267-1272-anyuan-city"
+  ],
+  "updatedAt": "2026-06-20T07:11:01.066Z"
+}
