@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "阚兄所有之丹药，能使疾风蟒等妖兽进化成蛟。",
   "attributes": {
-    "功效": "助妖蟒化蛟"
+    "功效": "助妖蟒化蛟、助蛇类妖兽进化成蛟"
   },
   "observations": {
     "功效": [
       {
         "value": "助妖蟒化蛟",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      },
+      {
+        "value": "助蛇类妖兽进化成蛟",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-16T09:47:06.187Z"
+  "updatedAt": "2026-06-20T06:47:36.445Z"
 }

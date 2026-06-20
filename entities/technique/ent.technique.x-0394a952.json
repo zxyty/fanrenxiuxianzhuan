@@ -7,9 +7,9 @@
   ],
   "summary": "金蛟王储物袋所得奇异法决，人妖皆可如陪炼法宝般淬炼自身骨骼以强健肉身，耗时甚长。",
   "attributes": {
-    "效果": "淬炼骨骼（粗大呈淡金）、与明王决相辅相成",
-    "修炼条件": "配合龙鳞果炼化药力",
-    "出处": "金蛟王储物袋玉简"
+    "效果": "淬炼骨骼强化肉身、淬炼骨骼（粗大呈淡金）、与明王决相辅相成、淬炼骨骼、强化肉身",
+    "修炼条件": "耗时长、配合龙鳞果炼化药力、耗时极长",
+    "出处": "金蛟王储物袋玉简、金蛟王储物袋上古传承"
   },
   "observations": {
     "效果": [
@@ -22,6 +22,11 @@
         "value": "淬炼骨骼（粗大呈淡金）、与明王决相辅相成",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "淬炼骨骼、强化肉身",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "修炼条件": [
@@ -34,12 +39,22 @@
         "value": "配合龙鳞果炼化药力",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "耗时极长",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "出处": [
       {
         "value": "金蛟王储物袋玉简",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      },
+      {
+        "value": "金蛟王储物袋上古传承",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
       }
     ]
@@ -48,15 +63,15 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
-      "seq": 1255
+      "seq": 1249
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
-      "seq": 1255
+      "seq": 1249
     },
     "出处": {
       "asOf": null,
@@ -71,7 +86,8 @@
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1401-black-mist-sea"
+    "plot.fanren-1401-black-mist-sea",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-16T15:24:46.590Z"
+  "updatedAt": "2026-06-20T06:47:36.391Z"
 }

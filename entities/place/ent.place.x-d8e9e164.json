@@ -5,12 +5,14 @@
   "aliases": [
     "雾海附近海域",
     "雾海岛",
-    "海雾"
+    "海雾",
+    "白濛濛雾海"
   ],
   "summary": "韩立的洞府所在海雾浓密的海岛，设有翠绿幻阵与禁制、巨猿傀儡守护，是其闭关炼丹苦修之地。",
   "attributes": {
-    "类型": "海域",
-    "守护": "幻阵与巨猿傀儡"
+    "类型": "海岛洞府、海域、雾海/秘地",
+    "守护": "幻阵与巨猿傀儡",
+    "所属势力": "五龙海"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,11 @@
         "value": "海域",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "雾海/秘地",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "守护": [
@@ -31,28 +38,42 @@
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
       }
+    ],
+    "所属势力": [
+      {
+        "value": "五龙海",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
+      }
     ]
   },
   "firstSeq": 523,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "docId": "plot.fanren-523-528-zhongmo-xuming",
       "dated": false,
-      "seq": 1249
+      "seq": 523
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-523-528-zhongmo-xuming",
       "dated": false,
       "seq": 523
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-16T09:47:06.205Z"
+  "updatedAt": "2026-06-20T06:47:36.459Z"
 }

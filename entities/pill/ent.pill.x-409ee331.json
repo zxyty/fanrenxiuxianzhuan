@@ -7,7 +7,7 @@
   "attributes": {
     "品阶": "上古灵丹",
     "功效": "精进修为、压缩修炼时间数倍、助修为、对化神期亦有助力、大幅压缩修炼时间",
-    "适用境界": "元婴期",
+    "适用境界": "元婴中期、元婴期、元婴、化神",
     "副作用": "元婴初期服用浪费药性且经脉膨胀撕裂、元婴初期服用浪费药性、经脉膨胀撕裂之痛、所需灵草已耗尽无法再炼"
   },
   "observations": {
@@ -55,6 +55,16 @@
         "value": "元婴期",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "副作用": [
@@ -91,9 +101,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+      "docId": "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
       "dated": false,
-      "seq": 1249
+      "seq": 853
     },
     "副作用": {
       "asOf": null,
@@ -108,7 +118,8 @@
     "plot.fanren-853-858-jiangyundan-xuepowan-tuoshen",
     "plot.fanren-1196-er-nv",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
-    "plot.fanren-ch853-858-jiangyun-dan-tuoshen"
+    "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T05:00:29.028Z"
+  "updatedAt": "2026-06-20T06:47:36.442Z"
 }

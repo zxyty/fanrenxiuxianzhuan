@@ -7,8 +7,8 @@
   ],
   "summary": "魔陀山独门灵药，疑即上古失传的魔元丹，对突破化神、感应天地元气有助益，只能以魔陀山灵药炼制。",
   "attributes": {
-    "功效": "助突破化神、感应天地元气、增进阶化神之望、助突破化神初期、助突破化神、易于感应天地元气、助突破化神",
-    "适用境界": "元婴后期冲击化神"
+    "功效": "助突破化神、感应天地元气、增进阶化神之望、助突破化神初期、助突破化神、易于感应天地元气、助突破化神、辅助突破化神",
+    "适用境界": "化神"
   },
   "observations": {
     "功效": [
@@ -36,6 +36,11 @@
         "value": "助突破化神",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      },
+      {
+        "value": "辅助突破化神",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "适用境界": [
@@ -48,6 +53,11 @@
         "value": "元婴后期冲击化神",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -61,9 +71,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "plot.fanren-1251-li-ya-er-yao",
       "dated": false,
-      "seq": 1243
+      "seq": 1249
     }
   },
   "contested": false,
@@ -73,7 +83,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T06:29:35.937Z"
+  "updatedAt": "2026-06-20T06:47:36.402Z"
 }

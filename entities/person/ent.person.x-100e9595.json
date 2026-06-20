@@ -20,8 +20,9 @@
     "阵营": "大晋",
     "出身地": "天外岛",
     "标志特征": "功法讲究清静",
-    "存殁": "疑陨落",
-    "称号": "风老怪"
+    "存殁": "疑陨落、死亡",
+    "称号": "风老怪",
+    "死因": "陨落于空间节点"
   },
   "observations": {
     "小阶段": [
@@ -144,6 +145,11 @@
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249,
         "note": "元神灯灭，或升灵界"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "称号": [
@@ -151,6 +157,13 @@
         "value": "风老怪",
         "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
         "seq": 1225
+      }
+    ],
+    "死因": [
+      {
+        "value": "陨落于空间节点",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -223,6 +236,12 @@
       "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
       "dated": false,
       "seq": 1225
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
@@ -236,7 +255,8 @@
     "plot.fanren-ch1033-pozhen-tuokun",
     "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
-    "plot.fanren-1237-1244-ziling-exchange-huoyu"
+    "plot.fanren-1237-1244-ziling-exchange-huoyu",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T06:16:33.075Z"
+  "updatedAt": "2026-06-20T06:47:36.415Z"
 }

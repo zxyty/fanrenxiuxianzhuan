@@ -5,13 +5,15 @@
   "aliases": [
     "绿衫女修",
     "清秀女子",
-    "碧姓仙子"
+    "碧姓仙子",
+    "清秀的绿衫女子"
   ],
   "summary": "五龙海元婴修士，斯文如大家闺秀，精擅炼丹，新炼出易经洗髓的馨香丹。",
   "attributes": {
     "性别": "女",
     "小阶段": "元婴、元婴期",
-    "外貌": "眉清目秀、绿衫、清秀绿衫"
+    "外貌": "眉清目秀、绿衫、清秀绿衫、绿衫女子",
+    "阵营": "五龙海"
   },
   "observations": {
     "性别": [
@@ -43,6 +45,18 @@
         "value": "清秀绿衫",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "绿衫女子",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
+      }
+    ],
+    "阵营": [
+      {
+        "value": "五龙海",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -65,12 +79,19 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-16T09:47:06.198Z"
+  "updatedAt": "2026-06-20T06:47:36.453Z"
 }

@@ -11,17 +11,21 @@
     "色骨蛟",
     "金色骨架",
     "迷你小蛟",
-    "金蛟老妖"
+    "金蛟老妖",
+    "金色骨蛟",
+    "迷你骨蛟"
   ],
   "summary": "海族头目，十级大成的蛟龙妖兽，蛟首人身、金盔金甲持电蛇金枪，违背旧约亲自率海族攻打逆星盟争夺极品灵石。",
   "attributes": {
     "种族": "蛟龙/海族、金蛟、蛟龙一族、蛟龙、蛟、海族",
-    "外貌": "蛟首人身、金盔金甲、持游走银弧金枪、锦袍、虬发碧须、半人半蛟（金甲金鳞刚尾，战斗形态）、蛟首人身、金盔金甲、持银弧金长枪、金袍虬发碧须魁梧大汉、半人半蛟、金鳞刚尾、金甲",
+    "外貌": "蛟首人身、金盔金甲、持游走银弧金枪、锦袍、虬发碧须、半人半蛟（金甲金鳞刚尾，战斗形态）、蛟首人身、金盔金甲、持银弧金长枪、金袍虬发碧须魁梧大汉、半人半蛟、金鳞刚尾、金甲、金甲金鳞、可幻生双臂",
     "身份": "妖修王者、蛟龙一族王者、妖王/蛟龙族、海族妖王、外海高阶妖修",
-    "标志特征": "金鳞金甲、对危险的冥冥感应、幻化金枪、银色雷电、金鳞金爪、化龙神通、金色长枪带电弧、神识放大宝珠",
+    "标志特征": "金鳞金甲、对危险的冥冥感应、幻化金枪、银色雷电、金鳞金爪、化龙神通、金色长枪带电弧、神识放大宝珠、三臂持白剑蛟鳞金盾",
     "称号": "本王",
     "阵营": "外海妖修",
-    "小阶段": "十级大成、十级大成妖修"
+    "小阶段": "十级大成、十级大成妖修",
+    "存殁": "死亡",
+    "死因": "化骨蛟逃遁被青丝天网缠住、飞剑斩为两截，精魂被绿瓶收"
   },
   "observations": {
     "种族": [
@@ -87,6 +91,11 @@
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243,
         "note": "战斗形态"
+      },
+      {
+        "value": "金甲金鳞、可幻生双臂",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "身份": [
@@ -151,6 +160,11 @@
         "value": "金色长枪带电弧、神识放大宝珠",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      },
+      {
+        "value": "三臂持白剑蛟鳞金盾",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "称号": [
@@ -187,6 +201,20 @@
         "value": "十级大成妖修",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
+      }
+    ],
+    "死因": [
+      {
+        "value": "化骨蛟逃遁被青丝天网缠住、飞剑斩为两截，精魂被绿瓶收",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -233,6 +261,18 @@
       "docId": "plot.fanren-1245-sun-essence-fire-appears",
       "dated": false,
       "seq": 1243
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
@@ -246,7 +286,8 @@
     "plot.fanren-1143-yinsha-xueshi",
     "plot.fanren-1147-1152-jiaoyu-duobao",
     "plot.fmxz-ch1155-yaoshou-zhi-luan",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T06:29:35.963Z"
+  "updatedAt": "2026-06-20T06:47:36.376Z"
 }

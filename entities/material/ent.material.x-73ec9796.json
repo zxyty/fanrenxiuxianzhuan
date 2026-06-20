@@ -5,12 +5,14 @@
   "aliases": [
     "金色圆珠",
     "金蛟王内丹",
-    "金属性丹灵根"
+    "金属性丹灵根",
+    "金属性蛟丹"
   ],
   "summary": "金蛟王内丹，金属性妖丹，被韩立特殊祭炼为金属性丹灵根，解决元磁神光修炼缺陷。",
   "attributes": {
-    "类型": "妖丹/丹灵根",
-    "用途": "祭炼为金属性丹灵根辅修元磁神光"
+    "类型": "妖丹/丹灵根、妖丹/内丹",
+    "用途": "祭炼为金属性丹灵根辅修元磁神光、祭炼成金属性丹灵根",
+    "稀有度": "极稀"
   },
   "observations": {
     "类型": [
@@ -18,12 +20,29 @@
         "value": "妖丹/丹灵根",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      },
+      {
+        "value": "妖丹/内丹",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "用途": [
       {
         "value": "祭炼为金属性丹灵根辅修元磁神光",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
+        "seq": 1249
+      },
+      {
+        "value": "祭炼成金属性丹灵根",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
       }
     ]
@@ -41,12 +60,19 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1249-1254-han-li-advances-to-huashen"
+    "plot.fanren-1249-1254-han-li-advances-to-huashen",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-16T09:47:06.158Z"
+  "updatedAt": "2026-06-20T06:47:36.398Z"
 }

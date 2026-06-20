@@ -32,7 +32,8 @@
     "标志特征": "巨灵爪神通",
     "性别": "男",
     "出身地": "西灵山",
-    "存殁": "死亡"
+    "存殁": "生死不明、死亡",
+    "死因": "陨落于空间节点"
   },
   "observations": {
     "小阶段": [
@@ -277,8 +278,15 @@
       {
         "value": "死亡",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
-        "seq": 1255,
+        "seq": 1249,
         "note": "据世界状态须知第1249章死亡；本章为回忆"
+      }
+    ],
+    "死因": [
+      {
+        "value": "陨落于空间节点",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -341,10 +349,16 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
-      "seq": 1255,
-      "note": "据世界状态须知第1249章死亡；本章为回忆"
+      "seq": 1249,
+      "note": "元神灯熄灭，已入灵界"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
@@ -369,7 +383,8 @@
     "plot.fanren-1069-1074-soul-devour-escape-frost",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
     "plot.fanren-1237-1244-ziling-exchange-huoyu",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T06:29:35.924Z"
+  "updatedAt": "2026-06-20T06:47:36.454Z"
 }

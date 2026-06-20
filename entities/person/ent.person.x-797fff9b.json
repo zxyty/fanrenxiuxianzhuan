@@ -9,18 +9,20 @@
     "人形裂风兽",
     "白光小舟?",
     "妖修风希",
-    "淡青影"
+    "淡青影",
+    "风希妖修"
   ],
   "summary": "人形妖修，裂风兽一族，化形阶，头戴银冠；因韩立木属性功法而留其性命，欲借此功法办要事，并以碧焰酒诱困韩立。",
   "attributes": {
     "种族": "裂风兽（妖修）、裂风兽、妖修、裂风兽（九级）、裂风兽（化形妖修）、妖族",
     "小阶段": "化形阶、九级(化形)、化形期、九级、九级妖兽、九级妖修",
-    "外貌": "人形、上半身鸟、下半身鱼尾、丈许羽翼、双对利爪、腹生青鳞、身材干瘦、银冠青袍、银冠青袍干瘦修士",
-    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝、头戴银冠、人形妖兽、高瘦身形，可化清风遁走，有护身白光宝物、速度极快、本体上半鸟身下半鱼尾、双翼利爪鱼鳞、一对短戈化赤芒",
+    "外貌": "人形、上半身鸟、下半身鱼尾、丈许羽翼、双对利爪、腹生青鳞、身材干瘦、银冠青袍、银冠青袍干瘦修士、青灰面、青翠羽翅、利爪寒芒",
+    "标志特征": "头戴银冠、灵禽之体,擅风属性,有风火翅、护身白光宝物、可化清风、当年追杀韩立、被韩立杀孙夺宝、头戴银冠、人形妖兽、高瘦身形，可化清风遁走，有护身白光宝物、速度极快、本体上半鸟身下半鱼尾、双翼利爪鱼鳞、一对短戈化赤芒、风遁瞬移",
     "阵营": "妖族",
     "身份": "海族妖修、九级妖兽、青袍妖修、九级妖修（化形大成）",
-    "存殁": "存活",
-    "性格": "心机深沉、谈笑间狠辣、狡诈、谨慎多疑"
+    "存殁": "死亡",
+    "性格": "心机深沉、谈笑间狠辣、狡诈、谨慎多疑",
+    "死因": "被八灵尺定身、六翼霜蚣冰封、飞剑斩杀，妖魂被四翅蜈蚣吞噬"
   },
   "observations": {
     "种族": [
@@ -109,6 +111,12 @@
         "value": "银冠青袍干瘦修士",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      },
+      {
+        "value": "青灰面、青翠羽翅、利爪寒芒",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249,
+        "note": "半妖形态"
       }
     ],
     "标志特征": [
@@ -156,6 +164,11 @@
         "value": "一对短戈化赤芒",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      },
+      {
+        "value": "风遁瞬移",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "阵营": [
@@ -202,6 +215,11 @@
         "value": "存活",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ],
     "性格": [
@@ -214,6 +232,13 @@
         "value": "狡诈、谨慎多疑",
         "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
         "seq": 541
+      }
+    ],
+    "死因": [
+      {
+        "value": "被八灵尺定身、六翼霜蚣冰封、飞剑斩杀，妖魂被四翅蜈蚣吞噬",
+        "docId": "plot.fanren-1251-li-ya-er-yao",
+        "seq": 1249
       }
     ]
   },
@@ -257,15 +282,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-ch547-552-poison-three-demons",
+      "docId": "plot.fanren-1251-li-ya-er-yao",
       "dated": false,
-      "seq": 547
+      "seq": 1249
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-541-546-bifenjiu-fenglei-chi",
       "dated": false,
       "seq": 541
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "dated": false,
+      "seq": 1249
     }
   },
   "contested": false,
@@ -281,7 +312,8 @@
     "plot.fanren-541-546-bifenjiu-fenglei-chi",
     "plot.fanren-547-552-poison-liquid-kills-jiao-demon",
     "plot.fanren-553-558-shipo-yu-liefeng-zaixian",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "plot.fanren-1251-li-ya-er-yao"
   ],
-  "updatedAt": "2026-06-20T06:29:35.964Z"
+  "updatedAt": "2026-06-20T06:47:36.419Z"
 }
