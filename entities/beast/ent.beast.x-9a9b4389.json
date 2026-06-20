@@ -4,13 +4,14 @@
   "name": "幻焰蛾",
   "aliases": [
     "幻焰蛾分身",
-    "彩色飞蛾"
+    "彩色飞蛾",
+    "拳头大飞蛾"
   ],
   "summary": "奇虫榜排名第十七的飞虫，由金丝蚕二次进化而成，天生具幻化能力，上古罕见。",
   "attributes": {
-    "等级": "奇虫榜第十七、奇虫排名第十七",
+    "等级": "奇虫榜第十七、奇虫排名第十七、成熟体",
     "能力": "天生幻化、分身潜入、短时间化为无形、自爆、千蛾之术搜寻、短时间化无形、偷听/侦查、分身自爆幻术",
-    "外形": "飞蛾、拳头大小、彩色双翅、散发艳丽灵光、蛾、彩霞中的飞蛾，成熟体、蛾形",
+    "外形": "飞蛾、拳头大小、彩色双翅、散发艳丽灵光、蛾、彩霞中的飞蛾，成熟体、蛾形、彩霞中的飞蛾，可涨至丈许",
     "种族": "灵虫",
     "主人": "寰前辈、黑凤族清秀少年、寰天奇、妖族清秀少年",
     "血脉": "金丝蚕二次进化"
@@ -26,6 +27,11 @@
         "value": "奇虫排名第十七",
         "docId": "plot.fanren-511-516-qiyuan-island-wuzhong-island",
         "seq": 511
+      },
+      {
+        "value": "成熟体",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "能力": [
@@ -95,6 +101,11 @@
         "value": "蛾形",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      },
+      {
+        "value": "彩霞中的飞蛾，可涨至丈许",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "种族": [
@@ -180,7 +191,8 @@
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-511-516-qiyuan-island-wuzhong-island",
-    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu"
+    "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T07:55:03.531Z"
+  "updatedAt": "2026-06-20T08:26:29.754Z"
 }

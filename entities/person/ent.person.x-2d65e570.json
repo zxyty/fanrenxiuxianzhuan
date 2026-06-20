@@ -11,12 +11,12 @@
   "summary": "器灵族八大玄灵之一，将率队数日内赶到混沌谷；其一到则叛逆无路可逃。",
   "attributes": {
     "种族": "玄灵族",
-    "身份": "八大玄灵之一、灵族首领、潜伏黑影（疑似）、玄灵、灵族玄灵",
+    "身份": "八大玄灵之一、灵族首领、潜伏黑影（疑似）、玄灵、灵族玄灵、灵族强者",
     "称号": "玄灵、八大玄灵之一",
     "阵营": "灵族",
-    "小阶段": "炼虚期",
+    "小阶段": "玄灵级、炼虚期、炼虚",
     "外貌": "面容普通、皂青长袍、脚踩血色云雾、皂青长袍男子",
-    "标志特征": "透明模糊影子、皂青长袍、血莲/血河神通"
+    "标志特征": "透明模糊影子、皂青长袍、血莲/血河神通、隐形潜伏、近乎透明身影"
   },
   "observations": {
     "种族": [
@@ -61,6 +61,11 @@
         "value": "灵族玄灵",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "灵族强者",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "称号": [
@@ -93,6 +98,11 @@
         "value": "炼虚期",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "外貌": [
@@ -123,6 +133,11 @@
         "value": "血莲/血河神通",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "隐形潜伏、近乎透明身影",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ]
   },
@@ -154,9 +169,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1303
+      "seq": 1297,
+      "note": "韩立据其威能推测"
     },
     "外貌": {
       "asOf": null,
@@ -178,7 +194,8 @@
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
-    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T08:08:58.577Z"
+  "updatedAt": "2026-06-20T08:26:29.748Z"
 }

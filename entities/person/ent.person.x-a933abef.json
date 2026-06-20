@@ -9,18 +9,20 @@
     "白袍男子",
     "黄粱兄",
     "黄粱老儿",
-    "黄粱道友"
+    "黄粱道友",
+    "簧粱",
+    "黄粱灵具"
   ],
   "summary": "落日城第一修士，山中居万年，已过五行合一，炼虚初期。",
   "attributes": {
-    "小阶段": "元婴",
+    "小阶段": "炼虚初期、炼虚期、元婴、化神、炼虚",
     "称号": "落日城第一修士、真君、灵君",
     "寿元": "居住万年",
     "身份": "吕姓女子之祖/前辈、灵君、落日城高阶大能",
-    "标志特征": "独门秘药天心丹的炼制者、元婴离体、白玉大印、八卦镜状灵镜、白纸扇、黄色剑气、三头虎头龙首怪兽拉青色飞车、金黄色八卦镜",
+    "标志特征": "独门秘药天心丹的炼制者、元婴离体、白玉大印、八卦镜状灵镜、白纸扇、黄色剑气、三头虎头龙首怪兽拉青色飞车、金黄色八卦镜、元婴离体作战、操八卦镜与白玉大印",
     "性别": "男",
     "外貌": "宽大黄袍、面色异常苍白、白袍、宽大黄袍、面色苍白、白袍男子",
-    "阵营": "敌（追杀韩立）",
+    "阵营": "人族、敌（追杀韩立）、天元境",
     "种族": "人族"
   },
   "observations": {
@@ -44,6 +46,11 @@
         "value": "化神",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "称号": [
@@ -112,6 +119,11 @@
         "value": "金黄色八卦镜",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "元婴离体作战、操八卦镜与白玉大印",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "性别": [
@@ -153,6 +165,11 @@
         "value": "敌（追杀韩立）",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "种族": [
@@ -167,9 +184,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1287-chuancheng-zhu",
       "dated": false,
-      "seq": 1303
+      "seq": 1285
     },
     "称号": {
       "asOf": null,
@@ -209,9 +226,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1303
+      "seq": 1291
     },
     "种族": {
       "asOf": null,
@@ -228,7 +245,8 @@
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
-    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T08:08:58.635Z"
+  "updatedAt": "2026-06-20T08:26:29.768Z"
 }

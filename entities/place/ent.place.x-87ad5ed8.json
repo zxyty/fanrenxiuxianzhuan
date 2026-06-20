@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "火老商号开辟新商路途经之巨山，韩立于其山腹潜修并度天劫。",
   "attributes": {
-    "类型": "巨山"
+    "类型": "巨山",
+    "所属界面": "灵界"
   },
   "observations": {
     "类型": [
       {
         "value": "巨山",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
         "seq": 1303
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
       "dated": false,
       "seq": 1303
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-juren-zhi-zhan",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-16T11:47:43.539Z"
+  "updatedAt": "2026-06-20T08:26:29.779Z"
 }

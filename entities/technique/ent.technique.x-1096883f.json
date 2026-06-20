@@ -10,10 +10,10 @@
   ],
   "summary": "妖族秘术，借精血瞬间化血影逃匿百里：距离不可控、精血固定且自燃（不足则爆体）、须有翅膀维持平衡，是逃匿强敌的诡异遁术。",
   "attributes": {
-    "效果": "瞬遁百里、急遁逃命、遁逃、瞬间逃遁、极速遁走、高速遁逃、瞬间遁出百里、距离不可控、强行逃命",
+    "效果": "瞬遁百里、急遁逃命、遁逃、瞬间逃遁、极速遁走、高速遁逃、瞬间遁出百里、距离不可控、强行逃命、瞬间遁移数百丈",
     "出处": "疾风九变、妖族兽皮书《疾风九变》、上界圣兽分身相关、似铁翅魔化影遁",
     "修炼条件": "须有翅膀、施展须掐准方向以免撞入空间裂缝、大损元气、须有一对翅膀维持平衡（韩立凭风雷翅可修）、施展后精血大损",
-    "适用境界": "化神期、化神后方能掌控方向速度、化神、结丹期可用、元婴"
+    "适用境界": "化神期、化神后方能掌控方向速度、化神、结丹期可用、元婴、化神后方能掌控方向与速度"
   },
   "observations": {
     "效果": [
@@ -61,6 +61,11 @@
         "value": "强行逃命",
         "docId": "plot.fanren-607-612-xueyunhu-heiyi-shaofu-lingyan-yu",
         "seq": 607
+      },
+      {
+        "value": "瞬间遁移数百丈",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "出处": [
@@ -138,6 +143,12 @@
         "value": "元婴",
         "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
+      },
+      {
+        "value": "化神后方能掌控方向与速度",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303,
+        "note": "结丹元婴期有弊端"
       }
     ]
   },
@@ -190,7 +201,8 @@
     "plot.fanren-ch931-936-jinjing-auction-road",
     "plot.fmxxz-ch889-tianshui-river-green-bat",
     "plot.fanren-955-zaiyu-gumo",
-    "plot.fanren-1202-xinggong-zhi-zhan-3"
+    "plot.fanren-1202-xinggong-zhi-zhan-3",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T05:16:59.764Z"
+  "updatedAt": "2026-06-20T08:26:29.752Z"
 }

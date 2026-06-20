@@ -8,8 +8,8 @@
   ],
   "summary": "巨人光球中心金灿圆球状之物，炼制至阳灵宝的最佳材料，后坠入巨人独目。",
   "attributes": {
-    "用途": "炼制至阳灵宝最佳材料、炼制至阳灵宝",
-    "类型": "灵材、晶石、晶石宝物、炼宝灵材",
+    "用途": "炼制至阳灵宝最佳材料、炼制至阳灵宝、炼化后化白色火丝攻击",
+    "类型": "灵材、晶石、晶石宝物、炼宝灵材、至阳晶石、灵晶宝物",
     "产地": "落日之墓",
     "稀有度": "极稀有"
   },
@@ -24,6 +24,11 @@
         "value": "炼制至阳灵宝",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "炼化后化白色火丝攻击",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "类型": [
@@ -46,6 +51,16 @@
         "value": "炼宝灵材",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "至阳晶石",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
+      },
+      {
+        "value": "灵晶宝物",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "产地": [
@@ -95,7 +110,8 @@
   "docs": [
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T08:08:58.644Z"
+  "updatedAt": "2026-06-20T08:26:29.755Z"
 }

@@ -6,8 +6,9 @@
   "summary": "某商号顶阶炼体士，实力堪比元婴，途经穿云山目睹韩立天劫。",
   "attributes": {
     "身份": "商号顶阶炼体士",
-    "标志特征": "十指数寸长、泛红光的指甲",
-    "性别": "男"
+    "标志特征": "十指数寸长、泛红光的指甲、十指数寸长指甲泛淡红光",
+    "性别": "男",
+    "外貌": "灰白发老者、脖颈以下肌肤如年轻人、双手干瘪如枯藤"
   },
   "observations": {
     "身份": [
@@ -22,6 +23,11 @@
         "value": "十指数寸长、泛红光的指甲",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "十指数寸长指甲泛淡红光",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "性别": [
@@ -29,6 +35,13 @@
         "value": "男",
         "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
         "seq": 1309
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰白发老者、脖颈以下肌肤如年轻人、双手干瘪如枯藤",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ]
   },
@@ -51,13 +64,20 @@
       "docId": "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
       "dated": false,
       "seq": 1309
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1305-juren-zhi-zhan",
+      "dated": false,
+      "seq": 1303
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng"
+    "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-16T11:55:47.494Z"
+  "updatedAt": "2026-06-20T08:26:29.765Z"
 }

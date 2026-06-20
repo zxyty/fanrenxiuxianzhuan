@@ -556,3 +556,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T07:38:20.392Z** `update` plot.fanren-1287-chuancheng-zhu — 第1287章 传承珠——韩立以灭仙珠逼退黑凤族化神妖女，放走半妖黛儿 · kind=plot asOf=2026-06-20 entities=39 relations=44 src=01285-01290.md
 - **2026-06-20T07:55:03.696Z** `ingest` plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu — 凡人修仙传 第1291-1296章｜银芯石与天心丹·灵族浮现·初入落日之墓 · kind=plot asOf=2026-06-20 entities=61 relations=65 src=01291-01296.md
 - **2026-06-20T08:08:58.790Z** `ingest` plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo — 凡人修仙传 第1297-1302章：噬炎夺舍韩立·混沌谷人妖灵三族争夺神血 · kind=plot asOf=2026-06-20 entities=41 relations=53 src=01297-01302.md
+- **2026-06-20T08:26:29.936Z** `ingest` plot.fanren-1305-juren-zhi-zhan — 凡人修仙传 第1305章 巨人之战 · kind=plot asOf=2026-06-20 entities=50 relations=67 src=01303-01308.md

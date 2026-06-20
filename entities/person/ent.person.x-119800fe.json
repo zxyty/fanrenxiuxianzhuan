@@ -8,17 +8,18 @@
     "寰姓妖修",
     "寰兄",
     "寰某",
-    "瘦弱人影"
+    "瘦弱人影",
+    "那寰天奇"
   ],
   "summary": "琼鼠族长老，瘦弱少年形貌，以黄色光拳与青镜救下三首银狼，主张与黄粱灵君联手击杀重伤巨人。",
   "attributes": {
-    "种族": "琼鼠族、半妖、妖修",
-    "身份": "灵君级强者",
-    "外貌": "半妖化、瞳孔妖化",
-    "小阶段": "炼虚期",
-    "标志特征": "灰色长刀（灰线）、半妖化爪芒、灵虫幻焰蛾、可半妖化、半妖化、灰色妖爪",
+    "种族": "琼鼠族、半妖、妖修、妖族",
+    "身份": "琼鼠族长老、灵君级强者、妖修",
+    "外貌": "瘦弱少年、半妖化、瞳孔妖化、清秀少年",
+    "小阶段": "炼虚期、化神、炼虚",
+    "标志特征": "灰色长刀（灰线）、半妖化爪芒、灵虫幻焰蛾、可半妖化、半妖化、灰色妖爪、半妖化、晶莹爪芒撕裂空间、半妖化",
     "性格": "得意张狂",
-    "阵营": "敌（追杀韩立）、妖族"
+    "阵营": "敌（追杀韩立）、妖族、天元境"
   },
   "observations": {
     "种族": [
@@ -37,6 +38,11 @@
         "value": "妖修",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "身份": [
@@ -48,6 +54,11 @@
       {
         "value": "灵君级强者",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      },
+      {
+        "value": "妖修",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
         "seq": 1303
       }
     ],
@@ -61,6 +72,12 @@
         "value": "半妖化、瞳孔妖化",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "清秀少年",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303,
+        "note": "化形；战中半妖化生黄毛、碧绿眼、兽化嘴鼻"
       }
     ],
     "小阶段": [
@@ -73,6 +90,11 @@
         "value": "化神",
         "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
         "seq": 1297
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ],
     "标志特征": [
@@ -89,6 +111,16 @@
       {
         "value": "半妖化、灰色妖爪",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+        "seq": 1303
+      },
+      {
+        "value": "半妖化、晶莹爪芒撕裂空间",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
+      },
+      {
+        "value": "半妖化",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
         "seq": 1303
       }
     ],
@@ -109,6 +141,11 @@
         "value": "妖族",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1305-juren-zhi-zhan",
+        "seq": 1303
       }
     ]
   },
@@ -122,21 +159,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1303
+      "seq": 1297
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1299-shiyan-takeover",
       "dated": false,
-      "seq": 1303
+      "seq": 1297
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
       "dated": false,
-      "seq": 1303
+      "seq": 1297
     },
     "标志特征": {
       "asOf": null,
@@ -162,7 +199,8 @@
   "docs": [
     "plot.fanren-1299-shiyan-takeover",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo"
+    "plot.fanren-1297-1302-shiyan-duoshe-hundungu-zhengduo",
+    "plot.fanren-1305-juren-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T08:08:58.633Z"
+  "updatedAt": "2026-06-20T08:26:29.768Z"
 }
