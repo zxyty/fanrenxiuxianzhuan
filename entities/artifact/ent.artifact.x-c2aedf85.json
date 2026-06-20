@@ -7,8 +7,9 @@
   ],
   "summary": "娇小黑扇女子所持法宝，扇出黑色冥火淬炼阴甲玄鬼。",
   "attributes": {
-    "能力": "扇出黑色冥火",
-    "外形": "遍布漆黑符文的黑色芭蕉扇"
+    "能力": "扇出漆黑火焰",
+    "外形": "遍布漆黑符文的黑色芭蕉扇",
+    "持有者": "妍丽"
   },
   "observations": {
     "能力": [
@@ -16,6 +17,11 @@
         "value": "扇出黑色冥火",
         "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
         "seq": 1435
+      },
+      {
+        "value": "扇出漆黑火焰",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "外形": [
@@ -24,27 +30,41 @@
         "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
         "seq": 1435
       }
+    ],
+    "持有者": [
+      {
+        "value": "妍丽",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      }
     ]
   },
   "firstSeq": 1435,
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
-      "seq": 1435
+      "seq": 1507
     },
     "外形": {
       "asOf": null,
       "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
       "dated": false,
       "seq": 1435
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1443-1444-diyuan-shenceng-weiji"
+    "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-20T11:49:43.585Z"
+  "updatedAt": "2026-06-20T13:58:52.290Z"
 }

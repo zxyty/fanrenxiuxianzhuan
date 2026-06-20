@@ -8,7 +8,8 @@
     "种族": "天地妖灵",
     "血脉": "上古生灵",
     "栖息地": "人界",
-    "天敌": "游天鲲鹏"
+    "天敌": "真灵鲲鹏",
+    "能力": "吞日月、体内自成独立空间、陨落后空间不灭"
   },
   "observations": {
     "种族": [
@@ -37,6 +38,28 @@
         "value": "游天鲲鹏",
         "docId": "plot.fanren-1161-kunpeng-zhi-yu",
         "seq": 1159
+      },
+      {
+        "value": "真灵鲲鹏",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      }
+    ],
+    "能力": [
+      {
+        "value": "吞日月",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "体内自成独立空间",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "陨落后空间不灭",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ]
   },
@@ -62,16 +85,23 @@
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
-      "seq": 1159
+      "seq": 1507
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1161-kunpeng-zhi-yu",
-    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu"
+    "plot.fanren-1159-1164-kunpeng-yu-jinque-yushu",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-18T12:22:09.150Z"
+  "updatedAt": "2026-06-20T13:58:52.241Z"
 }

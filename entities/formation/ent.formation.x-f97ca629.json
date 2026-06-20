@@ -1,45 +1,52 @@
 {
-  "id": "ent.race.x-d0f20f00",
-  "type": "race",
-  "name": "长元族",
+  "id": "ent.formation.x-f97ca629",
+  "type": "formation",
+  "name": "七门锁阴阵",
   "aliases": [],
-  "summary": "灵界一族，族中人人皆知金雷竹叶子的用途，姜姓老者出身于此。",
+  "summary": "青元子布于玉台的阵法，符文深奥难解，撑起坚韧异常的白色光幕；普通飞剑/火焰无法破开，唯元磁神光奏效。",
   "attributes": {
-    "特性": "精通各种神通功法、多种修炼天赋",
-    "代表人物": "青元子（夺舍其族人）",
-    "聚居地": "灵界",
-    "天赋神通": "需天阴之体方可修炼的大神通"
+    "效果": "光幕隔绝黑雾、坚韧难破、掌控冥河阴气爆发、防空间塌陷、摄物至洞府",
+    "布置者": "青元子、姜姓老者",
+    "破解法": "元磁神光（破含五行禁制）"
   },
   "observations": {
-    "特性": [
+    "效果": [
       {
-        "value": "精通各种神通功法",
+        "value": "光幕隔绝黑雾、坚韧难破",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
       },
       {
-        "value": "多种修炼天赋",
+        "value": "掌控冥河阴气爆发",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "防空间塌陷",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "摄物至洞府",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
       }
     ],
-    "代表人物": [
+    "布置者": [
       {
-        "value": "青元子（夺舍其族人）",
+        "value": "青元子",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "姜姓老者",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
       }
     ],
-    "聚居地": [
+    "破解法": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
-        "seq": 1507
-      }
-    ],
-    "天赋神通": [
-      {
-        "value": "需天阴之体方可修炼的大神通",
+        "value": "元磁神光（破含五行禁制）",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
       }
@@ -47,25 +54,19 @@
   },
   "firstSeq": 1507,
   "attrProvenance": {
-    "特性": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
       "seq": 1507
     },
-    "代表人物": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
       "seq": 1507
     },
-    "聚居地": {
-      "asOf": null,
-      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
-      "dated": false,
-      "seq": 1507
-    },
-    "天赋神通": {
+    "破解法": {
       "asOf": null,
       "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
@@ -75,8 +76,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-20T13:58:52.353Z"
+  "updatedAt": "2026-06-20T13:58:52.374Z"
 }

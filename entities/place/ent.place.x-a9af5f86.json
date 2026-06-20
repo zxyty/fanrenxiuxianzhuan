@@ -15,8 +15,8 @@
     "特产": "冥魔之气、冥河神乳、阴气、灵气、鬼王魂妖、魔物、万丈诡异冥水、阴气共鸣可解印记、魔坟之宝、神乳、冥雷兽、阴气灵气充盈",
     "守护": "冥河群鬼、针状怪鱼、晶莹黑丝魔气、冥河禁制、阴鬼、冥河之灵、阴骨怪、炼虚级厉鬼、蜉蝣族附身傀儡、冥水寒意、黑丝魔气、禁制、蜉蝣族傀儡大军、冥雷兽、高阶鬼物、蜉蝣族禁制",
     "所属界面": "灵界、灵界·地渊、地渊、灵界(附属空间)",
-    "危险度": "阴气极重",
-    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地、独立空间、秘境、危险水域/禁制之河、鬼物聚集之地、凶地、鬼雾凶地/异族圣地、圣地/险地、圣地/凶地、秘境/凶地、附属空间之地",
+    "危险度": "极高、高、高（鬼雾禁制、四大妖王、厉鬼）、多处凶险之地、阴气极重、极高（合体级妖王亦可陨落）、极高（妖王、蜉蝣族争夺）、高（鬼物、无上魔身魔器）",
+    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地、独立空间、秘境、危险水域/禁制之河、鬼物聚集之地、凶地、鬼雾凶地/异族圣地、圣地/险地、圣地/凶地、秘境/凶地、附属空间之地、罗睺尸体内空间（推测）、阴气空间",
     "所属势力": "蜉蝣族(圣地)"
   },
   "observations": {
@@ -216,6 +216,16 @@
         "value": "极高（合体级妖王亦可陨落）",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "极高（妖王、蜉蝣族争夺）",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "高（鬼物、无上魔身魔器）",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "类型": [
@@ -303,6 +313,16 @@
         "value": "附属空间之地",
         "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
+      },
+      {
+        "value": "罗睺尸体内空间（推测）",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "阴气空间",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "所属势力": [
@@ -340,9 +360,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-1463-mujing-cave",
       "dated": false,
-      "seq": 1513
+      "seq": 1459
     },
     "类型": {
       "asOf": null,
@@ -372,7 +392,8 @@
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
     "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
     "plot.fanren-1492-da-zhan-ming-lei-shou",
-    "plot.fanren-1504-cuijingzhuan"
+    "plot.fanren-1504-cuijingzhuan",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-20T13:50:49.619Z"
+  "updatedAt": "2026-06-20T13:58:52.354Z"
 }

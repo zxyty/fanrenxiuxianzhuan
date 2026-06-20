@@ -3,16 +3,19 @@
   "type": "person",
   "name": "青元子",
   "aliases": [
-    "青元子前辈"
+    "青元子前辈",
+    "半个青元子"
   ],
   "summary": "飞升修士前辈，炼虚后期，以七十二口飞剑剑阵力敌合体修士，剑光青色，自创功法（青元剑诀），多年前入蛮荒后失踪。",
   "attributes": {
     "小阶段": "炼虚后期",
     "称号": "青元子",
-    "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法",
+    "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法、魂魄与长元族人融合，记忆各半",
     "结局": "进入蛮荒后再无消息、进入蛮荒后失踪",
     "存殁": "下落不明",
-    "身份": "青元剑诀创立者"
+    "身份": "青元剑诀创立者、青元剑诀创始者",
+    "种族": "人族",
+    "外貌": "灰袍三尺长髯、面容普通、精光四射"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +42,11 @@
         "value": "七十二口青色飞剑剑阵、自创功法",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "魂魄与长元族人融合，记忆各半",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "结局": [
@@ -64,7 +72,27 @@
       {
         "value": "青元剑诀创立者",
         "docId": "plot.fanren-1516-bamboo-leaves",
-        "seq": 1513
+        "seq": 1507
+      },
+      {
+        "value": "青元剑诀创始者",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507,
+        "note": "现肉身夺自长元族并炼化如旧"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰袍三尺长髯、面容普通、精光四射",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ]
   },
@@ -104,7 +132,20 @@
       "asOf": null,
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
-      "seq": 1513
+      "seq": 1507
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507,
+      "note": "现肉身夺自长元族并炼化如旧"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507
     }
   },
   "contested": false,
@@ -113,7 +154,8 @@
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1369-1374-heiye-senlin-muzu",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-20T09:51:18.987Z"
+  "updatedAt": "2026-06-20T13:58:52.352Z"
 }

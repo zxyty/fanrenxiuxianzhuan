@@ -4,14 +4,17 @@
   "name": "大乘",
   "aliases": [
     "大乘期",
-    "大乘修士"
+    "大乘修士",
+    "大乘初期",
+    "大乘后期"
   ],
   "summary": "中境界第三层（最顶层）。",
   "attributes": {
     "阶序": "中境界第三层",
-    "上一境": "合体",
+    "上一境": "度劫期",
     "下一境": "合体",
-    "突破关键": "度天劫，防域外天魔"
+    "突破关键": "度天劫，防域外天魔",
+    "小阶段": "大乘初期、大乘后期"
   },
   "observations": {
     "阶序": [
@@ -26,6 +29,11 @@
         "value": "合体",
         "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
         "seq": 127
+      },
+      {
+        "value": "度劫期",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "下一境": [
@@ -46,6 +54,18 @@
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
       }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘初期",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      },
+      {
+        "value": "大乘后期",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      }
     ]
   },
   "firstSeq": 127,
@@ -58,9 +78,9 @@
     },
     "上一境": {
       "asOf": null,
-      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
-      "seq": 127
+      "seq": 1507
     },
     "下一境": {
       "asOf": null,
@@ -73,6 +93,12 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507
     }
   },
   "contested": false,
@@ -80,7 +106,8 @@
   "docs": [
     "lore.fanren-ch127-132-linggen-realms-taonan",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-17T03:26:19.751Z"
+  "updatedAt": "2026-06-20T13:58:52.375Z"
 }

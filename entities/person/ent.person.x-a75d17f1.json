@@ -4,15 +4,17 @@
   "name": "姜姓老者",
   "aliases": [
     "姜姓前辈",
-    "姜师傅"
+    "姜师傅",
+    "姜某"
   ],
   "summary": "出身长元族的大乘期隐修者，因延缓天劫居于蜉蝣族圣地冥河之地，持有冥河神乳，与韩立交易金雷竹叶子与稀物收集。",
   "attributes": {
     "种族": "长元族",
     "小阶段": "大乘期",
-    "身份": "冥河之地隐修者、元瑶之师",
+    "身份": "冥河之地隐修者、元瑶之师、冥河之地洞府之主",
     "性别": "男",
-    "外貌": "长袍飘飘的老者"
+    "外貌": "长袍飘飘的老者",
+    "寿元": "已逾万余年"
   },
   "observations": {
     "种族": [
@@ -27,6 +29,11 @@
         "value": "大乘期",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "大乘初期",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "身份": [
@@ -39,13 +46,18 @@
         "value": "元瑶之师",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "冥河之地洞府之主",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ],
     "性别": [
       {
         "value": "男",
         "docId": "plot.fanren-1516-bamboo-leaves",
-        "seq": 1513
+        "seq": 1507
       }
     ],
     "外貌": [
@@ -53,10 +65,22 @@
         "value": "长袍飘飘的老者",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
+      }
+    ],
+    "寿元": [
+      {
+        "value": "已逾万余年",
+        "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+        "seq": 1507
       }
     ]
   },
-  "firstSeq": 1513,
+  "firstSeq": 1507,
   "attrProvenance": {
     "种族": {
       "asOf": null,
@@ -72,28 +96,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
-      "seq": 1513
+      "seq": 1507
     },
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
-      "seq": 1513
+      "seq": 1507
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "dated": false,
+      "seq": 1507
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
   ],
-  "updatedAt": "2026-06-16T19:30:04.220Z"
+  "updatedAt": "2026-06-20T13:58:52.339Z"
 }
