@@ -13,7 +13,7 @@
     "存殁": "死亡",
     "死因": "被韩立截住去路斩杀",
     "小阶段": "元婴中期",
-    "标志特征": "一对双魔"
+    "标志特征": "蓝色魔气、粉红香雾"
   },
   "observations": {
     "阵营": [
@@ -61,6 +61,11 @@
         "value": "一对双魔",
         "docId": "plot.fanren-1208-xinggong-war-9",
         "seq": 1207
+      },
+      {
+        "value": "蓝色魔气、粉红香雾",
+        "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
+        "seq": 1213
       }
     ]
   },
@@ -98,16 +103,17 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1208-xinggong-war-9",
+      "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
       "dated": false,
-      "seq": 1207
+      "seq": 1213
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "lore.fanren-1215-linggen-wuxing-heyi",
-    "plot.fanren-1208-xinggong-war-9"
+    "plot.fanren-1208-xinggong-war-9",
+    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan"
   ],
-  "updatedAt": "2026-06-20T05:34:10.345Z"
+  "updatedAt": "2026-06-20T05:42:41.275Z"
 }

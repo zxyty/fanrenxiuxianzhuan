@@ -15,8 +15,8 @@
     "外貌": "洁白衣中年美妇、寒气逼人",
     "阵营": "魔道",
     "存殁": "死亡",
-    "死因": "自拍天灵盖兵解（散去元婴求轮回）",
-    "结局": "兵解消失"
+    "死因": "自拍天灵盖兵解（散去元婴求轮回）、自爆兵解",
+    "结局": "兵解消失、自拍天灵盖红光兵解"
   },
   "observations": {
     "性别": [
@@ -81,12 +81,22 @@
         "value": "自拍天灵盖兵解（散去元婴求轮回）",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
+      },
+      {
+        "value": "自爆兵解",
+        "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
+        "seq": 1213
       }
     ],
     "结局": [
       {
         "value": "兵解消失",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      },
+      {
+        "value": "自拍天灵盖红光兵解",
+        "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
         "seq": 1213
       }
     ]
@@ -147,7 +157,8 @@
   "docs": [
     "plot.fanren-ch428-xuangu-shangren-xiaocha",
     "plot.fanren-c433-438-xutiandian-juji",
-    "lore.fanren-1215-linggen-wuxing-heyi"
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan"
   ],
-  "updatedAt": "2026-06-16T08:34:31.937Z"
+  "updatedAt": "2026-06-20T05:42:41.268Z"
 }

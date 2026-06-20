@@ -9,7 +9,7 @@
   "summary": "逆星盟布于天星城外的大阵，阵眼为擎天铜柱（风火柱），由结丹修士守护；本章韩立斩守阵者并欲以金色巨剑破阵眼。",
   "attributes": {
     "布置者": "逆星盟",
-    "破解法": "摧毁阵眼铜柱"
+    "破解法": "摧毁阵眼铜柱、毁青红色铜柱阵眼"
   },
   "observations": {
     "布置者": [
@@ -23,6 +23,11 @@
       {
         "value": "摧毁阵眼铜柱",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
+        "seq": 1213
+      },
+      {
+        "value": "毁青红色铜柱阵眼",
+        "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
         "seq": 1213
       }
     ]
@@ -45,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-1215-linggen-wuxing-heyi"
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan"
   ],
-  "updatedAt": "2026-06-16T08:34:31.953Z"
+  "updatedAt": "2026-06-20T05:42:41.302Z"
 }
