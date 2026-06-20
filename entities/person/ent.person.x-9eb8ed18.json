@@ -3,12 +3,16 @@
   "type": "person",
   "name": "毕火",
   "aliases": [
-    "毕道友"
+    "毕道友",
+    "毕老魔"
   ],
   "summary": "血骨门长老，率众潜入阴罗宗被房老魔毁肉身、仅放元婴回。",
   "attributes": {
     "性别": "男",
-    "身份": "血骨门长老"
+    "身份": "血骨门长老、血骨门修士",
+    "阵营": "魔道",
+    "标志特征": "碧绿魔云",
+    "小阶段": "元婴"
   },
   "observations": {
     "性别": [
@@ -22,6 +26,32 @@
       {
         "value": "血骨门长老",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+        "seq": 1225
+      },
+      {
+        "value": "血骨门修士",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "碧绿魔云",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
         "seq": 1225
       }
     ]
@@ -39,12 +69,31 @@
       "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
       "dated": false,
       "seq": 1225
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+      "dated": false,
+      "seq": 1225
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+      "dated": false,
+      "seq": 1225
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+      "dated": false,
+      "seq": 1225
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu"
+    "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+    "plot.fanren-1226-jingang-hanli-vs-yuanzhi"
   ],
-  "updatedAt": "2026-06-16T08:58:55.815Z"
+  "updatedAt": "2026-06-20T06:00:56.875Z"
 }

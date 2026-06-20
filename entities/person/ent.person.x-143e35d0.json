@@ -8,17 +8,20 @@
     "房姓修士",
     "房道友",
     "阴罗宗主",
-    "晋国魔修"
+    "晋国魔修",
+    "房某"
   ],
   "summary": "晋国魔道阴罗宗宗主，元婴后期，因伴侣被韩立所杀而欲祭鬼罗幡报复，后随议和返回晋国。",
   "attributes": {
     "性别": "男",
     "小阶段": "元婴后期",
     "阵营": "晋国阴罗宗、魔道、晋国魔道",
-    "身份": "阴罗宗宗主",
-    "外貌": "二十七八岁年轻面孔、脸色苍白、双目碧光",
+    "身份": "阴罗宗修士",
+    "外貌": "二十七八岁年轻面孔、脸色苍白、双目碧光、二十七八岁年轻面孔、脸色苍白、双目碧光闪动",
     "存殁": "死亡",
-    "死因": "被韩立以惊神刺定身后斩首、被韩立灭杀、被韩立击杀"
+    "死因": "被韩立以惊神刺定身后斩首、被韩立灭杀、被韩立击杀",
+    "称号": "宗主",
+    "标志特征": "黑气罩体"
   },
   "observations": {
     "性别": [
@@ -57,6 +60,11 @@
         "value": "阴罗宗宗主",
         "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
         "seq": 775
+      },
+      {
+        "value": "阴罗宗修士",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
       }
     ],
     "外貌": [
@@ -64,13 +72,29 @@
         "value": "二十七八岁年轻面孔、脸色苍白、双目碧光",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
         "seq": 1225
+      },
+      {
+        "value": "二十七八岁年轻面孔",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      },
+      {
+        "value": "脸色苍白",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      },
+      {
+        "value": "双目碧光闪动",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
       }
     ],
     "存殁": [
       {
         "value": "死亡",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-        "seq": 1225
+        "seq": 1225,
+        "note": "据世界状态须知，第1225章已死；本章为韩立作战计划中提及"
       }
     ],
     "死因": [
@@ -88,6 +112,20 @@
         "value": "被韩立击杀",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      }
+    ],
+    "称号": [
+      {
+        "value": "宗主",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "黑气罩体",
+        "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+        "seq": 1225
       }
     ]
   },
@@ -113,9 +151,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-775-780-border-war-end-yuanming-lamp",
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
       "dated": false,
-      "seq": 775
+      "seq": 1225
     },
     "外貌": {
       "asOf": null,
@@ -127,11 +165,24 @@
       "asOf": null,
       "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
       "dated": false,
-      "seq": 1225
+      "seq": 1225,
+      "note": "据世界状态须知，第1225章已死；本章为韩立作战计划中提及"
     },
     "死因": {
       "asOf": null,
       "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "dated": false,
+      "seq": 1225
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+      "dated": false,
+      "seq": 1225
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
       "dated": false,
       "seq": 1225
     }
@@ -144,7 +195,8 @@
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
     "plot.fanren-775-780-giant-ape-appears",
-    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+    "plot.fanren-1226-jingang-hanli-vs-yuanzhi"
   ],
-  "updatedAt": "2026-06-20T05:50:26.318Z"
+  "updatedAt": "2026-06-20T06:00:56.875Z"
 }
