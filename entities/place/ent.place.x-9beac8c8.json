@@ -8,9 +8,10 @@
   "summary": "天渊城划定的一级危险巡查区，地形可掩蔽神念，异族常潜伏其中。",
   "attributes": {
     "类型": "沼泽",
-    "危险度": "第一类危险区、高（异族探子频出）、极高",
+    "危险度": "第一类危险区、高（异族探子频出）、极高、一级危险区",
     "守护": "天渊城巡逻队",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "特产": "圭虫、银头兽"
   },
   "observations": {
     "类型": [
@@ -35,6 +36,11 @@
         "value": "极高",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "一级危险区",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "守护": [
@@ -49,6 +55,23 @@
         "value": "灵界",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "蛮荒世界",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
+    ],
+    "特产": [
+      {
+        "value": "圭虫",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      },
+      {
+        "value": "银头兽",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ]
   },
@@ -77,13 +100,20 @@
       "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
       "dated": false,
       "seq": 1345
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1323-xuantian-fruit",
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T13:17:17.893Z"
+  "updatedAt": "2026-06-20T08:55:17.953Z"
 }

@@ -18,8 +18,8 @@
   "summary": "灵界中聚集飞升修士、专应对外族大敌的城池，三境七地中唯一不受三圣皇七妖王管辖，由长老会主理。",
   "attributes": {
     "所属界面": "蛮荒界",
-    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城",
-    "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫",
+    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城",
+    "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫、巨墙禁制、传送阵",
     "所属势力": "叶家",
     "特产": "珍稀符箓材料",
     "危险度": "高(异族攻城前线)"
@@ -107,6 +107,16 @@
         "value": "大城",
         "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
+      },
+      {
+        "value": "人族城池",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      },
+      {
+        "value": "人族据点巨城",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "守护": [
@@ -144,6 +154,11 @@
         "value": "天卫",
         "docId": "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
         "seq": 1315
+      },
+      {
+        "value": "巨墙禁制、传送阵",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "所属势力": [
@@ -247,7 +262,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1311-1316-tianyuan-city-ascension",
-    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-20T08:42:30.742Z"
+  "updatedAt": "2026-06-20T08:55:17.955Z"
 }

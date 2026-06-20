@@ -7,13 +7,29 @@
   ],
   "summary": "巡逻队员，长髯道士，最先认出蛮兽人。",
   "attributes": {
-    "阵营": "天渊城"
+    "阵营": "天渊城",
+    "小阶段": "元婴后期大成",
+    "身份": "天渊城巡逻队成员"
   },
   "observations": {
     "阵营": [
       {
         "value": "天渊城",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴后期大成",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
+    ],
+    "身份": [
+      {
+        "value": "天渊城巡逻队成员",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -25,12 +41,25 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.908Z"
+  "updatedAt": "2026-06-20T08:55:17.946Z"
 }

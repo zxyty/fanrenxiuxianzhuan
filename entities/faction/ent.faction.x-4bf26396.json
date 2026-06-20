@@ -8,8 +8,9 @@
   ],
   "summary": "天渊城丙队下属巡查小队，韩立任队长，成员有卓冲、东郭峰、马道长、许仙子等。",
   "attributes": {
-    "据点": "天渊城青色巨塔丙五十六殿",
-    "理念": "执行天渊城巡逻巡查任务"
+    "据点": "天渊城青色巨塔丙五十六殿、天渊城丙五十六殿",
+    "理念": "执行天渊城巡逻巡查任务",
+    "所属界面": "灵界"
   },
   "observations": {
     "据点": [
@@ -17,12 +18,24 @@
         "value": "天渊城青色巨塔丙五十六殿",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "天渊城丙五十六殿",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "理念": [
       {
         "value": "执行天渊城巡逻巡查任务",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -40,12 +53,19 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.901Z"
+  "updatedAt": "2026-06-20T08:55:17.921Z"
 }

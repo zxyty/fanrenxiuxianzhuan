@@ -5,8 +5,8 @@
   "aliases": [],
   "summary": "丙五十六队成员，身材枯瘦的三十许岁汉子，向韩立见礼。",
   "attributes": {
-    "外貌": "枯瘦三十许岁汉子",
-    "身份": "丙五十六队队员",
+    "外貌": "枯瘦三十许岁汉子、身材枯瘦，三十许岁",
+    "身份": "丙五十六队队员、天渊城巡逻队成员",
     "阵营": "天渊城"
   },
   "observations": {
@@ -15,12 +15,22 @@
         "value": "枯瘦三十许岁汉子",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "身材枯瘦，三十许岁",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "身份": [
       {
         "value": "丙五十六队队员",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "天渊城巡逻队成员",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ],
@@ -56,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.909Z"
+  "updatedAt": "2026-06-20T08:55:17.948Z"
 }

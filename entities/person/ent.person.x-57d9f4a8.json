@@ -9,8 +9,8 @@
   "summary": "二十余岁貌美冷淡女修，飞升修士嫡系后裔，持白色本命冰剑。",
   "attributes": {
     "性别": "女",
-    "身份": "许家后人/巡逻队员",
-    "外貌": "脸色洁白如玉、星辰般双眼",
+    "身份": "飞升修士嫡系后裔、许家后人/巡逻队员、天渊城巡逻队成员",
+    "外貌": "脸色洁白如玉、星辰般双眼、二十余岁，肌肤洁白如玉近乎透明，双目如星辰",
     "性格": "冷淡",
     "阵营": "天渊城",
     "小阶段": "元婴",
@@ -34,12 +34,22 @@
         "value": "许家后人/巡逻队员",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "天渊城巡逻队成员",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "外貌": [
       {
         "value": "脸色洁白如玉、星辰般双眼",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "二十余岁，肌肤洁白如玉近乎透明，双目如星辰",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ],
@@ -87,9 +97,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
-      "seq": 1327
+      "seq": 1321
     },
     "外貌": {
       "asOf": null,
@@ -126,7 +136,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1323-xuantian-fruit",
-    "plot.fanren-1327-1332-tianyuan-fangshi"
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:39:22.054Z"
+  "updatedAt": "2026-06-20T08:55:17.951Z"
 }

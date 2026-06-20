@@ -7,12 +7,16 @@
     "玄天灵物玄天果实",
     "玄天灵剑",
     "玄天之争之宝",
-    "翠色灵剑"
+    "翠色灵剑",
+    "玄天仙藤果实",
+    "玄天灵物",
+    "棍子"
   ],
   "summary": "韩立所得『棍子』状玄天之物，内有白色光点，唯神秘绿液可使其白光壮大。",
   "attributes": {
-    "类型": "逆天宝物",
-    "用途": "蕴含一界法则之力"
+    "类型": "玄天灵物、逆天宝物、仙藤果实",
+    "用途": "蕴含一界法则之力",
+    "产地": "玄天仙藤"
   },
   "observations": {
     "类型": [
@@ -25,6 +29,11 @@
         "value": "逆天宝物",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "仙藤果实",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "用途": [
@@ -32,6 +41,18 @@
         "value": "蕴含一界法则之力",
         "docId": "plot.fanren-1401-black-mist-sea",
         "seq": 1399
+      },
+      {
+        "value": "逆天宝物",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
+    ],
+    "产地": [
+      {
+        "value": "玄天仙藤",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ]
   },
@@ -39,15 +60,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1401-black-mist-sea",
+      "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
-      "seq": 1399
+      "seq": 1321
     },
     "用途": {
       "asOf": null,
       "docId": "plot.fanren-1401-black-mist-sea",
       "dated": false,
       "seq": 1399
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
@@ -55,7 +82,8 @@
   "docs": [
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1401-black-mist-sea",
-    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T19:30:04.229Z"
+  "updatedAt": "2026-06-20T08:55:17.914Z"
 }

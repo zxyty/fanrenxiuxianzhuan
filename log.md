@@ -559,3 +559,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T08:26:29.936Z** `ingest` plot.fanren-1305-juren-zhi-zhan — 凡人修仙传 第1305章 巨人之战 · kind=plot asOf=2026-06-20 entities=50 relations=67 src=01303-01308.md
 - **2026-06-20T08:28:59.916Z** `ingest` plot.fanren-1311-1316-tianyuan-city-ascension — 凡人修仙传 第1311-1316章｜初入灵界·天渊城与青冥卫 · kind=plot asOf=2026-06-20 entities=23 relations=26 src=01309-01314.md
 - **2026-06-20T08:42:30.936Z** `ingest` plot.fanren-1317-mo-ming-mafan-tianyuan-cheng — 凡人修仙传 第1317章 莫名麻烦——天渊城灵地争夺前的杀机 · kind=plot asOf=2026-06-20 entities=47 relations=49 src=01315-01320.md
+- **2026-06-20T08:55:18.108Z** `ingest` plot.fanren-1323-xuantian-guoshi — 凡人修仙传 第1323章 玄天果实——啼魂结茧进化与玄天果实试炼 · kind=plot asOf=2026-06-20 entities=37 relations=46 src=01321-01326.md

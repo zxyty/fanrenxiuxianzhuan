@@ -5,13 +5,44 @@
   "aliases": [],
   "summary": "可与古兽合体的罕见异族，淡绿肌肤、无毛发、双目无情，操黄色飓风。",
   "attributes": {
-    "特性": "可与古兽合体、操纵飓风"
+    "特性": "可与古兽合体、操纵飓风、与古兽合体化为巨人、操纵黄色飓风、幻化伪装",
+    "聚居地": "蛮荒世界",
+    "阵营": "异族"
   },
   "observations": {
     "特性": [
       {
         "value": "可与古兽合体、操纵飓风",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "与古兽合体化为巨人",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      },
+      {
+        "value": "操纵黄色飓风",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      },
+      {
+        "value": "幻化伪装",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "蛮荒世界",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
+    ],
+    "阵营": [
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -23,12 +54,25 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.918Z"
+  "updatedAt": "2026-06-20T08:55:17.964Z"
 }

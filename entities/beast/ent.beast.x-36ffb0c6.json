@@ -6,7 +6,8 @@
   "summary": "浮黎沼泽密林古兽，可分裂身体、忽视斩杀，但行动缓慢、地域性极强。",
   "attributes": {
     "栖息地": "浮黎沼泽密林",
-    "能力": "自行分裂身体、忽视斩杀"
+    "能力": "自行分裂身体、忽视斩杀",
+    "天敌": "无（行动缓慢、地域性强）"
   },
   "observations": {
     "栖息地": [
@@ -27,6 +28,13 @@
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
       }
+    ],
+    "天敌": [
+      {
+        "value": "无（行动缓慢、地域性强）",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
+      }
     ]
   },
   "firstSeq": 1321,
@@ -42,12 +50,19 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.920Z"
+  "updatedAt": "2026-06-20T08:55:17.963Z"
 }

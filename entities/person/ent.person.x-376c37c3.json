@@ -8,9 +8,9 @@
   "summary": "第十二队队长，化神中期，两年前在浮黎沼泽被影族偷袭陨落。",
   "attributes": {
     "小阶段": "化神中期",
-    "身份": "第十二队队长",
+    "身份": "第十二队队长、天渊城第十二队队长",
     "存殁": "死亡",
-    "死因": "被影族偷袭"
+    "死因": "被影族偷袭、在浮黎沼泽被影族偷袭"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +25,11 @@
         "value": "第十二队队长",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "天渊城第十二队队长",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "存殁": [
@@ -38,6 +43,11 @@
       {
         "value": "被影族偷袭",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "在浮黎沼泽被影族偷袭",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.911Z"
+  "updatedAt": "2026-06-20T08:55:17.953Z"
 }

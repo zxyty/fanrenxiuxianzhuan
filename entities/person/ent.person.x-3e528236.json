@@ -3,19 +3,26 @@
   "type": "person",
   "name": "赢姓少年",
   "aliases": [
-    "姓赢少年"
+    "姓赢少年",
+    "赢姓修士"
   ],
   "summary": "外貌十五六七的少年，实为元婴后期大成修士，擅红黄雷火。",
   "attributes": {
-    "小阶段": "元婴后期",
-    "外貌": "十五六七少年",
-    "阵营": "天渊城"
+    "小阶段": "元婴后期、元婴后期大成",
+    "外貌": "十五六七少年、十五六七岁少年",
+    "阵营": "天渊城",
+    "身份": "天渊城巡逻队成员"
   },
   "observations": {
     "小阶段": [
       {
         "value": "元婴后期",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "元婴后期大成",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ],
@@ -24,12 +31,24 @@
         "value": "十五六七少年",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "十五六七岁少年",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
+        "seq": 1321
       }
     ],
     "阵营": [
       {
         "value": "天渊城",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      }
+    ],
+    "身份": [
+      {
+        "value": "天渊城巡逻队成员",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -53,12 +72,19 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1323-xuantian-guoshi",
+      "dated": false,
+      "seq": 1321
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.910Z"
+  "updatedAt": "2026-06-20T08:55:17.949Z"
 }

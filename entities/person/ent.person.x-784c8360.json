@@ -7,15 +7,20 @@
   ],
   "summary": "丙五十六队成员，面容儒雅道士，修炼至元婴后期大成，距化神仅一步。",
   "attributes": {
-    "外貌": "面容儒雅道士",
+    "外貌": "面容儒雅道士、面容儒雅",
     "小阶段": "元婴后期大成",
-    "身份": "丙五十六队队员"
+    "身份": "丙五十六队队员、道士"
   },
   "observations": {
     "外貌": [
       {
         "value": "面容儒雅道士",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "面容儒雅",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ],
@@ -30,6 +35,11 @@
       {
         "value": "丙五十六队队员",
         "docId": "plot.fanren-1323-xuantian-fruit",
+        "seq": 1321
+      },
+      {
+        "value": "道士",
+        "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1323-xuantian-fruit"
+    "plot.fanren-1323-xuantian-fruit",
+    "plot.fanren-1323-xuantian-guoshi"
   ],
-  "updatedAt": "2026-06-16T12:27:08.904Z"
+  "updatedAt": "2026-06-20T08:55:17.927Z"
 }
