@@ -5,14 +5,15 @@
   "aliases": [
     "翠峰",
     "翠芒卷轴",
-    "山水画卷轴"
+    "山水画卷轴",
+    "十八翠峰"
   ],
   "summary": "呼老魔新得异宝，经秘术祭炼即可使用；展开化绿雾，召出十八座可暴涨至五六十丈的翠绿灵山相砸。",
   "attributes": {
     "持有者": "呼老魔",
-    "能力": "化十八座灵山相砸",
+    "能力": "化十八座灵山相砸、化十八翠峰、翠峰可融合为千丈大山、放苍猿妖魂",
     "外形": "古朴卷轴，翠芒山水画",
-    "来历": "呼老魔近期新得"
+    "来历": "呼老魔近期新得、呼老魔前不久新得"
   },
   "observations": {
     "持有者": [
@@ -27,6 +28,21 @@
         "value": "化十八座灵山相砸",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      },
+      {
+        "value": "化十八翠峰",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
+      },
+      {
+        "value": "翠峰可融合为千丈大山",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
+      },
+      {
+        "value": "放苍猿妖魂",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
       }
     ],
     "外形": [
@@ -40,6 +56,11 @@
       {
         "value": "呼老魔近期新得",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "呼老魔前不久新得",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
       }
     ]
@@ -74,7 +95,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike"
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+    "plot.fanren-1237-1244-ziling-exchange-huoyu"
   ],
-  "updatedAt": "2026-06-16T09:15:15.381Z"
+  "updatedAt": "2026-06-20T06:16:33.085Z"
 }

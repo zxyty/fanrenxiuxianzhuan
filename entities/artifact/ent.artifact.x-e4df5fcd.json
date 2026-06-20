@@ -13,11 +13,11 @@
   "attributes": {
     "持有者": "韩立",
     "能力": "生乾蓝冰焰、开启玄玉洞通道、乾蓝冰焰、释放蓝色冰蛟、放出火鸦火海、炼火、喷乾蓝冰焰、可缩放、布阵、蕴含乾蓝冰焰、释放乾蓝冰焰/冰蛟、可吸纳/破开神秘符文封禁、蕴养火鸦焰精、喷火柱",
-    "来历": "小极宫、虚天鼎仿制品，成对、寒骊上人",
+    "来历": "小极宫、虚天鼎仿制品，成对、寒骊上人、得自小极宫寒骊上人",
     "五行属性": "冰",
     "禁制": "须修炼乾蓝冰焰方可驱使",
     "外形": "蓝色小鼎",
-    "品阶": "仿制法宝"
+    "品阶": "仿制灵宝"
   },
   "observations": {
     "持有者": [
@@ -120,6 +120,11 @@
         "value": "寒骊上人",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "得自小极宫寒骊上人",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
       }
     ],
     "五行属性": [
@@ -148,6 +153,11 @@
         "value": "仿制法宝",
         "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
         "seq": 1093
+      },
+      {
+        "value": "仿制灵宝",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
       }
     ]
   },
@@ -191,9 +201,9 @@
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1099-1100-fanmu-zhanqi",
+      "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
       "dated": false,
-      "seq": 1093
+      "seq": 1237
     }
   },
   "contested": false,
@@ -206,7 +216,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1099-1100-fanmu-zhanqi",
     "plot.fanren-1101-dongxia-jizhan-shang",
-    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+    "plot.fanren-1237-1244-ziling-exchange-huoyu"
   ],
-  "updatedAt": "2026-06-18T10:36:30.174Z"
+  "updatedAt": "2026-06-20T06:16:33.083Z"
 }

@@ -4,12 +4,13 @@
   "name": "天魔宗",
   "aliases": [
     "天魔宗一门",
-    "天魔宗一宗"
+    "天魔宗一宗",
+    "魔陀山天魔宗"
   ],
   "summary": "七妙真人所属宗门。",
   "attributes": {
     "阵营": "魔道",
-    "据点": "魔陀山",
+    "据点": "大晋、魔陀山·魔宫、魔陀山、魔陀山魔宫",
     "所属界面": "人界",
     "等级": "魔道第一宗",
     "理念": "魔道第一大宗"
@@ -36,6 +37,11 @@
       {
         "value": "魔陀山",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "魔陀山魔宫",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
       }
     ],
@@ -86,9 +92,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
-      "seq": 1237
+      "seq": 1045
     },
     "所属界面": {
       "asOf": null,
@@ -128,7 +134,8 @@
     "plot.fanren-ch1033-pozhen-tuokun",
     "plot.fanren-ch1051-chinian-zhenlei",
     "plot.fanren-1069-1074-soul-devour-escape-frost",
-    "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo"
+    "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
+    "plot.fanren-1237-1244-ziling-exchange-huoyu"
   ],
-  "updatedAt": "2026-06-20T06:13:48.718Z"
+  "updatedAt": "2026-06-20T06:16:33.101Z"
 }

@@ -9,8 +9,9 @@
   "attributes": {
     "类型": "禁地/火炎之地",
     "所属势力": "大晋皇朝",
-    "危险度": "极高",
-    "特产": "火属性材料"
+    "危险度": "极高、极高(七大禁地之一)",
+    "特产": "火属性材料、火属性材料、太阳精火",
+    "所属界面": "大晋皇朝"
   },
   "observations": {
     "类型": [
@@ -32,12 +33,29 @@
         "value": "极高",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
         "seq": 1237
+      },
+      {
+        "value": "极高(七大禁地之一)",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
       }
     ],
     "特产": [
       {
         "value": "火属性材料",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "火属性材料、太阳精火",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "大晋皇朝",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
       }
     ]
@@ -67,12 +85,19 @@
       "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
       "dated": false,
       "seq": 1237
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+      "dated": false,
+      "seq": 1237
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike"
+    "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+    "plot.fanren-1237-1244-ziling-exchange-huoyu"
   ],
-  "updatedAt": "2026-06-16T09:15:15.408Z"
+  "updatedAt": "2026-06-20T06:16:33.099Z"
 }

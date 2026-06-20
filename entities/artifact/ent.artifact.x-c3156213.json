@@ -4,14 +4,15 @@
   "name": "火龙柱",
   "aliases": [
     "赤蛟浮雕火柱",
-    "十几根火龙柱"
+    "十几根火龙柱",
+    "赤蛟浮雕圆柱"
   ],
   "summary": "韩立以昆吾山所得火龙柱炼成的一套宝物，喷赤红光幕结火罩抵御红雾爆裂。",
   "attributes": {
     "持有者": "韩立",
-    "来历": "昆吾山",
-    "能力": "结火罩护体、赤红护罩、融入熔岩隐匿",
-    "外形": "刻赤蛟浮雕的晶莹圆柱",
+    "来历": "昆吾山、炼自昆吾山火龙柱",
+    "能力": "结火罩护体、赤红护罩、融入熔岩隐匿、化火罩",
+    "外形": "刻赤蛟浮雕的晶莹圆柱、尺许晶莹圆柱，盘赤蛟浮雕",
     "五行属性": "火"
   },
   "observations": {
@@ -26,6 +27,11 @@
       {
         "value": "昆吾山",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "炼自昆吾山火龙柱",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
       }
     ],
@@ -44,12 +50,22 @@
         "value": "融入熔岩隐匿",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "化火罩",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
+        "seq": 1237
       }
     ],
     "外形": [
       {
         "value": "刻赤蛟浮雕的晶莹圆柱",
         "docId": "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
+        "seq": 1237
+      },
+      {
+        "value": "尺许晶莹圆柱，盘赤蛟浮雕",
+        "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
       }
     ],
@@ -98,7 +114,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1237-1242-hanli-cold-marrow-exchange-cuifeng-strike",
-    "plot.fanren-1245-sun-essence-fire-appears"
+    "plot.fanren-1245-sun-essence-fire-appears",
+    "plot.fanren-1237-1244-ziling-exchange-huoyu"
   ],
-  "updatedAt": "2026-06-16T09:33:28.338Z"
+  "updatedAt": "2026-06-20T06:16:33.087Z"
 }
