@@ -5,13 +5,16 @@
   "aliases": [
     "玄天之争",
     "血云血祭",
-    "灵剑现世"
+    "灵剑现世",
+    "玄天灵剑现世"
   ],
   "summary": "血祭大阵笼罩百万里追夺玄天果实，韩立苦战脱困未果，玄天果实化灵剑、韩立连人带剑被摄入黑洞传送而走，祭坛召回失败。",
   "attributes": {
     "章节": "第1531-1533章",
-    "起因": "祭坛之人以血祭召夺玄天之宝（玄天果实）",
-    "结果": "玄天果实吸精血化翠色灵剑、韩立被血色匹练摄入黑洞传送而走、祭坛同形血阵震散、召回失败"
+    "起因": "祭坛之人以血祭召夺玄天之宝（玄天果实）、祭坛召唤者欲夺玄天之宝",
+    "结果": "玄天果实吸精血化翠色灵剑、韩立被血色匹练摄入黑洞传送而走、祭坛同形血阵震散、召回失败、玄天果实吸精血化玄天灵剑，血祭阵崩散，召唤者扑空",
+    "地点": "灵界血云笼罩之空域/黑洞",
+    "参与方": "韩立、血祭祭坛召唤者"
   },
   "observations": {
     "章节": [
@@ -24,6 +27,11 @@
     "起因": [
       {
         "value": "祭坛之人以血祭召夺玄天之宝（玄天果实）",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "祭坛召唤者欲夺玄天之宝",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
@@ -41,6 +49,30 @@
       },
       {
         "value": "祭坛同形血阵震散、召回失败",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "玄天果实吸精血化玄天灵剑，血祭阵崩散，召唤者扑空",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "地点": [
+      {
+        "value": "灵界血云笼罩之空域/黑洞",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      }
+    ],
+    "参与方": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "血祭祭坛召唤者",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
@@ -65,6 +97,18 @@
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
       "seq": 1525
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+      "dated": false,
+      "seq": 1525
     }
   },
   "contested": false,
@@ -72,5 +116,5 @@
   "docs": [
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
   ],
-  "updatedAt": "2026-06-16T19:30:04.271Z"
+  "updatedAt": "2026-06-20T14:21:42.320Z"
 }

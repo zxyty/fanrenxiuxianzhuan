@@ -1,50 +1,52 @@
 {
-  "id": "ent.spell.x-f20b8927",
-  "type": "spell",
-  "name": "圣魔驭日",
+  "id": "ent.formation.x-ca2312c6",
+  "type": "formation",
+  "name": "血祭法阵",
   "aliases": [
-    "圣魔驭日神通"
+    "血色光阵",
+    "血色大阵",
+    "血祭大阵",
+    "血云大阵"
   ],
-  "summary": "韩立进入炼虚期后从梵圣真魔功自行参悟的秘术，借法相之力将功法威能集于一点爆发，金色骄阳爆裂荡开金波。",
+  "summary": "覆盖百万里、由无数血云血符构成的血祭召唤大阵，目标夺取玄天之宝；可射光柱定身、放血色匹练摄物入黑洞，灵剑成形后崩散。",
   "attributes": {
-    "类型": "秘术/神通",
-    "出处": "梵圣真魔功",
-    "消耗": "一击耗去小半法力",
-    "适用境界": "炼虚期",
-    "威力": "强行推开十余丈内禁制束缚"
+    "效果": "血云笼罩百万里、血符攻击/定身光柱、血色匹练摄物入黑洞、强制传送",
+    "出处": "万里外祭坛召唤者所布",
+    "破解法": "破灭法目破禁、梵圣真魔功特殊属性挣脱"
   },
   "observations": {
-    "类型": [
+    "效果": [
       {
-        "value": "秘术/神通",
+        "value": "血云笼罩百万里",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "血符攻击/定身光柱",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "血色匹练摄物入黑洞",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "强制传送",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
     ],
     "出处": [
       {
-        "value": "梵圣真魔功",
+        "value": "万里外祭坛召唤者所布",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
     ],
-    "消耗": [
+    "破解法": [
       {
-        "value": "一击耗去小半法力",
-        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-        "seq": 1525
-      }
-    ],
-    "适用境界": [
-      {
-        "value": "炼虚期",
-        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-        "seq": 1525
-      }
-    ],
-    "威力": [
-      {
-        "value": "强行推开十余丈内禁制束缚",
+        "value": "破灭法目破禁、梵圣真魔功特殊属性挣脱",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
@@ -52,7 +54,7 @@
   },
   "firstSeq": 1525,
   "attrProvenance": {
-    "类型": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
@@ -64,19 +66,7 @@
       "dated": false,
       "seq": 1525
     },
-    "消耗": {
-      "asOf": null,
-      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-      "dated": false,
-      "seq": 1525
-    },
-    "适用境界": {
-      "asOf": null,
-      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-      "dated": false,
-      "seq": 1525
-    },
-    "威力": {
+    "破解法": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
@@ -88,5 +78,5 @@
   "docs": [
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
   ],
-  "updatedAt": "2026-06-20T14:21:42.293Z"
+  "updatedAt": "2026-06-20T14:21:42.312Z"
 }

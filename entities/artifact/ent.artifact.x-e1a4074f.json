@@ -1,50 +1,52 @@
 {
-  "id": "ent.spell.x-f20b8927",
-  "type": "spell",
-  "name": "圣魔驭日",
+  "id": "ent.artifact.x-e1a4074f",
+  "type": "artifact",
+  "name": "玄天剑",
   "aliases": [
-    "圣魔驭日神通"
+    "玄天之剑"
   ],
-  "summary": "韩立进入炼虚期后从梵圣真魔功自行参悟的秘术，借法相之力将功法威能集于一点爆发，金色骄阳爆裂荡开金波。",
+  "summary": "原为细长微黄、铭墨绿花纹的玄天果实，吸韩立逾三分之二精血后表皮变红、翠纹化符文，一端射出尺许翠亮剑刃（中心五道翠色符文），果实化作剑柄，成为灵剑。",
   "attributes": {
-    "类型": "秘术/神通",
-    "出处": "梵圣真魔功",
-    "消耗": "一击耗去小半法力",
-    "适用境界": "炼虚期",
-    "威力": "强行推开十余丈内禁制束缚"
+    "持有者": "韩立",
+    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）",
+    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变",
+    "来历": "血祭大阵跨万里召唤争夺的玄天之宝"
   },
   "observations": {
-    "类型": [
+    "持有者": [
       {
-        "value": "秘术/神通",
+        "value": "韩立",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
     ],
-    "出处": [
+    "外形": [
       {
-        "value": "梵圣真魔功",
+        "value": "细长微黄如木棍铭墨绿纹（果实态）",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "尺许翠亮剑刃·中心五个翠色符文（灵剑态）",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
     ],
-    "消耗": [
+    "能力": [
       {
-        "value": "一击耗去小半法力",
+        "value": "自行放白芒/剑气斩血符血丝",
+        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+        "seq": 1525
+      },
+      {
+        "value": "吸食精血蜕变",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
     ],
-    "适用境界": [
+    "来历": [
       {
-        "value": "炼虚期",
-        "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-        "seq": 1525
-      }
-    ],
-    "威力": [
-      {
-        "value": "强行推开十余丈内禁制束缚",
+        "value": "血祭大阵跨万里召唤争夺的玄天之宝",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
       }
@@ -52,31 +54,25 @@
   },
   "firstSeq": 1525,
   "attrProvenance": {
-    "类型": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
       "seq": 1525
     },
-    "出处": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
       "seq": 1525
     },
-    "消耗": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
       "seq": 1525
     },
-    "适用境界": {
-      "asOf": null,
-      "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-      "dated": false,
-      "seq": 1525
-    },
-    "威力": {
+    "来历": {
       "asOf": null,
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
@@ -88,5 +84,5 @@
   "docs": [
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
   ],
-  "updatedAt": "2026-06-20T14:21:42.293Z"
+  "updatedAt": "2026-06-20T14:21:42.278Z"
 }
