@@ -2,10 +2,13 @@
   "id": "ent.faction.x-e070f394",
   "type": "faction",
   "name": "真灵世家",
-  "aliases": [],
+  "aliases": [
+    "真灵血脉世家"
+  ],
   "summary": "人族大势力，陇东为其嫡系子弟。",
   "attributes": {
-    "阵营": "人族"
+    "阵营": "人族",
+    "理念": "禁互夺真灵血脉"
   },
   "observations": {
     "阵营": [
@@ -13,6 +16,13 @@
         "value": "人族",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      }
+    ],
+    "理念": [
+      {
+        "value": "禁互夺真灵血脉",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ]
   },
@@ -23,13 +33,20 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
   ],
-  "updatedAt": "2026-06-20T09:51:18.998Z"
+  "updatedAt": "2026-06-20T10:26:58.828Z"
 }

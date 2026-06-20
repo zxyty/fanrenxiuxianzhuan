@@ -10,10 +10,11 @@
   "summary": "陇家所持灵宝，通体血红、龙首凤身，可斩出真灵血并困于剑内，由元神驾驭融化夺取血脉。",
   "attributes": {
     "品阶": "灵宝、顶阶通天灵宝、混沌万灵榜上之宝",
-    "外形": "十余丈血红巨剑，龙首凤身、血光巨剑",
-    "能力": "斩出并吸困真灵之血、供元神入剑驾驭融血夺脉",
-    "持有者": "陇东",
-    "禁制": "白色光幕护持"
+    "外形": "十余丈血红巨剑，龙首凤身、血光巨剑、龙首凤身血红巨剑、血色巨剑",
+    "能力": "斩出并吸困真灵之血、供元神入剑驾驭融血夺脉、斩血凤虚影、困夺真灵之血",
+    "持有者": "陇东、陇家少主",
+    "禁制": "白色光幕护持",
+    "五行属性": "血/火"
   },
   "observations": {
     "品阶": [
@@ -43,6 +44,16 @@
         "value": "血光巨剑",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "龙首凤身血红巨剑",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      },
+      {
+        "value": "血色巨剑",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ],
     "能力": [
@@ -55,6 +66,16 @@
         "value": "供元神入剑驾驭融血夺脉",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "斩血凤虚影",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      },
+      {
+        "value": "困夺真灵之血",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ],
     "持有者": [
@@ -62,12 +83,24 @@
         "value": "陇东",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "陇家少主",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ],
     "禁制": [
       {
         "value": "白色光幕护持",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "血/火",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
       }
     ]
@@ -103,12 +136,19 @@
       "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
       "seq": 1375
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
   ],
-  "updatedAt": "2026-06-16T14:43:54.418Z"
+  "updatedAt": "2026-06-20T10:26:58.882Z"
 }

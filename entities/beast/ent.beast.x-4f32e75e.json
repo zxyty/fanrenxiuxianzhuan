@@ -6,8 +6,10 @@
   "summary": "陇家修士豢养千年的鬼界名物，神通不下炼虚级，面部扁平无脸孔、可吸阴气自愈，被啼魂二次变身后一击吞噬。",
   "attributes": {
     "栖息地": "鬼界",
-    "等级": "比肩炼虚",
-    "外形": "十余丈无脸巨鬼、双角肉翅长臂"
+    "等级": "比肩炼虚、堪比炼虚级",
+    "外形": "十余丈无脸巨鬼、双角肉翅长臂、十余丈、双角黑鳞肉翅、面部扁平无脸孔",
+    "主人": "陇东",
+    "天敌": "啼魂血色电弧"
   },
   "observations": {
     "栖息地": [
@@ -22,12 +24,36 @@
         "value": "比肩炼虚",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "堪比炼虚级",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ],
     "外形": [
       {
         "value": "十余丈无脸巨鬼、双角肉翅长臂",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "十余丈、双角黑鳞肉翅、面部扁平无脸孔",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      }
+    ],
+    "主人": [
+      {
+        "value": "陇东",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      }
+    ],
+    "天敌": [
+      {
+        "value": "啼魂血色电弧",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
       }
     ]
@@ -51,12 +77,25 @@
       "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
       "seq": 1375
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "dated": false,
+      "seq": 1375
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
   ],
-  "updatedAt": "2026-06-16T14:43:54.417Z"
+  "updatedAt": "2026-06-20T10:26:58.880Z"
 }

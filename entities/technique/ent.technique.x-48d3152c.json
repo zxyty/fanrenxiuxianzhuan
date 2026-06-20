@@ -3,13 +3,14 @@
   "type": "technique",
   "name": "阴阳化极决",
   "aliases": [
-    "阴阳两极决"
+    "阴阳两极决",
+    "阴阳化极诀"
   ],
   "summary": "五灵真君上古所创顶阶功法,附带大周天灭绝神针神通,可临时转换自身法力的五行属性;尤能激发天凤之血。",
   "attributes": {
     "品阶": "顶阶功法",
     "出处": "陇家(疑)",
-    "效果": "临时转换法力五行属性、激发天凤血脉、五行转换、众元归一",
+    "效果": "临时转换法力五行属性、激发天凤血脉、五行转换、众元归一、五行转换、众元归一、风化极寒",
     "适用境界": "元婴期或化神期",
     "修炼条件": "身具五行灵根、修为不过高不过低"
   },
@@ -47,6 +48,21 @@
       {
         "value": "五行转换、众元归一",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+        "seq": 1375
+      },
+      {
+        "value": "五行转换",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      },
+      {
+        "value": "众元归一",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      },
+      {
+        "value": "风化极寒",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
       }
     ],
@@ -102,7 +118,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
   ],
-  "updatedAt": "2026-06-16T14:43:54.404Z"
+  "updatedAt": "2026-06-20T10:26:58.841Z"
 }

@@ -7,7 +7,8 @@
   ],
   "summary": "陇家陇羽、陇鳞所擅，以血书、画轴召赤发恶鬼(赤鬼)、披发魔首作战。",
   "attributes": {
-    "效果": "召赤红恶鬼/赤鬼、召披发魔首喷紫色魔气化瘴"
+    "效果": "召赤红恶鬼/赤鬼、召披发魔首喷紫色魔气化瘴、赤发恶鬼、披发魔首瘴气",
+    "出处": "陇家"
   },
   "observations": {
     "效果": [
@@ -20,6 +21,23 @@
         "value": "召披发魔首喷紫色魔气化瘴",
         "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
         "seq": 1375
+      },
+      {
+        "value": "赤发恶鬼",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      },
+      {
+        "value": "披发魔首瘴气",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
+      }
+    ],
+    "出处": [
+      {
+        "value": "陇家",
+        "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+        "seq": 1375
       }
     ]
   },
@@ -30,12 +48,19 @@
       "docId": "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
       "dated": false,
       "seq": 1375
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "dated": false,
+      "seq": 1375
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng"
+    "plot.fanren-1377-zhenlong-zhipo-vs-tianfeng",
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
   ],
-  "updatedAt": "2026-06-16T14:43:54.406Z"
+  "updatedAt": "2026-06-20T10:26:58.860Z"
 }

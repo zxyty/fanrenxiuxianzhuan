@@ -568,3 +568,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T09:53:50.209Z** `ingest` plot.fanren-1359-1364-zhilongguo-manhuang — 凡人修仙传 第1359-1364章｜蛮荒界双皇现·五人合谋夺芝龙果·入南艮大沙漠 · kind=plot asOf=2026-06-20 entities=0 relations=0 src=01357-01362.md
 - **2026-06-20T10:06:35.869Z** `ingest` plot.fanren-ch1365-moying-zaixian — 第1365章 魔影再现——绿洲鬼城影族傀儡伏击 · kind=plot asOf=2026-06-20 entities=44 relations=56 src=01363-01368.md
 - **2026-06-20T10:19:10.946Z** `ingest` plot.fanren-1369-1374-black-leaf-forest-muzu — 凡人修仙传 第1369-1374章｜黑叶森林·木族设伏·六臂初现 · kind=plot asOf=2026-06-20 entities=36 relations=47 src=01369-01374.md
+- **2026-06-20T10:26:59.074Z** `ingest` plot.fanren-1375-1380-true-dragon-vs-phoenix-soul — 凡人修仙传 第1375-1380章｜真龙之魄、血晶摩诃剑与黑凤族筱虹 · kind=plot asOf=2026-06-20 entities=35 relations=49 src=01375-01380.md
