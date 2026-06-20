@@ -2,10 +2,12 @@
   "id": "ent.beast.x-4b560907",
   "type": "beast",
   "name": "苍猿金灵",
-  "aliases": [],
+  "aliases": [
+    "金毛猿猴"
+  ],
   "summary": "金毛猿猴妖灵，木青属下；主元神已陨落，现存者为留在木青本体内的化身分神，借木青本体之力化为木猿之身，受木青托付守护本体并获赠天木镜与长青木灵剑。",
   "attributes": {
-    "种族": "苍猿",
+    "种族": "苍猿、金灵/木猿之身",
     "等级": "灵帅初阶",
     "主人": "木青",
     "外形": "金毛猿猴/木猿之身"
@@ -15,6 +17,11 @@
       {
         "value": "苍猿",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "金灵/木猿之身",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ],
@@ -72,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.379Z"
+  "updatedAt": "2026-06-20T13:50:49.608Z"
 }

@@ -12,8 +12,8 @@
   "summary": "隐居冥河之地洞府的苍老前辈，替蜉蝣族镇压空间阴气反噬，五龙铡之主，将其出借。",
   "attributes": {
     "称号": "姜前辈",
-    "身份": "替蜉蝣族镇压阴气反噬的隐居强者、洞中神秘强者、隐居老怪/五龙铡主人",
-    "标志特征": "持五龙铡、通破界之术"
+    "身份": "替蜉蝣族镇压阴气反噬的隐居强者、洞中神秘强者、隐居老怪/五龙铡主人、持五龙铡的老怪",
+    "标志特征": "持五龙铡、通破界之术、苍老声音、隐于洞窟、懂破界之术"
   },
   "observations": {
     "称号": [
@@ -38,6 +38,11 @@
         "value": "隐居老怪/五龙铡主人",
         "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
+      },
+      {
+        "value": "持五龙铡的老怪",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "标志特征": [
@@ -50,6 +55,11 @@
         "value": "苍老声音、隐于洞窟",
         "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
+      },
+      {
+        "value": "懂破界之术",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ]
   },
@@ -69,9 +79,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
       "dated": false,
-      "seq": 1501
+      "seq": 1483
     }
   },
   "contested": false,
@@ -79,7 +89,8 @@
   "docs": [
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-20T13:09:55.480Z"
+  "updatedAt": "2026-06-20T13:50:49.586Z"
 }

@@ -5,13 +5,16 @@
   "aliases": [
     "灵帅期",
     "灵帅后期",
-    "灵帅初阶"
+    "灵帅初阶",
+    "灵帅初期",
+    "灵帅中期"
   ],
   "summary": "灵界修为境界，高于灵将；起码初阶灵帅方能驱动辟邪神雷真正威能。",
   "attributes": {
     "阶序": "灵界境界",
     "小阶段": "初阶",
-    "上一境": "灵将"
+    "上一境": "灵将",
+    "下一境": "灵将"
   },
   "observations": {
     "阶序": [
@@ -39,6 +42,13 @@
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
       }
+    ],
+    "下一境": [
+      {
+        "value": "灵将",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      }
     ]
   },
   "firstSeq": 1453,
@@ -60,13 +70,20 @@
       "docId": "plot.fanren-1457-taodun-didi-escape",
       "dated": false,
       "seq": 1453
+    },
+    "下一境": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1457-taodun-didi-escape",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.394Z"
+  "updatedAt": "2026-06-20T13:50:49.523Z"
 }

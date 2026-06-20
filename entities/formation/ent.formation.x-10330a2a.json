@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "木青在本体附近布下的护阵，可扭曲空间幻化寻常景象掩藏，纵六足这等存在闯入也能困住一时半刻。",
   "attributes": {
-    "效果": "困敌一时半刻、扭曲空间幻化景象以隐藏本体",
-    "布置者": "木青"
+    "效果": "困敌一时半刻、扭曲空间幻化景象以隐藏本体、困住强敌(六足)一时半刻、幻化山谷为空无寻常景象",
+    "布置者": "木青",
+    "出处": "木青"
   },
   "observations": {
     "效果": [
@@ -19,12 +20,29 @@
         "value": "扭曲空间幻化景象以隐藏本体",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "困住强敌(六足)一时半刻",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      },
+      {
+        "value": "幻化山谷为空无寻常景象",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "布置者": [
       {
         "value": "木青",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "出处": [
+      {
+        "value": "木青",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -42,12 +60,19 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.392Z"
+  "updatedAt": "2026-06-20T13:50:49.618Z"
 }

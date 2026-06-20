@@ -14,7 +14,7 @@
   ],
   "summary": "地血老怪炼制的傀儡，需韩立以辟邪神雷加持方可用于冥河之地。",
   "attributes": {
-    "持有者": "六足",
+    "持有者": "地血老怪、血袍人、六足、地血",
     "来历": "地血老怪炼制、由双煞魔体之主以主元神融合操控、血焰宫下方炼制",
     "器灵": "地血老怪一丝分神、地血老怪的一丝分神",
     "外形": "千丈如山岳、乌黑战甲、紫红鳞肤、白独角、四只血目、千丈紫红色巨人/可缩小、二十余丈高魁梧紫血人形、六目闪血芒、紫血色傀儡、巨大如山的紫血傀儡、千丈巨人、乌黑战甲、紫红鳞肤、白色独角、六只血目、巨若山岳、四只妖目放血芒、六目、紫红色、高三十余丈、千丈紫红色巨人、紫血色、二十余丈高魁梧六目血色傀儡",
@@ -37,6 +37,11 @@
       {
         "value": "六足",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "地血",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ],
@@ -242,9 +247,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "docId": "plot.fanren-1463-mujing-cave",
       "dated": false,
-      "seq": 1501
+      "seq": 1459
     },
     "来历": {
       "asOf": null,
@@ -298,7 +303,8 @@
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
     "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
     "plot.fanren-1492-da-zhan-ming-lei-shou",
-    "plot.fanren-1495-1500-xutiandian-jiuren"
+    "plot.fanren-1495-1500-xutiandian-jiuren",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-20T13:29:23.387Z"
+  "updatedAt": "2026-06-20T13:50:49.470Z"
 }

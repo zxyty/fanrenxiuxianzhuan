@@ -11,7 +11,7 @@
   "summary": "出自飞灵族的变身秘术，韩立催动其鲲鹏变可化青色大鹏、恢复法力且不惧鬼雾夺力。",
   "attributes": {
     "出处": "飞灵族",
-    "效果": "化身青色大鹏/鲲鹏、黑雾中不失法力、辅助融入真灵之血、修成真灵变身之术",
+    "效果": "化身青色大鹏/鲲鹏、黑雾中不失法力、辅助融入真灵之血、修成真灵变身之术、化身青色大鹏(鲲鹏变)、于夺力鬼雾中恢复全部法力",
     "外显异象": "青光一闪化为青色大鹏"
   },
   "observations": {
@@ -42,6 +42,16 @@
         "value": "辅助融入真灵之血、修成真灵变身之术",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "化身青色大鹏(鲲鹏变)",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      },
+      {
+        "value": "于夺力鬼雾中恢复全部法力",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "外显异象": [
@@ -77,7 +87,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-20T12:41:41.670Z"
+  "updatedAt": "2026-06-20T13:50:49.616Z"
 }

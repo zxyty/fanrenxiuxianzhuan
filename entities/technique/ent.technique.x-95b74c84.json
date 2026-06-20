@@ -8,7 +8,8 @@
     "五行属性": "木",
     "效果": "化生草木实体世界、探查目标方位",
     "修炼条件": "极耗本源之力，施展后千年内不可再用",
-    "外显异象": "绿光弥漫、花草树木虚影化实、身后浮现翠绿巨树虚影"
+    "外显异象": "绿光弥漫、花草树木虚影化实、身后浮现翠绿巨树虚影",
+    "出处": "木青(灵木妖灵)"
   },
   "observations": {
     "五行属性": [
@@ -43,6 +44,13 @@
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
       }
+    ],
+    "出处": [
+      {
+        "value": "木青(灵木妖灵)",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      }
     ]
   },
   "firstSeq": 1501,
@@ -70,12 +78,19 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.389Z"
+  "updatedAt": "2026-06-20T13:50:49.615Z"
 }

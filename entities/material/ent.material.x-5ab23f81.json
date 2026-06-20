@@ -5,15 +5,21 @@
   "aliases": [],
   "summary": "逢子午两时辰转至阳属性、两石相感应的古怪石头，唯阴气极重处方起感应；天元大陆不产、三陆稀少。",
   "attributes": {
-    "类型": "感应石",
-    "用途": "子午时辰相互感应、定位",
-    "稀有度": "三大陆皆稀少、天元大陆不产"
+    "类型": "感应石、追踪材料",
+    "用途": "子午时辰相互感应、定位、子午时辰相互感应定位",
+    "稀有度": "三大陆皆稀少、天元大陆不产、极稀少",
+    "产地": "他大陆"
   },
   "observations": {
     "类型": [
       {
         "value": "感应石",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "追踪材料",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ],
@@ -22,12 +28,29 @@
         "value": "子午时辰相互感应、定位",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "子午时辰相互感应定位",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "稀有度": [
       {
         "value": "三大陆皆稀少、天元大陆不产",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "极稀少",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      }
+    ],
+    "产地": [
+      {
+        "value": "他大陆",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -51,12 +74,19 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.328Z"
+  "updatedAt": "2026-06-20T13:50:49.538Z"
 }

@@ -2,11 +2,13 @@
   "id": "ent.technique.x-883ca5c7",
   "type": "technique",
   "name": "法体双修",
-  "aliases": [],
+  "aliases": [
+    "法体双修之路"
+  ],
   "summary": "韩立所修，法力与肉身并修之道。",
   "attributes": {
-    "效果": "法体并进、肉身与神通俱强",
-    "修炼条件": "进阶难度远超普通功法"
+    "效果": "法体并进、肉身与神通俱强、肉身与法力俱强横",
+    "修炼条件": "进阶难度远超普通功法、进阶艰辛、远难于普通法门"
   },
   "observations": {
     "效果": [
@@ -14,12 +16,22 @@
         "value": "法体并进、肉身与神通俱强",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "肉身与法力俱强横",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "修炼条件": [
       {
         "value": "进阶难度远超普通功法",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "进阶艰辛、远难于普通法门",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -43,7 +55,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.343Z"
+  "updatedAt": "2026-06-20T13:50:49.517Z"
 }

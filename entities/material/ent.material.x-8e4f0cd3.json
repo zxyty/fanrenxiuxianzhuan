@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "藏于神池的奇物，服下并涂遍全身可令身躯立成通灵之体、控制天地元气增幅数倍，有助修炼成真乃至飞升真仙界。",
   "attributes": {
-    "类型": "天材地宝",
+    "类型": "宝物",
     "用途": "成通灵之体、增幅元气掌控",
     "产地": "神池",
     "稀有度": "极珍"
@@ -16,6 +16,11 @@
         "value": "天材地宝",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "宝物",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "用途": [
@@ -44,9 +49,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "docId": "plot.fanren-1504-cuijingzhuan",
       "dated": false,
-      "seq": 1483
+      "seq": 1501
     },
     "用途": {
       "asOf": null,
@@ -70,7 +75,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1486-yinshui-kuijing-wulong-zha"
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:05:43.323Z"
+  "updatedAt": "2026-06-20T13:50:49.562Z"
 }

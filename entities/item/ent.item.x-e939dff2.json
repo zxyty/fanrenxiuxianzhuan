@@ -7,8 +7,8 @@
   ],
   "summary": "蜉蝣族神巢的低阶仿制品，只能幻化一种低阶圣虫且仅可使用一次，用后报废。",
   "attributes": {
-    "类型": "仿制圣物",
-    "用途": "召唤低阶圣虫(一次性)"
+    "类型": "仿制圣物、圣虫巢仿制品",
+    "用途": "召唤低阶圣虫(一次性)、一次性召唤低阶圣虫"
   },
   "observations": {
     "类型": [
@@ -16,12 +16,22 @@
         "value": "仿制圣物",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "圣虫巢仿制品",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "用途": [
       {
         "value": "召唤低阶圣虫(一次性)",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "一次性召唤低阶圣虫",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -44,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.367Z"
+  "updatedAt": "2026-06-20T13:50:49.588Z"
 }

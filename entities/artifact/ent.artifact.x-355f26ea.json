@@ -2,13 +2,17 @@
   "id": "ent.artifact.x-355f26ea",
   "type": "artifact",
   "name": "天木镜",
-  "aliases": [],
+  "aliases": [
+    "木青天木镜"
+  ],
   "summary": "木青自得道之日起便一直培炼的至宝，巴掌大小、镜背翠绿木纹、霞光万道，可退敌护身；本章转赠金灵。",
   "attributes": {
     "品阶": "至宝",
     "五行属性": "木",
-    "外形": "巴掌大小、镜背翠绿木纹",
-    "来历": "木青自得道起一直培炼"
+    "外形": "巴掌大小、镜背翠绿木纹、巴掌大小青色镜，镜背翠绿木纹，霞光万道",
+    "来历": "木青自得道起一直培炼",
+    "持有者": "苍猿金灵",
+    "能力": "退敌护身"
   },
   "observations": {
     "品阶": [
@@ -30,12 +34,32 @@
         "value": "巴掌大小、镜背翠绿木纹",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "巴掌大小青色镜，镜背翠绿木纹，霞光万道",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "来历": [
       {
         "value": "木青自得道起一直培炼",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      }
+    ],
+    "持有者": [
+      {
+        "value": "苍猿金灵",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501,
+        "note": "本章由木青赠予，原为木青培炼"
+      }
+    ],
+    "能力": [
+      {
+        "value": "退敌护身",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -65,12 +89,26 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501,
+      "note": "本章由木青赠予，原为木青培炼"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.390Z"
+  "updatedAt": "2026-06-20T13:50:49.612Z"
 }

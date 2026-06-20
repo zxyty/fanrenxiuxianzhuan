@@ -2,12 +2,15 @@
   "id": "ent.artifact.x-bd850eaf",
   "type": "artifact",
   "name": "长青木灵剑",
-  "aliases": [],
+  "aliases": [
+    "两口长青木灵剑"
+  ],
   "summary": "由木青黑色巨树枝所化的两口青色飞剑，远胜金灵原有飞剑，本章赠予金灵。",
   "attributes": {
     "五行属性": "木",
-    "外形": "寒光闪闪的青色双剑",
-    "来历": "木青本体树枝所化"
+    "外形": "寒光闪闪的青色双剑、寒光闪闪的青色长剑两口",
+    "来历": "木青本体树枝所化、木青灵木本体树枝所化",
+    "持有者": "苍猿金灵"
   },
   "observations": {
     "五行属性": [
@@ -22,12 +25,29 @@
         "value": "寒光闪闪的青色双剑",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "寒光闪闪的青色长剑两口",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "来历": [
       {
         "value": "木青本体树枝所化",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "木青灵木本体树枝所化",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      }
+    ],
+    "持有者": [
+      {
+        "value": "苍猿金灵",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ]
@@ -51,12 +71,19 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1504-cuijingzhuan",
+      "dated": false,
+      "seq": 1501
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.391Z"
+  "updatedAt": "2026-06-20T13:50:49.614Z"
 }

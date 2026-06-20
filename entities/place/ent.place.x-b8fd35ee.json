@@ -7,8 +7,8 @@
   ],
   "summary": "外空魔头闯入冥河之地后被蜉蝣族长老联手击杀埋下之地，魔尸特殊部位经阴气滋润自行通灵成宝。",
   "attributes": {
-    "类型": "古墓/葬地、凶地/古墓、藏宝凶地、藏宝/凶地、葬地/宝藏",
-    "特产": "通灵魔尸部位（宝物）、通灵化形魔器、魔器、外空魔物通灵之宝",
+    "类型": "古墓/葬地、凶地/古墓、藏宝凶地、藏宝/凶地、葬地/宝藏、凶地/秘境、宝地、秘地",
+    "特产": "通灵魔尸部位（宝物）、通灵化形魔器、魔器、外空魔物通灵之宝、通灵化形的魔器",
     "所属界面": "灵界",
     "危险度": "极高"
   },
@@ -38,6 +38,21 @@
         "value": "葬地/宝藏",
         "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
+      },
+      {
+        "value": "凶地/秘境",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      },
+      {
+        "value": "宝地",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
+      },
+      {
+        "value": "秘地",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "特产": [
@@ -60,6 +75,11 @@
         "value": "外空魔物通灵之宝",
         "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
+      },
+      {
+        "value": "通灵化形的魔器",
+        "docId": "plot.fanren-1504-cuijingzhuan",
+        "seq": 1501
       }
     ],
     "所属界面": [
@@ -109,7 +129,8 @@
   "docs": [
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-20T13:09:55.547Z"
+  "updatedAt": "2026-06-20T13:50:49.598Z"
 }

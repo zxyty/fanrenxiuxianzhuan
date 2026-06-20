@@ -2,11 +2,14 @@
   "id": "ent.item.x-2502eff1",
   "type": "item",
   "name": "淬晶砖",
-  "aliases": [],
+  "aliases": [
+    "水晶砖",
+    "晶砖"
+  ],
   "summary": "晶莹剔透的长方形水晶砖，蜉蝣族专门研制，用于汲取与存储冥河神乳；无蜉蝣族特制密符极难取出所封神乳。",
   "attributes": {
     "类型": "容器/法器",
-    "用途": "汲取与存储冥河神乳",
+    "用途": "汲取与存储冥河神乳、防御/坚不可摧之宝",
     "产地": "蜉蝣族"
   },
   "observations": {
@@ -21,6 +24,11 @@
       {
         "value": "汲取与存储冥河神乳",
         "docId": "plot.fanren-1504-cuijing-zhuan",
+        "seq": 1501
+      },
+      {
+        "value": "防御/坚不可摧之宝",
+        "docId": "plot.fanren-1504-cuijingzhuan",
         "seq": 1501
       }
     ],
@@ -56,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1504-cuijingzhuan"
   ],
-  "updatedAt": "2026-06-16T18:53:56.326Z"
+  "updatedAt": "2026-06-20T13:50:49.506Z"
 }
