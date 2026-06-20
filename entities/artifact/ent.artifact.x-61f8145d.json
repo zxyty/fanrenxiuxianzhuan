@@ -8,10 +8,11 @@
   ],
   "summary": "角蚩族大长老所赐的金色罗盘法宝，箭头可锁定强大存在的方位，用以围捕绿光城内上三阶修士，指针最终指向韩立逃离方向。",
   "attributes": {
-    "能力": "锁定强大存在的方位、追踪定位修士、定位追踪",
+    "能力": "锁定强大存在的方位、追踪定位修士、定位追踪、追踪定位",
     "来历": "角蚩族大长老所赐",
     "外形": "金色罗盘、中央伸缩箭头、刻度花纹、金色符文",
-    "持有者": "角蚩族老者与中年人、图姓老者"
+    "持有者": "角蚩族老者与中年人、图姓老者",
+    "禁制": "每三日方可动用一次"
   },
   "observations": {
     "能力": [
@@ -29,6 +30,11 @@
         "value": "定位追踪",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "追踪定位",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "来历": [
@@ -55,6 +61,13 @@
         "value": "图姓老者",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      }
+    ],
+    "禁制": [
+      {
+        "value": "每三日方可动用一次",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -83,13 +96,20 @@
       "docId": "plot.fanren-1563-huaxue-lihun-dafa",
       "dated": false,
       "seq": 1561
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
-    "plot.fanren-1563-huaxue-lihun-dafa"
+    "plot.fanren-1563-huaxue-lihun-dafa",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:16:03.406Z"
+  "updatedAt": "2026-06-20T15:29:15.381Z"
 }

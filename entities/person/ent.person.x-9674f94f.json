@@ -15,15 +15,16 @@
     "慕兰祝神师",
     "枯瘦神师",
     "奸猾老者",
-    "鬼影遁老者"
+    "鬼影遁老者",
+    "干瘪枯瘦的老者"
   ],
   "summary": "慕兰族法士首脑之一，统筹对天南大战之策，识破韩立的辟邪神雷身份。",
   "attributes": {
-    "种族": "赤融族",
-    "阵营": "慕兰法士、慕兰、慕兰人/法士、慕兰族、赤融族",
+    "种族": "角蚩族",
+    "阵营": "慕兰法士、慕兰、慕兰人/法士、慕兰族、赤融族、角蚩族",
     "外貌": "乌黑干瘦满脸皱纹、双目清澈、枯瘦老者、干瘦、下巴稀疏断须、满脸奸猾、肌肤火红、乌黑干瘦老者、枯瘦、干瘦、稀疏断须、满脸奸猾",
     "身份": "慕兰法士首领、祝神师、长老、慕兰法士神师、慕兰三大神师之一、法士指挥、慕兰神师、慕兰族神师、赤融族长老",
-    "小阶段": "元婴初期",
+    "小阶段": "炼虚顶阶",
     "标志特征": "修炼鬼影遁可隐匿身形",
     "性别": "男",
     "性格": "阴阴",
@@ -45,6 +46,11 @@
         "value": "赤融族",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "阵营": [
@@ -72,6 +78,11 @@
         "value": "赤融族",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "外貌": [
@@ -168,6 +179,11 @@
         "value": "元婴后期",
         "docId": "plot.fanren-775-780-giant-ape-appears",
         "seq": 775
+      },
+      {
+        "value": "炼虚顶阶",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "标志特征": [
@@ -203,9 +219,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1423
+      "seq": 1567
     },
     "阵营": {
       "asOf": null,
@@ -227,9 +243,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 937
+      "seq": 1567
     },
     "标志特征": {
       "asOf": null,
@@ -269,7 +285,8 @@
     "plot.fanren-769-774-bianjie-zhizhan-6-8",
     "plot.fanren-775-780-giant-ape-appears",
     "plot.fanren-937-942-tianjige-jiezi-space",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T11:37:56.527Z"
+  "updatedAt": "2026-06-20T15:29:15.416Z"
 }

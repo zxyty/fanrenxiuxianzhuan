@@ -13,7 +13,8 @@
     "小阶段": "五阶（停留多年）",
     "身份": "白珠儿之师",
     "外貌": "青色宫装、姿容华贵、约二十五六、宫装女子",
-    "阵营": "火瑚群岛"
+    "阵营": "火瑚群岛",
+    "出身地": "火瑚海域"
   },
   "observations": {
     "性别": [
@@ -60,6 +61,13 @@
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
       }
+    ],
+    "出身地": [
+      {
+        "value": "火瑚海域",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
     ]
   },
   "firstSeq": 1543,
@@ -93,6 +101,12 @@
       "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
       "dated": false,
       "seq": 1549
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
@@ -100,7 +114,8 @@
   "docs": [
     "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:03:42.522Z"
+  "updatedAt": "2026-06-20T15:29:15.340Z"
 }

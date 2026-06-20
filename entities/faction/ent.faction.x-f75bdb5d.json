@@ -9,7 +9,7 @@
   "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
   "attributes": {
     "所属界面": "灵界",
-    "阵营": "对抗角蚩族",
+    "阵营": "灵界势力联盟",
     "据点": "绿光城、云城"
   },
   "observations": {
@@ -25,6 +25,11 @@
         "value": "对抗角蚩族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "灵界势力联盟",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "据点": [
@@ -50,9 +55,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1555
+      "seq": 1567
     },
     "据点": {
       "asOf": null,
@@ -65,7 +70,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1551-qidu-hanli-vs-guaie",
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:03:42.528Z"
+  "updatedAt": "2026-06-20T15:29:15.484Z"
 }

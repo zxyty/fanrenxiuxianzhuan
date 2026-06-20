@@ -3,19 +3,21 @@
   "type": "person",
   "name": "老妪",
   "aliases": [
-    "龙姓老妪"
+    "龙姓老妪",
+    "角蚩族老妪"
   ],
   "summary": "随行修士，持黄色拐杖喷黄焰护身，对虚灵殿险阵将信将疑。",
   "attributes": {
     "标志特征": "黄焰拐杖",
     "外貌": "满脸皱纹老妪",
     "性别": "女",
-    "小阶段": "元婴中期",
+    "小阶段": "炼虚初期",
     "存殁": "死亡",
-    "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸",
+    "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸、被鲲鹏巨爪斩杀",
     "结局": "肉身元婴俱被剑阵灭杀",
     "阵营": "逆星盟",
-    "身份": "守阵眼修士"
+    "身份": "守阵眼修士",
+    "种族": "角蚩族"
   },
   "observations": {
     "标志特征": [
@@ -54,6 +56,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
         "seq": 1087
+      },
+      {
+        "value": "炼虚初期",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "存殁": [
@@ -73,6 +80,11 @@
         "value": "大庚剑阵乱刃分尸",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "被鲲鹏巨爪斩杀",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "结局": [
@@ -94,6 +106,13 @@
         "value": "守阵眼修士",
         "docId": "plot.fanren-1208-xinggong-war-9",
         "seq": 1207
+      }
+    ],
+    "种族": [
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -119,9 +138,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1105
+      "seq": 1567
     },
     "存殁": {
       "asOf": null,
@@ -152,6 +171,12 @@
       "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
       "seq": 1207
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
@@ -162,7 +187,8 @@
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-1101-dongxia-jizhan-shang",
     "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
-    "plot.fanren-1208-xinggong-war-9"
+    "plot.fanren-1208-xinggong-war-9",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T05:34:10.319Z"
+  "updatedAt": "2026-06-20T15:29:15.462Z"
 }

@@ -16,7 +16,8 @@
     "身份": "卧底奸细",
     "标志特征": "元神小人额生小角",
     "存殁": "死亡",
-    "死因": "被韩立元磁神山压碎肉身、元神被金色电弧击灭"
+    "死因": "疑被韩立所杀",
+    "阵营": "角蚩族"
   },
   "observations": {
     "性别": [
@@ -72,6 +73,19 @@
         "value": "被韩立元磁神山压碎肉身、元神被金色电弧击灭",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "疑被韩立所杀",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567,
+        "note": "二合体推断，据世界状态须知弘灭已于第1555章死亡"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -116,15 +130,23 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1555
+      "seq": 1567,
+      "note": "二合体推断，据世界状态须知弘灭已于第1555章死亡"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:03:42.559Z"
+  "updatedAt": "2026-06-20T15:29:15.333Z"
 }

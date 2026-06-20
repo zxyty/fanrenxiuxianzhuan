@@ -5,15 +5,17 @@
   "aliases": [
     "图形老者",
     "红光中人影",
-    "角蚩族老者"
+    "角蚩族老者",
+    "图姓合体老者",
+    "紫影老者"
   ],
   "summary": "角蚩族高阶存在，合体初阶，法体双修，借天玄罗盘追杀韩立，以肉掌托住元磁神山。",
   "attributes": {
     "种族": "角蚩族",
-    "小阶段": "合体初阶",
+    "小阶段": "合体级",
     "身份": "法体双修",
-    "标志特征": "赤红大手、诡异土遁、隐匿神通",
-    "阵营": "雷鸣大陆角蚩族",
+    "标志特征": "遁光化作紫影",
+    "阵营": "角蚩族",
     "外貌": "青面獠牙、赤红鳞片、眉生红角的六七丈妖魔之相",
     "存殁": "存活",
     "结局": "断臂受创后喷紫符遁地逃出十余里"
@@ -31,6 +33,11 @@
         "value": "合体初阶",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "合体级",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "身份": [
@@ -45,6 +52,11 @@
         "value": "赤红大手、诡异土遁、隐匿神通",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "遁光化作紫影",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "阵营": [
@@ -52,6 +64,11 @@
         "value": "雷鸣大陆角蚩族",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "外貌": [
@@ -87,9 +104,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1561
+      "seq": 1567
     },
     "身份": {
       "asOf": null,
@@ -99,15 +116,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1561
+      "seq": 1567
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1561
+      "seq": 1567
     },
     "外貌": {
       "asOf": null,
@@ -132,7 +149,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1563-huaxue-lihun-dafa"
+    "plot.fanren-1563-huaxue-lihun-dafa",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:16:03.432Z"
+  "updatedAt": "2026-06-20T15:29:15.325Z"
 }

@@ -10,7 +10,9 @@
     "矮子",
     "金光仙师",
     "本上人",
-    "金光上人侏儒"
+    "金光上人侏儒",
+    "身高不足三尺的矮子",
+    "矮人"
   ],
   "summary": "来自金光观的修仙者，被贾天龙重金请来对付七玄门，会飞剑术与金刚不坏之功。",
   "attributes": {
@@ -23,7 +25,9 @@
     "标志特征": "痴迷黄金、会飞剑之术、破锣嗓、怪笑，憎恨高大威猛之人",
     "阵营": "野狼帮",
     "存殁": "死亡",
-    "死因": "韩立火弹术烧杀(第93章)"
+    "死因": "护罩被啄爆、被巨爪捏爆",
+    "种族": "角蚩族",
+    "小阶段": "炼虚初期"
   },
   "observations": {
     "性别": [
@@ -152,6 +156,25 @@
         "value": "韩立火弹术烧杀(第93章)",
         "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
         "seq": 91
+      },
+      {
+        "value": "护罩被啄爆、被巨爪捏爆",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
+    ],
+    "种族": [
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼虚初期",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -214,9 +237,21 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 91
+      "seq": 1567
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
@@ -226,7 +261,8 @@
     "plot.fanren-ch85-90-sikexie-doudou",
     "plot.fanren-ch91-96-qiangbao-completes-deathmatch",
     "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
-    "plot.fanren-ch163-168-fubao-yeyu-henda"
+    "plot.fanren-ch163-168-fubao-yeyu-henda",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-14T04:44:35.338Z"
+  "updatedAt": "2026-06-20T15:29:15.464Z"
 }

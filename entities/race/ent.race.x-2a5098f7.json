@@ -6,16 +6,18 @@
     "Jiaochi",
     "角蚩族追兵",
     "角蚩",
-    "角蚩族人"
+    "角蚩族人",
+    "Jiao Chi",
+    "角蚩人"
   ],
   "summary": "跨洋而来天元大陆的强大异族，代表人物闵；可化身百丈带角巨怪。",
   "attributes": {
-    "代表人物": "闵、闵某、闵道友、图某、狞兄、弘灭",
-    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族、隐匿/土遁神通、法体双修、霸道火属性功法",
-    "阵营": "灵界异族",
+    "代表人物": "闵、闵某、闵道友、图某、狞兄、弘灭、图姓老者、银袍中年人",
+    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族、隐匿/土遁神通、法体双修、霸道火属性功法、富足、超级大族",
+    "阵营": "敌对韩立",
     "天敌": "圣族",
     "天赋神通": "换血洗髓转化血脉",
-    "聚居地": "雷鸣大陆"
+    "聚居地": "灵界"
   },
   "observations": {
     "代表人物": [
@@ -48,6 +50,16 @@
         "value": "弘灭",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "图姓老者",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      },
+      {
+        "value": "银袍中年人",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "特性": [
@@ -90,6 +102,11 @@
         "value": "霸道火属性功法",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "富足、超级大族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "阵营": [
@@ -107,6 +124,11 @@
         "value": "灵界异族",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "敌对韩立",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "天敌": [
@@ -133,6 +155,11 @@
         "value": "雷鸣大陆",
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -152,9 +179,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1561
+      "seq": 1567
     },
     "天敌": {
       "asOf": null,
@@ -170,9 +197,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1561
+      "seq": 1567
     }
   },
   "contested": false,
@@ -184,7 +211,8 @@
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
-    "plot.fanren-1563-huaxue-lihun-dafa"
+    "plot.fanren-1563-huaxue-lihun-dafa",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:16:03.435Z"
+  "updatedAt": "2026-06-20T15:29:15.482Z"
 }

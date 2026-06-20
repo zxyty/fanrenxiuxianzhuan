@@ -4,11 +4,12 @@
   "name": "玉匣",
   "aliases": [
     "匣子",
-    "玉盒匣"
+    "玉盒匣",
+    "禁制玉匣"
   ],
   "summary": "贴赤红禁制符箓（断神念）的玉匣，内装对天云十三族极重要之物，凭此可向万古族换重宝；共三只，分托韩立等三人。",
   "attributes": {
-    "类型": "盛宝匣",
+    "类型": "禁制法器匣",
     "用途": "运送十三族重宝、盛装可换万妙丹的重要宝物"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "盛宝匣",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "禁制法器匣",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "用途": [
@@ -36,9 +42,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1555
+      "seq": 1567
     },
     "用途": {
       "asOf": null,
@@ -50,7 +56,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:03:42.574Z"
+  "updatedAt": "2026-06-20T15:29:15.378Z"
 }

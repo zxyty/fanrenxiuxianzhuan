@@ -4,15 +4,17 @@
   "name": "狞兄",
   "aliases": [
     "狞兄中年人",
-    "银袍中年人"
+    "银袍中年人",
+    "狞道友",
+    "狞姓中年人"
   ],
   "summary": "角蚩族另一长老，面容四十余岁，修为相当于圣族一阶，与图某联手搜捕绿光城内上三阶存在。",
   "attributes": {
     "性别": "男",
     "种族": "角蚩族",
     "阵营": "角蚩族",
-    "外貌": "身穿银袍、面容四十余岁",
-    "小阶段": "相当于圣族一阶"
+    "外貌": "银袍中年人",
+    "小阶段": "合体级"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,11 @@
         "value": "身穿银袍、面容四十余岁",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "银袍中年人",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ],
     "小阶段": [
@@ -48,6 +55,11 @@
         "value": "相当于圣族一阶",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "合体级",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
       }
     ]
   },
@@ -73,21 +85,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1555
+      "seq": 1567
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
-      "seq": 1555
+      "seq": 1567
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-20T15:03:42.562Z"
+  "updatedAt": "2026-06-20T15:29:15.330Z"
 }

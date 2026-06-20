@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "长老会",
   "aliases": [
-    "天渊城长老会"
+    "天渊城长老会",
+    "角蚩族长老会"
   ],
   "summary": "天渊城最高决策机构，外族大战时三皇七妖名义上须听其调遣。",
   "attributes": {
     "据点": "天渊城",
     "理念": "镇守蛮荒入口、培育飞升修士",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "阵营": "角蚩族高层"
   },
   "observations": {
     "据点": [
@@ -32,6 +34,13 @@
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
       }
+    ],
+    "阵营": [
+      {
+        "value": "角蚩族高层",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
     ]
   },
   "firstSeq": 1309,
@@ -53,6 +62,12 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
     }
   },
   "contested": false,
@@ -60,7 +75,8 @@
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
-    "plot.fanren-1353-ling-chong-da-cheng"
+    "plot.fanren-1353-ling-chong-da-cheng",
+    "plot.fanren-ch1569-tuizou"
   ],
-  "updatedAt": "2026-06-16T14:02:15.391Z"
+  "updatedAt": "2026-06-20T15:29:15.425Z"
 }

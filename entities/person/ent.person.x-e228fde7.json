@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-e228fde7",
+  "type": "person",
+  "name": "万古人",
+  "aliases": [
+    "大头异族",
+    "万古族人"
+  ],
+  "summary": "大头异族，曾向韩立等人各分一只玉匣、自留两只，被银袍中年人以暗袭制住搜走玉匣；曾在绿光城下布自爆法阵。",
+  "attributes": {
+    "种族": "万古",
+    "标志特征": "大头异族",
+    "存殁": "被擒"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "万古",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "大头异族",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567
+      }
+    ],
+    "存殁": [
+      {
+        "value": "被擒",
+        "docId": "plot.fanren-ch1569-tuizou",
+        "seq": 1567,
+        "note": "被银袍中年人制住搜匣"
+      }
+    ]
+  },
+  "firstSeq": 1567,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1569-tuizou",
+      "dated": false,
+      "seq": 1567,
+      "note": "被银袍中年人制住搜匣"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1569-tuizou"
+  ],
+  "updatedAt": "2026-06-20T15:29:15.335Z"
+}
