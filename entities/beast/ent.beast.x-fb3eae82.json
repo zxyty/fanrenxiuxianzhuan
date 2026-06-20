@@ -5,15 +5,17 @@
   "aliases": [
     "蛟首妖物",
     "儒生模样血蛟",
-    "血前辈"
+    "血前辈",
+    "蛟首人身妖物"
   ],
   "summary": "木青手下高阶灵帅级血蛟，蛟首人身、头颅鲜红暴虐，以天罡血雷杀飞灵圣子。",
   "attributes": {
     "种族": "血蛟",
-    "等级": "高阶灵帅级",
+    "等级": "高阶灵帅级、高阶灵帅",
     "主人": "木青",
     "外形": "蛟首人身、头颅鲜红",
-    "栖息地": "地渊"
+    "栖息地": "地渊",
+    "能力": "天罡血雷"
   },
   "observations": {
     "种族": [
@@ -27,6 +29,11 @@
       {
         "value": "高阶灵帅级",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "高阶灵帅",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ],
@@ -48,6 +55,13 @@
       {
         "value": "地渊",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      }
+    ],
+    "能力": [
+      {
+        "value": "天罡血雷",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -83,13 +97,20 @@
       "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
       "dated": false,
       "seq": 1447
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+      "dated": false,
+      "seq": 1447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T17:08:36.005Z"
+  "updatedAt": "2026-06-20T12:08:11.198Z"
 }

@@ -7,13 +7,15 @@
     "金银两色长袍",
     "雷袍杀手锏",
     "金银色电弧雷袍",
-    "雷纹之袍"
+    "雷纹之袍",
+    "金银色电弧",
+    "雷甲"
   ],
   "summary": "韩立以雷纹与虚天鼎中大半天雷凝炼的金银色长袍，凝聚十余种雷纹符号，可同时激发作杀手锏，平日外披青袍遮蔽。",
   "attributes": {
     "持有者": "韩立",
     "外形": "金银两色长袍、金银符文若隐若现、金银两色符文若隐若现的长袍、金银色长袍",
-    "能力": "金银色电弧防护",
+    "能力": "同时激发十余种雷纹符号、金银色电弧防护、降下金银电弧、雷球、吸纳并弹反雷电、金银电弧防御/湮灭攻击",
     "来历": "本章以雷纹凝炼成功、用辟邪神雷及虚天鼎所收金银天雷凝炼",
     "五行属性": "雷"
   },
@@ -62,6 +64,11 @@
         "value": "吸纳并弹反雷电",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "金银电弧防御/湮灭攻击",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "来历": [
@@ -100,9 +107,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1341-leipao-xianshi",
       "dated": false,
-      "seq": 1447
+      "seq": 1339
     },
     "来历": {
       "asOf": null,
@@ -124,7 +131,8 @@
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
     "plot.fanren-1339-1344-leipao-shenmi-kongjian",
     "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-20T11:37:56.474Z"
+  "updatedAt": "2026-06-20T12:08:11.179Z"
 }

@@ -6,7 +6,8 @@
   "summary": "地血用以交换借血蛟的酬礼灵木。",
   "attributes": {
     "类型": "灵木",
-    "用途": "交易酬礼"
+    "用途": "交易酬礼、交易代价",
+    "稀有度": "稀有"
   },
   "observations": {
     "类型": [
@@ -20,6 +21,18 @@
       {
         "value": "交易酬礼",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "交易代价",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "稀有",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -37,12 +50,19 @@
       "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
       "dated": false,
       "seq": 1447
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+      "dated": false,
+      "seq": 1447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.694Z"
+  "updatedAt": "2026-06-20T12:08:11.208Z"
 }

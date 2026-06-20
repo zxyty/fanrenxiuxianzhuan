@@ -4,13 +4,14 @@
   "name": "天罡血雷",
   "aliases": [
     "血红闪电",
-    "天煞血雷"
+    "天煞血雷",
+    "血雷"
   ],
   "summary": "血毒（血蛟）神通，召血云降血电，瞬杀飞灵圣子、破护体宝物。",
   "attributes": {
-    "类型": "雷法、雷系攻击神通、雷系攻击",
-    "威力": "瞬间化人为灰、破护身宝物、极强、逊于辟邪神雷",
-    "出处": "血蛟/血毒、血蛟（未完全练成）"
+    "类型": "雷法、雷系攻击神通、雷系攻击、血雷神通",
+    "威力": "瞬间化人为灰、破护身宝物、极强、逊于辟邪神雷、无视护体灵光，化敌为灰烬、十二成可破多重护身、实物法宝难防",
+    "出处": "血蛟/血毒、血蛟（未完全练成）、血蛟（未练成可同驱四波）"
   },
   "observations": {
     "类型": [
@@ -28,6 +29,11 @@
         "value": "雷系攻击",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "血雷神通",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "威力": [
@@ -45,6 +51,16 @@
         "value": "逊于辟邪神雷",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "无视护体灵光，化敌为灰烬",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      },
+      {
+        "value": "十二成可破多重护身、实物法宝难防",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "出处": [
@@ -56,6 +72,11 @@
       {
         "value": "血蛟（未完全练成）",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "血蛟（未练成可同驱四波）",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -85,7 +106,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T17:08:36.010Z"
+  "updatedAt": "2026-06-20T12:08:11.242Z"
 }

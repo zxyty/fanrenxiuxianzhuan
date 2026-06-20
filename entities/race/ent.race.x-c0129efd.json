@@ -4,14 +4,16 @@
   "name": "黑灵族",
   "aliases": [
     "黑灵人",
-    "黑灵男子"
+    "黑灵男子",
+    "乌灵人"
   ],
   "summary": "飞灵族中上游分支，擅金乌灵火，受赤融族悬赏围杀韩立一行。",
   "attributes": {
-    "特性": "金乌灵火、黑色翎羽",
+    "特性": "金乌灵火、黑色翎羽、黑色大鸟真灵法相",
     "阵营": "飞灵族七十二支",
     "聚居地": "地渊",
-    "天赋神通": "化黑色大鸟、黑翎化黑焰/化箭矢"
+    "天赋神通": "化黑色大鸟、黑翎化黑焰/化箭矢、翎羽化箭矢、黑色木盾",
+    "代表人物": "高阶灵将黑灵男子"
   },
   "observations": {
     "特性": [
@@ -23,6 +25,11 @@
       {
         "value": "黑色翎羽",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "黑色大鸟真灵法相",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ],
@@ -49,6 +56,23 @@
       {
         "value": "黑翎化黑焰/化箭矢",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "翎羽化箭矢",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      },
+      {
+        "value": "黑色木盾",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "高阶灵将黑灵男子",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -78,12 +102,19 @@
       "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
       "dated": false,
       "seq": 1447
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+      "dated": false,
+      "seq": 1447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.710Z"
+  "updatedAt": "2026-06-20T12:08:11.222Z"
 }

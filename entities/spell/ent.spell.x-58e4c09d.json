@@ -8,15 +8,20 @@
   ],
   "summary": "黑灵族秘火，借金乌之羽含金乌神焰一丝威能，可吸纳对手法力修为。",
   "attributes": {
-    "类型": "异火",
-    "威力": "吸纳法力、扭曲空间",
-    "出处": "黑灵族（金乌之羽）"
+    "类型": "异火、灵焰",
+    "威力": "吸纳法力、扭曲空间、吸纳法力修为、扭曲空间",
+    "出处": "黑灵族（金乌之羽）、黑灵族"
   },
   "observations": {
     "类型": [
       {
         "value": "异火",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "灵焰",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ],
@@ -25,12 +30,22 @@
         "value": "吸纳法力、扭曲空间",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "吸纳法力修为、扭曲空间",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "出处": [
       {
         "value": "黑灵族（金乌之羽）",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "黑灵族",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -59,7 +74,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.693Z"
+  "updatedAt": "2026-06-20T12:08:11.202Z"
 }

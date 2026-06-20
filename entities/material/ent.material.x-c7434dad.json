@@ -3,12 +3,14 @@
   "type": "material",
   "name": "黑翎",
   "aliases": [
-    "黑灵族翎羽"
+    "黑灵族翎羽",
+    "黑灵族黑翎"
   ],
   "summary": "黑灵族尸身中可摄出的乌黑透金翎羽，浮现黑符可化黑焰、炙热，被韩立收取。",
   "attributes": {
     "类型": "妖兽材料",
-    "用途": "可化黑焰"
+    "用途": "可化黑焰",
+    "产地": "黑灵族"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,13 @@
       {
         "value": "可化黑焰",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      }
+    ],
+    "产地": [
+      {
+        "value": "黑灵族",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -39,12 +48,19 @@
       "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
       "dated": false,
       "seq": 1447
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+      "dated": false,
+      "seq": 1447
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.711Z"
+  "updatedAt": "2026-06-20T12:08:11.225Z"
 }

@@ -8,8 +8,8 @@
   "summary": "地渊第二层秽气凝结地之一，由黑暗秽气凝结的腐叶树构成，淡黄叶、腥气，神念受压制，深处水潭边生冥焰树。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "秽气凝结林地",
-    "危险度": "高",
+    "类型": "秽气凝结林地、秽气密林",
+    "危险度": "高、高（神念受压制、潜藏妖物）",
     "特产": "冥焰果"
   },
   "observations": {
@@ -25,12 +25,22 @@
         "value": "秽气凝结林地",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "秽气密林",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "危险度": [
       {
         "value": "高",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "高（神念受压制、潜藏妖物）",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ],
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.712Z"
+  "updatedAt": "2026-06-20T12:08:11.226Z"
 }

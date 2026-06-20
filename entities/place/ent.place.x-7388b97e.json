@@ -23,8 +23,8 @@
   "attributes": {
     "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高、极高（含妖王级妖物）、高（妖物、妖潮）",
     "所属界面": "灵界",
-    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地、地下凶险界域、入口巨渊、地下世界/秘境、秘境入口、地下试炼之地、地下试炼险地、分层试炼秘地",
-    "守护": "飞灵族地渊守卫、飞灵族封锁地渊之门、地渊妖物、飞灵族、飞灵族封锁入口",
+    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地、地下凶险界域、入口巨渊、地下世界/秘境、秘境入口、地下试炼之地、地下试炼险地、分层试炼秘地、多层地下凶地、灵界险地",
+    "守护": "飞灵族地渊守卫、飞灵族封锁地渊之门、地渊妖物、飞灵族、飞灵族封锁入口、众多炼虚级及以上妖物",
     "特产": "冥焰果"
   },
   "observations": {
@@ -162,6 +162,16 @@
         "value": "分层试炼秘地",
         "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
+      },
+      {
+        "value": "多层地下凶地",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      },
+      {
+        "value": "灵界险地",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "守护": [
@@ -189,6 +199,11 @@
         "value": "飞灵族封锁入口",
         "docId": "plot.fanren-1438-1440-yinzhufeng-juilinghua",
         "seq": 1435
+      },
+      {
+        "value": "众多炼虚级及以上妖物",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
       }
     ],
     "特产": [
@@ -253,7 +268,8 @@
     "plot.fanren-1438-1440-yinzhufeng-juilinghua",
     "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
     "plot.fanren-1443-1444-diyuan-shenceng-weiji",
-    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-20T12:00:51.500Z"
+  "updatedAt": "2026-06-20T12:08:11.227Z"
 }

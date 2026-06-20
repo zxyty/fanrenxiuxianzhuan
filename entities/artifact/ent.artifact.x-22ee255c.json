@@ -4,13 +4,16 @@
   "name": "煞甲",
   "aliases": [
     "黑色古朴战甲",
-    "黑甲"
+    "黑甲",
+    "黑色战甲",
+    "古朴战甲",
+    "黑黝黝战甲"
   ],
   "summary": "韩立黑色战甲，可分散攻击威能、破损后黑气自复。",
   "attributes": {
     "持有者": "韩立",
     "外形": "黑黝黝古朴战甲",
-    "能力": "分散威能、自动恢复"
+    "能力": "分散威能、自动恢复、分散攻击威能、瞬间复原"
   },
   "observations": {
     "持有者": [
@@ -31,6 +34,16 @@
       {
         "value": "分散威能、自动恢复",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+        "seq": 1447
+      },
+      {
+        "value": "分散攻击威能",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
+        "seq": 1447
+      },
+      {
+        "value": "瞬间复原",
+        "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
       }
     ]
@@ -59,7 +72,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1447-1452-blood-puppets-and-pet-advance"
+    "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+    "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance"
   ],
-  "updatedAt": "2026-06-16T16:49:29.691Z"
+  "updatedAt": "2026-06-20T12:08:11.176Z"
 }
