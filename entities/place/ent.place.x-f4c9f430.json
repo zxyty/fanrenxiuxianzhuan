@@ -2,11 +2,13 @@
   "id": "ent.place.x-f4c9f430",
   "type": "place",
   "name": "火瑚群岛",
-  "aliases": [],
+  "aliases": [
+    "火瑚群岛海域"
+  ],
   "summary": "外海群岛，火阳族所在海域，距雷鸣大陆较近。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "外海群岛"
+    "类型": "海域群岛"
   },
   "observations": {
     "所属界面": [
@@ -21,6 +23,11 @@
         "value": "外海群岛",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
+      },
+      {
+        "value": "海域群岛",
+        "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+        "seq": 1543
       }
     ]
   },
@@ -34,15 +41,16 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
       "dated": false,
-      "seq": 1531
+      "seq": 1543
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
   ],
-  "updatedAt": "2026-06-20T14:29:20.400Z"
+  "updatedAt": "2026-06-20T14:42:22.877Z"
 }

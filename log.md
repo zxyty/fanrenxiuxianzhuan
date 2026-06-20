@@ -604,3 +604,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T14:31:52.928Z** `ingest` plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan — 凡人修仙传 第1540-1542章｜玄剑附臂・以火化丹 · kind=plot asOf=2026-06-20 entities=15 relations=14 src=01537-01542.p1.md
 - **2026-06-20T14:33:49.641Z** `ingest` plot.fanren-1542-1543-wujiashou-dixian — 第1542-1543章 乌甲兽·敌现：韩立出关助火阳族，乌罗族攻城 · kind=plot asOf=2026-06-20 entities=13 relations=12 src=01537-01542.p2.md
 - **2026-06-20T14:35:14.580Z** `ingest` plot.fanren-1544-1545-huoyang-zu-jiesha-luowang — 第1544-1545章 灵漩邪光与斩杀两名乌罗王族 · kind=plot asOf=2026-06-20 entities=12 relations=16 src=01537-01542.p3.md
+- **2026-06-20T14:42:23.124Z** `ingest` plot.fanren-1543-1548-heisha-kongyunjing-lanhudao — 凡人修仙传 第1543-1548章：黑纱·空云晶·蓝湖岛 · kind=plot asOf=2026-06-20 entities=33 relations=40 src=01543-01548.md
