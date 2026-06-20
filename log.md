@@ -597,3 +597,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T13:58:52.550Z** `ingest` plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi — 凡人修仙传 第1507-1512章｜罗睺之谜·玉台·青元子 · kind=plot asOf=2026-06-20 entities=31 relations=37 src=01507-01512.md
 - **2026-06-20T14:01:10.427Z** `ingest` plot.fanren-1516-1517-zhuye-likai — 第1516-1517章 竹叶·离开：金雷竹叶换剑诀、神乳之约与离开冥河之地 · kind=plot asOf=2026-06-20 entities=25 relations=21 src=01513-01518.p1.md
 - **2026-06-20T14:03:42.753Z** `ingest` plot.fanren-1518-1519-heiming-wuhai-haoshou — 第1518-1519章 雾中·春黎青蟠：韩立困黑冥雾海遇皓兽族炼虚 · kind=plot asOf=2026-06-20 entities=29 relations=24 src=01513-01518.p2.md
+- **2026-06-20T14:06:17.658Z** `ingest` plot.fanren-1520-1521-huifu-zhonglian-shenshan — 第1520-1521章 回府·重炼神山：韩立出黑冥雾海归洞府，重炼元磁神山、参悟春黎剑阵 · kind=plot asOf=2026-06-20 entities=24 relations=23 src=01513-01518.p3.md
