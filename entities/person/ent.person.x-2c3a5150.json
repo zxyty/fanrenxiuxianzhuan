@@ -4,14 +4,15 @@
   "name": "柳儿",
   "aliases": [
     "蓝衫少女",
-    "柳儿姑娘"
+    "柳儿姑娘",
+    "柳儿姐姐"
   ],
   "summary": "天东商号车厢中年纪最长、话最少的蓝衫少女。",
   "attributes": {
     "性别": "女",
-    "外貌": "蓝衫，车中年纪最长、蓝衫",
+    "外貌": "蓝衫，车中年纪最长、蓝衫、蓝衫少女、车中年纪最大",
     "阵营": "天东商号",
-    "身份": "天东商号少女/管事"
+    "身份": "天东商号少女/管事、天东商号夫人侍女"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,11 @@
         "value": "蓝衫",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "蓝衫少女、车中年纪最大",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "阵营": [
@@ -44,6 +50,11 @@
       {
         "value": "天东商号少女/管事",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "天东商号夫人侍女",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ]
@@ -78,7 +89,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.741Z"
+  "updatedAt": "2026-06-20T07:02:22.222Z"
 }

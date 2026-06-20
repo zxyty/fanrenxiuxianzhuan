@@ -5,15 +5,20 @@
   "aliases": [],
   "summary": "香儿三女布下的回复阵法，令守卫体力尽复、力大无穷；实为人界魔宗精元阵的简化，靠透支寿元换取短时暴增。",
   "attributes": {
-    "效果": "短时体力暴增",
-    "破解法": "透支寿元(代价)",
-    "出处": "精元阵简化"
+    "效果": "短时体力暴增、我方体力尽复、力大无穷，代价透支两三年寿元",
+    "破解法": "透支寿元(代价)、阵旗威能用尽即失效",
+    "出处": "精元阵简化、人界魔宗精元阵简化"
   },
   "observations": {
     "效果": [
       {
         "value": "短时体力暴增",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "我方体力尽复、力大无穷，代价透支两三年寿元",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -22,12 +27,22 @@
         "value": "透支寿元(代价)",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "阵旗威能用尽即失效",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "出处": [
       {
         "value": "精元阵简化",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "人界魔宗精元阵简化",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ]
@@ -56,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.747Z"
+  "updatedAt": "2026-06-20T07:02:22.240Z"
 }

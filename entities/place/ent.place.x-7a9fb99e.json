@@ -10,7 +10,7 @@
   "summary": "灵界中的一处境域，韩立飞升后所在区域。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "界域(三境之一)",
+    "类型": "境域、人族境域、人族疆域、界域(三境之一)、界域/地域",
     "守护": "超级仙阵（阵眼天元圣山）",
     "所属势力": "人族"
   },
@@ -42,6 +42,11 @@
         "value": "界域(三境之一)",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "界域/地域",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "守护": [
@@ -69,9 +74,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1287-chuancheng-zhu",
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
       "dated": false,
-      "seq": 1285
+      "seq": 1261
     },
     "守护": {
       "asOf": null,
@@ -92,7 +97,8 @@
     "plot.fanren-1261-1266-blood-curse-tiandong",
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1287-chuancheng-zhu"
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:51:11.124Z"
+  "updatedAt": "2026-06-20T07:02:22.231Z"
 }

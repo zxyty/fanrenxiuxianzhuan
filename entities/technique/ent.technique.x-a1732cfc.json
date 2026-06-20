@@ -3,12 +3,13 @@
   "type": "technique",
   "name": "玄天九龙金针术",
   "aliases": [
-    "玄天金针术"
+    "玄天金针术",
+    "金针刺穴术"
   ],
   "summary": "符家家传金针刺穴之术，活人无数，可化腐朽为神奇，暂复瘫者四肢活动。",
   "attributes": {
     "出处": "符家家传",
-    "效果": "金针刺穴疗伤，暂时恢复活动能力"
+    "效果": "金针刺穴疗伤，暂时恢复活动能力、金针刺穴、暂复肢体活动、化腐朽为神奇"
   },
   "observations": {
     "出处": [
@@ -22,6 +23,11 @@
       {
         "value": "金针刺穴疗伤，暂时恢复活动能力",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "金针刺穴、暂复肢体活动、化腐朽为神奇",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ]
@@ -44,7 +50,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.720Z"
+  "updatedAt": "2026-06-20T07:02:22.239Z"
 }

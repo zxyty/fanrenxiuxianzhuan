@@ -10,9 +10,10 @@
   "attributes": {
     "品阶": "低阶灵具",
     "五行属性": "金",
-    "外形": "金色短剑",
+    "外形": "带鞘短剑，剑柄镶金色灵石、金色短剑、带鞘小剑、剑柄嵌金色灵石",
     "能力": "凡人借手套灵石可催动",
-    "持有者": "张奎"
+    "持有者": "张奎",
+    "禁制": "需激发、灵石耗尽即失效"
   },
   "observations": {
     "品阶": [
@@ -39,6 +40,11 @@
         "value": "金色短剑",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "带鞘小剑、剑柄嵌金色灵石",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "能力": [
@@ -53,6 +59,13 @@
         "value": "张奎",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      }
+    ],
+    "禁制": [
+      {
+        "value": "需激发、灵石耗尽即失效",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ]
   },
@@ -72,9 +85,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
       "dated": false,
-      "seq": 1273
+      "seq": 1261
     },
     "能力": {
       "asOf": null,
@@ -87,13 +100,20 @@
       "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
       "dated": false,
       "seq": 1273
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+      "dated": false,
+      "seq": 1261
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1261-1266-blood-curse-tiandong",
-    "plot.fanren-1273-1278-anyuan-beast-tide"
+    "plot.fanren-1273-1278-anyuan-beast-tide",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:20:06.384Z"
+  "updatedAt": "2026-06-20T07:02:22.241Z"
 }

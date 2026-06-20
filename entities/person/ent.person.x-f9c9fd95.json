@@ -8,8 +8,8 @@
   "summary": "天东商号最年幼的少女，险被蛇妖骨矛所杀，被韩立以石块救下，对其感激。",
   "attributes": {
     "性别": "女",
-    "外貌": "红衫",
-    "身份": "方夫人侍女"
+    "外貌": "红衫、红衫、最年幼",
+    "身份": "天东商号少女、方夫人侍女、天东商号夫人侍女"
   },
   "observations": {
     "性别": [
@@ -24,6 +24,11 @@
         "value": "红衫",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "红衫、最年幼",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "身份": [
@@ -36,6 +41,11 @@
         "value": "方夫人侍女",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "天东商号夫人侍女",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ]
   },
@@ -55,16 +65,17 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
       "dated": false,
-      "seq": 1267
+      "seq": 1261
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1261-1266-blood-curse-tiandong",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:12:05.254Z"
+  "updatedAt": "2026-06-20T07:02:22.224Z"
 }

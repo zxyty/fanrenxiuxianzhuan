@@ -5,14 +5,15 @@
   "aliases": [
     "翠衫少女",
     "香儿姑娘",
-    "香儿妹妹"
+    "香儿妹妹",
+    "香儿姐姐"
   ],
   "summary": "天东商号车厢中约十五六岁的翠衫少女，圆脸甜美。",
   "attributes": {
     "性别": "女",
-    "外貌": "约十五六岁，翠衫，圆脸甜美",
+    "外貌": "约十五六岁，翠衫，圆脸甜美、翠衫、圆脸、约十五六岁",
     "阵营": "天东商号",
-    "身份": "天东商号少女"
+    "身份": "天东商号少女、天东商号夫人侍女"
   },
   "observations": {
     "性别": [
@@ -27,6 +28,11 @@
         "value": "约十五六岁，翠衫，圆脸甜美",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "翠衫、圆脸、约十五六岁",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "阵营": [
@@ -40,6 +46,11 @@
       {
         "value": "天东商号少女",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "天东商号夫人侍女",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ]
@@ -74,7 +85,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.742Z"
+  "updatedAt": "2026-06-20T07:02:22.223Z"
 }

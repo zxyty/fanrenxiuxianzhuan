@@ -7,8 +7,8 @@
   ],
   "summary": "血咒门独门制作的契约符箓，以古老人界符文书就，滴精血生效，反悔者被夺部分精魂；仅约束筑基左右修士。",
   "attributes": {
-    "类型": "契约/诅咒符箓",
-    "用途": "血咒契约束缚立约者、加入商号的契约/血咒约束",
+    "类型": "契约/诅咒符箓、契约符箓",
+    "用途": "血咒契约束缚立约者、加入商号的契约/血咒约束、缔结效力契约、违约取精魂",
     "产地": "血咒门"
   },
   "observations": {
@@ -16,6 +16,11 @@
       {
         "value": "契约/诅咒符箓",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "契约符箓",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -28,6 +33,11 @@
       {
         "value": "加入商号的契约/血咒约束",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "缔结效力契约、违约取精魂",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -63,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.748Z"
+  "updatedAt": "2026-06-20T07:02:22.243Z"
 }

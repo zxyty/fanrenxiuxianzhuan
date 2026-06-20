@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "灵界一片广袤沙漠，空间裂缝频发，常卷来异乡人；数月可穿，将临凶险的蝎潮期。",
   "attributes": {
-    "所属界面": "灵界、灵界·天元境",
+    "所属界面": "灵界、灵界·天元境、灵界天元境",
     "类型": "沙漠",
-    "危险度": "高（空间裂缝、蝎潮期）",
+    "危险度": "高（空间裂缝、蝎潮期）、高（蝎潮期、沙虫兽、空间裂缝）",
     "特产": "沙虫兽",
     "所属势力": "天元镜"
   },
@@ -22,6 +22,11 @@
         "value": "灵界·天元境",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "灵界天元境",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "类型": [
@@ -35,6 +40,11 @@
       {
         "value": "高（空间裂缝、蝎潮期）",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "高（蝎潮期、沙虫兽、空间裂缝）",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -92,7 +102,8 @@
     "plot.fanren-1261-1266-blood-curse-tiandong",
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.fanren-1287-chuancheng-zhu"
+    "plot.fanren-1287-chuancheng-zhu",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:51:11.094Z"
+  "updatedAt": "2026-06-20T07:02:22.230Z"
 }

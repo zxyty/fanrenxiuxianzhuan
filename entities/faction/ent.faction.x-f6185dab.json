@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "南歧子等修士出身的门派，大多修炼驱虫神通，对付虫兽时门规顾忌甚多。",
   "attributes": {
-    "理念": "多修驱虫神通,虫兽未主动攻击不出手",
+    "理念": "多修驱虫神通,虫兽未主动攻击不出手、多修驱虫神通、规矩限制多",
     "所属界面": "灵界"
   },
   "observations": {
@@ -14,6 +14,11 @@
         "value": "多修驱虫神通,虫兽未主动攻击不出手",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
         "seq": 1261
+      },
+      {
+        "value": "多修驱虫神通、规矩限制多",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ],
     "所属界面": [
@@ -21,6 +26,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "灵界天元境",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
       }
     ]
   },
@@ -43,7 +53,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1261-1266-blood-curse-tiandong",
-    "plot.fanren-1267-1272-anyuan-city-shoujao"
+    "plot.fanren-1267-1272-anyuan-city-shoujao",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:12:05.253Z"
+  "updatedAt": "2026-06-20T07:02:22.228Z"
 }

@@ -7,14 +7,21 @@
   ],
   "summary": "人首蛇身、焦黄乱发、妇人狞面，蛇身两侧生婴儿般手臂各持骨矛（低阶法器），会施土遁逃遁。",
   "attributes": {
-    "外形": "人首蛇身,妇人面,持双骨矛",
-    "能力": "喷黑毒气、土遁术"
+    "外形": "人首蛇身,妇人面,持双骨矛、人首蛇身、妇人面容、婴儿状双臂",
+    "能力": "喷黑毒气、土遁术、双持骨矛法器",
+    "等级": "低阶妖兽（开灵智）",
+    "栖息地": "青罗沙漠"
   },
   "observations": {
     "外形": [
       {
         "value": "人首蛇身,妇人面,持双骨矛",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "人首蛇身、妇人面容、婴儿状双臂",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -27,6 +34,25 @@
       {
         "value": "土遁术",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "双持骨矛法器",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
+      }
+    ],
+    "等级": [
+      {
+        "value": "低阶妖兽（开灵智）",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+        "seq": 1261
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "青罗沙漠",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ]
@@ -44,12 +70,25 @@
       "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
       "dated": false,
       "seq": 1261
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+      "dated": false,
+      "seq": 1261
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
+      "dated": false,
+      "seq": 1261
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.738Z"
+  "updatedAt": "2026-06-20T07:02:22.248Z"
 }

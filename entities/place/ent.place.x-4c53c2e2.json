@@ -2,10 +2,12 @@
   "id": "ent.place.x-4c53c2e2",
   "type": "place",
   "name": "天元圣城",
-  "aliases": [],
+  "aliases": [
+    "天元圣城中"
+  ],
   "summary": "天元境中的圣城，天东商号总部所在。",
   "attributes": {
-    "所属界面": "灵界·天元境",
+    "所属界面": "灵界·天元境、灵界天元境",
     "类型": "城市"
   },
   "observations": {
@@ -13,6 +15,11 @@
       {
         "value": "灵界·天元境",
         "docId": "plot.fanren-1261-1266-blood-curse-tiandong",
+        "seq": 1261
+      },
+      {
+        "value": "灵界天元境",
+        "docId": "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao",
         "seq": 1261
       }
     ],
@@ -42,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1261-1266-blood-curse-tiandong"
+    "plot.fanren-1261-1266-blood-curse-tiandong",
+    "plot.fanren-1261-1268-chu-ru-lingjie-tiandong-shanghao"
   ],
-  "updatedAt": "2026-06-16T10:03:55.733Z"
+  "updatedAt": "2026-06-20T07:02:22.233Z"
 }
