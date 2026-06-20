@@ -7,8 +7,8 @@
   ],
   "summary": "天鹏族镇族盟誓，副卷仅三份；留名者除犯天大罪外本族任何人不得对其出手，但只能约束本族之人。",
   "attributes": {
-    "类型": "盟誓/镇族之物",
-    "用途": "留名者受族誓护佑，仅约束天鹏族本族"
+    "类型": "盟誓/镇族之物、誓约/镇族之物",
+    "用途": "留名者受族誓护佑，仅约束天鹏族本族、约束本族、保护留名者"
   },
   "observations": {
     "类型": [
@@ -16,12 +16,22 @@
         "value": "盟誓/镇族之物",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
         "seq": 1417
+      },
+      {
+        "value": "誓约/镇族之物",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
       }
     ],
     "用途": [
       {
         "value": "留名者受族誓护佑，仅约束天鹏族本族",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      },
+      {
+        "value": "约束本族、保护留名者",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
       }
     ]
@@ -45,7 +55,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
   ],
-  "updatedAt": "2026-06-16T16:12:01.592Z"
+  "updatedAt": "2026-06-20T11:25:39.507Z"
 }

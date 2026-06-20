@@ -20,7 +20,7 @@
   "attributes": {
     "危险度": "极高（七层、有妖王级妖物、黑潮）",
     "所属界面": "灵界",
-    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境",
+    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地",
     "守护": "飞灵族封锁地渊之门",
     "特产": "冥焰果"
   },
@@ -99,6 +99,11 @@
         "value": "地底秘境",
         "docId": "plot.fanren-1480-bai-ying",
         "seq": 1477
+      },
+      {
+        "value": "凶险之地",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
       }
     ],
     "守护": [
@@ -111,6 +116,11 @@
         "value": "飞灵族封锁地渊之门",
         "docId": "plot.fanren-1438-yin-zhu-feng",
         "seq": 1435
+      },
+      {
+        "value": "地渊妖物",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
       }
     ],
     "特产": [
@@ -137,9 +147,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
       "dated": false,
-      "seq": 1423
+      "seq": 1417
     },
     "守护": {
       "asOf": null,
@@ -167,7 +177,8 @@
     "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
     "plot.fanren-1480-bai-ying",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
   ],
-  "updatedAt": "2026-06-16T19:14:17.476Z"
+  "updatedAt": "2026-06-20T11:25:39.517Z"
 }

@@ -7,16 +7,23 @@
   ],
   "summary": "鸠首青肤、上半人下半鸟、锤锥双臂的雷属性灵兽，由鱼姓店主以真仙界育兽秘术从雷电中催育而成，天下仅此一只。",
   "attributes": {
-    "等级": "炼虚级",
+    "等级": "炼虚级、炼虚级神通",
     "主人": "鱼老贼",
     "能力": "白色雷球、蓝色电矢、金色电蛟、雷遁、驱赤白蓝金四色电弧、雷电之力",
-    "外形": "银光灵兽，青色绿爪、指尖赤色雷芒"
+    "外形": "鸠首青肤、上人下鸟、蓝羽翅、一锤一锥双臂、金黄眼珠、银光灵兽，青色绿爪、指尖赤色雷芒、鸠首青肤、上人下鸟、蓝色羽翅、双臂前端一锤一锥、金黄眼珠",
+    "种族": "雷电之灵",
+    "天敌": "缚雷焦光大阵"
   },
   "observations": {
     "等级": [
       {
         "value": "炼虚级",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+        "seq": 1417
+      },
+      {
+        "value": "炼虚级神通",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
       }
     ],
@@ -76,6 +83,25 @@
         "value": "银光灵兽，青色绿爪、指尖赤色雷芒",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "鸠首青肤、上人下鸟、蓝色羽翅、双臂前端一锤一锥、金黄眼珠",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
+      }
+    ],
+    "种族": [
+      {
+        "value": "雷电之灵",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
+      }
+    ],
+    "天敌": [
+      {
+        "value": "缚雷焦光大阵",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
       }
     ]
   },
@@ -102,16 +128,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
       "dated": false,
-      "seq": 1423
+      "seq": 1417
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+      "dated": false,
+      "seq": 1417
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+      "dated": false,
+      "seq": 1417
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
-    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan"
+    "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
   ],
-  "updatedAt": "2026-06-16T16:12:01.578Z"
+  "updatedAt": "2026-06-20T11:25:39.533Z"
 }

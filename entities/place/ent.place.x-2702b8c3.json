@@ -2,10 +2,12 @@
   "id": "ent.place.x-2702b8c3",
   "type": "place",
   "name": "万雷坊",
-  "aliases": [],
+  "aliases": [
+    "交易大殿九层店铺"
+  ],
   "summary": "交易大殿第九层的中型店铺，掌柜鱼兄出售青罗果。",
   "attributes": {
-    "所属势力": "天鹏族",
+    "所属势力": "天鹏族圣城",
     "类型": "商铺"
   },
   "observations": {
@@ -14,6 +16,11 @@
         "value": "天鹏族",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "天鹏族圣城",
+        "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
+        "seq": 1417
       }
     ],
     "类型": [
@@ -33,9 +40,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
       "dated": false,
-      "seq": 1411
+      "seq": 1417
     },
     "类型": {
       "asOf": null,
@@ -50,7 +57,8 @@
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+    "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian"
   ],
-  "updatedAt": "2026-06-20T11:18:12.759Z"
+  "updatedAt": "2026-06-20T11:25:39.521Z"
 }

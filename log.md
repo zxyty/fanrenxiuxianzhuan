@@ -575,3 +575,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T11:03:27.701Z** `ingest` plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute — 凡人修仙传 第1399-1404章｜黑色雾海·苦修闭关·天鹏族与供奉 · kind=plot asOf=2026-06-20 entities=32 relations=36 src=01399-01404.md
 - **2026-06-20T11:11:09.773Z** `ingest` plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong — 凡人修仙传 第1405-1410章｜金髓炼体·天鹏人·赤融族伏击 · kind=plot asOf=2026-06-20 entities=24 relations=24 src=01405-01410.md
 - **2026-06-20T11:18:12.919Z** `ingest` plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda — 凡人修仙传 第1411-1416章｜封灵塔与天鹏圣子 · kind=plot asOf=2026-06-20 entities=24 relations=27 src=01411-01416.md
+- **2026-06-20T11:25:39.724Z** `ingest` plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian — 凡人修仙传 第1417-1422章｜鲲鹏舍利、天鹏之誓与惊蛰十二变 · kind=plot asOf=2026-06-20 entities=36 relations=36 src=01417-01422.md
