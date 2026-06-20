@@ -14,9 +14,10 @@
     "身份": "赤融族圣子、圣子",
     "小阶段": "神通不在中阶灵帅之下",
     "性格": "阴厉、谨慎、阴沉谨慎",
-    "外貌": "高瘦、肌肤深浓、目露煞气、肌肤深红、面色阴沉、高瘦、肤色比寻常赤融人深浓",
+    "外貌": "高瘦、肌肤深浓、目露煞气、肌肤深红、面色阴沉、高瘦、肤色比寻常赤融人深浓、红衫青年，面容阴厉",
     "标志特征": "双翅生火花化赤红火矢、赤炎爪、火灵丝、目露煞气、阴厉",
-    "称号": "与七越族熬青、南陇族费夜齐名"
+    "称号": "与七越族熬青、南陇族费夜齐名",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -84,6 +85,11 @@
         "value": "高瘦、肤色比寻常赤融人深浓",
         "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
+      },
+      {
+        "value": "红衫青年，面容阴厉",
+        "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+        "seq": 1429
       }
     ],
     "标志特征": [
@@ -112,6 +118,13 @@
       {
         "value": "与七越族熬青、南陇族费夜齐名",
         "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+        "seq": 1429
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
         "seq": 1429
       }
     ]
@@ -165,6 +178,12 @@
       "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
       "dated": false,
       "seq": 1429
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+      "dated": false,
+      "seq": 1429
     }
   },
   "contested": false,
@@ -172,7 +191,8 @@
   "docs": [
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
     "plot.fanren-1438-yin-zhu-feng",
-    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+    "plot.fanren-1433-1434-tianpeng-shitan-diyuan"
   ],
-  "updatedAt": "2026-06-20T11:39:50.544Z"
+  "updatedAt": "2026-06-20T11:41:45.956Z"
 }

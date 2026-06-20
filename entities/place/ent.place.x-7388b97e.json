@@ -14,14 +14,15 @@
     "地渊第二层",
     "第三层",
     "灵界地渊",
-    "地渊五层"
+    "地渊五层",
+    "地渊入口"
   ],
   "summary": "飞灵族圣子试炼之地，妖物横行，为飞灵族生死大敌，近期不太平。",
   "attributes": {
     "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高",
     "所属界面": "灵界",
-    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地",
-    "守护": "飞灵族封锁地渊之门",
+    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地",
+    "守护": "飞灵族地渊守卫、飞灵族封锁地渊之门、地渊妖物、飞灵族",
     "特产": "冥焰果"
   },
   "observations": {
@@ -109,6 +110,11 @@
         "value": "凶险之地",
         "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
+      },
+      {
+        "value": "守卫要地",
+        "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+        "seq": 1429
       }
     ],
     "守护": [
@@ -126,6 +132,11 @@
         "value": "地渊妖物",
         "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
+      },
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
+        "seq": 1429
       }
     ],
     "特产": [
@@ -158,9 +169,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1438-yin-zhu-feng",
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
       "dated": false,
-      "seq": 1435
+      "seq": 1417
     },
     "特产": {
       "asOf": null,
@@ -184,7 +195,8 @@
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1516-bamboo-leaves",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
-    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+    "plot.fanren-1433-1434-tianpeng-shitan-diyuan"
   ],
-  "updatedAt": "2026-06-20T11:39:50.561Z"
+  "updatedAt": "2026-06-20T11:41:45.969Z"
 }
