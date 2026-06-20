@@ -9,9 +9,9 @@
   "summary": "本次试炼目标灵果，生于黑暗与秽气最凝重之地，约五百年成熟一次、每株仅生一枚；地渊一层无，二层或有少量，三层必有。",
   "attributes": {
     "类型": "灵药/灵果",
-    "用途": "试炼凭证、试炼目标、飞灵族圣子试炼目标",
+    "用途": "试炼凭证、试炼目标、飞灵族圣子试炼目标、各族争夺的珍稀目标",
     "稀有度": "约五百年成熟一次、每株一枚、罕见、约五百年成熟一次、每株仅一枚、稀有",
-    "产地": "地渊（秽气最浓处，三层必有）、地渊深层、地渊二层、冰煞之地、地渊腐叶林深处水潭边、地渊、地渊黑暗秽气最凝重之地（三层必有）、地渊各层"
+    "产地": "地渊（秽气最浓处，三层必有）、地渊深层、地渊二层、冰煞之地、地渊腐叶林深处水潭边、地渊、地渊黑暗秽气最凝重之地（三层必有）、地渊各层、地渊第三层"
   },
   "observations": {
     "类型": [
@@ -46,6 +46,11 @@
         "value": "飞灵族圣子试炼目标",
         "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
+      },
+      {
+        "value": "各族争夺的珍稀目标",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ],
     "稀有度": [
@@ -110,6 +115,11 @@
         "value": "地渊各层",
         "docId": "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
         "seq": 1435
+      },
+      {
+        "value": "地渊第三层",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ]
   },
@@ -150,7 +160,8 @@
     "plot.fanren-1457-taodun-didi-escape",
     "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
     "plot.fanren-1441-1442-mysterious-mountain-green-shadow",
-    "plot.fanren-1443-1444-diyuan-shenceng-weiji"
+    "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-20T11:49:43.580Z"
+  "updatedAt": "2026-06-20T12:00:51.502Z"
 }

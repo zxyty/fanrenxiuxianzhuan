@@ -2,12 +2,14 @@
   "id": "ent.formation.x-2f81696a",
   "type": "formation",
   "name": "十方灭炎阵",
-  "aliases": [],
+  "aliases": [
+    "火属性禁断法阵"
+  ],
   "summary": "韩立当年于天渊城购置的火属性禁断大阵，化神入阵难即刻破出，克制冰寒属性妖物。",
   "attributes": {
     "品阶": "禁断法阵",
-    "效果": "炙热红霞消融冰寒妖物，化神难破",
-    "出处": "天渊城购置",
+    "效果": "炙热红霞消融冰寒妖物，化神难破、化神修士入内难即时破阵、对冰寒属性妖物更具威力",
+    "出处": "天渊城购置、天渊城收集的火属性布阵器具",
     "布置者": "韩立"
   },
   "observations": {
@@ -23,12 +25,27 @@
         "value": "炙热红霞消融冰寒妖物，化神难破",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
         "seq": 1441
+      },
+      {
+        "value": "化神修士入内难即时破阵",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      },
+      {
+        "value": "对冰寒属性妖物更具威力",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ],
     "出处": [
       {
         "value": "天渊城购置",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      },
+      {
+        "value": "天渊城收集的火属性布阵器具",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
       }
     ],
@@ -70,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1441-1446-bingsha-wanteng"
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-16T16:41:23.931Z"
+  "updatedAt": "2026-06-20T12:00:51.539Z"
 }

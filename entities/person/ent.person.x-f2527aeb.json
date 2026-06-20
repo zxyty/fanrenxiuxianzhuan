@@ -7,7 +7,9 @@
   "attributes": {
     "种族": "飞灵族",
     "阵营": "南陇族",
-    "身份": "南陇族圣子/年轻一辈高手"
+    "身份": "南陇族圣子",
+    "性别": "男",
+    "标志特征": "双目四瞳"
   },
   "observations": {
     "种族": [
@@ -29,6 +31,25 @@
         "value": "南陇族圣子/年轻一辈高手",
         "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
         "seq": 1429
+      },
+      {
+        "value": "南陇族圣子",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "双目四瞳",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ]
   },
@@ -48,16 +69,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
       "dated": false,
-      "seq": 1429
+      "seq": 1441
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+      "dated": false,
+      "seq": 1441
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+      "dated": false,
+      "seq": 1441
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
-    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-20T11:39:50.554Z"
+  "updatedAt": "2026-06-20T12:00:51.452Z"
 }

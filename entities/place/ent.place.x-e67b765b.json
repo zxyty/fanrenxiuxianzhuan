@@ -3,14 +3,16 @@
   "type": "place",
   "name": "冰煞之地",
   "aliases": [
-    "地渊冰煞之地"
+    "地渊冰煞之地",
+    "冰煞之地深处"
   ],
   "summary": "灵界地渊中遍布冰煞妖物与冰煞之气的危险区域，韩立一行入此寻找冥焰果。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "地渊危险区域",
-    "危险度": "高",
-    "特产": "冰煞之气、冥焰果"
+    "类型": "地渊危险区域、冰川险地、地渊冰煞区域、冰属性险地",
+    "危险度": "高、中",
+    "特产": "冰煞之气、冥焰果",
+    "守护": "冰煞妖物/冰煞妖王"
   },
   "observations": {
     "所属界面": [
@@ -25,12 +27,32 @@
         "value": "地渊危险区域",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
         "seq": 1441
+      },
+      {
+        "value": "冰川险地",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      },
+      {
+        "value": "地渊冰煞区域",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      },
+      {
+        "value": "冰属性险地",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ],
     "危险度": [
       {
         "value": "高",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      },
+      {
+        "value": "中",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
       }
     ],
@@ -43,6 +65,13 @@
       {
         "value": "冥焰果",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      }
+    ],
+    "守护": [
+      {
+        "value": "冰煞妖物/冰煞妖王",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
       }
     ]
@@ -72,12 +101,19 @@
       "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
       "dated": false,
       "seq": 1441
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+      "dated": false,
+      "seq": 1441
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1441-1446-bingsha-wanteng"
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-16T16:41:23.921Z"
+  "updatedAt": "2026-06-20T12:00:51.553Z"
 }

@@ -5,14 +5,17 @@
   "aliases": [
     "秦姐姐",
     "秦姑娘",
-    "秦师妹"
+    "秦师妹",
+    "秦道友"
   ],
   "summary": "夜绿族修士，与韩立同行，以木傀儡、碧绿绿焰护体及绿色火剑应战冰蜘蛛群。",
   "attributes": {
     "种族": "天鹏族",
     "性别": "女",
     "阵营": "韩立一行、飞灵族",
-    "身份": "圣子"
+    "身份": "圣子",
+    "称号": "中阶灵将",
+    "外貌": "背生白翅、头生翠绿小角"
   },
   "observations": {
     "种族": [
@@ -56,6 +59,25 @@
         "value": "圣子",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "夜绿族圣子",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      }
+    ],
+    "称号": [
+      {
+        "value": "中阶灵将",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      }
+    ],
+    "外貌": [
+      {
+        "value": "背生白翅、头生翠绿小角",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ]
   },
@@ -84,6 +106,18 @@
       "docId": "plot.fanren-1457-taodun-didi-escape",
       "dated": false,
       "seq": 1453
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+      "dated": false,
+      "seq": 1441
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+      "dated": false,
+      "seq": 1441
     }
   },
   "contested": false,
@@ -91,7 +125,8 @@
   "docs": [
     "plot.fanren-ch1441-1446-bingsha-wanteng",
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-16T17:08:35.934Z"
+  "updatedAt": "2026-06-20T12:00:51.547Z"
 }

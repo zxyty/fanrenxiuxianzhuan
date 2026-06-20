@@ -9,9 +9,9 @@
   "summary": "冰煞之地稀有妖物，可化二十丈黑色冰凤，神通一般但本源所化冰煞之气极精纯。",
   "attributes": {
     "等级": "化神级",
-    "能力": "化形黑色冰凤、黑雾重凝躯体、本源冰煞之气精纯",
-    "栖息地": "冰煞之地",
-    "外形": "二十丈黑色冰凤"
+    "能力": "化形黑色冰凤、黑雾重凝躯体、本源冰煞之气精纯、黑寒风、凝冰重塑躯体、黑色触手",
+    "栖息地": "冰煞之地、地渊冰煞之地深谷",
+    "外形": "二十丈黑色冰凤、二十丈黑色冰凤、通体晶莹幽黑"
   },
   "observations": {
     "等级": [
@@ -36,6 +36,21 @@
         "value": "本源冰煞之气精纯",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
         "seq": 1441
+      },
+      {
+        "value": "黑寒风",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      },
+      {
+        "value": "凝冰重塑躯体",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
+      },
+      {
+        "value": "黑色触手",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ],
     "栖息地": [
@@ -43,12 +58,22 @@
         "value": "冰煞之地",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
         "seq": 1441
+      },
+      {
+        "value": "地渊冰煞之地深谷",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
+        "seq": 1441
       }
     ],
     "外形": [
       {
         "value": "二十丈黑色冰凤",
         "docId": "plot.fanren-ch1441-1446-bingsha-wanteng",
+        "seq": 1441
+      },
+      {
+        "value": "二十丈黑色冰凤、通体晶莹幽黑",
+        "docId": "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
         "seq": 1441
       }
     ]
@@ -83,7 +108,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1441-1446-bingsha-wanteng"
+    "plot.fanren-ch1441-1446-bingsha-wanteng",
+    "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha"
   ],
-  "updatedAt": "2026-06-16T16:41:23.916Z"
+  "updatedAt": "2026-06-20T12:00:51.510Z"
 }
