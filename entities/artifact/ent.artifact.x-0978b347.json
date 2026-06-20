@@ -5,16 +5,17 @@
   "aliases": [
     "赤魂幡空间宝物",
     "赤幡",
-    "血幡"
+    "血幡",
+    "赤红巨幡"
   ],
   "summary": "灵界七邪器之一的血腥空间宝物，可由黑风旗改炼，需数百万乃至千万生魂祭炼，威力近灵宝。",
   "attributes": {
     "品阶": "灵界七邪器之一",
-    "能力": "空间神通/收纳、空间收纳、空间神通/收纳元磁山、阴魂之力、强大空间神通",
+    "能力": "空间神通/收纳、空间收纳、空间神通/收纳元磁山、阴魂之力、强大空间神通、化血云、空间神通收纳元磁山",
     "禁制": "需大量生魂祭炼，威力随生魂数量、需大量生魂祭炼",
-    "来历": "半截黑风旗所炼",
+    "来历": "可由黑风旗等材料相近之物改炼、半截黑风旗所炼、半截黑风旗炼成",
     "持有者": "韩立",
-    "外形": "数寸赤红小幡、丈许血光巨幡/血云"
+    "外形": "数寸赤红小幡、丈许血光巨幡/血云、通体赤红小幡，可涨至丈许血云巨幡"
   },
   "observations": {
     "品阶": [
@@ -49,6 +50,16 @@
         "value": "强大空间神通",
         "docId": "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
         "seq": 1213
+      },
+      {
+        "value": "化血云",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
+      },
+      {
+        "value": "空间神通收纳元磁山",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
       }
     ],
     "禁制": [
@@ -73,6 +84,11 @@
         "value": "半截黑风旗所炼",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
         "seq": 1243
+      },
+      {
+        "value": "半截黑风旗炼成",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
       }
     ],
     "持有者": [
@@ -91,6 +107,11 @@
       {
         "value": "丈许血光巨幡/血云",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "通体赤红小幡，可涨至丈许血云巨幡",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
       }
     ]
@@ -117,9 +138,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
-      "seq": 1243
+      "seq": 1213
     },
     "持有者": {
       "asOf": null,
@@ -139,7 +160,8 @@
   "docs": [
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan"
+    "plot.fanren-ch1213-1218-wuxing-heyi-poyang-yuanci-shan",
+    "plot.fanren-ch1245-jinghuo-xian"
   ],
-  "updatedAt": "2026-06-20T05:42:41.321Z"
+  "updatedAt": "2026-06-20T06:29:35.974Z"
 }

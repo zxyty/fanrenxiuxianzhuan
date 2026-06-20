@@ -10,17 +10,18 @@
     "金老妖",
     "色骨蛟",
     "金色骨架",
-    "迷你小蛟"
+    "迷你小蛟",
+    "金蛟老妖"
   ],
   "summary": "海族头目，十级大成的蛟龙妖兽，蛟首人身、金盔金甲持电蛇金枪，违背旧约亲自率海族攻打逆星盟争夺极品灵石。",
   "attributes": {
     "种族": "蛟龙/海族、金蛟、蛟龙一族、蛟龙、蛟、海族",
-    "外貌": "蛟首人身、金盔金甲、持游走银弧金枪、锦袍、虬发碧须、半人半蛟（金甲金鳞刚尾，战斗形态）、蛟首人身、金盔金甲、持银弧金长枪",
+    "外貌": "蛟首人身、金盔金甲、持游走银弧金枪、锦袍、虬发碧须、半人半蛟（金甲金鳞刚尾，战斗形态）、蛟首人身、金盔金甲、持银弧金长枪、金袍虬发碧须魁梧大汉、半人半蛟、金鳞刚尾、金甲",
     "身份": "妖修王者、蛟龙一族王者、妖王/蛟龙族、海族妖王、外海高阶妖修",
-    "标志特征": "金鳞金甲、对危险的冥冥感应、幻化金枪、银色雷电、金鳞金爪、化龙神通",
+    "标志特征": "金鳞金甲、对危险的冥冥感应、幻化金枪、银色雷电、金鳞金爪、化龙神通、金色长枪带电弧、神识放大宝珠",
     "称号": "本王",
     "阵营": "外海妖修",
-    "小阶段": "十级大成"
+    "小阶段": "十级大成、十级大成妖修"
   },
   "observations": {
     "种族": [
@@ -75,6 +76,17 @@
         "value": "蛟首人身、金盔金甲、持银弧金长枪",
         "docId": "plot.fanren-1143-yinsha-xueshi",
         "seq": 1141
+      },
+      {
+        "value": "金袍虬发碧须魁梧大汉",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
+      },
+      {
+        "value": "半人半蛟、金鳞刚尾、金甲",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243,
+        "note": "战斗形态"
       }
     ],
     "身份": [
@@ -134,6 +146,11 @@
         "value": "化龙神通",
         "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
+      },
+      {
+        "value": "金色长枪带电弧、神识放大宝珠",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
       }
     ],
     "称号": [
@@ -164,6 +181,11 @@
       {
         "value": "十级大成",
         "docId": "plot.fanren-1245-sun-essence-fire-appears",
+        "seq": 1243
+      },
+      {
+        "value": "十级大成妖修",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
       }
     ]
@@ -223,7 +245,8 @@
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-1143-yinsha-xueshi",
     "plot.fanren-1147-1152-jiaoyu-duobao",
-    "plot.fmxz-ch1155-yaoshou-zhi-luan"
+    "plot.fmxz-ch1155-yaoshou-zhi-luan",
+    "plot.fanren-ch1245-jinghuo-xian"
   ],
-  "updatedAt": "2026-06-18T12:14:27.478Z"
+  "updatedAt": "2026-06-20T06:29:35.963Z"
 }

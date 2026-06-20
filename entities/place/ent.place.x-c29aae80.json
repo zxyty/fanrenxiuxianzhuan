@@ -1,39 +1,34 @@
 {
-  "id": "ent.place.x-afe5bee6",
+  "id": "ent.place.x-c29aae80",
   "type": "place",
-  "name": "火山口",
+  "name": "乱星海无名荒岛",
   "aliases": [
-    "火山口熔岩地下"
+    "无名荒岛"
   ],
-  "summary": "韩立布下巨型诱捕法阵之地，熔岩之下数十丈为活动区域。",
+  "summary": "乱星海外海一无名荒岛，海底产龙鳞果，金蛟王每隔十余年来采；韩立在此设伏。",
   "attributes": {
-    "类型": "火山/熔岩地带、火山熔岩",
-    "所属界面": "人界",
-    "特产": "太阳精火"
+    "类型": "海岛",
+    "特产": "龙鳞果",
+    "危险度": "金蛟王采果之地、韩立设伏战场"
   },
   "observations": {
     "类型": [
       {
-        "value": "火山/熔岩地带",
-        "docId": "plot.fanren-1245-sun-essence-fire-appears",
-        "seq": 1243
-      },
-      {
-        "value": "火山熔岩",
-        "docId": "plot.fanren-ch1245-jinghuo-xian",
-        "seq": 1243
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "人界",
+        "value": "海岛",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
       }
     ],
     "特产": [
       {
-        "value": "太阳精火",
+        "value": "龙鳞果",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
+      }
+    ],
+    "危险度": [
+      {
+        "value": "金蛟王采果之地、韩立设伏战场",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
       }
@@ -42,12 +37,6 @@
   "firstSeq": 1243,
   "attrProvenance": {
     "类型": {
-      "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
-      "dated": false,
-      "seq": 1243
-    },
-    "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-ch1245-jinghuo-xian",
       "dated": false,
@@ -58,13 +47,18 @@
       "docId": "plot.fanren-ch1245-jinghuo-xian",
       "dated": false,
       "seq": 1243
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1245-jinghuo-xian",
+      "dated": false,
+      "seq": 1243
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-ch1245-jinghuo-xian"
   ],
-  "updatedAt": "2026-06-20T06:29:35.910Z"
+  "updatedAt": "2026-06-20T06:29:35.985Z"
 }

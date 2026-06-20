@@ -4,13 +4,14 @@
   "name": "药园",
   "aliases": [
     "药田",
-    "百药园"
+    "百药园",
+    "韩立药园"
   ],
   "summary": "神手谷内的药材园圃，韩立在此取材配药、试药兔，绿液溅及数株药草。",
   "attributes": {
-    "所属势力": "落云宗",
+    "所属势力": "韩立洞府",
     "类型": "灵药园",
-    "特产": "千结花、黑芍草、金精参",
+    "特产": "千结花、黑芍草、金精参、玄天仙藤、九曲灵参",
     "守护": "粗浅法阵（黄令牌控制）"
   },
   "observations": {
@@ -29,6 +30,11 @@
         "value": "落云宗",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "韩立洞府",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
       }
     ],
     "类型": [
@@ -78,6 +84,16 @@
         "value": "金精参",
         "docId": "plot.fanren-ch158-blue-robed-woman",
         "seq": 157
+      },
+      {
+        "value": "玄天仙藤",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
+      },
+      {
+        "value": "九曲灵参",
+        "docId": "plot.fanren-ch1245-jinghuo-xian",
+        "seq": 1243
       }
     ],
     "守护": [
@@ -97,9 +113,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "docId": "plot.fanren-ch1245-jinghuo-xian",
       "dated": false,
-      "seq": 601
+      "seq": 1243
     },
     "类型": {
       "asOf": null,
@@ -134,7 +150,8 @@
     "plot.fanren-ch386-four-years-jiedan",
     "plot.fanren-ch392-yuchong",
     "plot.fanren-1245-sun-essence-fire-appears",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-ch1245-jinghuo-xian"
   ],
-  "updatedAt": "2026-06-17T07:51:04.374Z"
+  "updatedAt": "2026-06-20T06:29:35.986Z"
 }
