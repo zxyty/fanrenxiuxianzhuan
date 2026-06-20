@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "突破瓶颈所用丹药，以幻灵草为主料，不宜多服。",
   "attributes": {
-    "功效": "助突破瓶颈",
-    "主料": "幻灵草"
+    "功效": "助突破瓶颈、助突破结丹瓶颈",
+    "主料": "幻灵草",
+    "适用境界": "结丹突破"
   },
   "observations": {
     "功效": [
@@ -14,11 +15,23 @@
         "value": "助突破瓶颈",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
+      },
+      {
+        "value": "助突破结丹瓶颈",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
       }
     ],
     "主料": [
       {
         "value": "幻灵草",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "结丹突破",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
       }
@@ -37,6 +50,12 @@
       "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
       "dated": false,
       "seq": 1183
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
     }
   },
   "contested": false,
@@ -44,5 +63,5 @@
   "docs": [
     "plot.fanren-1183-1188-fuzhong-tonghua-dujie"
   ],
-  "updatedAt": "2026-06-16T06:44:53.416Z"
+  "updatedAt": "2026-06-20T04:24:28.403Z"
 }

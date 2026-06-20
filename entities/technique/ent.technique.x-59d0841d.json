@@ -8,10 +8,10 @@
   ],
   "summary": "六道极圣所创魔道双修秘术，由处子身结丹女子兼修，助元婴期男修在夺取女子元阴瞬间强行突破瓶颈，仅首次有效。",
   "attributes": {
-    "适用境界": "元婴",
+    "适用境界": "元婴突破",
     "出处": "六道极圣所创、六道极圣所创，记于粉红玉简",
     "效果": "夺女子元阴助男修突破修为瓶颈、仅第一次施展有效、对女修亦有增益、助突破瓶颈、男方得益最多、助突破瓶颈、助突破元婴境界、助元婴期男修突破瓶颈、对女方亦有增益",
-    "修炼条件": "处子身、修为不低的结丹女修全力配合、处子之身女修、兼修女子须处子身、结丹、全力配合"
+    "修炼条件": "处子身、修为不低的结丹女修全力配合、处子之身女修、兼修女子须处子身、结丹、全力配合、处子之身相助"
   },
   "observations": {
     "适用境界": [
@@ -24,6 +24,11 @@
         "value": "元婴",
         "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
         "seq": 979
+      },
+      {
+        "value": "元婴突破",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
       }
     ],
     "出处": [
@@ -95,6 +100,11 @@
         "value": "兼修女子须处子身、结丹、全力配合",
         "docId": "plot.fanren-642-dianfeng-peiyuan-gong",
         "seq": 643
+      },
+      {
+        "value": "处子之身相助",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
       }
     ]
   },
@@ -102,9 +112,9 @@
   "attrProvenance": {
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-979-984-yinyangku-yinzhima-wuzi-tongxin-mo",
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
       "dated": false,
-      "seq": 979
+      "seq": 1183
     },
     "出处": {
       "asOf": null,
@@ -135,5 +145,5 @@
     "plot.fanren-642-dianfeng-peiyuan-gong",
     "plot.fanren-ch979-wuzi-tongxin-mo"
   ],
-  "updatedAt": "2026-06-18T03:10:23.706Z"
+  "updatedAt": "2026-06-20T04:24:28.407Z"
 }

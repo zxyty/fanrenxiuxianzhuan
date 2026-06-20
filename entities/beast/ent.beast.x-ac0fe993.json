@@ -1,34 +1,36 @@
 {
-  "id": "ent.pill.x-2de2c4b4",
-  "type": "pill",
-  "name": "阴元丸",
-  "aliases": [],
-  "summary": "乌黑小瓶丹药，名不见经传，对处子之身女修突破大有好处。",
+  "id": "ent.beast.x-ac0fe993",
+  "type": "beast",
+  "name": "变异独角蚯",
+  "aliases": [
+    "巨虬"
+  ],
+  "summary": "通体深黄、体形数十丈的变异蚯类妖兽，已开灵智，头顶金角可吸纳天雷与火焰，被韩立斩杀、以噬金虫了结逃走半身。",
   "attributes": {
-    "功效": "利于处子女修突破、助处子女修突破",
-    "适用境界": "结丹突破、结丹中期突破"
+    "种族": "独角蚯（变异）",
+    "外形": "通体深黄如巨蚯、体形数十丈、上半身遍生肉须"
   },
   "observations": {
-    "功效": [
+    "种族": [
       {
-        "value": "利于处子女修突破",
-        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
-        "seq": 1183
-      },
-      {
-        "value": "助处子女修突破",
+        "value": "独角蚯（变异）",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
       }
     ],
-    "适用境界": [
+    "外形": [
       {
-        "value": "结丹突破",
+        "value": "通体深黄如巨蚯",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
       },
       {
-        "value": "结丹中期突破",
+        "value": "体形数十丈",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      },
+      {
+        "value": "上半身遍生肉须",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
       }
@@ -36,13 +38,13 @@
   },
   "firstSeq": 1183,
   "attrProvenance": {
-    "功效": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
       "dated": false,
       "seq": 1183
     },
-    "适用境界": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
       "dated": false,
@@ -54,5 +56,5 @@
   "docs": [
     "plot.fanren-1183-1188-fuzhong-tonghua-dujie"
   ],
-  "updatedAt": "2026-06-20T04:24:28.404Z"
+  "updatedAt": "2026-06-20T04:24:28.419Z"
 }

@@ -3,16 +3,30 @@
   "type": "place",
   "name": "死地",
   "aliases": [
-    "溪国花雨国交界死地"
+    "溪国花雨国交界死地",
+    "黄土荒原死地"
   ],
   "summary": "溪国与花雨国交界、方圆二三十万里荒无人烟的死地，韩立选作天澜圣兽度劫之所。",
   "attributes": {
-    "类型": "荒原死地"
+    "类型": "荒原死地、无人死地",
+    "特产": "寸草不生，常年干旱"
   },
   "observations": {
     "类型": [
       {
         "value": "荒原死地",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      },
+      {
+        "value": "无人死地",
+        "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+        "seq": 1183
+      }
+    ],
+    "特产": [
+      {
+        "value": "寸草不生，常年干旱",
         "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
         "seq": 1183
       }
@@ -25,6 +39,12 @@
       "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
       "dated": false,
       "seq": 1183
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1183-1188-fuzhong-tonghua-dujie",
+      "dated": false,
+      "seq": 1183
     }
   },
   "contested": false,
@@ -32,5 +52,5 @@
   "docs": [
     "plot.fanren-1183-1188-fuzhong-tonghua-dujie"
   ],
-  "updatedAt": "2026-06-16T06:44:53.423Z"
+  "updatedAt": "2026-06-20T04:24:28.412Z"
 }
