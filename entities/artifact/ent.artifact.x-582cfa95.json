@@ -5,15 +5,16 @@
   "aliases": [
     "半傀儡",
     "灵侍舞女",
-    "灵侍乐师"
+    "灵侍乐师",
+    "灵侍傀儡"
   ],
   "summary": "地血老怪独门半傀儡，以温顺灵体打入傀儡之躯而成，外形酷似真人。",
   "attributes": {
-    "来历": "血焰山所得无灵智灵体打入傀儡之躯、血焰山未开灵智灵体融入傀儡躯",
-    "能力": "执行简单命令、精通百种宴舞/乐律、精通百种罕见宴舞、酷似真人、可收缩为寸许木偶",
+    "来历": "血焰山所得无灵智灵体打入傀儡之躯、血焰山未开灵智灵体融入傀儡躯、韩立从地渊妖王血袍人处所得",
+    "能力": "执行简单命令、精通百种宴舞/乐律、精通百种罕见宴舞、酷似真人、可收缩为寸许木偶、寸许人偶展开为十二名五色衣舞女与二十四名持乐器男子、依本能行动无灵智",
     "外形": "酷似真人，飞灵族女子状带淡青羽翅",
     "品阶": "半傀儡（似灵非灵）",
-    "持有者": "韩立"
+    "持有者": "甲天木"
   },
   "observations": {
     "来历": [
@@ -26,6 +27,11 @@
         "value": "血焰山未开灵智灵体融入傀儡躯",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      },
+      {
+        "value": "韩立从地渊妖王血袍人处所得",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ],
     "能力": [
@@ -53,6 +59,16 @@
         "value": "可收缩为寸许木偶",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      },
+      {
+        "value": "寸许人偶展开为十二名五色衣舞女与二十四名持乐器男子",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "依本能行动无灵智",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ],
     "外形": [
@@ -75,6 +91,12 @@
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459,
         "note": "地血老怪所赠"
+      },
+      {
+        "value": "甲天木",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579,
+        "note": "本章由韩立赠出"
       }
     ]
   },
@@ -106,10 +128,10 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1463-muqing-dong",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1459,
-      "note": "地血老怪所赠"
+      "seq": 1579,
+      "note": "本章由韩立赠出"
     }
   },
   "contested": false,
@@ -118,7 +140,8 @@
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1463-muqing-dong",
-    "plot.fanren-1504-cuijingzhuan"
+    "plot.fanren-1504-cuijingzhuan",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T13:50:49.558Z"
+  "updatedAt": "2026-06-20T15:58:07.018Z"
 }

@@ -9,10 +9,10 @@
   ],
   "summary": "天云十三族长老（含万古族大长老）聚集坐镇以应对角蚩族之地，约定数月后于此再会。",
   "attributes": {
-    "所属势力": "天云十三族",
+    "所属势力": "天云诸族",
     "类型": "重镇、悬浮空中之城、重城",
     "所属界面": "灵界",
-    "守护": "云城之卫（十余颗万丈白色球体）、十三只战争傀儡"
+    "守护": "云城之卫（十余颗万丈白色球体）、十三只战争傀儡、云城甲士、白长老"
   },
   "observations": {
     "所属势力": [
@@ -20,6 +20,11 @@
         "value": "天云十三族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "天云诸族",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ],
     "类型": [
@@ -56,6 +61,16 @@
         "value": "十三只战争傀儡",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "云城甲士",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "白长老",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ]
   },
@@ -63,9 +78,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1555
+      "seq": 1579
     },
     "类型": {
       "asOf": null,
@@ -90,7 +105,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:37:14.785Z"
+  "updatedAt": "2026-06-20T15:58:07.161Z"
 }

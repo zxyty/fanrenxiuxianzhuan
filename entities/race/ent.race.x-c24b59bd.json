@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "天云十三族之一，族人稀少、寿元为人族三四倍、容貌俊美智慧极高，精于炼丹阵法符箓，颇受诸族欢迎。",
   "attributes": {
-    "特性": "寿元长、智慧高、精炼丹阵法符箓"
+    "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲",
+    "代表人物": "纤纤"
   },
   "observations": {
     "特性": [
@@ -23,6 +24,18 @@
         "value": "精炼丹阵法符箓",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "擅修补法宝/魔甲",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "纤纤",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ]
   },
@@ -33,12 +46,19 @@
       "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
       "dated": false,
       "seq": 1573
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:37:14.793Z"
+  "updatedAt": "2026-06-20T15:58:07.043Z"
 }

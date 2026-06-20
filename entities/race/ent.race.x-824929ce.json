@@ -6,7 +6,9 @@
   "summary": "天云十三族之一，元姓异族所属；据称凭其重宝可换通灵级傀儡或万妙丹。",
   "attributes": {
     "阵营": "灵界种族",
-    "代表人物": "甲天木"
+    "代表人物": "万古族大头人",
+    "特性": "最擅傀儡术三大种族之一",
+    "天赋神通": "通灵傀儡炼制"
   },
   "observations": {
     "阵营": [
@@ -31,6 +33,25 @@
         "value": "甲天木",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "万古族大头人",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "特性": [
+      {
+        "value": "最擅傀儡术三大种族之一",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "通灵傀儡炼制",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ]
   },
@@ -44,9 +65,21 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1573
+      "seq": 1579
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
     }
   },
   "contested": false,
@@ -54,7 +87,8 @@
   "docs": [
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
     "plot.fanren-ch1569-tuizou",
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:37:14.711Z"
+  "updatedAt": "2026-06-20T15:58:07.159Z"
 }

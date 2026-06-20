@@ -7,9 +7,10 @@
   ],
   "summary": "药性霸道的灵液，适合化神后期，主料为蛮荒古兽碧眼真蟾的灵血。",
   "attributes": {
-    "适用境界": "化神后期",
+    "适用境界": "上族低中阶",
     "主料": "碧眼真蟾灵血",
-    "副作用": "化神中期服用风险大、化神中期服用因药性过霸有大风险"
+    "副作用": "化神中期服用风险大、化神中期服用因药性过霸有大风险",
+    "功效": "疗补/助修为、助突破瓶颈"
   },
   "observations": {
     "适用境界": [
@@ -17,6 +18,11 @@
         "value": "化神后期",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "上族低中阶",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ],
     "主料": [
@@ -37,15 +43,27 @@
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
+    ],
+    "功效": [
+      {
+        "value": "疗补/助修为",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
     ]
   },
   "firstSeq": 1327,
   "attrProvenance": {
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1327
+      "seq": 1579
     },
     "主料": {
       "asOf": null,
@@ -58,6 +76,12 @@
       "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
       "dated": false,
       "seq": 1327
+    },
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
     }
   },
   "contested": false,
@@ -67,7 +91,8 @@
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
     "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T12:41:41.685Z"
+  "updatedAt": "2026-06-20T15:58:06.973Z"
 }

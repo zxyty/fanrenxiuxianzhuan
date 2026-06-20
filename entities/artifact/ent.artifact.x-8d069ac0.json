@@ -3,19 +3,25 @@
   "type": "artifact",
   "name": "天外魔甲",
   "aliases": [
-    "黑色护罩"
+    "黑色护罩",
+    "紫魔甲",
+    "紫色魔化战甲",
+    "紫色战甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "符文护罩防御"
+    "能力": "符文护罩防御",
+    "外形": "半尺大、造型狰狞、肩膝带尖刺、遍布黑色花纹、紫色",
+    "来历": "天外魔头自生战甲，原主已陨落",
+    "品阶": "极高"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1579
       }
     ],
     "能力": [
@@ -23,28 +29,75 @@
         "value": "符文护罩防御",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "魔气冲天、收为元婴/法相穿戴后气势暴涨数倍",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "外形": [
+      {
+        "value": "半尺大、造型狰狞、肩膝带尖刺、遍布黑色花纹、紫色",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "来历": [
+      {
+        "value": "天外魔头自生战甲，原主已陨落",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "品阶": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579,
+        "note": "损坏后不足原威能十分之一"
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1579,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1579
     },
     "能力": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579,
+      "note": "损坏后不足原威能十分之一"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-17T02:59:10.901Z"
+  "updatedAt": "2026-06-20T15:58:06.917Z"
 }

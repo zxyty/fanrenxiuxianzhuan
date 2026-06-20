@@ -1,73 +1,66 @@
 {
-  "id": "ent.artifact.x-e5646425",
-  "type": "artifact",
-  "name": "通灵傀儡",
-  "aliases": [
-    "细长白蛇"
-  ],
-  "summary": "甲天木承诺赠韩立的傀儡，其洞府存有两三只，赠外族需经族中长老同意。",
+  "id": "ent.person.x-acf6e3dd",
+  "type": "person",
+  "name": "纤纤",
+  "aliases": [],
+  "summary": "晶族女子，售予韩立天外魔甲并提供修补之法与魔金山脉圣阶魔兽情报；驯有魔烟鸟。",
   "attributes": {
-    "持有者": "甲天木",
-    "品阶": "化神以上",
-    "能力": "具灵性自行执行简单命令、传说可自我进化生灵智",
-    "来历": "万古族炼制"
+    "性别": "女",
+    "种族": "晶族",
+    "身份": "商人/晚辈",
+    "道号": "纤纤"
   },
   "observations": {
-    "持有者": [
+    "性别": [
       {
-        "value": "甲天木",
-        "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-        "seq": 1573
-      }
-    ],
-    "品阶": [
-      {
-        "value": "化神以上",
+        "value": "女",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
       }
     ],
-    "能力": [
+    "种族": [
       {
-        "value": "具灵性自行执行简单命令",
-        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-        "seq": 1579
-      },
-      {
-        "value": "传说可自我进化生灵智",
+        "value": "晶族",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
       }
     ],
-    "来历": [
+    "身份": [
       {
-        "value": "万古族炼制",
+        "value": "商人/晚辈",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "道号": [
+      {
+        "value": "纤纤",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
       }
     ]
   },
-  "firstSeq": 1573,
+  "firstSeq": 1579,
   "attrProvenance": {
-    "持有者": {
-      "asOf": null,
-      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-      "dated": false,
-      "seq": 1573
-    },
-    "品阶": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
       "seq": 1579
     },
-    "能力": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
       "seq": 1579
     },
-    "来历": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
+    },
+    "道号": {
       "asOf": null,
       "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
@@ -77,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:58:07.063Z"
+  "updatedAt": "2026-06-20T15:58:06.897Z"
 }

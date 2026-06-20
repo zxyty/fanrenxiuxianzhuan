@@ -15,9 +15,11 @@
   "attributes": {
     "种族": "万古族",
     "小阶段": "上族三阶",
-    "身份": "万古族修士、天云十三族出力者、万古族傀儡大师、天云十三族族人",
+    "身份": "万古族修士、天云十三族出力者、万古族傀儡大师、天云十三族族人、傀儡炼制高手、傀儡师",
     "外貌": "一头乱发遮住半边脸孔",
-    "标志特征": "护身傀儡/傀儡术"
+    "标志特征": "护身傀儡/傀儡术",
+    "性别": "男",
+    "性格": "豪爽、谨慎(涉族中隐秘不答)、聪明过人、说到傀儡术则双目发亮、滔滔不绝"
   },
   "observations": {
     "种族": [
@@ -60,6 +62,16 @@
         "value": "天云十三族族人",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "傀儡炼制高手",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "傀儡师",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ],
     "外貌": [
@@ -79,6 +91,30 @@
         "value": "护身傀儡/傀儡术",
         "docId": "plot.fanren-ch1569-tuizou",
         "seq": 1567
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      }
+    ],
+    "性格": [
+      {
+        "value": "豪爽",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "谨慎(涉族中隐秘不答)",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
+      },
+      {
+        "value": "聪明过人、说到傀儡术则双目发亮、滔滔不绝",
+        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+        "seq": 1579
       }
     ]
   },
@@ -114,13 +150,26 @@
       "docId": "plot.fanren-ch1569-tuizou",
       "dated": false,
       "seq": 1567
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1569-tuizou",
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:37:14.772Z"
+  "updatedAt": "2026-06-20T15:58:07.060Z"
 }
