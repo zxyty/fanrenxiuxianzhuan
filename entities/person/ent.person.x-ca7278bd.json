@@ -10,11 +10,12 @@
     "金老",
     "通灵苍猿",
     "灵猿",
-    "金色猿猴"
+    "金色猿猴",
+    "金色苍猿"
   ],
   "summary": "木青属下妖修，化金虹，奉命监视韩立、招呼地血与蓝道友大军。",
   "attributes": {
-    "种族": "通灵苍猿",
+    "种族": "妖、通灵苍猿、苍猿、金猿",
     "身份": "木青属下",
     "性别": "女",
     "阵营": "暂与韩立同行"
@@ -30,6 +31,16 @@
         "value": "通灵苍猿",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "苍猿",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      },
+      {
+        "value": "金猿",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "身份": [
@@ -38,6 +49,11 @@
         "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
         "seq": 1471,
         "note": "口称木青为『主人』"
+      },
+      {
+        "value": "木青手下",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "性别": [
@@ -55,13 +71,13 @@
       }
     ]
   },
-  "firstSeq": 1471,
+  "firstSeq": 1465,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
       "dated": false,
-      "seq": 1483
+      "seq": 1465
     },
     "身份": {
       "asOf": null,
@@ -89,7 +105,8 @@
     "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
     "plot.fanren-1480-bai-ying",
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-16T19:22:06.815Z"
+  "updatedAt": "2026-06-20T12:41:41.665Z"
 }

@@ -8,7 +8,8 @@
   "summary": "祭炼驱使辟邪神雷、令其发挥真正威能的特殊法门，上古后渐罕有人知。",
   "attributes": {
     "出处": "上古灵界,今罕传",
-    "效果": "祭炼驱使辟邪神雷发挥真正威能"
+    "效果": "驾驭辟邪神雷",
+    "外显异象": "神雷反噬"
   },
   "observations": {
     "出处": [
@@ -23,6 +24,18 @@
         "value": "祭炼驱使辟邪神雷发挥真正威能",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      },
+      {
+        "value": "驾驭辟邪神雷",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "神雷反噬",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ]
   },
@@ -36,15 +49,22 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1457-taodun-didi-escape",
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
       "dated": false,
-      "seq": 1453
+      "seq": 1465
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1457-taodun-didi-escape"
+    "plot.fanren-1457-taodun-didi-escape",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-16T17:08:36.008Z"
+  "updatedAt": "2026-06-20T12:41:41.628Z"
 }

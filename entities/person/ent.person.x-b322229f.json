@@ -2,12 +2,18 @@
   "id": "ent.person.x-b322229f",
   "type": "person",
   "name": "鬼婆",
-  "aliases": [],
+  "aliases": [
+    "白发美人"
+  ],
   "summary": "受托凝练八千阴甲玄鬼者，与韩立旧事或有牵连。",
   "attributes": {
     "阵营": "妖族",
     "身份": "妖王",
-    "称号": "鬼魄门门主"
+    "称号": "鬼魄门门主",
+    "性别": "女",
+    "种族": "鬼物",
+    "外貌": "白发美妇",
+    "性格": "阴险贪婪"
   },
   "observations": {
     "阵营": [
@@ -27,6 +33,11 @@
         "value": "妖王",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "四大妖王之一",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "称号": [
@@ -34,6 +45,34 @@
         "value": "鬼魄门门主",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      }
+    ],
+    "种族": [
+      {
+        "value": "鬼物",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发美妇",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴险贪婪",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ]
   },
@@ -56,6 +95,30 @@
       "docId": "plot.fanren-1504-cuijing-zhuan",
       "dated": false,
       "seq": 1501
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
     }
   },
   "contested": false,
@@ -63,7 +126,8 @@
   "docs": [
     "plot.fanren-1457-taodun-didi-escape",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-16T18:53:56.399Z"
+  "updatedAt": "2026-06-20T12:41:41.702Z"
 }

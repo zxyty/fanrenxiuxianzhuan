@@ -11,12 +11,15 @@
     "玄天仙藤果实",
     "玄天灵物",
     "棍子",
-    "玄天仙木果实"
+    "玄天仙木果实",
+    "玄天果",
+    "木棒",
+    "木棍"
   ],
   "summary": "韩立所得『棍子』状玄天之物，内有白色光点，唯神秘绿液可使其白光壮大。",
   "attributes": {
-    "类型": "玄天灵物、逆天宝物、仙藤果实、至宝/灵果",
-    "用途": "蕴含一界法则之力",
+    "类型": "玄天灵物、逆天宝物、仙藤果实、至宝/灵果、灵果",
+    "用途": "未知（内蕴乳白光点）",
     "产地": "玄天仙藤",
     "品阶": "逆天级"
   },
@@ -41,6 +44,11 @@
         "value": "至宝/灵果",
         "docId": "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
         "seq": 1399
+      },
+      {
+        "value": "灵果",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "用途": [
@@ -53,6 +61,11 @@
         "value": "逆天宝物",
         "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
+      },
+      {
+        "value": "未知（内蕴乳白光点）",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "产地": [
@@ -80,9 +93,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1401-black-mist-sea",
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
       "dated": false,
-      "seq": 1399
+      "seq": 1465
     },
     "产地": {
       "asOf": null,
@@ -104,7 +117,8 @@
     "plot.fanren-1401-black-mist-sea",
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
     "plot.fanren-1323-xuantian-guoshi",
-    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute"
+    "plot.fanren-1399-1404-black-mist-sea-tianpeng-tribute",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-20T11:03:27.498Z"
+  "updatedAt": "2026-06-20T12:41:41.674Z"
 }

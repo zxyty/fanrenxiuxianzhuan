@@ -16,7 +16,8 @@
     "栖息地": "地渊六层黑色深潭、地渊六层黑潭",
     "等级": "炼虚中后期",
     "能力": "聚黑甲阴气化黑云",
-    "主人": "白发美妇"
+    "主人": "白发美妇",
+    "种族": "鬼物"
   },
   "observations": {
     "外形": [
@@ -34,6 +35,11 @@
         "value": "黑甲模糊人影",
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
+      },
+      {
+        "value": "身高数丈、披狰狞战甲、面目模糊",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "栖息地": [
@@ -78,6 +84,13 @@
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
       }
+    ],
+    "种族": [
+      {
+        "value": "鬼物",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      }
     ]
   },
   "firstSeq": 1435,
@@ -111,6 +124,12 @@
       "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
       "dated": false,
       "seq": 1489
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "dated": false,
+      "seq": 1465
     }
   },
   "contested": false,
@@ -119,7 +138,8 @@
     "plot.fanren-1438-yin-zhu-feng",
     "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
-    "plot.fanren-1443-1444-diyuan-shenceng-weiji"
+    "plot.fanren-1443-1444-diyuan-shenceng-weiji",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-20T11:49:43.575Z"
+  "updatedAt": "2026-06-20T12:41:41.715Z"
 }

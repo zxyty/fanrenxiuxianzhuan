@@ -9,11 +9,11 @@
   ],
   "summary": "有群鬼阻拦之地，深处设有以阴气与冥魔之气构成的结界。",
   "attributes": {
-    "特产": "冥魔之气、冥河神乳、阴气、灵气",
+    "特产": "冥魔之气、冥河神乳、阴气、灵气、鬼王魂妖、魔物、万丈诡异冥水、阴气共鸣可解印记",
     "守护": "冥河群鬼、针状怪鱼、晶莹黑丝魔气、冥河禁制、阴鬼、冥河之灵、阴骨怪、炼虚级厉鬼、蜉蝣族附身傀儡",
-    "所属界面": "灵界、灵界·地渊",
+    "所属界面": "灵界、灵界·地渊、地渊",
     "危险度": "阴气极重",
-    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地",
+    "类型": "河流/禁制屏障、鬼物凶地、圣地/鬼物秘境、圣地、区域、附属空间/秘境、封闭空间/圣地、独立空间、秘境",
     "所属势力": "蜉蝣族"
   },
   "observations": {
@@ -37,6 +37,26 @@
         "value": "灵气",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "鬼王魂妖",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      },
+      {
+        "value": "魔物",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      },
+      {
+        "value": "万丈诡异冥水",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      },
+      {
+        "value": "阴气共鸣可解印记",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "守护": [
@@ -96,6 +116,11 @@
         "value": "灵界·地渊",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "地渊",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "危险度": [
@@ -123,6 +148,11 @@
         "value": "阴气极重",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "极高（合体级妖王亦可陨落）",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "类型": [
@@ -160,6 +190,16 @@
         "value": "封闭空间/圣地",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "独立空间",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
+      },
+      {
+        "value": "秘境",
+        "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+        "seq": 1465
       }
     ],
     "所属势力": [
@@ -198,9 +238,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
+      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
       "dated": false,
-      "seq": 1471
+      "seq": 1465
     },
     "所属势力": {
       "asOf": null,
@@ -218,7 +258,8 @@
     "plot.fanren-1480-bai-ying",
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1468-zhai-lei-zhi-shu"
   ],
-  "updatedAt": "2026-06-16T19:14:17.475Z"
+  "updatedAt": "2026-06-20T12:41:41.723Z"
 }
