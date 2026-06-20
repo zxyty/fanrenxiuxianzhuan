@@ -11,18 +11,20 @@
     "天星二圣",
     "两位老宫主",
     "天星城星宫之主",
-    "凌玉灵父母"
+    "凌玉灵父母",
+    "乱星海后期夫妇",
+    "天星双圣夫妇"
   ],
   "summary": "统治星宫、深居天星城从不露面的两位城主，名号流传近千年。",
   "attributes": {
     "称号": "天星双圣",
-    "身份": "天星城城主、星宫之主、星宫主宰、天星宫强者、后期修士夫妇、星宫顶阶大修士、星宫前任宫主、星宫前主、星宫统领、星宫高手",
-    "小阶段": "元婴期",
+    "身份": "天星城城主、星宫之主、星宫主宰、天星宫强者、后期修士夫妇、星宫顶阶大修士、星宫前任宫主、星宫前主、星宫统领、星宫高手、星宫顶阶修士(夫妇)",
+    "小阶段": "元婴后期",
     "寿元": "近千年",
     "阵营": "乱星海",
     "标志特征": "修元磁神光、修炼元磁神光、依托天星岛立于不败",
-    "存殁": "多半已坐化、死亡",
-    "死因": "自爆元磁神光同归于尽"
+    "存殁": "多半已坐化、死亡、疑已坐化",
+    "死因": "自爆元磁神光同归于尽、自爆元磁神光与敌同归于尽"
   },
   "observations": {
     "称号": [
@@ -83,6 +85,11 @@
         "value": "星宫高手",
         "docId": "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
         "seq": 1117
+      },
+      {
+        "value": "星宫顶阶修士(夫妇)",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "小阶段": [
@@ -96,6 +103,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
         "seq": 403
+      },
+      {
+        "value": "元婴后期",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "寿元": [
@@ -146,11 +158,22 @@
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195,
         "note": "据世界状态须知已于第1195章死亡；本章为历史性提及"
+      },
+      {
+        "value": "疑已坐化",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195,
+        "note": "本章据消息推断，未确证"
       }
     ],
     "死因": [
       {
         "value": "自爆元磁神光同归于尽",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "自爆元磁神光与敌同归于尽",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -172,9 +195,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-404-guiju-miaoyin-vs-yinshamen",
+      "docId": "plot.fanren-1196-er-nv",
       "dated": false,
-      "seq": 403
+      "seq": 1195
     },
     "寿元": {
       "asOf": null,
@@ -223,5 +246,5 @@
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong"
   ],
-  "updatedAt": "2026-06-18T11:11:13.710Z"
+  "updatedAt": "2026-06-20T05:00:29.072Z"
 }

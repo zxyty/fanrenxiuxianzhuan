@@ -1,32 +1,34 @@
 {
-  "id": "ent.material.x-dd651b5b",
-  "type": "material",
-  "name": "灵验之树",
-  "aliases": [],
-  "summary": "三大灵木之一，炼制木生珠的重要辅料。",
+  "id": "ent.person.x-da477717",
+  "type": "person",
+  "name": "毕逊",
+  "aliases": [
+    "落魂岛皂袍老者"
+  ],
+  "summary": "落魂岛结丹中期修士，被韩立打断争斗后向其讲述星海百年变局。",
   "attributes": {
-    "类型": "三大灵木",
-    "用途": "炼制木生珠",
-    "稀有度": "人界难寻"
+    "小阶段": "结丹中期",
+    "外貌": "皂袍老者",
+    "出身地": "落魂岛"
   },
   "observations": {
-    "类型": [
+    "小阶段": [
       {
-        "value": "三大灵木",
+        "value": "结丹中期",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
     ],
-    "用途": [
+    "外貌": [
       {
-        "value": "炼制木生珠",
+        "value": "皂袍老者",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
     ],
-    "稀有度": [
+    "出身地": [
       {
-        "value": "人界难寻",
+        "value": "落魂岛",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -34,19 +36,19 @@
   },
   "firstSeq": 1195,
   "attrProvenance": {
-    "类型": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
     },
-    "用途": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
     },
-    "稀有度": {
+    "出身地": {
       "asOf": null,
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
@@ -58,5 +60,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-20T05:00:29.034Z"
+  "updatedAt": "2026-06-20T05:00:29.075Z"
 }

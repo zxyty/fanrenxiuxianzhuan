@@ -2,11 +2,13 @@
   "id": "ent.technique.x-3a2531b5",
   "type": "technique",
   "name": "寒焰同心魔",
-  "aliases": [],
+  "aliases": [
+    "寒焰同心魔功法"
+  ],
   "summary": "以五具骷髅（五魔）炼化黑白蓝黄绿五种极寒之焰的功法，再过十来年可大成。",
   "attributes": {
-    "效果": "五魔炼化五种极寒之焰",
-    "外显异象": "五骷髅口含五色光焰"
+    "效果": "五魔炼化五种极寒之焰、炼化五种极寒之焰、助冲击化神瓶颈",
+    "外显异象": "五骷髅口含五色光焰、五具骷髅口吐五色光焰"
   },
   "observations": {
     "效果": [
@@ -14,11 +16,26 @@
         "value": "五魔炼化五种极寒之焰",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "炼化五种极寒之焰",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "助冲击化神瓶颈",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "外显异象": [
       {
         "value": "五骷髅口含五色光焰",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "五具骷髅口吐五色光焰",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -44,5 +61,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-16T07:22:30.011Z"
+  "updatedAt": "2026-06-20T05:00:29.019Z"
 }

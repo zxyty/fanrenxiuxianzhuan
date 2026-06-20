@@ -7,10 +7,11 @@
   ],
   "summary": "上古禁断大阵，借天地风火之力、阵体庞大；万天明请阵法大家在天星城四周布设以困城。",
   "attributes": {
-    "效果": "借天地风火之力、困城、阻挡中低阶修士与大型禁制、对单个神通惊人者效用有限、风火之力轰击、对筑基期巨大杀伤",
+    "效果": "借天地风火之力、困城、阻挡中低阶修士与大型禁制、对单个神通惊人者效用有限、风火之力轰击、对筑基期巨大杀伤、借风火之力围困封锁",
     "出处": "上古禁断大阵",
-    "布置者": "逆星盟",
-    "破解法": "毁阵眼(青红色铜柱)"
+    "布置者": "万天明、逆星盟、万天明请来的数名阵法大家",
+    "破解法": "毁阵眼(青红色铜柱)",
+    "品阶": "上古禁断大阵"
   },
   "observations": {
     "效果": [
@@ -38,6 +39,11 @@
         "value": "风火之力轰击、对筑基期巨大杀伤",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "借风火之力围困封锁",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "出处": [
@@ -57,6 +63,11 @@
         "value": "逆星盟",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "万天明请来的数名阵法大家",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "破解法": [
@@ -69,6 +80,18 @@
         "value": "毁阵眼(青红色铜柱)",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
+      },
+      {
+        "value": "破阵眼(柱毁可修复，难真正破除)",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古禁断大阵",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ]
   },
@@ -88,15 +111,21 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-1196-er-nv",
       "dated": false,
-      "seq": 1201
+      "seq": 1195
     },
     "破解法": {
       "asOf": null,
       "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
       "seq": 1213
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -106,5 +135,5 @@
     "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
     "lore.fanren-1215-linggen-wuxing-heyi"
   ],
-  "updatedAt": "2026-06-16T08:34:31.966Z"
+  "updatedAt": "2026-06-20T05:00:29.084Z"
 }

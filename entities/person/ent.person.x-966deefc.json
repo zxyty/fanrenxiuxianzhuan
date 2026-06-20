@@ -13,7 +13,8 @@
     "身份": "正魔第一修士",
     "小阶段": "元婴后期",
     "存殁": "死亡",
-    "结局": "残尸化莹光消散，储物袋被韩立接收"
+    "结局": "残尸化莹光消散，储物袋被韩立接收",
+    "死因": "被天星双圣自爆元磁神光波及"
   },
   "observations": {
     "阵营": [
@@ -97,6 +98,13 @@
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
       }
+    ],
+    "死因": [
+      {
+        "value": "被天星双圣自爆元磁神光波及",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
     ]
   },
   "firstSeq": 433,
@@ -136,6 +144,12 @@
       "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
       "seq": 1213
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -155,5 +169,5 @@
     "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
     "plot.fmxz-ch1155-yaoshou-zhi-luan"
   ],
-  "updatedAt": "2026-06-18T12:14:27.513Z"
+  "updatedAt": "2026-06-20T05:00:29.073Z"
 }

@@ -20,7 +20,8 @@
     "小阶段": "结丹后期",
     "外貌": "十几岁清秀少女、十六七岁少女容颜、黄袍女子、枯瘦少女、清秀少女，似其母娇媚",
     "寿元": "百余年(若停修)",
-    "出身地": "银鲨岛"
+    "出身地": "银鲨岛",
+    "阵营": "落云宗"
   },
   "observations": {
     "性别": [
@@ -202,6 +203,13 @@
         "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
         "seq": 1129
       }
+    ],
+    "阵营": [
+      {
+        "value": "落云宗",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
     ]
   },
   "firstSeq": 1129,
@@ -247,6 +255,12 @@
       "docId": "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
       "dated": false,
       "seq": 1129
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -266,5 +280,5 @@
     "plot.fanren-ch1167-1172-return-to-luoyun-sect",
     "plot.fanren-1184-shou-ying-capture-second-nascent-soul"
   ],
-  "updatedAt": "2026-06-20T04:24:28.396Z"
+  "updatedAt": "2026-06-20T05:00:29.042Z"
 }

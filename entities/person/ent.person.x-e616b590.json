@@ -7,7 +7,9 @@
   "attributes": {
     "身份": "正魔第一修士",
     "阵营": "逆星盟",
-    "存殁": "死亡"
+    "存殁": "死亡",
+    "性别": "女",
+    "死因": "被天星双圣自爆元磁神光波及"
   },
   "observations": {
     "身份": [
@@ -27,6 +29,20 @@
     "存殁": [
       {
         "value": "死亡",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "死因": [
+      {
+        "value": "被天星双圣自爆元磁神光波及",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -51,6 +67,18 @@
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -58,5 +86,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-16T07:22:30.061Z"
+  "updatedAt": "2026-06-20T05:00:29.074Z"
 }

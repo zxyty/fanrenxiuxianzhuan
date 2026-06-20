@@ -37,7 +37,8 @@
     "性格": "聪慧乖巧",
     "存殁": "失踪、死亡、下落不明、生存（被困）",
     "死因": "突破元婴时心魔趁虚、法力反噬",
-    "标志特征": "处子之身"
+    "标志特征": "处子之身",
+    "种族": "慕兰族"
   },
   "observations": {
     "身份": [
@@ -370,6 +371,13 @@
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
+    ],
+    "种族": [
+      {
+        "value": "慕兰族",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
     ]
   },
   "firstSeq": 601,
@@ -440,6 +448,12 @@
       "docId": "plot.fanren-781-nangong-jingbian",
       "dated": false,
       "seq": 781
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -500,5 +514,5 @@
     "plot.fanren-1181-chonglin-qiling",
     "plot.fanren-ch1190-huajiezhu-jifeng-jiubian"
   ],
-  "updatedAt": "2026-06-20T04:41:50.255Z"
+  "updatedAt": "2026-06-20T05:00:29.043Z"
 }

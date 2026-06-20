@@ -4,20 +4,23 @@
   "name": "黄沙须弥幡",
   "aliases": [
     "黄幡",
-    "黄色小幡"
+    "黄色小幡",
+    "黄沙幡"
   ],
   "summary": "成对的瞬移古宝，可数次于元婴修士手中逃命；被韩立击破缴获两杆。",
   "attributes": {
     "持有者": "韩立",
     "能力": "瞬移逃遁",
-    "外形": "黄色小幡（一对）"
+    "外形": "黄色小幡（一对）、黄色小幡(两杆)",
+    "品阶": "古宝"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-1196-er-nv",
-        "seq": 1195
+        "seq": 1195,
+        "note": "夺自逆星盟修士"
       }
     ],
     "能力": [
@@ -32,6 +35,18 @@
         "value": "黄色小幡（一对）",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "黄色小幡(两杆)",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      }
+    ],
+    "品阶": [
+      {
+        "value": "古宝",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ]
   },
@@ -41,7 +56,8 @@
       "asOf": null,
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
-      "seq": 1195
+      "seq": 1195,
+      "note": "夺自逆星盟修士"
     },
     "能力": {
       "asOf": null,
@@ -54,6 +70,12 @@
       "docId": "plot.fanren-1196-er-nv",
       "dated": false,
       "seq": 1195
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1196-er-nv",
+      "dated": false,
+      "seq": 1195
     }
   },
   "contested": false,
@@ -61,5 +83,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-16T07:22:30.069Z"
+  "updatedAt": "2026-06-20T05:00:29.086Z"
 }

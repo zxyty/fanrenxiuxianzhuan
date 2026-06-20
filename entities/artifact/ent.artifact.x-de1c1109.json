@@ -7,14 +7,19 @@
   ],
   "summary": "逆星盟长老所赐的擒拿法宝，可困住结丹修士；被韩立夺取。",
   "attributes": {
-    "能力": "困缚擒拿",
+    "能力": "困缚擒拿、化青色丝网困敌",
     "来历": "逆星盟长老所赐",
-    "外形": "青色丝网/青霞"
+    "外形": "青色丝网/青霞、青色巨网"
   },
   "observations": {
     "能力": [
       {
         "value": "困缚擒拿",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "化青色丝网困敌",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -29,6 +34,11 @@
     "外形": [
       {
         "value": "青色丝网/青霞",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "青色巨网",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -60,5 +70,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-16T07:22:30.069Z"
+  "updatedAt": "2026-06-20T05:00:29.085Z"
 }

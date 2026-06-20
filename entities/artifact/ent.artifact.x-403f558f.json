@@ -5,14 +5,19 @@
   "aliases": [],
   "summary": "万天明炼制的一百零八根铜柱，作风火天绝阵阵眼/支柱，损毁可被逆星盟轻易修复。",
   "attributes": {
-    "持有者": "万天明",
-    "能力": "支撑风火天绝阵",
-    "外形": "铜柱（共一百零八根）"
+    "持有者": "万天明、逆星盟",
+    "能力": "支撑风火天绝阵、构成风火天绝阵",
+    "外形": "铜柱（共一百零八根）、铜柱(共108根)"
   },
   "observations": {
     "持有者": [
       {
         "value": "万天明",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "逆星盟",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -22,11 +27,21 @@
         "value": "支撑风火天绝阵",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "构成风火天绝阵",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
       }
     ],
     "外形": [
       {
         "value": "铜柱（共一百零八根）",
+        "docId": "plot.fanren-1196-er-nv",
+        "seq": 1195
+      },
+      {
+        "value": "铜柱(共108根)",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
       }
@@ -58,5 +73,5 @@
   "docs": [
     "plot.fanren-1196-er-nv"
   ],
-  "updatedAt": "2026-06-16T07:22:30.068Z"
+  "updatedAt": "2026-06-20T05:00:29.084Z"
 }
