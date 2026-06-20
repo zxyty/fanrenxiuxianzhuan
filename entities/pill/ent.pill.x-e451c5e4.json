@@ -9,7 +9,7 @@
   "attributes": {
     "适用境界": "化神后期",
     "主料": "碧眼真蟾灵血",
-    "副作用": "化神中期服用风险大"
+    "副作用": "化神中期服用风险大、化神中期服用因药性过霸有大风险"
   },
   "observations": {
     "适用境界": [
@@ -30,6 +30,11 @@
       {
         "value": "化神中期服用风险大",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "化神中期服用因药性过霸有大风险",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
     ]
@@ -59,7 +64,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1327-1332-tianyuan-fangshi",
-    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu"
+    "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
   ],
-  "updatedAt": "2026-06-16T19:22:06.768Z"
+  "updatedAt": "2026-06-20T09:02:29.367Z"
 }

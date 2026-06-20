@@ -8,8 +8,8 @@
   ],
   "summary": "韩立所持记载符箓之道的残缺玉书，内含傀儡符炼制法。",
   "attributes": {
-    "出处": "韩立所持残卷",
-    "效果": "记载符箓之道含傀儡符炼制法"
+    "出处": "韩立所持残卷、韩立所得残缺玉书",
+    "效果": "记载符箓之道含傀儡符炼制法、记载符箓之道（含傀儡符炼制法）"
   },
   "observations": {
     "出处": [
@@ -17,12 +17,22 @@
         "value": "韩立所持残卷",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "韩立所得残缺玉书",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
       }
     ],
     "效果": [
       {
         "value": "记载符箓之道含傀儡符炼制法",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "记载符箓之道（含傀儡符炼制法）",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
     ]
@@ -45,7 +55,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1327-1332-tianyuan-fangshi"
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
   ],
-  "updatedAt": "2026-06-16T12:39:22.068Z"
+  "updatedAt": "2026-06-20T09:02:29.365Z"
 }

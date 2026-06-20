@@ -2,11 +2,13 @@
   "id": "ent.place.x-40ffe876",
   "type": "place",
   "name": "太玄殿",
-  "aliases": [],
+  "aliases": [
+    "太玄殿石殿"
+  ],
   "summary": "天渊坊市中央贯通人妖两区的交易石殿，供人妖私下换货，入内须佩遮光佩/弥云幡并被限修为。",
   "attributes": {
-    "类型": "交易石殿、坊市店铺、拍卖/宫殿、交易坊市殿堂",
-    "守护": "炼虚金卫、青冥卫",
+    "类型": "交易石殿、坊市店铺、拍卖/宫殿、交易坊市殿堂、人妖交换殿堂",
+    "守护": "炼虚金卫、青冥卫、四名炼虚金卫、十名青冥卫",
     "所属界面": "灵界",
     "所属势力": "天渊城"
   },
@@ -31,6 +33,11 @@
         "value": "交易坊市殿堂",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "人妖交换殿堂",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
       }
     ],
     "守护": [
@@ -42,6 +49,16 @@
       {
         "value": "青冥卫",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "四名炼虚金卫",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
+      },
+      {
+        "value": "十名青冥卫",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
     ],
@@ -92,7 +109,8 @@
   "docs": [
     "plot.fanren-1327-1332-tianyuan-fangshi",
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
   ],
-  "updatedAt": "2026-06-16T13:17:17.890Z"
+  "updatedAt": "2026-06-20T09:02:29.379Z"
 }

@@ -3,17 +3,24 @@
   "type": "material",
   "name": "天雷成木",
   "aliases": [
-    "翠绿色枝条"
+    "翠绿色枝条",
+    "天雷击成之灵木",
+    "翠绿枝条"
   ],
   "summary": "天雷击中枯死灵木发芽所成的灵木枝条，含极霸道雷属性力，无法吸收炼化或炼器。",
   "attributes": {
-    "类型": "灵木"
+    "类型": "灵木、雷属性灵木"
   },
   "observations": {
     "类型": [
       {
         "value": "灵木",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "雷属性灵木",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
     ]
@@ -30,7 +37,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1327-1332-tianyuan-fangshi"
+    "plot.fanren-1327-1332-tianyuan-fangshi",
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
   ],
-  "updatedAt": "2026-06-16T12:39:22.067Z"
+  "updatedAt": "2026-06-20T09:02:29.376Z"
 }

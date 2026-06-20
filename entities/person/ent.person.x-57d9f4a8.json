@@ -4,7 +4,8 @@
   "name": "许仙子",
   "aliases": [
     "许姓女修",
-    "徐仙子"
+    "徐仙子",
+    "许姓女子"
   ],
   "summary": "二十余岁貌美冷淡女修，飞升修士嫡系后裔，持白色本命冰剑。",
   "attributes": {
@@ -13,8 +14,10 @@
     "外貌": "脸色洁白如玉、星辰般双眼、二十余岁，肌肤洁白如玉近乎透明，双目如星辰",
     "性格": "冷淡",
     "阵营": "天渊城",
-    "小阶段": "元婴",
-    "标志特征": "星眸、冰属性功法"
+    "小阶段": "元婴、元婴期",
+    "标志特征": "星眸、冰属性功法、星眸（似冰魄仙子）、冰属性极寒功法",
+    "种族": "人族",
+    "出身地": "许家"
   },
   "observations": {
     "性别": [
@@ -72,6 +75,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
         "seq": 1327
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
       }
     ],
     "标志特征": [
@@ -83,6 +91,30 @@
       {
         "value": "冰属性功法",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
+        "seq": 1327
+      },
+      {
+        "value": "星眸（似冰魄仙子）",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
+      },
+      {
+        "value": "冰属性极寒功法",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+        "seq": 1327
+      }
+    ],
+    "出身地": [
+      {
+        "value": "许家",
+        "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
     ]
@@ -130,6 +162,18 @@
       "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
       "dated": false,
       "seq": 1327
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+      "dated": false,
+      "seq": 1327
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+      "dated": false,
+      "seq": 1327
     }
   },
   "contested": false,
@@ -137,7 +181,8 @@
   "docs": [
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1327-1332-tianyuan-fangshi",
-    "plot.fanren-1323-xuantian-guoshi"
+    "plot.fanren-1323-xuantian-guoshi",
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
   ],
-  "updatedAt": "2026-06-20T08:55:17.951Z"
+  "updatedAt": "2026-06-20T09:02:29.349Z"
 }
