@@ -12,17 +12,18 @@
     "本座",
     "地血前辈",
     "地血老弟",
-    "血袍神秘人"
+    "血袍神秘人",
+    "血泡人"
   ],
   "summary": "地渊深层红袍神秘人，道号/称地血，负责炼制大量傀儡，以泥傀儡分神监视并图谋掳走韩立精魂。",
   "attributes": {
-    "外貌": "鲜红长袍笼罩、血袍、两名一般无二的血袍人、血袍、双手倒背、被血雾包裹、立于紫血傀儡肩头、血袍人",
+    "外貌": "鲜红长袍笼罩、血袍、两名一般无二的血袍人、血袍、双手倒背、被血雾包裹、立于紫血傀儡肩头、血袍人、血袍笼罩",
     "身份": "炼傀儡者、地渊深层势力、四大妖王之一、血焰宫之主、地渊妖王、妖王/合体级、妖王、傀儡道修士、地渊深层势力首脑",
     "性格": "贪利、从容、阴狠、阴沉、狡诈、狡黠贪利、从容自得",
     "阵营": "地渊妖物、木青等四人同盟、妖族夺宝一方",
     "标志特征": "上万傀儡、血傀儡、血袍、声音金属般生硬、通体血袍笼罩、现两名血袍人分立傀儡双肩、血色长袍、驱使紫血傀儡与金属傀儡、血袍、万年秽气血球、血之道法、血傀儡化身、两名同形血袍人、声音如金石",
     "种族": "妖族/血族、妖族",
-    "小阶段": "合体期",
+    "小阶段": "合体期、合体、合体级（妖王）",
     "性别": "男",
     "称号": "地血老怪"
   },
@@ -57,6 +58,11 @@
         "value": "血袍人",
         "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
+      },
+      {
+        "value": "血袍笼罩",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
       }
     ],
     "身份": [
@@ -229,6 +235,11 @@
         "value": "合体",
         "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
         "seq": 1453
+      },
+      {
+        "value": "合体级（妖王）",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
       }
     ],
     "性别": [
@@ -286,9 +297,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1463-mujing-cave",
+      "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
       "dated": false,
-      "seq": 1459
+      "seq": 1453
     },
     "性别": {
       "asOf": null,
@@ -318,7 +329,8 @@
     "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1443-1444-diyuan-shenceng-weiji",
     "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
-    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-20T12:11:10.189Z"
+  "updatedAt": "2026-06-20T12:23:23.870Z"
 }

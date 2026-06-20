@@ -8,7 +8,7 @@
   "summary": "地渊五层一座高四五千丈的黝黑大山，山腹掏空如傀儡迷宫，崖口化蛟首入内。",
   "attributes": {
     "所属界面": "灵界·地渊五层、灵界",
-    "类型": "山/傀儡基地",
+    "类型": "山/傀儡基地、火山/熔岩之地",
     "守护": "石蛟首、化神级傀儡",
     "特产": "无灵智温顺灵体"
   },
@@ -29,6 +29,11 @@
       {
         "value": "山/傀儡基地",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "火山/熔岩之地",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -77,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.488Z"
+  "updatedAt": "2026-06-20T12:23:23.904Z"
 }

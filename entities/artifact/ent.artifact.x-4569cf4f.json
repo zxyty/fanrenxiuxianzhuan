@@ -11,7 +11,8 @@
     "品阶": "仙家符箓",
     "能力": "困敌、结成巨型光阵困敌、化宫殿楼台困敌、笼罩镇压",
     "持有者": "韩立",
-    "外形": "一百零八张银符排成奇异图案"
+    "外形": "一百零八张银符排成奇异图案",
+    "来历": "金阙玉书外页"
   },
   "observations": {
     "品阶": [
@@ -56,6 +57,13 @@
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
       }
+    ],
+    "来历": [
+      {
+        "value": "金阙玉书外页",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
+      }
     ]
   },
   "firstSeq": 1339,
@@ -83,6 +91,12 @@
       "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
       "dated": false,
       "seq": 1489
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-muqing-dong",
+      "dated": false,
+      "seq": 1459
     }
   },
   "contested": false,
@@ -92,7 +106,8 @@
     "plot.fanren-1463-mujing-cave",
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1495-1500-xutian-rescue-melee",
-    "plot.fanren-1929-1934-blood-saint-clones-battle"
+    "plot.fanren-1929-1934-blood-saint-clones-battle",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-17T03:14:10.897Z"
+  "updatedAt": "2026-06-20T12:23:23.895Z"
 }

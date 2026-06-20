@@ -2,11 +2,13 @@
   "id": "ent.beast.x-e59aa49b",
   "type": "beast",
   "name": "风火兽",
-  "aliases": [],
+  "aliases": [
+    "风火古兽"
+  ],
   "summary": "珍稀古兽，精通风火神通、实力堪比化神级，性喜阴寒嗜睡，藏身阴湿沼泽。",
   "attributes": {
-    "等级": "化神级",
-    "能力": "风系神通、火系神通",
+    "等级": "化神级、实力堪比化神级",
+    "能力": "风系神通、火系神通、精通风火两种神通",
     "栖息地": "阴暗潮湿沼泽"
   },
   "observations": {
@@ -14,6 +16,11 @@
       {
         "value": "化神级",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "实力堪比化神级",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -26,6 +33,11 @@
       {
         "value": "火系神通",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "精通风火两种神通",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -61,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.486Z"
+  "updatedAt": "2026-06-20T12:23:23.901Z"
 }

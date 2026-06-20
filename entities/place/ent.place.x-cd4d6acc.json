@@ -8,7 +8,7 @@
   "summary": "血焰宫内殿，血袍人下令打开以『招待』韩立。",
   "attributes": {
     "所属势力": "地血老怪",
-    "类型": "殿堂"
+    "类型": "殿堂、宫殿主殿"
   },
   "observations": {
     "所属势力": [
@@ -22,6 +22,11 @@
       {
         "value": "殿堂",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "宫殿主殿",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ]
@@ -44,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.490Z"
+  "updatedAt": "2026-06-20T12:23:23.905Z"
 }

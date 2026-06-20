@@ -8,9 +8,9 @@
   "summary": "木青的洞府，三日后韩立将迁入由木青亲自指点驱雷之道。",
   "attributes": {
     "类型": "洞府、闭关洞府、洞府/静室",
-    "所属界面": "灵界",
+    "所属界面": "灵界、灵界（地渊）",
     "特产": "极浓木灵气",
-    "守护": "木青所布禁制",
+    "守护": "木青所布禁制、木青布下的禁制",
     "所属势力": "木青",
     "危险度": "禁制玄奥、闭洞成囚笼"
   },
@@ -37,6 +37,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "灵界（地渊）",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
       }
     ],
     "特产": [
@@ -50,6 +55,11 @@
       {
         "value": "木青所布禁制",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "木青布下的禁制",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -111,7 +121,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1457-taodun-didi-escape",
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.491Z"
+  "updatedAt": "2026-06-20T12:23:23.838Z"
 }

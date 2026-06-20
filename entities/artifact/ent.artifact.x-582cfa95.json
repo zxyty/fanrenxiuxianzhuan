@@ -9,15 +9,22 @@
   ],
   "summary": "地血老怪独门半傀儡，以温顺灵体打入傀儡之躯而成，外形酷似真人。",
   "attributes": {
-    "来历": "血焰山所得无灵智灵体打入傀儡之躯",
-    "能力": "执行简单命令、精通百种宴舞/乐律",
-    "外形": "酷似真人，飞灵族女子状带淡青羽翅"
+    "来历": "血焰山所得无灵智灵体打入傀儡之躯、血焰山未开灵智灵体融入傀儡躯",
+    "能力": "执行简单命令、精通百种宴舞/乐律、精通百种罕见宴舞、酷似真人、可收缩为寸许木偶",
+    "外形": "酷似真人，飞灵族女子状带淡青羽翅",
+    "品阶": "半傀儡（似灵非灵）",
+    "持有者": "韩立"
   },
   "observations": {
     "来历": [
       {
         "value": "血焰山所得无灵智灵体打入傀儡之躯",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "血焰山未开灵智灵体融入傀儡躯",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -31,6 +38,21 @@
         "value": "精通百种宴舞/乐律",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "精通百种罕见宴舞",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
+      },
+      {
+        "value": "酷似真人",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
+      },
+      {
+        "value": "可收缩为寸许木偶",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
       }
     ],
     "外形": [
@@ -38,6 +60,21 @@
         "value": "酷似真人，飞灵族女子状带淡青羽翅",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      }
+    ],
+    "品阶": [
+      {
+        "value": "半傀儡（似灵非灵）",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459,
+        "note": "地血老怪所赠"
       }
     ]
   },
@@ -60,13 +97,27 @@
       "docId": "plot.fanren-1463-mujing-cave",
       "dated": false,
       "seq": 1459
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-muqing-dong",
+      "dated": false,
+      "seq": 1459
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-muqing-dong",
+      "dated": false,
+      "seq": 1459,
+      "note": "地血老怪所赠"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1463-mujing-cave",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T18:53:56.329Z"
+  "updatedAt": "2026-06-20T12:23:23.873Z"
 }

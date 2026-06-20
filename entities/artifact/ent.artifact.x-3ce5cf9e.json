@@ -7,7 +7,8 @@
   "attributes": {
     "品阶": "仙家符箓",
     "五行属性": "金",
-    "能力": "幻化真仙界天戈之刃，裂地开海"
+    "能力": "幻化真仙界天戈之刃，裂地开海",
+    "来历": "金阙玉书外页"
   },
   "observations": {
     "品阶": [
@@ -30,6 +31,13 @@
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
       }
+    ],
+    "来历": [
+      {
+        "value": "金阙玉书外页",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
+      }
     ]
   },
   "firstSeq": 1339,
@@ -51,13 +59,20 @@
       "docId": "plot.fanren-1341-leipao-xianshi",
       "dated": false,
       "seq": 1339
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1463-muqing-dong",
+      "dated": false,
+      "seq": 1459
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1341-leipao-xianshi",
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.484Z"
+  "updatedAt": "2026-06-20T12:23:23.897Z"
 }

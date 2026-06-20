@@ -2,18 +2,25 @@
   "id": "ent.material.x-779624e1",
   "type": "material",
   "name": "风火兽兽皮",
-  "aliases": [],
+  "aliases": [
+    "银色兽皮"
+  ],
   "summary": "风火兽之皮，银光灿灿带天然符文花纹，炼制影傀儡符箓的最佳材料。",
   "attributes": {
-    "类型": "兽皮材料",
-    "用途": "炼制影傀儡符箓、提高成功率与威力",
-    "稀有度": "极稀有"
+    "类型": "兽皮材料、兽皮",
+    "用途": "炼制影傀儡符箓、提高成功率与威力、炼制影傀儡符箓（提高成功率与威力）",
+    "稀有度": "极稀有、珍稀"
   },
   "observations": {
     "类型": [
       {
         "value": "兽皮材料",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "兽皮",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ],
@@ -22,12 +29,22 @@
         "value": "炼制影傀儡符箓、提高成功率与威力",
         "docId": "plot.fanren-1463-mujing-cave",
         "seq": 1459
+      },
+      {
+        "value": "炼制影傀儡符箓（提高成功率与威力）",
+        "docId": "plot.fanren-1463-muqing-dong",
+        "seq": 1459
       }
     ],
     "稀有度": [
       {
         "value": "极稀有",
         "docId": "plot.fanren-1463-mujing-cave",
+        "seq": 1459
+      },
+      {
+        "value": "珍稀",
+        "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
       }
     ]
@@ -56,7 +73,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1463-mujing-cave"
+    "plot.fanren-1463-mujing-cave",
+    "plot.fanren-1463-muqing-dong"
   ],
-  "updatedAt": "2026-06-16T17:21:15.487Z"
+  "updatedAt": "2026-06-20T12:23:23.903Z"
 }
