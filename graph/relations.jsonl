@@ -19467,3 +19467,17 @@
 {"s":"ent.place.x-5acbc460","p":"locatedIn","o":"ent.place.x-f4c9f430","evidence":"plot.fanren-1531-1536-escape-snakemen-huoyangzu","confidence":0.95,"seq":1531}
 {"s":"ent.pill.x-9908ebc1","p":"relatedTo","o":"ent.beast.x-88487f6a","evidence":"plot.fanren-1531-1536-escape-snakemen-huoyangzu","confidence":0.9,"seq":1531,"note":"以双头炎蛟内丹炼制"}
 {"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-ae37c1bc","evidence":"plot.fanren-1531-1536-escape-snakemen-huoyangzu","confidence":0.85,"seq":1531,"note":"暂时盟约：火月赠烈阳神丹，韩立若伤愈且力所能及则助挡灭族之劫"}
+{"s":"ent.person.x-b7ad490e","p":"tames","o":"ent.beast.x-9f26bbee","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.97,"seq":1537}
+{"s":"ent.person.x-b7ad490e","p":"tames","o":"ent.beast.x-f00ce6b7","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.95,"seq":1537}
+{"s":"ent.beast.x-9f26bbee","p":"impersonates","o":"ent.person.x-b7ad490e","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.9,"seq":1537,"note":"化形成与韩立一般无二的替身打坐(化形，据世界状态须知自第1519章起以韩立之名行事)"}
+{"s":"ent.person.x-b7ad490e","p":"owns","o":"ent.item.x-c0cd8766","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.9,"seq":1537,"note":"玄剑附臂，附入手臂化为黄色印痕"}
+{"s":"ent.person.x-b7ad490e","p":"casts","o":"ent.artifact.x-a6dd1779","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.9,"seq":1537}
+{"s":"ent.person.x-f241ecce","p":"kin","o":"ent.person.x-ac868983","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.97,"seq":1537,"note":"母女"}
+{"s":"ent.person.x-f241ecce","p":"ofRace","o":"ent.race.x-6559df2f","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.85,"seq":1537}
+{"s":"ent.person.x-f241ecce","p":"reaches","o":"ent.realm.x-9e7b5572","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.9,"seq":1537}
+{"s":"ent.person.x-ac868983","p":"ofRace","o":"ent.race.x-6559df2f","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.85,"seq":1537}
+{"s":"ent.person.x-ac868983","p":"reaches","o":"ent.realm.x-48f0672b","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.85,"seq":1537}
+{"s":"ent.person.x-ac868983","p":"ally","o":"ent.person.x-b7ad490e","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.78,"seq":1537,"note":"暂时，献烈阳神丹恳请韩立相助火阳族对抗乌罗族"}
+{"s":"ent.race.x-6559df2f","p":"relatedTo","o":"ent.race.x-0a782583","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.8,"seq":1537,"note":"娲氏一族分支/同源三族之一"}
+{"s":"ent.race.x-6559df2f","p":"relatedTo","o":"ent.race.x-d12aa368","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.85,"seq":1537,"note":"死敌，正遭乌罗族围猎灭杀"}
+{"s":"ent.race.x-d12aa368","p":"relatedTo","o":"ent.race.x-0a782583","evidence":"plot.fanren-1540-1542-xuanjian-fubi-yihuohuadan","confidence":0.85,"seq":1537,"note":"世仇死敌，乌罗王族天生克制娲氏一族"}
