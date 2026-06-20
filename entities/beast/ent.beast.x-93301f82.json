@@ -3,13 +3,15 @@
   "type": "beast",
   "name": "羽蛟",
   "aliases": [
-    "背生双翅金蛟"
+    "背生双翅金蛟",
+    "异族蛟龙"
   ],
   "summary": "角蚩族驱使的金色背生双翅怪蛟，凶悍可怕，连同阶甲士、双头鹰都不敢支援其追猎，随长老分头搜捕。",
   "attributes": {
-    "外形": "浑身金光、背生双翅的怪蛟",
+    "外形": "生双翅之蛟龙",
     "能力": "追猎逃修",
-    "栖息地": "角蚩族战舟/银色巨岛"
+    "栖息地": "角蚩族战舟/银色巨岛",
+    "等级": "化神期"
   },
   "observations": {
     "外形": [
@@ -17,6 +19,11 @@
         "value": "浑身金光、背生双翅的怪蛟",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "生双翅之蛟龙",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ],
     "能力": [
@@ -32,15 +39,22 @@
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
       }
+    ],
+    "等级": [
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      }
     ]
   },
   "firstSeq": 1555,
   "attrProvenance": {
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
       "dated": false,
-      "seq": 1555
+      "seq": 1561
     },
     "能力": {
       "asOf": null,
@@ -53,12 +67,19 @@
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-1563-huaxue-lihun-dafa"
   ],
-  "updatedAt": "2026-06-20T15:03:42.584Z"
+  "updatedAt": "2026-06-20T15:16:03.353Z"
 }

@@ -607,3 +607,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T14:42:23.124Z** `ingest` plot.fanren-1543-1548-heisha-kongyunjing-lanhudao — 凡人修仙传 第1543-1548章：黑纱·空云晶·蓝湖岛 · kind=plot asOf=2026-06-20 entities=33 relations=40 src=01543-01548.md
 - **2026-06-20T14:55:44.006Z** `ingest` plot.fanren-1551-qidu-hanli-vs-guaie — 凡人修仙传 第1551章 奇毒：韩立以奇毒诛杀双头怪蛾 · kind=plot asOf=2026-06-20 entities=41 relations=45 src=01549-01554.md
 - **2026-06-20T15:03:42.825Z** `ingest` plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship — 凡人修仙传 第1555-1560章｜角蚩族战舟攻陷绿光城、元姓异族托匣 · kind=plot asOf=2026-06-20 entities=31 relations=36 src=01555-01560.md
+- **2026-06-20T15:16:03.732Z** `ingest` plot.fanren-1563-huaxue-lihun-dafa — 第1563章 化血：化血离魂大法夺舍心魅族修士 · kind=plot asOf=2026-06-20 entities=32 relations=41 src=01561-01566.md

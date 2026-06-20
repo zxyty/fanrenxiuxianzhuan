@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "天玄罗盘",
   "aliases": [
-    "金色罗盘"
+    "金色罗盘",
+    "罗盘"
   ],
   "summary": "角蚩族大长老所赐的金色罗盘法宝，箭头可锁定强大存在的方位，用以围捕绿光城内上三阶修士，指针最终指向韩立逃离方向。",
   "attributes": {
-    "能力": "锁定强大存在的方位",
+    "能力": "锁定强大存在的方位、追踪定位修士、定位追踪",
     "来历": "角蚩族大长老所赐",
-    "外形": "金色罗盘、中央伸缩箭头、刻度花纹、金色符文"
+    "外形": "金色罗盘、中央伸缩箭头、刻度花纹、金色符文",
+    "持有者": "角蚩族老者与中年人、图姓老者"
   },
   "observations": {
     "能力": [
@@ -17,6 +19,16 @@
         "value": "锁定强大存在的方位",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "追踪定位修士",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      },
+      {
+        "value": "定位追踪",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ],
     "来历": [
@@ -31,6 +43,18 @@
         "value": "金色罗盘、中央伸缩箭头、刻度花纹、金色符文",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      }
+    ],
+    "持有者": [
+      {
+        "value": "角蚩族老者与中年人",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      },
+      {
+        "value": "图姓老者",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ]
   },
@@ -53,12 +77,19 @@
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-1563-huaxue-lihun-dafa"
   ],
-  "updatedAt": "2026-06-20T15:03:42.570Z"
+  "updatedAt": "2026-06-20T15:16:03.406Z"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "ent.technique.x-51a0dfd0",
+  "type": "technique",
+  "name": "化血离魂大法",
+  "aliases": [
+    "化血",
+    "化血离魂"
+  ],
+  "summary": "霸道魔功：化绿光洞穿护罩没入目标体内，吸尽血肉精血并消融元神，可弃尸重塑、傀儡操控他人躯体；未炼化所吸精血前无法再次施展。",
+  "attributes": {
+    "效果": "洞穿护体灵光夺舍、吸干血肉精血并消融元神、弃尸重塑/傀儡操控他人躯体",
+    "修炼条件": "施法后须先炼化所吸精血方可再用"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "洞穿护体灵光夺舍",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      },
+      {
+        "value": "吸干血肉精血并消融元神",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      },
+      {
+        "value": "弃尸重塑/傀儡操控他人躯体",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "施法后须先炼化所吸精血方可再用",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      }
+    ]
+  },
+  "firstSeq": 1561,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "dated": false,
+      "seq": 1561
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "dated": false,
+      "seq": 1561
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1563-huaxue-lihun-dafa"
+  ],
+  "updatedAt": "2026-06-20T15:16:03.309Z"
+}

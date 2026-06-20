@@ -4,15 +4,18 @@
   "name": "角蚩族",
   "aliases": [
     "Jiaochi",
-    "角蚩族追兵"
+    "角蚩族追兵",
+    "角蚩",
+    "角蚩族人"
   ],
   "summary": "跨洋而来天元大陆的强大异族，代表人物闵；可化身百丈带角巨怪。",
   "attributes": {
     "代表人物": "闵、闵某、闵道友、图某、狞兄、弘灭",
-    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族",
-    "阵营": "敌对天云十三族",
-    "天敌": "天云十三族",
-    "天赋神通": "换血洗髓转化血脉"
+    "特性": "化身百丈带角巨怪、生独角、可化巨大带角怪物、头生独角、灵界前十超级大族、圣族、炎/火系血脉、半步圣族、隐匿/土遁神通、法体双修、霸道火属性功法",
+    "阵营": "灵界异族",
+    "天敌": "圣族",
+    "天赋神通": "换血洗髓转化血脉",
+    "聚居地": "雷鸣大陆"
   },
   "observations": {
     "代表人物": [
@@ -77,6 +80,16 @@
         "value": "炎/火系血脉、半步圣族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "隐匿/土遁神通、法体双修",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
+      },
+      {
+        "value": "霸道火属性功法",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ],
     "阵营": [
@@ -89,6 +102,11 @@
         "value": "敌对天云十三族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "灵界异族",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ],
     "天敌": [
@@ -96,6 +114,11 @@
         "value": "天云十三族",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ],
     "天赋神通": [
@@ -103,6 +126,13 @@
         "value": "换血洗髓转化血脉",
         "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
         "seq": 1555
+      }
+    ],
+    "聚居地": [
+      {
+        "value": "雷鸣大陆",
+        "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+        "seq": 1561
       }
     ]
   },
@@ -122,21 +152,27 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
       "dated": false,
-      "seq": 1555
+      "seq": 1561
     },
     "天敌": {
       "asOf": null,
-      "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
       "dated": false,
-      "seq": 1555
+      "seq": 1561
     },
     "天赋神通": {
       "asOf": null,
       "docId": "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
       "dated": false,
       "seq": 1555
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-1563-huaxue-lihun-dafa",
+      "dated": false,
+      "seq": 1561
     }
   },
   "contested": false,
@@ -147,7 +183,8 @@
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
     "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
-    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship"
+    "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
+    "plot.fanren-1563-huaxue-lihun-dafa"
   ],
-  "updatedAt": "2026-06-20T15:03:42.589Z"
+  "updatedAt": "2026-06-20T15:16:03.435Z"
 }
