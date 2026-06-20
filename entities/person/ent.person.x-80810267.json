@@ -9,7 +9,9 @@
   "attributes": {
     "性别": "女",
     "身份": "火阳族族长",
-    "种族": "蛇人/火阳族"
+    "种族": "蛇人/火阳族、火阳族",
+    "小阶段": "元婴期",
+    "阵营": "火阳族"
   },
   "observations": {
     "性别": [
@@ -30,6 +32,25 @@
       {
         "value": "蛇人/火阳族",
         "docId": "plot.fanren-1542-1543-wujiashou-dixian",
+        "seq": 1537
+      },
+      {
+        "value": "火阳族",
+        "docId": "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
+        "seq": 1537
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
+        "seq": 1537
+      }
+    ],
+    "阵营": [
+      {
+        "value": "火阳族",
+        "docId": "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
         "seq": 1537
       }
     ]
@@ -53,12 +74,25 @@
       "docId": "plot.fanren-1542-1543-wujiashou-dixian",
       "dated": false,
       "seq": 1537
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
+      "dated": false,
+      "seq": 1537
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
+      "dated": false,
+      "seq": 1537
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1542-1543-wujiashou-dixian"
+    "plot.fanren-1542-1543-wujiashou-dixian",
+    "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang"
   ],
-  "updatedAt": "2026-06-20T14:33:49.461Z"
+  "updatedAt": "2026-06-20T14:35:14.269Z"
 }
