@@ -14,9 +14,10 @@
   "summary": "守护神池、喜吞雷噬电的凶兽，成年者非可力敌；上次曾使朱道友葬身。",
   "attributes": {
     "等级": "可力敌合体巅峰",
-    "能力": "吞雷噬电、吞雷吸电、影遁、天生神力、肉身堪比顶阶宝物、独角发粗大银弧、驱使雷电、雷属性神通克制妖王、独角脱落化雷锥、可变身半人半妖催动禁制、操控黑色光阵、开黑洞吞噬、放银弧雷力、身形分二、看守冥河神乳",
-    "栖息地": "神池一带、冥河之地、灵界灵脉大殿、灵界",
-    "外形": "银白鳞片、背生雷电电翅、头顶独角、头生独角、四肢带电、独角怪兽、独角、银鳞、兽形/十丈半人半妖两态"
+    "能力": "吞雷噬电、吞雷吸电、影遁、天生神力、肉身堪比顶阶宝物、独角发粗大银弧、驱使雷电、雷属性神通克制妖王、独角脱落化雷锥、可变身半人半妖催动禁制、操控黑色光阵、开黑洞吞噬、放银弧雷力、身形分二、看守冥河神乳、凶横、喜吞雷噬电",
+    "栖息地": "神池一带、冥河之地、灵界灵脉大殿、灵界、阴骨山脉神池边",
+    "外形": "银白鳞片、背生雷电电翅、头顶独角、头生独角、四肢带电、独角怪兽、独角、银鳞、兽形/十丈半人半妖两态",
+    "天敌": "无（极难力敌）"
   },
   "observations": {
     "等级": [
@@ -111,6 +112,16 @@
         "value": "看守冥河神乳",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "凶横",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
+      },
+      {
+        "value": "喜吞雷噬电",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "栖息地": [
@@ -133,6 +144,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "阴骨山脉神池边",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "外形": [
@@ -166,6 +182,13 @@
         "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
         "seq": 1489
       }
+    ],
+    "天敌": [
+      {
+        "value": "无（极难力敌）",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
+      }
     ]
   },
   "firstSeq": 1483,
@@ -193,6 +216,12 @@
       "docId": "plot.fanren-1489-1494-dazhan-minglei-shou",
       "dated": false,
       "seq": 1489
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+      "dated": false,
+      "seq": 1483
     }
   },
   "contested": false,
@@ -202,7 +231,8 @@
     "plot.fanren-1489-1494-dazhan-minglei-shou",
     "plot.fanren-1495-1500-xutian-rescue-melee",
     "plot.fanren-1504-cuijing-zhuan",
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
   ],
-  "updatedAt": "2026-06-16T19:14:17.419Z"
+  "updatedAt": "2026-06-20T13:09:55.529Z"
 }

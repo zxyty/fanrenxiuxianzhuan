@@ -3,19 +3,26 @@
   "type": "artifact",
   "name": "乾坤幡",
   "aliases": [
-    "银白色小幡"
+    "银白色小幡",
+    "银色小幡"
   ],
   "summary": "蓝道友所有的银白色小幡，符文若隐若现；非通天灵宝但防身奇效胜过部分通天灵宝，无需多少法力口诀即可驱使护身。",
   "attributes": {
-    "持有者": "蓝道友",
+    "持有者": "蓝道友、白发美妇",
     "能力": "护身防御",
-    "外形": "银白色小幡、霞光符文若隐若现"
+    "外形": "银白色小幡、霞光符文若隐若现、银白色小幡、霞光闪闪符文若隐若现",
+    "品阶": "非通天灵宝（防身奇效胜某些通天灵宝）"
   },
   "observations": {
     "持有者": [
       {
         "value": "蓝道友",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "白发美妇",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
       }
     ],
@@ -30,6 +37,18 @@
       {
         "value": "银白色小幡、霞光符文若隐若现",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "银白色小幡、霞光闪闪符文若隐若现",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
+      }
+    ],
+    "品阶": [
+      {
+        "value": "非通天灵宝（防身奇效胜某些通天灵宝）",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
       }
     ]
@@ -53,12 +72,19 @@
       "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
       "dated": false,
       "seq": 1483
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+      "dated": false,
+      "seq": 1483
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1486-yinshui-kuijing-wulong-zha"
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
   ],
-  "updatedAt": "2026-06-16T18:05:43.315Z"
+  "updatedAt": "2026-06-20T13:09:55.502Z"
 }

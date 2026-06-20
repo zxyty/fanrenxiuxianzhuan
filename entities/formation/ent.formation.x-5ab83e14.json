@@ -7,15 +7,20 @@
   ],
   "summary": "木青亲自主持的藏匿大阵，可使冥雷兽难以察觉阵中众人，但极耗法力神念、无法久持。",
   "attributes": {
-    "效果": "藏匿、隐匿气息",
+    "效果": "藏匿、隐匿气息、藏匿/隐身（冥雷兽不主动出手则无法发现）",
     "布置者": "木青",
-    "破解法": "极耗法力神念、不能久持"
+    "破解法": "极耗法力神念、不能久持、极耗法力神念，无法持久"
   },
   "observations": {
     "效果": [
       {
         "value": "藏匿、隐匿气息",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "藏匿/隐身（冥雷兽不主动出手则无法发现）",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
       }
     ],
@@ -30,6 +35,11 @@
       {
         "value": "极耗法力神念、不能久持",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "极耗法力神念，无法持久",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
       }
     ]
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1486-yinshui-kuijing-wulong-zha"
+    "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
   ],
-  "updatedAt": "2026-06-16T18:05:43.322Z"
+  "updatedAt": "2026-06-20T13:09:55.520Z"
 }

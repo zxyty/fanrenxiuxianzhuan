@@ -3,12 +3,14 @@
   "type": "material",
   "name": "阴水葵精",
   "aliases": [
-    "葵精"
+    "葵精",
+    "**葵精",
+    "葵精瓶"
   ],
   "summary": "十余万年才形成一点、整个灵界亦极稀少的稀世之珍，血甲傀儡以之换借五龙铡。",
   "attributes": {
-    "稀有度": "稀世之珍（十余万年才形成一点）",
-    "用途": "换取姜前辈出借五龙铡的报酬",
+    "稀有度": "稀世之珍（十余万年才形成一点）、十余万年形成一点、灵界稀世之珍",
+    "用途": "换取姜前辈出借五龙铡的报酬、换借五龙铡",
     "类型": "灵材"
   },
   "observations": {
@@ -17,12 +19,22 @@
         "value": "稀世之珍（十余万年才形成一点）",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "十余万年形成一点、灵界稀世之珍",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "用途": [
       {
         "value": "换取姜前辈出借五龙铡的报酬",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
+        "seq": 1483
+      },
+      {
+        "value": "换借五龙铡",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
       }
     ],
@@ -31,6 +43,11 @@
         "value": "灵材",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "稀世灵材",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ]
   },
@@ -59,7 +76,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
   ],
-  "updatedAt": "2026-06-16T18:53:56.370Z"
+  "updatedAt": "2026-06-20T13:09:55.525Z"
 }

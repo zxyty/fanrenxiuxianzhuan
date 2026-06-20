@@ -3,15 +3,16 @@
   "type": "artifact",
   "name": "五龙铡",
   "aliases": [
-    "银色铡刀"
+    "银色铡刀",
+    "五龙铡铡刀"
   ],
   "summary": "姜前辈以五条大神通恶蛟尸骨精魂凝炼的至宝，名列混沌万灵榜的通天灵宝，催动现五条蛟龙虚影。",
   "attributes": {
-    "品阶": "通天灵宝、混沌万灵榜名列前茅、混沌万灵榜上榜异宝",
+    "品阶": "通天灵宝、混沌万灵榜名列前茅、混沌万灵榜上榜异宝、通天灵宝（名列前茅）",
     "持有者": "金甲傀儡",
-    "来历": "斩杀五条恶蛟以尸骨精魂凝炼",
-    "外形": "明亮如镜的银色铡刀",
-    "能力": "发挥全部威能可对付外来者、以一化五分袭、化无数巨刃寒光、巨刃寒光、可硬撼合体级、神通匪夷所思",
+    "来历": "斩杀五条恶蛟以尸骨精魂凝炼、斩杀五条大神通恶蛟、以尸骨精魂凝练",
+    "外形": "银白色铡刀，催动现五条蛟龙虚影、明亮如镜的银色铡刀、银白色铡刀、平日光亮如镜不显奇特",
+    "能力": "发挥全部威能可对付外来者、以一化五分袭、化无数巨刃寒光、巨刃寒光、可硬撼合体级、神通匪夷所思、激发显五条颜色各异蛟龙虚影、威能强大",
     "禁制": "需神念之力掌控、心神合一"
   },
   "observations": {
@@ -30,6 +31,11 @@
         "value": "混沌万灵榜上榜异宝",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "通天灵宝（名列前茅）",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "持有者": [
@@ -49,6 +55,11 @@
         "value": "斩杀五条恶蛟以尸骨精魂凝炼",
         "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
         "seq": 1483
+      },
+      {
+        "value": "斩杀五条大神通恶蛟、以尸骨精魂凝练",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "外形": [
@@ -61,6 +72,11 @@
         "value": "明亮如镜的银色铡刀",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "银白色铡刀、平日光亮如镜不显奇特",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "能力": [
@@ -88,6 +104,11 @@
         "value": "可硬撼合体级、神通匪夷所思",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "激发显五条颜色各异蛟龙虚影、威能强大",
+        "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
+        "seq": 1483
       }
     ],
     "禁制": [
@@ -120,9 +141,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "docId": "plot.fanren-1486-yinshui-kuijing-wulong-zha",
       "dated": false,
-      "seq": 1495
+      "seq": 1483
     },
     "能力": {
       "asOf": null,
@@ -142,7 +163,8 @@
   "docs": [
     "plot.fanren-1486-yinshui-kuijing-wulong-zha",
     "plot.fanren-1495-1500-xutian-rescue-melee",
-    "plot.fanren-1504-cuijing-zhuan"
+    "plot.fanren-1504-cuijing-zhuan",
+    "plot.fanren-1483-1488-yinshui-kuijing-wulongzha"
   ],
-  "updatedAt": "2026-06-16T18:53:56.370Z"
+  "updatedAt": "2026-06-20T13:09:55.493Z"
 }
