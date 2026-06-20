@@ -11,8 +11,10 @@
   "summary": "化神级青冥卫带队老者，在浮黎沼泽遭绿影围攻，被韩立出手救下。",
   "attributes": {
     "小阶段": "化神",
-    "身份": "青冥卫带队",
-    "外貌": "短须、身穿青色战甲"
+    "身份": "青冥卫带队、青冥卫/巡逻队长",
+    "外貌": "短须、身穿青色战甲、青甲短须老者",
+    "性别": "男",
+    "种族": "人族"
   },
   "observations": {
     "小阶段": [
@@ -27,12 +29,36 @@
         "value": "青冥卫带队",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "青冥卫/巡逻队长",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
       }
     ],
     "外貌": [
       {
         "value": "短须、身穿青色战甲",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "青甲短须老者",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
       }
     ]
@@ -56,12 +82,25 @@
       "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
       "dated": false,
       "seq": 1345
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+      "dated": false,
+      "seq": 1345
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+      "dated": false,
+      "seq": 1345
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
   ],
-  "updatedAt": "2026-06-16T13:17:17.859Z"
+  "updatedAt": "2026-06-20T09:33:04.988Z"
 }

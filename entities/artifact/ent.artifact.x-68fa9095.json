@@ -8,8 +8,8 @@
   ],
   "summary": "天渊卫所用赤金传送飞舟，通体铭刻银蝌文，自带凭空传送法阵，以高阶灵石连续传送。",
   "attributes": {
-    "外形": "四方赤金金舟，遍布淡银色银蝌文、五六丈赤金四方舟、密布银蝌文",
-    "能力": "凭空传送、凭空远程传送(高阶灵石)",
+    "外形": "四方赤金金舟，遍布淡银色银蝌文、五六丈赤金四方舟、密布银蝌文、飞舟",
+    "能力": "凭空传送、凭空远程传送(高阶灵石)、载人飞行",
     "持有者": "天渊卫",
     "禁制": "中心黄色光罩"
   },
@@ -24,6 +24,11 @@
         "value": "五六丈赤金四方舟、密布银蝌文",
         "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
+      },
+      {
+        "value": "飞舟",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
       }
     ],
     "能力": [
@@ -36,6 +41,11 @@
         "value": "凭空远程传送(高阶灵石)",
         "docId": "plot.fanren-1311-1316-tianyuan-city-ascension",
         "seq": 1309
+      },
+      {
+        "value": "载人飞行",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
       }
     ],
     "持有者": [
@@ -84,7 +94,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
-    "plot.fanren-1311-1316-tianyuan-city-ascension"
+    "plot.fanren-1311-1316-tianyuan-city-ascension",
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
   ],
-  "updatedAt": "2026-06-20T08:28:59.771Z"
+  "updatedAt": "2026-06-20T09:33:05.021Z"
 }

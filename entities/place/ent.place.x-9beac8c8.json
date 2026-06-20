@@ -7,8 +7,8 @@
   ],
   "summary": "天渊城划定的一级危险巡查区，地形可掩蔽神念，异族常潜伏其中。",
   "attributes": {
-    "类型": "沼泽",
-    "危险度": "第一类危险区、高（异族探子频出）、极高、一级危险区",
+    "类型": "沼泽险地",
+    "危险度": "第一类危险区、高（异族探子频出）、极高、一级危险区、高(异族频出)、高",
     "守护": "天渊城巡逻队",
     "所属界面": "灵界",
     "特产": "圭虫、银头兽"
@@ -19,6 +19,11 @@
         "value": "沼泽",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      },
+      {
+        "value": "沼泽险地",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
       }
     ],
     "危险度": [
@@ -41,6 +46,16 @@
         "value": "一级危险区",
         "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
+      },
+      {
+        "value": "高(异族频出)",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+        "seq": 1345
       }
     ],
     "守护": [
@@ -79,9 +94,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1323-xuantian-fruit",
+      "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
       "dated": false,
-      "seq": 1321
+      "seq": 1345
     },
     "危险度": {
       "asOf": null,
@@ -113,7 +128,8 @@
   "docs": [
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
-    "plot.fanren-1323-xuantian-guoshi"
+    "plot.fanren-1323-xuantian-guoshi",
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
   ],
-  "updatedAt": "2026-06-20T08:55:17.953Z"
+  "updatedAt": "2026-06-20T09:33:05.012Z"
 }

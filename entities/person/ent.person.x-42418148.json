@@ -6,7 +6,7 @@
   "summary": "天渊城长老，出身天灵镜，以符箓之术名闻三境，将在天广殿讲授符箓之道。",
   "attributes": {
     "身份": "天渊城长老",
-    "称号": "名闻三境",
+    "称号": "名闻三境、符箓名闻三境",
     "出身地": "天灵镜"
   },
   "observations": {
@@ -21,6 +21,11 @@
       {
         "value": "名闻三境",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "符箓名闻三境",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
   ],
-  "updatedAt": "2026-06-16T13:17:17.882Z"
+  "updatedAt": "2026-06-20T09:33:05.008Z"
 }

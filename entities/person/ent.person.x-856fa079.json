@@ -6,7 +6,7 @@
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
     "小阶段": "合体",
-    "身份": "天渊城长老",
+    "身份": "天渊城长老、飞升修士",
     "阵营": "天渊城"
   },
   "observations": {
@@ -21,6 +21,11 @@
       {
         "value": "天渊城长老",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+        "seq": 1345
+      },
+      {
+        "value": "飞升修士",
+        "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
       }
     ],
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying"
+    "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
   ],
-  "updatedAt": "2026-06-16T13:17:17.880Z"
+  "updatedAt": "2026-06-20T09:33:05.007Z"
 }

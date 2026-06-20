@@ -563,3 +563,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T09:02:29.552Z** `ingest` plot.fanren-1327-1332-tianyuan-fangshi-taixuandian — 凡人修仙传 第1327-1332章｜天渊坊市与太玄殿交易（真蟾液·玉清丹·天雷成木） · kind=plot asOf=2026-06-20 entities=26 relations=19 src=01327-01332.md
 - **2026-06-20T09:16:53.991Z** `ingest` plot.fanren-1333-1338-tianyuan-auction-mo-qilin-scales — 凡人修仙传 第1333-1338章｜天渊城秘密拍卖会·真灵墨麒麟鳞片登场 · kind=plot asOf=2026-06-20 entities=0 relations=0 src=01333-01338.md
 - **2026-06-20T09:24:55.076Z** `ingest` plot.fanren-1339-1344-leipao-shenmi-kongjian — 凡人修仙传 第1339-1344章 雷袍现世·灵地空间探查 · kind=plot asOf=2026-06-20 entities=31 relations=41 src=01339-01344.md
+- **2026-06-20T09:33:05.154Z** `ingest` plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying — 凡人修仙传 第1345-1350章｜百脉炼宝决・天渊城巡逻擒绿影 · kind=plot asOf=2026-06-20 entities=33 relations=37 src=01345-01350.md
