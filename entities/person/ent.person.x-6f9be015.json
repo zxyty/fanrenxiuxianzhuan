@@ -13,17 +13,18 @@
     "万盟主",
     "万道友",
     "万法门之主",
-    "万法门主"
+    "万法门主",
+    "万某"
   ],
   "summary": "万法门门主、正道领军人物，修炼天罗真功，连极阴亦惧三分。",
   "attributes": {
     "阵营": "逆星盟",
-    "身份": "万法门门主、正道之首、门主、正道修士之首、疯婆子亲侄、逆星盟盟主、逆星盟巨擘、万法门之主、逆星盟主战大修士",
-    "小阶段": "后期大修士",
-    "外貌": "紫袍玉带、方脸浓眉中年",
-    "性格": "心机深沉",
+    "身份": "万法门门主、正道之首、门主、正道修士之首、疯婆子亲侄、逆星盟盟主、逆星盟巨擘、万法门之主、逆星盟主战大修士、逆星盟门主",
+    "小阶段": "大修士/化神",
+    "外貌": "施魔功后真容与万天明截然不同",
+    "性格": "阴森、自信",
     "性别": "男",
-    "称号": "大修士",
+    "称号": "大修士、万大门主、万法门门主",
     "存殁": "死亡",
     "死因": "星宫逆星盟决战中战死",
     "标志特征": "紫色火焰、化紫焰火人、紫焰火龙、化分身、元婴相貌与本人无二、紫光缠绕、手抓紫色圆珠"
@@ -86,6 +87,11 @@
         "value": "逆星盟主战大修士",
         "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
+      },
+      {
+        "value": "逆星盟门主",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "小阶段": [
@@ -114,6 +120,11 @@
         "value": "后期大修士",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "大修士/化神",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "外貌": [
@@ -126,6 +137,12 @@
         "value": "紫袍玉带、方脸浓眉中年",
         "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
+      },
+      {
+        "value": "施魔功后真容与万天明截然不同",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207,
+        "note": "疑似夺舍/化形冒用万天明身份，真实身份未揭明"
       }
     ],
     "性格": [
@@ -138,6 +155,11 @@
         "value": "心机深沉",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "阴森、自信",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "性别": [
@@ -152,6 +174,16 @@
         "value": "大修士",
         "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
         "seq": 1201
+      },
+      {
+        "value": "万大门主",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      },
+      {
+        "value": "万法门门主",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "存殁": [
@@ -207,21 +239,22 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1201-1206-xinggong-zhi-zhan-3-5",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1201
+      "seq": 1207
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1201
+      "seq": 1207,
+      "note": "疑似夺舍/化形冒用万天明身份，真实身份未揭明"
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1195
+      "seq": 1207
     },
     "性别": {
       "asOf": null,
@@ -279,7 +312,8 @@
     "plot.fanren-ch485-dan-yao-zhi-zheng",
     "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
     "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
-    "plot.fanren-1202-xinggong-zhi-zhan-3"
+    "plot.fanren-1202-xinggong-zhi-zhan-3",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-20T05:16:59.774Z"
+  "updatedAt": "2026-06-20T05:34:10.367Z"
 }

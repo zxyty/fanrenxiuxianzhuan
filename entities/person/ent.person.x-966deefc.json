@@ -4,17 +4,21 @@
   "name": "六道极圣",
   "aliases": [
     "那老贼",
-    "六道极圣前辈"
+    "六道极圣前辈",
+    "六道道友",
+    "六道兄",
+    "六道极圣老魔"
   ],
   "summary": "魔道首屈一指的大魔枭，温夫人之夫，连蛮胡子在其面前亦自愧不如。",
   "attributes": {
     "阵营": "魔道六宗",
-    "称号": "乱星海魔道第一人",
-    "身份": "正魔第一修士",
+    "称号": "六道极圣、乱星海魔道第一人、逆星盟魁首、乱星海第一魔修、星海第一魔修",
+    "身份": "万门主（万天明）",
     "小阶段": "元婴后期",
     "存殁": "死亡",
     "结局": "残尸化莹光消散，储物袋被韩立接收",
-    "死因": "被天星双圣自爆元磁神光波及"
+    "死因": "被韩立紫冰重创、本命元婴及分魂遭辟邪神雷灭杀，形神俱灭（第1214章）",
+    "外貌": "万天明模样"
   },
   "observations": {
     "阵营": [
@@ -54,6 +58,16 @@
         "value": "逆星盟魁首",
         "docId": "plot.fanren-ch493-498-huazhou-lingquan-yangmushu",
         "seq": 493
+      },
+      {
+        "value": "乱星海第一魔修",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      },
+      {
+        "value": "星海第一魔修",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "身份": [
@@ -76,6 +90,12 @@
         "value": "逆星盟前辈",
         "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
+      },
+      {
+        "value": "万门主（万天明）",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207,
+        "note": "夺舍或化形，存疑"
       }
     ],
     "小阶段": [
@@ -104,6 +124,19 @@
         "value": "被天星双圣自爆元磁神光波及",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "被韩立紫冰重创、本命元婴及分魂遭辟邪神雷灭杀，形神俱灭（第1214章）",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "外貌": [
+      {
+        "value": "万天明模样",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207,
+        "note": "化形/夺舍"
       }
     ]
   },
@@ -117,15 +150,16 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-ch642-dianfeng-peiyuan-gong",
+      "docId": "plot.fanren-c433-438-xutiandian-juji",
       "dated": false,
-      "seq": 643
+      "seq": 433
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1195
+      "seq": 1207,
+      "note": "夺舍或化形，存疑"
     },
     "小阶段": {
       "asOf": null,
@@ -147,9 +181,16 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1196-er-nv",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1195
+      "seq": 1207
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207,
+      "note": "化形/夺舍"
     }
   },
   "contested": false,
@@ -167,7 +208,8 @@
     "plot.fanren-642-dianfeng-peiyuan-gong",
     "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
     "plot.fanren-1117-1122-huangquan-guimu-xuxu-dian-chuansong",
-    "plot.fmxz-ch1155-yaoshou-zhi-luan"
+    "plot.fmxz-ch1155-yaoshou-zhi-luan",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-20T05:00:29.073Z"
+  "updatedAt": "2026-06-20T05:34:10.381Z"
 }

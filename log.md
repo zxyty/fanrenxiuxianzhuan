@@ -538,3 +538,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T04:41:50.403Z** `ingest` plot.fanren-ch1190-huajiezhu-jifeng-jiubian — 凡人修仙传 第1190章 化界珠和疾风九变 · kind=plot asOf=2026-06-20 entities=62 relations=76 src=01189-01194.md
 - **2026-06-20T05:00:29.224Z** `update` plot.fanren-1196-er-nv — 第1196章 二女——菡云芝致谢、董萱儿求度心魔 · kind=plot asOf=2026-06-20 entities=73 relations=99 src=01195-01200.md
 - **2026-06-20T05:16:59.912Z** `ingest` plot.fanren-1202-xinggong-zhi-zhan-3 — 凡人修仙传 第1202章 星宫之战（三）·韩立闯风火天绝阵 · kind=plot asOf=2026-06-20 entities=42 relations=65 src=01201-01206.md
+- **2026-06-20T05:34:10.530Z** `ingest` plot.fanren-1208-xinggong-war-9 — 第1208章 星宫之战（九）：万天明请蓝氏双魔助阵，韩立现身阵前 · kind=plot asOf=2026-06-20 entities=46 relations=62 src=01207-01212.md

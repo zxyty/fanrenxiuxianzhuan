@@ -8,17 +8,19 @@
   ],
   "summary": "逆星盟一方两名凶悍魔修，所化蓝色魔气与粉红香雾逼退星盟（星宫）修士，使逆星盟略占上风。",
   "attributes": {
-    "阵营": "逆星盟、魔门",
+    "阵营": "魔门",
     "称号": "凶魔",
     "存殁": "死亡",
-    "死因": "被韩立截住去路斩杀"
+    "死因": "被韩立截住去路斩杀",
+    "小阶段": "元婴中期",
+    "标志特征": "一对双魔"
   },
   "observations": {
     "阵营": [
       {
         "value": "逆星盟",
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
-        "seq": 1213
+        "seq": 1207
       },
       {
         "value": "魔门",
@@ -46,9 +48,23 @@
         "docId": "lore.fanren-1215-linggen-wuxing-heyi",
         "seq": 1213
       }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴中期",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "一对双魔",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
     ]
   },
-  "firstSeq": 1213,
+  "firstSeq": 1207,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -73,12 +89,25 @@
       "docId": "lore.fanren-1215-linggen-wuxing-heyi",
       "dated": false,
       "seq": 1213
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-1215-linggen-wuxing-heyi"
+    "lore.fanren-1215-linggen-wuxing-heyi",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-16T08:34:31.957Z"
+  "updatedAt": "2026-06-20T05:34:10.345Z"
 }

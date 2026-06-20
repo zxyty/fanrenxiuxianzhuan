@@ -13,7 +13,9 @@
     "小阶段": "元婴中期",
     "存殁": "死亡",
     "死因": "被大庚剑阵分尸、大庚剑阵乱刃分尸",
-    "结局": "肉身元婴俱被剑阵灭杀"
+    "结局": "肉身元婴俱被剑阵灭杀",
+    "阵营": "逆星盟",
+    "身份": "守阵眼修士"
   },
   "observations": {
     "标志特征": [
@@ -79,6 +81,20 @@
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
       }
+    ],
+    "阵营": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "身份": [
+      {
+        "value": "守阵眼修士",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
     ]
   },
   "firstSeq": 1087,
@@ -124,6 +140,18 @@
       "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
       "dated": false,
       "seq": 1105
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
@@ -133,7 +161,8 @@
     "plot.fanren-1105-1110-jianzhen-duobao-chenshui-xuanyu",
     "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
     "plot.fanren-1101-dongxia-jizhan-shang",
-    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-18T10:36:30.051Z"
+  "updatedAt": "2026-06-20T05:34:10.319Z"
 }

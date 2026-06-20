@@ -1,0 +1,64 @@
+{
+  "id": "ent.person.x-84e48808",
+  "type": "person",
+  "name": "妙鹤长老",
+  "aliases": [],
+  "summary": "逆星盟长老，对外称陨落于碧灵岛妖兽偷袭，实于雷空岛遇疑似韩立者后失踪、元神命灯熄灭。",
+  "attributes": {
+    "阵营": "逆星盟",
+    "身份": "逆星盟长老",
+    "存殁": "疑似死亡"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "逆星盟",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "身份": [
+      {
+        "value": "逆星盟长老",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "存殁": [
+      {
+        "value": "疑似死亡",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207,
+        "note": "元神命灯自行熄灭，疑命丧韩立之手"
+      }
+    ]
+  },
+  "firstSeq": 1207,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207,
+      "note": "元神命灯自行熄灭，疑命丧韩立之手"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1208-xinggong-war-9"
+  ],
+  "updatedAt": "2026-06-20T05:34:10.322Z"
+}

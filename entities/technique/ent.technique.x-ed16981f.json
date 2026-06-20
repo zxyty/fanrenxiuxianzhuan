@@ -5,16 +5,19 @@
   "aliases": [
     "六极真魔",
     "六极真魔功法",
-    "六圣幻影"
+    "六圣幻影",
+    "乱星海第一魔功",
+    "六道兄的六极真魔功"
   ],
   "summary": "温天仁所修，号称乱星海第一魔功；施展时狂吸数十里天地灵气，云团由紫转灰白、雷鸣巨响。",
   "attributes": {
     "出处": "乱星海第一魔功、六道极圣、六道极圣/六道传人、魔道、六道",
-    "效果": "幻化六极真魔虚影",
-    "适用境界": "需高阶魔修、魔修、结丹及以上",
+    "效果": "幻化六极真魔虚影、召唤圣魔分念附体、六道真魔虚影附体炼尸、放出六道魔影",
+    "适用境界": "需高阶魔修、魔修、结丹及以上、可比化神",
     "修炼条件": "需坐化尸体",
     "品阶": "乱星海第一魔功",
-    "外显异象": "狂吸天地灵气、灰白云团、雷鸣巨响"
+    "外显异象": "背后六个妖魔虚影（生角/獠牙/鳞甲）",
+    "五行属性": "魔道"
   },
   "observations": {
     "出处": [
@@ -49,6 +52,21 @@
         "value": "幻化六极真魔虚影",
         "docId": "plot.fanren-571-576-han-li-vs-wen-tianren-guiwu",
         "seq": 571
+      },
+      {
+        "value": "召唤圣魔分念附体",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      },
+      {
+        "value": "六道真魔虚影附体炼尸",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      },
+      {
+        "value": "放出六道魔影",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "适用境界": [
@@ -66,6 +84,11 @@
         "value": "结丹及以上",
         "docId": "plot.fanren-571-576-wentianren-battle-guiwu",
         "seq": 571
+      },
+      {
+        "value": "可比化神",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "修炼条件": [
@@ -87,6 +110,18 @@
         "value": "狂吸天地灵气、灰白云团、雷鸣巨响",
         "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
         "seq": 565
+      },
+      {
+        "value": "背后六个妖魔虚影（生角/獠牙/鳞甲）",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "魔道",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ]
   },
@@ -124,9 +159,15 @@
     },
     "外显异象": {
       "asOf": null,
-      "docId": "plot.fanren-ch565-570-huanhun-island-wen-tianren",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 565
+      "seq": 1207
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
@@ -139,7 +180,8 @@
     "lore.fanren-1215-linggen-wuxing-heyi",
     "plot.fanren-ch565-570-huanhun-island-wen-tianren",
     "plot.fanren-571-576-wentianren-battle-guiwu",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-18T11:55:02.687Z"
+  "updatedAt": "2026-06-20T05:34:10.396Z"
 }

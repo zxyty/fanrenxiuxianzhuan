@@ -7,13 +7,16 @@
     "晶莹乌黑短刃",
     "黑芒",
     "黑色晶莹飞刀",
-    "魔髓刀"
+    "魔髓刀",
+    "乌黑飞刀",
+    "乌黑晶莹飞刀"
   ],
   "summary": "韩立的瞬移斩首飞刀。",
   "attributes": {
     "持有者": "韩立/人形傀儡操使",
     "外形": "黑色短刃、晶莹乌黑短刃，泛淡黑光、黑芒飞刀、黑色晶莹飞刀、晶莹乌黑短刃",
-    "能力": "瞬移斩击、隐匿行迹、视魔气如无物、潜行绕颈斩首"
+    "能力": "瞬移斩击、隐匿行迹、视魔气如无物、潜行绕颈斩首、无视魔气护罩",
+    "来历": "魔髓钻炼制"
   },
   "observations": {
     "持有者": [
@@ -75,6 +78,18 @@
         "value": "潜行绕颈斩首",
         "docId": "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
         "seq": 1105
+      },
+      {
+        "value": "无视魔气护罩",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
+      }
+    ],
+    "来历": [
+      {
+        "value": "魔髓钻炼制",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ]
   },
@@ -97,6 +112,12 @@
       "docId": "plot.fanren-1099-1104-xuanyu-cave-battle",
       "dated": false,
       "seq": 1099
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1208-xinggong-war-9",
+      "dated": false,
+      "seq": 1207
     }
   },
   "contested": false,
@@ -108,7 +129,8 @@
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-1101-dongxia-jizhan-shang",
-    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu"
+    "plot.fanren-1105-1110-jianzhen-duobao-xuanyu",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-18T10:54:03.896Z"
+  "updatedAt": "2026-06-20T05:34:10.388Z"
 }

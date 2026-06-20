@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "乱星海外海大岛，方圆数千里，灵脉与稀有灵药丰盛，由数股势力联手占据；岛中小城建八座石塔守护大阵。",
   "attributes": {
-    "所属界面": "人界·乱星海",
+    "所属界面": "乱星海",
     "类型": "海岛",
     "特产": "上佳灵脉、稀有灵药",
     "守护": "八座石塔守护大阵"
@@ -16,6 +16,11 @@
         "value": "人界·乱星海",
         "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
         "seq": 1135
+      },
+      {
+        "value": "乱星海",
+        "docId": "plot.fanren-1208-xinggong-war-9",
+        "seq": 1207
       }
     ],
     "类型": [
@@ -49,9 +54,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1135-1140-qingyu-leikongdao",
+      "docId": "plot.fanren-1208-xinggong-war-9",
       "dated": false,
-      "seq": 1135
+      "seq": 1207
     },
     "类型": {
       "asOf": null,
@@ -76,7 +81,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1135-1140-qingyu-leikongdao",
-    "plot.fanren-1143-yinsha-xueshi"
+    "plot.fanren-1143-yinsha-xueshi",
+    "plot.fanren-1208-xinggong-war-9"
   ],
-  "updatedAt": "2026-06-18T11:55:02.628Z"
+  "updatedAt": "2026-06-20T05:34:10.331Z"
 }
