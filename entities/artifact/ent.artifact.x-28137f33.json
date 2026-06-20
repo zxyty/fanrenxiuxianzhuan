@@ -3,12 +3,14 @@
   "type": "artifact",
   "name": "金甲傀儡",
   "aliases": [
-    "淡金色人影"
+    "淡金色人影",
+    "金甲守护傀儡"
   ],
   "summary": "守护虚天殿/绿池灵脉的金甲守护傀儡，持五龙铡突袭众妖王。",
   "attributes": {
-    "能力": "操使五龙铡",
-    "外形": "淡金色甲身人影"
+    "能力": "操使五龙铡、催动五龙铡、五龙铡一化五",
+    "外形": "淡金色甲身人影",
+    "持有者": "妖族"
   },
   "observations": {
     "能力": [
@@ -16,12 +18,29 @@
         "value": "操使五龙铡",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "催动五龙铡",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
+      },
+      {
+        "value": "五龙铡一化五",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "外形": [
       {
         "value": "淡金色甲身人影",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      }
+    ],
+    "持有者": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
         "seq": 1495
       }
     ]
@@ -39,12 +58,19 @@
       "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
       "dated": false,
       "seq": 1495
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+      "dated": false,
+      "seq": 1495
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1495-1500-xutian-rescue-melee"
+    "plot.fanren-1495-1500-xutian-rescue-melee",
+    "plot.fanren-1495-1500-xutiandian-jiuren"
   ],
-  "updatedAt": "2026-06-16T18:30:11.139Z"
+  "updatedAt": "2026-06-20T13:29:23.303Z"
 }

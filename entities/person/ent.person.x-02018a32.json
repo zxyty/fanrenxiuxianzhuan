@@ -23,10 +23,10 @@
     "小阶段": "合体期",
     "性别": "女",
     "外貌": "头发雪白、面色无血的美妇、白发、面色无血、碧绿宫装、白发美妇、白发、满脸皱纹老妇人、雪白头发、面色无血、碧绿宫装",
-    "身份": "炼鬼者、前辈高人、四大妖王之一、妖王、地渊妖王、散修、鬼道修士",
+    "身份": "炼鬼者、前辈高人、四大妖王之一、妖王、地渊妖王、散修、鬼道修士、鬼修",
     "种族": "鬼妖、妖族、鬼道之身、妖",
-    "标志特征": "阴气凝重、漆黑小钟、统御八阴甲鬼王、满头白发可奇长化白针、驱使阴甲鬼王、巨大化古战甲、八骷髅头怪锤、披发鬼影、鬼道功法、八名鬼王、怪锤、黑色战甲、绿焰怪锤、八白骨骷髅极寒之风、声音苍老异常、阴气凝重生平仅见、披发巨大鬼影、绿气、背后巨大鬼影、阴甲玄鬼、八大鬼王、阴云囊、白发",
-    "阵营": "敌方",
+    "标志特征": "阴气凝重、漆黑小钟、统御八阴甲鬼王、满头白发可奇长化白针、驱使阴甲鬼王、巨大化古战甲、八骷髅头怪锤、披发鬼影、鬼道功法、八名鬼王、怪锤、黑色战甲、绿焰怪锤、八白骨骷髅极寒之风、声音苍老异常、阴气凝重生平仅见、披发巨大鬼影、绿气、背后巨大鬼影、阴甲玄鬼、八大鬼王、阴云囊、白发、八骷髅头怪锤、白骨鬼爪、阴甲鬼兵",
+    "阵营": "地渊妖物、敌方、地渊妖王(地血老怪一方)、敌对",
     "称号": "蓝道友",
     "性格": "自负、贪宝"
   },
@@ -138,6 +138,11 @@
         "value": "鬼道修士",
         "docId": "plot.fanren-1443-1444-diyuan-shenceng-weiji",
         "seq": 1435
+      },
+      {
+        "value": "鬼修",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "种族": [
@@ -262,6 +267,21 @@
         "value": "白发",
         "docId": "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
         "seq": 1483
+      },
+      {
+        "value": "八骷髅头怪锤",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
+      },
+      {
+        "value": "白骨鬼爪",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
+      },
+      {
+        "value": "阴甲鬼兵",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "阵营": [
@@ -279,6 +299,11 @@
         "value": "地渊妖王(地血老怪一方)",
         "docId": "plot.fanren-1492-da-zhan-ming-lei-shou",
         "seq": 1489
+      },
+      {
+        "value": "敌对",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "称号": [
@@ -336,9 +361,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "docId": "plot.fanren-1471-1476-jingkongmo-minghe-pojin",
       "dated": false,
-      "seq": 1495
+      "seq": 1471
     },
     "称号": {
       "asOf": null,
@@ -379,7 +404,8 @@
     "plot.fanren-1474-jingkongmo",
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
     "plot.fanren-1483-1488-yinshui-kuijing-wulongzha",
-    "plot.fanren-1492-da-zhan-ming-lei-shou"
+    "plot.fanren-1492-da-zhan-ming-lei-shou",
+    "plot.fanren-1495-1500-xutiandian-jiuren"
   ],
-  "updatedAt": "2026-06-20T13:22:02.135Z"
+  "updatedAt": "2026-06-20T13:29:23.351Z"
 }

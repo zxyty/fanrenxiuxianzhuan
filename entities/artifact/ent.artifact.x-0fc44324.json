@@ -9,9 +9,9 @@
   ],
   "summary": "地血以神念分身炼制的傀儡，含一丝神念、具低阶灵帅级实力，被韩立尽灭。",
   "attributes": {
-    "持有者": "地血",
+    "持有者": "紫血傀儡",
     "品阶": "低阶灵帅级",
-    "能力": "血色光柱、血翅瞬移、血刀、碎片重组、血色爪芒、血雾遁移瞬现",
+    "能力": "血色光柱、血翅瞬移、血刀、碎片重组、血色爪芒、血雾遁移瞬现、血手擒拿、瞬移血光",
     "外形": "血濛濛人影"
   },
   "observations": {
@@ -20,6 +20,11 @@
         "value": "地血",
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
+      },
+      {
+        "value": "紫血傀儡",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "品阶": [
@@ -59,6 +64,16 @@
         "value": "血雾遁移瞬现",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "血手擒拿",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
+      },
+      {
+        "value": "瞬移血光",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
+        "seq": 1495
       }
     ],
     "外形": [
@@ -78,9 +93,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
+      "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
       "dated": false,
-      "seq": 1447
+      "seq": 1495
     },
     "品阶": {
       "asOf": null,
@@ -105,7 +120,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
-    "plot.fanren-1495-1500-xutian-rescue-melee"
+    "plot.fanren-1495-1500-xutian-rescue-melee",
+    "plot.fanren-1495-1500-xutiandian-jiuren"
   ],
-  "updatedAt": "2026-06-16T18:30:11.163Z"
+  "updatedAt": "2026-06-20T13:29:23.313Z"
 }

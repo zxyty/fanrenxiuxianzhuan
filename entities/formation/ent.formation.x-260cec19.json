@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "元瑶、妍丽布置的聚阴大阵，短时间形成吸纳阴气的黑色漩涡，用于驱除韩立体内印记。",
   "attributes": {
-    "效果": "短时聚集惊人阴气",
+    "效果": "短时聚集惊人阴气、聚集精纯阴气以驱除印记",
     "布置者": "元瑶、妍丽"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "短时聚集惊人阴气",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+        "seq": 1495
+      },
+      {
+        "value": "聚集精纯阴气以驱除印记",
+        "docId": "plot.fanren-1495-1500-xutiandian-jiuren",
         "seq": 1495
       }
     ],
@@ -47,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1495-1500-xutian-rescue-melee"
+    "plot.fanren-1495-1500-xutian-rescue-melee",
+    "plot.fanren-1495-1500-xutiandian-jiuren"
   ],
-  "updatedAt": "2026-06-16T18:30:11.176Z"
+  "updatedAt": "2026-06-20T13:29:23.385Z"
 }

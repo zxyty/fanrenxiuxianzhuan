@@ -592,3 +592,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T13:02:17.621Z** `ingest` plot.fanren-1477-1482-baiying-guinv-fuyou-zu — 凡人修仙传 第1477-1482章｜白影·鬼女·蜉蝣族 · kind=plot asOf=2026-06-20 entities=25 relations=35 src=01477-01482.md
 - **2026-06-20T13:09:55.745Z** `ingest` plot.fanren-1483-1488-yinshui-kuijing-wulongzha — 凡人修仙传 第1483-1488章｜五龙铡借宝与韩立被控引冥雷兽 · kind=plot asOf=2026-06-20 entities=26 relations=23 src=01483-01488.md
 - **2026-06-20T13:22:02.349Z** `ingest` plot.fanren-1492-da-zhan-ming-lei-shou — 凡人修仙传 第1492章 大战冥雷兽 · kind=plot asOf=2026-06-20 entities=31 relations=45 src=01489-01494.md
+- **2026-06-20T13:29:23.557Z** `ingest` plot.fanren-1495-1500-xutiandian-jiuren — 凡人修仙传 第1495-1500章｜虚天殿混战·韩立趁乱救人脱身 · kind=plot asOf=2026-06-20 entities=26 relations=33 src=01495-01500.md
