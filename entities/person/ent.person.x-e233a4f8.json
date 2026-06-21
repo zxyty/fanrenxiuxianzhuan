@@ -6,14 +6,17 @@
     "千秋",
     "黄袍少女",
     "千秋前辈",
-    "器灵族千秋圣女"
+    "器灵族千秋圣女",
+    "千秋道友",
+    "灵族圣女",
+    "器灵族圣女"
   ],
   "summary": "器灵族圣女、四大圣灵之一，与合体修士同阶；黄袍圆脸少女模样，携万森轮盘与擎天战舟构造图来两族拍卖会献宝。",
   "attributes": {
     "性别": "女",
     "种族": "器灵族",
-    "身份": "器灵族代表",
-    "外貌": "十七八岁黄袍少女",
+    "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女",
+    "外貌": "黄袍圆脸十七八岁少女、十七八岁黄袍少女、黄袍少女（本体黄铜镜）、黄袍少女",
     "称号": "千秋圣女"
   },
   "observations": {
@@ -41,6 +44,16 @@
         "value": "器灵族代表",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "灵族联盟使者",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      },
+      {
+        "value": "器灵族圣女",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "外貌": [
@@ -53,6 +66,16 @@
         "value": "十七八岁黄袍少女",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "黄袍少女（本体黄铜镜）",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      },
+      {
+        "value": "黄袍少女",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "称号": [
@@ -79,15 +102,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1801
+      "seq": 1789
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1795
+      "seq": 1789
     },
     "称号": {
       "asOf": null,
@@ -101,7 +124,8 @@
   "docs": [
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T05:59:14.538Z"
+  "updatedAt": "2026-06-21T06:38:29.195Z"
 }

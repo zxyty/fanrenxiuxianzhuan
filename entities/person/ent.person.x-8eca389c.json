@@ -11,11 +11,11 @@
   "summary": "真灵第一世家陇家之祖，合体后期大成，激发半龙之身，修无情道神通，丽娘生父。",
   "attributes": {
     "种族": "人族",
-    "小阶段": "合体期",
+    "小阶段": "合体中期以上",
     "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
-    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂",
-    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持",
-    "性格": "深沉冷静",
+    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化",
+    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者",
+    "性格": "深沉老辣",
     "阵营": "陇家、人族真灵世家",
     "称号": "真灵世家第一修士"
   },
@@ -47,6 +47,11 @@
         "value": "合体期",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "合体中期以上",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "外貌": [
@@ -87,6 +92,11 @@
         "value": "五色光臂",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "半龙化",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "身份": [
@@ -104,6 +114,11 @@
         "value": "陇家老祖/真灵大典主持",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "魔界之行发起者",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "性格": [
@@ -111,6 +126,11 @@
         "value": "深沉冷静",
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819
+      },
+      {
+        "value": "深沉老辣",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "阵营": [
@@ -143,9 +163,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "外貌": {
       "asOf": null,
@@ -168,9 +188,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "阵营": {
       "asOf": null,
@@ -192,7 +212,8 @@
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
     "plot.fanren-1825-1826-wanlingtai",
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.125Z"
+  "updatedAt": "2026-06-21T06:38:29.218Z"
 }

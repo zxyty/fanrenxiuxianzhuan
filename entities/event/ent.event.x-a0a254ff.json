@@ -7,10 +7,10 @@
   ],
   "summary": "约十年后举行的大典，韩立已答应谷家晓风仙子相助；谷家与叶家交好不会对上。",
   "attributes": {
-    "参与方": "谷家、叶家、韩立、真灵世家、陇家、林家、丰家、劳家",
+    "参与方": "谷家、叶家、韩立、真灵世家、陇家、林家、丰家、劳家、五大真灵世家",
     "起因": "三千年一次",
-    "地点": "万灵台",
-    "章节": "第1830-1831章",
+    "地点": "万灵谷",
+    "章节": "1832-1835",
     "结果": "五大世家排名同上届，谷家仍列末位"
   },
   "observations": {
@@ -54,6 +54,11 @@
         "value": "劳家",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "五大真灵世家",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "起因": [
@@ -68,6 +73,11 @@
         "value": "万灵台",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "万灵谷",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "章节": [
@@ -75,6 +85,11 @@
         "value": "第1830-1831章",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "1832-1835",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "结果": [
@@ -101,15 +116,15 @@
     },
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1813
+      "seq": 1825
     },
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "结果": {
       "asOf": null,
@@ -123,7 +138,8 @@
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.136Z"
+  "updatedAt": "2026-06-21T06:38:29.187Z"
 }

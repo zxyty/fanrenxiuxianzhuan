@@ -5,13 +5,14 @@
   "aliases": [
     "魔灾",
     "魔劫之事",
-    "千年大劫"
+    "千年大劫",
+    "魔灾爆发"
   ],
   "summary": "古魔族降临的浩劫，将于千年内爆发；上次魔劫人妖合体期散修陨落大半，亦有三妖王一人皇战死。",
   "attributes": {
-    "参与方": "古魔族、人族、妖族、人妖两族",
-    "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生、无人可置身事外、两族灵药材料奇缺、势力积攒实力、人妖两族皆受波及，合体大劫",
-    "起因": "魔界之战将至"
+    "参与方": "古魔族、人族、妖族、人妖两族、魔族",
+    "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生、无人可置身事外、两族灵药材料奇缺、势力积攒实力、人妖两族皆受波及，合体大劫、人族存亡之危、两族备战、材料价格暴涨",
+    "起因": "古魔来袭"
   },
   "observations": {
     "参与方": [
@@ -34,6 +35,11 @@
         "value": "人妖两族",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "影响": [
@@ -61,6 +67,16 @@
         "value": "人妖两族皆受波及，合体大劫",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "人族存亡之危",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      },
+      {
+        "value": "两族备战、材料价格暴涨",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "起因": [
@@ -73,6 +89,11 @@
         "value": "魔界之战将至",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "古魔来袭",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ]
   },
@@ -92,9 +113,9 @@
     },
     "起因": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1801
+      "seq": 1825
     }
   },
   "contested": false,
@@ -103,7 +124,8 @@
     "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:19:11.148Z"
+  "updatedAt": "2026-06-21T06:38:29.231Z"
 }

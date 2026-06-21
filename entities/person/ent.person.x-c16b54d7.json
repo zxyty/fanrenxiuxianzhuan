@@ -5,15 +5,16 @@
   "aliases": [
     "果儿",
     "白白嫩嫩女童",
-    "白果儿女童"
+    "白果儿女童",
+    "小丫头白果儿"
   ],
   "summary": "白化及之女，炼气期三四层女童，被石仑挟持为人质，由韩立以桃僵李代符救下。",
   "attributes": {
     "性别": "女",
-    "小阶段": "炼气期三四层",
-    "外貌": "女童",
-    "身份": "记名弟子",
-    "标志特征": "冰髓之体"
+    "小阶段": "金丹中期",
+    "外貌": "银袍少女，圆脸乌眸，白里透红",
+    "身份": "韩立弟子",
+    "标志特征": "体内有寒毒"
   },
   "observations": {
     "性别": [
@@ -28,6 +29,11 @@
         "value": "炼气期三四层",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "金丹中期",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "外貌": [
@@ -40,6 +46,11 @@
         "value": "女童",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "银袍少女，圆脸乌眸，白里透红",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "身份": [
@@ -57,6 +68,11 @@
         "value": "记名弟子",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "韩立弟子",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "标志特征": [
@@ -79,6 +95,11 @@
         "value": "冰髓之体",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "体内有寒毒",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ]
   },
@@ -92,27 +113,27 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1771
+      "seq": 1825
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1813
+      "seq": 1825
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1783
+      "seq": 1825
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1813
+      "seq": 1825
     }
   },
   "contested": false,
@@ -121,7 +142,8 @@
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:19:11.200Z"
+  "updatedAt": "2026-06-21T06:38:29.216Z"
 }

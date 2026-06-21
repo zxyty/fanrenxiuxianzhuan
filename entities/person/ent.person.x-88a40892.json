@@ -9,9 +9,9 @@
   "summary": "陇家太上客卿长老，合体中期，黑袍、额有紫色疤痕；神念惊人可同操72件法宝，施撕裂空间黑色光球，第一场迎战韩立落败。",
   "attributes": {
     "小阶段": "合体中期、合体初期",
-    "身份": "陇家太上客卿长老",
-    "外貌": "黑袍、额有紫色疤痕",
-    "阵营": "人族真灵世家陇家",
+    "身份": "陇家太上客卿长老、陇家长老、陇家修士",
+    "外貌": "黑袍男子",
+    "阵营": "陇家",
     "标志特征": "特殊坚韧青色手掌（伤口自愈）、黑色游走斑纹妖魔化"
   },
   "observations": {
@@ -32,6 +32,16 @@
         "value": "陇家太上客卿长老",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "陇家长老",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      },
+      {
+        "value": "陇家修士",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "外貌": [
@@ -39,6 +49,11 @@
         "value": "黑袍、额有紫色疤痕",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "黑袍男子",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "阵营": [
@@ -46,6 +61,11 @@
         "value": "人族真灵世家陇家",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "陇家",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "标志特征": [
@@ -77,15 +97,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "标志特征": {
       "asOf": null,
@@ -98,7 +118,8 @@
   "contradictions": {},
   "docs": [
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.126Z"
+  "updatedAt": "2026-06-21T06:38:29.198Z"
 }

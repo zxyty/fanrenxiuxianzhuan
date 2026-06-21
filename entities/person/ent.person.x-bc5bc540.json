@@ -3,13 +3,15 @@
   "type": "person",
   "name": "莫护法",
   "aliases": [
-    "莫前辈"
+    "莫前辈",
+    "莫师"
   ],
   "summary": "魔焰门护法，将赴付家祝寿。",
   "attributes": {
-    "身份": "魔焰门护法",
-    "小阶段": "结丹、结丹期",
-    "外貌": "相貌平凡、双眼寒光逼人"
+    "身份": "人族唯一大乘存在",
+    "小阶段": "结丹、结丹期、大乘",
+    "外貌": "相貌平凡、双眼寒光逼人",
+    "阵营": "人族"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "value": "魔焰门护法",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "人族唯一大乘存在",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "小阶段": [
@@ -29,6 +36,11 @@
         "value": "结丹期",
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "外貌": [
@@ -37,15 +49,22 @@
         "docId": "plot.fanren-ch648-zhimu-lingying",
         "seq": 649
       }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
     ]
   },
   "firstSeq": 649,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch648-zhimu-lingying",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 649
+      "seq": 1825
     },
     "小阶段": {
       "asOf": null,
@@ -58,12 +77,19 @@
       "docId": "plot.fanren-ch648-zhimu-lingying",
       "dated": false,
       "seq": 649
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch648-zhimu-lingying"
+    "plot.fanren-ch648-zhimu-lingying",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-17T09:16:51.105Z"
+  "updatedAt": "2026-06-21T06:38:29.154Z"
 }

@@ -2,12 +2,15 @@
   "id": "ent.person.x-c767dc43",
   "type": "person",
   "name": "劳哀",
-  "aliases": [],
+  "aliases": [
+    "劳家修士"
+  ],
   "summary": "劳家合体初期修士，白衣儒生，代劳家向叶家（韩立）挑战，持黑色戒尺与金色巨笔，可召五色妖蝶。",
   "attributes": {
     "小阶段": "合体初期",
-    "外貌": "白衣中年儒生",
-    "标志特征": "黑色戒尺（化黑色灵花护身）、金色巨笔（召五色妖蝶）"
+    "外貌": "儒生",
+    "标志特征": "黑色戒尺（化黑色灵花护身）、金色巨笔（召五色妖蝶）",
+    "身份": "劳家修士"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +25,11 @@
         "value": "白衣中年儒生",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "儒生",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "标志特征": [
@@ -35,6 +43,13 @@
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
       }
+    ],
+    "身份": [
+      {
+        "value": "劳家修士",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
     ]
   },
   "firstSeq": 1819,
@@ -47,21 +62,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
       "dated": false,
       "seq": 1819
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.129Z"
+  "updatedAt": "2026-06-21T06:38:29.135Z"
 }

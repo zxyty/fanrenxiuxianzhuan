@@ -9,7 +9,8 @@
   "summary": "妖族之一，隐匿与幻化天赋在妖族众多种族中可排前三；花仙子出身于此并反出该族。",
   "attributes": {
     "天赋神通": "隐匿、幻化、心幻之术",
-    "代表人物": "花仙子、秦素儿、秦媚儿"
+    "代表人物": "花仙子、秦素儿、秦媚儿",
+    "阵营": "妖族"
   },
   "observations": {
     "天赋神通": [
@@ -45,6 +46,13 @@
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
     ]
   },
   "firstSeq": 1783,
@@ -60,13 +68,20 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T05:59:14.555Z"
+  "updatedAt": "2026-06-21T06:38:29.226Z"
 }

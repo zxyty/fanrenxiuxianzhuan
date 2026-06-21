@@ -3,11 +3,12 @@
   "type": "place",
   "name": "万灵台",
   "aliases": [
-    "万灵大殿"
+    "万灵大殿",
+    "石台"
   ],
   "summary": "真灵大典召开之地，距谷家此处月许路程。",
   "attributes": {
-    "类型": "大典场所、祭祀大典之地、祭祀/大典高台、比斗台",
+    "类型": "大典场所、祭祀大典之地、祭祀/大典高台、比斗台、比试高台",
     "守护": "高大阵旗光罩、天劫之雷电网",
     "所属势力": "人族真灵世家"
   },
@@ -32,6 +33,11 @@
         "value": "比斗台",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "比试高台",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "守护": [
@@ -76,7 +82,8 @@
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
     "plot.fanren-1825-1826-wanlingtai",
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.135Z"
+  "updatedAt": "2026-06-21T06:38:29.179Z"
 }

@@ -4,13 +4,17 @@
   "name": "叶家羽衣少女",
   "aliases": [
     "叶仙子",
-    "叶家太上长老"
+    "叶家太上长老",
+    "叶家仙子"
   ],
   "summary": "叶家太上长老，外貌为羽衣少女实则老气横生，抽得5号轮空。",
   "attributes": {
     "外貌": "羽衣少女",
-    "身份": "叶家太上长老",
-    "阵营": "人族真灵世家叶家"
+    "身份": "叶家修士",
+    "阵营": "人族真灵世家叶家",
+    "性别": "女",
+    "小阶段": "合体期",
+    "标志特征": "天凤血统、破碎虚空神通"
   },
   "observations": {
     "外貌": [
@@ -25,6 +29,11 @@
         "value": "叶家太上长老",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "叶家修士",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "阵营": [
@@ -32,6 +41,32 @@
         "value": "人族真灵世家叶家",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "天凤血统",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      },
+      {
+        "value": "破碎虚空神通",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ]
   },
@@ -45,21 +80,40 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
       "dated": false,
       "seq": 1819
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:23:12.344Z"
+  "updatedAt": "2026-06-21T06:38:29.196Z"
 }

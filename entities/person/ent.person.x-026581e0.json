@@ -7,10 +7,11 @@
   ],
   "summary": "叶家老祖，化形为身着五色羽衣的十七八岁少女，声如黄鹂，性情活泼，疼爱孙女叶颖。",
   "attributes": {
-    "外貌": "五色羽衣的十七八岁少女",
-    "身份": "老祖、叶家代战修士",
+    "外貌": "羽衣少女",
+    "身份": "老祖、叶家代战修士、叶家修士",
     "阵营": "叶家",
-    "小阶段": "合体中期"
+    "小阶段": "合体中期以上",
+    "性别": "女"
   },
   "observations": {
     "外貌": [
@@ -19,6 +20,11 @@
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819,
         "note": "化形/驻颜"
+      },
+      {
+        "value": "羽衣少女",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "身份": [
@@ -31,6 +37,11 @@
         "value": "叶家代战修士",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "叶家修士",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ],
     "阵营": [
@@ -45,6 +56,18 @@
         "value": "合体中期",
         "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
+      },
+      {
+        "value": "合体中期以上",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+        "seq": 1825
       }
     ]
   },
@@ -52,10 +75,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819,
-      "note": "化形/驻颜"
+      "seq": 1825
     },
     "身份": {
       "asOf": null,
@@ -71,16 +93,23 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 1819
+      "seq": 1825
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "dated": false,
+      "seq": 1825
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1825-1826-wanlingtai",
-    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
   ],
-  "updatedAt": "2026-06-21T06:25:53.130Z"
+  "updatedAt": "2026-06-21T06:38:29.141Z"
 }

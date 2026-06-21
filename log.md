@@ -659,3 +659,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T06:21:10.604Z** `ingest` plot.fanren-1825-1826-wanlingtai — 凡人修仙传 第1825-1826章 万灵台·真灵大典前的暗流 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=01819-01824.p1.md
 - **2026-06-21T06:23:12.540Z** `ingest` plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony — 第1827-1828章 万灵兽降临与真灵大典切磋 · kind=plot asOf=2026-06-21 entities=21 relations=23 src=01819-01824.p2.md
 - **2026-06-21T06:25:53.316Z** `ingest` plot.fanren-1830-1831-zhenling-dadian-qiecuo — 第1830-1831章 真灵大典切磋：韩立战陇家老祖、劳家挑战 · kind=plot asOf=2026-06-21 entities=23 relations=30 src=01819-01824.p3.md
+- **2026-06-21T06:38:29.399Z** `ingest` plot.fanren-1825-1830-jinshen-yeyi-xilingchi — 凡人修仙传 第1825-1830章｜金身逞威·夜议深入魔界取洗灵池净灵莲 · kind=plot asOf=2026-06-21 entities=52 relations=62 src=01825-01830.md
