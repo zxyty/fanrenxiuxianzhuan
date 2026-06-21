@@ -6,12 +6,13 @@
     "万灵榜",
     "百丈金银符文玉璧",
     "混沌万灵宝",
-    "金银符文玉璧"
+    "金银符文玉璧",
+    "混沌万灵榜副本"
   ],
   "summary": "灵界灵宝威能榜单，唯威能前百的真正通天灵宝方能占有一席；八灵尺、七焰扇等未能上榜。",
   "attributes": {
-    "类型": "灵宝榜单/名录、灵宝排名榜单、灵宝榜单、宝物榜单、灵宝排行榜单、宝物排行榜单",
-    "用途": "记录通灵的玄天之物与通天灵宝"
+    "类型": "灵宝榜单/名录、灵宝排名榜单、灵宝榜单、宝物榜单、灵宝排行榜单、宝物排行榜单、天外奇石榜单",
+    "用途": "记载灵界天地灵物与后天至宝"
   },
   "observations": {
     "类型": [
@@ -44,6 +45,11 @@
         "value": "宝物排行榜单",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "天外奇石榜单",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ],
     "用途": [
@@ -51,6 +57,11 @@
         "value": "记录通灵的玄天之物与通天灵宝",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "记载灵界天地灵物与后天至宝",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ]
   },
@@ -64,9 +75,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1351
+      "seq": 1705
     }
   },
   "contested": false,
@@ -78,7 +89,8 @@
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1323-xuantian-guoshi",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1504-cuijingzhuan"
+    "plot.fanren-1504-cuijingzhuan",
+    "plot.fanren-1705-1710-ding-zhong-qu-bao"
   ],
-  "updatedAt": "2026-06-20T13:50:49.627Z"
+  "updatedAt": "2026-06-21T03:24:53.920Z"
 }

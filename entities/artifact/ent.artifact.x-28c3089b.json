@@ -7,8 +7,9 @@
   ],
   "summary": "主殿尽头螺旋云纹的金色古鼎，隔绝神念，两侧各有方形凹槽，疑为盛放虚灵丹之器。",
   "attributes": {
-    "禁制": "隔绝神念",
-    "外形": "金色螺旋云纹古鼎带双凹槽"
+    "禁制": "开启时放金色漩涡光易摄人心神",
+    "外形": "金色长方、两端龙首凤首",
+    "能力": "储宝、开启需玲珑钥"
   },
   "observations": {
     "禁制": [
@@ -16,6 +17,11 @@
         "value": "隔绝神念",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "开启时放金色漩涡光易摄人心神",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ],
     "外形": [
@@ -23,6 +29,18 @@
         "value": "金色螺旋云纹古鼎带双凹槽",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "金色长方、两端龙首凤首",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      }
+    ],
+    "能力": [
+      {
+        "value": "储宝、开启需玲珑钥",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ]
   },
@@ -30,21 +48,28 @@
   "attrProvenance": {
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1699
+      "seq": 1705
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1699
+      "seq": 1705
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1705-1710-ding-zhong-qu-bao"
   ],
-  "updatedAt": "2026-06-21T03:16:50.252Z"
+  "updatedAt": "2026-06-21T03:24:53.915Z"
 }

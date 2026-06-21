@@ -5,13 +5,19 @@
   "aliases": [
     "九曲灵参元神",
     "雪白衣裙女童",
-    "芝仙元神"
+    "芝仙元神",
+    "曲儿丫头",
+    "白衣女童",
+    "白裙女童"
   ],
   "summary": "九曲灵参元神所化的六七岁女童，灵智初开，可入芝仙躯壳代炼灵力，将随韩立入广寒界。",
   "attributes": {
     "种族": "天地灵物(九曲灵参所化)",
-    "外貌": "雪白衣裙、头扎九条黑辫的六七岁女童",
-    "性格": "纯真胆怯"
+    "外貌": "六七岁扎小辫圆脸白裙女童",
+    "性格": "纯真胆怯",
+    "性别": "女",
+    "身份": "韩立之婢",
+    "标志特征": "擅遁术、隐匿神通"
   },
   "observations": {
     "种族": [
@@ -27,6 +33,11 @@
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663,
         "note": "元神化形"
+      },
+      {
+        "value": "六七岁扎小辫圆脸白裙女童",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ],
     "性格": [
@@ -34,6 +45,27 @@
         "value": "纯真胆怯",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      }
+    ],
+    "身份": [
+      {
+        "value": "韩立之婢",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "擅遁术、隐匿神通",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ]
   },
@@ -47,23 +79,41 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1663,
-      "note": "元神化形"
+      "seq": 1705
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
       "seq": 1663
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1667-1672-guanghan-jie-entry",
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1705-1710-ding-zhong-qu-bao"
   ],
-  "updatedAt": "2026-06-21T03:16:50.233Z"
+  "updatedAt": "2026-06-21T03:24:53.934Z"
 }

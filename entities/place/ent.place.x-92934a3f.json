@@ -2,11 +2,17 @@
   "id": "ent.place.x-92934a3f",
   "type": "place",
   "name": "须弥洞天",
-  "aliases": [],
+  "aliases": [
+    "屏风空间",
+    "屏风中无名空间",
+    "无名空间"
+  ],
   "summary": "由须弥洞天图开辟的内部空间，天地元气被店主抽尽后崩裂溃散。",
   "attributes": {
-    "类型": "须弥空间",
-    "危险度": "崩裂溃散"
+    "类型": "须弥洞天/秘境",
+    "危险度": "崩裂溃散",
+    "所属界面": "灵界",
+    "守护": "黑色巨门禁制、星空图幻阵、九具银色甲士"
   },
   "observations": {
     "类型": [
@@ -14,6 +20,11 @@
         "value": "须弥空间",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "须弥洞天/秘境",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ],
     "危险度": [
@@ -22,27 +33,64 @@
         "docId": "plot.fanren-1425",
         "seq": 1423
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      }
+    ],
+    "守护": [
+      {
+        "value": "黑色巨门禁制",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      },
+      {
+        "value": "星空图幻阵",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      },
+      {
+        "value": "九具银色甲士",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
+      }
     ]
   },
   "firstSeq": 1423,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1425",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1423
+      "seq": 1705
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.fanren-1425",
       "dated": false,
       "seq": 1423
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "dated": false,
+      "seq": 1705
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1705-1710-ding-zhong-qu-bao"
   ],
-  "updatedAt": "2026-06-20T11:37:56.505Z"
+  "updatedAt": "2026-06-21T03:24:53.954Z"
 }

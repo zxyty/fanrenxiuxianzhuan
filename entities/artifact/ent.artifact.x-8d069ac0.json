@@ -11,13 +11,14 @@
     "魔甲",
     "紫色魔甲",
     "迷你天外魔甲",
-    "黑色符文护甲"
+    "黑色符文护甲",
+    "狰狞黑甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "第二元婴",
     "能力": "符文护罩防御",
-    "外形": "黑色符文护甲带倒刺",
+    "外形": "狰狞黑甲",
     "来历": "天外魔头之物，疑大有来历",
     "品阶": "极高",
     "禁制": "存裂痕待修补"
@@ -93,6 +94,11 @@
         "value": "黑色符文护甲带倒刺",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "狰狞黑甲",
+        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+        "seq": 1705
       }
     ],
     "来历": [
@@ -165,9 +171,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
-      "seq": 1699
+      "seq": 1705
     },
     "来历": {
       "asOf": null,
@@ -204,7 +210,8 @@
     "plot.fanren-1657-1662-kuajie-monian-yunzu",
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1693-1703-xianren-palace-climb",
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1705-1710-ding-zhong-qu-bao"
   ],
-  "updatedAt": "2026-06-21T03:16:50.240Z"
+  "updatedAt": "2026-06-21T03:24:53.943Z"
 }
