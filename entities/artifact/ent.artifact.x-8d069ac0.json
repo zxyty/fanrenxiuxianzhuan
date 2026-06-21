@@ -17,7 +17,7 @@
     "外形": "紫色全身甲、白水晶双目",
     "来历": "天外魔（君）相关",
     "品阶": "极高",
-    "禁制": "需以圣阶魔核炼制修补"
+    "禁制": "存裂痕待修补"
   },
   "observations": {
     "持有者": [
@@ -102,6 +102,11 @@
         "value": "需以圣阶魔核炼制修补",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "存裂痕待修补",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ]
   },
@@ -140,9 +145,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1645
+      "seq": 1651
     }
   },
   "contested": false,
@@ -155,7 +160,8 @@
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1643-de-jing",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.575Z"
+  "updatedAt": "2026-06-21T02:32:02.939Z"
 }

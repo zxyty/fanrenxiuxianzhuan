@@ -11,13 +11,14 @@
     "青色麒麟法相",
     "纤纤仙子",
     "经族女子",
-    "千仙子"
+    "千仙子",
+    "温婉俏丽女子"
   ],
   "summary": "晶族女子，售予韩立天外魔甲并提供修补之法与魔金山脉圣阶魔兽情报；驯有魔烟鸟。",
   "attributes": {
     "性别": "女",
     "种族": "晶族",
-    "身份": "炼器/修补天外魔甲者",
+    "身份": "炼器师",
     "道号": "纤纤",
     "标志特征": "可分化数十白色光球藏真身",
     "小阶段": "修为近瓶颈、炼虚（修为偏低）",
@@ -76,6 +77,11 @@
         "value": "炼器/修补天外魔甲者",
         "docId": "plot.fanren-1643-de-jing",
         "seq": 1639
+      },
+      {
+        "value": "炼器师",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "道号": [
@@ -170,9 +176,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1643-de-jing",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1639
+      "seq": 1651
     },
     "道号": {
       "asOf": null,
@@ -230,7 +236,8 @@
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1643-de-jing",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.570Z"
+  "updatedAt": "2026-06-21T02:32:02.938Z"
 }

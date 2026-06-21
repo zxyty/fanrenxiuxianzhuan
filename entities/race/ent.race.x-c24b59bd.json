@@ -4,13 +4,15 @@
   "name": "晶族",
   "aliases": [
     "晶族人",
-    "晶族一族"
+    "晶族一族",
+    "晶族一脉"
   ],
   "summary": "天云十三族之一，族人稀少、寿元为人族三四倍、容貌俊美智慧极高，精于炼丹阵法符箓，颇受诸族欢迎。",
   "attributes": {
     "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲、聪慧绝顶、眉间晶石、天赋不高、进境较慢、体质奇特、真灵之血效用有限",
     "代表人物": "彩仙子",
-    "阵营": "天云十三族"
+    "阵营": "天云十三族",
+    "天赋神通": "炼器之术"
   },
   "observations": {
     "特性": [
@@ -68,6 +70,13 @@
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
       }
+    ],
+    "天赋神通": [
+      {
+        "value": "炼器之术",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      }
     ]
   },
   "firstSeq": 1573,
@@ -89,6 +98,12 @@
       "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
       "seq": 1585
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "dated": false,
+      "seq": 1651
     }
   },
   "contested": false,
@@ -106,7 +121,8 @@
     "plot.fanren-1619-shalu-mojin-shanmai",
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
     "plot.fanren-ch1637-tulao-wugong",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.577Z"
+  "updatedAt": "2026-06-21T02:32:02.938Z"
 }

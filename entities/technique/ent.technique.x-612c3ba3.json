@@ -3,13 +3,15 @@
   "type": "technique",
   "name": "玄天炼器术",
   "aliases": [
-    "玄天炼器秘术"
+    "玄天炼器秘术",
+    "玄天炼器之法"
   ],
   "summary": "以银蝌文记载于血床的逆天炼器秘术，自称可炼出比肩玄天之宝的宝物，含炼日、熔海等真仙级手段，为金阙玉书一页内容。",
   "attributes": {
-    "出处": "金阙玉书（银蝌文）",
-    "效果": "炼制可比肩玄天之宝的宝物",
-    "修炼条件": "需真仙界真仙之能"
+    "出处": "金阙玉书外页",
+    "效果": "记载离合极山、元合五极山等后天玄天之宝炼制法",
+    "修炼条件": "需真仙界真仙之能",
+    "适用境界": "合体期以上（炼制后天玄天之宝）"
   },
   "observations": {
     "出处": [
@@ -17,6 +19,11 @@
         "value": "金阙玉书（银蝌文）",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "金阙玉书外页",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "效果": [
@@ -24,6 +31,11 @@
         "value": "炼制可比肩玄天之宝的宝物",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "记载离合极山、元合五极山等后天玄天之宝炼制法",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "修炼条件": [
@@ -33,21 +45,28 @@
         "seq": 1627,
         "note": "韩立现阶段无法施展，仅借鉴参悟"
       }
+    ],
+    "适用境界": [
+      {
+        "value": "合体期以上（炼制后天玄天之宝）",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      }
     ]
   },
   "firstSeq": 1627,
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1627
+      "seq": 1651
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1627
+      "seq": 1651
     },
     "修炼条件": {
       "asOf": null,
@@ -55,12 +74,19 @@
       "dated": false,
       "seq": 1627,
       "note": "韩立现阶段无法施展，仅借鉴参悟"
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "dated": false,
+      "seq": 1651
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T01:36:21.019Z"
+  "updatedAt": "2026-06-21T02:32:02.906Z"
 }

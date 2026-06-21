@@ -8,7 +8,7 @@
   "summary": "身披紫色战甲、持玄天之宝残刃的圣阶(合体中期)魔兽，具山岳猿血脉、天生灵目神通，会魂体分元大法；本片段被韩立以玄天之剑诛灭。",
   "attributes": {
     "种族": "山岳猿(血脉)",
-    "等级": "圣阶/合体中期",
+    "等级": "圣阶",
     "血脉": "山岳猿",
     "能力": "巨力、灵目神通、魂体分元、幻化山岳巨猿法相、神通不下三魔",
     "外形": "三独角、阔口獠牙、双臂过膝、披紫甲"
@@ -26,6 +26,11 @@
         "value": "圣阶/合体中期",
         "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
         "seq": 1621
+      },
+      {
+        "value": "圣阶",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "血脉": [
@@ -80,9 +85,9 @@
     },
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1621
+      "seq": 1651
     },
     "血脉": {
       "asOf": null,
@@ -107,7 +112,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.537Z"
+  "updatedAt": "2026-06-21T02:32:02.941Z"
 }

@@ -8,16 +8,19 @@
     "白蟒傀儡",
     "白袍女子傀儡",
     "娃娃",
-    "白蛇"
+    "白蛇",
+    "白蒙蒙白蛇",
+    "通灵傀儡娃娃",
+    "散寒气女子傀儡"
   ],
   "summary": "甲天木所赠新型通灵傀儡，上族七阶，可在白蛇/白蟒与白袍女子两形态间变化，需冰属性灵石驱动。",
   "attributes": {
-    "品阶": "上族七阶",
+    "品阶": "炼虚初阶神通",
     "持有者": "韩立",
-    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜",
+    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜、玄冰之体/冰属性、可穿越洞府禁制、炼虚初期实力、可执行简单命令",
     "禁制": "滴血认主后他人无法操纵",
     "来历": "甲天木亲手炼制",
-    "外形": "尺许白蛇，晶莹剔透；或眉目如画白袍女子、白蛇、面无表情的白衣女子",
+    "外形": "尺许白蛇，晶莹剔透；或眉目如画白袍女子、白蛇、面无表情的白衣女子、尺许白蛇、英姿貌美女子、面无表情女子、散发寒气",
     "器灵": "娃娃"
   },
   "observations": {
@@ -26,6 +29,11 @@
         "value": "上族七阶",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "炼虚初阶神通",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "持有者": [
@@ -45,6 +53,21 @@
         "value": "对敌或为婢皆宜",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "玄冰之体/冰属性",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "可穿越洞府禁制",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "炼虚初期实力、可执行简单命令",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "禁制": [
@@ -76,6 +99,21 @@
         "value": "面无表情的白衣女子",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "尺许白蛇",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "英姿貌美女子",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "面无表情女子、散发寒气",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "器灵": [
@@ -90,9 +128,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1579
+      "seq": 1651
     },
     "持有者": {
       "asOf": null,
@@ -134,7 +172,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-20T15:58:07.109Z"
+  "updatedAt": "2026-06-21T02:32:02.937Z"
 }

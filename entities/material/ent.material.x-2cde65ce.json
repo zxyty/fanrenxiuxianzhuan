@@ -2,11 +2,14 @@
   "id": "ent.material.x-2cde65ce",
   "type": "material",
   "name": "圣阶魔核",
-  "aliases": [],
+  "aliases": [
+    "魔猿魔核",
+    "黑色水晶魔核"
+  ],
   "summary": "韩立此行所得宝物，交予纤纤先行处理炼制以修补天外魔甲。",
   "attributes": {
     "类型": "魔核",
-    "用途": "修补天外魔甲",
+    "用途": "炼化修补天外魔甲",
     "稀有度": "极高"
   },
   "observations": {
@@ -22,6 +25,11 @@
         "value": "修补天外魔甲",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "炼化修补天外魔甲",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "稀有度": [
@@ -42,9 +50,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1645
+      "seq": 1651
     },
     "稀有度": {
       "asOf": null,
@@ -56,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.576Z"
+  "updatedAt": "2026-06-21T02:32:02.940Z"
 }

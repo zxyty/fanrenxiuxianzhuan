@@ -9,14 +9,17 @@
     "真麟之念",
     "真麟本源之力",
     "真麟本源力量",
-    "本源"
+    "本源",
+    "真源晶粒",
+    "本源晶粒",
+    "晶粒"
   ],
   "summary": "诞生真灵的本源之力，服之可助晶族乃至木头飞升真仙界，被穴灵吞入体内，为三方争夺焦点。",
   "attributes": {
-    "类型": "真灵本源之力、本源之力、本源力量、本源之物",
-    "用途": "助飞升真仙界/蜕化真龙之躯、脱胎换骨/助进阶合体、助进阶合体",
+    "类型": "真灵本源之力、本源之力、本源力量、本源之物、残余混沌之气/真灵级真元",
+    "用途": "助飞升真仙界/蜕化真龙之躯、脱胎换骨/助进阶合体、助进阶合体、脱胎换骨、修为大进、进阶合体",
     "稀有度": "逆天/极稀",
-    "产地": "真灵之穴"
+    "产地": "天地真灵分化"
   },
   "observations": {
     "类型": [
@@ -39,6 +42,11 @@
         "value": "本源之物",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "残余混沌之气/真灵级真元",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "用途": [
@@ -56,6 +64,11 @@
         "value": "助进阶合体",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "脱胎换骨、修为大进、进阶合体",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "稀有度": [
@@ -75,6 +88,11 @@
         "value": "真灵之穴",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "天地真灵分化",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ]
   },
@@ -100,16 +118,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1633
+      "seq": 1651
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
-    "plot.fanren-ch1637-tulao-wugong"
+    "plot.fanren-ch1637-tulao-wugong",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T01:48:19.389Z"
+  "updatedAt": "2026-06-21T02:32:02.921Z"
 }

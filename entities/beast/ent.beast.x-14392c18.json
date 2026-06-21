@@ -9,15 +9,19 @@
     "通灵灵芝",
     "化形灵芝",
     "紫光怪物",
-    "灵物"
+    "灵物",
+    "化形灵药芝仙",
+    "紫色巨芝",
+    "翠绿人形怪物"
   ],
   "summary": "罕见修炼到人形的灵药，精通土木两种遁术并修成浮光化影远遁神通；击伤一名修炼者后被金元禁光反击，逃入魔金山脉，其灵仙血价值连城。",
   "attributes": {
-    "种族": "灵药化形",
-    "能力": "土木遁术、浮光化影远遁神通、遁术、隐匿、特殊神通、幻化四肢（未完成）、炼身外化身/寄附元神",
+    "种族": "灵药成灵/天地灵物",
+    "能力": "土木遁术、浮光化影远遁神通、遁术、隐匿、特殊神通、幻化四肢（未完成）、炼身外化身/寄附元神、化形人形、自愈疗伤、元神分裂秘术、缩魂类秘术、木灵气亲灵",
     "栖息地": "魔金山脉、魔金山脉外围",
     "外形": "翠绿脸孔紫根须、枯木黄甲、紫色符文",
-    "等级": "与化形魔魈同等"
+    "等级": "与化形魔魈同等",
+    "主人": "韩立"
   },
   "observations": {
     "种族": [
@@ -25,6 +29,11 @@
         "value": "灵药化形",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "灵药成灵/天地灵物",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "能力": [
@@ -62,6 +71,31 @@
         "value": "炼身外化身/寄附元神",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "化形人形",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "自愈疗伤",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "元神分裂秘术",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "缩魂类秘术",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      },
+      {
+        "value": "木灵气亲灵",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "栖息地": [
@@ -100,15 +134,23 @@
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
       }
+    ],
+    "主人": [
+      {
+        "value": "韩立",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651,
+        "note": "被擒获并威逼合作"
+      }
     ]
   },
   "firstSeq": 1603,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1603
+      "seq": 1651
     },
     "能力": {
       "asOf": null,
@@ -134,6 +176,13 @@
       "docId": "plot.fanren-1649-san-mo",
       "dated": false,
       "seq": 1645
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "dated": false,
+      "seq": 1651,
+      "note": "被擒获并威逼合作"
     }
   },
   "contested": false,
@@ -145,7 +194,8 @@
     "plot.fanren-1619-shalu-mojin-shanmai",
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1643-de-jing",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.556Z"
+  "updatedAt": "2026-06-21T02:32:02.934Z"
 }

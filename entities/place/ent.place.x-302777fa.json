@@ -10,9 +10,10 @@
   "summary": "神手谷内的药材园圃，韩立在此取材配药、试药兔，绿液溅及数株药草。",
   "attributes": {
     "所属势力": "韩立洞府",
-    "类型": "灵药园",
-    "特产": "千结花、黑芍草、金精参、玄天仙藤、九曲灵参",
-    "守护": "粗浅法阵（黄令牌控制）"
+    "类型": "洞府药园",
+    "特产": "千结花、黑芍草、金精参、玄天仙藤、九曲灵参、万年以上灵药",
+    "守护": "粗浅法阵（黄令牌控制）",
+    "所属界面": "灵界"
   },
   "observations": {
     "所属势力": [
@@ -67,6 +68,11 @@
         "value": "宗门药园",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "洞府药园",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "特产": [
@@ -94,6 +100,11 @@
         "value": "九曲灵参",
         "docId": "plot.fanren-ch1245-jinghuo-xian",
         "seq": 1243
+      },
+      {
+        "value": "万年以上灵药",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
       }
     ],
     "守护": [
@@ -107,6 +118,13 @@
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+        "seq": 1651
+      }
     ]
   },
   "firstSeq": 19,
@@ -119,9 +137,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1245-sun-essence-fire-appears",
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
-      "seq": 1243
+      "seq": 1651
     },
     "特产": {
       "asOf": null,
@@ -134,6 +152,12 @@
       "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
       "seq": 601
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "dated": false,
+      "seq": 1651
     }
   },
   "contested": false,
@@ -151,7 +175,8 @@
     "plot.fanren-ch392-yuchong",
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
   ],
-  "updatedAt": "2026-06-20T06:29:35.986Z"
+  "updatedAt": "2026-06-21T02:32:02.943Z"
 }
