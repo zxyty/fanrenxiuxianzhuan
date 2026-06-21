@@ -2,13 +2,16 @@
   "id": "ent.person.x-62fa2e37",
   "type": "person",
   "name": "青龙上人",
-  "aliases": [],
+  "aliases": [
+    "青龙道友",
+    "青龙"
+  ],
   "summary": "人族修士，已复人形、面色苍白，与羊首擎天巨兽联手对阵黑甲大汉及不死魔族，勉强自保。",
   "attributes": {
     "阵营": "人族",
     "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔",
-    "身份": "九星宗合体修士",
-    "小阶段": "合体",
+    "身份": "四大宗门太上长老",
+    "小阶段": "合体期",
     "外貌": "黄袍儒生"
   },
   "observations": {
@@ -16,7 +19,7 @@
       {
         "value": "人族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1891
       }
     ],
     "标志特征": [
@@ -41,6 +44,11 @@
         "value": "九星宗合体修士",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "四大宗门太上长老",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
     "小阶段": [
@@ -48,6 +56,11 @@
         "value": "合体",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
     "外貌": [
@@ -64,7 +77,7 @@
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1891
     },
     "标志特征": {
       "asOf": null,
@@ -74,15 +87,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1885
+      "seq": 1891
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1885
+      "seq": 1891
     },
     "外貌": {
       "asOf": null,
@@ -96,7 +109,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1898-1903-yitiancheng-war"
+    "plot.fanren-1898-1903-yitiancheng-war",
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-21T08:08:00.245Z"
+  "updatedAt": "2026-06-21T08:19:48.803Z"
 }

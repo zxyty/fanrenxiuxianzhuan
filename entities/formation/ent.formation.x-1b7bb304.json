@@ -9,9 +9,9 @@
   ],
   "summary": "倚天城镇城大阵，四大宗门集十几名阵法宗师耗千年研创，吸纳天地阳力越多威能越强，全盛可击杀魔尊。",
   "attributes": {
-    "效果": "吸纳天地阳力增威、全盛可击杀魔尊、调动迟缓",
+    "效果": "吸纳天地阳力增威、全盛可击杀魔尊、调动迟缓、护城/借七阳之力",
     "布置者": "倚天城四大宗门",
-    "破解法": "五阳化月之日天地阳力大减则失效"
+    "破解法": "五阳化月之日失效"
   },
   "observations": {
     "效果": [
@@ -29,6 +29,11 @@
         "value": "调动迟缓",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "护城/借七阳之力",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
     "布置者": [
@@ -43,6 +48,11 @@
         "value": "五阳化月之日天地阳力大减则失效",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "五阳化月之日失效",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ]
   },
@@ -62,15 +72,16 @@
     },
     "破解法": {
       "asOf": null,
-      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1885
+      "seq": 1891
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1898-1903-yitiancheng-war"
+    "plot.fanren-1898-1903-yitiancheng-war",
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-21T08:08:00.259Z"
+  "updatedAt": "2026-06-21T08:19:48.821Z"
 }

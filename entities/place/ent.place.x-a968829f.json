@@ -4,21 +4,23 @@
   "name": "倚天城",
   "aliases": [
     "倚天城巨墙",
-    "倚天门四大宗门联合城池"
+    "倚天门四大宗门联合城池",
+    "此城"
   ],
   "summary": "魔界之战中人族据守的城池，依仗各种禁制抵御魔族进攻。",
   "attributes": {
-    "类型": "城池、战场城池、宗门联合据点、人族城池、人族城市",
-    "守护": "各种禁制、四大宗门、九阳罡日绝阵、铜甲傀儡大军",
+    "类型": "城池、战场城池、宗门联合据点、人族城池、人族城市、人族据点/巨城",
+    "守护": "各种禁制、四大宗门、九阳罡日绝阵、铜甲傀儡大军、九阳罡日大阵、金傀儡、子母连环大阵",
     "所属界面": "灵界",
-    "所属势力": "魔族"
+    "所属势力": "魔族",
+    "危险度": "高"
   },
   "observations": {
     "类型": [
       {
         "value": "城池",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1891
       },
       {
         "value": "战场城池",
@@ -39,6 +41,11 @@
         "value": "人族城市",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "人族据点/巨城",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
     "守护": [
@@ -61,6 +68,21 @@
         "value": "铜甲傀儡大军",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "九阳罡日大阵",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      },
+      {
+        "value": "金傀儡",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      },
+      {
+        "value": "子母连环大阵",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
     "所属界面": [
@@ -90,6 +112,18 @@
         "value": "倚天门等四大宗门",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "四大宗门",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ]
   },
@@ -118,6 +152,12 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
     }
   },
   "contested": false,
@@ -128,7 +168,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
     "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
-    "plot.fanren-1898-1903-yitiancheng-war"
+    "plot.fanren-1898-1903-yitiancheng-war",
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-21T08:08:00.248Z"
+  "updatedAt": "2026-06-21T08:19:48.818Z"
 }

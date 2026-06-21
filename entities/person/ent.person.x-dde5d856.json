@@ -1,38 +1,36 @@
 {
-  "id": "ent.person.x-178dad6a",
+  "id": "ent.person.x-dde5d856",
   "type": "person",
-  "name": "冥罗圣祖",
-  "aliases": [],
-  "summary": "圣界圣祖之一，黑渊鳄当年的主人，与三魔之圣祖有交情。",
+  "name": "冷刃",
+  "aliases": [
+    "冰冷少年冷刃"
+  ],
+  "summary": "雪天圣祖嫡系后人，年少而有冰寒神通，曾受雪天大人称赞。",
   "attributes": {
-    "身份": "圣祖",
-    "出身地": "圣界",
     "种族": "魔族",
-    "阵营": "魔族"
+    "身份": "雪天圣祖嫡系后人",
+    "性格": "冷漠",
+    "阵营": "魔族",
+    "外貌": "面无表情的少年"
   },
   "observations": {
-    "身份": [
+    "种族": [
       {
-        "value": "圣界圣祖",
-        "docId": "plot.fanren-1649-san-mo",
-        "seq": 1645
-      },
-      {
-        "value": "圣祖",
+        "value": "魔族",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
       }
     ],
-    "出身地": [
+    "身份": [
       {
-        "value": "圣界",
-        "docId": "plot.fanren-1649-san-mo",
-        "seq": 1645
+        "value": "雪天圣祖嫡系后人",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ],
-    "种族": [
+    "性格": [
       {
-        "value": "魔族",
+        "value": "冷漠",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
       }
@@ -43,23 +41,30 @@
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
       }
+    ],
+    "外貌": [
+      {
+        "value": "面无表情的少年",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
     ]
   },
-  "firstSeq": 1645,
+  "firstSeq": 1891,
   "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    },
     "身份": {
       "asOf": null,
       "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
       "seq": 1891
     },
-    "出身地": {
-      "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
-      "dated": false,
-      "seq": 1645
-    },
-    "种族": {
+    "性格": {
       "asOf": null,
       "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
@@ -70,13 +75,18 @@
       "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
       "seq": 1891
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo",
     "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-21T08:19:48.816Z"
+  "updatedAt": "2026-06-21T08:19:48.806Z"
 }

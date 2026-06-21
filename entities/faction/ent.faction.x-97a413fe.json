@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-97a413fe",
+  "type": "faction",
+  "name": "四大宗门",
+  "aliases": [],
+  "summary": "镇守倚天城的人族顶尖联合势力，仅存两名大乘修士，林鸾仙子与青龙上人为其太上长老。",
+  "attributes": {
+    "阵营": "人族",
+    "据点": "倚天城"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "据点": [
+      {
+        "value": "倚天城",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ]
+  },
+  "firstSeq": 1891,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+  ],
+  "updatedAt": "2026-06-21T08:19:48.820Z"
+}

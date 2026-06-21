@@ -3,7 +3,8 @@
   "type": "person",
   "name": "车骑恭",
   "aliases": [
-    "墨绿长袍老者"
+    "墨绿长袍老者",
+    "车骑恭老者"
   ],
   "summary": "被困镇魔锁的魔界圣祖，自称寿元最久者之一，紫言鼎原主，与血光有深仇，与韩立做交易换助力。",
   "attributes": {
@@ -11,7 +12,9 @@
     "阵营": "魔界",
     "标志特征": "元神被困镇魔锁中",
     "种族": "魔族",
-    "身份": "魔族圣祖"
+    "身份": "魔族圣祖",
+    "外貌": "绿袍老者",
+    "性格": "狡诈"
   },
   "observations": {
     "称号": [
@@ -47,10 +50,29 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "困于镇魔锁内之人",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "外貌": [
+      {
+        "value": "绿袍老者",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "性格": [
+      {
+        "value": "狡诈",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ]
   },
-  "firstSeq": 1909,
+  "firstSeq": 1891,
   "attrProvenance": {
     "称号": {
       "asOf": null,
@@ -81,13 +103,26 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-17T03:26:19.741Z"
+  "updatedAt": "2026-06-21T08:19:48.746Z"
 }

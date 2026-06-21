@@ -1,38 +1,33 @@
 {
-  "id": "ent.person.x-178dad6a",
+  "id": "ent.person.x-fef6cbee",
   "type": "person",
-  "name": "冥罗圣祖",
+  "name": "烟尊者",
   "aliases": [],
-  "summary": "圣界圣祖之一，黑渊鳄当年的主人，与三魔之圣祖有交情。",
+  "summary": "出身火元城的魔族尊者，攻城尊者中最弱者。",
   "attributes": {
-    "身份": "圣祖",
-    "出身地": "圣界",
     "种族": "魔族",
+    "身份": "尊者",
+    "出身地": "火元城",
     "阵营": "魔族"
   },
   "observations": {
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
     "身份": [
       {
-        "value": "圣界圣祖",
-        "docId": "plot.fanren-1649-san-mo",
-        "seq": 1645
-      },
-      {
-        "value": "圣祖",
+        "value": "尊者",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
       }
     ],
     "出身地": [
       {
-        "value": "圣界",
-        "docId": "plot.fanren-1649-san-mo",
-        "seq": 1645
-      }
-    ],
-    "种族": [
-      {
-        "value": "魔族",
+        "value": "火元城",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
       }
@@ -45,8 +40,14 @@
       }
     ]
   },
-  "firstSeq": 1645,
+  "firstSeq": 1891,
   "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    },
     "身份": {
       "asOf": null,
       "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
@@ -54,12 +55,6 @@
       "seq": 1891
     },
     "出身地": {
-      "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
-      "dated": false,
-      "seq": 1645
-    },
-    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
@@ -75,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo",
     "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-21T08:19:48.816Z"
+  "updatedAt": "2026-06-21T08:19:48.808Z"
 }

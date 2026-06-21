@@ -7,10 +7,12 @@
   ],
   "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
   "attributes": {
-    "持有者": "韩立",
+    "持有者": "血光圣祖",
     "品阶": "玄天灵宝(未完成)",
     "外形": "金银符文镶嵌的白色木盒",
-    "禁制": "神念化身入内无法脱身；内有多重禁制"
+    "禁制": "神念化身入内无法脱身；内有多重禁制",
+    "能力": "蕴含混沌阴阳二气",
+    "来历": "血光圣祖交付三名尊者"
   },
   "observations": {
     "持有者": [
@@ -22,7 +24,7 @@
       {
         "value": "韩立",
         "docId": "plot.fanren-1923-blood-saint-descends",
-        "seq": 1909
+        "seq": 1891
       }
     ],
     "品阶": [
@@ -37,6 +39,12 @@
         "value": "金银符文镶嵌的白色木盒",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "封印后化为金光长方金砖",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891,
+        "note": "韩立以符箓加金色雷网封印后"
       }
     ],
     "禁制": [
@@ -44,16 +52,35 @@
         "value": "神念化身入内无法脱身；内有多重禁制",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "十三层禁制（车骑恭已破解至最后三层）",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "能力": [
+      {
+        "value": "蕴含混沌阴阳二气",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
+      }
+    ],
+    "来历": [
+      {
+        "value": "血光圣祖交付三名尊者",
+        "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+        "seq": 1891
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1891,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1909
+      "seq": 1903
     },
     "品阶": {
       "asOf": null,
@@ -72,13 +99,26 @@
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
       "seq": 1909
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "dated": false,
+      "seq": 1891
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1891-1896-zhenmosuo-chejigong"
   ],
-  "updatedAt": "2026-06-17T03:11:34.318Z"
+  "updatedAt": "2026-06-21T08:19:48.766Z"
 }
