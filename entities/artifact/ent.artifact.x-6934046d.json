@@ -8,7 +8,8 @@
   "summary": "魔界鼎鼎大名的飞行异宝，全力催动可与大乘修士遁速一决高下；血光化身三人乘之追杀韩立。",
   "attributes": {
     "来历": "魔界",
-    "能力": "全力遁速可比大乘修士"
+    "能力": "全力遁速可比大乘修士、飞行、血色光罩防御、卷动血海巨浪",
+    "外形": "血色小舟"
   },
   "observations": {
     "来历": [
@@ -23,6 +24,28 @@
         "value": "全力遁速可比大乘修士",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "飞行",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "血色光罩防御",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "卷动血海巨浪",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      }
+    ],
+    "外形": [
+      {
+        "value": "血色小舟",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ]
   },
@@ -39,12 +62,19 @@
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
       "seq": 1909
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+      "dated": false,
+      "seq": 1915
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-17T03:11:34.321Z"
+  "updatedAt": "2026-06-21T09:04:03.829Z"
 }

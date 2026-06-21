@@ -8,12 +8,14 @@
     "紫言鼎小鼎",
     "紫呼呼圆形东西",
     "紫色小鼮",
-    "此鼎"
+    "此鼎",
+    "紫言赝鼎",
+    "紫言宝鼎"
   ],
   "summary": "血光圣祖之宝，紫色小鼎散淡黑光，韩立欲收取时被圣祖紫色雷电劈毁/收回。",
   "attributes": {
-    "持有者": "韩立",
-    "外形": "紫色小鼎、数寸迷你紫色小鼎，体表附文、外笼黑气、紫色巨鼎，鼎口浮现盾/弹/反/吸等古文符文、散黑光的紫色小鼎、可大可小的紫色宝鼎",
+    "持有者": "血光圣祖、血光圣祖（化身）、韩立、中年美妇、血光圣祖化身",
+    "外形": "紫色小鼎、数寸迷你紫色小鼎，体表附文、外笼黑气、紫色巨鼎，鼎口浮现盾/弹/反/吸等古文符文、散黑光的紫色小鼎、可大可小的紫色宝鼎、黑色小鼎",
     "品阶": "玄天残宝、至宝",
     "能力": "喷黑色光柱、复制攻击、反射攻击、吸力定身、黑色符文困敌（网字）、黑色飓风破阵（破字）、紫光幕护体吸攻",
     "禁制": "内藏血光圣祖一缕神念",
@@ -42,6 +44,12 @@
         "value": "中年美妇",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "血光圣祖化身",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915,
+        "note": "本战失控"
       }
     ],
     "外形": [
@@ -69,6 +77,11 @@
         "value": "可大可小的紫色宝鼎",
         "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
+      },
+      {
+        "value": "黑色小鼎",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ],
     "品阶": [
@@ -140,9 +153,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1921
+      "seq": 1897
     },
     "外形": {
       "asOf": null,
@@ -185,7 +198,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1911-yitian-war-2",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-21T08:55:10.662Z"
+  "updatedAt": "2026-06-21T09:04:03.842Z"
 }

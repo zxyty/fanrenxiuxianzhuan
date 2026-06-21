@@ -4,13 +4,14 @@
   "name": "彩光塔",
   "aliases": [
     "采光塔",
-    "七色光球"
+    "七色光球",
+    "小塔"
   ],
   "summary": "玄天残宝，能摄取生灵，威能逆天难破；可用空间类宝物自爆或稳定空间的符箓拖延其威能。",
   "attributes": {
     "品阶": "玄天残宝",
-    "持有者": "血光圣祖（化身）",
-    "能力": "摄取生灵、空间神通/瞬移、七色飓风（现金篆文）、蕴含法则之力的七色光晕",
+    "持有者": "血光圣祖、血光圣祖（化身）、血光圣祖化身",
+    "能力": "摄取生灵、空间神通/瞬移、七色飓风（现金篆文）、蕴含法则之力的七色光晕、七色光晕防御、空间神通、塔影飞遁",
     "外形": "七色宝塔",
     "禁制": "本章被剑海/符阵镇困，灵性受损"
   },
@@ -33,6 +34,12 @@
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915,
         "note": "隔界降临灵界"
+      },
+      {
+        "value": "血光圣祖化身",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915,
+        "note": "本片段"
       }
     ],
     "能力": [
@@ -54,6 +61,21 @@
       {
         "value": "蕴含法则之力的七色光晕",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "七色光晕防御",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "空间神通",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "塔影飞遁",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
         "seq": 1915
       }
     ],
@@ -82,10 +104,9 @@
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+      "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
-      "seq": 1915,
-      "note": "隔界降临灵界"
+      "seq": 1909
     },
     "能力": {
       "asOf": null,
@@ -111,7 +132,8 @@
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-21T08:55:10.663Z"
+  "updatedAt": "2026-06-21T09:04:03.841Z"
 }

@@ -8,14 +8,16 @@
     "七色小塔",
     "迷你宝塔",
     "七色光霞",
-    "七色霞光宝塔"
+    "七色霞光宝塔",
+    "七色塔"
   ],
   "summary": "须弥宝物外化内现而成的七层巨塔，内为无边须弥空间，逐层有守塔傀儡，节点藏于第七层；塔顶有眼珠状巨大晶球。",
   "attributes": {
-    "外形": "七层灰白巨塔、塔顶晶球、数千丈高七色巨塔、数寸迷你宝塔、七色霞光、内现七层灰白巨塔",
+    "外形": "七层灰白巨塔、塔顶晶球、数千丈高七色巨塔、数寸迷你宝塔、七色霞光、内现七层灰白巨塔、七色小塔",
     "禁制": "七色符文禁制（外部攻击被摄走）、无边异空间、不断幻化怪兽、节点暗藏第七层",
-    "能力": "化七色光霞收物",
-    "持有者": "魔族圣祖"
+    "能力": "摄人入须弥空间、化七色光霞收物、瞬移、七色飓风夺宝、金篆文法则之力",
+    "持有者": "魔族圣祖",
+    "来历": "玄天残宝"
   },
   "observations": {
     "外形": [
@@ -38,6 +40,11 @@
         "value": "七色霞光、内现七层灰白巨塔",
         "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "七色小塔",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ],
     "禁制": [
@@ -62,6 +69,21 @@
         "value": "化七色光霞收物",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "瞬移",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "七色飓风夺宝",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "金篆文法则之力",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ],
     "持有者": [
@@ -69,6 +91,13 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      }
+    ],
+    "来历": [
+      {
+        "value": "玄天残宝",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ]
   },
@@ -88,15 +117,21 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1909
+      "seq": 1903
     },
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
       "seq": 1909
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+      "dated": false,
+      "seq": 1915
     }
   },
   "contested": false,
@@ -104,7 +139,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-21T08:47:10.081Z"
+  "updatedAt": "2026-06-21T09:04:03.828Z"
 }

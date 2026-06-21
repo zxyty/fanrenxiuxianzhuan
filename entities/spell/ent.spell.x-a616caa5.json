@@ -5,15 +5,21 @@
   "aliases": [],
   "summary": "韩立合体中期后山岳巨猿变身新领悟的十成音波功法，威能极大，全力施展甚至有几分虚空破碎之能。",
   "attributes": {
-    "类型": "音波功法",
-    "威力": "极大，近虚空破碎",
-    "出处": "山岳巨猿变身（合体中期新领悟）"
+    "类型": "音波功法、音波神通",
+    "威力": "极大，近虚空破碎、可破彩光塔七色光晕、几分虚空破碎",
+    "出处": "山岳巨猿变身（合体中期新领悟）、山岳巨猿变身",
+    "适用境界": "合体中期"
   },
   "observations": {
     "类型": [
       {
         "value": "音波功法",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "音波神通",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
         "seq": 1915
       }
     ],
@@ -22,12 +28,29 @@
         "value": "极大，近虚空破碎",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915
+      },
+      {
+        "value": "可破彩光塔七色光晕、几分虚空破碎",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ],
     "出处": [
       {
         "value": "山岳巨猿变身（合体中期新领悟）",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "山岳巨猿变身",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
         "seq": 1915
       }
     ]
@@ -51,12 +74,19 @@
       "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
       "dated": false,
       "seq": 1915
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+      "dated": false,
+      "seq": 1915
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1929-1934-blood-saint-clones-battle"
+    "plot.fanren-1929-1934-blood-saint-clones-battle",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-17T03:14:10.905Z"
+  "updatedAt": "2026-06-21T09:04:03.847Z"
 }

@@ -9,9 +9,9 @@
   "summary": "韩立参悟万剑图中念剑之意而领悟、专伤敌神识的神通；因与仙界功法相关，强行施展会遭反噬，需变身山岳巨猿并合身梵圣金身方敢施展。",
   "attributes": {
     "出处": "万剑图",
-    "效果": "专伤神识",
-    "修炼条件": "变身山岳巨猿并合身梵圣金身",
-    "适用境界": "炼虚期可初窥（仅得图中十之一二）"
+    "效果": "专伤神识、威能暴增、变化由心、一念布阵、增幅剑阵威力、专伤神识/魂魄",
+    "修炼条件": "变身山岳巨猿并合身梵圣金身、山岳巨猿变身+融合梵圣身，否则反噬",
+    "适用境界": "合体期"
   },
   "observations": {
     "出处": [
@@ -36,12 +36,22 @@
         "value": "增幅剑阵威力",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "专伤神识/魂魄",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ],
     "修炼条件": [
       {
         "value": "变身山岳巨猿并合身梵圣金身",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+        "seq": 1915
+      },
+      {
+        "value": "山岳巨猿变身+融合梵圣身，否则反噬",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
         "seq": 1915
       }
     ],
@@ -50,6 +60,11 @@
         "value": "炼虚期可初窥（仅得图中十之一二）",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+        "seq": 1915
       }
     ]
   },
@@ -63,9 +78,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 1915
+      "seq": 1747
     },
     "修炼条件": {
       "asOf": null,
@@ -75,9 +90,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "docId": "plot.fanren-ch1915-1920-blood-saint-clones-battle",
       "dated": false,
-      "seq": 1747
+      "seq": 1915
     }
   },
   "contested": false,
@@ -85,7 +100,8 @@
   "docs": [
     "plot.fanren-1929-1934-blood-saint-clones-battle",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
   ],
-  "updatedAt": "2026-06-21T05:40:39.821Z"
+  "updatedAt": "2026-06-21T09:04:03.848Z"
 }
