@@ -10,7 +10,8 @@
   "summary": "万宝大会期间私下举办、专为合体修士的神秘以物易物交换会，由神通广大的神秘修士组织，不问身份、一日即散。",
   "attributes": {
     "地点": "黑域",
-    "参与方": "合体修士、妖族、韩立(计划参加)"
+    "参与方": "合体修士、妖族、韩立(计划参加)、人妖两族合体存在",
+    "起因": "应对魔劫"
   },
   "observations": {
     "地点": [
@@ -35,6 +36,18 @@
         "value": "韩立(计划参加)",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "人妖两族合体存在",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
+      }
+    ],
+    "起因": [
+      {
+        "value": "应对魔劫",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
       }
     ]
   },
@@ -51,13 +64,20 @@
       "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
       "dated": false,
       "seq": 1777
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "dated": false,
+      "seq": 1795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
   ],
-  "updatedAt": "2026-06-21T05:40:39.787Z"
+  "updatedAt": "2026-06-21T05:51:21.936Z"
 }

@@ -9,9 +9,9 @@
   ],
   "summary": "彩流罂独门炼制的化形奇宝，七种罕见灵兽之皮融合而成，表面刻银蝌文，可幻化成任意物（活物需先得其血肉/皮毛）。",
   "attributes": {
-    "来历": "彩流罂独门炼制",
-    "能力": "化形伪装、需取对象血肉/皮毛",
-    "外形": "薄如绢、温凉、铭刻银色符文"
+    "来历": "广寒界柳水儿",
+    "能力": "化形伪装、需取对象血肉/皮毛、化形易容",
+    "外形": "银灿灿薄皮"
   },
   "observations": {
     "来历": [
@@ -19,6 +19,11 @@
         "value": "彩流罂独门炼制",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "广寒界柳水儿",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
       }
     ],
     "能力": [
@@ -31,6 +36,11 @@
         "value": "需取对象血肉/皮毛",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "化形易容",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
       }
     ],
     "外形": [
@@ -38,6 +48,11 @@
         "value": "薄如绢、温凉、铭刻银色符文",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "银灿灿薄皮",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
       }
     ]
   },
@@ -45,9 +60,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
       "dated": false,
-      "seq": 1675
+      "seq": 1795
     },
     "能力": {
       "asOf": null,
@@ -57,15 +72,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
       "dated": false,
-      "seq": 1675
+      "seq": 1795
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
   ],
-  "updatedAt": "2026-06-21T02:57:18.603Z"
+  "updatedAt": "2026-06-21T05:51:21.925Z"
 }

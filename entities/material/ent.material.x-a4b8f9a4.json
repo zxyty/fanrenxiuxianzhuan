@@ -10,7 +10,7 @@
   "summary": "某种变异木属性灵族人的残躯，灵族圣物，万年难得；可炼第二化身、替劫傀儡及泣血灵珠主材料。",
   "attributes": {
     "类型": "灵族灵物材料",
-    "用途": "炼第二化身、炼替劫/化劫傀儡、泣血灵珠主材料、数种大神通辅助材料",
+    "用途": "炼第二化身、炼替劫/化劫傀儡、泣血灵珠主材料、数种大神通辅助材料、炼制化劫傀儡主料之一",
     "稀有度": "万年难遇",
     "产地": "灵族"
   },
@@ -42,6 +42,11 @@
         "value": "数种大神通辅助材料",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      },
+      {
+        "value": "炼制化劫傀儡主料之一",
+        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+        "seq": 1795
       }
     ],
     "稀有度": [
@@ -89,7 +94,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
   ],
-  "updatedAt": "2026-06-21T05:48:33.254Z"
+  "updatedAt": "2026-06-21T05:51:21.928Z"
 }

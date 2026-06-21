@@ -652,3 +652,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T05:27:34.904Z** `ingest` plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi — 凡人修仙传 第1777-1782章｜望气识韩立·白果儿冰髓之体收记名弟子 · kind=plot asOf=2026-06-21 entities=36 relations=38 src=01777-01782.md
 - **2026-06-21T05:40:39.984Z** `ingest` plot.fanren-1789-tianhu-yaonu — 凡人修仙传 第1789章 天狐妖女——万骨真人拉拢韩立 · kind=plot asOf=2026-06-21 entities=60 relations=62 src=01783-01788.md
 - **2026-06-21T05:48:33.416Z** `ingest` plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen — 凡人修仙传 第1789-1794章｜万宝大会收徒·隐灵根·重逢黛儿 · kind=plot asOf=2026-06-21 entities=41 relations=46 src=01789-01794.md
+- **2026-06-21T05:51:22.095Z** `ingest` plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi — 凡人修仙传 第1801-1806章｜万骨之邀·陇家夺徒·巨猿战老祖 · kind=plot asOf=2026-06-21 entities=29 relations=31 src=01795-01800.md
