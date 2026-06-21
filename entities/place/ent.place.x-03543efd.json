@@ -1,0 +1,51 @@
+{
+  "id": "ent.place.x-03543efd",
+  "type": "place",
+  "name": "巨门",
+  "aliases": [
+    "天鼎宫大门",
+    "擎天巨门"
+  ],
+  "summary": "天鼎宫万丈高的五色入口大门，表面遍布金篆文与银蝌文，破门一次只能进入一波人。",
+  "attributes": {
+    "类型": "秘境入口大门",
+    "守护": "金篆文/银蝌文禁制，一次只容一波人"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "秘境入口大门",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      }
+    ],
+    "守护": [
+      {
+        "value": "金篆文/银蝌文禁制，一次只容一波人",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      }
+    ]
+  },
+  "firstSeq": 2329,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+  ],
+  "updatedAt": "2026-06-21T17:58:15.153Z"
+}

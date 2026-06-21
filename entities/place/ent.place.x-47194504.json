@@ -3,14 +3,18 @@
   "type": "place",
   "name": "天鼎宫",
   "aliases": [
-    "天鼎仙宫"
+    "天鼎仙宫",
+    "天鼎真人秘境",
+    "天鼎宫禁制中枢",
+    "天鼎宫分宫"
   ],
   "summary": "天鼎真人遗留下界洞府，藏历劫功法秘诀与重宝灵药，位于万月山脉，禁制重重，需钥匙方可入，定期二次出世。",
   "attributes": {
-    "类型": "飞升真仙遗留洞府",
-    "所属界面": "血天大陆",
-    "危险度": "禁制重重",
-    "特产": "历劫功法秘诀、重宝灵药"
+    "类型": "飞升真仙遗留洞府、秘境/夺宝之地、秘境",
+    "所属界面": "灵界",
+    "危险度": "禁制重重、极高（越近中心越危险）、极高",
+    "特产": "历劫功法秘诀、重宝灵药",
+    "守护": "天鼎真人封印、金篆/银蝌文巨门、分区光幕禁制、层层分宫禁制幻境"
   },
   "observations": {
     "类型": [
@@ -18,6 +22,16 @@
         "value": "飞升真仙遗留洞府",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "秘境/夺宝之地",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      },
+      {
+        "value": "秘境",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "所属界面": [
@@ -25,6 +39,11 @@
         "value": "血天大陆",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "危险度": [
@@ -32,6 +51,16 @@
         "value": "禁制重重",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "极高（越近中心越危险）",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "特产": [
@@ -39,6 +68,18 @@
         "value": "历劫功法秘诀、重宝灵药",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      }
+    ],
+    "守护": [
+      {
+        "value": "天鼎真人封印、金篆/银蝌文巨门、分区光幕禁制",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      },
+      {
+        "value": "层层分宫禁制幻境",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ]
   },
@@ -52,9 +93,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
-      "seq": 2323
+      "seq": 2329
     },
     "危险度": {
       "asOf": null,
@@ -67,12 +108,19 @@
       "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
       "seq": 2323
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
   ],
-  "updatedAt": "2026-06-21T17:50:49.015Z"
+  "updatedAt": "2026-06-21T17:58:15.181Z"
 }

@@ -9,8 +9,9 @@
   "summary": "大乘期青年道袍修士，温文，真正道统传承自天鼎真人一脉，与万花夫人结伴来血鹤城谋天鼎宫，败于韩立威势后认输。",
   "attributes": {
     "小阶段": "大乘",
-    "外貌": "道袍青年",
-    "身份": "天鼎真人一脉传承者"
+    "外貌": "年轻道士",
+    "身份": "天鼎真人一脉传承者",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +26,11 @@
         "value": "道袍青年",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "年轻道士",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "身份": [
@@ -32,6 +38,13 @@
         "value": "天鼎真人一脉传承者",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ]
   },
@@ -45,21 +58,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
-      "seq": 2323
+      "seq": 2329
     },
     "身份": {
       "asOf": null,
       "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
       "seq": 2323
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
   ],
-  "updatedAt": "2026-06-21T17:50:49.004Z"
+  "updatedAt": "2026-06-21T17:58:15.169Z"
 }

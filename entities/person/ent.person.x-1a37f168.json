@@ -11,7 +11,7 @@
   "attributes": {
     "小阶段": "大乘",
     "性别": "女",
-    "外貌": "满脸皱纹白发老妪",
+    "外貌": "白发苍苍老妪",
     "性格": "火爆心高气傲"
   },
   "observations": {
@@ -34,6 +34,11 @@
         "value": "满脸皱纹白发老妪",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "白发苍苍老妪",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "性格": [
@@ -60,9 +65,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
-      "seq": 2323
+      "seq": 2329
     },
     "性格": {
       "asOf": null,
@@ -74,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
   ],
-  "updatedAt": "2026-06-21T17:50:49.005Z"
+  "updatedAt": "2026-06-21T17:58:15.168Z"
 }

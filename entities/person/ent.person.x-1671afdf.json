@@ -2,11 +2,14 @@
   "id": "ent.person.x-1671afdf",
   "type": "person",
   "name": "天鼎真人",
-  "aliases": [],
+  "aliases": [
+    "天鼎宫主"
+  ],
   "summary": "百万年前血天大陆渡大天劫次数最多、最终飞升成功的真仙，天鼎宫为其遗留下界洞府。",
   "attributes": {
-    "身份": "飞升真仙",
-    "结局": "飞升"
+    "身份": "飞升成功者",
+    "结局": "飞升",
+    "标志特征": "精通金篆文、银蝌文"
   },
   "observations": {
     "身份": [
@@ -14,6 +17,11 @@
         "value": "飞升真仙",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "飞升成功者",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "结局": [
@@ -22,27 +30,41 @@
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
       }
+    ],
+    "标志特征": [
+      {
+        "value": "精通金篆文、银蝌文",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      }
     ]
   },
   "firstSeq": 2323,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
-      "seq": 2323
+      "seq": 2329
     },
     "结局": {
       "asOf": null,
       "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
       "seq": 2323
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
   ],
-  "updatedAt": "2026-06-21T17:50:49.009Z"
+  "updatedAt": "2026-06-21T17:58:15.146Z"
 }

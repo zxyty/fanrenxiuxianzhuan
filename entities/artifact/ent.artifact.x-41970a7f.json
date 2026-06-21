@@ -7,10 +7,11 @@
   ],
   "summary": "血灵出发前仿制的第三只宝鼎，外形与虚天鼎七八分相似，功效远胜虚天鼎与虚灵鼎，是进入某地的钥匙之一。",
   "attributes": {
-    "持有者": "血灵",
-    "来历": "血灵仿制虚天鼎系列所造的第三只宝鼎、血灵仿制",
+    "持有者": "血魄",
+    "来历": "血灵仿制虚天鼎系列所造的第三只宝鼎、血灵仿制、血魄本体亲手炼制、掺入一滴精血",
     "外形": "青光闪闪、表面花纹精美的青色小鼎",
-    "能力": "功效远胜虚天鼎、虚灵鼎，为进入某地的钥匙之一、功效胜虚天鼎、虚灵鼎；为进入某地的钥匙之一"
+    "能力": "功效远胜虚天鼎、虚灵鼎，为进入某地的钥匙之一、功效胜虚天鼎、虚灵鼎；为进入某地的钥匙之一、辅助破天鼎宫封印（喷血文镶嵌封印，仅一击之力，有反噬）",
+    "品阶": "仿制钥匙（七分功效）"
   },
   "observations": {
     "持有者": [
@@ -18,6 +19,11 @@
         "value": "血灵",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "血魄",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "来历": [
@@ -30,6 +36,11 @@
         "value": "血灵仿制",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "血魄本体亲手炼制、掺入一滴精血",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ],
     "外形": [
@@ -49,6 +60,18 @@
         "value": "功效胜虚天鼎、虚灵鼎；为进入某地的钥匙之一",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "辅助破天鼎宫封印（喷血文镶嵌封印，仅一击之力，有反噬）",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
+      }
+    ],
+    "品阶": [
+      {
+        "value": "仿制钥匙（七分功效）",
+        "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+        "seq": 2329
       }
     ]
   },
@@ -56,9 +79,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
-      "seq": 1921
+      "seq": 2329
     },
     "来历": {
       "asOf": null,
@@ -77,13 +100,20 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "dated": false,
+      "seq": 2329
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
   ],
-  "updatedAt": "2026-06-21T09:16:08.485Z"
+  "updatedAt": "2026-06-21T17:58:15.151Z"
 }
