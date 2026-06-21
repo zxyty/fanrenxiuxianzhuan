@@ -7,9 +7,9 @@
   ],
   "summary": "圣界中的大劫爆发之地，封印着上古由仙界封禁的可吞噬灵气魔气之物；封印日渐松动，由六极一具化身看守。",
   "attributes": {
-    "所属界面": "圣界",
-    "类型": "上古封印之地",
-    "守护": "六极化身"
+    "所属界面": "魔界",
+    "类型": "封印之地",
+    "守护": "真仙封印"
   },
   "observations": {
     "所属界面": [
@@ -17,6 +17,11 @@
         "value": "圣界",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "类型": [
@@ -24,6 +29,11 @@
         "value": "上古封印之地",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "封印之地",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "守护": [
@@ -31,6 +41,11 @@
         "value": "六极化身",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "真仙封印",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ]
   },
@@ -38,27 +53,28 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2083
+      "seq": 2107
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2083
+      "seq": 2107
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2083
+      "seq": 2107
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:27:24.385Z"
+  "updatedAt": "2026-06-21T13:53:18.799Z"
 }

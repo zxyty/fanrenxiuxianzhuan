@@ -2,11 +2,13 @@
   "id": "ent.place.x-b6cf3f7b",
   "type": "place",
   "name": "蓝瀑城",
-  "aliases": [],
+  "aliases": [
+    "蓝瀑"
+  ],
   "summary": "位于蓝瀑湖湖心巨岛的魔族大城，淡蓝色巨石砌成，魔族卫士林立，为血牙米交易地。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "魔族大城",
+    "类型": "城市/湖区",
     "特产": "血牙米、魔芋茶"
   },
   "observations": {
@@ -22,6 +24,11 @@
         "value": "魔族大城",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "城市/湖区",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "特产": [
@@ -47,9 +54,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2095
+      "seq": 2107
     },
     "特产": {
       "asOf": null,
@@ -61,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:47:45.542Z"
+  "updatedAt": "2026-06-21T13:53:18.798Z"
 }

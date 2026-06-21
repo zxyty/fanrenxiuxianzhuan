@@ -4,13 +4,14 @@
   "name": "地煞阴气",
   "aliases": [
     "绿气",
-    "神秘绿气"
+    "神秘绿气",
+    "变异的地煞阴气"
   ],
   "summary": "阴阳大五行真光长年处玄阴之地变异而成的阴气，韩立自异魔金晶珠能量残余沾染，对人族有害（经脉萎缩、肉身僵化）。",
   "attributes": {
-    "类型": "变异阴气",
-    "用途": "魔界某些特殊功法修炼者求之不得；人族有害",
-    "产地": "沾染相关矿石"
+    "类型": "煞气",
+    "用途": "韩立收集",
+    "产地": "异魔金私矿"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,11 @@
         "value": "变异阴气",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "煞气",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "用途": [
@@ -25,6 +31,11 @@
         "value": "魔界某些特殊功法修炼者求之不得；人族有害",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "韩立收集",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "产地": [
@@ -32,6 +43,11 @@
         "value": "沾染相关矿石",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "异魔金私矿",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ]
   },
@@ -39,27 +55,28 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:50:35.416Z"
+  "updatedAt": "2026-06-21T13:53:18.798Z"
 }

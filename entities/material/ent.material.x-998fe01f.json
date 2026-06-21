@@ -4,14 +4,15 @@
   "name": "异魔金",
   "aliases": [
     "异魔金矿石",
-    "黑白相间矿石"
+    "黑白相间矿石",
+    "上品异魔金"
   ],
   "summary": "魔界稀少材料，兼含纯灵气与纯魔气；韩立所购一块内暗藏可直转真元的灰白光团晶珠。",
   "attributes": {
-    "类型": "金属矿石",
-    "产地": "疑似蓝瀑湖",
+    "类型": "矿石",
+    "产地": "蓝瀑湖私矿",
     "稀有度": "稀少",
-    "用途": "炼化内含晶球能量直接提升法力"
+    "用途": "可能含晶珠/真光"
   },
   "observations": {
     "类型": [
@@ -29,6 +30,11 @@
         "value": "金属矿石",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "矿石",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "产地": [
@@ -41,6 +47,11 @@
         "value": "疑似蓝瀑湖",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "蓝瀑湖私矿",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "稀有度": [
@@ -60,6 +71,11 @@
         "value": "炼化内含晶球能量直接提升法力",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "可能含晶珠/真光",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ]
   },
@@ -67,15 +83,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2095
+      "seq": 2107
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2047
+      "seq": 2107
     },
     "稀有度": {
       "asOf": null,
@@ -85,9 +101,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2047
+      "seq": 2107
     }
   },
   "contested": false,
@@ -95,7 +111,8 @@
   "docs": [
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:47:45.545Z"
+  "updatedAt": "2026-06-21T13:53:18.797Z"
 }

@@ -5,16 +5,18 @@
   "aliases": [
     "麻衣少女",
     "蓝仙子",
-    "广源斋小姐"
+    "广源斋小姐",
+    "蓝颖妹妹"
   ],
   "summary": "广源斋真正主人，仅化神期但有异宝护身排斥神念；精通卜算，前任斋主祖母陨落后接任。",
   "attributes": {
     "性别": "女",
     "种族": "魔族",
     "小阶段": "化神初期",
-    "身份": "广源斋斋主",
+    "身份": "广源斋成员",
     "外貌": "麻衣粗袍、相貌平凡、额头略宽",
-    "性格": "才智无双、清醒务实"
+    "性格": "才智无双、清醒务实",
+    "阵营": "魔界"
   },
   "observations": {
     "性别": [
@@ -43,6 +45,11 @@
         "value": "广源斋斋主",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "广源斋成员",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "外貌": [
@@ -57,6 +64,13 @@
         "value": "才智无双、清醒务实",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ]
   },
@@ -82,9 +96,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     },
     "外貌": {
       "asOf": null,
@@ -97,12 +111,19 @@
       "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
       "seq": 2101
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "dated": false,
+      "seq": 2107
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:50:35.408Z"
+  "updatedAt": "2026-06-21T13:53:18.783Z"
 }

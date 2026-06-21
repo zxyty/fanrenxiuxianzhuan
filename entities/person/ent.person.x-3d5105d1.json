@@ -2,16 +2,18 @@
   "id": "ent.person.x-3d5105d1",
   "type": "person",
   "name": "无忧",
-  "aliases": [],
+  "aliases": [
+    "无忧大哥"
+  ],
   "summary": "额印鲜红魔纹的炼虚后期大成魔族青年，欲低价转手两千块私矿赃货异魔金给韩立。",
   "attributes": {
     "性别": "男",
     "种族": "魔族",
     "外貌": "眉宇间铭印鲜红魔纹的青年",
     "标志特征": "额印鲜红魔纹",
-    "身份": "私矿头目",
+    "身份": "私矿首领",
     "性格": "谨慎精明",
-    "小阶段": "炼虚化神等阶"
+    "小阶段": "炼虚后期"
   },
   "observations": {
     "性别": [
@@ -52,6 +54,11 @@
         "value": "私矿头目",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "私矿首领",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ],
     "性格": [
@@ -66,6 +73,11 @@
         "value": "炼虚化神等阶",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "炼虚后期",
+        "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+        "seq": 2107
       }
     ]
   },
@@ -97,9 +109,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     },
     "性格": {
       "asOf": null,
@@ -109,16 +121,17 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2101
+      "seq": 2107
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
   ],
-  "updatedAt": "2026-06-21T13:50:35.412Z"
+  "updatedAt": "2026-06-21T13:53:18.784Z"
 }

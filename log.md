@@ -718,3 +718,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T13:40:14.343Z** `ingest` plot.fanren-2107-zaijian-weixianlu — 第2107章 再见伪仙露：涅槃化身唤醒黄金蟹伪仙截杀韩立 · kind=plot asOf=2026-06-21 entities=49 relations=63 src=02089-02094.md
 - **2026-06-21T13:47:45.699Z** `ingest` plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake — 凡人修仙传 第2095-2100章｜玄天圣树·蓝瀑湖 · kind=plot asOf=2026-06-21 entities=34 relations=38 src=02095-02100.md
 - **2026-06-21T13:50:35.582Z** `ingest` plot.hra-2119-guangyuanzhai-ziling-chongfeng — 第2119-2124章 广源斋问情报、重逢紫灵与阴阳大五行真光线索 · kind=plot asOf=2026-06-21 entities=22 relations=26 src=02101-02106.md
+- **2026-06-21T13:53:18.958Z** `ingest` plot.fanren-2125-2130-mingchong-mu-and-cigang-beast — 凡人修仙传 第2125-2130章｜螟虫之母与磁光兽夺真光 · kind=plot asOf=2026-06-21 entities=23 relations=22 src=02107-02112.md
