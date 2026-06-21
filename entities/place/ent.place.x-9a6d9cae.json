@@ -9,9 +9,9 @@
   "attributes": {
     "所属界面": "灵界",
     "所属势力": "灵族",
-    "类型": "圣地灵山",
-    "危险度": "极高",
-    "守护": "圣灵与圣卫"
+    "类型": "圣山/洞府",
+    "危险度": "高（禁制密布）",
+    "守护": "合体期守山灵族"
   },
   "observations": {
     "所属界面": [
@@ -33,6 +33,11 @@
         "value": "圣地灵山",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "圣山/洞府",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ],
     "危险度": [
@@ -40,6 +45,11 @@
         "value": "极高",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "高（禁制密布）",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ],
     "守护": [
@@ -47,6 +57,11 @@
         "value": "圣灵与圣卫",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "合体期守山灵族",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ]
   },
@@ -66,27 +81,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2239
+      "seq": 2245
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2239
+      "seq": 2245
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2239
+      "seq": 2245
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.chapter-2239-2244-worm-king-ancient-altar"
+    "plot.chapter-2239-2244-worm-king-ancient-altar",
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
   ],
-  "updatedAt": "2026-06-21T16:28:19.460Z"
+  "updatedAt": "2026-06-21T16:35:45.467Z"
 }

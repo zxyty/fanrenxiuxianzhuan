@@ -12,17 +12,21 @@
     "族中那位大人",
     "灵王分念",
     "灵王分魂",
-    "灵族灵王"
+    "灵族灵王",
+    "灵兄",
+    "灵某",
+    "灵老怪",
+    "灵王道友"
   ],
   "summary": "天极门元婴修士，南陇侯生死之交，赠韩立联系令牌。",
   "attributes": {
     "称号": "璇玑子",
-    "外貌": "白发鹤颜白袍老者",
+    "外貌": "白袍鹤发童颜、双目如电、袖角绣紫红枫叶",
     "阵营": "天极门",
     "小阶段": "大乘期",
-    "标志特征": "疑活上百万年、来历不明",
+    "标志特征": "同心化身待客；养雪白赤眼灵猴",
     "种族": "灵族",
-    "身份": "灵族之主"
+    "身份": "灵族圣灵/一方之主"
   },
   "observations": {
     "称号": [
@@ -53,6 +57,12 @@
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071,
         "note": "分魂虚影"
+      },
+      {
+        "value": "白袍鹤发童颜、双目如电、袖角绣紫红枫叶",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245,
+        "note": "此为同心化身现身之貌，本体在闭关"
       }
     ],
     "阵营": [
@@ -94,6 +104,11 @@
         "value": "疑活上百万年、来历不明",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "同心化身待客；养雪白赤眼灵猴",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ],
     "种族": [
@@ -118,6 +133,11 @@
         "value": "灵族之主",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "灵族圣灵/一方之主",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ]
   },
@@ -131,10 +151,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2071,
-      "note": "分魂虚影"
+      "seq": 2245,
+      "note": "此为同心化身现身之貌，本体在闭关"
     },
     "阵营": {
       "asOf": null,
@@ -150,9 +170,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2239
+      "seq": 2245
     },
     "种族": {
       "asOf": null,
@@ -162,9 +182,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2239
+      "seq": 2245
     }
   },
   "contested": false,
@@ -177,7 +197,8 @@
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
     "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
     "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
-    "plot.chapter-2239-2244-worm-king-ancient-altar"
+    "plot.chapter-2239-2244-worm-king-ancient-altar",
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
   ],
-  "updatedAt": "2026-06-21T16:28:19.455Z"
+  "updatedAt": "2026-06-21T16:35:45.454Z"
 }

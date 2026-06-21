@@ -6,8 +6,8 @@
   "summary": "以真仙真魂为原料、于九幽地火之地配合真火熬炼十万年而成，服后修为大进；炼制触仙界铁律。",
   "attributes": {
     "功效": "服后修为大进",
-    "炼制者": "白袍老者",
-    "主料": "真仙真魂",
+    "炼制者": "离铭",
+    "主料": "金仙真魂",
     "副作用": "炼制触仙界铁律"
   },
   "observations": {
@@ -23,6 +23,11 @@
         "value": "白袍老者",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "离铭",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ],
     "主料": [
@@ -30,6 +35,11 @@
         "value": "真仙真魂",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "金仙真魂",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ],
     "副作用": [
@@ -50,15 +60,15 @@
     },
     "炼制者": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2005
+      "seq": 2245
     },
     "主料": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
-      "seq": 2005
+      "seq": 2245
     },
     "副作用": {
       "asOf": null,
@@ -70,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
   ],
-  "updatedAt": "2026-06-21T11:17:22.767Z"
+  "updatedAt": "2026-06-21T16:35:45.495Z"
 }

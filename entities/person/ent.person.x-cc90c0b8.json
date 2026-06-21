@@ -2,13 +2,15 @@
   "id": "ent.person.x-cc90c0b8",
   "type": "person",
   "name": "石心老祖",
-  "aliases": [],
+  "aliases": [
+    "石心道友"
+  ],
   "summary": "云岗族大乘，随队进入始魔之地，曾在灵族亲见三清雷霄符并与符主达成交易，后陨落于上古封印之中。",
   "attributes": {
     "种族": "云岗族",
     "小阶段": "大乘期",
     "存殁": "死亡",
-    "死因": "陨落于上古封印"
+    "死因": "陨落于上古封印、与螟虫之母相关之事（非螟虫之母亲手）、陨落魔界"
   },
   "observations": {
     "种族": [
@@ -37,6 +39,16 @@
         "value": "陨落于上古封印",
         "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
         "seq": 2233
+      },
+      {
+        "value": "与螟虫之母相关之事（非螟虫之母亲手）",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
+      },
+      {
+        "value": "陨落魔界",
+        "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+        "seq": 2245
       }
     ]
   },
@@ -70,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
   ],
-  "updatedAt": "2026-06-21T16:20:46.398Z"
+  "updatedAt": "2026-06-21T16:35:45.486Z"
 }
