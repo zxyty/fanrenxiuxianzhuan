@@ -7,7 +7,8 @@
   "attributes": {
     "用途": "延年益寿、推迟天劫",
     "产地": "光阴之河、修罗蛛晶核",
-    "稀有度": "九天奇珍"
+    "稀有度": "九天奇珍",
+    "类型": "灵材"
   },
   "observations": {
     "用途": [
@@ -40,6 +41,13 @@
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
       }
+    ],
+    "类型": [
+      {
+        "value": "灵材",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
     ]
   },
   "firstSeq": 2245,
@@ -61,12 +69,19 @@
       "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
       "seq": 2245
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T16:35:45.492Z"
+  "updatedAt": "2026-06-21T16:47:57.353Z"
 }

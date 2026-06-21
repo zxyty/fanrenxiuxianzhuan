@@ -1,0 +1,51 @@
+{
+  "id": "ent.faction.x-165e53f0",
+  "type": "faction",
+  "name": "监察仙使",
+  "aliases": [
+    "监察使",
+    "监察使者"
+  ],
+  "summary": "仙域中监察各仙宫之主的势力，配有监察仙器。",
+  "attributes": {
+    "所属界面": "仙域",
+    "理念": "监察诸仙宫之主"
+  },
+  "observations": {
+    "所属界面": [
+      {
+        "value": "仙域",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "理念": [
+      {
+        "value": "监察诸仙宫之主",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ]
+  },
+  "firstSeq": 2251,
+  "attrProvenance": {
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2270-jiuyuanguan"
+  ],
+  "updatedAt": "2026-06-21T16:47:57.326Z"
+}

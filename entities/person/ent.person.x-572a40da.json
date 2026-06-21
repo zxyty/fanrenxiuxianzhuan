@@ -2,10 +2,16 @@
   "id": "ent.person.x-572a40da",
   "type": "person",
   "name": "黑脸道士",
-  "aliases": [],
+  "aliases": [
+    "离师侄",
+    "执事弟子"
+  ],
   "summary": "身处遥远界面的道士，持真魂之牌；察觉师兄弟（仙界使者）真魂出事，决意寻找。",
   "attributes": {
-    "外貌": "黑脸道士"
+    "外貌": "黑脸",
+    "性别": "男",
+    "身份": "九元观弟子/师祖门下、九元观执事弟子",
+    "阵营": "九元观"
   },
   "observations": {
     "外貌": [
@@ -13,6 +19,37 @@
         "value": "黑脸道士",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "黑脸",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "身份": [
+      {
+        "value": "九元观弟子/师祖门下",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      },
+      {
+        "value": "九元观执事弟子",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "阵营": [
+      {
+        "value": "九元观",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ]
   },
@@ -20,15 +57,34 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 2005
+      "seq": 2251
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T11:17:22.719Z"
+  "updatedAt": "2026-06-21T16:47:57.340Z"
 }

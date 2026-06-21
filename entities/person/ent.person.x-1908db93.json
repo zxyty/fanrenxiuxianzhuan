@@ -5,7 +5,8 @@
   "aliases": [
     "血燃道友",
     "血兄",
-    "血染"
+    "血染",
+    "血道友"
   ],
   "summary": "地蛟岛海域的异类大乘，皮肤黝黑覆角质鳞片，煞气滚滚、血色光霞缠身，为三清雷霄符而来。",
   "attributes": {
@@ -13,7 +14,7 @@
     "小阶段": "大乘期、大乘",
     "出身地": "地蛟岛/大陆中部海域",
     "外貌": "黝黑粗糙、半身角质鳞片、血色煞气光霞",
-    "标志特征": "血脉感应寻修罗蛛"
+    "标志特征": "具蛛类相关血脉"
   },
   "observations": {
     "种族": [
@@ -54,6 +55,11 @@
         "value": "血脉感应寻修罗蛛",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "具蛛类相关血脉",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ]
   },
@@ -85,15 +91,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 2245
+      "seq": 2251
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T16:35:45.483Z"
+  "updatedAt": "2026-06-21T16:47:57.335Z"
 }

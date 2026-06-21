@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-7fe678c3",
+  "type": "artifact",
+  "name": "观天镜",
+  "aliases": [],
+  "summary": "宫主用以观察宫门外动静的法宝。",
+  "attributes": {
+    "能力": "观察/监视",
+    "持有者": "紫衣妇人"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "观察/监视",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "持有者": [
+      {
+        "value": "紫衣妇人",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ]
+  },
+  "firstSeq": 2251,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2270-jiuyuanguan"
+  ],
+  "updatedAt": "2026-06-21T16:47:57.322Z"
+}

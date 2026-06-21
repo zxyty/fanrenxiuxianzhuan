@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "小修罗界强大生物心脏所化，配合上古跨界传送法阵可直接传入小修罗界，须炼成护身法器抵御界面排斥；存世不足五指之数，离铭持两块。",
   "attributes": {
-    "用途": "传送进入小修罗界并抵御排斥之力"
+    "用途": "跨界返回灵界",
+    "类型": "返界凭依"
   },
   "observations": {
     "用途": [
@@ -13,6 +14,18 @@
         "value": "传送进入小修罗界并抵御排斥之力",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "跨界返回灵界",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "类型": [
+      {
+        "value": "返界凭依",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ]
   },
@@ -20,15 +33,22 @@
   "attrProvenance": {
     "用途": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 2245
+      "seq": 2251
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T16:35:45.494Z"
+  "updatedAt": "2026-06-21T16:47:57.352Z"
 }

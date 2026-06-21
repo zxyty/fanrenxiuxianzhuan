@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "真仙界仙域中的庞大仙宫，群山簇拥、金碧辉煌，金甲武士守卫；离铭实力可排前百。",
   "attributes": {
-    "所属界面": "真仙界",
-    "据点": "仙域群山中心宫城"
+    "所属界面": "仙域",
+    "据点": "仙域群山中心宫城",
+    "掌门": "紫衣妇人"
   },
   "observations": {
     "所属界面": [
@@ -14,6 +15,11 @@
         "value": "真仙界",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "仙域",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ],
     "据点": [
@@ -22,27 +28,41 @@
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
       }
+    ],
+    "掌门": [
+      {
+        "value": "紫衣妇人",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
     ]
   },
   "firstSeq": 2245,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 2245
+      "seq": 2251
     },
     "据点": {
       "asOf": null,
       "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
       "dated": false,
       "seq": 2245
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T16:35:45.497Z"
+  "updatedAt": "2026-06-21T16:47:57.346Z"
 }

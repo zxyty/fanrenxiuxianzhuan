@@ -1,0 +1,48 @@
+{
+  "id": "ent.artifact.x-7a3edbe4",
+  "type": "artifact",
+  "name": "降仙台",
+  "aliases": [],
+  "summary": "仙界向下界小灵界传送之器，需准确坐标与仙灵石。",
+  "attributes": {
+    "能力": "向下界传送",
+    "禁制": "须准确坐标，失落界群无法传送"
+  },
+  "observations": {
+    "能力": [
+      {
+        "value": "向下界传送",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ],
+    "禁制": [
+      {
+        "value": "须准确坐标，失落界群无法传送",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      }
+    ]
+  },
+  "firstSeq": 2251,
+  "attrProvenance": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-2270-jiuyuanguan",
+      "dated": false,
+      "seq": 2251
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2270-jiuyuanguan"
+  ],
+  "updatedAt": "2026-06-21T16:47:57.324Z"
+}

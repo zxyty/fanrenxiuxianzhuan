@@ -16,17 +16,18 @@
     "慕兰大上师乐姓女子",
     "慕兰族第一女上师",
     "慕兰女上师",
-    "掌古灯的乐姓女子"
+    "掌古灯的乐姓女子",
+    "碧绿短衫女子"
   ],
   "summary": "慕兰法士主帅，元婴中期，修炼柔风决，曾败于突兀人天澜圣女并引以为耻。",
   "attributes": {
     "性别": "女",
-    "小阶段": "元婴中期",
+    "小阶段": "炼虚后期",
     "身份": "慕兰大上师、慕兰第一女法士、上师、慕兰第一女上师、慕兰神师、慕兰法士、慕兰族第一女法士、慕兰族第一女上师",
     "阵营": "慕兰、慕兰法士大军、慕兰法士、慕兰一方、慕兰族",
-    "性格": "冷酷无情、自负、冷傲讥诮、冷漠无情、自负、冷傲、狠辣",
-    "外貌": "年方双十、面容清秀、煞气隐现、墨绿短衫、约二十岁清秀女子、墨绿短衫、煞气隐现、绿衫艳冷女子、绿衫女子",
-    "种族": "慕兰",
+    "性格": "冷酷无情、自负、冷傲讥诮、冷漠无情、自负、冷傲、狠辣、残忍恶毒",
+    "外貌": "年方双十、面容清秀、煞气隐现、墨绿短衫、约二十岁清秀女子、墨绿短衫、煞气隐现、绿衫艳冷女子、绿衫女子、二十余岁碧绿短衫妖娆女子，臂镶金令箭",
+    "种族": "修罗蛛",
     "称号": "上师",
     "标志特征": "口喷白色婴火、踏白莲、通上古蛮荒语、九盏古灯、周身白莲影护身、风遁术、绿衫、莲影/白莲护身、风遁术、掌管古灯"
   },
@@ -43,6 +44,11 @@
         "value": "元婴中期",
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733
+      },
+      {
+        "value": "炼虚后期",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ],
     "身份": [
@@ -134,6 +140,11 @@
         "value": "冷傲、狠辣",
         "docId": "plot.fanren-ch739-744-poxion-array-battle-mulan-greenrobe",
         "seq": 739
+      },
+      {
+        "value": "残忍恶毒",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ],
     "外貌": [
@@ -156,6 +167,12 @@
         "value": "绿衫女子",
         "docId": "plot.fanren-757-bingxuecan-yu-gengjing",
         "seq": 757
+      },
+      {
+        "value": "二十余岁碧绿短衫妖娆女子，臂镶金令箭",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251,
+        "note": "修罗蛛幻化"
       }
     ],
     "种族": [
@@ -168,6 +185,12 @@
         "value": "慕兰",
         "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
         "seq": 757
+      },
+      {
+        "value": "修罗蛛",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251,
+        "note": "幻化人形"
       }
     ],
     "称号": [
@@ -225,9 +248,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 733
+      "seq": 2251
     },
     "身份": {
       "asOf": null,
@@ -255,9 +278,10 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-757-762-gengjing-jiangling-fu",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 757
+      "seq": 2251,
+      "note": "幻化人形"
     },
     "称号": {
       "asOf": null,
@@ -288,7 +312,8 @@
     "plot.fanren-769-774-bianjie-zhizhan-6-8",
     "plot.fanren-775-780-giant-ape-appears",
     "plot.fanren-799-804-jiedan-kuilei-zhuimogu-yuemeng",
-    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet"
+    "plot.fanren-823-828-bloodcurse-gate-kongangzhenxian-zilinmeet",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-17T13:56:43.803Z"
+  "updatedAt": "2026-06-21T16:47:57.366Z"
 }

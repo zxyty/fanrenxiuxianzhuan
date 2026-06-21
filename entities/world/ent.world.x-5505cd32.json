@@ -3,11 +3,12 @@
   "type": "world",
   "name": "小修罗界",
   "aliases": [
-    "修罗界遗落界面"
+    "修罗界遗落界面",
+    "修罗界(子界)"
   ],
   "summary": "上古凶界修罗界崩溃后遗落的小界面，二十万年前现于风元大陆南部，因争夺误毁入口而消失，内有修罗蛛及诸多珍稀材料。",
   "attributes": {
-    "特点": "遗落自修罗界、诡异凶险、盛产珍稀材料"
+    "特点": "遗落自修罗界、诡异凶险、盛产珍稀材料、高空三轮绿油油骄阳、剧毒甜香霞光异兽、多种蛛类栖息、修罗蛛聚居、异兽众多、有变异"
   },
   "observations": {
     "特点": [
@@ -25,6 +26,26 @@
         "value": "盛产珍稀材料",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "高空三轮绿油油骄阳",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      },
+      {
+        "value": "剧毒甜香霞光异兽",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      },
+      {
+        "value": "多种蛛类栖息",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
+      },
+      {
+        "value": "修罗蛛聚居、异兽众多、有变异",
+        "docId": "plot.fanren-2270-jiuyuanguan",
+        "seq": 2251
       }
     ]
   },
@@ -40,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2270-jiuyuanguan"
   ],
-  "updatedAt": "2026-06-21T16:35:45.489Z"
+  "updatedAt": "2026-06-21T16:47:57.375Z"
 }

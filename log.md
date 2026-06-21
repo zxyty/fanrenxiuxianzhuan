@@ -744,3 +744,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T16:20:46.617Z** `ingest` plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm — 凡人修仙传 第2233-2238章：傀儡大军、墨灵圣舟返回灵界、三清雷霄符 · kind=plot asOf=2026-06-21 entities=21 relations=19 src=02233-02238.md
 - **2026-06-21T16:28:19.715Z** `ingest` plot.chapter-2239-2244-worm-king-ancient-altar — 第2239-2244章 虫王出世·擒花石·司南四方坛测小灵界 · kind=plot asOf=2026-06-21 entities=34 relations=38 src=02239-02244.md
 - **2026-06-21T16:35:45.738Z** `ingest` plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong — 凡人修仙传 第2245-2250章｜伏灵山乌龙·灵王与三清雷霄符之约 · kind=plot asOf=2026-06-21 entities=31 relations=46 src=02245-02250.md
+- **2026-06-21T16:47:57.599Z** `ingest` plot.fanren-2270-jiuyuanguan — 凡人修仙传 第2270章 九元观：金翰仙宫宫主与黑脸道士密议追查叛徒 · kind=plot asOf=2026-06-21 entities=39 relations=47 src=02251-02256.md
