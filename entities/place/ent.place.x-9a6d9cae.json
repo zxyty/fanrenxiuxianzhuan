@@ -3,15 +3,16 @@
   "type": "place",
   "name": "伏灵山",
   "aliases": [
-    "灵族圣山"
+    "灵族圣山",
+    "灵族圣地伏灵山"
   ],
   "summary": "灵族圣地，灵王居此，本身即蕴恐怖灵压的异宝；三万里内为禁区，近期被灵王封山。",
   "attributes": {
     "所属界面": "灵界",
     "所属势力": "灵族",
-    "类型": "灵族圣山",
+    "类型": "圣地",
     "危险度": "高（禁制密布）",
-    "守护": "多层霞光禁制"
+    "守护": "灵王"
   },
   "observations": {
     "所属界面": [
@@ -43,6 +44,11 @@
         "value": "灵族圣山",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "圣地",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "危险度": [
@@ -72,6 +78,11 @@
         "value": "多层霞光禁制",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "灵王",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -91,9 +102,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2281
+      "seq": 2407
     },
     "危险度": {
       "asOf": null,
@@ -103,9 +114,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2281
+      "seq": 2407
     }
   },
   "contested": false,
@@ -114,7 +125,8 @@
     "plot.chapter-2239-2244-worm-king-ancient-altar",
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
     "plot.fanren-2270-jiuyuanguan",
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T17:20:40.528Z"
+  "updatedAt": "2026-06-21T20:45:59.534Z"
 }

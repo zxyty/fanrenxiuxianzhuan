@@ -3,14 +3,16 @@
   "type": "artifact",
   "name": "掌天瓶",
   "aliases": [
-    "青色小瓶"
+    "青色小瓶",
+    "青绿小瓶"
   ],
   "summary": "韩立长期持有的神秘绿瓶本体，被马良认出为仙界至宝掌天瓶，但缺少『瓶灵』、似只是外壳。",
   "attributes": {
     "持有者": "韩立",
     "外形": "翠盈盈青色小瓶",
     "禁制": "缺瓶灵",
-    "来历": "与仙界叛徒/始祖相关"
+    "来历": "仙界道祖在意的至宝，遗落人界仅存一部分",
+    "能力": "催生灵药、经融元仙术后可被操纵催动"
   },
   "observations": {
     "持有者": [
@@ -40,6 +42,23 @@
         "value": "与仙界叛徒/始祖相关",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
+      },
+      {
+        "value": "仙界道祖在意的至宝，遗落人界仅存一部分",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
+    ],
+    "能力": [
+      {
+        "value": "催生灵药",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      },
+      {
+        "value": "经融元仙术后可被操纵催动",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -66,15 +85,22 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2401
+      "seq": 2407
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T20:28:27.680Z"
+  "updatedAt": "2026-06-21T20:45:59.529Z"
 }

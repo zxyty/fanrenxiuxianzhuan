@@ -3,12 +3,13 @@
   "type": "item",
   "name": "本命牌",
   "aliases": [
-    "圭灵本命牌"
+    "圭灵本命牌",
+    "残破玉牌"
   ],
   "summary": "银翅夜叉的本命之物，藏于昆吾殿，三妖谋夺之核心目标；持牌者可命令、追问妖物。",
   "attributes": {
-    "类型": "本命法器、本命法牌、本命牌（附部分精魂）、本命牌、本命之物",
-    "用途": "掌控本命之妖、感应/控制持牌者圭灵、掌控妖兽性命、妖物本命所系"
+    "类型": "本命法器、本命法牌、本命牌（附部分精魂）、本命牌、本命之物、本命法器/玉牌",
+    "用途": "掌控本命之妖、感应/控制持牌者圭灵、掌控妖兽性命、妖物本命所系、系命/感应主人存殁"
   },
   "observations": {
     "类型": [
@@ -36,6 +37,11 @@
         "value": "本命之物",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "本命法器/玉牌",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "用途": [
@@ -58,6 +64,11 @@
         "value": "妖物本命所系",
         "docId": "plot.fanren-ch1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "系命/感应主人存殁",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -80,7 +91,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1003-qunmo-yinxian",
-    "plot.fanren-ch1003-qunmo-yinxian"
+    "plot.fanren-ch1003-qunmo-yinxian",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-18T04:04:13.804Z"
+  "updatedAt": "2026-06-21T20:45:59.513Z"
 }

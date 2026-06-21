@@ -10,7 +10,7 @@
     "类型": "岛屿/洞府",
     "守护": "两仪万引大阵、傀儡甲士",
     "所属界面": "灵界",
-    "所属势力": "青元宫"
+    "所属势力": "韩立一方"
   },
   "observations": {
     "类型": [
@@ -39,6 +39,11 @@
         "value": "青元宫",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -64,16 +69,17 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2383
+      "seq": 2407
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2300-zushi-shanhai-zhu",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T19:58:49.553Z"
+  "updatedAt": "2026-06-21T20:45:59.537Z"
 }

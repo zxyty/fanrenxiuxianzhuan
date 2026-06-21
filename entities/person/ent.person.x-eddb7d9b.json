@@ -26,7 +26,7 @@
     "外貌": "白袍苍老老者",
     "阵营": "天极门",
     "小阶段": "大乘期",
-    "标志特征": "同心化身待客；养雪白赤眼灵猴",
+    "标志特征": "真身为白色小人，附入白袍老者躯体",
     "种族": "灵族",
     "身份": "灵族之王"
   },
@@ -42,7 +42,8 @@
       {
         "value": "白袍老者",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
-        "seq": 721
+        "seq": 721,
+        "note": "化身/附体之躯"
       },
       {
         "value": "银发娇嫩面容、白袍",
@@ -116,6 +117,11 @@
         "value": "同心化身待客；养雪白赤眼灵猴",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "真身为白色小人，附入白袍老者躯体",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "种族": [
@@ -181,9 +187,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2245
+      "seq": 2407
     },
     "种族": {
       "asOf": null,
@@ -211,7 +217,8 @@
     "plot.chapter-2239-2244-worm-king-ancient-altar",
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
     "plot.fanren-2270-jiuyuanguan",
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T17:20:40.505Z"
+  "updatedAt": "2026-06-21T20:45:59.526Z"
 }

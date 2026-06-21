@@ -2,10 +2,13 @@
   "id": "ent.faction.x-98799d3d",
   "type": "faction",
   "name": "九元观",
-  "aliases": [],
+  "aliases": [
+    "九远观"
+  ],
   "summary": "仙域中的势力，金翰仙宫为其在仙域的脸面据点。",
   "attributes": {
-    "所属界面": "仙域/真仙界"
+    "所属界面": "仙界",
+    "掌门": "九元道祖"
   },
   "observations": {
     "所属界面": [
@@ -13,6 +16,18 @@
         "value": "仙域/真仙界",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "仙界",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
+    ],
+    "掌门": [
+      {
+        "value": "九元道祖",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -20,15 +35,22 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2251
+      "seq": 2407
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T16:47:57.345Z"
+  "updatedAt": "2026-06-21T20:45:59.501Z"
 }

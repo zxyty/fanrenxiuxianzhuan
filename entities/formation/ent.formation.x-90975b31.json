@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "商盟以两件玄天之宝为两处阵眼布下的大阵，用以封死真仙退路；阵眼无事则大阵生生不休运转。",
   "attributes": {
-    "效果": "封死退路、生生不休",
+    "效果": "自爆增幅、可灭真仙",
     "布置者": "商盟（明尊）",
     "出处": "商盟"
   },
@@ -15,6 +15,11 @@
         "value": "封死退路、生生不休",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "自爆增幅、可灭真仙",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "布置者": [
@@ -36,9 +41,9 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2389
+      "seq": 2407
     },
     "布置者": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T20:06:58.238Z"
+  "updatedAt": "2026-06-21T20:45:59.531Z"
 }

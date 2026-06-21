@@ -14,20 +14,24 @@
     "血祭仙人",
     "那名真仙",
     "马良所化金色巨人",
-    "马良所化巨人"
+    "马良所化巨人",
+    "鸣煞之地降临仙人"
   ],
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
     "性格": "心性过激、嗜血祭、自大",
-    "身份": "九元观弟子、降世真仙、仙界降临真仙、仙界顶阶仙人、下界真仙、真仙/仙人、操控真仙傀儡、争夺血河阵眼者、仙界真仙、真仙",
-    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术、可化金色神人、恢复全盛仙力、血河八条五爪血龙、黑白太极古镜、翠绿小伞、金灿灿符箓、蓝色玉盒、神魂禁制、金蓝二色符文交错、灵域之力、金色刺芒与蓝色火焰双目、紫金符文战甲",
+    "身份": "九元观弟子、降世真仙、仙界降临真仙、仙界顶阶仙人、下界真仙、真仙/仙人、操控真仙傀儡、争夺血河阵眼者、仙界真仙、真仙、九元观门人/九元道祖嫡系弟子、降临真仙",
+    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术、可化金色神人、恢复全盛仙力、血河八条五爪血龙、黑白太极古镜、翠绿小伞、金灿灿符箓、蓝色玉盒、神魂禁制、金蓝二色符文交错、灵域之力、金色刺芒与蓝色火焰双目、紫金符文战甲、持银笛施幻、断一指",
     "外貌": "黑袍病弱（瘦弱）青年、黑袍瘦弱青年、金色神人形象、千余丈金色巨人，一目金芒一目蓝焰、金色巨人、金色巨人/赤身常人身形",
     "阵营": "仙界",
     "小阶段": "真仙",
     "称号": "明尊",
     "种族": "仙界之人",
     "结局": "诛尽群强后揪出噬金仙",
-    "性别": "男"
+    "性别": "男",
+    "出身地": "仙界",
+    "存殁": "死亡",
+    "死因": "被韩立以玄天斩灵剑斩首、元婴震碎、鸣煞之地大战中被斩杀/两仪灭尘大阵自爆"
   },
   "observations": {
     "性格": [
@@ -93,6 +97,16 @@
         "value": "真仙",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
+      },
+      {
+        "value": "九元观门人/九元道祖嫡系弟子",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      },
+      {
+        "value": "降临真仙",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "标志特征": [
@@ -155,6 +169,11 @@
         "value": "金色刺芒与蓝色火焰双目、紫金符文战甲",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
+      },
+      {
+        "value": "持银笛施幻、断一指",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "外貌": [
@@ -255,6 +274,32 @@
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
       }
+    ],
+    "出身地": [
+      {
+        "value": "仙界",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立以玄天斩灵剑斩首、元婴震碎",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      },
+      {
+        "value": "鸣煞之地大战中被斩杀/两仪灭尘大阵自爆",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
     ]
   },
   "firstSeq": 2251,
@@ -319,6 +364,24 @@
       "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
       "dated": false,
       "seq": 2401
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
     }
   },
   "contested": false,
@@ -330,7 +393,8 @@
     "plot.fanren-2403-dingji",
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
     "plot.fanren-2395-2400-zhanlu-shang",
-    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T20:28:27.674Z"
+  "updatedAt": "2026-06-21T20:45:59.525Z"
 }

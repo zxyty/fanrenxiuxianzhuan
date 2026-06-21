@@ -20,14 +20,15 @@
     "灵族圣灵",
     "灵族同道",
     "灵类",
-    "Spirit race"
+    "Spirit race",
+    "灵族灵域"
   ],
   "summary": "灵界诸族中最弱小的族类，可化人形者为灵将（实力比肩人族化神），上有玄灵、圣灵级；真正大敌为夜叉族。",
   "attributes": {
     "特性": "五行灵体、灵将可化人形、可由灵物点化进化而生、开灵智艰难、数量稀少、开灵智即具神通",
     "天敌": "夜叉族",
     "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）、窈窕人影、白光人影、千秋仙子、千秋圣女、白戚、金鼓长老、藏形、止水、金长老、灵王、灵王（离铭化身）",
-    "聚居地": "灵界、灵界一角（如祖云山）、伏灵山/灵界、灵界灵族区域、伏灵山",
+    "聚居地": "灵界、灵界一角（如祖云山）、伏灵山/灵界、灵界灵族区域、伏灵山、伏灵山/灵族灵域",
     "阵营": "灵族联军",
     "天赋神通": "化白色小剑、剑丝、剑气"
   },
@@ -173,6 +174,11 @@
         "value": "伏灵山",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "伏灵山/灵族灵域",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "阵营": [
@@ -286,7 +292,8 @@
     "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
     "plot.chapter-2239-2244-worm-king-ancient-altar",
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T17:20:40.530Z"
+  "updatedAt": "2026-06-21T20:45:59.532Z"
 }

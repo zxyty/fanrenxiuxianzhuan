@@ -11,18 +11,20 @@
     "赤发老者",
     "明尊道友",
     "赤红头发老者",
-    "明某"
+    "明某",
+    "商盟总执事明尊",
+    "原商盟总执事"
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "赫连商盟风元大陆总执事、赫连商盟风元大陆主事人、赫连商盟总执事、本盟总执事、赫连商盟主事、商盟主事、联军统筹/本盟一员、围攻联盟首领、明尊",
+    "身份": "赫连商盟风元大陆总执事、赫连商盟风元大陆主事人、赫连商盟总执事、本盟总执事、赫连商盟主事、商盟主事、联军统筹/本盟一员、围攻联盟首领、明尊、原商盟总执事",
     "外貌": "赤红头发老者",
     "小阶段": "大乘期",
     "出身地": "仙人嫡系后人后裔",
     "阵营": "灵界大乘联军",
-    "性格": "深沉算计",
+    "性格": "老谋深算",
     "称号": "明尊",
-    "标志特征": "无形浮现凝聚之体",
+    "标志特征": "风雷之轮、一对白色羽翅、分魂之术",
     "存殁": "死亡",
     "死因": "被万灵血玺/金色世界灭为飞灰"
   },
@@ -72,6 +74,11 @@
         "value": "明尊",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
+      },
+      {
+        "value": "原商盟总执事",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "外貌": [
@@ -132,6 +139,11 @@
         "value": "深沉算计",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "老谋深算",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "称号": [
@@ -146,13 +158,19 @@
         "value": "无形浮现凝聚之体",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "风雷之轮、一对白色羽翅、分魂之术",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "存殁": [
       {
         "value": "死亡",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
-        "seq": 2401
+        "seq": 2401,
+        "note": "已于第2401章死亡，本章元婴躯壳被斩杀者带回并销毁"
       }
     ],
     "死因": [
@@ -197,9 +215,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2389
+      "seq": 2407
     },
     "称号": {
       "asOf": null,
@@ -209,15 +227,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2389
+      "seq": 2407
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
       "dated": false,
-      "seq": 2401
+      "seq": 2401,
+      "note": "已于第2401章死亡，本章元婴躯壳被斩杀者带回并销毁"
     },
     "死因": {
       "asOf": null,
@@ -236,7 +255,8 @@
     "plot.fanren-2403-dingji",
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
     "plot.fanren-2395-2400-zhanlu-shang",
-    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T20:28:27.678Z"
+  "updatedAt": "2026-06-21T20:45:59.525Z"
 }

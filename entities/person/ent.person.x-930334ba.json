@@ -3,14 +3,19 @@
   "type": "person",
   "name": "火须子",
   "aliases": [
-    "灰袍男子"
+    "灰袍男子",
+    "蠢蛟",
+    "火灵兽",
+    "火须道友"
   ],
   "summary": "真仙、仙界来客，被马良以神魂禁制操控仅能发挥不足一成力量；化千余丈银色巨剑战火须兽，被自爆削去小半身躯而败遁。",
   "attributes": {
-    "身份": "真仙（仙界来客，被马良操控）",
-    "外貌": "灰袍普通面容男子",
-    "标志特征": "化千余丈银色巨剑",
-    "存殁": "重伤遁走"
+    "身份": "真仙（仙界来客，被马良操控）、马良役使之物、韩立灵仆",
+    "外貌": "浑身赤红长须的怪蛟／三尺赤红小人",
+    "标志特征": "赤红小人本体，可化赤红怪蛟",
+    "存殁": "重伤遁走",
+    "种族": "火中圣兽/火灵之身、火灵兽",
+    "阵营": "韩立一方"
   },
   "observations": {
     "身份": [
@@ -18,6 +23,17 @@
         "value": "真仙（仙界来客，被马良操控）",
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
+      },
+      {
+        "value": "马良役使之物",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407,
+        "note": "受本命珠与禁制挟制"
+      },
+      {
+        "value": "韩立灵仆",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "外貌": [
@@ -26,6 +42,11 @@
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395,
         "note": "本相为赤红小人"
+      },
+      {
+        "value": "浑身赤红长须的怪蛟／三尺赤红小人",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "标志特征": [
@@ -33,6 +54,11 @@
         "value": "化千余丈银色巨剑",
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
+      },
+      {
+        "value": "赤红小人本体，可化赤红怪蛟",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ],
     "存殁": [
@@ -40,6 +66,25 @@
         "value": "重伤遁走",
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
+      }
+    ],
+    "种族": [
+      {
+        "value": "火中圣兽/火灵之身",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      },
+      {
+        "value": "火灵兽",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
       }
     ]
   },
@@ -53,28 +98,40 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2395,
-      "note": "本相为赤红小人"
+      "seq": 2407
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "docId": "plot.fanren-2427-zhanxian-zhong",
       "dated": false,
-      "seq": 2395
+      "seq": 2407
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
       "seq": 2395
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T20:19:53.988Z"
+  "updatedAt": "2026-06-21T20:45:59.522Z"
 }

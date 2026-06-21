@@ -2,11 +2,18 @@
   "id": "ent.race.x-2815af40",
   "type": "race",
   "name": "天外魔头",
-  "aliases": [],
+  "aliases": [
+    "黑肤青年",
+    "魔光",
+    "魔兄",
+    "魔某",
+    "魔光兄"
+  ],
   "summary": "界外魔类存在，可侵入度劫者心神使之魔化；被其附身的生灵躯体最终化为魔尘。",
   "attributes": {
     "特性": "侵入心神令存在魔化、被附身者躯体化为魔尘",
-    "代表人物": "天外魔君"
+    "代表人物": "天外魔君",
+    "阵营": "韩立一方"
   },
   "observations": {
     "特性": [
@@ -27,6 +34,13 @@
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
       }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-2427-zhanxian-zhong",
+        "seq": 2407
+      }
     ]
   },
   "firstSeq": 1633,
@@ -42,12 +56,19 @@
       "docId": "plot.fanren-ch1637-tulao-wugong",
       "dated": false,
       "seq": 1633
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2427-zhanxian-zhong",
+      "dated": false,
+      "seq": 2407
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1637-tulao-wugong"
+    "plot.fanren-ch1637-tulao-wugong",
+    "plot.fanren-2427-zhanxian-zhong"
   ],
-  "updatedAt": "2026-06-21T01:48:19.349Z"
+  "updatedAt": "2026-06-21T20:45:59.521Z"
 }
