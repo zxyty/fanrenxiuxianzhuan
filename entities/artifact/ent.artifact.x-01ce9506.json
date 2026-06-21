@@ -6,9 +6,10 @@
   "summary": "万奴塔独门秘术炼制的傀儡，无法被元神寄附，靠预设法器法决控制行动，材料手法粗糙却实力不弱，可挡一般元婴修士。",
   "attributes": {
     "持有者": "万奴塔",
-    "能力": "靠法器法决控制、守卫塔门",
+    "能力": "靠法器法决控制、守卫塔门、先天冻光巨刃、乳白光柱、赤红符文大手",
     "来历": "万奴塔独门炼制秘术",
-    "外形": "浑身甲胄高大卫士"
+    "外形": "十几丈高、赤红甲衣、眉宇镶赤红晶石、提晶莹巨刃",
+    "品阶": "近合体后期大成"
   },
   "observations": {
     "持有者": [
@@ -23,6 +24,21 @@
         "value": "靠法器法决控制、守卫塔门",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "先天冻光巨刃",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      },
+      {
+        "value": "乳白光柱",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      },
+      {
+        "value": "赤红符文大手",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "来历": [
@@ -37,6 +53,18 @@
         "value": "浑身甲胄高大卫士",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "十几丈高、赤红甲衣、眉宇镶赤红晶石、提晶莹巨刃",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      }
+    ],
+    "品阶": [
+      {
+        "value": "近合体后期大成",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ]
   },
@@ -62,15 +90,22 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2029
+      "seq": 2227
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+      "dated": false,
+      "seq": 2227
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T11:46:30.242Z"
+  "updatedAt": "2026-06-21T16:13:20.177Z"
 }

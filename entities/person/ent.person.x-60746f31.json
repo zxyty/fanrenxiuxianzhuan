@@ -17,11 +17,13 @@
     "种族": "圣族",
     "阵营": "魔族、魔族/圣族、魔族/圣界、圣族、魔界、圣界",
     "性别": "女",
-    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一、魔界始祖、六极化身、圣界始祖",
+    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一、魔界始祖、六极化身、圣界始祖、圣界三大始祖之一",
     "标志特征": "绿色小人元神、淡蓝色清澈眼珠、拥六大化身",
     "外貌": "妙龄女子",
     "称号": "圣祖",
-    "小阶段": "合体后期"
+    "小阶段": "合体后期",
+    "存殁": "死亡",
+    "死因": "被宝花以粉红花瓣巨刃形神俱灭"
   },
   "observations": {
     "种族": [
@@ -111,6 +113,11 @@
         "value": "圣界始祖",
         "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
         "seq": 2221
+      },
+      {
+        "value": "圣界三大始祖之一",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "标志特征": [
@@ -178,6 +185,20 @@
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      }
+    ],
+    "死因": [
+      {
+        "value": "被宝花以粉红花瓣巨刃形神俱灭",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      }
     ]
   },
   "firstSeq": 1927,
@@ -230,6 +251,18 @@
       "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
       "seq": 2113
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+      "dated": false,
+      "seq": 2227
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+      "dated": false,
+      "seq": 2227
     }
   },
   "contested": false,
@@ -246,7 +279,8 @@
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
     "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
-    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T16:05:09.818Z"
+  "updatedAt": "2026-06-21T16:13:20.118Z"
 }

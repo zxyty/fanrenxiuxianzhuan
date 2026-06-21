@@ -7,9 +7,9 @@
   ],
   "summary": "泣灵秘藏中的飞行至宝，可排进圣界前三。",
   "attributes": {
-    "品阶": "圣界前三飞行至宝",
+    "品阶": "魔界前三飞行异宝",
     "能力": "极速飞行/护主",
-    "外形": "舟"
+    "外形": "飞行舟"
   },
   "observations": {
     "品阶": [
@@ -17,6 +17,11 @@
         "value": "圣界前三飞行至宝",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "魔界前三飞行异宝",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "能力": [
@@ -31,6 +36,11 @@
         "value": "舟",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "飞行舟",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ]
   },
@@ -38,9 +48,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2017
+      "seq": 2227
     },
     "能力": {
       "asOf": null,
@@ -50,15 +60,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2017
+      "seq": 2227
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T11:26:23.681Z"
+  "updatedAt": "2026-06-21T16:13:20.173Z"
 }

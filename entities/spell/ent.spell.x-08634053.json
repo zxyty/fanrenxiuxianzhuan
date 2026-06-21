@@ -9,8 +9,8 @@
   ],
   "summary": "何康降下的五色电弧雷柱，无视虫母真极之躯将其寸寸击碎，但仅能持续极短时间。",
   "attributes": {
-    "类型": "天雷刑罚",
-    "威力": "可灭玄仙真极之躯",
+    "类型": "仙界天雷",
+    "威力": "可灭妖核精魂",
     "消耗": "耗何康魂念之力九成"
   },
   "observations": {
@@ -19,6 +19,11 @@
         "value": "天雷刑罚",
         "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
         "seq": 2221
+      },
+      {
+        "value": "仙界天雷",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "威力": [
@@ -26,6 +31,11 @@
         "value": "可灭玄仙真极之躯",
         "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
         "seq": 2221
+      },
+      {
+        "value": "可灭妖核精魂",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "消耗": [
@@ -40,15 +50,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2221
+      "seq": 2227
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2221
+      "seq": 2227
     },
     "消耗": {
       "asOf": null,
@@ -60,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T16:05:09.803Z"
+  "updatedAt": "2026-06-21T16:13:20.144Z"
 }

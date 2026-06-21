@@ -4,11 +4,12 @@
   "name": "泣灵秘藏",
   "aliases": [
     "泣灵秘图",
-    "泣灵宝藏"
+    "泣灵宝藏",
+    "泣灵秘藏入口"
   ],
   "summary": "泣灵圣祖亲绘秘图所指的宝藏，含众多珍宝及墨灵圣舟。",
   "attributes": {
-    "类型": "宝藏/秘图",
+    "类型": "宝藏/秘图、藏宝图、藏宝禁地",
     "用途": "获取泣灵圣祖神通与众多至宝"
   },
   "observations": {
@@ -17,6 +18,16 @@
         "value": "宝藏/秘图",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "藏宝图",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
+      },
+      {
+        "value": "藏宝禁地",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "用途": [
@@ -45,7 +56,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T11:26:23.679Z"
+  "updatedAt": "2026-06-21T16:13:20.184Z"
 }

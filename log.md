@@ -740,3 +740,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T15:54:22.607Z** `ingest` plot.fanren-2228-2233-mingchong-zhimu-zhizhan — 凡人修仙传 第2228-2233章｜地宫围攻螟虫之母（凤灵宝盘·土皇钉·法则之线） · kind=plot asOf=2026-06-21 entities=18 relations=17 src=02209-02214.md
 - **2026-06-21T15:57:21.833Z** `ingest` plot.fanren-2234-2239-chongmu-zhi-zhan — 凡人修仙传 第2234-2239章 虫母之战：真极之躯觉醒 · kind=plot asOf=2026-06-21 entities=16 relations=23 src=02215-02220.md
 - **2026-06-21T16:05:10.056Z** `ingest` plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha — 第2221-2226章 玄仙·真极之躯与螟虫之母伏诛 · kind=plot asOf=2026-06-21 entities=27 relations=35 src=02221-02226.md
+- **2026-06-21T16:13:20.414Z** `ingest` plot.fanren-2227-2232-zhiling-guangyuan — 凡人修仙传 第2227-2232章｜宝花诛六极、重回广源斋会紫灵、三准虫王最后进化 · kind=plot asOf=2026-06-21 entities=45 relations=44 src=02227-02232.md

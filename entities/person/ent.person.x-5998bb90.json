@@ -6,15 +6,17 @@
     "麻衣少女",
     "蓝仙子",
     "广源斋小姐",
-    "蓝颖妹妹"
+    "蓝颖妹妹",
+    "蓝姑娘",
+    "蓝颖道友"
   ],
   "summary": "广源斋真正主人，仅化神期但有异宝护身排斥神念；精通卜算，前任斋主祖母陨落后接任。",
   "attributes": {
     "性别": "女",
     "种族": "魔族",
     "小阶段": "化神初期",
-    "身份": "广源斋",
-    "外貌": "麻衣粗袍、相貌平凡、额头略宽",
+    "身份": "广源斋仙子",
+    "外貌": "麻衣少女",
     "性格": "才智无双、清醒务实",
     "阵营": "魔界"
   },
@@ -55,6 +57,11 @@
         "value": "广源斋",
         "docId": "plot.fanren-2168-muzu-dazhan-12",
         "seq": 2149
+      },
+      {
+        "value": "广源斋仙子",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "外貌": [
@@ -62,6 +69,11 @@
         "value": "麻衣粗袍、相貌平凡、额头略宽",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "麻衣少女",
+        "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+        "seq": 2227
       }
     ],
     "性格": [
@@ -101,15 +113,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2149
+      "seq": 2227
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
       "dated": false,
-      "seq": 2101
+      "seq": 2227
     },
     "性格": {
       "asOf": null,
@@ -130,7 +142,8 @@
     "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
     "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
-    "plot.fanren-2168-muzu-dazhan-12"
+    "plot.fanren-2168-muzu-dazhan-12",
+    "plot.fanren-2227-2232-zhiling-guangyuan"
   ],
-  "updatedAt": "2026-06-21T14:46:57.223Z"
+  "updatedAt": "2026-06-21T16:13:20.168Z"
 }
