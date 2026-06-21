@@ -10,13 +10,13 @@
   "summary": "占据一片内海万余年的水族妖修，被韩立等擒住，充当寻找司南四方坛的向导。",
   "attributes": {
     "种族": "水族妖修、妖族",
-    "小阶段": "合体初期、合体中期",
+    "小阶段": "合体初期、合体中期、合体",
     "称号": "花石老祖",
     "阵营": "妖族",
     "性格": "暴躁、敬畏感激",
     "结局": "被擒带路",
-    "身份": "韩立随从",
-    "标志特征": "精水属性神通"
+    "身份": "韩立随从/傀儡操控者",
+    "标志特征": "幻化十几丈漆黑巨蟒"
   },
   "observations": {
     "种族": [
@@ -42,6 +42,11 @@
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239,
         "note": "本片段由合体初期突破而来"
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "称号": [
@@ -83,6 +88,11 @@
         "value": "韩立随从",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "韩立随从/傀儡操控者",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "标志特征": [
@@ -90,6 +100,11 @@
         "value": "精水属性神通",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "幻化十几丈漆黑巨蟒",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ]
   },
@@ -134,22 +149,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2281
+      "seq": 2317
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2281
+      "seq": 2317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.chapter-2239-2244-worm-king-ancient-altar",
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:20:40.545Z"
+  "updatedAt": "2026-06-21T17:47:59.016Z"
 }

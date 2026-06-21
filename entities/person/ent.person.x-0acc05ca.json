@@ -4,12 +4,17 @@
   "name": "碧影",
   "aliases": [
     "碧老怪",
-    "碧影道友"
+    "碧影道友",
+    "碧影大人",
+    "碧道友",
+    "碧兄"
   ],
   "summary": "血天大陆某谋划大事者，明尊借七窍心音壁向其举荐韩立为帮手。",
   "attributes": {
-    "身份": "血天大陆谋划者",
-    "阵营": "血天大陆"
+    "身份": "血天大陆谋划者、赫连商盟血天大陆总执事、赫连商盟首领",
+    "阵营": "血天大陆",
+    "小阶段": "大乘期、合体",
+    "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者"
   },
   "observations": {
     "身份": [
@@ -17,6 +22,16 @@
         "value": "血天大陆谋划者",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "赫连商盟血天大陆总执事",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      },
+      {
+        "value": "赫连商盟首领",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "阵营": [
@@ -24,6 +39,33 @@
         "value": "血天大陆",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317,
+        "note": "压制伪装；本体实为大乘"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰袍老僧",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317,
+        "note": "分念寄付的图中化身"
+      },
+      {
+        "value": "面容枯黄、两眼浑浊、身穿绿袍的老者",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317,
+        "note": "对外伪装成圆脸青年"
       }
     ]
   },
@@ -40,12 +82,26 @@
       "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
       "dated": false,
       "seq": 2305
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317,
+      "note": "分念寄付的图中化身"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:37:08.061Z"
+  "updatedAt": "2026-06-21T17:47:59.013Z"
 }

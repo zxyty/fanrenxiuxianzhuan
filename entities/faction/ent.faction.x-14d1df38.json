@@ -2,12 +2,15 @@
   "id": "ent.faction.x-14d1df38",
   "type": "faction",
   "name": "血骨门",
-  "aliases": [],
+  "aliases": [
+    "血道大宗血骨门"
+  ],
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
     "阵营": "魔道",
     "所属界面": "灵界",
-    "理念": "血道魔功"
+    "理念": "血道功法霸道",
+    "据点": "血天大陆"
   },
   "observations": {
     "阵营": [
@@ -29,6 +32,18 @@
         "value": "血道魔功",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "血道功法霸道",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      }
+    ],
+    "据点": [
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ]
   },
@@ -48,9 +63,15 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2305
+      "seq": 2317
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
     }
   },
   "contested": false,
@@ -58,7 +79,8 @@
   "docs": [
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
     "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:37:08.069Z"
+  "updatedAt": "2026-06-21T17:47:59.018Z"
 }

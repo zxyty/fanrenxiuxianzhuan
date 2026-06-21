@@ -11,7 +11,8 @@
   "attributes": {
     "性别": "女",
     "身份": "赫连商盟接待仙子",
-    "外貌": "紫色宫装面带轻纱"
+    "外貌": "紫色宫装面带轻纱",
+    "阵营": "赫连商盟"
   },
   "observations": {
     "性别": [
@@ -39,6 +40,13 @@
         "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
         "seq": 2299
       }
+    ],
+    "阵营": [
+      {
+        "value": "赫连商盟",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      }
     ]
   },
   "firstSeq": 2299,
@@ -60,13 +68,20 @@
       "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
       "seq": 2299
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:37:08.059Z"
+  "updatedAt": "2026-06-21T17:47:58.982Z"
 }

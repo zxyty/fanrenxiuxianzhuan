@@ -9,10 +9,11 @@
   ],
   "summary": "横跨数个大陆的超级商盟，于赤融山脉黑焦峰举办拍卖会，主事人明尊。",
   "attributes": {
-    "等级": "超级势力",
-    "据点": "风元大陆洞天",
-    "理念": "横跨数大陆的商业联盟",
-    "所属界面": "灵界"
+    "等级": "横跨三大陆超级势力",
+    "据点": "黑焦峰、风元大陆、风元大陆洞天、雷霆大陆、血天大陆",
+    "理念": "暗中维护灵界、排除外来势力",
+    "所属界面": "灵界",
+    "镇派之宝": "仙界秘术"
   },
   "observations": {
     "等级": [
@@ -20,6 +21,11 @@
         "value": "超级势力",
         "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
         "seq": 2299
+      },
+      {
+        "value": "横跨三大陆超级势力",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "据点": [
@@ -37,6 +43,16 @@
         "value": "风元大陆洞天",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "雷霆大陆",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      },
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "理念": [
@@ -44,6 +60,11 @@
         "value": "横跨数大陆的商业联盟",
         "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
         "seq": 2299
+      },
+      {
+        "value": "暗中维护灵界、排除外来势力",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "所属界面": [
@@ -52,33 +73,46 @@
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "仙界秘术",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      }
     ]
   },
   "firstSeq": 2299,
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2299
+      "seq": 2317
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
-      "dated": false,
-      "seq": 2311
-    },
-    "理念": {
-      "asOf": null,
       "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
       "seq": 2299
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
       "seq": 2311
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
     }
   },
   "contested": false,
@@ -86,7 +120,8 @@
   "docs": [
     "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
-    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:40:04.928Z"
+  "updatedAt": "2026-06-21T17:47:59.018Z"
 }

@@ -10,9 +10,10 @@
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "赫连商盟风元大陆主事人",
+    "身份": "赫连商盟总执事",
     "外貌": "红发老者",
-    "小阶段": "大乘"
+    "小阶段": "大乘期",
+    "出身地": "风元大陆"
   },
   "observations": {
     "身份": [
@@ -25,6 +26,11 @@
         "value": "赫连商盟风元大陆主事人",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "赫连商盟总执事",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ],
     "外貌": [
@@ -39,6 +45,18 @@
         "value": "大乘",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
+      }
+    ],
+    "出身地": [
+      {
+        "value": "风元大陆",
+        "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+        "seq": 2317
       }
     ]
   },
@@ -46,9 +64,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2311
+      "seq": 2317
     },
     "外貌": {
       "asOf": null,
@@ -58,16 +76,23 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
-      "seq": 2305
+      "seq": 2317
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "dated": false,
+      "seq": 2317
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
-    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
   ],
-  "updatedAt": "2026-06-21T17:40:04.921Z"
+  "updatedAt": "2026-06-21T17:47:58.982Z"
 }
