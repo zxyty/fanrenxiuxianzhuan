@@ -5,13 +5,21 @@
   "aliases": [],
   "summary": "虚天鼎系列的第二只宝鼎，功效逊于虚皇鼎。",
   "attributes": {
-    "外形": "青色宝鼎（虚天鼎系列）"
+    "外形": "青色宝鼎（虚天鼎系列）",
+    "来历": "血灵仿制"
   },
   "observations": {
     "外形": [
       {
         "value": "青色宝鼎（虚天鼎系列）",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "来历": [
+      {
+        "value": "血灵仿制",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -23,12 +31,19 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.764Z"
+  "updatedAt": "2026-06-21T09:16:08.488Z"
 }

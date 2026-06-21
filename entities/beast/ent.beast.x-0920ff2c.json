@@ -8,8 +8,9 @@
   "summary": "带一丝火凤血脉的火焰巨鸟，天蝉自钵盂放出三只，喷息玄妙，用以牵制极阴之体的黄粱石灵。",
   "attributes": {
     "血脉": "一丝火凤血脉",
-    "能力": "玄妙喷息",
-    "外形": "通体赤红火焰巨鸟、十余丈"
+    "能力": "玄妙喷息、喷息玄妙、牵制灵物",
+    "外形": "通体赤红火焰巨鸟、十余丈、通体赤红、十余丈火焰巨鸟",
+    "主人": "天蝉"
   },
   "observations": {
     "血脉": [
@@ -24,12 +25,29 @@
         "value": "玄妙喷息",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "喷息玄妙、牵制灵物",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "外形": [
       {
         "value": "通体赤红火焰巨鸟、十余丈",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "通体赤红、十余丈火焰巨鸟",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      }
+    ],
+    "主人": [
+      {
+        "value": "天蝉",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -53,12 +71,19 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.779Z"
+  "updatedAt": "2026-06-21T09:16:08.532Z"
 }

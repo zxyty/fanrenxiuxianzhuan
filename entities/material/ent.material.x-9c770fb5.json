@@ -9,7 +9,7 @@
   "attributes": {
     "类型": "幻阵材料",
     "用途": "布置大型幻阵",
-    "稀有度": "极品/五万年方成",
+    "稀有度": "极品/五万年方成、极品/五万年孕育",
     "产地": "黄泉地火"
   },
   "observations": {
@@ -31,6 +31,11 @@
       {
         "value": "极品/五万年方成",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "极品/五万年孕育",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ],
@@ -72,7 +77,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.777Z"
+  "updatedAt": "2026-06-21T09:16:08.527Z"
 }

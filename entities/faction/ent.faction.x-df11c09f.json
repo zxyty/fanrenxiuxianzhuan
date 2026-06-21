@@ -3,13 +3,15 @@
   "type": "faction",
   "name": "圣岛",
   "aliases": [
-    "灵族圣岛"
+    "灵族圣岛",
+    "圣岛使者",
+    "Holy Island"
   ],
   "summary": "人族顶尖势力，与莫简离并为人族抵御魔劫的信心所系。",
   "attributes": {
     "阵营": "人族",
     "所属界面": "灵界",
-    "镇派之宝": "银霄雷网"
+    "镇派之宝": "银霄雷网、银霄雷网（外借灵宝）"
   },
   "observations": {
     "阵营": [
@@ -30,6 +32,11 @@
       {
         "value": "银霄雷网",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "银霄雷网（外借灵宝）",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -61,7 +68,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-21T06:38:29.226Z"
+  "updatedAt": "2026-06-21T09:16:08.528Z"
 }

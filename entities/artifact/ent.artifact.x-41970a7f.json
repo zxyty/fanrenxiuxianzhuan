@@ -8,9 +8,9 @@
   "summary": "血灵出发前仿制的第三只宝鼎，外形与虚天鼎七八分相似，功效远胜虚天鼎与虚灵鼎，是进入某地的钥匙之一。",
   "attributes": {
     "持有者": "血灵",
-    "来历": "血灵仿制虚天鼎系列所造的第三只宝鼎",
+    "来历": "血灵仿制虚天鼎系列所造的第三只宝鼎、血灵仿制",
     "外形": "青光闪闪、表面花纹精美的青色小鼎",
-    "能力": "功效远胜虚天鼎、虚灵鼎，为进入某地的钥匙之一"
+    "能力": "功效远胜虚天鼎、虚灵鼎，为进入某地的钥匙之一、功效胜虚天鼎、虚灵鼎；为进入某地的钥匙之一"
   },
   "observations": {
     "持有者": [
@@ -25,6 +25,11 @@
         "value": "血灵仿制虚天鼎系列所造的第三只宝鼎",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "血灵仿制",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "外形": [
@@ -38,6 +43,11 @@
       {
         "value": "功效远胜虚天鼎、虚灵鼎，为进入某地的钥匙之一",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "功效胜虚天鼎、虚灵鼎；为进入某地的钥匙之一",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -72,7 +82,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.763Z"
+  "updatedAt": "2026-06-21T09:16:08.485Z"
 }

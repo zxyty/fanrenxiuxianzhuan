@@ -11,10 +11,10 @@
   "summary": "魔族围攻倚天城的大战；同期韩立被七色宝塔摄入须弥空间闯塔，并反杀阴阳二刹美妇。",
   "attributes": {
     "章节": "第1917-1919章、第1912-1913章、第1914-1916章",
-    "地点": "倚天城/七色宝塔须弥空间",
-    "参与方": "人族、魔族、韩立、阴阳二刹美妇、人族修士、魔族尊者、人族倚天城、魔族（圣族）",
+    "地点": "灵界",
+    "参与方": "人族、魔族、韩立、阴阳二刹美妇、人族修士、魔族尊者、人族倚天城、魔族（圣族）、妖族、木族、夜叉族",
     "结果": "韩立闯至第七层、击杀阴阳二刹美妇",
-    "经过": "韩立被镇入须弥宝塔，倚天城放出合息兽，魔族召化血冥卫、珈轮战魔破城"
+    "经过": "魔族驻扎并奴役人族凡人，意图长久居于灵界"
   },
   "observations": {
     "章节": [
@@ -44,6 +44,11 @@
         "value": "倚天城",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "参与方": [
@@ -86,6 +91,21 @@
         "value": "魔族（圣族）",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      },
+      {
+        "value": "木族",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      },
+      {
+        "value": "夜叉族",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "结果": [
@@ -105,6 +125,11 @@
         "value": "韩立被镇入须弥宝塔，倚天城放出合息兽，魔族召化血冥卫、珈轮战魔破城",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "魔族驻扎并奴役人族凡人，意图长久居于灵界",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ]
   },
@@ -118,9 +143,9 @@
     },
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1935-fei-cheng",
       "dated": false,
-      "seq": 1903
+      "seq": 1921
     },
     "参与方": {
       "asOf": null,
@@ -136,16 +161,17 @@
     },
     "经过": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.fanren-1935-fei-cheng",
       "dated": false,
-      "seq": 1897
+      "seq": 1921
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1911-yitian-war-2"
+    "plot.fanren-1911-yitian-war-2",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-21T08:33:31.982Z"
+  "updatedAt": "2026-06-21T09:16:08.500Z"
 }

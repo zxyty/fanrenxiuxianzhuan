@@ -10,9 +10,9 @@
   ],
   "summary": "黄濛濛、寸草不生的荒凉高原，藏天地阴火，可借以吸出镇魔锁中混沌二气；韩立飞抵此处布阵迎敌。",
   "attributes": {
-    "类型": "凶险秘地",
-    "特产": "天地阴火、混沌二气、黄粱梦石、奇寒之力、阴火类宝物",
-    "危险度": "极高",
+    "类型": "天地阴火之地、凶险秘地、地火、地火/秘境、阴寒秘地",
+    "特产": "天地阴火、混沌二气、黄粱梦石、奇寒之力、阴火类宝物、黄粱石灵、阴寒奇火",
+    "危险度": "高、极高、稀有但人族少重视、极高（大乘亦只能至万丈）",
     "所属界面": "灵界"
   },
   "observations": {
@@ -31,6 +31,16 @@
         "value": "地火",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "地火/秘境",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      },
+      {
+        "value": "阴寒秘地",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "特产": [
@@ -58,6 +68,16 @@
         "value": "阴火类宝物",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "黄粱石灵",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      },
+      {
+        "value": "阴寒奇火",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "危险度": [
@@ -75,6 +95,11 @@
         "value": "稀有但人族少重视",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "极高（大乘亦只能至万丈）",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "所属界面": [
@@ -89,9 +114,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1921
+      "seq": 1891
     },
     "特产": {
       "asOf": null,
@@ -101,9 +126,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1921
+      "seq": 1891
     },
     "所属界面": {
       "asOf": null,
@@ -118,7 +143,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-21T08:55:10.676Z"
+  "updatedAt": "2026-06-21T09:16:08.528Z"
 }

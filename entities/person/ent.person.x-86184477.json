@@ -15,9 +15,10 @@
     "性别": "女",
     "种族": "人族",
     "外貌": "身材高挑、皮肤雪白",
-    "阵营": "许家",
+    "阵营": "许家、人族",
     "身份": "天渊城附近修士、许家大小姐、许家弟子、许家修士",
-    "小阶段": "化神期"
+    "小阶段": "化神期",
+    "出身地": "许世家族"
   },
   "observations": {
     "性别": [
@@ -45,6 +46,11 @@
       {
         "value": "许家",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ],
@@ -75,6 +81,13 @@
         "value": "化神期",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      }
+    ],
+    "出身地": [
+      {
+        "value": "许世家族",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ]
   },
@@ -115,6 +128,12 @@
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
       "seq": 1759
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
     }
   },
   "contested": false,
@@ -122,7 +141,8 @@
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-21T05:11:37.990Z"
+  "updatedAt": "2026-06-21T09:16:08.460Z"
 }

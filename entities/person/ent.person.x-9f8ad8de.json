@@ -1,0 +1,62 @@
+{
+  "id": "ent.person.x-9f8ad8de",
+  "type": "person",
+  "name": "小青",
+  "aliases": [],
+  "summary": "许芊羽侄女，圆脸女修，少出游历、言辞冒失被斥。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "圆脸",
+    "身份": "许芊羽侄女"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      }
+    ],
+    "外貌": [
+      {
+        "value": "圆脸",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      }
+    ],
+    "身份": [
+      {
+        "value": "许芊羽侄女",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      }
+    ]
+  },
+  "firstSeq": 1921,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1935-fei-cheng"
+  ],
+  "updatedAt": "2026-06-21T09:16:08.464Z"
+}

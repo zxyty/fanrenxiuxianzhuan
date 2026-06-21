@@ -9,7 +9,9 @@
   "summary": "新近投入圣皇麾下的合体期以上姓韩前辈，被简飞天列为可能的救命者之一。",
   "attributes": {
     "种族": "人族",
-    "身份": "圣皇麾下"
+    "身份": "圣皇麾下",
+    "称号": "九泪真人",
+    "阵营": "圣皇麾下"
   },
   "observations": {
     "种族": [
@@ -23,6 +25,20 @@
       {
         "value": "圣皇麾下",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      }
+    ],
+    "称号": [
+      {
+        "value": "九泪真人",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      }
+    ],
+    "阵营": [
+      {
+        "value": "圣皇麾下",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -40,12 +56,25 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1935-fei-cheng",
+      "dated": false,
+      "seq": 1921
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.774Z"
+  "updatedAt": "2026-06-21T09:16:08.524Z"
 }

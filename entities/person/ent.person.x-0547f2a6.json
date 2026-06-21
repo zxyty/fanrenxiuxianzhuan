@@ -3,12 +3,13 @@
   "type": "person",
   "name": "简飞天",
   "aliases": [
-    "天马门简飞天"
+    "天马门简飞天",
+    "天马门白须老者"
   ],
   "summary": "天马门白须老者，被韩立从魔族围剿中救下，率众向西避祸。",
   "attributes": {
     "种族": "人族",
-    "身份": "天马门修士",
+    "身份": "天马门修士、天马门长辈",
     "外貌": "白须老者"
   },
   "observations": {
@@ -23,6 +24,11 @@
       {
         "value": "天马门修士",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "天马门长辈",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ],
@@ -58,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.773Z"
+  "updatedAt": "2026-06-21T09:16:08.518Z"
 }

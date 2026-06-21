@@ -9,7 +9,7 @@
   "summary": "黄泉地火深处黄粱梦石孕育五万年而生灵智的天地灵物，天赋瞬息幻术，体内妖晶为人族对付魔劫之物。",
   "attributes": {
     "等级": "天地灵物",
-    "能力": "瞬息幻术、普通石灵神通",
+    "能力": "瞬息幻术、普通石灵神通、瞬息释放幻术、普通灵石神通",
     "栖息地": "黄泉地火深处"
   },
   "observations": {
@@ -29,6 +29,16 @@
       {
         "value": "普通石灵神通",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "瞬息释放幻术",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
+      },
+      {
+        "value": "普通灵石神通",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ],
@@ -64,7 +74,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.776Z"
+  "updatedAt": "2026-06-21T09:16:08.526Z"
 }

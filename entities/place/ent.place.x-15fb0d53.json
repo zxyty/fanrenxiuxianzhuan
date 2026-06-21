@@ -9,7 +9,7 @@
   "attributes": {
     "所属界面": "灵界",
     "所属势力": "人族",
-    "守护": "圣皇"
+    "守护": "圣皇、圣皇前辈"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +30,11 @@
       {
         "value": "圣皇",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "圣皇前辈",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.766Z"
+  "updatedAt": "2026-06-21T09:16:08.494Z"
 }

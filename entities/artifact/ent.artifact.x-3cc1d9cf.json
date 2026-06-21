@@ -8,16 +8,21 @@
   ],
   "summary": "混沌万灵榜上排名不低的灵宝，化银雾笼罩封锁，不受雷劫影响，用以封死石灵空中逃路。",
   "attributes": {
-    "品阶": "灵宝（混沌万灵榜）",
-    "持有者": "黑雨上人",
-    "能力": "化银雾封锁、不受雷劫影响",
-    "外形": "银色丝网"
+    "品阶": "灵宝（混沌万灵榜）、混沌万灵榜灵宝",
+    "持有者": "黑雨上人、黑雨上人（圣岛外借）",
+    "能力": "化银雾封锁、不受雷劫影响、封锁空中退路、隐匿不被感应、不受天劫雷影响",
+    "外形": "银色丝网、银色薄雾/丝网"
   },
   "observations": {
     "品阶": [
       {
         "value": "灵宝（混沌万灵榜）",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "混沌万灵榜灵宝",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ],
@@ -26,6 +31,11 @@
         "value": "黑雨上人",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "黑雨上人（圣岛外借）",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "能力": [
@@ -33,12 +43,22 @@
         "value": "化银雾封锁、不受雷劫影响",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "封锁空中退路、隐匿不被感应、不受天劫雷影响",
+        "docId": "plot.fanren-1935-fei-cheng",
+        "seq": 1921
       }
     ],
     "外形": [
       {
         "value": "银色丝网",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "seq": 1921
+      },
+      {
+        "value": "银色薄雾/丝网",
+        "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
       }
     ]
@@ -73,7 +93,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1935-fei-cheng"
   ],
-  "updatedAt": "2026-06-17T03:26:19.778Z"
+  "updatedAt": "2026-06-21T09:16:08.534Z"
 }
