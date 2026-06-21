@@ -14,13 +14,13 @@
   ],
   "summary": "人族顶阶存在，与林鸾联手在顶阶争斗中抵御「小女子」与「白袍男子」，节节后退。",
   "attributes": {
-    "阵营": "人族（倚天城方）",
+    "阵营": "天渊城",
     "性别": "女",
     "小阶段": "合体后期大成",
-    "身份": "天渊城长老、原长老会候补长老、人族修士、倚天城援军",
+    "身份": "天渊城长老、原长老会候补长老、人族修士、倚天城援军、天渊城长老会成员",
     "种族": "人族",
     "标志特征": "银色面具、声音悦耳、银色面具、青丝披肩、银色面具、碧梭、操纵银色美女头颅、银钩化白月赤日、万丈银芒、银色尺/匹练",
-    "外貌": "戴面具白衣女子、戴面具、银色面具"
+    "外貌": "戴面具白衣女子、戴面具、银色面具、身穿银袍"
   },
   "observations": {
     "阵营": [
@@ -38,6 +38,11 @@
         "value": "人族（倚天城方）",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "性别": [
@@ -84,6 +89,11 @@
         "value": "倚天城援军",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "天渊城长老会成员",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "种族": [
@@ -160,6 +170,11 @@
         "value": "银色面具",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "身穿银袍",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ]
   },
@@ -167,9 +182,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
       "dated": false,
-      "seq": 1897
+      "seq": 1963
     },
     "性别": {
       "asOf": null,
@@ -222,7 +237,8 @@
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1911-yitian-war-2",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
   ],
-  "updatedAt": "2026-06-21T08:55:10.611Z"
+  "updatedAt": "2026-06-21T10:19:20.689Z"
 }

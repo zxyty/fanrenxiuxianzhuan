@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "倚天城四大宗门之一，青龙上人所属。",
   "attributes": {
-    "阵营": "人族"
+    "阵营": "人族",
+    "据点": "天渊城/倚天城"
   },
   "observations": {
     "阵营": [
@@ -13,6 +14,13 @@
         "value": "人族",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      }
+    ],
+    "据点": [
+      {
+        "value": "天渊城/倚天城",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ]
   },
@@ -23,13 +31,20 @@
       "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
       "seq": 1885
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+      "dated": false,
+      "seq": 1963
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
   ],
-  "updatedAt": "2026-06-21T10:12:26.595Z"
+  "updatedAt": "2026-06-21T10:19:20.706Z"
 }

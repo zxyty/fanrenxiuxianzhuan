@@ -4,16 +4,17 @@
   "name": "林鸾",
   "aliases": [
     "林鸾仙子",
-    "林姐姐"
+    "林姐姐",
+    "林前辈"
   ],
   "summary": "人族顶阶存在，与银光仙子联手对敌、形势不妙。",
   "attributes": {
     "阵营": "人族（倚天城方）",
     "性别": "女",
     "标志特征": "以血符催动合息兽、三色火焰、眉间血符、眉心血符催兽",
-    "身份": "四大宗门太上长老",
-    "小阶段": "合体期",
-    "外貌": "背生火红羽翅",
+    "身份": "倚天城太上长老",
+    "小阶段": "合体中期",
+    "外貌": "二十七八貌美女修，腰系紫色花篮",
     "种族": "人族",
     "称号": "林鸾仙子"
   },
@@ -69,6 +70,11 @@
         "value": "四大宗门太上长老",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "倚天城太上长老",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "小阶段": [
@@ -81,6 +87,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "外貌": [
@@ -93,6 +104,11 @@
         "value": "背生火红羽翅",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "二十七八貌美女修，腰系紫色花篮",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "种族": [
@@ -132,21 +148,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
       "dated": false,
-      "seq": 1891
+      "seq": 1963
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
       "dated": false,
-      "seq": 1891
+      "seq": 1963
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
       "dated": false,
-      "seq": 1897
+      "seq": 1963
     },
     "种族": {
       "asOf": null,
@@ -170,7 +186,8 @@
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1911-yitian-war-2",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
   ],
-  "updatedAt": "2026-06-21T08:55:10.610Z"
+  "updatedAt": "2026-06-21T10:19:20.684Z"
 }

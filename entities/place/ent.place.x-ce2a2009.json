@@ -6,7 +6,7 @@
   "summary": "天渊城一合体期长老所开、供高阶修士聚会议事之地，林中一大三小四座阁楼，可租楼层办隐秘交易会。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "聚会议事阁楼",
+    "类型": "私人阁楼/较技场所",
     "守护": "黄袍元婴守卫"
   },
   "observations": {
@@ -22,6 +22,11 @@
         "value": "聚会议事阁楼",
         "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
         "seq": 1957
+      },
+      {
+        "value": "私人阁楼/较技场所",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "守护": [
@@ -42,9 +47,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
       "dated": false,
-      "seq": 1957
+      "seq": 1963
     },
     "守护": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
   ],
-  "updatedAt": "2026-06-21T10:12:26.603Z"
+  "updatedAt": "2026-06-21T10:19:20.653Z"
 }

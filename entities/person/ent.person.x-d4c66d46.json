@@ -12,9 +12,10 @@
   "attributes": {
     "性别": "男",
     "小阶段": "结丹初期",
-    "身份": "星宫看守传送阵修士、星宫传送阵看守",
+    "身份": "星宫看守传送阵修士、星宫传送阵看守、天渊城长老会成员",
     "阵营": "星宫",
-    "外貌": "秃顶老者"
+    "外貌": "秃顶老者",
+    "标志特征": "主持石台禁制"
   },
   "observations": {
     "性别": [
@@ -41,6 +42,11 @@
         "value": "星宫传送阵看守",
         "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
+      },
+      {
+        "value": "天渊城长老会成员",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ],
     "阵营": [
@@ -55,6 +61,13 @@
         "value": "秃顶老者",
         "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "主持石台禁制",
+        "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+        "seq": 1963
       }
     ]
   },
@@ -89,13 +102,20 @@
       "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
       "dated": false,
       "seq": 505
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+      "dated": false,
+      "seq": 1963
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch505-510-hunru-heishicheng",
-    "plot.fanren-ch505-510-escape-to-outer-star-sea"
+    "plot.fanren-ch505-510-escape-to-outer-star-sea",
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
   ],
-  "updatedAt": "2026-06-17T06:08:39.579Z"
+  "updatedAt": "2026-06-21T10:19:20.687Z"
 }

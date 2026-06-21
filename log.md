@@ -686,3 +686,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T09:56:46.952Z** `ingest` plot.fanren-1958-huanri-shentong-baoshu — 凡人修仙传 第1958章 幻日神通——宝树追韩立，圣界二祖灵界相遇 · kind=plot asOf=2026-06-21 entities=44 relations=63 src=01945-01950.md
 - **2026-06-21T10:04:35.154Z** `ingest` plot.fanren-1951-1956-qianru-mojie-dixia-binghe — 凡人修仙传 第1951-1956章｜潜入魔界·地下冰河·返程与古魔之谜 · kind=plot asOf=2026-06-21 entities=33 relations=42 src=01951-01956.md
 - **2026-06-21T10:12:26.815Z** `ingest` plot.fanren-1957-1962-shengdao-aoxiao-huolizong — 凡人修仙传 第1957-1962章｜圣岛敖啸布局、影卫獠影与火离宗求援 · kind=plot asOf=2026-06-21 entities=36 relations=47 src=01957-01962.md
+- **2026-06-21T10:19:20.908Z** `ingest` plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji — 凡人修仙传 第1963-1968章｜韩立归城，逼青龙上人接三击（浑天两仪阵） · kind=plot asOf=2026-06-21 entities=24 relations=37 src=01963-01968.md
