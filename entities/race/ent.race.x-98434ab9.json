@@ -11,8 +11,8 @@
   "attributes": {
     "特性": "背生巨翅、形如恶鬼、善放刃芒",
     "代表人物": "夜叉王、梦祥、转轮王、不死王、桑海、妃筱汐",
-    "阵营": "妖族/敌方、妖族、灵界联军",
-    "天赋神通": "吸食天地之灵",
+    "阵营": "妖族/敌方、妖族、灵界联军、异族联军",
+    "天赋神通": "赤红肉翅",
     "聚居地": "灵界"
   },
   "observations": {
@@ -75,6 +75,11 @@
         "value": "灵界联军",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "异族联军",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "天赋神通": [
@@ -82,6 +87,11 @@
         "value": "吸食天地之灵",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      },
+      {
+        "value": "赤红肉翅",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "聚居地": [
@@ -114,9 +124,9 @@
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
-      "seq": 1291
+      "seq": 2137
     },
     "聚居地": {
       "asOf": null,
@@ -131,7 +141,8 @@
     "plot.fanren-1293-yinxinshi-tianxindan",
     "plot.fanren-1393-1398-yecha-wang-changnu",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.289Z"
+  "updatedAt": "2026-06-21T14:27:10.378Z"
 }

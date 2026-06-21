@@ -11,8 +11,10 @@
   "summary": "木族合体中期修士，魁梧无神，曾与圣祖化身交手致一死一伤，与韩立同守二号阵眼并负操纵阵眼之责。",
   "attributes": {
     "种族": "木族",
-    "小阶段": "合体中期",
-    "外貌": "身材魁梧、额头深皱、肌肤碧绿"
+    "小阶段": "合体期",
+    "外貌": "身材魁梧、额头深皱、肌肤碧绿",
+    "性别": "男",
+    "身份": "阵眼镇守者"
   },
   "observations": {
     "种族": [
@@ -27,6 +29,11 @@
         "value": "合体中期",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "外貌": [
@@ -34,6 +41,20 @@
         "value": "身材魁梧、额头深皱、肌肤碧绿",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      }
+    ],
+    "身份": [
+      {
+        "value": "阵眼镇守者",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ]
   },
@@ -47,21 +68,34 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
-      "seq": 2131
+      "seq": 2137
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
       "seq": 2131
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
+      "dated": false,
+      "seq": 2137
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
+      "dated": false,
+      "seq": 2137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.283Z"
+  "updatedAt": "2026-06-21T14:27:10.369Z"
 }

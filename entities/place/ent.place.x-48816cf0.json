@@ -9,7 +9,7 @@
   "attributes": {
     "所属势力": "木族",
     "类型": "都城",
-    "特产": "擎天巨木建筑",
+    "特产": "木族圣树",
     "所属界面": "灵界"
   },
   "observations": {
@@ -42,6 +42,11 @@
         "value": "擎天巨木建筑",
         "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
         "seq": 2125
+      },
+      {
+        "value": "木族圣树",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "所属界面": [
@@ -68,9 +73,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
-      "seq": 2125
+      "seq": 2137
     },
     "所属界面": {
       "asOf": null,
@@ -83,7 +88,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.291Z"
+  "updatedAt": "2026-06-21T14:27:10.359Z"
 }

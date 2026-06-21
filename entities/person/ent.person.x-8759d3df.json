@@ -14,12 +14,13 @@
   ],
   "summary": "人族威名人物，与圣岛并称，被视为抵御魔族阴谋的依仗。",
   "attributes": {
-    "阵营": "人族/圣岛、人族、圣岛、灵界",
+    "阵营": "人族/圣岛、人族、圣岛、灵界、异族联军",
     "小阶段": "大乘",
     "称号": "定海神针",
     "种族": "人族",
     "身份": "人族大乘、联军坐镇者",
-    "外貌": "白发慈眉、双耳奇长"
+    "外貌": "白发慈眉、双耳奇长",
+    "标志特征": "雷云银弧电矢"
   },
   "observations": {
     "阵营": [
@@ -42,6 +43,11 @@
         "value": "灵界",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "异族联军",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "小阶段": [
@@ -103,6 +109,13 @@
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
       }
+    ],
+    "标志特征": [
+      {
+        "value": "雷云银弧电矢",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      }
     ]
   },
   "firstSeq": 1759,
@@ -142,6 +155,12 @@
       "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
       "seq": 2131
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
+      "dated": false,
+      "seq": 2137
     }
   },
   "contested": false,
@@ -157,7 +176,8 @@
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.280Z"
+  "updatedAt": "2026-06-21T14:27:10.350Z"
 }

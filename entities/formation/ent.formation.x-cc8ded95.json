@@ -4,13 +4,15 @@
   "name": "木界三十六天绝阵",
   "aliases": [
     "木界绝阵",
-    "木界大阵"
+    "木界大阵",
+    "木界三六天绝阵",
+    "三六天绝阵"
   ],
   "summary": "木族镇族第一大阵，传仿上界仙人玄天灵域神通而创，号称可灭杀大乘，以三十六颗后备圣树布成。",
   "attributes": {
-    "效果": "灭杀大乘存在、化百万里为杀戮之境",
-    "出处": "木族镇族大阵",
-    "布置者": "木族"
+    "效果": "灭杀大乘存在、化百万里为杀戮之境、禁空坠敌、召唤百丈树人、风龙叶刃攻击、传送法阵援军",
+    "出处": "木族",
+    "布置者": "木族全族"
   },
   "observations": {
     "效果": [
@@ -23,6 +25,26 @@
         "value": "化百万里为杀戮之境",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "禁空坠敌",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      },
+      {
+        "value": "召唤百丈树人",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      },
+      {
+        "value": "风龙叶刃攻击",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      },
+      {
+        "value": "传送法阵援军",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "出处": [
@@ -30,6 +52,11 @@
         "value": "木族镇族大阵",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "木族",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "布置者": [
@@ -37,6 +64,11 @@
         "value": "木族",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "木族全族",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ]
   },
@@ -50,21 +82,22 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
-      "seq": 2131
+      "seq": 2137
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
-      "seq": 2131
+      "seq": 2137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.294Z"
+  "updatedAt": "2026-06-21T14:27:10.360Z"
 }

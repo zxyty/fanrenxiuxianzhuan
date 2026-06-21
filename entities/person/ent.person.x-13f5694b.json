@@ -4,14 +4,18 @@
   "name": "妃筱汐",
   "aliases": [
     "妃仙子",
-    "黑衣少女"
+    "黑衣少女",
+    "风妃仙子",
+    "妃道友",
+    "夜叉族女子"
   ],
   "summary": "夜叉族合体中期少女，头生黑色短角，亲友陨于圣祖化身之手，与韩立同守二号阵眼。",
   "attributes": {
     "种族": "夜叉族",
     "性别": "女",
-    "小阶段": "合体中期",
-    "外貌": "十七八岁、头生黑色短角、面容秀丽神情冰冷"
+    "小阶段": "合体中期、合体期、合体",
+    "外貌": "十七八岁、头生黑色短角、面容秀丽神情冰冷",
+    "标志特征": "赤红色肉翅、金银符文"
   },
   "observations": {
     "种族": [
@@ -33,6 +37,16 @@
         "value": "合体中期",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ],
     "外貌": [
@@ -40,6 +54,13 @@
         "value": "十七八岁、头生黑色短角、面容秀丽神情冰冷",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "赤红色肉翅、金银符文",
+        "docId": "plot.fanren-2137-2142-muzu-dazhan",
+        "seq": 2137
       }
     ]
   },
@@ -68,12 +89,19 @@
       "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
       "seq": 2131
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2137-2142-muzu-dazhan",
+      "dated": false,
+      "seq": 2137
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2137-2142-muzu-dazhan"
   ],
-  "updatedAt": "2026-06-21T14:19:01.284Z"
+  "updatedAt": "2026-06-21T14:27:10.368Z"
 }
