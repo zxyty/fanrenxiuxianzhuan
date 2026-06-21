@@ -22,7 +22,10 @@
     "寿元": "百余年(若停修)",
     "出身地": "银鲨岛",
     "阵营": "落云宗",
-    "种族": "人族"
+    "种族": "人族",
+    "存殁": "死亡",
+    "死因": "强行突破化神度劫未成、化为灰烬",
+    "结局": "神魂未全陨，或存一丝轮回转世机会"
   },
   "observations": {
     "性别": [
@@ -238,6 +241,27 @@
         "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
         "seq": 1255
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
+      }
+    ],
+    "死因": [
+      {
+        "value": "强行突破化神度劫未成、化为灰烬",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
+      }
+    ],
+    "结局": [
+      {
+        "value": "神魂未全陨，或存一丝轮回转世机会",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
+      }
     ]
   },
   "firstSeq": 1129,
@@ -295,6 +319,24 @@
       "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
       "dated": false,
       "seq": 1255
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2443-renjie-zhongxiang",
+      "dated": false,
+      "seq": 2419
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2443-renjie-zhongxiang",
+      "dated": false,
+      "seq": 2419
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2443-renjie-zhongxiang",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
@@ -315,7 +357,8 @@
     "plot.fanren-1184-shou-ying-capture-second-nascent-soul",
     "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
     "plot.fanren-1251-li-ya-er-yao",
-    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+    "plot.fanren-2443-renjie-zhongxiang"
   ],
-  "updatedAt": "2026-06-20T06:59:42.196Z"
+  "updatedAt": "2026-06-21T21:46:01.477Z"
 }

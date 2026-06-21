@@ -7,11 +7,13 @@
   "attributes": {
     "性别": "男",
     "小阶段": "炼气、结丹期、元婴、炼气期、结丹、元婴期",
-    "身份": "韩立新收弟子、韩立属下、千竹教教主、韩立弟子",
+    "身份": "韩立新收弟子、韩立属下、千竹教教主、韩立弟子、千竹教主",
     "标志特征": "神念天生强大、双属性灵根",
     "外貌": "瘦弱清秀少年(十六七岁)、瘦弱清秀少年",
     "性格": "老实稳重",
-    "阵营": "落云宗"
+    "阵营": "落云宗",
+    "存殁": "死亡",
+    "死因": "元婴期与强敌同归于尽"
   },
   "observations": {
     "性别": [
@@ -74,6 +76,11 @@
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195,
         "note": "本章新拜入"
+      },
+      {
+        "value": "千竹教主",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
       }
     ],
     "标志特征": [
@@ -112,6 +119,20 @@
         "value": "落云宗",
         "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
         "seq": 1249
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
+      }
+    ],
+    "死因": [
+      {
+        "value": "元婴期与强敌同归于尽",
+        "docId": "plot.fanren-2443-renjie-zhongxiang",
+        "seq": 2419
       }
     ]
   },
@@ -158,6 +179,18 @@
       "docId": "plot.fanren-1249-1254-han-li-advances-to-huashen",
       "dated": false,
       "seq": 1249
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2443-renjie-zhongxiang",
+      "dated": false,
+      "seq": 2419
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2443-renjie-zhongxiang",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
@@ -169,7 +202,8 @@
     "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
     "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
     "plot.fanren-1251-li-ya-er-yao",
-    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+    "plot.fanren-2443-renjie-zhongxiang"
   ],
-  "updatedAt": "2026-06-20T06:59:42.197Z"
+  "updatedAt": "2026-06-21T21:46:01.479Z"
 }
