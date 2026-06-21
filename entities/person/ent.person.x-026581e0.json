@@ -17,9 +17,10 @@
     "小阶段": "炼虚",
     "性别": "女",
     "种族": "具天凤血脉",
-    "标志特征": "天凤血脉、十指弹射银芒、五色彩凤虚影、天凤之血、五色战甲、光焰之翅、失一臂、五色焰翅、空间秘术",
+    "标志特征": "天凤血脉、十指弹射银芒、五色彩凤虚影、天凤之血、五色战甲、光焰之翅、失一臂、五色焰翅、空间秘术、化五色彩凤、空间神通",
     "出身地": "叶家",
-    "存殁": "存活"
+    "存殁": "存活、死亡",
+    "死因": "伪仙傫自爆（第2094章）"
   },
   "observations": {
     "外貌": [
@@ -208,6 +209,16 @@
         "value": "五色焰翅、空间秘术",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "化五色彩凤",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      },
+      {
+        "value": "空间神通",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
       }
     ],
     "出身地": [
@@ -221,6 +232,18 @@
       {
         "value": "存活",
         "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "伪仙傫自爆（第2094章）",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
       }
     ]
@@ -282,6 +305,12 @@
       "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
       "dated": false,
       "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -301,7 +330,8 @@
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.827Z"
+  "updatedAt": "2026-06-21T13:13:00.665Z"
 }

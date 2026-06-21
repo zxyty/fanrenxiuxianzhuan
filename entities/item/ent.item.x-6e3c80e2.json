@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "灵王所称掌握之物，可使魔族眼前大劫再推迟上万年，涉圣界秘事；灵王以之为筹码与元魇议价。",
   "attributes": {
-    "类型": "秘宝灵石",
+    "类型": "秘宝灵石、异石",
     "用途": "推迟魔族大劫上万年"
   },
   "observations": {
@@ -13,6 +13,11 @@
       {
         "value": "秘宝灵石",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      },
+      {
+        "value": "异石",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
       }
     ],
@@ -42,7 +47,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.836Z"
+  "updatedAt": "2026-06-21T13:13:00.673Z"
 }

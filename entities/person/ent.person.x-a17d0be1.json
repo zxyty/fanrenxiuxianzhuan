@@ -18,7 +18,8 @@
     "阵营": "韩立一行",
     "外貌": "银目、眉间淡紫色灵斑、银纹锦衣中年男子",
     "身份": "灵族探宝队成员、灵族真正主事者、灵族圣灵",
-    "存殁": "存活"
+    "存殁": "存活、死亡",
+    "死因": "被元魇圣祖以黑魔匕斩杀（第2092章）"
   },
   "observations": {
     "种族": [
@@ -125,6 +126,18 @@
         "value": "存活",
         "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
         "seq": 2071
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "被元魇圣祖以黑魔匕斩杀（第2092章）",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
       }
     ]
   },
@@ -177,6 +190,12 @@
       "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
       "dated": false,
       "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -187,7 +206,8 @@
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.824Z"
+  "updatedAt": "2026-06-21T13:13:00.663Z"
 }

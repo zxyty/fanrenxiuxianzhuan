@@ -7,7 +7,7 @@
   ],
   "summary": "苦灵岛上的山谷，绿濛濛光幕禁制封锁，灵气牢笼压制魔族，灵界之人到此难逃飞灰湮灭。",
   "attributes": {
-    "所属界面": "魔界",
+    "所属界面": "魔界、灵界",
     "类型": "山谷",
     "危险度": "极高"
   },
@@ -16,6 +16,11 @@
       {
         "value": "魔界",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
       }
     ],
@@ -58,7 +63,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.838Z"
+  "updatedAt": "2026-06-21T13:13:00.675Z"
 }

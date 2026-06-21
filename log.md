@@ -712,3 +712,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T13:05:49.933Z** `ingest` plot.fanren-2065-2070-leihai-huangjin-xie — 凡人修仙传 第2065-2070章｜雷海·黄金蟹·三大始祖 · kind=plot asOf=2026-06-21 entities=44 relations=47 src=02065-02070.md
 - **2026-06-21T13:07:47.317Z** `ingest` plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi — 第2088-2089章 伪仙傫与玄天黑匕——黑袍魔族圣祖屠戮圣界禁地众修 · kind=plot asOf=2026-06-21 entities=14 relations=14 src=02071-02076.p1.md
 - **2026-06-21T13:10:00.992Z** `ingest` plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade — 第2090-2091章 困灵谷力战元魇圣祖·灵王求换陨界石 · kind=plot asOf=2026-06-21 entities=22 relations=21 src=02071-02076.p2.md
+- **2026-06-21T13:13:00.838Z** `ingest` plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct — 第2092-2094章 苦灵岛之战：涅槃珠与伪仙傫自爆，陇家老祖、羽衣少女陨落，韩立幸免 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=02071-02076.p3.md

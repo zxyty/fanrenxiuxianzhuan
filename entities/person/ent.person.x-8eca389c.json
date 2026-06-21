@@ -17,13 +17,14 @@
     "种族": "具真龙血脉",
     "小阶段": "后期",
     "外貌": "面色淡金的中年男子",
-    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化、持净雷瓶、半龙之体/金鳞龙角、半龙之体",
+    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化、持净雷瓶、半龙之体/金鳞龙角、半龙之体、化五爪金龙",
     "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老、陇家老祖/第一修士、潜入魔界一行领头、炼虚后期中年人、陇家太上老祖、魔尊、陇家长辈",
     "性格": "执着、善权谋",
     "阵营": "陇家、人族真灵世家、人族、灵族/魔族联军、人族突围联盟、韩立一行、魔族、韩立一方",
     "称号": "人族最高战力之一",
     "性别": "男",
-    "存殁": "存活"
+    "存殁": "存活、死亡",
+    "死因": "伪仙傫自爆（第2094章）"
   },
   "observations": {
     "种族": [
@@ -152,6 +153,11 @@
       {
         "value": "半龙之体",
         "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "化五爪金龙",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
       }
     ],
@@ -306,6 +312,18 @@
         "value": "存活",
         "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
         "seq": 2071
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "伪仙傫自爆（第2094章）",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
       }
     ]
   },
@@ -370,6 +388,12 @@
       "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
       "dated": false,
       "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -395,7 +419,8 @@
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.827Z"
+  "updatedAt": "2026-06-21T13:13:00.664Z"
 }

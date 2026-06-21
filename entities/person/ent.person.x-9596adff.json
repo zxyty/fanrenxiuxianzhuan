@@ -15,7 +15,9 @@
     "外貌": "黑袍青年/双目淡紫/剑眉直飞",
     "标志特征": "凝魔纹黑色长枪/千丈黑色巨手",
     "种族": "魔族",
-    "身份": "魔族圣祖"
+    "身份": "魔族圣祖、魔界三大始祖之一",
+    "小阶段": "大乘",
+    "结局": "被伪仙傫自爆重创，失去小半身躯、气息衰弱大半"
   },
   "observations": {
     "性别": [
@@ -68,6 +70,26 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "魔界三大始祖之一",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071
+      }
+    ],
+    "结局": [
+      {
+        "value": "被伪仙傫自爆重创，失去小半身躯、气息衰弱大半",
+        "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+        "seq": 2071,
+        "note": "第2094章"
       }
     ]
   },
@@ -108,13 +130,27 @@
       "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
       "seq": 2071
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "dated": false,
+      "seq": 2071
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "dated": false,
+      "seq": 2071,
+      "note": "第2094章"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2065-2070-leihai-huangjin-xie",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
   ],
-  "updatedAt": "2026-06-21T13:10:00.823Z"
+  "updatedAt": "2026-06-21T13:13:00.662Z"
 }
