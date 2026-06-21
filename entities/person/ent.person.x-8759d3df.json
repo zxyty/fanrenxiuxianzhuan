@@ -6,7 +6,11 @@
     "莫大人",
     "莫简离大人",
     "莫道友",
-    "莫简离前辈"
+    "莫简离前辈",
+    "莫老鬼",
+    "莫老怪",
+    "莫长老",
+    "莫某"
   ],
   "summary": "人族威名人物，与圣岛并称，被视为抵御魔族阴谋的依仗。",
   "attributes": {
@@ -14,7 +18,8 @@
     "小阶段": "大乘",
     "称号": "定海神针",
     "种族": "人族",
-    "身份": "人族大乘"
+    "身份": "人族大乘、联军坐镇者",
+    "外貌": "白发慈眉、双耳奇长"
   },
   "observations": {
     "阵营": [
@@ -85,6 +90,18 @@
         "value": "人族大乘",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "人族大乘、联军坐镇者",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发慈眉、双耳奇长",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ]
   },
@@ -116,9 +133,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
-      "seq": 1993
+      "seq": 2131
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "dated": false,
+      "seq": 2131
     }
   },
   "contested": false,
@@ -133,7 +156,8 @@
     "plot.fanren-1975-1980-heti-houqi-diyimozun",
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
   ],
-  "updatedAt": "2026-06-21T13:53:18.785Z"
+  "updatedAt": "2026-06-21T14:19:01.280Z"
 }

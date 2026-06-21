@@ -2,12 +2,14 @@
   "id": "ent.race.x-f068f7b9",
   "type": "race",
   "name": "妖族",
-  "aliases": [],
+  "aliases": [
+    "妖族王族"
+  ],
   "summary": "混沌谷一侧现身的妖族势力，以妖气化灰白妖雾，疑欲趁火打劫。",
   "attributes": {
-    "阵营": "与人族联盟",
+    "阵营": "灵界联军",
     "聚居地": "风元大陆西北角",
-    "代表人物": "七大妖王"
+    "代表人物": "敖啸老祖"
   },
   "observations": {
     "阵营": [
@@ -20,6 +22,11 @@
         "value": "与人族联盟",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "灵界联军",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ],
     "聚居地": [
@@ -34,6 +41,11 @@
         "value": "七大妖王",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "敖啸老祖",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ]
   },
@@ -41,9 +53,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1353-lingchong-dacheng",
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
-      "seq": 1351
+      "seq": 2131
     },
     "聚居地": {
       "asOf": null,
@@ -53,9 +65,9 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
-      "seq": 1759
+      "seq": 2131
     }
   },
   "contested": false,
@@ -66,7 +78,8 @@
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
   ],
-  "updatedAt": "2026-06-21T05:04:10.140Z"
+  "updatedAt": "2026-06-21T14:19:01.286Z"
 }

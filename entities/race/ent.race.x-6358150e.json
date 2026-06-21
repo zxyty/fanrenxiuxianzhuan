@@ -8,14 +8,15 @@
     "Wood Tribe",
     "木族高层",
     "木灵一族",
-    "木族人"
+    "木族人",
+    "木族一族"
   ],
   "summary": "五行灵族之一，灵将天樱所属。",
   "attributes": {
-    "阵营": "诸族联军",
-    "聚居地": "南艮大沙漠之外、黑叶森林等、黑叶森林、黑叶森林一带、黑叶森林、一线天范围、风元大陆木族领域、木族领域、蛮荒世界木族领地、魔界、灵界木族灵域、木族灵域",
+    "阵营": "灵界联军",
+    "聚居地": "南艮大沙漠之外、黑叶森林等、黑叶森林、黑叶森林一带、黑叶森林、一线天范围、风元大陆木族领域、木族领域、蛮荒世界木族领地、魔界、灵界木族灵域、木族灵域、木棉城",
     "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉、碧绿肌肤、腰带分阶、可由树木化形隐匿、肉身强横、银阶力大、化巨大木人、翠绿木矛/箭矢",
-    "代表人物": "木瑞、紫阶木灵、橙阶木灵、木族大长老（邬某）",
+    "代表人物": "木瑞、紫阶木灵、橙阶木灵、木族大长老（邬某）、子寒长老、草疾",
     "天赋神通": "天木梦罗、人树合一/木灵之体、人树合一、木遁术",
     "天敌": "魔族"
   },
@@ -40,6 +41,11 @@
         "value": "诸族联军",
         "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
         "seq": 2125
+      },
+      {
+        "value": "灵界联军",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ],
     "聚居地": [
@@ -97,6 +103,11 @@
         "value": "木族灵域",
         "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
         "seq": 2125
+      },
+      {
+        "value": "木棉城",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ],
     "特性": [
@@ -181,6 +192,16 @@
         "value": "木族大长老（邬某）",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "子寒长老",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
+      },
+      {
+        "value": "草疾",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ],
     "天赋神通": [
@@ -222,9 +243,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
-      "seq": 2125
+      "seq": 2131
     },
     "聚居地": {
       "asOf": null,
@@ -277,7 +298,8 @@
     "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
     "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
-    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
   ],
-  "updatedAt": "2026-06-21T14:12:07.910Z"
+  "updatedAt": "2026-06-21T14:19:01.288Z"
 }

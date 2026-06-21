@@ -4,14 +4,15 @@
   "name": "螟虫之母",
   "aliases": [
     "螟虫",
-    "虫母"
+    "虫母",
+    "上古魔虫"
   ],
   "summary": "上古虫族诞生的恐怖存在，吞噬天地能量、繁殖惊人，毁灭数界后被两名真仙封印于始印之地，其苏醒即魔界大劫之源。",
   "attributes": {
     "种族": "上古虫族",
-    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体",
+    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体、吞噬一界之力",
     "外形": "山岳般庞大",
-    "栖息地": "始印之地（封印）"
+    "栖息地": "魔界（被封印处）"
   },
   "observations": {
     "种族": [
@@ -36,6 +37,11 @@
         "value": "黑暗元素之体",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "吞噬一界之力",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ],
     "外形": [
@@ -50,6 +56,11 @@
         "value": "始印之地（封印）",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "魔界（被封印处）",
+        "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+        "seq": 2131
       }
     ]
   },
@@ -75,15 +86,16 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
-      "seq": 2107
+      "seq": 2131
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
   ],
-  "updatedAt": "2026-06-21T13:53:18.788Z"
+  "updatedAt": "2026-06-21T14:19:01.294Z"
 }
