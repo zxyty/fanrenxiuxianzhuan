@@ -8,9 +8,9 @@
   "summary": "被雷海四面环绕的巨型岛屿，灵族探宝队此行目标，附近有金蟹魔晶傀儡之险；岛上有白衣女子等。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "海中巨岛",
+    "类型": "岛屿",
     "危险度": "极高(四面雷海+真灵级魔晶傀儡)",
-    "守护": "金色巨蟹魔晶傀儡、雷海"
+    "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇"
   },
   "observations": {
     "所属界面": [
@@ -25,6 +25,11 @@
         "value": "海中巨岛",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "岛屿",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "危险度": [
@@ -39,6 +44,21 @@
         "value": "金色巨蟹魔晶傀儡、雷海",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "灭情",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      },
+      {
+        "value": "无常",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      },
+      {
+        "value": "元魇",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ]
   },
@@ -52,9 +72,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 2065
+      "seq": 2071
     },
     "危险度": {
       "asOf": null,
@@ -72,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
   ],
-  "updatedAt": "2026-06-21T13:05:49.757Z"
+  "updatedAt": "2026-06-21T13:10:00.838Z"
 }

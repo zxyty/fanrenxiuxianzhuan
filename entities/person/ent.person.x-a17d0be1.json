@@ -13,11 +13,11 @@
   "attributes": {
     "种族": "圣灵",
     "小阶段": "后期",
-    "标志特征": "周身白光忽暗忽明、令人头晕目眩、护体灵光所过魔兽四分五裂、天赋灵目，额射白光，外覆白光难辨面目、白光中圣灵",
+    "标志特征": "周身白光忽暗忽明、令人头晕目眩、护体灵光所过魔兽四分五裂、天赋灵目，额射白光，外覆白光难辨面目、白光中圣灵、体内被灵王种下分灵符",
     "性别": "男",
     "阵营": "韩立一行",
-    "外貌": "白濛濛光影",
-    "身份": "灵族探宝队成员、灵族真正主事者",
+    "外貌": "银目、眉间淡紫色灵斑、银纹锦衣中年男子",
+    "身份": "灵族探宝队成员、灵族真正主事者、灵族圣灵",
     "存殁": "存活"
   },
   "observations": {
@@ -70,6 +70,11 @@
         "value": "白光中圣灵",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "体内被灵王种下分灵符",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "性别": [
@@ -91,6 +96,11 @@
         "value": "白濛濛光影",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "银目、眉间淡紫色灵斑、银纹锦衣中年男子",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "身份": [
@@ -103,6 +113,11 @@
         "value": "灵族真正主事者",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "灵族圣灵",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "存殁": [
@@ -147,9 +162,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 2053
+      "seq": 2071
     },
     "身份": {
       "asOf": null,
@@ -171,7 +186,8 @@
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
-    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
   ],
-  "updatedAt": "2026-06-21T13:07:47.159Z"
+  "updatedAt": "2026-06-21T13:10:00.824Z"
 }

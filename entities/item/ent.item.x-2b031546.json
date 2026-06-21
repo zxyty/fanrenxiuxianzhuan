@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "魔界深处灵物，七窍一气莲未形成前的进化形态，可大增慧根。",
   "attributes": {
-    "类型": "灵莲/天地奇物",
+    "类型": "灵莲/灵草",
     "用途": "提升灵根慧力、增进阶大乘几率、灵族探宝目标、洗炼/未明",
     "产地": "灵岛"
   },
@@ -30,6 +30,11 @@
         "value": "灵莲/天地奇物",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "灵莲/灵草",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "用途": [
@@ -81,9 +86,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 2065
+      "seq": 2071
     },
     "用途": {
       "asOf": null,
@@ -104,7 +109,8 @@
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2070-erjin-huanxiao",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
   ],
-  "updatedAt": "2026-06-21T13:05:49.782Z"
+  "updatedAt": "2026-06-21T13:10:00.836Z"
 }

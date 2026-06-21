@@ -4,14 +4,18 @@
   "name": "元魇始祖",
   "aliases": [
     "元魇",
-    "梦魇大人"
+    "梦魇大人",
+    "元魇道友",
+    "元魇圣祖"
   ],
   "summary": "圣界圣祖级存在，黑袍、淡紫双目、剑眉，乘三首黑蛟，以黑枪开雷海通道，一掌镇压韩立一行。",
   "attributes": {
     "性别": "男",
-    "称号": "圣祖",
+    "称号": "圣祖、始祖、三大始祖之一",
     "外貌": "黑袍青年/双目淡紫/剑眉直飞",
-    "标志特征": "凝魔纹黑色长枪/千丈黑色巨手"
+    "标志特征": "凝魔纹黑色长枪/千丈黑色巨手",
+    "种族": "魔族",
+    "身份": "魔族圣祖"
   },
   "observations": {
     "性别": [
@@ -26,6 +30,16 @@
         "value": "圣祖",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "始祖",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      },
+      {
+        "value": "三大始祖之一",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "外貌": [
@@ -40,6 +54,20 @@
         "value": "凝魔纹黑色长枪/千丈黑色巨手",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔族圣祖",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ]
   },
@@ -68,12 +96,25 @@
       "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
       "seq": 2065
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "dated": false,
+      "seq": 2071
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
   ],
-  "updatedAt": "2026-06-21T13:05:49.775Z"
+  "updatedAt": "2026-06-21T13:10:00.823Z"
 }

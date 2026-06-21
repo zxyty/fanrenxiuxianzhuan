@@ -7,17 +7,19 @@
     "白袍老者",
     "璇玑子道友",
     "灵王",
-    "灵王大人"
+    "灵王大人",
+    "白发老者虚影",
+    "族中那位大人"
   ],
   "summary": "天极门元婴修士，南陇侯生死之交，赠韩立联系令牌。",
   "attributes": {
     "称号": "璇玑子",
-    "外貌": "鹤发童颜白袍老者",
+    "外貌": "白发鹤颜白袍老者",
     "阵营": "天极门",
-    "小阶段": "合体中期大成",
+    "小阶段": "大乘",
     "标志特征": "衣袖印紫红枫叶",
     "种族": "灵族",
-    "身份": "灵王"
+    "身份": "灵族首领/族中大人"
   },
   "observations": {
     "称号": [
@@ -42,6 +44,12 @@
         "value": "鹤发童颜白袍老者",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "白发鹤颜白袍老者",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071,
+        "note": "分魂虚影"
       }
     ],
     "阵营": [
@@ -56,6 +64,11 @@
         "value": "合体中期大成",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ],
     "标志特征": [
@@ -77,6 +90,11 @@
         "value": "灵王",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "灵族首领/族中大人",
+        "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+        "seq": 2071
       }
     ]
   },
@@ -90,9 +108,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 2005
+      "seq": 2071,
+      "note": "分魂虚影"
     },
     "阵营": {
       "asOf": null,
@@ -102,9 +121,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 1861
+      "seq": 2071
     },
     "标志特征": {
       "asOf": null,
@@ -120,9 +139,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
       "dated": false,
-      "seq": 2005
+      "seq": 2071
     }
   },
   "contested": false,
@@ -131,7 +150,8 @@
     "plot.fanren-721-726-dianyi-linghu-zhiyao",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-1861-1866-mozhan-chongwang",
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
   ],
-  "updatedAt": "2026-06-21T11:17:22.709Z"
+  "updatedAt": "2026-06-21T13:10:00.825Z"
 }
