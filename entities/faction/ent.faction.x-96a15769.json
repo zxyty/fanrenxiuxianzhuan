@@ -12,7 +12,8 @@
     "据点": "彩霞山、彩霞山脉、神手谷、聚宝堂、彩霞山落日峰、落日峰、镜州城",
     "所属界面": "镜州",
     "理念": "内部派系争权夺利",
-    "镇派之宝": "落日峰大陷阱机关"
+    "镇派之宝": "落日峰大陷阱机关",
+    "阵营": "心魔幻境势力"
   },
   "observations": {
     "等级": [
@@ -101,6 +102,14 @@
         "docId": "plot.fanren-ch79-84-luori-feng-siege",
         "seq": 79
       }
+    ],
+    "阵营": [
+      {
+        "value": "心魔幻境势力",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161,
+        "note": "幻境，非现实"
+      }
     ]
   },
   "firstSeq": 1,
@@ -140,6 +149,13 @@
       "docId": "plot.fanren-ch79-84-luori-feng-siege",
       "dated": false,
       "seq": 79
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161,
+      "note": "幻境，非现实"
     }
   },
   "contested": false,
@@ -165,7 +181,8 @@
     "plot.fanren-ch109-114-mofu-dengmen",
     "plot.fanren-ch115-120-mofu-negotiation-shenxian-dahui",
     "plot.fanren-ch654-xuanmu-huaying-dafa",
-    "lore.xuanmu-huaying-second-yuanying-technique"
+    "lore.xuanmu-huaying-second-yuanying-technique",
+    "plot.fanren-ch2180-black-white-thunder-ball"
   ],
-  "updatedAt": "2026-06-17T09:34:20.424Z"
+  "updatedAt": "2026-06-21T15:01:46.561Z"
 }

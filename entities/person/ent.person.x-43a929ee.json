@@ -13,7 +13,8 @@
     "性别": "女",
     "种族": "獠兽一族",
     "身份": "银月影卫",
-    "外貌": "青铜狼首面具、黑袍黑手套"
+    "外貌": "苗条黑袍、头戴狼首面具、黑幽手套，肌肤不露",
+    "标志特征": "灰濛刃芒、化虚影偷袭"
   },
   "observations": {
     "性别": [
@@ -53,6 +54,18 @@
         "value": "青铜狼首面具、黑袍黑手套",
         "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
         "seq": 2125
+      },
+      {
+        "value": "苗条黑袍、头戴狼首面具、黑幽手套，肌肤不露",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "灰濛刃芒、化虚影偷袭",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ]
   },
@@ -78,16 +91,23 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
       "dated": false,
-      "seq": 2125
+      "seq": 2161
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
-    "plot.fanren-2147-2149-wangqing-jue-mumiancheng"
+    "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+    "plot.fanren-ch2180-black-white-thunder-ball"
   ],
-  "updatedAt": "2026-06-21T14:16:24.413Z"
+  "updatedAt": "2026-06-21T15:01:46.551Z"
 }

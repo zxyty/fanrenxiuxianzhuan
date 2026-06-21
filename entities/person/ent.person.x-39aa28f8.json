@@ -7,15 +7,18 @@
     "天外魔军",
     "天外魔君化身",
     "天外魔头所化",
-    "亦男亦女魔头"
+    "亦男亦女魔头",
+    "魔君"
   ],
   "summary": "穴灵自承的本源,其一缕分魂附身蜃气化为穴灵。",
   "attributes": {
     "种族": "天外魔头",
     "称号": "天外魔头顶阶存在",
     "标志特征": "催化心魔（复制韩立本体）",
-    "性格": "擅勾引人心、杀人于无形",
-    "结局": "魔念被黑幽冰香驱逐出韩立神识海"
+    "性格": "阴狠记仇",
+    "结局": "魔念被黑幽冰香驱逐出韩立神识海",
+    "身份": "魔头",
+    "外貌": "青面小山般巨大鬼头、丈许长巨舌"
   },
   "observations": {
     "种族": [
@@ -54,6 +57,11 @@
         "value": "擅勾引人心、杀人于无形",
         "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
         "seq": 1969
+      },
+      {
+        "value": "阴狠记仇",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ],
     "结局": [
@@ -61,6 +69,20 @@
         "value": "魔念被黑幽冰香驱逐出韩立神识海",
         "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
         "seq": 1969
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔头",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "外貌": [
+      {
+        "value": "青面小山般巨大鬼头、丈许长巨舌",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ]
   },
@@ -86,15 +108,27 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
       "dated": false,
-      "seq": 1969
+      "seq": 2161
     },
     "结局": {
       "asOf": null,
       "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
       "dated": false,
       "seq": 1969
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
     }
   },
   "contested": false,
@@ -105,7 +139,8 @@
     "plot.fanren-1649-san-mo",
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
     "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
-    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late"
+    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+    "plot.fanren-ch2180-black-white-thunder-ball"
   ],
-  "updatedAt": "2026-06-21T12:45:17.247Z"
+  "updatedAt": "2026-06-21T15:01:46.532Z"
 }

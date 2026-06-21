@@ -4,14 +4,20 @@
   "name": "洞天鼠王",
   "aliases": [
     "鼠王",
-    "洞天"
+    "洞天",
+    "洞天道友",
+    "洞天兄"
   ],
   "summary": "七妖王之一，出身妖族大族琼鼠一族，最神秘，常以秘法遮掩身形，神通成谜，无人敢轻易招惹。",
   "attributes": {
     "身份": "七大妖王之一",
-    "种族": "琼鼠一族",
+    "种族": "妖族",
     "性格": "神秘",
-    "标志特征": "声音苍老"
+    "标志特征": "声音苍老",
+    "性别": "男",
+    "小阶段": "合体期",
+    "称号": "洞天鼠王",
+    "外貌": "金色长袍、双角发髻、深黄双目、黑须遮面"
   },
   "observations": {
     "身份": [
@@ -31,6 +37,11 @@
         "value": "琼鼠一族",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ],
     "性格": [
@@ -46,6 +57,34 @@
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "称号": [
+      {
+        "value": "洞天鼠王",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "外貌": [
+      {
+        "value": "金色长袍、双角发髻、深黄双目、黑须遮面",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
     ]
   },
   "firstSeq": 1783,
@@ -58,9 +97,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
       "dated": false,
-      "seq": 1783
+      "seq": 2161
     },
     "性格": {
       "asOf": null,
@@ -73,13 +112,38 @@
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
       "seq": 1789
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+    "plot.fanren-ch2180-black-white-thunder-ball"
   ],
-  "updatedAt": "2026-06-21T05:48:33.249Z"
+  "updatedAt": "2026-06-21T15:01:46.553Z"
 }

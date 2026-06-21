@@ -729,3 +729,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T14:30:10.106Z** `ingest` plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen — 凡人修仙传 第2162-2167章｜木族大战（六~十一）：韩立、蟹道人力抗魔族圣祖化身 · kind=plot asOf=2026-06-21 entities=22 relations=27 src=02143-02148.md
 - **2026-06-21T14:46:57.394Z** `ingest` plot.fanren-2168-muzu-dazhan-12 — 第2168章 木族大战（十二）——韩立涅槃变身连斩两圣祖化身 · kind=plot asOf=2026-06-21 entities=50 relations=60 src=02149-02154.md
 - **2026-06-21T14:49:40.845Z** `ingest` plot.fanren-2174-2178-hanli-mahayana-tribulation — 第2174-2178章 韩立冲击大乘瓶颈与渡五行之劫、真雷劫 · kind=plot asOf=2026-06-21 entities=20 relations=20 src=02155-02160.md
+- **2026-06-21T15:01:46.759Z** `ingest` plot.fanren-ch2180-black-white-thunder-ball — 第2180章 黑白雷球——韩立硬抗真雷劫最后一击 · kind=plot asOf=2026-06-21 entities=28 relations=35 src=02161-02166.md

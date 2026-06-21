@@ -3,12 +3,19 @@
   "type": "event",
   "name": "真雷劫",
   "aliases": [
-    "真雷之劫"
+    "真雷之劫",
+    "黑白雷球之劫",
+    "韩立渡真雷劫",
+    "天劫",
+    "雷劫"
   ],
   "summary": "大乘天劫真正凶险所在，水缸粗电弧、阁楼大雷球倾泻，渡过者方可受心劫；韩立赖元合五极山化解大半。",
   "attributes": {
-    "章节": "第2178章",
-    "结果": "韩立堪堪支撑、法力耗十之七八；末段汇成黑白雷球"
+    "章节": "第2180章",
+    "结果": "韩立堪堪支撑、法力耗十之七八；末段汇成黑白雷球、诸法相继被破，韩立施涅槃圣体二涅变身应对、雷球被挤爆、韩立重创挺过",
+    "参与方": "韩立、噬金虫",
+    "起因": "冲击大乘瓶颈",
+    "经过": "黑白雷球锁定元婴本体，韩立三山合体/梵圣金身/青色剑莲/合体极山/乌环噬金虫相继应对"
   },
   "observations": {
     "章节": [
@@ -16,6 +23,11 @@
         "value": "第2178章",
         "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
         "seq": 2155
+      },
+      {
+        "value": "第2180章",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ],
     "结果": [
@@ -23,6 +35,43 @@
         "value": "韩立堪堪支撑、法力耗十之七八；末段汇成黑白雷球",
         "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
         "seq": 2155
+      },
+      {
+        "value": "诸法相继被破，韩立施涅槃圣体二涅变身应对",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161,
+        "note": "本章未分胜负"
+      },
+      {
+        "value": "雷球被挤爆、韩立重创挺过",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "参与方": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      },
+      {
+        "value": "噬金虫",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "起因": [
+      {
+        "value": "冲击大乘瓶颈",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
+      }
+    ],
+    "经过": [
+      {
+        "value": "黑白雷球锁定元婴本体，韩立三山合体/梵圣金身/青色剑莲/合体极山/乌环噬金虫相继应对",
+        "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+        "seq": 2161
       }
     ]
   },
@@ -30,21 +79,40 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
       "dated": false,
-      "seq": 2155
+      "seq": 2161
     },
     "结果": {
       "asOf": null,
       "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
       "dated": false,
       "seq": 2155
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2180-black-white-thunder-ball",
+      "dated": false,
+      "seq": 2161
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2174-2178-hanli-mahayana-tribulation"
+    "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+    "plot.fanren-ch2180-black-white-thunder-ball"
   ],
-  "updatedAt": "2026-06-21T14:49:40.688Z"
+  "updatedAt": "2026-06-21T15:01:46.542Z"
 }
