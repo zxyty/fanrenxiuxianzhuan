@@ -6,13 +6,15 @@
     "魔灾",
     "魔劫之事",
     "千年大劫",
-    "魔灾爆发"
+    "魔灾爆发",
+    "下一次魔劫"
   ],
   "summary": "古魔族降临的浩劫，将于千年内爆发；上次魔劫人妖合体期散修陨落大半，亦有三妖王一人皇战死。",
   "attributes": {
-    "参与方": "古魔族、人族、妖族、人妖两族、魔族",
+    "参与方": "古魔族、人族、妖族、人妖两族、魔族、异族",
     "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生、无人可置身事外、两族灵药材料奇缺、势力积攒实力、人妖两族皆受波及，合体大劫、人族存亡之危、两族备战、材料价格暴涨",
-    "起因": "古魔来袭"
+    "起因": "古魔来袭",
+    "地点": "灵界（人族三境之地等）"
   },
   "observations": {
     "参与方": [
@@ -40,6 +42,11 @@
         "value": "魔族",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "影响": [
@@ -95,6 +102,13 @@
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
       }
+    ],
+    "地点": [
+      {
+        "value": "灵界（人族三境之地等）",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
+      }
     ]
   },
   "firstSeq": 1783,
@@ -116,6 +130,12 @@
       "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
       "seq": 1825
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+      "dated": false,
+      "seq": 1855
     }
   },
   "contested": false,
@@ -125,7 +145,8 @@
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
   ],
-  "updatedAt": "2026-06-21T06:38:29.231Z"
+  "updatedAt": "2026-06-21T07:16:44.575Z"
 }

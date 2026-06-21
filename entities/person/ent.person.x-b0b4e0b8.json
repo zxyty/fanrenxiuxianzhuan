@@ -5,14 +5,16 @@
   "aliases": [
     "金焰侯",
     "金焰",
-    "金冠男子"
+    "金冠男子",
+    "金焰道友"
   ],
   "summary": "冥河之地金焰岛主人，大乘存在，喜金，擅火遁之术。",
   "attributes": {
-    "小阶段": "大乘",
+    "小阶段": "合体期",
     "称号": "金焰候",
     "外貌": "面如白玉、乌黑长髯、金龙冠金袍",
-    "标志特征": "嗜金/通体金色饰物、火遁之术"
+    "标志特征": "嗜金/通体金色饰物、火遁之术",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -20,6 +22,11 @@
         "value": "大乘",
         "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
         "seq": 1849
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "称号": [
@@ -47,15 +54,22 @@
         "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
         "seq": 1849
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
+      }
     ]
   },
   "firstSeq": 1849,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
-      "seq": 1849
+      "seq": 1855
     },
     "称号": {
       "asOf": null,
@@ -74,12 +88,19 @@
       "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
       "dated": false,
       "seq": 1849
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+      "dated": false,
+      "seq": 1855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru"
+    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
   ],
-  "updatedAt": "2026-06-21T07:09:08.451Z"
+  "updatedAt": "2026-06-21T07:16:44.558Z"
 }

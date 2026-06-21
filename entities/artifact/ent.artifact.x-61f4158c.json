@@ -7,15 +7,17 @@
     "玄天之宝残片",
     "金灿灿残刃",
     "玄天残刃金刃",
-    "玄天宝刃"
+    "玄天宝刃",
+    "玄天灵宝残片",
+    "残片香炉"
   ],
   "summary": "魔界玄天之宝残片，能控制某种天地法则之力，对精纯魔气敏感，可被梵圣真魔功同化驱使，刃中封有一只不知名灵物。",
   "attributes": {
-    "来历": "玄天之宝分裂碎片",
+    "来历": "蛮荒上古战场",
     "能力": "控制天地法则之力、可被梵圣真魔功同化驱使、曾一斩破春黎剑阵、法则之力、吸纳天地元气、举重若轻一击斩杀强敌、注入符文补全后斩出丈许金色刃芒、金色洪流、法则之力斩击",
     "器灵": "不知名灵物",
-    "外形": "残缺金色断刃",
-    "持有者": "韩立",
+    "外形": "残破香炉，金文与残缺兽纹",
+    "持有者": "虚灵老者",
     "禁制": "驱动反噬剧烈、险伤元气"
   },
   "observations": {
@@ -29,6 +31,11 @@
         "value": "玄天之宝分裂碎片",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "蛮荒上古战场",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "能力": [
@@ -106,6 +113,11 @@
         "value": "残缺金色断刃",
         "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
         "seq": 1843
+      },
+      {
+        "value": "残破香炉，金文与残缺兽纹",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "持有者": [
@@ -113,6 +125,11 @@
         "value": "韩立",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "虚灵老者",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "禁制": [
@@ -127,9 +144,9 @@
   "attrProvenance": {
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
-      "seq": 1717
+      "seq": 1855
     },
     "能力": {
       "asOf": null,
@@ -145,15 +162,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
-      "seq": 1843
+      "seq": 1855
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
-      "seq": 1627
+      "seq": 1855
     },
     "禁制": {
       "asOf": null,
@@ -171,7 +188,8 @@
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
     "plot.fanren-1734-stone-wall-spirit-script",
     "plot.fanren-1746-leave-leiming",
-    "plot.fanren-1843-1848-hualing-zhi-zhan"
+    "plot.fanren-1843-1848-hualing-zhi-zhan",
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
   ],
-  "updatedAt": "2026-06-21T07:01:40.345Z"
+  "updatedAt": "2026-06-21T07:16:44.524Z"
 }

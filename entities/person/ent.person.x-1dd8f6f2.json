@@ -3,14 +3,16 @@
   "type": "person",
   "name": "虚灵",
   "aliases": [
-    "虚灵兄"
+    "虚灵兄",
+    "蜉蝣族太上长老"
   ],
   "summary": "蜉蝣族大乘老怪，近飞升之劫，性喜怒无常、嗜斗，乘百丈漆黑巨甲虫破界而来。",
   "attributes": {
     "种族": "蜉蝣族",
     "小阶段": "大乘",
-    "性格": "喜怒无常、嗜斗",
-    "外貌": "瘦削老者、眼眶深凹、五彩长袍、银珠颈链"
+    "性格": "喜怒无常、嗜斗、霸道、不毁诺",
+    "外貌": "瘦削老者、眼眶深凹、五彩长袍、银珠颈链",
+    "身份": "太上长老"
   },
   "observations": {
     "种族": [
@@ -37,6 +39,11 @@
         "value": "嗜斗",
         "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
         "seq": 1849
+      },
+      {
+        "value": "霸道、不毁诺",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ],
     "外貌": [
@@ -44,6 +51,13 @@
         "value": "瘦削老者、眼眶深凹、五彩长袍、银珠颈链",
         "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
         "seq": 1849
+      }
+    ],
+    "身份": [
+      {
+        "value": "太上长老",
+        "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+        "seq": 1855
       }
     ]
   },
@@ -72,12 +86,19 @@
       "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
       "dated": false,
       "seq": 1849
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+      "dated": false,
+      "seq": 1855
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru"
+    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
   ],
-  "updatedAt": "2026-06-21T07:09:08.452Z"
+  "updatedAt": "2026-06-21T07:16:44.557Z"
 }

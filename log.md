@@ -664,3 +664,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T06:54:08.091Z** `ingest` plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan — 第1837-1842章 半部法决换路·再回地渊 · kind=plot asOf=2026-06-21 entities=25 relations=31 src=01837-01842.md
 - **2026-06-21T07:01:40.535Z** `ingest` plot.fanren-1843-1848-hualing-zhi-zhan — 凡人修仙传 第1843-1848章 化灵之战·破空异变 · kind=plot asOf=2026-06-21 entities=24 relations=31 src=01843-01848.md
 - **2026-06-21T07:09:08.640Z** `ingest` plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru — 凡人修仙传 第1849-1854章｜啼魂飞升真仙界·重返冥河之地求取冥河神乳 · kind=plot asOf=2026-06-21 entities=30 relations=41 src=01849-01854.md
+- **2026-06-21T07:16:44.728Z** `ingest` plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong — 凡人修仙传 第1855-1860章：蚀仙丹、玄天之宝残片与虚灵老者的噬金虫 · kind=plot asOf=2026-06-21 entities=38 relations=41 src=01855-01860.md
