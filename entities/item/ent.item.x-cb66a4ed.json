@@ -4,12 +4,13 @@
   "name": "孽云",
   "aliases": [
     "孽云海",
-    "千万兽魂孽云"
+    "千万兽魂孽云",
+    "黑钵孽云"
   ],
   "summary": "以兽类精魂凝练之物，精魂越多效用越大；黑气中人称其阴魂钵中装有千万兽魂，为两族严禁炼制的禁物。",
   "attributes": {
-    "类型": "鬼魔道禁物",
-    "用途": "鬼道魔道功法修炼/炼制鬼器法宝",
+    "类型": "精魂凝练之物",
+    "用途": "渡大天劫",
     "产地": "私炼禁物"
   },
   "observations": {
@@ -18,6 +19,11 @@
         "value": "鬼魔道禁物",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "精魂凝练之物",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "用途": [
@@ -25,6 +31,11 @@
         "value": "鬼道魔道功法修炼/炼制鬼器法宝",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "渡大天劫",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "产地": [
@@ -39,15 +50,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1807
+      "seq": 1813
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1807
+      "seq": 1813
     },
     "产地": {
       "asOf": null,
@@ -59,7 +70,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-exchange-qitianluo"
+    "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-21T06:01:34.885Z"
+  "updatedAt": "2026-06-21T06:19:11.138Z"
 }

@@ -6,16 +6,19 @@
     "谷家一脉",
     "谷家分支",
     "谷家本家",
-    "真灵世家谷家"
+    "真灵世家谷家",
+    "谷家一门",
+    "贵家族"
   ],
   "summary": "上古流传的隐秘真灵世家之一,与叶家暗中操控人族大量极品灵石矿,真灵血脉只传女子。",
   "attributes": {
     "等级": "真灵世家（上古传承）",
-    "据点": "操控极品灵石矿",
+    "据点": "天元境",
     "理念": "保持血脉延续、少与外界接触、真灵世家",
     "所属界面": "灵界",
-    "掌门": "晓风仙子",
-    "镇派之宝": "真灵黎吼血脉炼化秘术"
+    "掌门": "晓风家主",
+    "镇派之宝": "真灵黎吼血脉炼化秘术",
+    "阵营": "真灵世家"
   },
   "observations": {
     "等级": [
@@ -35,6 +38,11 @@
         "value": "操控极品灵石矿",
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "理念": [
@@ -61,6 +69,11 @@
         "value": "晓风仙子",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "晓风家主",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "镇派之宝": [
@@ -68,6 +81,13 @@
         "value": "真灵黎吼血脉炼化秘术",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      }
+    ],
+    "阵营": [
+      {
+        "value": "真灵世家",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ]
   },
@@ -81,9 +101,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1333
+      "seq": 1813
     },
     "理念": {
       "asOf": null,
@@ -99,15 +119,21 @@
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1753
+      "seq": 1813
     },
     "镇派之宝": {
       "asOf": null,
       "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
       "seq": 1753
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
     }
   },
   "contested": false,
@@ -115,7 +141,8 @@
   "docs": [
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-21T04:44:27.008Z"
+  "updatedAt": "2026-06-21T06:19:11.205Z"
 }

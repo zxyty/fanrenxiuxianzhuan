@@ -2,10 +2,14 @@
   "id": "ent.event.x-a0a254ff",
   "type": "event",
   "name": "真灵大典",
-  "aliases": [],
+  "aliases": [
+    "真灵大典排名"
+  ],
   "summary": "约十年后举行的大典，韩立已答应谷家晓风仙子相助；谷家与叶家交好不会对上。",
   "attributes": {
-    "参与方": "谷家、叶家、韩立"
+    "参与方": "谷家、叶家、韩立、真灵世家",
+    "起因": "三千年一次",
+    "地点": "万灵台"
   },
   "observations": {
     "参与方": [
@@ -23,6 +27,25 @@
         "value": "韩立",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "真灵世家",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ],
+    "起因": [
+      {
+        "value": "三千年一次",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ],
+    "地点": [
+      {
+        "value": "万灵台",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ]
   },
@@ -33,12 +56,25 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    },
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-21T05:40:39.817Z"
+  "updatedAt": "2026-06-21T06:19:11.206Z"
 }

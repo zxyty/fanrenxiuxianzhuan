@@ -1,0 +1,74 @@
+{
+  "id": "ent.event.x-4bf216d3",
+  "type": "event",
+  "name": "黑域交换会三换一",
+  "aliases": [
+    "三换一"
+  ],
+  "summary": "黑域交换大会上韩立以玄光刃换血光人三件物品（净明丹、金色卷轴、冰凤），黑气中人得玄光刃、血光人得孽云。",
+  "attributes": {
+    "地点": "黑域空间",
+    "参与方": "韩立、血光人、黑气中人",
+    "结果": "韩立得净明丹/金色卷轴/凤仙子；血光人得孽云；黑气中人得玄光刃"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "黑域空间",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ],
+    "参与方": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      },
+      {
+        "value": "血光人",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      },
+      {
+        "value": "黑气中人",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ],
+    "结果": [
+      {
+        "value": "韩立得净明丹/金色卷轴/凤仙子；血光人得孽云；黑气中人得玄光刃",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ]
+  },
+  "firstSeq": 1813,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+  ],
+  "updatedAt": "2026-06-21T06:19:11.145Z"
+}

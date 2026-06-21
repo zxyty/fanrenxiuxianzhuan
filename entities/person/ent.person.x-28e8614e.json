@@ -11,12 +11,14 @@
   "summary": "鹰钩鼻锦衣大汉，散修队伍首领，筑基后期假丹境界，心计过人威望甚高，主导花灵石偷传外星海之计。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基后期/假丹、筑基后期",
+    "小阶段": "筑基后期/假丹、筑基后期、炼虚中期",
     "身份": "散修首领、外来修士、散修",
-    "外貌": "鹰钩鼻、锦衣、五官端正",
+    "外貌": "锦袍",
     "阵营": "慕兰法士",
     "标志特征": "鹰钩鼻、仪表堂堂",
-    "称号": "假丹境界"
+    "称号": "假丹境界",
+    "存殁": "死亡",
+    "死因": "被雪白蜈蚣妖咬断头颅"
   },
   "observations": {
     "性别": [
@@ -36,6 +38,11 @@
         "value": "筑基后期",
         "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
+      },
+      {
+        "value": "炼虚中期",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "身份": [
@@ -60,6 +67,11 @@
         "value": "鹰钩鼻、锦衣、五官端正",
         "docId": "plot.fanren-ch505-510-hunru-heishicheng",
         "seq": 505
+      },
+      {
+        "value": "锦袍",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "阵营": [
@@ -87,6 +99,20 @@
         "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ],
+    "死因": [
+      {
+        "value": "被雪白蜈蚣妖咬断头颅",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
     ]
   },
   "firstSeq": 505,
@@ -111,9 +137,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch505-510-hunru-heishicheng",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 505
+      "seq": 1813
     },
     "阵营": {
       "asOf": null,
@@ -132,6 +158,18 @@
       "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
       "dated": false,
       "seq": 505
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
     }
   },
   "contested": false,
@@ -140,7 +178,8 @@
     "plot.fanren-ch505-510-hunru-heishicheng",
     "plot.fanren-ch511-516-qiyuan-island-heishi-city",
     "plot.fanren-757-762-gengjing-jiangling-fu",
-    "plot.fanren-ch505-510-escape-to-outer-star-sea"
+    "plot.fanren-ch505-510-escape-to-outer-star-sea",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-17T06:08:39.572Z"
+  "updatedAt": "2026-06-21T06:19:11.203Z"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "ent.faction.x-bcbfaf0d",
+  "type": "faction",
+  "name": "蓝水宗",
+  "aliases": [
+    "蓝水宗一门"
+  ],
+  "summary": "天元城指名的外围宗门，功法平常，镇宗之宝为蓝极珠与白水幡(蓝水二宝)；本章一行被灭。",
+  "attributes": {
+    "镇派之宝": "蓝极珠、白水幡"
+  },
+  "observations": {
+    "镇派之宝": [
+      {
+        "value": "蓝极珠",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      },
+      {
+        "value": "白水幡",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
+      }
+    ]
+  },
+  "firstSeq": 1813,
+  "attrProvenance": {
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "dated": false,
+      "seq": 1813
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+  ],
+  "updatedAt": "2026-06-21T06:19:11.220Z"
+}

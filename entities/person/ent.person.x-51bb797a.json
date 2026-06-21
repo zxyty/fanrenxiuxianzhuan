@@ -5,15 +5,17 @@
   "aliases": [
     "谷家晓风仙子",
     "谷家主",
-    "谷家之主"
+    "谷家之主",
+    "晓风道友",
+    "白净少妇"
   ],
   "summary": "真灵世家谷家之主，炼虚期蓝衣秀丽少妇，邀韩立任谷家太上长老并达成真灵大典相助换血脉术之交易。",
   "attributes": {
     "性别": "女",
     "种族": "人族",
     "小阶段": "炼虚期",
-    "身份": "谷家家主",
-    "外貌": "蓝色宫装、面容白净的秀丽少妇"
+    "身份": "谷家之主",
+    "外貌": "白净少妇"
   },
   "observations": {
     "性别": [
@@ -42,6 +44,11 @@
         "value": "谷家家主",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "谷家之主",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "外貌": [
@@ -49,6 +56,11 @@
         "value": "蓝色宫装、面容白净的秀丽少妇",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "白净少妇",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ]
   },
@@ -74,21 +86,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1753
+      "seq": 1813
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1753
+      "seq": 1813
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-21T04:44:27.001Z"
+  "updatedAt": "2026-06-21T06:19:11.201Z"
 }

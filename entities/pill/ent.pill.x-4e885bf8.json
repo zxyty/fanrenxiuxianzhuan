@@ -2,12 +2,14 @@
   "id": "ent.pill.x-4e885bf8",
   "type": "pill",
   "name": "净明丹",
-  "aliases": [],
+  "aliases": [
+    "金黄色丹药"
+  ],
   "summary": "只在典籍记载的圣药，可增加合体期修士突破瓶颈的几率，引合体老怪轰动。",
   "attributes": {
     "品阶": "圣药",
-    "功效": "增加合体期突破瓶颈几率",
-    "适用境界": "合体期"
+    "功效": "突破瓶颈奇效",
+    "适用境界": "合体瓶颈"
   },
   "observations": {
     "品阶": [
@@ -22,6 +24,11 @@
         "value": "增加合体期突破瓶颈几率",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "突破瓶颈奇效",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ],
     "适用境界": [
@@ -29,6 +36,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "合体瓶颈",
+        "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+        "seq": 1813
       }
     ]
   },
@@ -42,21 +54,22 @@
     },
     "功效": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1807
+      "seq": 1813
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1807
+      "seq": 1813
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-exchange-qitianluo"
+    "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
   ],
-  "updatedAt": "2026-06-21T06:01:34.884Z"
+  "updatedAt": "2026-06-21T06:19:11.136Z"
 }
