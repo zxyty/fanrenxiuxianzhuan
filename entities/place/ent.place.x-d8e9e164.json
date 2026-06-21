@@ -6,14 +6,16 @@
     "雾海附近海域",
     "雾海岛",
     "海雾",
-    "白濛濛雾海"
+    "白濛濛雾海",
+    "雾气山脉",
+    "雾海深处"
   ],
   "summary": "韩立的洞府所在海雾浓密的海岛，设有翠绿幻阵与禁制、巨猿傀儡守护，是其闭关炼丹苦修之地。",
   "attributes": {
-    "类型": "海岛洞府、海域、雾海/秘地",
-    "守护": "幻阵与巨猿傀儡",
+    "类型": "海岛洞府、海域、雾海/秘地、雾气海域/山脉",
+    "守护": "圣阶大人",
     "所属势力": "五龙海",
-    "所属界面": "人界"
+    "所属界面": "灵界"
   },
   "observations": {
     "类型": [
@@ -31,6 +33,11 @@
         "value": "雾海/秘地",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "雾气海域/山脉",
+        "docId": "plot.fanren-1643-de-jing",
+        "seq": 1639
       }
     ],
     "守护": [
@@ -38,6 +45,11 @@
         "value": "幻阵与巨猿傀儡",
         "docId": "plot.fanren-523-528-zhongmo-xuming",
         "seq": 523
+      },
+      {
+        "value": "圣阶大人",
+        "docId": "plot.fanren-1643-de-jing",
+        "seq": 1639
       }
     ],
     "所属势力": [
@@ -52,6 +64,11 @@
         "value": "人界",
         "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
         "seq": 1255
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1643-de-jing",
+        "seq": 1639
       }
     ]
   },
@@ -65,9 +82,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-523-528-zhongmo-xuming",
+      "docId": "plot.fanren-1643-de-jing",
       "dated": false,
-      "seq": 523
+      "seq": 1639
     },
     "所属势力": {
       "asOf": null,
@@ -77,9 +94,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+      "docId": "plot.fanren-1643-de-jing",
       "dated": false,
-      "seq": 1255
+      "seq": 1639
     }
   },
   "contested": false,
@@ -88,7 +105,8 @@
     "plot.fanren-523-528-zhongmo-xuming",
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-1251-li-ya-er-yao",
-    "plot.fanren-1257-lianshou-zhiyi-bingfeng"
+    "plot.fanren-1257-lianshou-zhiyi-bingfeng",
+    "plot.fanren-1643-de-jing"
   ],
-  "updatedAt": "2026-06-20T06:59:42.224Z"
+  "updatedAt": "2026-06-21T02:00:30.290Z"
 }

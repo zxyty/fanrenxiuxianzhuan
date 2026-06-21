@@ -624,3 +624,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T01:28:06.286Z** `ingest` plot.fanren-1625-1630-mojuyuan-xuantian-miezuan — 凡人修仙传 第1625-1630章｜魂体分元·剑阵困魔·玄天灭猿 · kind=plot asOf=2026-06-21 entities=20 relations=25 src=01621-01626.md
 - **2026-06-21T01:36:21.226Z** `ingest` plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan — 凡人修仙传 第1627-1632章｜玄天炼器术·真麟本源之争 · kind=plot asOf=2026-06-21 entities=33 relations=39 src=01627-01632.md
 - **2026-06-21T01:48:19.600Z** `ingest` plot.fanren-ch1637-tulao-wugong — 第1637章 徒劳无功：穴灵之死与天外魔君真相、真麟本源落空 · kind=plot asOf=2026-06-21 entities=39 relations=49 src=01633-01638.md
+- **2026-06-21T02:00:30.479Z** `ingest` plot.fanren-1643-de-jing — 第1643章 得镜：韩立击杀双角魔夺三角铜镜 · kind=plot asOf=2026-06-21 entities=41 relations=54 src=01639-01644.md
