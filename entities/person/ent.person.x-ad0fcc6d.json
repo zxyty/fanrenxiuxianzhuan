@@ -23,11 +23,12 @@
     "种族": "真龙血脉",
     "小阶段": "化神后期大成、化神",
     "身份": "陇家、掌控人族拍卖行、灵云舟主人、化神修士、夺宝同行修士、韩立临时同行队友、陇家修士、天渊城任务修士、陇家少主、人族方面为首者、真灵世家嫡系子弟、炼虚级修士",
-    "标志特征": "嘴带血痣、英俊温雅、脸有血痣、黄色鳞甲铜翅、嘴角血痣、血痣、紫色头带、五爪金龙战甲、元神化五爪血龙、嘴带血痣、血痣、曾化乌爪金龙形态",
+    "标志特征": "嘴带血痣、英俊温雅、脸有血痣、黄色鳞甲铜翅、嘴角血痣、血痣、紫色头带、五爪金龙战甲、元神化五爪血龙、嘴带血痣、血痣、曾化乌爪金龙形态、嘴角鲜红血痣",
     "外貌": "血痣青年、紫袍、面带血痣、英俊、二十七八紫袍青年，英俊温雅、英俊青年、紫袍血痣青年、紫袍、面有血痣",
     "出身地": "陇家",
     "阵营": "陇家",
-    "结局": "元神逃脱"
+    "结局": "元神逃脱",
+    "性格": "心高气傲、怨毒"
   },
   "observations": {
     "性别": [
@@ -168,6 +169,11 @@
         "value": "曾化乌爪金龙形态",
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
+      },
+      {
+        "value": "嘴角鲜红血痣",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ],
     "外貌": [
@@ -242,6 +248,13 @@
         "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
         "seq": 1381
       }
+    ],
+    "性格": [
+      {
+        "value": "心高气傲、怨毒",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 1351,
@@ -299,6 +312,12 @@
       "docId": "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
       "dated": false,
       "seq": 1381
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -313,7 +332,8 @@
     "plot.fanren-ch1365-moying-zaixian",
     "plot.fanren-1369-1374-black-leaf-forest-muzu",
     "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
-    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan"
+    "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-20T10:38:54.863Z"
+  "updatedAt": "2026-06-21T06:21:10.426Z"
 }

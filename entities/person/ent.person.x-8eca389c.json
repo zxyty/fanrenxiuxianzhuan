@@ -14,7 +14,9 @@
     "小阶段": "合体后期",
     "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
     "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)",
-    "身份": "陇家老祖"
+    "身份": "老祖",
+    "性格": "深沉冷静",
+    "阵营": "陇家"
   },
   "observations": {
     "种族": [
@@ -71,6 +73,25 @@
         "value": "陇家老祖",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "老祖",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
+    ],
+    "性格": [
+      {
+        "value": "深沉冷静",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
+    ],
+    "阵营": [
+      {
+        "value": "陇家",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ]
   },
@@ -103,16 +124,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
-      "seq": 1801
+      "seq": 1819
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-21T05:59:14.537Z"
+  "updatedAt": "2026-06-21T06:21:10.425Z"
 }

@@ -4,13 +4,16 @@
   "name": "天黎仙子",
   "aliases": [
     "天黎太上大长老",
-    "天黎道友"
+    "天黎道友",
+    "天黎"
   ],
   "summary": "谷家太上长老，在蛮荒负伤、元气受损闭关，无法参加真灵大典。",
   "attributes": {
     "性别": "女",
-    "身份": "谷家太上长老",
-    "存殁": "存活（闭关）"
+    "身份": "太上长老",
+    "存殁": "存活（闭关）",
+    "小阶段": "合体中期",
+    "阵营": "谷家"
   },
   "observations": {
     "性别": [
@@ -25,6 +28,11 @@
         "value": "谷家太上长老",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "太上长老",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ],
     "存殁": [
@@ -32,6 +40,20 @@
         "value": "存活（闭关）",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
+    ],
+    "阵营": [
+      {
+        "value": "谷家",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ]
   },
@@ -45,21 +67,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
-      "seq": 1813
+      "seq": 1819
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
       "seq": 1813
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-21T06:19:11.203Z"
+  "updatedAt": "2026-06-21T06:21:10.424Z"
 }

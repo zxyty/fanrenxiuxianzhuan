@@ -656,3 +656,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T05:59:14.749Z** `ingest` plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei — 凡人修仙传 第1801-1806章｜圣岛·迷天楼·秦氏姐妹 · kind=plot asOf=2026-06-21 entities=43 relations=37 src=01801-01806.md
 - **2026-06-21T06:01:35.046Z** `ingest` plot.fanren-1813-1818-heiyu-exchange-qitianluo — 凡人修仙传 第1813-1818章｜黑域交换大会·齐天锣与阴凤草 · kind=plot asOf=2026-06-21 entities=16 relations=13 src=01807-01812.md
 - **2026-06-21T06:19:11.412Z** `ingest` plot.fanren-1813-1818-heiyu-trade-fengxianzi — 凡人修仙传 第1813-1818章｜黑域交换会三换一·再见凤仙子·聚灵桩 · kind=plot asOf=2026-06-21 entities=60 relations=68 src=01813-01818.md
+- **2026-06-21T06:21:10.604Z** `ingest` plot.fanren-1825-1826-wanlingtai — 凡人修仙传 第1825-1826章 万灵台·真灵大典前的暗流 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=01819-01824.p1.md

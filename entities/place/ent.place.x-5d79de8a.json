@@ -2,10 +2,13 @@
   "id": "ent.place.x-5d79de8a",
   "type": "place",
   "name": "万灵台",
-  "aliases": [],
+  "aliases": [
+    "万灵大殿"
+  ],
   "summary": "真灵大典召开之地，距谷家此处月许路程。",
   "attributes": {
-    "类型": "大典场所"
+    "类型": "祭祀大典之地",
+    "守护": "高大阵旗光罩、天劫之雷电网"
   },
   "observations": {
     "类型": [
@@ -13,6 +16,18 @@
         "value": "大典场所",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "祭祀大典之地",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
+    ],
+    "守护": [
+      {
+        "value": "高大阵旗光罩、天劫之雷电网",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ]
   },
@@ -20,15 +35,22 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
-      "seq": 1813
+      "seq": 1819
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-21T06:19:11.207Z"
+  "updatedAt": "2026-06-21T06:21:10.442Z"
 }

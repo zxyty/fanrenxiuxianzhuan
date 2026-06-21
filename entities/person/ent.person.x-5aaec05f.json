@@ -5,10 +5,11 @@
   "aliases": [],
   "summary": "谷家长老，黄发老者，炼虚后期大成，随队赴望龟峰之约。",
   "attributes": {
-    "身份": "谷家长老",
+    "身份": "长老",
     "小阶段": "炼虚后期大成",
     "外貌": "黄发老者",
-    "性别": "男"
+    "性别": "男",
+    "阵营": "谷家"
   },
   "observations": {
     "身份": [
@@ -16,6 +17,11 @@
         "value": "谷家长老",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "长老",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
       }
     ],
     "小阶段": [
@@ -38,15 +44,22 @@
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
       }
+    ],
+    "阵营": [
+      {
+        "value": "谷家",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 1813,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+      "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
-      "seq": 1813
+      "seq": 1819
     },
     "小阶段": {
       "asOf": null,
@@ -65,12 +78,19 @@
       "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
       "seq": 1813
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-21T06:19:11.202Z"
+  "updatedAt": "2026-06-21T06:21:10.423Z"
 }

@@ -15,7 +15,8 @@
     "种族": "人族",
     "小阶段": "炼虚期",
     "身份": "谷家之主",
-    "外貌": "白净少妇"
+    "外貌": "白净少妇",
+    "阵营": "谷家"
   },
   "observations": {
     "性别": [
@@ -62,6 +63,13 @@
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
       }
+    ],
+    "阵营": [
+      {
+        "value": "谷家",
+        "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 1753,
@@ -95,13 +103,20 @@
       "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
       "seq": 1813
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1825-1826-wanlingtai"
   ],
-  "updatedAt": "2026-06-21T06:19:11.201Z"
+  "updatedAt": "2026-06-21T06:21:10.422Z"
 }
