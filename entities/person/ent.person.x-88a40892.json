@@ -15,7 +15,9 @@
     "外貌": "黑袍",
     "阵营": "魔族",
     "标志特征": "特殊坚韧青色手掌（伤口自愈）、黑色游走斑纹妖魔化、双袖喷绿色毒气、曾中蚁后之毒",
-    "种族": "灵族"
+    "种族": "灵族",
+    "存殁": "死亡",
+    "死因": "被玄天之宝乌黑匕首斩杀"
   },
   "observations": {
     "小阶段": [
@@ -119,6 +121,20 @@
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "被玄天之宝乌黑匕首斩杀",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
     ]
   },
   "firstSeq": 1819,
@@ -158,6 +174,18 @@
       "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
       "seq": 2065
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -171,7 +199,8 @@
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.770Z"
+  "updatedAt": "2026-06-21T13:07:47.158Z"
 }

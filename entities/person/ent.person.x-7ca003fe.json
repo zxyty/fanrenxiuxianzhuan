@@ -9,7 +9,9 @@
   "attributes": {
     "种族": "灵族",
     "性格": "阴沉",
-    "外貌": "六十许岁年老儒生"
+    "外貌": "六十许岁年老儒生",
+    "存殁": "死亡",
+    "死因": "被玄天之宝乌黑匕首斩杀"
   },
   "observations": {
     "种族": [
@@ -32,6 +34,20 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "被玄天之宝乌黑匕首斩杀",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
     ]
   },
   "firstSeq": 1993,
@@ -53,12 +69,25 @@
       "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
       "seq": 1993
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-21T10:59:59.861Z"
+  "updatedAt": "2026-06-21T13:07:47.157Z"
 }

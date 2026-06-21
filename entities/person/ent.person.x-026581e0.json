@@ -16,9 +16,10 @@
     "阵营": "叶家、人族、韩立一行、韩立同伴、韩立一方、与韩立临时结盟",
     "小阶段": "炼虚",
     "性别": "女",
-    "种族": "魔族",
-    "标志特征": "天凤之血",
-    "出身地": "叶家"
+    "种族": "具天凤血脉",
+    "标志特征": "天凤血脉、十指弹射银芒、五色彩凤虚影、天凤之血、五色战甲、光焰之翅、失一臂",
+    "出身地": "叶家",
+    "存殁": "存活"
   },
   "observations": {
     "外貌": [
@@ -160,6 +161,11 @@
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047,
         "note": "化身遮掩，实为人族"
+      },
+      {
+        "value": "具天凤血脉",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "标志特征": [
@@ -182,6 +188,21 @@
         "value": "天凤之血",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "五色战甲",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "光焰之翅",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "失一臂",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "出身地": [
@@ -189,6 +210,13 @@
         "value": "叶家",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ]
   },
@@ -228,22 +256,27 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
       "dated": false,
-      "seq": 2047,
-      "note": "化身遮掩，实为人族"
+      "seq": 2071
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 2053
+      "seq": 1993
     },
     "出身地": {
       "asOf": null,
       "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
       "seq": 1999
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -261,7 +294,8 @@
     "plot.fanren-2068-2069-fansuan-lanjie",
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.774Z"
+  "updatedAt": "2026-06-21T13:07:47.156Z"
 }

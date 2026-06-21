@@ -8,20 +8,23 @@
     "阴罗宗魔修",
     "晋国阴罗宗长老",
     "阴罗宗黑衫老者",
-    "阴罗宗黑袍青年"
+    "阴罗宗黑袍青年",
+    "黑袍魔族圣祖",
+    "魔族老祖"
   ],
   "summary": "晋国十大魔宗之一阴罗宗长老，二十余岁黑袍青年，设阵诱夺韩立金雷竹法宝，祭七龙桩、血雷子、鬼罗幡。",
   "attributes": {
-    "身份": "阴罗宗长老、晋国十大魔宗之一长老",
-    "阵营": "魔道、阴罗宗（魔道）、魔道(阴罗宗)、魔道/阴罗宗、阴罗宗",
-    "外貌": "二十余岁黑袍青年",
+    "身份": "阴罗宗长老、晋国十大魔宗之一长老、圣祖",
+    "阵营": "魔道、阴罗宗（魔道）、魔道(阴罗宗)、魔道/阴罗宗、阴罗宗、魔界",
+    "外貌": "黑袍青年",
     "性格": "狡诈贪婪",
     "性别": "男",
     "小阶段": "元婴中期、元婴中期顶阶、元婴、元婴期",
     "存殁": "死亡",
     "死因": "被韩立大庚剑阵碎尸、元婴被搜魂化去、被韩立击杀、被韩立辟邪神雷击杀、剑阵碎尸、元婴被擒、被韩立香雾银针制住后灭杀、元婴被化",
     "出身地": "晋国",
-    "称号": "本尊者"
+    "称号": "本尊者",
+    "种族": "魔族"
   },
   "observations": {
     "身份": [
@@ -34,6 +37,11 @@
         "value": "晋国十大魔宗之一长老",
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "阵营": [
@@ -61,6 +69,11 @@
         "value": "阴罗宗",
         "docId": "plot.fanren-787-tun-mo-dan-gui",
         "seq": 787
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "外貌": [
@@ -68,6 +81,11 @@
         "value": "二十余岁黑袍青年",
         "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
         "seq": 781
+      },
+      {
+        "value": "黑袍青年",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "性格": [
@@ -154,6 +172,13 @@
         "docId": "plot.fanren-781-nangong-jingbian",
         "seq": 781
       }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
     ]
   },
   "firstSeq": 781,
@@ -172,9 +197,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
       "dated": false,
-      "seq": 781
+      "seq": 2071
     },
     "性格": {
       "asOf": null,
@@ -218,6 +243,12 @@
       "docId": "plot.fanren-781-nangong-jingbian",
       "dated": false,
       "seq": 781
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -226,7 +257,8 @@
     "plot.fanren-781-786-nangong-jingbian-jianzhen-chucheng",
     "plot.fanren-781-nangong-jingbian",
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
-    "plot.fanren-787-tun-mo-dan-gui"
+    "plot.fanren-787-tun-mo-dan-gui",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-17T13:07:38.905Z"
+  "updatedAt": "2026-06-21T13:07:47.148Z"
 }

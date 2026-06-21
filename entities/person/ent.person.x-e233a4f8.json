@@ -20,7 +20,10 @@
     "外貌": "黄袍圆脸十七八岁少女、十七八岁黄袍少女、黄袍少女（本体黄铜镜）、黄袍少女",
     "称号": "圣女",
     "小阶段": "合体",
-    "阵营": "韩立一方"
+    "阵营": "韩立一方",
+    "标志特征": "金色灵纹、半傫之身",
+    "存殁": "死亡",
+    "死因": "被黑袍青年以玄天之宝乌黑匕首斩杀"
   },
   "observations": {
     "性别": [
@@ -157,6 +160,32 @@
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
+    ],
+    "标志特征": [
+      {
+        "value": "金色灵纹",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "半傫之身",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
+    ],
+    "死因": [
+      {
+        "value": "被黑袍青年以玄天之宝乌黑匕首斩杀",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
     ]
   },
   "firstSeq": 1789,
@@ -202,6 +231,24 @@
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
       "seq": 2059
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -220,7 +267,8 @@
     "plot.fanren-2068-2069-fansuan-lanjie",
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.771Z"
+  "updatedAt": "2026-06-21T13:07:47.151Z"
 }

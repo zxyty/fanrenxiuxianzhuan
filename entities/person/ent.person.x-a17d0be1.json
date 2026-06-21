@@ -17,7 +17,8 @@
     "性别": "男",
     "阵营": "韩立一行",
     "外貌": "白濛濛光影",
-    "身份": "灵族探宝队成员、灵族真正主事者"
+    "身份": "灵族探宝队成员、灵族真正主事者",
+    "存殁": "存活"
   },
   "observations": {
     "种族": [
@@ -103,6 +104,13 @@
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
       }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
     ]
   },
   "firstSeq": 1993,
@@ -148,6 +156,12 @@
       "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
       "seq": 2065
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
@@ -156,7 +170,8 @@
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2070-erjin-huanxiao",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.772Z"
+  "updatedAt": "2026-06-21T13:07:47.159Z"
 }

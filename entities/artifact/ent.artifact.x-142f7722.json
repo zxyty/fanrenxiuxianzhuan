@@ -4,13 +4,17 @@
   "name": "黑星匕",
   "aliases": [
     "五把黑星匕",
-    "乌黑匕首"
+    "乌黑匕首",
+    "玄天黑匕",
+    "黑色巨剑",
+    "半尺乌匕首"
   ],
   "summary": "店主取出的五把乌黑匕首，轻若木制，扎入灵兽体内可封锁其雷电本源并吸纳电弧。",
   "attributes": {
-    "持有者": "鱼姓店主、枯瘦店主",
-    "外形": "五把乌黑匕首、乌黑匕首、轻如木制",
-    "能力": "封锁雷电本源、吸纳电弧、吸纳雷电之力"
+    "持有者": "鱼姓店主、枯瘦店主、黑袍青年",
+    "外形": "五把乌黑匕首、乌黑匕首、轻如木制、半尺乌黑匕首，可涨为丈许黑色巨剑",
+    "能力": "封锁雷电本源、吸纳电弧、吸纳雷电之力、隔空斩杀、破空间秘术、化千万黑丝结网",
+    "品阶": "玄天之宝(一界至宝)"
   },
   "observations": {
     "持有者": [
@@ -23,6 +27,11 @@
         "value": "枯瘦店主",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "黑袍青年",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "外形": [
@@ -35,6 +44,11 @@
         "value": "乌黑匕首、轻如木制",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "半尺乌黑匕首，可涨为丈许黑色巨剑",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ],
     "能力": [
@@ -47,6 +61,28 @@
         "value": "吸纳雷电之力",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "隔空斩杀",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "破空间秘术",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      },
+      {
+        "value": "化千万黑丝结网",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天之宝(一界至宝)",
+        "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+        "seq": 2071
       }
     ]
   },
@@ -69,13 +105,20 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+      "dated": false,
+      "seq": 2071
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
   ],
-  "updatedAt": "2026-06-20T11:37:56.423Z"
+  "updatedAt": "2026-06-21T13:07:47.152Z"
 }
