@@ -8,10 +8,11 @@
   "summary": "韩立新收记名弟子，炼体士，身具熔金之体与隐雷灵根（隐灵根）。",
   "attributes": {
     "性别": "男",
-    "身份": "炼体士、记名弟子",
+    "身份": "炼体士、记名弟子、韩立弟子",
     "称号": "海大少",
-    "标志特征": "熔金之体、隐雷灵根",
-    "外貌": "俊美青年"
+    "标志特征": "熔金之体、隐雷灵根、隐雷根",
+    "外貌": "俊美青年",
+    "小阶段": "化神期"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,11 @@
         "value": "记名弟子",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      },
+      {
+        "value": "韩立弟子",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "称号": [
@@ -50,6 +56,11 @@
         "value": "隐雷灵根",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      },
+      {
+        "value": "隐雷根",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "外貌": [
@@ -57,6 +68,13 @@
         "value": "俊美青年",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ]
   },
@@ -91,12 +109,19 @@
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
       "seq": 1789
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+      "dated": false,
+      "seq": 2173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-21T05:48:33.221Z"
+  "updatedAt": "2026-06-21T15:17:46.105Z"
 }

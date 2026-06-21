@@ -4,12 +4,14 @@
   "name": "残缺玉书",
   "aliases": [
     "残缺玉书符箓之道",
-    "玉书"
+    "玉书",
+    "五色玉书"
   ],
   "summary": "韩立所持记载符箓之道的残缺玉书，内含傀儡符炼制法。",
   "attributes": {
     "出处": "韩立所持残卷、韩立所得残缺玉书",
-    "效果": "记载符箓之道含傀儡符炼制法、记载符箓之道（含傀儡符炼制法）"
+    "效果": "记载符箓之道含傀儡符炼制法、记载符箓之道（含傀儡符炼制法）",
+    "品阶": "通天灵宝"
   },
   "observations": {
     "出处": [
@@ -35,6 +37,13 @@
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
       }
+    ],
+    "品阶": [
+      {
+        "value": "通天灵宝",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
+      }
     ]
   },
   "firstSeq": 1327,
@@ -50,13 +59,20 @@
       "docId": "plot.fanren-1327-1332-tianyuan-fangshi",
       "dated": false,
       "seq": 1327
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+      "dated": false,
+      "seq": 2173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1327-1332-tianyuan-fangshi",
-    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-20T09:02:29.365Z"
+  "updatedAt": "2026-06-21T15:17:46.155Z"
 }

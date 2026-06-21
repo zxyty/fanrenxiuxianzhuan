@@ -11,9 +11,9 @@
   "attributes": {
     "性别": "男",
     "小阶段": "合体期",
-    "身份": "天渊城妖族长老",
+    "身份": "天渊城长老",
     "种族": "妖族",
-    "外貌": "面色淡金、黑色皮袍"
+    "外貌": "黑袍"
   },
   "observations": {
     "性别": [
@@ -35,6 +35,11 @@
         "value": "天渊城妖族长老",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "天渊城长老",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "种族": [
@@ -49,6 +54,11 @@
         "value": "面色淡金、黑色皮袍",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "黑袍",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ]
   },
@@ -68,9 +78,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 1759
+      "seq": 2173
     },
     "种族": {
       "asOf": null,
@@ -80,15 +90,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 1759
+      "seq": 2173
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-21T05:04:10.124Z"
+  "updatedAt": "2026-06-21T15:17:46.110Z"
 }

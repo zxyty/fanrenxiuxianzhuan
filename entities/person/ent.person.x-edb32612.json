@@ -13,8 +13,8 @@
   "summary": "御灵宗元婴初期修士，绿袍鸠面、脸色阴沉，携气息不凡的灵兽袋。",
   "attributes": {
     "小阶段": "元婴初期、元婴期、元婴、合体期",
-    "外貌": "面孔娇嫩的银发老者",
-    "性格": "阴沉寡言",
+    "外貌": "满头银发",
+    "性格": "谨慎、多一事不如少一事",
     "阵营": "慕兰",
     "性别": "男",
     "身份": "天渊城合体长老",
@@ -66,6 +66,11 @@
         "value": "面孔娇嫩的银发老者",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "满头银发",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "性格": [
@@ -73,6 +78,11 @@
         "value": "阴沉寡言",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      },
+      {
+        "value": "谨慎、多一事不如少一事",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "阵营": [
@@ -177,15 +187,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 2167
+      "seq": 2173
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 721
+      "seq": 2173
     },
     "阵营": {
       "asOf": null,
@@ -243,7 +253,8 @@
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-21T15:09:48.861Z"
+  "updatedAt": "2026-06-21T15:17:46.133Z"
 }

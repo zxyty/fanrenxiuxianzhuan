@@ -8,14 +8,16 @@
     "Holy Island",
     "圣岛一脉",
     "圣岛长老会",
-    "圣岛传承之地"
+    "圣岛传承之地",
+    "圣岛诸长老"
   ],
   "summary": "人族顶尖势力，与莫简离并为人族抵御魔劫的信心所系。",
   "attributes": {
     "阵营": "人妖两族",
     "所属界面": "灵界",
     "镇派之宝": "银霄雷网、银霄雷网（外借灵宝）、下半部祭雷术法决",
-    "理念": "索取韩立弟子"
+    "理念": "为两族再造大乘存在",
+    "据点": "圣岛"
   },
   "observations": {
     "阵营": [
@@ -79,6 +81,18 @@
         "value": "索取韩立弟子",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "为两族再造大乘存在",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
+      }
+    ],
+    "据点": [
+      {
+        "value": "圣岛",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ]
   },
@@ -104,9 +118,15 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 2167
+      "seq": 2173
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+      "dated": false,
+      "seq": 2173
     }
   },
   "contested": false,
@@ -123,7 +143,8 @@
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-21T15:09:48.864Z"
+  "updatedAt": "2026-06-21T15:17:46.146Z"
 }

@@ -19,9 +19,10 @@
     "小阶段": "大乘",
     "称号": "定海神针",
     "种族": "人族",
-    "身份": "前辈强者",
+    "身份": "两族大乘靠山",
     "外貌": "白发慈眉、双耳奇长",
-    "标志特征": "雷云银弧电矢"
+    "标志特征": "雷云银弧电矢",
+    "存殁": "失踪"
   },
   "observations": {
     "阵营": [
@@ -107,6 +108,11 @@
         "value": "前辈强者",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "两族大乘靠山",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ],
     "外貌": [
@@ -121,6 +127,13 @@
         "value": "雷云银弧电矢",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      }
+    ],
+    "存殁": [
+      {
+        "value": "失踪",
+        "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+        "seq": 2173
       }
     ]
   },
@@ -152,9 +165,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
       "dated": false,
-      "seq": 2167
+      "seq": 2173
     },
     "外貌": {
       "asOf": null,
@@ -167,6 +180,12 @@
       "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
       "seq": 2137
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2173-2178-shengdao-shizhe-fanlian",
+      "dated": false,
+      "seq": 2173
     }
   },
   "contested": false,
@@ -186,7 +205,8 @@
     "plot.fanren-2137-2142-muzu-dazhan",
     "plot.fanren-2168-muzu-dazhan-12",
     "plot.fanren-2174-2178-hanli-mahayana-tribulation",
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2173-2178-shengdao-shizhe-fanlian"
   ],
-  "updatedAt": "2026-06-21T15:09:48.867Z"
+  "updatedAt": "2026-06-21T15:17:46.116Z"
 }
