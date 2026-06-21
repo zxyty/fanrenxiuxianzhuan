@@ -23,12 +23,12 @@
   "attributes": {
     "性别": "女",
     "种族": "突兀人",
-    "小阶段": "元婴期",
+    "小阶段": "合体",
     "身份": "天澜圣殿圣女、天澜圣女、天澜草原圣女、圣女",
     "外貌": "花容苍白",
     "称号": "仙子",
     "出身地": "天澜草原",
-    "标志特征": "身中韩立所种禁制",
+    "标志特征": "擅多种顶阶遁术",
     "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立、突兀人/天澜草原、韩立一方",
     "存殁": "存（被擒昏迷）、存"
   },
@@ -62,6 +62,11 @@
         "value": "元婴期",
         "docId": "plot.fanren-1003-qunmo-yinxian",
         "seq": 1003
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "身份": [
@@ -168,6 +173,11 @@
         "value": "弯月红刃",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "擅多种顶阶遁术",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "阵营": [
@@ -237,9 +247,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1003-qunmo-yinxian",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1003
+      "seq": 2047
     },
     "身份": {
       "asOf": null,
@@ -267,10 +277,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1069-soul-devour-longmeng-awaken",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1069,
-      "note": "欲回圣殿设法破除"
+      "seq": 2047
     },
     "阵营": {
       "asOf": null,
@@ -318,7 +327,8 @@
     "plot.fanren-ch949-954-miaoyin-baojing-jiuyou-zong",
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-ch973-minghe-zhiye",
-    "plot.fanren-1226-jingang-hanli-vs-yuanzhi"
+    "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-20T06:00:56.845Z"
+  "updatedAt": "2026-06-21T12:09:50.378Z"
 }

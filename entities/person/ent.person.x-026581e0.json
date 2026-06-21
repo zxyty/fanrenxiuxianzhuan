@@ -9,12 +9,12 @@
   ],
   "summary": "叶家老祖，化形为身着五色羽衣的十七八岁少女，声如黄鹂，性情活泼，疼爱孙女叶颖。",
   "attributes": {
-    "外貌": "羽衣少女",
-    "身份": "老祖、叶家代战修士、叶家修士",
+    "外貌": "少女模样",
+    "身份": "老祖、叶家代战修士、叶家修士、叶家老祖",
     "阵营": "人族",
     "小阶段": "合体中期以上",
     "性别": "女",
-    "种族": "人族",
+    "种族": "魔族",
     "标志特征": "五色彩凤虚影",
     "出身地": "叶家"
   },
@@ -30,6 +30,11 @@
         "value": "羽衣少女",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "少女模样",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "身份": [
@@ -47,6 +52,11 @@
         "value": "叶家修士",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "叶家老祖",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "阵营": [
@@ -85,6 +95,11 @@
         "value": "人族",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "标志特征": [
@@ -116,9 +131,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1825
+      "seq": 2047
     },
     "身份": {
       "asOf": null,
@@ -146,9 +161,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1993
+      "seq": 2047
     },
     "标志特征": {
       "asOf": null,
@@ -173,7 +188,8 @@
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T11:34:57.651Z"
+  "updatedAt": "2026-06-21T12:09:50.331Z"
 }

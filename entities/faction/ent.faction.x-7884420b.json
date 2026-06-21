@@ -8,7 +8,8 @@
   "summary": "魔族家族，与白家争夺金曦鼠，护族灵兽为夜魇狮。",
   "attributes": {
     "所属界面": "魔界",
-    "阵营": "魔族"
+    "阵营": "魔族",
+    "据点": "幻夜城"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +24,13 @@
         "value": "魔族",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      }
+    ],
+    "据点": [
+      {
+        "value": "幻夜城",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "dated": false,
+      "seq": 2047
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T11:46:30.247Z"
+  "updatedAt": "2026-06-21T12:09:50.391Z"
 }

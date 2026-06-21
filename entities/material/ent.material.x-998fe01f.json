@@ -3,14 +3,15 @@
   "type": "material",
   "name": "异魔金",
   "aliases": [
-    "异魔金矿石"
+    "异魔金矿石",
+    "黑白相间矿石"
   ],
   "summary": "魔界稀少材料，兼含纯灵气与纯魔气；韩立所购一块内暗藏可直转真元的灰白光团晶珠。",
   "attributes": {
-    "类型": "魔界矿石材料",
-    "产地": "魔界",
+    "类型": "魔金矿石",
+    "产地": "疑似蓝瀑湖",
     "稀有度": "稀少",
-    "用途": "炼制魔器/材料"
+    "用途": "炼化内含晶球能量直接提升法力"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,11 @@
         "value": "魔界矿石材料",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "魔金矿石",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "产地": [
@@ -25,6 +31,11 @@
         "value": "魔界",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "疑似蓝瀑湖",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "稀有度": [
@@ -39,6 +50,11 @@
         "value": "炼制魔器/材料",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "炼化内含晶球能量直接提升法力",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ]
   },
@@ -46,15 +62,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2011
+      "seq": 2047
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2011
+      "seq": 2047
     },
     "稀有度": {
       "asOf": null,
@@ -64,15 +80,16 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2011
+      "seq": 2047
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2025-2030-blood-crow-city-yimojin"
+    "plot.fanren-2025-2030-blood-crow-city-yimojin",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T11:20:00.674Z"
+  "updatedAt": "2026-06-21T12:09:50.335Z"
 }

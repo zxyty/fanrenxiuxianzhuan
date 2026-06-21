@@ -8,12 +8,12 @@
   ],
   "summary": "幻啸沙漠原生珍稀魔兽，无法飞行但沙中疾行如风，魔核皮骨皆贵，近乎灭绝，多被魔族圈养。",
   "attributes": {
-    "栖息地": "魔界",
-    "能力": "沙漠中行动如风、沙漠穿梭、代步运输",
+    "栖息地": "幻夜城/幻啸沙漠",
+    "能力": "沙漠中行动如风、沙漠穿梭、代步运输、自由进出幻啸沙漠、深入沙漠运输珍稀材料",
     "外形": "五丈长黑鳞八足巨蜥",
     "种族": "魔兽",
     "等级": "魔兽、气息金丹期",
-    "主人": "白家"
+    "主人": "白家、宁家、方家、赵家"
   },
   "observations": {
     "栖息地": [
@@ -31,6 +31,11 @@
         "value": "魔界",
         "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
         "seq": 2041
+      },
+      {
+        "value": "幻夜城/幻啸沙漠",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "能力": [
@@ -48,6 +53,16 @@
         "value": "代步运输",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
+      },
+      {
+        "value": "自由进出幻啸沙漠",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
+      },
+      {
+        "value": "深入沙漠运输珍稀材料",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "外形": [
@@ -86,6 +101,21 @@
         "value": "白家",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "宁家",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
+      },
+      {
+        "value": "方家",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
+      },
+      {
+        "value": "赵家",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ]
   },
@@ -93,9 +123,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2041
+      "seq": 2047
     },
     "能力": {
       "asOf": null,
@@ -136,7 +166,8 @@
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
     "plot.hanli-yijin-huanxiao-shamo-2054",
-    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T12:00:40.986Z"
+  "updatedAt": "2026-06-21T12:09:50.386Z"
 }

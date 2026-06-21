@@ -8,7 +8,8 @@
     "据点": "幻夜城",
     "阵营": "魔族",
     "掌门": "赵文好",
-    "所属界面": "魔界"
+    "所属界面": "魔界",
+    "镇派之宝": "八足魔蜥"
   },
   "observations": {
     "据点": [
@@ -43,6 +44,13 @@
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "八足魔蜥",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
+      }
     ]
   },
   "firstSeq": 901,
@@ -70,6 +78,12 @@
       "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
       "seq": 2035
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "dated": false,
+      "seq": 2047
     }
   },
   "contested": false,
@@ -78,7 +92,8 @@
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T11:52:53.886Z"
+  "updatedAt": "2026-06-21T12:09:50.390Z"
 }

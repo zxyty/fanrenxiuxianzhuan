@@ -1,40 +1,33 @@
 {
-  "id": "ent.person.x-fe3f4db9",
+  "id": "ent.person.x-8f9ea7d5",
   "type": "person",
-  "name": "晖姓长老",
-  "aliases": [
-    "陇家黑袍长老"
-  ],
-  "summary": "陇家一身黑袍的晖姓长老，认为异族闯魔界并不罕见，支持硬闯。",
+  "name": "白家紫发女子",
+  "aliases": [],
+  "summary": "白家老祖之一，掌宝库交易，向韩立透露异魔金来历，大哥闭关期间坐镇族务。",
   "attributes": {
-    "出身地": "陇家",
-    "外貌": "黑袍、面带黑气、缺一臂",
-    "身份": "陇家长老",
+    "性别": "女",
+    "外貌": "紫发",
+    "身份": "白家老祖",
     "种族": "魔族"
   },
   "observations": {
-    "出身地": [
+    "性别": [
       {
-        "value": "陇家",
-        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-        "seq": 1999
+        "value": "女",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "外貌": [
       {
-        "value": "黑袍",
-        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-        "seq": 1999
-      },
-      {
-        "value": "黑袍、面带黑气、缺一臂",
+        "value": "紫发",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
       }
     ],
     "身份": [
       {
-        "value": "陇家长老",
+        "value": "白家老祖",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
       }
@@ -47,13 +40,13 @@
       }
     ]
   },
-  "firstSeq": 1999,
+  "firstSeq": 2047,
   "attrProvenance": {
-    "出身地": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1999
+      "seq": 2047
     },
     "外貌": {
       "asOf": null,
@@ -77,8 +70,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T12:09:50.328Z"
+  "updatedAt": "2026-06-21T12:09:50.315Z"
 }

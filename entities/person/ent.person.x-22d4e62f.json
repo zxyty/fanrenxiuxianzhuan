@@ -7,7 +7,7 @@
   "attributes": {
     "种族": "灵族",
     "小阶段": "合体中期",
-    "身份": "圣灵",
+    "身份": "灵族圣灵",
     "标志特征": "精通阵法禁制",
     "外貌": "老儒"
   },
@@ -36,6 +36,11 @@
         "value": "圣灵",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "灵族圣灵",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "标志特征": [
@@ -69,9 +74,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1999
+      "seq": 2047
     },
     "标志特征": {
       "asOf": null,
@@ -90,7 +95,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T11:08:29.601Z"
+  "updatedAt": "2026-06-21T12:09:50.375Z"
 }

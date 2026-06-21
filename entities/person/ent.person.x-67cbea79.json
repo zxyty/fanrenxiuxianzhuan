@@ -7,17 +7,19 @@
     "叶家太上长老",
     "叶家仙子",
     "五色羽衣少女",
-    "叶家先祖之后"
+    "叶家先祖之后",
+    "叶家合体女修"
   ],
   "summary": "叶家太上长老，外貌为羽衣少女实则老气横生，抽得5号轮空。",
   "attributes": {
-    "外貌": "五色羽衣貌美少女",
+    "外貌": "肌肤雪白、面容秀美、身披五色羽衣",
     "身份": "真灵世家叶家老祖",
     "阵营": "人族真灵世家叶家",
     "性别": "女",
     "小阶段": "合体",
     "标志特征": "天凤血统、破碎虚空神通、继承叶家天凤血脉",
-    "种族": "人族"
+    "种族": "人族",
+    "出身地": "叶家"
   },
   "observations": {
     "外貌": [
@@ -31,6 +33,11 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993,
         "note": "化形/显化之貌"
+      },
+      {
+        "value": "肌肤雪白、面容秀美、身披五色羽衣",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "身份": [
@@ -99,16 +106,22 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
       }
+    ],
+    "出身地": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
+      }
     ]
   },
   "firstSeq": 1819,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 1993,
-      "note": "化形/显化之貌"
+      "seq": 2047
     },
     "身份": {
       "asOf": null,
@@ -145,6 +158,12 @@
       "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
       "seq": 1993
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "dated": false,
+      "seq": 2047
     }
   },
   "contested": false,
@@ -152,7 +171,8 @@
   "docs": [
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T10:59:59.787Z"
+  "updatedAt": "2026-06-21T12:09:50.372Z"
 }

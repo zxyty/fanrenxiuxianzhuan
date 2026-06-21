@@ -9,10 +9,10 @@
   "summary": "魔界十大禁地之一，入内法力被压制九成、遁术宝物皆失效，只能徒步，幻啸魔风为患，徒步穿越需五六十年。",
   "attributes": {
     "所属界面": "圣界",
-    "类型": "沙漠禁地",
-    "危险度": "高（魔尊魔兽出没、压制神念遁术）",
+    "类型": "沙漠险地",
+    "危险度": "高",
     "守护": "幻啸魔风、落魂风、地湮沙、幻啸魔狼",
-    "特产": "八足魔蜥、火云石、矿脉、药田"
+    "特产": "八足魔蜥、火云石、矿脉、药田、珍稀材料"
   },
   "observations": {
     "所属界面": [
@@ -47,6 +47,11 @@
         "value": "沙漠禁地",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
+      },
+      {
+        "value": "沙漠险地",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "危险度": [
@@ -64,6 +69,11 @@
         "value": "高（魔尊魔兽出没、压制神念遁术）",
         "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
         "seq": 2041
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ],
     "守护": [
@@ -108,6 +118,11 @@
         "value": "药田",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
+      },
+      {
+        "value": "珍稀材料",
+        "docId": "plot.fanren-ch2065-jinjingzhu",
+        "seq": 2047
       }
     ]
   },
@@ -121,15 +136,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2035
+      "seq": 2047
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2041
+      "seq": 2047
     },
     "守护": {
       "asOf": null,
@@ -153,7 +168,8 @@
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
     "plot.hanli-yijin-huanxiao-shamo-2054",
-    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+    "plot.fanren-ch2065-jinjingzhu"
   ],
-  "updatedAt": "2026-06-21T12:00:40.981Z"
+  "updatedAt": "2026-06-21T12:09:50.383Z"
 }
