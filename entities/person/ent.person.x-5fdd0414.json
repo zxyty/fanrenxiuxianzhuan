@@ -8,15 +8,17 @@
     "明前辈",
     "明兄",
     "赤红老者",
-    "赤发老者"
+    "赤发老者",
+    "明尊道友",
+    "赤红头发老者"
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "本盟总执事",
+    "身份": "赫连商盟主事",
     "外貌": "赤红头发老者",
     "小阶段": "大乘期",
     "出身地": "仙人嫡系后人后裔",
-    "阵营": "未明"
+    "阵营": "赫连商盟"
   },
   "observations": {
     "身份": [
@@ -39,6 +41,11 @@
         "value": "本盟总执事",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "赫连商盟主事",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ],
     "外貌": [
@@ -82,6 +89,11 @@
         "value": "未明",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "赫连商盟",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ]
   },
@@ -89,9 +101,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2403-dingji",
       "dated": false,
-      "seq": 2377
+      "seq": 2383
     },
     "外貌": {
       "asOf": null,
@@ -113,9 +125,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2403-dingji",
       "dated": false,
-      "seq": 2377
+      "seq": 2383
     }
   },
   "contested": false,
@@ -124,7 +136,8 @@
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
-    "plot.fanren-ch2377-2382-malaiang-shizong"
+    "plot.fanren-ch2377-2382-malaiang-shizong",
+    "plot.fanren-2403-dingji"
   ],
-  "updatedAt": "2026-06-21T19:22:14.866Z"
+  "updatedAt": "2026-06-21T19:58:49.567Z"
 }

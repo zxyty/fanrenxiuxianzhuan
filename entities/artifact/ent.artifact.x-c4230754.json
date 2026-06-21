@@ -1,0 +1,51 @@
+{
+  "id": "ent.artifact.x-c4230754",
+  "type": "artifact",
+  "name": "寄念神魔",
+  "aliases": [
+    "黑白阵盘",
+    "八棱阵盘"
+  ],
+  "summary": "马良的黑白两色八棱阵盘，可化晶球唤出血红鬼脸，远程搜寻指定神魂方位。",
+  "attributes": {
+    "持有者": "马良",
+    "能力": "搜魂定向"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "马良",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
+      }
+    ],
+    "能力": [
+      {
+        "value": "搜魂定向",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
+      }
+    ]
+  },
+  "firstSeq": 2383,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2403-dingji"
+  ],
+  "updatedAt": "2026-06-21T19:58:49.565Z"
+}

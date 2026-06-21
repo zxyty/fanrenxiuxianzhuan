@@ -8,16 +8,19 @@
     "病弱青年",
     "仙界疯子",
     "降临真仙",
-    "真仙疯子"
+    "真仙疯子",
+    "血祭凶魔",
+    "黑袍瘦弱青年"
   ],
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
     "性格": "心性过激、嗜血祭、自大",
     "身份": "仙界降临真仙",
     "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术",
-    "外貌": "黑袍病弱（瘦弱）青年",
+    "外貌": "黑袍瘦弱青年",
     "阵营": "孤身",
-    "小阶段": "真仙"
+    "小阶段": "真仙",
+    "称号": "血祭凶魔"
   },
   "observations": {
     "性格": [
@@ -76,6 +79,11 @@
         "value": "黑袍病弱（瘦弱）青年",
         "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
         "seq": 2365
+      },
+      {
+        "value": "黑袍瘦弱青年",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ],
     "阵营": [
@@ -92,6 +100,13 @@
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377,
         "note": "实力大半受限"
+      }
+    ],
+    "称号": [
+      {
+        "value": "血祭凶魔",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ]
   },
@@ -117,9 +132,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "docId": "plot.fanren-2403-dingji",
       "dated": false,
-      "seq": 2365
+      "seq": 2383
     },
     "阵营": {
       "asOf": null,
@@ -134,6 +149,12 @@
       "dated": false,
       "seq": 2377,
       "note": "实力大半受限"
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
     }
   },
   "contested": false,
@@ -141,7 +162,8 @@
   "docs": [
     "plot.fanren-2270-jiuyuanguan",
     "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
-    "plot.fanren-ch2377-2382-malaiang-shizong"
+    "plot.fanren-ch2377-2382-malaiang-shizong",
+    "plot.fanren-2403-dingji"
   ],
-  "updatedAt": "2026-06-21T19:22:14.819Z"
+  "updatedAt": "2026-06-21T19:58:49.562Z"
 }

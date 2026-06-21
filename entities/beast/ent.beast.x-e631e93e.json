@@ -5,13 +5,14 @@
   "aliases": [
     "鹿首熊身怪兽",
     "鹿首凶身巨兽",
-    "鹿兄"
+    "鹿兄",
+    "鹿首巨汉"
   ],
   "summary": "角蚩族供奉的上古真灵之一，借上古契约召唤迎战马良，战后失踪。",
   "attributes": {
-    "等级": "上古真灵",
+    "等级": "真灵",
     "种族": "真灵",
-    "外形": "鹿首熊身、可化土黄色长尖刺厚甲",
+    "外形": "鹿首壮硕巨人",
     "主人": "黑袍青年"
   },
   "observations": {
@@ -20,6 +21,11 @@
         "value": "上古真灵",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "真灵",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ],
     "种族": [
@@ -34,6 +40,11 @@
         "value": "鹿首熊身、可化土黄色长尖刺厚甲",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "鹿首壮硕巨人",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ],
     "主人": [
@@ -48,9 +59,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2403-dingji",
       "dated": false,
-      "seq": 2377
+      "seq": 2383
     },
     "种族": {
       "asOf": null,
@@ -60,9 +71,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2403-dingji",
       "dated": false,
-      "seq": 2377
+      "seq": 2383
     },
     "主人": {
       "asOf": null,
@@ -74,7 +85,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2377-2382-malaiang-shizong"
+    "plot.fanren-ch2377-2382-malaiang-shizong",
+    "plot.fanren-2403-dingji"
   ],
-  "updatedAt": "2026-06-21T19:22:14.859Z"
+  "updatedAt": "2026-06-21T19:58:49.563Z"
 }

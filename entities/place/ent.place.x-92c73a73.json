@@ -6,7 +6,8 @@
   "summary": "人妖两族间偏僻海域，灵气精纯，磁脉聚集，由上百岛屿组成群岛。",
   "attributes": {
     "类型": "海域",
-    "特产": "磁光地脉"
+    "特产": "磁光地脉",
+    "所属界面": "灵界"
   },
   "observations": {
     "类型": [
@@ -21,6 +22,13 @@
         "value": "磁光地脉",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
       "seq": 2281
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2403-dingji"
   ],
-  "updatedAt": "2026-06-21T17:20:40.552Z"
+  "updatedAt": "2026-06-21T19:58:49.553Z"
 }

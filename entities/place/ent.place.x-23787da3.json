@@ -8,7 +8,9 @@
   "summary": "无涯海中一座方圆万里的巨型岛屿，韩立立为基业，布两仪万引大阵；三年后建成灵气盎然、傀儡巡守。",
   "attributes": {
     "类型": "岛屿/洞府",
-    "守护": "两仪万引大阵、傀儡甲士"
+    "守护": "两仪万引大阵、傀儡甲士",
+    "所属界面": "灵界",
+    "所属势力": "青元宫"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,20 @@
         "value": "两仪万引大阵、傀儡甲士",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "青元宫",
+        "docId": "plot.fanren-2403-dingji",
+        "seq": 2383
       }
     ]
   },
@@ -39,12 +55,25 @@
       "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
       "seq": 2281
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-2403-dingji",
+      "dated": false,
+      "seq": 2383
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2403-dingji"
   ],
-  "updatedAt": "2026-06-21T17:20:40.551Z"
+  "updatedAt": "2026-06-21T19:58:49.553Z"
 }
