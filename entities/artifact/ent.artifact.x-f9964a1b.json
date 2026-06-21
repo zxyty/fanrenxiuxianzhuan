@@ -4,13 +4,15 @@
   "name": "蓝濛濛的圆珠",
   "aliases": [
     "晶莹圆珠",
-    "感知珠"
+    "感知珠",
+    "第四对灵翼异宝"
   ],
   "summary": "高大黑影持有的遥感法器，与其所布禁制相连，禁制被破后珠面出现裂缝以作警示",
   "attributes": {
-    "持有者": "高大黑影",
-    "能力": "感知远处禁制状态，禁制被破则珠面现裂缝",
-    "外形": "蓝濛濛晶莹光滑圆珠"
+    "持有者": "六翼霜蚣",
+    "能力": "化为第四对灵翼,极大提升遁速",
+    "外形": "蓝濛濛晶莹光滑圆珠",
+    "来历": "六翼霜蚣深入蛮荒所得机遇"
   },
   "observations": {
     "持有者": [
@@ -18,6 +20,11 @@
         "value": "高大黑影",
         "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
         "seq": 1177
+      },
+      {
+        "value": "六翼霜蚣",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "能力": [
@@ -25,6 +32,11 @@
         "value": "感知远处禁制状态，禁制被破则珠面现裂缝",
         "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
         "seq": 1177
+      },
+      {
+        "value": "化为第四对灵翼,极大提升遁速",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "外形": [
@@ -33,33 +45,47 @@
         "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
         "seq": 1177
       }
+    ],
+    "来历": [
+      {
+        "value": "六翼霜蚣深入蛮荒所得机遇",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
     ]
   },
   "firstSeq": 1177,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 1177
+      "seq": 2353
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 1177
+      "seq": 2353
     },
     "外形": {
       "asOf": null,
       "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
       "dated": false,
       "seq": 1177
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.ch1180-rescue-lava-lake-mupeilin"
+    "plot.ch1180-rescue-lava-lake-mupeilin",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-19T10:12:28.692Z"
+  "updatedAt": "2026-06-21T18:41:52.631Z"
 }

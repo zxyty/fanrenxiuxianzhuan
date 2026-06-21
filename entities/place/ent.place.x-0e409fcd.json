@@ -6,7 +6,8 @@
   "summary": "血天大陆山脉，附近八国与山脉内十九宗约一月前集体诡异消失，残留大乘级血道气息。",
   "attributes": {
     "所属界面": "血天大陆",
-    "类型": "山脉"
+    "类型": "山脉",
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -21,6 +22,13 @@
         "value": "山脉",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -37,13 +45,20 @@
       "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
       "seq": 2347
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T18:28:45.192Z"
+  "updatedAt": "2026-06-21T18:41:52.680Z"
 }

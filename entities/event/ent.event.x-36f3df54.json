@@ -2,11 +2,15 @@
   "id": "ent.event.x-36f3df54",
   "type": "event",
   "name": "强者之战",
-  "aliases": [],
+  "aliases": [
+    "五山峰决斗"
+  ],
   "summary": "三年后于小世界举行的高手之战，韩立答应替赫连商盟参战，对手或含阴司十王。",
   "attributes": {
-    "参与方": "赫连商盟、韩立、阴司十王",
-    "地点": "小世界"
+    "参与方": "赫连商盟、韩立、阴司十王、冥界鬼物",
+    "地点": "小世界、小世界双方控制区分界处、分界线五座山峰",
+    "章节": "2373-2374、2375-2377",
+    "起因": "争夺小世界重大利益、争夺沟通两大主界面的小世界控制权"
   },
   "observations": {
     "参与方": [
@@ -24,6 +28,11 @@
         "value": "阴司十王",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "冥界鬼物",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "地点": [
@@ -31,6 +40,40 @@
         "value": "小世界",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "小世界双方控制区分界处",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "分界线五座山峰",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
+    ],
+    "章节": [
+      {
+        "value": "2373-2374",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "2375-2377",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
+    ],
+    "起因": [
+      {
+        "value": "争夺小世界重大利益",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "争夺沟通两大主界面的小世界控制权",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -47,12 +90,25 @@
       "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
       "seq": 2317
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T17:47:59.030Z"
+  "updatedAt": "2026-06-21T18:41:52.717Z"
 }

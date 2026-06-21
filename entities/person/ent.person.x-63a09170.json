@@ -2,12 +2,17 @@
   "id": "ent.person.x-63a09170",
   "type": "person",
   "name": "烟雨真人",
-  "aliases": [],
+  "aliases": [
+    "烟雨道友",
+    "烟雨道人",
+    "烟雨前辈"
+  ],
   "summary": "商盟长老之一，于齐云山脉被持万灵血玺的黑袍青年斩杀。",
   "attributes": {
     "身份": "商盟长老",
     "存殁": "死亡",
-    "死因": "被黑袍青年斩杀"
+    "死因": "齐云山脉被凶魔斩杀",
+    "小阶段": "大乘"
   },
   "observations": {
     "身份": [
@@ -29,6 +34,18 @@
         "value": "被黑袍青年斩杀",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "齐云山脉被凶魔斩杀",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -48,15 +65,22 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2347
+      "seq": 2353
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T18:28:45.179Z"
+  "updatedAt": "2026-06-21T18:41:52.661Z"
 }

@@ -7,14 +7,16 @@
     "碧影道友",
     "碧影大人",
     "碧道友",
-    "碧兄"
+    "碧兄",
+    "碧道人"
   ],
   "summary": "血天大陆某谋划大事者，明尊借七窍心音壁向其举荐韩立为帮手。",
   "attributes": {
-    "身份": "血天大陆谋划者、赫连商盟血天大陆总执事、赫连商盟首领",
-    "阵营": "本盟",
-    "小阶段": "大乘期、合体",
-    "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者、绿袍老者"
+    "身份": "血天大陆谋划者、赫连商盟血天大陆总执事、赫连商盟首领、赫连商盟血天负责人、强者之战负责人",
+    "阵营": "本盟（守护小世界一方）",
+    "小阶段": "大乘期、合体、大乘",
+    "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者、绿袍老者、绿袍枯黄面老者",
+    "性别": "男"
   },
   "observations": {
     "身份": [
@@ -32,6 +34,16 @@
         "value": "赫连商盟首领",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "赫连商盟血天负责人",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "强者之战负责人",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "阵营": [
@@ -44,6 +56,11 @@
         "value": "本盟",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "本盟（守护小世界一方）",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "小阶段": [
@@ -57,6 +74,11 @@
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317,
         "note": "压制伪装；本体实为大乘"
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "外貌": [
@@ -76,6 +98,18 @@
         "value": "绿袍老者",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "绿袍枯黄面老者",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -89,9 +123,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2323
+      "seq": 2353
     },
     "小阶段": {
       "asOf": null,
@@ -105,6 +139,12 @@
       "dated": false,
       "seq": 2317,
       "note": "分念寄付的图中化身"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
@@ -112,7 +152,8 @@
   "docs": [
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
-    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T17:50:49.009Z"
+  "updatedAt": "2026-06-21T18:41:52.694Z"
 }

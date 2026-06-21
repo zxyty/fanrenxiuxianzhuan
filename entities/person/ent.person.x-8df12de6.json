@@ -12,12 +12,15 @@
     "黑袍魔族圣祖",
     "魔族老祖",
     "界外之人",
-    "细长双目黑袍青年"
+    "细长双目黑袍青年",
+    "真仙",
+    "上界真仙",
+    "仙界真仙"
   ],
   "summary": "晋国十大魔宗之一阴罗宗长老，二十余岁黑袍青年，设阵诱夺韩立金雷竹法宝，祭七龙桩、血雷子、鬼罗幡。",
   "attributes": {
-    "身份": "阴罗宗长老、晋国十大魔宗之一长老、圣祖、大界来客",
-    "阵营": "魔道、阴罗宗（魔道）、魔道(阴罗宗)、魔道/阴罗宗、阴罗宗、魔界",
+    "身份": "阴罗宗长老、晋国十大魔宗之一长老、圣祖、大界来客、真仙(下界化身)",
+    "阵营": "魔道、阴罗宗（魔道）、魔道(阴罗宗)、魔道/阴罗宗、阴罗宗、魔界、真仙界、仙界",
     "外貌": "瘦弱白皙、细长双目、黑袍",
     "性格": "狡诈贪婪",
     "性别": "男",
@@ -26,7 +29,8 @@
     "死因": "被韩立大庚剑阵碎尸、元婴被搜魂化去、被韩立击杀、被韩立辟邪神雷击杀、剑阵碎尸、元婴被擒、被韩立香雾银针制住后灭杀、元婴被化",
     "出身地": "晋国",
     "称号": "本尊者",
-    "种族": "界外之人"
+    "种族": "界外之人",
+    "标志特征": "七色晶壁、琉璃巨手、血河、煞气、脚踩七色彩云"
   },
   "observations": {
     "身份": [
@@ -49,6 +53,12 @@
         "value": "大界来客",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "真仙(下界化身)",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353,
+        "note": "以真仙之躯直接降临血天"
       }
     ],
     "阵营": [
@@ -81,6 +91,16 @@
         "value": "魔界",
         "docId": "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
         "seq": 2071
+      },
+      {
+        "value": "真仙界",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "仙界",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "外貌": [
@@ -196,6 +216,33 @@
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
       }
+    ],
+    "标志特征": [
+      {
+        "value": "七色晶壁",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "琉璃巨手",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "血河",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "煞气",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      },
+      {
+        "value": "脚踩七色彩云",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
     ]
   },
   "firstSeq": 781,
@@ -266,6 +313,12 @@
       "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
       "seq": 2347
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
@@ -276,7 +329,8 @@
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-787-tun-mo-dan-gui",
     "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T18:28:45.180Z"
+  "updatedAt": "2026-06-21T18:41:52.660Z"
 }

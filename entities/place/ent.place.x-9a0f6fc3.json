@@ -9,7 +9,8 @@
   "attributes": {
     "所属界面": "灵界",
     "特产": "血天十大毒虫",
-    "类型": "大陆"
+    "类型": "界面/区域",
+    "守护": "受整界之力(界面之力)庇护压制外来真仙"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +47,18 @@
         "value": "大陆",
         "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
         "seq": 2185
+      },
+      {
+        "value": "界面/区域",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
+      }
+    ],
+    "守护": [
+      {
+        "value": "受整界之力(界面之力)庇护压制外来真仙",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -65,9 +78,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2185
+      "seq": 2353
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2372-six-wings-reappear",
+      "dated": false,
+      "seq": 2353
     }
   },
   "contested": false,
@@ -80,7 +99,8 @@
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T18:15:22.920Z"
+  "updatedAt": "2026-06-21T18:41:52.675Z"
 }

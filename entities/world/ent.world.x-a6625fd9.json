@@ -3,12 +3,14 @@
   "type": "world",
   "name": "冥界",
   "aliases": [
-    "黄泉鬼国"
+    "黄泉鬼国",
+    "阴界",
+    "冥界界面"
   ],
   "summary": "鬼物势力阴司十王所属界面；碧影判断此处非传闻中真正的冥界，而是适合鬼物生存的黄泉鬼国般界面。",
   "attributes": {
-    "主宰势力": "阴司十王",
-    "特点": "黄泉鬼物聚居，蕴含与普通生灵不同的轮回法则"
+    "主宰势力": "冥雄老大/阴司十王",
+    "特点": "黑气阴风、白骨山、鬼影阴魂"
   },
   "observations": {
     "主宰势力": [
@@ -16,6 +18,11 @@
         "value": "阴司十王",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "冥雄老大/阴司十王",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "特点": [
@@ -23,6 +30,11 @@
         "value": "黄泉鬼物聚居，蕴含与普通生灵不同的轮回法则",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "黑气阴风、白骨山、鬼影阴魂",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ]
   },
@@ -30,21 +42,22 @@
   "attrProvenance": {
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2317
+      "seq": 2353
     },
     "特点": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2317
+      "seq": 2353
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T17:47:58.993Z"
+  "updatedAt": "2026-06-21T18:41:52.702Z"
 }

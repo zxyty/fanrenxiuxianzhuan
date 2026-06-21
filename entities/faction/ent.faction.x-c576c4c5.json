@@ -5,12 +5,13 @@
   "aliases": [
     "商盟",
     "赫连商盟一盟",
-    "鬼盟"
+    "鬼盟",
+    "本商盟"
   ],
   "summary": "横跨数个大陆的超级商盟，于赤融山脉黑焦峰举办拍卖会，主事人明尊。",
   "attributes": {
-    "等级": "灵界最大势力之一",
-    "据点": "黑焦峰、风元大陆、风元大陆洞天、雷霆大陆、血天大陆",
+    "等级": "拥有众多大乘的超级势力",
+    "据点": "黑焦峰、风元大陆、风元大陆洞天、雷霆大陆、血天大陆、小世界三十六大型据点",
     "理念": "暗中维护灵界、排除外来势力",
     "所属界面": "灵界",
     "镇派之宝": "仙界秘术"
@@ -31,6 +32,11 @@
         "value": "灵界最大势力之一",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "拥有众多大乘的超级势力",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "据点": [
@@ -58,6 +64,11 @@
         "value": "血天大陆",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "小世界三十六大型据点",
+        "docId": "plot.fanren-2372-six-wings-reappear",
+        "seq": 2353
       }
     ],
     "理念": [
@@ -91,9 +102,9 @@
   "attrProvenance": {
     "等级": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
-      "seq": 2347
+      "seq": 2353
     },
     "据点": {
       "asOf": null,
@@ -127,7 +138,8 @@
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-2372-six-wings-reappear"
   ],
-  "updatedAt": "2026-06-21T18:28:45.189Z"
+  "updatedAt": "2026-06-21T18:41:52.666Z"
 }
