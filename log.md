@@ -748,3 +748,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T16:55:30.602Z** `ingest` plot.fanren-2257-2262-xiaoxiuluojie-cheqizi — 凡人修仙传 第2257-2262章｜小修罗界打草惊蛇·玄武真血·救莫简离遇车泣子 · kind=plot asOf=2026-06-21 entities=26 relations=35 src=02257-02262.md
 - **2026-06-21T16:58:07.199Z** `ingest` plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe — 凡人修仙传 第2282-2287章｜修罗之战（一至六）：韩立力战飞灵族奕姓老者，破修罗蛛石城 · kind=plot asOf=2026-06-21 entities=21 relations=26 src=02263-02268.md
 - **2026-06-21T17:00:27.420Z** `ingest` plot.fanren-2288-2293-xiuluo-war-and-hantan-deal — 凡人修仙传 第2288-2293章：修罗之战收尾与寒潭打捞之约 · kind=plot asOf=2026-06-21 entities=22 relations=25 src=02269-02274.md
+- **2026-06-21T17:08:06.728Z** `ingest` plot.fanren-2275-2280-hantan-dalao-kongjianshi — 凡人修仙传 第2275-2280章：寒潭打捞空间之石与韩立暗返 · kind=plot asOf=2026-06-21 entities=28 relations=35 src=02275-02280.md

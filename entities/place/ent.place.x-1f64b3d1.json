@@ -6,8 +6,9 @@
   "summary": "小修罗界地下近万丈的熔岩湖区域，湖心漂浮极品火灵石，空鱼一族残存栖居于此。",
   "attributes": {
     "所属界面": "小修罗界",
-    "类型": "地下熔岩湖",
-    "特产": "极品火灵石"
+    "类型": "地下熔岩之地",
+    "特产": "极品火灵石",
+    "守护": "空鱼族"
   },
   "observations": {
     "所属界面": [
@@ -22,6 +23,11 @@
         "value": "地下熔岩湖",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "地下熔岩之地",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "特产": [
@@ -29,6 +35,13 @@
         "value": "极品火灵石",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      }
+    ],
+    "守护": [
+      {
+        "value": "空鱼族",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ]
   },
@@ -42,21 +55,28 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2251
+      "seq": 2275
     },
     "特产": {
       "asOf": null,
       "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
       "seq": 2251
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "dated": false,
+      "seq": 2275
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T16:47:57.374Z"
+  "updatedAt": "2026-06-21T17:08:06.490Z"
 }

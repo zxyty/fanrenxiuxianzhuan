@@ -4,16 +4,19 @@
   "name": "修罗蛛族母",
   "aliases": [
     "修罗蛛祖母",
-    "母亲大人"
+    "母亲大人",
+    "族母",
+    "蛛族母"
   ],
   "summary": "修罗蛛一族之主，实力堪比真灵的大乘，守护巢穴与光阴之丝。",
   "attributes": {
     "性别": "女",
-    "种族": "修罗蛛",
+    "种族": "修罗蛛族",
     "小阶段": "近大乘",
     "阵营": "修罗蛛一族",
     "身份": "修罗蛛族首领",
-    "标志特征": "金色巨盾、化巨型碧绿钢毛蜘蛛、时间之力"
+    "标志特征": "金色巨盾、化巨型碧绿钢毛蜘蛛、时间之力、本命晶核碧玉蜘蛛(紫焰复眼)",
+    "称号": "族母"
   },
   "observations": {
     "性别": [
@@ -28,6 +31,11 @@
         "value": "修罗蛛",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "修罗蛛族",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "小阶段": [
@@ -78,6 +86,18 @@
         "value": "时间之力",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "本命晶核碧玉蜘蛛(紫焰复眼)",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      }
+    ],
+    "称号": [
+      {
+        "value": "族母",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ]
   },
@@ -91,9 +111,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2257
+      "seq": 2275
     },
     "小阶段": {
       "asOf": null,
@@ -119,6 +139,12 @@
       "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
       "seq": 2263
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "dated": false,
+      "seq": 2275
     }
   },
   "contested": false,
@@ -126,7 +152,8 @@
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
     "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T17:00:27.227Z"
+  "updatedAt": "2026-06-21T17:08:06.484Z"
 }

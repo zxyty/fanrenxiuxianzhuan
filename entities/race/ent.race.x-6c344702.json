@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "居于乾火池的稀少种族，只能在乾火之地长期生存，立有血誓，被修罗蛛秘密豢养、实与某上古秘密相关。",
   "attributes": {
-    "聚居地": "乾火池",
-    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协",
-    "天赋神通": "空间之力"
+    "聚居地": "乾火之地熔岩湖底",
+    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协、半人半鱼、晶核可提炼空间之力（已退化）",
+    "天赋神通": "空间之力",
+    "代表人物": "流烁"
   },
   "observations": {
     "聚居地": [
@@ -15,6 +16,11 @@
         "value": "乾火池",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "乾火之地熔岩湖底",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "特性": [
@@ -22,6 +28,16 @@
         "value": "只能在乾火之地长存、立血誓宁灭族不妥协",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "半人半鱼",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      },
+      {
+        "value": "晶核可提炼空间之力（已退化）",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "天赋神通": [
@@ -30,15 +46,22 @@
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
       }
+    ],
+    "代表人物": [
+      {
+        "value": "流烁",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      }
     ]
   },
   "firstSeq": 2257,
   "attrProvenance": {
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2257
+      "seq": 2275
     },
     "特性": {
       "asOf": null,
@@ -51,13 +74,20 @@
       "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
       "seq": 2269
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "dated": false,
+      "seq": 2275
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T17:00:27.246Z"
+  "updatedAt": "2026-06-21T17:08:06.489Z"
 }

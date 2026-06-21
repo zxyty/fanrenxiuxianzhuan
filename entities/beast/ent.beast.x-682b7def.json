@@ -7,8 +7,8 @@
   ],
   "summary": "上古修罗界鼎鼎大名的凶物，蝎身蟾首、血红双目、背生似真似虚布满人脸的巨翅，毒气可令大乘修士一时三刻化血水，并精通摄魂之术。",
   "attributes": {
-    "等级": "上古凶物、十大凶兽之一",
-    "栖息地": "上古修罗界、上古修罗界残存界面",
+    "等级": "上古凶物、十大凶兽之一、上古凶兽",
+    "栖息地": "上古修罗界、上古修罗界残存界面、小修罗界",
     "能力": "毒气化血水、霸道摄魂之术、巨翅化巨刃、摄魂之术、孽翅天赋神通、化蓝绿色雾气遁地",
     "外形": "蝎身蟾首、十余丈、背生人脸巨翅、孽翅凶兽/蓝绿色雾气",
     "种族": "上古修罗界凶兽",
@@ -25,6 +25,11 @@
         "value": "十大凶兽之一",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "上古凶兽",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "栖息地": [
@@ -37,6 +42,11 @@
         "value": "上古修罗界残存界面",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "小修罗界",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "能力": [
@@ -140,7 +150,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T16:55:30.424Z"
+  "updatedAt": "2026-06-21T17:08:06.472Z"
 }

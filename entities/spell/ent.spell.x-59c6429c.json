@@ -4,11 +4,12 @@
   "name": "噬灵真火",
   "aliases": [
     "噬灵火焰",
-    "噬灵神火"
+    "噬灵神火",
+    "噬灵真焰"
   ],
   "summary": "韩立喷出化为噬灵火鸟的银焰真火，能沸腾溶解门上金银光霞。",
   "attributes": {
-    "类型": "真火/吞噬类神通",
+    "类型": "变异真焰",
     "威力": "吞噬天地能量、克制魔物邪气",
     "适用境界": "大乘"
   },
@@ -23,6 +24,11 @@
         "value": "真火/吞噬类神通",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "变异真焰",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "威力": [
@@ -59,9 +65,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1746-leave-leiming",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 1741
+      "seq": 2275
     },
     "威力": {
       "asOf": null,
@@ -83,7 +89,8 @@
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
-    "plot.fanren-2227-2232-zhiling-guangyuan"
+    "plot.fanren-2227-2232-zhiling-guangyuan",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T16:13:20.179Z"
+  "updatedAt": "2026-06-21T17:08:06.484Z"
 }

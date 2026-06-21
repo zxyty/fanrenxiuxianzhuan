@@ -3,13 +3,17 @@
   "type": "place",
   "name": "寒潭",
   "aliases": [
-    "寒潭山谷"
+    "寒潭山谷",
+    "深潭",
+    "寒潭入口",
+    "奇寒寒潭"
   ],
   "summary": "位于上古古战场群岛冰雪巨岛山谷中的极寒之地，由法阵与数件纯阳之宝镇压，封印一开恐冰封整片海域，空鱼圣物沉于其中。",
   "attributes": {
-    "类型": "极寒秘地",
-    "危险度": "极高",
-    "守护": "镇潭法阵、纯阳之宝"
+    "类型": "极寒秘地、奇寒深潭、奇寒寒潭",
+    "危险度": "奇寒令普通大乘不敢深入",
+    "守护": "镇潭法阵、纯阳之宝、修罗蛛族法阵、奇寒、玄冰冰封",
+    "特产": "空间之石"
   },
   "observations": {
     "类型": [
@@ -17,6 +21,16 @@
         "value": "极寒秘地",
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
+      },
+      {
+        "value": "奇寒深潭",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      },
+      {
+        "value": "奇寒寒潭",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "危险度": [
@@ -24,6 +38,11 @@
         "value": "极高",
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
+      },
+      {
+        "value": "奇寒令普通大乘不敢深入",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "守护": [
@@ -36,6 +55,28 @@
         "value": "纯阳之宝",
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
+      },
+      {
+        "value": "修罗蛛族法阵",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      },
+      {
+        "value": "奇寒",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      },
+      {
+        "value": "玄冰冰封",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      }
+    ],
+    "特产": [
+      {
+        "value": "空间之石",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ]
   },
@@ -49,21 +90,28 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2269
+      "seq": 2275
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
       "seq": 2269
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "dated": false,
+      "seq": 2275
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T17:00:27.247Z"
+  "updatedAt": "2026-06-21T17:08:06.492Z"
 }

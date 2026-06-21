@@ -17,7 +17,8 @@
     "出身地": "地蛟岛/大陆中部海域",
     "外貌": "黝黑覆鳞、阴寒黑气漩涡缠身",
     "标志特征": "紫金色长棍",
-    "阵营": "韩立联军"
+    "阵营": "韩立联军",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -86,6 +87,13 @@
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
+      }
     ]
   },
   "firstSeq": 2245,
@@ -125,6 +133,12 @@
       "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
       "seq": 2269
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "dated": false,
+      "seq": 2275
     }
   },
   "contested": false,
@@ -134,7 +148,8 @@
     "plot.fanren-2270-jiuyuanguan",
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
     "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T17:00:27.231Z"
+  "updatedAt": "2026-06-21T17:08:06.451Z"
 }

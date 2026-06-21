@@ -4,12 +4,13 @@
   "name": "晶核",
   "aliases": [
     "晶石",
-    "菱形晶石"
+    "菱形晶石",
+    "修罗蛛晶核"
   ],
   "summary": "飞灵族高阶存在修出的菱形晶石，地位等同人族金丹元婴；雷兽与店主皆有。",
   "attributes": {
-    "类型": "飞灵族修为核心、飞灵族高阶修为本源",
-    "用途": "等同人族金丹元婴、对应人族金丹元婴"
+    "类型": "飞灵族修为核心、飞灵族高阶修为本源、晶核/资源",
+    "用途": "等同人族金丹元婴、对应人族金丹元婴、报酬"
   },
   "observations": {
     "类型": [
@@ -22,6 +23,11 @@
         "value": "飞灵族高阶修为本源",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "晶核/资源",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "用途": [
@@ -34,6 +40,11 @@
         "value": "对应人族金丹元婴",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "报酬",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ]
   },
@@ -56,7 +67,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-20T11:37:56.430Z"
+  "updatedAt": "2026-06-21T17:08:06.467Z"
 }

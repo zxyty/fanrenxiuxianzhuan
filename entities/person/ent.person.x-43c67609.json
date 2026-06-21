@@ -7,17 +7,20 @@
     "樱道友",
     "血裙少女",
     "修罗蛛石城少主",
-    "此城少主"
+    "此城少主",
+    "樱",
+    "修罗蛛血裙少女",
+    "修罗蛛少女"
   ],
   "summary": "修罗蛛一族中闭关参悟的关键修士，其修炼成败关乎族母大事，受严密保护。",
   "attributes": {
     "性别": "女",
     "身份": "石城少主",
     "存殁": "存活",
-    "种族": "修罗蛛",
+    "种族": "修罗蛛族",
     "出身地": "修罗蛛界面石城",
     "小阶段": "合体期后期",
-    "外貌": "短衣血裙、十五六岁娇媚少女",
+    "外貌": "血裙少女",
     "标志特征": "时空之力、物灵回朔、血灵之术"
   },
   "observations": {
@@ -57,6 +60,11 @@
         "value": "修罗蛛",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "修罗蛛族",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "出身地": [
@@ -78,6 +86,11 @@
         "value": "短衣血裙、十五六岁娇媚少女",
         "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
         "seq": 2269
+      },
+      {
+        "value": "血裙少女",
+        "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+        "seq": 2275
       }
     ],
     "标志特征": [
@@ -120,9 +133,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2263
+      "seq": 2275
     },
     "出身地": {
       "asOf": null,
@@ -138,9 +151,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
-      "seq": 2269
+      "seq": 2275
     },
     "标志特征": {
       "asOf": null,
@@ -154,7 +167,8 @@
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
     "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
   ],
-  "updatedAt": "2026-06-21T17:00:27.226Z"
+  "updatedAt": "2026-06-21T17:08:06.483Z"
 }
