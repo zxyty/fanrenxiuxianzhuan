@@ -9,11 +9,12 @@
     "天云",
     "天元十三族",
     "云城十三族",
-    "天云族"
+    "天云族",
+    "天云异族"
   ],
   "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
   "attributes": {
-    "所属界面": "灵界",
+    "所属界面": "广寒界",
     "阵营": "灵界势力联盟",
     "据点": "绿光城、云城、横水城、金甲城",
     "镇派之宝": "超级传送法阵"
@@ -24,6 +25,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
         "seq": 1549
+      },
+      {
+        "value": "广寒界",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
       }
     ],
     "阵营": [
@@ -77,9 +83,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1551-qidu-hanli-vs-guaie",
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
-      "seq": 1549
+      "seq": 1669
     },
     "阵营": {
       "asOf": null,
@@ -111,7 +117,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.fanren-1657-1662-kuajie-monian-yunzu"
+    "plot.fanren-1657-1662-kuajie-monian-yunzu",
+    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie"
   ],
-  "updatedAt": "2026-06-21T02:39:57.811Z"
+  "updatedAt": "2026-06-21T02:50:01.435Z"
 }

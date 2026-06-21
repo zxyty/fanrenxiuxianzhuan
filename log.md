@@ -629,3 +629,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T02:32:03.084Z** `ingest` lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan — 璃水珠（天璃水精）与玄天炼器术·元合五极山 · kind=lore asOf=2026-06-21 entities=36 relations=44 src=01651-01656.md
 - **2026-06-21T02:39:57.969Z** `ingest` plot.fanren-1657-1662-kuajie-monian-yunzu — 凡人修仙传 第1657-1662章｜跨界魔念·云族许老怪求换天地元气 · kind=plot asOf=2026-06-21 entities=23 relations=23 src=01657-01662.md
 - **2026-06-21T02:42:39.476Z** `ingest` plot.fanren-1667-1672-guanghan-jie-entry — 凡人修仙传 第1667-1672章｜合击秘术·入广寒界 · kind=plot asOf=2026-06-21 entities=29 relations=28 src=01663-01668.md
+- **2026-06-21T02:50:01.576Z** `ingest` plot.fanren-1669-1674-zhenhaiyuan-guanghanjie — 凡人修仙传 第1669-1674章｜广寒界海域：斩章鱼海兽、操练元磁神光合击术、初遇镇海猿天吼 · kind=plot asOf=2026-06-21 entities=25 relations=29 src=01669-01674.md

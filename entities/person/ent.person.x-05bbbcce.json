@@ -3,14 +3,20 @@
   "type": "person",
   "name": "石昆",
   "aliases": [
-    "石茧族石昆"
+    "石茧族石昆",
+    "石某",
+    "深黄肌肤大汉"
   ],
   "summary": "石茧族炼虚顶阶大汉，段天刃徒弟，肉身防御神通极强，一拳轰平海岛。",
   "attributes": {
     "种族": "石茧族",
     "小阶段": "炼虚顶阶(上族九阶)",
-    "外貌": "肌肤灰白如岩石的狰狞大汉",
-    "标志特征": "深黄战甲、肉身强横"
+    "外貌": "肌肤深黄、身材高大",
+    "标志特征": "深黄战甲、肉身强横、肌肤可化黑成石人、拳头膨胀爆出黄光符文、身化灰色骄阳",
+    "性别": "男",
+    "身份": "后天元磁之身",
+    "性格": "好战、斗法狂、爽快",
+    "阵营": "段前辈一方"
   },
   "observations": {
     "种族": [
@@ -32,6 +38,11 @@
         "value": "肌肤灰白如岩石的狰狞大汉",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "肌肤深黄、身材高大",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
       }
     ],
     "标志特征": [
@@ -39,6 +50,59 @@
         "value": "深黄战甲、肉身强横",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "肌肤可化黑成石人",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      },
+      {
+        "value": "拳头膨胀爆出黄光符文",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      },
+      {
+        "value": "身化灰色骄阳",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "身份": [
+      {
+        "value": "后天元磁之身",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "性格": [
+      {
+        "value": "好战",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      },
+      {
+        "value": "斗法狂",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      },
+      {
+        "value": "爽快",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "阵营": [
+      {
+        "value": "段前辈一方",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
       }
     ]
   },
@@ -58,21 +122,46 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
-      "seq": 1663
+      "seq": 1669
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
       "seq": 1663
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie"
   ],
-  "updatedAt": "2026-06-21T02:42:39.272Z"
+  "updatedAt": "2026-06-21T02:50:01.424Z"
 }

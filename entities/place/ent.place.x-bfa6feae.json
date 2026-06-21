@@ -13,8 +13,8 @@
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "秘境界域",
-    "危险度": "极高(历届陨落者众)"
+    "类型": "界面/海域",
+    "危险度": "极高（上古凶兽众多）"
   },
   "observations": {
     "守护": [
@@ -46,6 +46,11 @@
         "value": "秘境界域",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "界面/海域",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
       }
     ],
     "危险度": [
@@ -58,6 +63,11 @@
         "value": "极高(历届陨落者众)",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "极高（上古凶兽众多）",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
       }
     ]
   },
@@ -77,15 +87,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
-      "seq": 1663
+      "seq": 1669
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
-      "seq": 1663
+      "seq": 1669
     }
   },
   "contested": false,
@@ -95,7 +105,8 @@
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie"
   ],
-  "updatedAt": "2026-06-21T02:42:39.284Z"
+  "updatedAt": "2026-06-21T02:50:01.426Z"
 }

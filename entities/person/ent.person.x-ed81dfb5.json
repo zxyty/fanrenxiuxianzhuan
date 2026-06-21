@@ -4,13 +4,20 @@
   "name": "柳水儿",
   "aliases": [
     "白斗篷女子",
-    "彩流罂小徒"
+    "彩流罂小徒",
+    "斗篷下女子",
+    "柳仙子",
+    "斗篷下玉容",
+    "白色斗篷女子"
   ],
   "summary": "彩流罂年前新收的女徒，拥元磁之体，炼虚顶阶，与韩立、石昆同队入广寒界合练元磁神光。",
   "attributes": {
     "性别": "女",
     "小阶段": "炼虚顶阶(上族九阶)",
-    "标志特征": "元磁之体、头戴白色斗篷面纱、声音低沉磁性"
+    "标志特征": "元磁之体、头戴白色斗篷面纱、声音低沉磁性",
+    "身份": "天生元磁之体",
+    "外貌": "斗篷遮面、玉容苍白时显婀娜、头戴白色斗篷",
+    "性格": "从容镇定、谨慎、果决、能言善辩"
   },
   "observations": {
     "性别": [
@@ -33,6 +40,38 @@
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
       }
+    ],
+    "身份": [
+      {
+        "value": "天生元磁之体",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "外貌": [
+      {
+        "value": "斗篷遮面、玉容苍白时显婀娜",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669,
+        "note": "以斗篷蔽容"
+      },
+      {
+        "value": "头戴白色斗篷",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
+    ],
+    "性格": [
+      {
+        "value": "从容镇定、谨慎",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      },
+      {
+        "value": "果决、能言善辩",
+        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+        "seq": 1669
+      }
     ]
   },
   "firstSeq": 1663,
@@ -54,12 +93,32 @@
       "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
       "seq": 1663
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669,
+      "note": "以斗篷蔽容"
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "dated": false,
+      "seq": 1669
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie"
   ],
-  "updatedAt": "2026-06-21T02:42:39.271Z"
+  "updatedAt": "2026-06-21T02:50:01.423Z"
 }
