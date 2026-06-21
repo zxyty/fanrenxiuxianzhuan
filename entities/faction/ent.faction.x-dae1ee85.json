@@ -4,15 +4,47 @@
   "name": "万蛊山",
   "aliases": [],
   "summary": "血天大陆势力，代表人物灵云夫人应邀观降魔之战。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "据点": "血天大陆",
+    "所属界面": "血天大陆"
+  },
+  "observations": {
+    "据点": [
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ]
+  },
   "firstSeq": 2359,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+      "dated": false,
+      "seq": 2365
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+      "dated": false,
+      "seq": 2365
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
-    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong"
   ],
-  "updatedAt": "2026-06-21T19:01:33.555Z"
+  "updatedAt": "2026-06-21T19:03:15.176Z"
 }

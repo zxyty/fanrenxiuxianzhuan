@@ -1,0 +1,48 @@
+{
+  "id": "ent.formation.x-cdfc9099",
+  "type": "formation",
+  "name": "万兽大阵",
+  "aliases": [],
+  "summary": "镇海宫以海兽大军布成的法阵，意在困死大乘对手。",
+  "attributes": {
+    "布置者": "镇海宫",
+    "效果": "以海兽大军围困并困死敌人"
+  },
+  "observations": {
+    "布置者": [
+      {
+        "value": "镇海宫",
+        "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ],
+    "效果": [
+      {
+        "value": "以海兽大军围困并困死敌人",
+        "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ]
+  },
+  "firstSeq": 2365,
+  "attrProvenance": {
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+      "dated": false,
+      "seq": 2365
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+      "dated": false,
+      "seq": 2365
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong"
+  ],
+  "updatedAt": "2026-06-21T19:03:15.179Z"
+}
