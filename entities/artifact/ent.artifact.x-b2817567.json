@@ -18,10 +18,10 @@
   "attributes": {
     "品阶": "炼虚初阶神通",
     "持有者": "韩立",
-    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜、玄冰之体/冰属性、可穿越洞府禁制、炼虚初期实力、可执行简单命令、化形（白蟒/白衣女子）、持蓝色玉扇放寒光",
+    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜、玄冰之体/冰属性、可穿越洞府禁制、炼虚初期实力、可执行简单命令、化形（白蟒/白衣女子）、持蓝色玉扇放寒光、高阶通灵傀儡（驱动耗顶阶灵石）",
     "禁制": "滴血认主后他人无法操纵",
-    "来历": "甲天木亲手炼制",
-    "外形": "尺许白蛇，晶莹剔透；或眉目如画白袍女子、白蛇、面无表情的白衣女子、尺许白蛇、英姿貌美女子、面无表情女子、散发寒气",
+    "来历": "他人相送",
+    "外形": "尺许白蛇，晶莹剔透；或眉目如画白袍女子、白蛇、面无表情的白衣女子、尺许白蛇、英姿貌美女子、面无表情女子、散发寒气、白衣女子",
     "器灵": "娃娃"
   },
   "observations": {
@@ -79,6 +79,11 @@
         "value": "持蓝色玉扇放寒光",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "高阶通灵傀儡（驱动耗顶阶灵石）",
+        "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+        "seq": 1687
       }
     ],
     "禁制": [
@@ -93,6 +98,11 @@
         "value": "甲天木亲手炼制",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "他人相送",
+        "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+        "seq": 1687
       }
     ],
     "外形": [
@@ -125,6 +135,11 @@
         "value": "面无表情女子、散发寒气",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "白衣女子",
+        "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+        "seq": 1687
       }
     ],
     "器灵": [
@@ -163,9 +178,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
       "dated": false,
-      "seq": 1579
+      "seq": 1687
     },
     "外形": {
       "asOf": null,
@@ -185,7 +200,8 @@
   "docs": [
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
-    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu"
   ],
-  "updatedAt": "2026-06-21T02:57:18.629Z"
+  "updatedAt": "2026-06-21T03:09:57.675Z"
 }

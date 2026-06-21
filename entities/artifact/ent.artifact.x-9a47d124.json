@@ -11,9 +11,10 @@
   "attributes": {
     "品阶": "后天玄天之宝",
     "能力": "五座顶阶通天灵宝合一、祭出削弱雷劫威能小半、削弱雷劫小半威能",
-    "来历": "玄天炼器术记载",
+    "来历": "由五座极山组成",
     "禁制": "炼制须合体期以上修为",
-    "外形": "五座山峰"
+    "外形": "五座山峰",
+    "持有者": "韩立"
   },
   "observations": {
     "品阶": [
@@ -45,6 +46,11 @@
         "value": "玄天炼器术记载",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "由五座极山组成",
+        "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+        "seq": 1687
       }
     ],
     "禁制": [
@@ -59,6 +65,13 @@
         "value": "五座山峰",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+        "seq": 1687
       }
     ]
   },
@@ -78,9 +91,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
       "dated": false,
-      "seq": 1651
+      "seq": 1687
     },
     "禁制": {
       "asOf": null,
@@ -93,12 +106,19 @@
       "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
       "seq": 1651
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+      "dated": false,
+      "seq": 1687
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu"
   ],
-  "updatedAt": "2026-06-21T02:32:02.918Z"
+  "updatedAt": "2026-06-21T03:09:57.672Z"
 }
