@@ -2,13 +2,16 @@
   "id": "ent.race.x-6c344702",
   "type": "race",
   "name": "空鱼族",
-  "aliases": [],
+  "aliases": [
+    "空鱼人"
+  ],
   "summary": "居于乾火池的稀少种族，只能在乾火之地长期生存，立有血誓，被修罗蛛秘密豢养、实与某上古秘密相关。",
   "attributes": {
-    "聚居地": "乾火之地熔岩湖底",
-    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协、半人半鱼、晶核可提炼空间之力（已退化）",
+    "聚居地": "乾火池、乾火之地熔岩湖底、小修罗界、山海珠洞天",
+    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协、半人半鱼、晶核可提炼空间之力（已退化）、对空间之力感应强、擅种灵药",
     "天赋神通": "空间之力",
-    "代表人物": "流烁"
+    "代表人物": "空鱼族长",
+    "阵营": "归附韩立"
   },
   "observations": {
     "聚居地": [
@@ -21,6 +24,16 @@
         "value": "乾火之地熔岩湖底",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "小修罗界",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "山海珠洞天",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "特性": [
@@ -38,6 +51,16 @@
         "value": "晶核可提炼空间之力（已退化）",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "对空间之力感应强",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "擅种灵药",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "天赋神通": [
@@ -52,6 +75,18 @@
         "value": "流烁",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "空鱼族长",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      }
+    ],
+    "阵营": [
+      {
+        "value": "归附韩立",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -59,9 +94,9 @@
   "attrProvenance": {
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
-      "seq": 2275
+      "seq": 2257
     },
     "特性": {
       "asOf": null,
@@ -77,9 +112,15 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2275
+      "seq": 2281
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "dated": false,
+      "seq": 2281
     }
   },
   "contested": false,
@@ -87,7 +128,8 @@
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
     "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
-    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T17:08:06.489Z"
+  "updatedAt": "2026-06-21T17:20:40.556Z"
 }

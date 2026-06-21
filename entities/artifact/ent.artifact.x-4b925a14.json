@@ -3,13 +3,18 @@
   "type": "artifact",
   "name": "山海珠",
   "aliases": [
-    "淡蓝色晶珠"
+    "淡蓝色晶珠",
+    "山海珠圆珠",
+    "五色山海珠",
+    "洞天异宝"
   ],
   "summary": "空鱼族圣物，洞天之宝，内含强烈空间法则、内部空间可装巨山大海；曾被先祖以秘术封印于寒潭，外裹奇寒晶球遮掩。",
   "attributes": {
     "品阶": "圣物、洞天之宝",
-    "能力": "蕴含空间法则、内部洞天可纳巨山大海",
-    "来历": "空鱼族圣物，封印于寒潭"
+    "能力": "蕴含空间法则、内部洞天可纳巨山大海、挪移收纳生灵、内藏洞天空间、内蕴洞天空间",
+    "来历": "空鱼一族历代先祖传承之宝",
+    "外形": "蚕豆大小、表面光滑、五色幻化、缭绕乳白之气、五色圆珠、圆珠、五色霞光",
+    "持有者": "韩立"
   },
   "observations": {
     "品阶": [
@@ -34,6 +39,21 @@
         "value": "内部洞天可纳巨山大海",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "挪移收纳生灵",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "内藏洞天空间",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "内蕴洞天空间",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "来历": [
@@ -41,6 +61,35 @@
         "value": "空鱼族圣物，封印于寒潭",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "空鱼一族历代先祖传承之宝",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      }
+    ],
+    "外形": [
+      {
+        "value": "蚕豆大小、表面光滑、五色幻化、缭绕乳白之气",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "五色圆珠",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "圆珠、五色霞光",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -60,15 +109,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2275
+      "seq": 2281
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "dated": false,
+      "seq": 2281
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "dated": false,
+      "seq": 2281
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T17:08:06.486Z"
+  "updatedAt": "2026-06-21T17:20:40.546Z"
 }

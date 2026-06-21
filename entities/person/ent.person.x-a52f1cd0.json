@@ -4,13 +4,14 @@
   "name": "流烁",
   "aliases": [
     "空鱼族族长",
-    "空鱼族长"
+    "空鱼族长",
+    "空鱼老者"
   ],
   "summary": "空鱼一族之长，灰白头发、下半身人形，合体初期修为，手腕有历代族长「圣痕」，跪求韩立收留全族以脱离修罗蛛。",
   "attributes": {
     "种族": "空鱼族",
     "小阶段": "合体初期",
-    "身份": "空鱼族族长",
+    "身份": "空鱼族族长/蓝药祖父",
     "标志特征": "手腕圣痕、下半身人形"
   },
   "observations": {
@@ -33,6 +34,11 @@
         "value": "空鱼族族长",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "空鱼族族长/蓝药祖父",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "标志特征": [
@@ -59,9 +65,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2275
+      "seq": 2281
     },
     "标志特征": {
       "asOf": null,
@@ -73,7 +79,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T17:08:06.481Z"
+  "updatedAt": "2026-06-21T17:20:40.543Z"
 }

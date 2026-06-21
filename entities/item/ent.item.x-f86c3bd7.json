@@ -11,9 +11,9 @@
   ],
   "summary": "芝仙留下的躯壳，经神秘小瓶催熟灵液浇灌法力暴涨至炼虚中期且无瓶颈，韩立欲炼为元婴附身的替身灵躯。",
   "attributes": {
-    "类型": "灵躯",
-    "用途": "元婴失体后附身求生（备用）",
-    "产地": "芝仙(天地灵物)所化"
+    "类型": "灵躯/化身",
+    "用途": "容纳真元、作化身",
+    "产地": "芝仙所化"
   },
   "observations": {
     "类型": [
@@ -26,6 +26,11 @@
         "value": "灵躯",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "灵躯/化身",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "用途": [
@@ -38,6 +43,11 @@
         "value": "元婴失体后附身求生（备用）",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "容纳真元、作化身",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "产地": [
@@ -45,6 +55,11 @@
         "value": "芝仙(天地灵物)所化",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "芝仙所化",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -52,21 +67,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 1711
+      "seq": 2281
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 1711
+      "seq": 2281
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 1663
+      "seq": 2281
     }
   },
   "contested": false,
@@ -74,7 +89,8 @@
   "docs": [
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
-    "plot.fanren-1843-1848-hualing-zhi-zhan"
+    "plot.fanren-1843-1848-hualing-zhi-zhan",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T07:01:40.310Z"
+  "updatedAt": "2026-06-21T17:20:40.555Z"
 }

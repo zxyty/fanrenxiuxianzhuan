@@ -11,7 +11,8 @@
   "attributes": {
     "种族": "灵族",
     "小阶段": "合体期",
-    "身份": "守山弟子"
+    "身份": "圣灵",
+    "外貌": "光头男子"
   },
   "observations": {
     "种族": [
@@ -33,6 +34,18 @@
         "value": "守山弟子",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "圣灵",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      }
+    ],
+    "外貌": [
+      {
+        "value": "光头男子",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -52,15 +65,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2245
+      "seq": 2281
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "dated": false,
+      "seq": 2281
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong"
+    "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T16:35:45.459Z"
+  "updatedAt": "2026-06-21T17:20:40.506Z"
 }

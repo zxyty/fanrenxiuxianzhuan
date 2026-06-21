@@ -5,12 +5,14 @@
   "aliases": [
     "晶石",
     "菱形晶石",
-    "修罗蛛晶核"
+    "修罗蛛晶核",
+    "修罗蛛族晶核"
   ],
   "summary": "飞灵族高阶存在修出的菱形晶石，地位等同人族金丹元婴；雷兽与店主皆有。",
   "attributes": {
-    "类型": "飞灵族修为核心、飞灵族高阶修为本源、晶核/资源",
-    "用途": "等同人族金丹元婴、对应人族金丹元婴、报酬"
+    "类型": "飞灵族修为核心、飞灵族高阶修为本源、晶核/资源、妖兽晶核",
+    "用途": "等同人族金丹元婴、对应人族金丹元婴、报酬、提炼光阴之力、炼制飞剑",
+    "产地": "小修罗界修罗蛛族"
   },
   "observations": {
     "类型": [
@@ -28,6 +30,11 @@
         "value": "晶核/资源",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "妖兽晶核",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "用途": [
@@ -45,6 +52,23 @@
         "value": "报酬",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      },
+      {
+        "value": "提炼光阴之力",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      },
+      {
+        "value": "炼制飞剑",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
+      }
+    ],
+    "产地": [
+      {
+        "value": "小修罗界修罗蛛族",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -61,6 +85,12 @@
       "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
       "seq": 1423
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+      "dated": false,
+      "seq": 2281
     }
   },
   "contested": false,
@@ -68,7 +98,8 @@
   "docs": [
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fanren-1425",
-    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T17:08:06.467Z"
+  "updatedAt": "2026-06-21T17:20:40.525Z"
 }

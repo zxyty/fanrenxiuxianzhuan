@@ -17,17 +17,18 @@
     "灵某",
     "灵老怪",
     "灵王道友",
-    "灵道友"
+    "灵道友",
+    "灵王兄"
   ],
   "summary": "天极门元婴修士，南陇侯生死之交，赠韩立联系令牌。",
   "attributes": {
     "称号": "璇玑子",
-    "外貌": "白袍鹤发童颜、双目如电、袖角绣紫红枫叶",
+    "外貌": "白袍苍老老者",
     "阵营": "天极门",
     "小阶段": "大乘期",
     "标志特征": "同心化身待客；养雪白赤眼灵猴",
     "种族": "灵族",
-    "身份": "灵族圣灵/一方之主"
+    "身份": "灵族之王"
   },
   "observations": {
     "称号": [
@@ -64,6 +65,11 @@
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245,
         "note": "此为同心化身现身之貌，本体在闭关"
+      },
+      {
+        "value": "白袍苍老老者",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ],
     "阵营": [
@@ -139,6 +145,11 @@
         "value": "灵族圣灵/一方之主",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "灵族之王",
+        "docId": "plot.fanren-2300-zushi-shanhai-zhu",
+        "seq": 2281
       }
     ]
   },
@@ -152,10 +163,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2245,
-      "note": "此为同心化身现身之貌，本体在闭关"
+      "seq": 2281
     },
     "阵营": {
       "asOf": null,
@@ -183,9 +193,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2300-zushi-shanhai-zhu",
       "dated": false,
-      "seq": 2245
+      "seq": 2281
     }
   },
   "contested": false,
@@ -200,7 +210,8 @@
     "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
     "plot.chapter-2239-2244-worm-king-ancient-altar",
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2300-zushi-shanhai-zhu"
   ],
-  "updatedAt": "2026-06-21T16:47:57.337Z"
+  "updatedAt": "2026-06-21T17:20:40.505Z"
 }
