@@ -6,15 +6,17 @@
     "陇老怪",
     "金面中年修士",
     "金面中年人",
-    "陇家老怪"
+    "陇家老怪",
+    "陇前辈",
+    "陇家第一修士"
   ],
   "summary": "真灵第一世家陇家之祖，合体后期大成，激发半龙之身，修无情道神通，丽娘生父。",
   "attributes": {
     "种族": "人族",
-    "小阶段": "合体中期以上",
-    "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
+    "小阶段": "合体",
+    "外貌": "面色淡金",
     "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化",
-    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老",
+    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老、陇家老祖/第一修士",
     "性格": "深沉老辣",
     "阵营": "陇家、人族真灵世家、人族",
     "称号": "人族最高战力之一"
@@ -52,6 +54,11 @@
         "value": "合体中期以上",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "外貌": [
@@ -60,6 +67,11 @@
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795,
         "note": "激发半龙之身"
+      },
+      {
+        "value": "面色淡金",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "标志特征": [
@@ -124,6 +136,11 @@
         "value": "陇家太上长老",
         "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
         "seq": 1867
+      },
+      {
+        "value": "陇家老祖/第一修士",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "性格": [
@@ -178,16 +195,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1825
+      "seq": 1987
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1795,
-      "note": "激发半龙之身"
+      "seq": 1987
     },
     "标志特征": {
       "asOf": null,
@@ -230,7 +246,8 @@
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1861-1866-mozhan-chongwang",
-    "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi"
+    "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
   ],
-  "updatedAt": "2026-06-21T07:36:56.642Z"
+  "updatedAt": "2026-06-21T10:46:39.566Z"
 }

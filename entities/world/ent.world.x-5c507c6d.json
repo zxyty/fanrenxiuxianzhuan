@@ -17,8 +17,8 @@
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
     "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域、数万年一次与灵界重合降临魔劫、凶险，圣祖相当于人族大乘期、魔气遍布、高阶古魔无数、极度凶险、正侵蚀灵界、三血红圆日、灰色沙漠、景色近似灵界",
-    "通道": "魔斑",
-    "主宰势力": "圣族、古魔/圣祖一系、古魔、圣祖、古魔圣祖、魔界圣祖、魔族、古魔/魔族",
+    "通道": "魔界通道节点",
+    "主宰势力": "圣族、古魔/圣祖一系、古魔、圣祖、古魔圣祖、魔界圣祖、魔族、古魔/魔族、魔族(三大始祖)",
     "层次": "魔族界面",
     "灵气浓度": "稀薄(魔气随地域浓淡)"
   },
@@ -110,6 +110,11 @@
         "value": "魔斑",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "魔界通道节点",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "主宰势力": [
@@ -147,6 +152,11 @@
         "value": "古魔/魔族",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      },
+      {
+        "value": "魔族(三大始祖)",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "层次": [
@@ -184,9 +194,9 @@
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1867
+      "seq": 1987
     },
     "主宰势力": {
       "asOf": null,
@@ -234,7 +244,8 @@
     "plot.fanren-ch1915-1920-blood-saint-clones-battle",
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-1958-huanri-shentong-baoshu",
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
   ],
-  "updatedAt": "2026-06-21T10:04:34.885Z"
+  "updatedAt": "2026-06-21T10:46:39.600Z"
 }

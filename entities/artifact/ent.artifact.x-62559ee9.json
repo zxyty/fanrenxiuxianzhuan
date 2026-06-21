@@ -4,13 +4,16 @@
   "name": "焦木傀儡",
   "aliases": [
     "山鬼般傀儡",
-    "三首魔狮傀儡"
+    "三首魔狮傀儡",
+    "三头魔狮傀儡",
+    "魔狮"
   ],
   "summary": "匈某的乌黑焦木傀儡，体表金银符阵、青面獠牙、脑后另有淡紫色人脸；三头魔狮没入后可化为实体三首魔狮。",
   "attributes": {
     "持有者": "匈某",
-    "外形": "青面獠牙、四肢奇长、脑后淡紫色人脸",
-    "禁制": "金银符阵"
+    "外形": "三头六目漆黑魔狮",
+    "禁制": "金银符阵",
+    "能力": "黑色雷电巨爪、空间神通"
   },
   "observations": {
     "持有者": [
@@ -25,6 +28,11 @@
         "value": "青面獠牙、四肢奇长、脑后淡紫色人脸",
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981
+      },
+      {
+        "value": "三头六目漆黑魔狮",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "禁制": [
@@ -32,6 +40,18 @@
         "value": "金银符阵",
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981
+      }
+    ],
+    "能力": [
+      {
+        "value": "黑色雷电巨爪",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
+      },
+      {
+        "value": "空间神通",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ]
   },
@@ -45,21 +65,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.tianyuan-great-war-1981-1986",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1981
+      "seq": 1987
     },
     "禁制": {
       "asOf": null,
       "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
       "seq": 1981
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+      "dated": false,
+      "seq": 1987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.tianyuan-great-war-1981-1986"
+    "plot.tianyuan-great-war-1981-1986",
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
   ],
-  "updatedAt": "2026-06-21T10:38:30.003Z"
+  "updatedAt": "2026-06-21T10:46:39.540Z"
 }

@@ -10,9 +10,10 @@
   ],
   "summary": "圣界无上神通，融五种虚影催发，一击威能近大乘期随手一击；韩立未真正修成，仅强行催动并承反噬，二涅变身更可能爆体。",
   "attributes": {
-    "出处": "圣界",
-    "效果": "万元之力巨掌镇压、化两头四臂赤金战甲妖异形象",
-    "修炼条件": "强行催动/未真正修成，有反噬，用之有限"
+    "出处": "梵圣真魔功",
+    "效果": "万元之力巨掌镇压、化两头四臂赤金战甲妖异形象、法力激增倍许、恐怖巨力",
+    "修炼条件": "需大乘期",
+    "适用境界": "大乘期"
   },
   "observations": {
     "出处": [
@@ -20,6 +21,11 @@
         "value": "圣界",
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981
+      },
+      {
+        "value": "梵圣真魔功",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "效果": [
@@ -32,6 +38,16 @@
         "value": "化两头四臂赤金战甲妖异形象",
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981
+      },
+      {
+        "value": "法力激增倍许",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
+      },
+      {
+        "value": "恐怖巨力",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "修炼条件": [
@@ -40,6 +56,19 @@
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981,
         "note": "韩立"
+      },
+      {
+        "value": "需大乘期",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987,
+        "note": "韩立借惊蛰决+真灵之血勉强催动"
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ]
   },
@@ -47,9 +76,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.tianyuan-great-war-1981-1986",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1981
+      "seq": 1987
     },
     "效果": {
       "asOf": null,
@@ -59,16 +88,23 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.tianyuan-great-war-1981-1986",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 1981,
-      "note": "韩立"
+      "seq": 1987,
+      "note": "韩立借惊蛰决+真灵之血勉强催动"
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+      "dated": false,
+      "seq": 1987
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.tianyuan-great-war-1981-1986"
+    "plot.tianyuan-great-war-1981-1986",
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
   ],
-  "updatedAt": "2026-06-21T10:38:30.008Z"
+  "updatedAt": "2026-06-21T10:46:39.552Z"
 }

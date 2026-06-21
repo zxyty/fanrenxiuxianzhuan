@@ -21,13 +21,14 @@
     "性别": "男",
     "小阶段": "元婴、元婴期、元婴初期、合体中期、合体",
     "外貌": "银发白眉、银发老者、银发、老者",
-    "身份": "落云宗长老、落云宗大长老、落云宗修士、落云宗、韩立的程师兄、落云宗高层、天渊城长老会长老、天渊城长老会成员",
-    "阵营": "韩立一方",
+    "身份": "落云宗长老、落云宗大长老、落云宗修士、落云宗、韩立的程师兄、落云宗高层、天渊城长老会长老、天渊城长老会成员、天渊城长老",
+    "阵营": "韩立同盟",
     "存殁": "死亡",
     "死因": "坐化",
     "寿元": "余十余年",
     "标志特征": "银发",
-    "种族": "人族"
+    "种族": "人族",
+    "性格": "谦逊持重"
   },
   "observations": {
     "性别": [
@@ -126,6 +127,11 @@
         "value": "天渊城长老会成员",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "天渊城长老",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "阵营": [
@@ -148,6 +154,11 @@
         "value": "天道盟",
         "docId": "plot.fanren-ch745-750-huigui-mingzhen-yifang",
         "seq": 745
+      },
+      {
+        "value": "韩立同盟",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
       }
     ],
     "存殁": [
@@ -199,6 +210,13 @@
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
       }
+    ],
+    "性格": [
+      {
+        "value": "谦逊持重",
+        "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+        "seq": 1987
+      }
     ]
   },
   "firstSeq": 631,
@@ -229,9 +247,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
-      "seq": 847
+      "seq": 1987
     },
     "存殁": {
       "asOf": null,
@@ -262,6 +280,12 @@
       "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
       "dated": false,
       "seq": 1975
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+      "dated": false,
+      "seq": 1987
     }
   },
   "contested": false,
@@ -296,7 +320,8 @@
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
     "plot.fanren-ch1167-1172-return-to-luoyun-sect",
     "plot.fanren-1975-1980-heti-houqi-diyimozun",
-    "plot.tianyuan-great-war-1981-1986"
+    "plot.tianyuan-great-war-1981-1986",
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
   ],
-  "updatedAt": "2026-06-21T10:38:29.992Z"
+  "updatedAt": "2026-06-21T10:46:39.560Z"
 }
