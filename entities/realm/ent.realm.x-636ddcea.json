@@ -21,8 +21,8 @@
   ],
   "summary": "中境界第一层。",
   "attributes": {
-    "阶序": "炼虚",
-    "上一境": "合体期",
+    "阶序": "合体之下",
+    "上一境": "合体",
     "下一境": "化神",
     "突破关键": "五行合一、三千年一次大天劫、度劫、化神大圆满、黑炎丹与天罗丹辅助、灵力五行合一、掌控天地元气、灌注法体、掌控天地元气、上承化神、进阶合体方能渡过第九轮大天劫",
     "寿元": "理论无穷尽(元气充足)、天地元气充足则无穷、数以万计",
@@ -45,6 +45,11 @@
         "value": "炼虚",
         "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
         "seq": 1657
+      },
+      {
+        "value": "合体之下",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "上一境": [
@@ -57,6 +62,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "下一境": [
@@ -209,15 +219,15 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 1657
+      "seq": 1753
     },
     "上一境": {
       "asOf": null,
-      "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 1369
+      "seq": 1753
     },
     "下一境": {
       "asOf": null,
@@ -309,7 +319,8 @@
     "plot.fanren-1734-stone-wall-spirit-script",
     "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
     "plot.fanren-1746-leave-leiming",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-21T04:36:13.360Z"
+  "updatedAt": "2026-06-21T04:44:27.065Z"
 }

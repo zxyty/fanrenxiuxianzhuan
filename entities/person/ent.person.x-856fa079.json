@@ -2,12 +2,16 @@
   "id": "ent.person.x-856fa079",
   "type": "person",
   "name": "金越禅师",
-  "aliases": [],
+  "aliases": [
+    "金越道友"
+  ],
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
-    "小阶段": "合体",
+    "小阶段": "合体中期",
     "身份": "天渊城长老、飞升修士",
-    "阵营": "天渊城"
+    "阵营": "天渊城",
+    "出身地": "佛宗",
+    "外貌": "披淡金袈裟、半尺白须、眯眼老僧"
   },
   "observations": {
     "小阶段": [
@@ -15,6 +19,11 @@
         "value": "合体",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "身份": [
@@ -35,15 +44,29 @@
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
       }
+    ],
+    "出身地": [
+      {
+        "value": "佛宗",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
+    ],
+    "外貌": [
+      {
+        "value": "披淡金袈裟、半尺白须、眯眼老僧",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
     ]
   },
   "firstSeq": 1345,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 1345
+      "seq": 1753
     },
     "身份": {
       "asOf": null,
@@ -56,13 +79,26 @@
       "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
       "dated": false,
       "seq": 1345
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
-    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying"
+    "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-20T09:33:05.007Z"
+  "updatedAt": "2026-06-21T04:44:27.046Z"
 }

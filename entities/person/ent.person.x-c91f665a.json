@@ -4,12 +4,13 @@
   "name": "王子陵",
   "aliases": [
     "风行子",
-    "儒生"
+    "儒生",
+    "儒生修士"
   ],
   "summary": "炼气期儒生，坊市常住自由掮客（‘风行子’），向韩立牵线引入秘店竞卖会。",
   "attributes": {
-    "小阶段": "炼气期",
-    "身份": "玄武境宗门修士",
+    "小阶段": "化神",
+    "身份": "天渊城修士",
     "外貌": "儒生",
     "出身地": "玄武境"
   },
@@ -19,6 +20,11 @@
         "value": "炼气期",
         "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
         "seq": 217
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "身份": [
@@ -41,6 +47,11 @@
         "value": "玄武境宗门修士",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "天渊城修士",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "外貌": [
@@ -62,15 +73,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 217
+      "seq": 1753
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1746-leave-leiming",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 1741
+      "seq": 1753
     },
     "外貌": {
       "asOf": null,
@@ -91,7 +102,8 @@
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
     "plot.fanren-ch242-zhifu-biguan",
     "plot.fanren-997-1002-kunwushan-qian-laomo",
-    "plot.fanren-1746-leave-leiming"
+    "plot.fanren-1746-leave-leiming",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-21T04:24:30.093Z"
+  "updatedAt": "2026-06-21T04:44:27.042Z"
 }

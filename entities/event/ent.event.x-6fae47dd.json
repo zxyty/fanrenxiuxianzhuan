@@ -1,0 +1,53 @@
+{
+  "id": "ent.event.x-6fae47dd",
+  "type": "event",
+  "name": "万宝大会",
+  "aliases": [],
+  "summary": "人妖两族每隔千年联手举办的大型交易会，本届定于九仙山，韩立与妖族女子约定届时交易。",
+  "attributes": {
+    "地点": "九仙山",
+    "参与方": "人族、妖族"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "九仙山",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
+    ],
+    "参与方": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
+    ]
+  },
+  "firstSeq": 1753,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+  ],
+  "updatedAt": "2026-06-21T04:44:27.062Z"
+}

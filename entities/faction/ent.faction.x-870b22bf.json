@@ -6,7 +6,8 @@
     "泷家",
     "陇家双修",
     "陇氏",
-    "陇家真灵世家"
+    "陇家真灵世家",
+    "真灵第一世家"
   ],
   "summary": "上古流传的隐秘真灵世家,传承真龙血脉,操控遍布三境之地的拍卖行,血痣青年为其公子。",
   "attributes": {
@@ -14,7 +15,8 @@
     "镇派之宝": "真龙血脉传承、真龙之血、血晶摩诃剑、雪晶摩诃剑、合体级存在坐镇",
     "据点": "人族拍卖行",
     "阵营": "人族、真灵世家·真龙血脉、人族真灵世家",
-    "理念": "掌控人族拍卖行、兼得龙凤真血、真灵世家"
+    "理念": "掌控人族拍卖行、兼得龙凤真血、真灵世家",
+    "所属界面": "灵界"
   },
   "observations": {
     "等级": [
@@ -111,6 +113,13 @@
         "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
     ]
   },
   "firstSeq": 1333,
@@ -144,6 +153,12 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
     }
   },
   "contested": false,
@@ -158,7 +173,8 @@
     "plot.fanren-1369-1374-black-leaf-forest-muzu",
     "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
     "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-21T04:36:13.307Z"
+  "updatedAt": "2026-06-21T04:44:27.011Z"
 }

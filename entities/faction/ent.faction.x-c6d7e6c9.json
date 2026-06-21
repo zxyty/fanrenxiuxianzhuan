@@ -5,13 +5,17 @@
   "aliases": [
     "谷家一脉",
     "谷家分支",
-    "谷家本家"
+    "谷家本家",
+    "真灵世家谷家"
   ],
   "summary": "上古流传的隐秘真灵世家之一,与叶家暗中操控人族大量极品灵石矿,真灵血脉只传女子。",
   "attributes": {
     "等级": "真灵世家（上古传承）",
     "据点": "操控极品灵石矿",
-    "理念": "保持血脉延续、少与外界接触、真灵世家"
+    "理念": "保持血脉延续、少与外界接触、真灵世家",
+    "所属界面": "灵界",
+    "掌门": "晓风仙子",
+    "镇派之宝": "真灵黎吼血脉炼化秘术"
   },
   "observations": {
     "等级": [
@@ -44,6 +48,27 @@
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
+    ],
+    "掌门": [
+      {
+        "value": "晓风仙子",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "真灵黎吼血脉炼化秘术",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
+      }
     ]
   },
   "firstSeq": 1333,
@@ -65,13 +90,32 @@
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
       "seq": 1747
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-21T04:36:13.359Z"
+  "updatedAt": "2026-06-21T04:44:27.008Z"
 }

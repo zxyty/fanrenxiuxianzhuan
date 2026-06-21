@@ -22,11 +22,12 @@
     "阵营": "九仙宫",
     "身份": "南宫婉师姐",
     "小阶段": "十二层、炼气期、元婴期、结丹期、元婴",
-    "外貌": "二十余岁，容颜冷若冰霜",
+    "外貌": "肌肤赛雪、双眸漆黑如星",
     "存殁": "存活",
     "死因": "被封岳的符宝黄芒小刀一击穿透秒杀、被韩立第二元婴驱阴罗幡魔云罩杀、被韩立第二元婴魔云吞噬",
-    "标志特征": "紫光宝镜",
-    "性格": "执念筑基、心机深"
+    "标志特征": "驱使粉红色灵花禁锢敌手",
+    "性格": "执念筑基、心机深",
+    "称号": "圣祖"
   },
   "observations": {
     "性别": [
@@ -118,6 +119,11 @@
         "value": "二十余岁，容颜冷若冰霜",
         "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
+      },
+      {
+        "value": "肌肤赛雪、双眸漆黑如星",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "存殁": [
@@ -159,6 +165,11 @@
         "value": "紫光宝镜",
         "docId": "plot.fanren-841-lianshou-kangmo",
         "seq": 841
+      },
+      {
+        "value": "驱使粉红色灵花禁锢敌手",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ],
     "性格": [
@@ -166,6 +177,13 @@
         "value": "执念筑基、心机深",
         "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
         "seq": 301
+      }
+    ],
+    "称号": [
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ]
   },
@@ -197,9 +215,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 889
+      "seq": 1753
     },
     "存殁": {
       "asOf": null,
@@ -215,15 +233,21 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-841-lianshou-kangmo",
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
-      "seq": 841
+      "seq": 1753
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
       "dated": false,
       "seq": 301
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
     }
   },
   "contested": false,
@@ -238,7 +262,8 @@
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-1480-bai-ying",
     "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
-    "plot.fmxxz-ch889-tianshui-river-green-bat"
+    "plot.fmxxz-ch889-tianshui-river-green-bat",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-18T01:25:37.415Z"
+  "updatedAt": "2026-06-21T04:44:27.052Z"
 }

@@ -645,3 +645,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T04:11:53.264Z** `ingest` plot.fanren-1735-1740-yuncheng-luan-xuling-baoding — 凡人修仙传 第1735-1740章｜云城之乱・虚天鼎重现・伏蛟城偶遇 · kind=plot asOf=2026-06-21 entities=45 relations=58 src=01735-01740.md
 - **2026-06-21T04:24:30.275Z** `ingest` plot.fanren-1746-leave-leiming — 凡人修仙传 第1746章 离开雷鸣：韩立诛血影、撤离伏蛟城 · kind=plot asOf=2026-06-21 entities=44 relations=47 src=01741-01746.md
 - **2026-06-21T04:36:13.552Z** `ingest` plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family — 凡人修仙传 第1747-1752章｜炼神术第一层大成、谷家与真灵世家 · kind=plot asOf=2026-06-21 entities=48 relations=48 src=01747-01752.md
+- **2026-06-21T04:44:27.240Z** `ingest` plot.fanren-1753-1758-laike-lingdwang-zhenxue — 凡人修仙传 第1753-1758章｜来客·邀请与灵皇大比·真血隐忧 · kind=plot asOf=2026-06-21 entities=42 relations=45 src=01753-01758.md

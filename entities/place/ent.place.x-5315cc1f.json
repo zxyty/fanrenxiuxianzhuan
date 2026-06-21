@@ -6,7 +6,8 @@
   "summary": "韩立强占并开辟洞府、布下雾海大阵闭关修炼炼神术之峰。",
   "attributes": {
     "所属界面": "灵界",
-    "守护": "雾海大阵、多层禁制"
+    "守护": "雾海大阵、多层禁制",
+    "类型": "洞府所在山峰"
   },
   "observations": {
     "所属界面": [
@@ -21,6 +22,13 @@
         "value": "雾海大阵、多层禁制",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
+      }
+    ],
+    "类型": [
+      {
+        "value": "洞府所在山峰",
+        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+        "seq": 1753
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
       "seq": 1747
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "dated": false,
+      "seq": 1753
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
   ],
-  "updatedAt": "2026-06-21T04:36:13.361Z"
+  "updatedAt": "2026-06-21T04:44:27.034Z"
 }
