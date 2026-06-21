@@ -6,16 +6,18 @@
     "海兄",
     "海姓美男子",
     "美男子",
-    "海大少爷"
+    "海大少爷",
+    "海师兄",
+    "海少"
   ],
   "summary": "出身凡人城市炼体世家，绝佳灵根曾被误判无灵根，金刚诀第三层，筑基期，心高气傲。",
   "attributes": {
     "性别": "男",
-    "小阶段": "中阶炼体士",
-    "身份": "炼体修士、炼体士、中阶炼体士、求拜韩立门下者、韩立随从、韩立弟子",
+    "小阶段": "结丹中期",
+    "身份": "炼体修士、炼体士、中阶炼体士、求拜韩立门下者、韩立随从、韩立弟子、韩立记名弟子、天渊城炼体士",
     "出身地": "凡人城市炼体世家",
-    "外貌": "三十余岁黄色儒袍美男子",
-    "标志特征": "灵根周期性消失（约一日一夜后再现）、金色灵具手套炼体拳法、消失灵根",
+    "外貌": "黄袍儒生，三十来岁，面容俊美",
+    "标志特征": "灵根周期性消失（约一日一夜后再现）、金色灵具手套炼体拳法、消失灵根、法体双修",
     "性格": "自大爱嘴上占便宜",
     "道号": "月天"
   },
@@ -42,6 +44,11 @@
         "value": "中阶炼体士",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "结丹中期",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "身份": [
@@ -74,6 +81,17 @@
         "value": "韩立弟子",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "韩立记名弟子",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
+      },
+      {
+        "value": "天渊城炼体士",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831,
+        "note": "隐藏与韩立关系"
       }
     ],
     "出身地": [
@@ -93,6 +111,11 @@
         "value": "三十余岁黄色儒袍美男子",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "黄袍儒生，三十来岁，面容俊美",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "标志特征": [
@@ -110,6 +133,11 @@
         "value": "消失灵根",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "法体双修",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "性格": [
@@ -137,9 +165,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1795
+      "seq": 1831
     },
     "身份": {
       "asOf": null,
@@ -155,9 +183,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1771
+      "seq": 1831
     },
     "标志特征": {
       "asOf": null,
@@ -188,7 +216,8 @@
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T06:19:11.160Z"
+  "updatedAt": "2026-06-21T06:46:43.063Z"
 }

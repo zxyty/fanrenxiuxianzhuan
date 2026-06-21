@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "晶族炼体圣药，众多圣阶存在苦求不得，消耗用品；彩流罂以一瓶交予韩立。",
   "attributes": {
-    "用途": "炼体圣药",
+    "用途": "稳固肉身根基、防炼体反噬",
     "稀有度": "圣阶难求",
-    "产地": "晶族"
+    "产地": "彩流罂换得",
+    "类型": "灵液"
   },
   "observations": {
     "用途": [
@@ -15,6 +16,11 @@
         "value": "炼体圣药",
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
+      },
+      {
+        "value": "稳固肉身根基、防炼体反噬",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "稀有度": [
@@ -29,6 +35,18 @@
         "value": "晶族",
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
+      },
+      {
+        "value": "彩流罂换得",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
+      }
+    ],
+    "类型": [
+      {
+        "value": "灵液",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ]
   },
@@ -36,9 +54,9 @@
   "attrProvenance": {
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1735
+      "seq": 1831
     },
     "稀有度": {
       "asOf": null,
@@ -48,15 +66,22 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1735
+      "seq": 1831
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "dated": false,
+      "seq": 1831
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T04:11:53.089Z"
+  "updatedAt": "2026-06-21T06:46:43.095Z"
 }

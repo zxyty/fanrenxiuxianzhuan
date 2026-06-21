@@ -9,8 +9,8 @@
   "summary": "蛮荒灭绝异族镇族之宝，残破不全；敲响可凭空增加化神以上修士法力，敲锣者精血寿元流逝身亡。",
   "attributes": {
     "外形": "一人高黑锣，中心铭刻独目黑蛟图案，可缩成巴掌大",
-    "能力": "增加化神以上修士法力(化神约30年/炼虚约10年/合体数月)、每人仅前三次有效、蕴一丝天地法则",
-    "来历": "黑域自蛮荒灭绝异族秘地所得",
+    "能力": "增加化神以上修士法力(化神约30年/炼虚约10年/合体数月)、每人仅前三次有效、蕴一丝天地法则、附带万毒混元身炼体之法",
+    "来历": "黑域交换会换得",
     "禁制": "残破不全，敲者被法则反噬而亡"
   },
   "observations": {
@@ -36,6 +36,11 @@
         "value": "蕴一丝天地法则",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "附带万毒混元身炼体之法",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "来历": [
@@ -43,6 +48,11 @@
         "value": "黑域自蛮荒灭绝异族秘地所得",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "黑域交换会换得",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "禁制": [
@@ -69,9 +79,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1807
+      "seq": 1831
     },
     "禁制": {
       "asOf": null,
@@ -83,7 +93,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1813-1818-heiyu-exchange-qitianluo"
+    "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T06:01:34.879Z"
+  "updatedAt": "2026-06-21T06:46:43.087Z"
 }

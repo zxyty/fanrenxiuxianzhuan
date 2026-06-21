@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "上古稀有丹药，专养灵虫，可催熟并使成熟灵虫有几率变异再进阶。",
   "attributes": {
-    "功效": "催熟灵虫、令灵虫变异/再进阶、促使成熟体噬金虫进阶/异变",
-    "主料": "飞虹鱼内丹"
+    "功效": "催熟灵虫、令灵虫变异/再进阶、促使成熟体噬金虫进阶/异变、催生噬金虫变异、获隐匿身形天赋",
+    "主料": "飞虹鱼妖丹",
+    "炼制者": "韩立"
   },
   "observations": {
     "功效": [
@@ -24,6 +25,11 @@
         "value": "促使成熟体噬金虫进阶/异变",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "催生噬金虫变异、获隐匿身形天赋",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "主料": [
@@ -31,6 +37,18 @@
         "value": "飞虹鱼内丹",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "飞虹鱼妖丹",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
+      }
+    ],
+    "炼制者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ]
   },
@@ -44,16 +62,23 @@
     },
     "主料": {
       "asOf": null,
-      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1717
+      "seq": 1831
+    },
+    "炼制者": {
+      "asOf": null,
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "dated": false,
+      "seq": 1831
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T04:44:27.029Z"
+  "updatedAt": "2026-06-21T06:46:43.093Z"
 }

@@ -4,14 +4,15 @@
   "name": "炼神术",
   "aliases": [
     "炼神一层",
-    "炼神术第一层"
+    "炼神术第一层",
+    "炼神术第二层"
   ],
   "summary": "真仙界珍稀秘术，被各大仙域列为禁术，共三层，第一层大成即令神念增幅两倍以上，修炼条件极苛、不符者爆体而亡，修成时引发惊人天象。",
   "attributes": {
     "品阶": "真仙界秘术",
     "出处": "真仙界（仙界）",
-    "效果": "神念增幅两倍以上（第一层大成）、减轻突破合体瓶颈困阻、增幅神念、驱使更多噬金虫",
-    "修炼条件": "第二层需肉身强度达标",
+    "效果": "神念增幅两倍以上（第一层大成）、减轻突破合体瓶颈困阻、增幅神念、驱使更多噬金虫、提升神念，需先强横肉身",
+    "修炼条件": "进一步提升肉身",
     "外显异象": "冰雪烈日交替、金银天地、金色太阳化金色巨目（七色瞳孔）",
     "适用境界": "合体"
   },
@@ -45,6 +46,11 @@
         "value": "增幅神念、驱使更多噬金虫",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "提升神念，需先强横肉身",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "修炼条件": [
@@ -57,6 +63,11 @@
         "value": "第二层需肉身强度达标",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "进一步提升肉身",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "外显异象": [
@@ -106,9 +117,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1753
+      "seq": 1831
     },
     "外显异象": {
       "asOf": null,
@@ -127,7 +138,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T04:44:27.025Z"
+  "updatedAt": "2026-06-21T06:46:43.083Z"
 }

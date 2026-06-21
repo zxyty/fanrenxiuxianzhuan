@@ -14,8 +14,8 @@
     "性别": "女",
     "种族": "飞灵族",
     "身份": "天鹏族长老",
-    "外貌": "少女形貌",
-    "小阶段": "合体中期以上",
+    "外貌": "背生金色羽翅的白袍少女",
+    "小阶段": "合体大成",
     "阵营": "天鹏族"
   },
   "observations": {
@@ -70,6 +70,11 @@
         "value": "少女形貌",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "背生金色羽翅的白袍少女",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "小阶段": [
@@ -82,6 +87,11 @@
         "value": "合体期",
         "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
+      },
+      {
+        "value": "合体大成",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "阵营": [
@@ -114,15 +124,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1425",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1423
+      "seq": 1831
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1423
+      "seq": 1831
     },
     "阵营": {
       "asOf": null,
@@ -143,7 +153,8 @@
     "plot.fanren-1425",
     "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
     "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
-    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-20T11:43:45.756Z"
+  "updatedAt": "2026-06-21T06:46:43.116Z"
 }

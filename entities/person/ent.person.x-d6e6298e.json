@@ -16,8 +16,8 @@
     "阵营": "魔道/合欢宗、天南、魔道、合欢宗、魔道(合欢宗)、魔道六宗、天南修士(魔道)",
     "称号": "天南三大修士之一",
     "标志特征": "十余丈黑色覆鳞巨尾、可吞噬灵光",
-    "身份": "魔修、合欢宗修士、合欢宗大长老/三大修士之一、合欢宗魔修、天南三大修士之一、三大修士之一、魔道第一修士",
-    "外貌": "三十余岁、皮肤黝黑、相貌丑恶",
+    "身份": "魔修、合欢宗修士、合欢宗大长老/三大修士之一、合欢宗魔修、天南三大修士之一、三大修士之一、魔道第一修士、圣祖属下",
+    "外貌": "面颊黑鳞、双手幻化短刃的凶恶黑袍大汉",
     "性别": "男",
     "性格": "阴险设局",
     "出身地": "魔道"
@@ -151,6 +151,11 @@
         "value": "魔道第一修士",
         "docId": "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
         "seq": 871
+      },
+      {
+        "value": "圣祖属下",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "外貌": [
@@ -168,6 +173,11 @@
         "value": "三十余岁、皮肤黝黑、相貌丑恶",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "面颊黑鳞、双手幻化短刃的凶恶黑袍大汉",
+        "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+        "seq": 1831
       }
     ],
     "性别": [
@@ -231,9 +241,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
       "dated": false,
-      "seq": 1753
+      "seq": 1831
     },
     "性别": {
       "asOf": null,
@@ -270,7 +280,8 @@
     "plot.fanren-871-876-tan-xuanwo-mo-qi-zhi-yuan",
     "plot.fanren-1173-second-yuanying-tiansha-corpse",
     "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1831-1836-wandu-hunyuan-shen"
   ],
-  "updatedAt": "2026-06-21T04:44:27.051Z"
+  "updatedAt": "2026-06-21T06:46:43.124Z"
 }
