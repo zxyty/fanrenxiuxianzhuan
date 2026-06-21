@@ -5,14 +5,17 @@
   "aliases": [
     "炼神一层",
     "炼神术第一层",
-    "炼神术第二层"
+    "炼神术第二层",
+    "神念之链",
+    "炼神决",
+    "炼神之术"
   ],
   "summary": "真仙界珍稀秘术，被各大仙域列为禁术，共三层，第一层大成即令神念增幅两倍以上，修炼条件极苛、不符者爆体而亡，修成时引发惊人天象。",
   "attributes": {
     "品阶": "真仙界秘术",
     "出处": "仙界",
-    "效果": "神念增幅两倍以上（第一层大成）、减轻突破合体瓶颈困阻、增幅神念、驱使更多噬金虫、提升神念，需先强横肉身、神念狂增、神念笼罩七八万里",
-    "修炼条件": "进一步提升肉身",
+    "效果": "神念增幅两倍以上（第一层大成）、减轻突破合体瓶颈困阻、增幅神念、驱使更多噬金虫、提升神念，需先强横肉身、神念狂增、神念笼罩七八万里、幻化神念锁链捆缚敌身、增幅放大神念之力、提前激发神识潜力",
+    "修炼条件": "一旦修炼不可停，万年内须达第三层否则神识海自爆",
     "外显异象": "冰雪烈日交替、金银天地、金色太阳化金色巨目（七色瞳孔）",
     "适用境界": "仙界秘术"
   },
@@ -66,6 +69,21 @@
         "value": "神念笼罩七八万里",
         "docId": "plot.fanren-2168-muzu-dazhan-12",
         "seq": 2149
+      },
+      {
+        "value": "幻化神念锁链捆缚敌身",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
+      },
+      {
+        "value": "增幅放大神念之力",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
+      },
+      {
+        "value": "提前激发神识潜力",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "修炼条件": [
@@ -83,6 +101,11 @@
         "value": "进一步提升肉身",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "一旦修炼不可停，万年内须达第三层否则神识海自爆",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "外显异象": [
@@ -142,9 +165,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
       "dated": false,
-      "seq": 1831
+      "seq": 2221
     },
     "外显异象": {
       "asOf": null,
@@ -167,7 +190,8 @@
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
-    "plot.fanren-2168-muzu-dazhan-12"
+    "plot.fanren-2168-muzu-dazhan-12",
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
   ],
-  "updatedAt": "2026-06-21T14:46:57.214Z"
+  "updatedAt": "2026-06-21T16:05:09.822Z"
 }

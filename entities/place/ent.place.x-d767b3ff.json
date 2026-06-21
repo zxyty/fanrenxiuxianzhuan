@@ -8,7 +8,7 @@
   ],
   "summary": "螟虫之母被上古封印所困之地，万丈深渊底躺有其白玉巨虫骸骨。",
   "attributes": {
-    "类型": "上古封印之地/海底深渊",
+    "类型": "上古封印之地",
     "危险度": "极高",
     "守护": "上古封印·封印之灵"
   },
@@ -18,6 +18,11 @@
         "value": "上古封印之地/海底深渊",
         "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
         "seq": 2215
+      },
+      {
+        "value": "上古封印之地",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "危险度": [
@@ -39,9 +44,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
       "dated": false,
-      "seq": 2215
+      "seq": 2221
     },
     "危险度": {
       "asOf": null,
@@ -59,7 +64,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2234-2239-chongmu-zhi-zhan"
+    "plot.fanren-2234-2239-chongmu-zhi-zhan",
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
   ],
-  "updatedAt": "2026-06-21T15:57:21.653Z"
+  "updatedAt": "2026-06-21T16:05:09.808Z"
 }

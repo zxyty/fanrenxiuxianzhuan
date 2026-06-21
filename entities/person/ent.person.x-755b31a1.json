@@ -15,13 +15,13 @@
   "summary": "魔族始祖，唯一将无上魔体涅槃圣体修炼大成者；本章被提及。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族始祖、圣族强者、圣界三大始祖之一、魔界始祖之一、魔族圣祖、始祖",
-    "阵营": "魔界",
+    "身份": "魔族始祖、圣族强者、圣界三大始祖之一、魔界始祖之一、魔族圣祖、始祖、圣界始祖",
+    "阵营": "圣界",
     "标志特征": "涅槃圣体／三涅变身、淡金肌肤、双目翠绿欲滴、眼眶深陷、黑鳞独角魔化、漆黑指甲化飞剑",
     "外貌": "苍老声音",
     "存殁": "存（本体沉睡，化身行动）",
     "性格": "阴沉、仇视灵界",
-    "小阶段": "稍强于合体后期"
+    "小阶段": "大乘"
   },
   "observations": {
     "种族": [
@@ -61,6 +61,11 @@
         "value": "始祖",
         "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
         "seq": 2197
+      },
+      {
+        "value": "圣界始祖",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "阵营": [
@@ -73,6 +78,11 @@
         "value": "魔界",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "标志特征": [
@@ -129,6 +139,11 @@
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089,
         "note": "仅为化身；本体为大乘"
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ]
   },
@@ -148,9 +163,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
       "dated": false,
-      "seq": 2089
+      "seq": 2221
     },
     "标志特征": {
       "asOf": null,
@@ -178,10 +193,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
       "dated": false,
-      "seq": 2089,
-      "note": "仅为化身；本体为大乘"
+      "seq": 2221
     }
   },
   "contested": false,
@@ -190,7 +204,8 @@
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
     "plot.fanren-2107-zaijian-weixianlu",
-    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
   ],
-  "updatedAt": "2026-06-21T15:43:42.262Z"
+  "updatedAt": "2026-06-21T16:05:09.820Z"
 }

@@ -17,11 +17,11 @@
   "attributes": {
     "性别": "女",
     "称号": "智魔",
-    "外貌": "白衣盘坐粉红莲花",
-    "阵营": "魔族、中立/独行、圣族、魔界、圣界魔族",
+    "外貌": "清冷女尼/花树之身",
+    "阵营": "魔族、中立/独行、圣族、魔界、圣界魔族、圣界",
     "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光、镜面卜算之术、本体花树、土皇钉、玄天花域、粉红花树/大成元婴",
     "种族": "魔族",
-    "身份": "圣界三大始祖之一、占卜师、重返圣界的强者、圣族前始祖、前始祖、魔族始祖/圣祖、魔界强者、魔界原始祖、魔界圣祖（始祖之一）、魔界圣祖、始祖之一、地宫行动策划者、前圣祖、下界大乘",
+    "身份": "圣界三大始祖之一、占卜师、重返圣界的强者、圣族前始祖、前始祖、魔族始祖/圣祖、魔界强者、魔界原始祖、魔界圣祖（始祖之一）、魔界圣祖、始祖之一、地宫行动策划者、前圣祖、下界大乘、魔族始祖、圣界圣祖",
     "存殁": "存活(重伤)",
     "结局": "被六极、蓝瀑密谋追杀",
     "小阶段": "大乘"
@@ -86,6 +86,12 @@
         "value": "白衣盘坐粉红莲花",
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
+      },
+      {
+        "value": "清冷女尼/花树之身",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221,
+        "note": "施秘术时化形"
       }
     ],
     "阵营": [
@@ -113,6 +119,11 @@
         "value": "圣界魔族",
         "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
         "seq": 2197
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "标志特征": [
@@ -166,7 +177,8 @@
       {
         "value": "魔族",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-        "seq": 2083
+        "seq": 2083,
+        "note": "远魔族始祖"
       }
     ],
     "身份": [
@@ -234,6 +246,16 @@
         "value": "下界大乘",
         "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
         "seq": 2215
+      },
+      {
+        "value": "魔族始祖",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
+      },
+      {
+        "value": "圣界圣祖",
+        "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
+        "seq": 2221
       }
     ],
     "存殁": [
@@ -280,9 +302,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "docId": "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha",
       "dated": false,
-      "seq": 2113
+      "seq": 2221,
+      "note": "施秘术时化形"
     },
     "阵营": {
       "asOf": null,
@@ -300,7 +323,8 @@
       "asOf": null,
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2083
+      "seq": 2083,
+      "note": "远魔族始祖"
     },
     "身份": {
       "asOf": null,
@@ -344,7 +368,8 @@
     "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
     "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
     "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
-    "plot.fanren-2234-2239-chongmu-zhi-zhan"
+    "plot.fanren-2234-2239-chongmu-zhi-zhan",
+    "plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha"
   ],
-  "updatedAt": "2026-06-21T15:57:21.637Z"
+  "updatedAt": "2026-06-21T16:05:09.815Z"
 }
