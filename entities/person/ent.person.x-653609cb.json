@@ -9,12 +9,14 @@
   ],
   "summary": "万花山脉朝天峰的圣祖级大乘，宝花之同胞妹妹，神情阴冷；向韩立等揭示始印之地真相。",
   "attributes": {
-    "小阶段": "大乘期",
+    "小阶段": "圣祖",
     "称号": "圣祖",
     "性别": "女",
     "外貌": "绿色宫装、面容酷似宝花、神情阴冷",
     "阵营": "魔界",
-    "标志特征": "面容酷似宝花"
+    "标志特征": "面容酷似宝花、三只淡银色圆环、绿色巨花虚影刃海",
+    "种族": "魔族",
+    "身份": "宝花同胞妹妹"
   },
   "observations": {
     "小阶段": [
@@ -22,6 +24,11 @@
         "value": "大乘期",
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+        "seq": 2203
       }
     ],
     "称号": [
@@ -57,6 +64,30 @@
         "value": "面容酷似宝花",
         "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
         "seq": 2197
+      },
+      {
+        "value": "三只淡银色圆环",
+        "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+        "seq": 2203
+      },
+      {
+        "value": "绿色巨花虚影刃海",
+        "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+        "seq": 2203
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+        "seq": 2203
+      }
+    ],
+    "身份": [
+      {
+        "value": "宝花同胞妹妹",
+        "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+        "seq": 2203
       }
     ]
   },
@@ -64,9 +95,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
       "dated": false,
-      "seq": 2191
+      "seq": 2203
     },
     "称号": {
       "asOf": null,
@@ -97,13 +128,26 @@
       "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
       "dated": false,
       "seq": 2197
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+      "dated": false,
+      "seq": 2203
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+      "dated": false,
+      "seq": 2203
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2210-2215-mingchong-xieliansheng",
-    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+    "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong"
   ],
-  "updatedAt": "2026-06-21T15:43:42.255Z"
+  "updatedAt": "2026-06-21T15:51:22.170Z"
 }
