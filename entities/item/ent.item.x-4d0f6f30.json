@@ -1,37 +1,30 @@
 {
-  "id": "ent.item.x-958c90ae",
+  "id": "ent.item.x-4d0f6f30",
   "type": "item",
-  "name": "魔石",
-  "aliases": [
-    "中阶魔石"
-  ],
-  "summary": "魔族/圣界通用的灵石货币，韩立以紫灵果换得一镯魔石。",
+  "name": "神秘晶珠",
+  "aliases": [],
+  "summary": "韩立怀疑藏于异魔金中的目标之物，本片段遍寻未获。",
   "attributes": {
-    "类型": "货币灵石",
-    "用途": "魔界通货"
+    "类型": "晶珠",
+    "用途": "韩立此行搜寻目标"
   },
   "observations": {
     "类型": [
       {
-        "value": "灵石货币",
-        "docId": "plot.fanren-2044-bai-yunxin",
-        "seq": 2029
-      },
-      {
-        "value": "货币灵石",
+        "value": "晶珠",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
       }
     ],
     "用途": [
       {
-        "value": "魔界通货",
+        "value": "韩立此行搜寻目标",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
       }
     ]
   },
-  "firstSeq": 2029,
+  "firstSeq": 2095,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -49,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:47:45.548Z"
+  "updatedAt": "2026-06-21T13:47:45.546Z"
 }

@@ -4,13 +4,20 @@
   "name": "天泣",
   "aliases": [
     "青甲大汉",
-    "天泣师兄"
+    "天泣师兄",
+    "天泣道友",
+    "彪悍大汉",
+    "天泣魔祖"
   ],
   "summary": "圣界身具始祖之位的强者，与鹤颜联手为宝花圣祖死敌，曾合力将其打落一境界。",
   "attributes": {
-    "身份": "高阶魔族",
+    "身份": "魔祖/大乘",
     "阵营": "圣族",
-    "外貌": "青色魔甲、三十许岁彪悍威猛"
+    "外貌": "青色魔甲、三十许岁彪悍威猛",
+    "性别": "男",
+    "种族": "魔族",
+    "称号": "魔祖",
+    "存殁": "肉身被毁、元神逃脱"
   },
   "observations": {
     "身份": [
@@ -28,6 +35,11 @@
         "value": "高阶魔族",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "魔祖/大乘",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
       }
     ],
     "阵营": [
@@ -49,15 +61,44 @@
         "seq": 2089,
         "note": "本片段"
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "称号": [
+      {
+        "value": "魔祖",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "存殁": [
+      {
+        "value": "肉身被毁、元神逃脱",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095,
+        "note": "数百年可恢复"
+      }
     ]
   },
   "firstSeq": 1999,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
-      "seq": 2089
+      "seq": 2095
     },
     "阵营": {
       "asOf": null,
@@ -71,6 +112,31 @@
       "dated": false,
       "seq": 2089,
       "note": "本片段"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095,
+      "note": "数百年可恢复"
     }
   },
   "contested": false,
@@ -78,7 +144,8 @@
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:40:14.179Z"
+  "updatedAt": "2026-06-21T13:47:45.518Z"
 }

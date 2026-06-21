@@ -1,0 +1,80 @@
+{
+  "id": "ent.artifact.x-4b47e8ca",
+  "type": "artifact",
+  "name": "玄天圣树",
+  "aliases": [
+    "玄天花树"
+  ],
+  "summary": "宝花彻底融合的重宝，可生长成与手掌一体的花树、吸取持有者法力，为施展玄天灵域的根本。",
+  "attributes": {
+    "持有者": "宝花",
+    "能力": "生长成吸法力的灵树、化粉红巨花/魔焰、施展玄天灵域",
+    "外形": "翠绿大树、粉红花树"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "宝花",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "能力": [
+      {
+        "value": "生长成吸法力的灵树",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      },
+      {
+        "value": "化粉红巨花/魔焰",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      },
+      {
+        "value": "施展玄天灵域",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "外形": [
+      {
+        "value": "翠绿大树",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      },
+      {
+        "value": "粉红花树",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095,
+        "note": "施展玄天花界时变色"
+      }
+    ]
+  },
+  "firstSeq": 2095,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+  ],
+  "updatedAt": "2026-06-21T13:47:45.523Z"
+}

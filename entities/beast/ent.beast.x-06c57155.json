@@ -5,7 +5,8 @@
   "aliases": [
     "小魔鳄",
     "黑鳄",
-    "宝花黑鳄"
+    "宝花黑鳄",
+    "迷你鳄鱼"
   ],
   "summary": "刚进阶圣阶的魔鳄，曾为冥罗圣祖坐骑；疑助血瑛毁去铁兄化身。",
   "attributes": {
@@ -13,7 +14,7 @@
     "主人": "冥罗",
     "血脉": "邪龙真血",
     "外形": "黑色长袍黝黑丑陋大汉",
-    "种族": "邪龙族血脉"
+    "种族": "邪龙族"
   },
   "observations": {
     "等级": [
@@ -60,6 +61,11 @@
         "value": "邪龙族血脉",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "邪龙族",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
       }
     ]
   },
@@ -92,9 +98,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
-      "seq": 2089
+      "seq": 2095
     }
   },
   "contested": false,
@@ -106,7 +112,8 @@
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:40:14.178Z"
+  "updatedAt": "2026-06-21T13:47:45.517Z"
 }

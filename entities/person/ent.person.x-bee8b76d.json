@@ -17,7 +17,9 @@
     "阵营": "魔族、中立/独行、圣族",
     "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光、镜面卜算之术、本体花树",
     "种族": "魔族",
-    "身份": "前始祖"
+    "身份": "魔族始祖/圣祖",
+    "存殁": "存活(重伤)",
+    "结局": "杀敌自伤、重伤退回灵界静养"
   },
   "observations": {
     "性别": [
@@ -142,6 +144,25 @@
         "value": "前始祖",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "魔族始祖/圣祖",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活(重伤)",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
+      }
+    ],
+    "结局": [
+      {
+        "value": "杀敌自伤、重伤退回灵界静养",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
       }
     ]
   },
@@ -185,9 +206,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
-      "seq": 2089
+      "seq": 2095
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
     }
   },
   "contested": false,
@@ -198,7 +231,8 @@
     "plot.fanren-2068-2069-fansuan-lanjie",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:40:14.177Z"
+  "updatedAt": "2026-06-21T13:47:45.516Z"
 }

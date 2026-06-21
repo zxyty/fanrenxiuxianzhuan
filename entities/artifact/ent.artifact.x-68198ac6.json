@@ -6,7 +6,8 @@
   "summary": "宝花护身异宝，助其顺利渡过多次大天劫，被天泣觊觎以渡己之天劫。",
   "attributes": {
     "持有者": "宝花",
-    "能力": "助渡天劫"
+    "能力": "助渡天劫",
+    "来历": "宝花得道时贴身重宝"
   },
   "observations": {
     "持有者": [
@@ -21,6 +22,13 @@
         "value": "助渡天劫",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      }
+    ],
+    "来历": [
+      {
+        "value": "宝花得道时贴身重宝",
+        "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+        "seq": 2095
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
       "seq": 2089
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "dated": false,
+      "seq": 2095
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:40:14.181Z"
+  "updatedAt": "2026-06-21T13:47:45.524Z"
 }

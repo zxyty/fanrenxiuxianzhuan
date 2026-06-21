@@ -1,45 +1,38 @@
 {
-  "id": "ent.item.x-958c90ae",
-  "type": "item",
-  "name": "魔石",
-  "aliases": [
-    "中阶魔石"
-  ],
-  "summary": "魔族/圣界通用的灵石货币，韩立以紫灵果换得一镯魔石。",
+  "id": "ent.faction.x-18e65130",
+  "type": "faction",
+  "name": "彩轩阁",
+  "aliases": [],
+  "summary": "蓝瀑城最大最悠久的商铺，动用空间魔器开辟小须弥空间。",
   "attributes": {
-    "类型": "货币灵石",
-    "用途": "魔界通货"
+    "所属界面": "魔界",
+    "据点": "蓝瀑城"
   },
   "observations": {
-    "类型": [
+    "所属界面": [
       {
-        "value": "灵石货币",
-        "docId": "plot.fanren-2044-bai-yunxin",
-        "seq": 2029
-      },
-      {
-        "value": "货币灵石",
+        "value": "魔界",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
       }
     ],
-    "用途": [
+    "据点": [
       {
-        "value": "魔界通货",
+        "value": "蓝瀑城",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
       }
     ]
   },
-  "firstSeq": 2029,
+  "firstSeq": 2095,
   "attrProvenance": {
-    "类型": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
       "seq": 2095
     },
-    "用途": {
+    "据点": {
       "asOf": null,
       "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
@@ -49,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
   ],
-  "updatedAt": "2026-06-21T13:47:45.548Z"
+  "updatedAt": "2026-06-21T13:47:45.543Z"
 }
