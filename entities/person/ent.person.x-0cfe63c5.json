@@ -4,13 +4,16 @@
   "name": "翁姓青年",
   "aliases": [
     "翁前辈",
-    "白人青年"
+    "白人青年",
+    "天云太上长老"
   ],
   "summary": "二十余岁白人外貌的大乘存在，云城至高层，破例赐韩立天罡印并下令守阵。",
   "attributes": {
     "种族": "异族",
-    "小阶段": "大乘",
-    "外貌": "二十余岁白人青年"
+    "小阶段": "大乘期",
+    "外貌": "青年",
+    "身份": "天云族太上长老",
+    "阵营": "天云"
   },
   "observations": {
     "种族": [
@@ -25,6 +28,11 @@
         "value": "大乘",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "外貌": [
@@ -32,6 +40,25 @@
         "value": "二十余岁白人青年",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "青年",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
+    ],
+    "身份": [
+      {
+        "value": "天云族太上长老",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天云",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -45,21 +72,34 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1663
+      "seq": 1735
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1663
+      "seq": 1735
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T02:42:39.274Z"
+  "updatedAt": "2026-06-21T04:11:53.083Z"
 }

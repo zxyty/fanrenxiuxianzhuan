@@ -12,9 +12,9 @@
   ],
   "summary": "天云十三族长老（含万古族大长老）聚集坐镇以应对角蚩族之地，约定数月后于此再会。",
   "attributes": {
-    "所属势力": "万古族",
-    "类型": "重镇、悬浮空中之城、重城、城池、异族大城、超级大城、悬空城池、城池/洞府所在",
-    "所属界面": "灵界",
+    "所属势力": "天云",
+    "类型": "重镇、悬浮空中之城、重城、城池、异族大城、超级大城、悬空城池、城池/洞府所在、悬空大城",
+    "所属界面": "灵界雷鸣大陆",
     "守护": "云城之卫（十余颗万丈白色球体）、十三只战争傀儡、云城甲士、白长老"
   },
   "observations": {
@@ -33,6 +33,11 @@
         "value": "万古族",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "天云",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "类型": [
@@ -75,6 +80,11 @@
         "value": "城池/洞府所在",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "悬空大城",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "所属界面": [
@@ -82,6 +92,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "灵界雷鸣大陆",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "守护": [
@@ -111,9 +126,9 @@
   "attrProvenance": {
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1585
+      "seq": 1735
     },
     "类型": {
       "asOf": null,
@@ -123,9 +138,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1573
+      "seq": 1735
     },
     "守护": {
       "asOf": null,
@@ -154,7 +169,8 @@
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T03:32:54.803Z"
+  "updatedAt": "2026-06-21T04:11:53.043Z"
 }

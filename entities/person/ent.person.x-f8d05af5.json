@@ -16,11 +16,11 @@
   "attributes": {
     "种族": "万古族",
     "称号": "合体巅峰",
-    "外貌": "黄袍矮胖老者，背箩筐似的古怪背篓，慈眉善目",
+    "外貌": "胖黄袍老者",
     "性格": "和善而强势、城府深、说话兜圈子",
-    "小阶段": "圣阶(合体)",
+    "小阶段": "合体顶阶、合体期(顶阶)、圣阶(合体)、合体后期、合体期",
     "身份": "万古族长老、傀儡大师、晶族客卿(存疑)、长老、广寒界传送主持者",
-    "阵营": "天云十三族"
+    "阵营": "天云十三族、万古族、天云诸族"
   },
   "observations": {
     "种族": [
@@ -42,6 +42,11 @@
         "value": "黄袍矮胖老者，背箩筐似的古怪背篓，慈眉善目",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "胖黄袍老者",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "性格": [
@@ -71,6 +76,16 @@
         "value": "圣阶(合体)",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "身份": [
@@ -105,6 +120,16 @@
         "value": "天云十三族",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "万古族",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      },
+      {
+        "value": "天云诸族",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -124,9 +149,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1585
+      "seq": 1735
     },
     "性格": {
       "asOf": null,
@@ -136,9 +161,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
-      "seq": 1663
+      "seq": 1585
     },
     "身份": {
       "asOf": null,
@@ -160,7 +185,8 @@
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1600-1601-renmianjiao-duonu",
     "plot.fanren-1657-1662-kuajie-monian-yunzu",
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T02:42:39.273Z"
+  "updatedAt": "2026-06-21T04:11:53.078Z"
 }

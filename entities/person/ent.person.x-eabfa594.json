@@ -6,7 +6,8 @@
     "妃緤夫人",
     "晶族前辈",
     "彩前辈",
-    "柳水儿之家师"
+    "柳水儿之家师",
+    "流道友"
   ],
   "summary": "天云圣族美妇，自称法阵禁制造诣在天云排前五；进阶圣族时于广寒界发现隐秘禁制，欲借三名元磁之体者破禁取物以延缓大天劫。",
   "attributes": {
@@ -14,8 +15,9 @@
     "种族": "晶族",
     "身份": "柳水儿师长",
     "性格": "精明、爽快、深沉",
-    "小阶段": "圣阶(合体)",
-    "称号": "前辈"
+    "小阶段": "圣阶(合体)、圣阶、合体期",
+    "称号": "前辈",
+    "寿元": "万年以上"
   },
   "observations": {
     "性别": [
@@ -71,6 +73,16 @@
         "value": "圣阶(合体)",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "圣阶",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "称号": [
@@ -78,6 +90,13 @@
         "value": "前辈",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      }
+    ],
+    "寿元": [
+      {
+        "value": "万年以上",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -118,6 +137,12 @@
       "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
       "seq": 1675
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
@@ -131,7 +156,8 @@
     "plot.fanren-1693-1703-xianren-palace-climb",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T03:45:34.544Z"
+  "updatedAt": "2026-06-21T04:11:53.080Z"
 }

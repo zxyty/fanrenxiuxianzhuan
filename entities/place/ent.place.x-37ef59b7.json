@@ -7,7 +7,8 @@
   "attributes": {
     "所属界面": "灵界",
     "类型": "大陆",
-    "所属势力": "飞灵族各支聚居"
+    "所属势力": "飞灵族各支聚居",
+    "特产": "人族世代相传神通"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +31,13 @@
         "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
       }
+    ],
+    "特产": [
+      {
+        "value": "人族世代相传神通",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
     ]
   },
   "firstSeq": 1351,
@@ -51,6 +59,12 @@
       "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
       "dated": false,
       "seq": 1405
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
@@ -61,7 +75,8 @@
     "plot.fanren-1353-lingchong-dacheng",
     "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng"
+    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-20T15:37:14.729Z"
+  "updatedAt": "2026-06-21T04:11:53.051Z"
 }

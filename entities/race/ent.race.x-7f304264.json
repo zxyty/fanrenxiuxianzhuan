@@ -7,9 +7,9 @@
   ],
   "summary": "韩立所属种族，被炼虚期敌人识破。",
   "attributes": {
-    "聚居地": "天渊城、风元大陆西北角、天元大陆",
+    "聚居地": "天渊城、风元大陆西北角、天元大陆、风元大陆",
     "代表人物": "天元圣皇、金越、青龙上人、林鸾、银光仙子、韩立、金越大师",
-    "特性": "肉身弱、法门神通古怪"
+    "特性": "世代相传神通、修炼苛刻"
   },
   "observations": {
     "聚居地": [
@@ -27,6 +27,11 @@
         "value": "天元大陆",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "风元大陆",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "代表人物": [
@@ -71,6 +76,11 @@
         "value": "肉身弱、法门神通古怪",
         "docId": "plot.fanren-1504-cuijing-zhuan",
         "seq": 1501
+      },
+      {
+        "value": "世代相传神通、修炼苛刻",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -90,9 +100,9 @@
     },
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1504-cuijing-zhuan",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1501
+      "seq": 1735
     }
   },
   "contested": false,
@@ -108,7 +118,8 @@
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T00:57:57.793Z"
+  "updatedAt": "2026-06-21T04:11:53.053Z"
 }

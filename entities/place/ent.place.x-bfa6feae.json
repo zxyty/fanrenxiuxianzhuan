@@ -16,7 +16,7 @@
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "周期开启秘境",
+    "类型": "界面/秘境",
     "危险度": "极高（上古凶兽众多）",
     "特产": "灰色山峰特有矿石"
   },
@@ -65,6 +65,11 @@
         "value": "周期开启秘境",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "界面/秘境",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "危险度": [
@@ -108,9 +113,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1717
+      "seq": 1735
     },
     "危险度": {
       "asOf": null,
@@ -139,7 +144,8 @@
     "plot.fanren-1691-1692-leipeng-puppet-yingjing",
     "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
     "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T03:45:34.568Z"
+  "updatedAt": "2026-06-21T04:11:53.096Z"
 }

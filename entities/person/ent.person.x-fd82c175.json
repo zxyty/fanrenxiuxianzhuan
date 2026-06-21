@@ -5,15 +5,17 @@
   "aliases": [
     "田道友之妻",
     "结丹女修",
-    "蓝色宫装女子"
+    "蓝色宫装女子",
+    "月道友"
   ],
   "summary": "田姓男子之妻，结丹期女修，容貌如温玉的少见美女；与韩立似为旧识，一见韩立面容即露震惊之色。随夫偷渡外海求药救女。",
   "attributes": {
     "性别": "女",
-    "小阶段": "结丹期",
+    "小阶段": "结丹期、圣族、合体",
     "标志特征": "二十五六岁、肌肤白腻的大美女",
     "外貌": "蓝色宫装、面容苍白",
-    "身份": "广寒令激发者之一"
+    "身份": "刚进阶合体",
+    "阵营": "天云"
   },
   "observations": {
     "性别": [
@@ -28,6 +30,16 @@
         "value": "结丹期",
         "docId": "plot.fanren-ch1123-1128-houqi-chucheng",
         "seq": 1123
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "标志特征": [
@@ -54,6 +66,19 @@
         "value": "广寒令激发者之一",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "刚进阶合体",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735,
+        "note": "本章时"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天云",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -85,9 +110,16 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1663
+      "seq": 1735,
+      "note": "本章时"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
@@ -95,7 +127,8 @@
   "docs": [
     "plot.fanren-ch1123-1128-houqi-chucheng",
     "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T02:42:39.274Z"
+  "updatedAt": "2026-06-21T04:11:53.068Z"
 }

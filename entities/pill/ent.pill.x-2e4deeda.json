@@ -7,8 +7,8 @@
   "attributes": {
     "品阶": "神丹级",
     "适用境界": "炼虚",
-    "功效": "助突破上三阶瓶颈、炼虚级突破瓶颈辅助、突破圣族的绝佳辅助、洗筋易经、改善体质、高阶丹药",
-    "炼制者": "晶族"
+    "功效": "助突破上三阶瓶颈、炼虚级突破瓶颈辅助、突破圣族的绝佳辅助、洗筋易经、改善体质、高阶丹药、助突破瓶颈",
+    "炼制者": "晶族炼丹宗师"
   },
   "observations": {
     "品阶": [
@@ -55,6 +55,11 @@
         "value": "高阶丹药",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "炼制者": [
@@ -67,6 +72,11 @@
         "value": "晶族",
         "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
+      },
+      {
+        "value": "晶族炼丹宗师",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ]
   },
@@ -92,9 +102,9 @@
     },
     "炼制者": {
       "asOf": null,
-      "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1597
+      "seq": 1735
     }
   },
   "contested": false,
@@ -103,7 +113,8 @@
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T01:04:24.689Z"
+  "updatedAt": "2026-06-21T04:11:53.086Z"
 }

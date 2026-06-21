@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-5514e4c2",
+  "type": "place",
+  "name": "通灵战堡",
+  "aliases": [
+    "万古族城堡"
+  ],
+  "summary": "万古族在云城的总部，战时成为各族临时发号施令中心；银白雕像、人形傀儡、金属傀儡与光阵护卫森严。",
+  "attributes": {
+    "所属势力": "万古族",
+    "类型": "城堡总部"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "万古族",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
+    ],
+    "类型": [
+      {
+        "value": "城堡总部",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
+    ]
+  },
+  "firstSeq": 1735,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
+  ],
+  "updatedAt": "2026-06-21T04:11:53.047Z"
+}

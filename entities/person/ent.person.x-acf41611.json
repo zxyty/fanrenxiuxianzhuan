@@ -6,17 +6,19 @@
     "段长老",
     "段前辈",
     "段道友",
-    "段天刃前辈"
+    "段天刃前辈",
+    "段某"
   ],
   "summary": "石茧族排名靠前的三长老，合体顶峰，半肉身半金属的怪人，修吸金化玉功，欲借韩立的元磁神光成事。",
   "attributes": {
     "种族": "石茧族",
-    "身份": "石茧族地位甚高者",
+    "身份": "石茧族长老",
     "称号": "段长老",
-    "小阶段": "合体顶峰、合体顶阶、合体期(顶阶)、合体级、圣阶(合体)",
+    "小阶段": "合体顶峰、合体顶阶、合体期(顶阶)、合体级、圣阶(合体)、圣阶、合体期",
     "外貌": "三丈高、上身半肉身半金属、绿色卷须狰狞面孔、头颅尖锥状",
     "性格": "豪爽粗直、傲然、冷硬",
-    "性别": "男"
+    "性别": "男",
+    "寿元": "万年以上"
   },
   "observations": {
     "种族": [
@@ -66,6 +68,11 @@
         "value": "石茧族地位甚高者",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "石茧族长老",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "称号": [
@@ -100,6 +107,16 @@
         "value": "圣阶(合体)",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "圣阶",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "外貌": [
@@ -127,6 +144,13 @@
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
+    ],
+    "寿元": [
+      {
+        "value": "万年以上",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
+      }
     ]
   },
   "firstSeq": 1591,
@@ -139,9 +163,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1717
+      "seq": 1735
     },
     "称号": {
       "asOf": null,
@@ -172,6 +196,12 @@
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "dated": false,
+      "seq": 1735
     }
   },
   "contested": false,
@@ -188,7 +218,8 @@
     "plot.fanren-1693-1703-xianren-palace-climb",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-21T03:45:34.567Z"
+  "updatedAt": "2026-06-21T04:11:53.079Z"
 }

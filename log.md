@@ -642,3 +642,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T03:45:34.729Z** `ingest` plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle — 凡人修仙传 第1717-1722章｜广寒界激战角蚩族青年（银尺·颠倒乾坤·巨猿凶威） · kind=plot asOf=2026-06-21 entities=46 relations=53 src=01717-01722.md
 - **2026-06-21T03:47:49.993Z** `ingest` plot.fanren-1728-1733-hunyuanchi-rongzu-lianshenshu — 第1728-1733章 混元尺现威·戎族追杀与炼神术之约 · kind=plot asOf=2026-06-21 entities=0 relations=0 src=01723-01728.md
 - **2026-06-21T03:59:44.794Z** `ingest` plot.fanren-1734-stone-wall-spirit-script — 凡人修仙传 第1734章 石壁灵文：韩立潜入密洞复制金篆文功法、连擒戎族炼虚 · kind=plot asOf=2026-06-21 entities=28 relations=31 src=01729-01734.md
+- **2026-06-21T04:11:53.264Z** `ingest` plot.fanren-1735-1740-yuncheng-luan-xuling-baoding — 凡人修仙传 第1735-1740章｜云城之乱・虚天鼎重现・伏蛟城偶遇 · kind=plot asOf=2026-06-21 entities=45 relations=58 src=01735-01740.md

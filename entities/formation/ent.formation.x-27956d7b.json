@@ -8,9 +8,9 @@
   ],
   "summary": "可跨大陆传送的超级法阵，天云、角蚩、夜族各有一座；开启消耗巨大，非合体级与本族之人难以使用。",
   "attributes": {
-    "效果": "跨大陆传送",
+    "效果": "跨界/跨大陆传送",
     "破解法": "开启需巨量资源、非合体级难驱动",
-    "出处": "天云诸族保管",
+    "出处": "伏蛟城密殿",
     "布置者": "晶族、石茧族、多手族、万古族四族共管"
   },
   "observations": {
@@ -19,6 +19,11 @@
         "value": "跨大陆传送",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "跨界/跨大陆传送",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "破解法": [
@@ -38,6 +43,11 @@
         "value": "天云诸族保管",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "伏蛟城密殿",
+        "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+        "seq": 1735
       }
     ],
     "布置者": [
@@ -53,9 +63,9 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1573
+      "seq": 1735
     },
     "破解法": {
       "asOf": null,
@@ -65,9 +75,9 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
-      "seq": 1585
+      "seq": 1735
     },
     "布置者": {
       "asOf": null,
@@ -82,7 +92,8 @@
   "docs": [
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-    "plot.fanren-1586-qianjizi"
+    "plot.fanren-1586-qianjizi",
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
   ],
-  "updatedAt": "2026-06-20T16:11:26.525Z"
+  "updatedAt": "2026-06-21T04:11:53.039Z"
 }
