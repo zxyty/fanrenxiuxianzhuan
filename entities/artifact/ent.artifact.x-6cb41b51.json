@@ -9,12 +9,13 @@
     "广阴宝经",
     "漆黑棱形古镜",
     "广阴境秘术之镜",
-    "棱形古镜"
+    "棱形古镜",
+    "古镜残影"
   ],
   "summary": "白家大哥持有的至阴法宝，由天地冰灵炼化的漆黑棱形古镜，可窥探他人修为深浅并摄录画面；遇至阴护体或至寒功法之人效用大减。",
   "attributes": {
-    "持有者": "白家大哥、白皙蛟",
-    "能力": "窥探修为、摄录画面、窥探修士所修功法与境界层次",
+    "持有者": "白家大哥、白皙蛟、黄发大汉",
+    "能力": "窥探修为、摄录画面、窥探修士所修功法与境界层次、喷黑色雷电/雷剑",
     "来历": "天地冰灵炼化",
     "五行属性": "至阴",
     "外形": "漆黑棱形古镜、棱形古镜"
@@ -30,6 +31,11 @@
         "value": "白皙蛟",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "黄发大汉",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "能力": [
@@ -47,6 +53,11 @@
         "value": "窥探修士所修功法与境界层次",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "喷黑色雷电/雷剑",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "来历": [
@@ -113,7 +124,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.887Z"
+  "updatedAt": "2026-06-21T12:00:41.012Z"
 }

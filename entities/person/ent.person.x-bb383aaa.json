@@ -2,14 +2,18 @@
   "id": "ent.person.x-bb383aaa",
   "type": "person",
   "name": "寒其子",
-  "aliases": [],
+  "aliases": [
+    "寒道友"
+  ],
   "summary": "应邀魔尊，面带绿色鬼脸面具的中年男子，浑身散发刺骨寒气，沉默寡言。",
   "attributes": {
     "性别": "男",
     "种族": "魔族",
-    "小阶段": "魔尊",
+    "小阶段": "合体",
     "外貌": "绿色鬼脸面具、散发白色寒气",
-    "性格": "沉默寡言"
+    "性格": "冷漠",
+    "标志特征": "晶幡、化冰雕隐身、诡异寒光",
+    "身份": "魔尊"
   },
   "observations": {
     "性别": [
@@ -31,6 +35,11 @@
         "value": "魔尊",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "外貌": [
@@ -45,6 +54,35 @@
         "value": "沉默寡言",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "冷漠",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "晶幡",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "化冰雕隐身",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "诡异寒光",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ]
   },
@@ -64,9 +102,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "外貌": {
       "asOf": null,
@@ -76,15 +114,28 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.883Z"
+  "updatedAt": "2026-06-21T12:00:40.999Z"
 }

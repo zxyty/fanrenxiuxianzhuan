@@ -12,9 +12,9 @@
   ],
   "summary": "据幻夜城的魔族家族，盛产荃香；其炼虚少妇向韩立求救。",
   "attributes": {
-    "阵营": "圣族",
+    "阵营": "魔界",
     "所属界面": "圣界、魔界",
-    "据点": "幻夜城、幻夜城白家堡垒、银川绿洲",
+    "据点": "幻夜城、幻夜城白家堡垒、银川绿洲、幻啸沙漠火云石矿脉",
     "镇派之宝": "广阴宝镜、八足魔蜥"
   },
   "observations": {
@@ -28,6 +28,11 @@
         "value": "圣族",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "所属界面": [
@@ -57,6 +62,11 @@
         "value": "银川绿洲",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "幻啸沙漠火云石矿脉",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "镇派之宝": [
@@ -76,9 +86,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "所属界面": {
       "asOf": null,
@@ -106,7 +116,8 @@
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.885Z"
+  "updatedAt": "2026-06-21T12:00:41.004Z"
 }

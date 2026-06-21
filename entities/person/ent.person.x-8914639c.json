@@ -4,16 +4,19 @@
   "name": "栾龙天君",
   "aliases": [
     "栾龙兄",
-    "本天君"
+    "本天君",
+    "栾龙道友"
   ],
   "summary": "应邀魔尊，身材滚圆如肥猪、眯眼，皮笑肉不笑；修血系魔功，需食血牙米激增法力。",
   "attributes": {
     "性别": "男",
     "种族": "魔族",
-    "小阶段": "魔尊",
-    "称号": "栾龙天君",
-    "外貌": "异常滚圆肥胖、双眼眯成细缝",
-    "性格": "贪食、皮笑肉不笑"
+    "小阶段": "合体",
+    "称号": "天君",
+    "外貌": "身形奇胖、肥硕",
+    "性格": "贪食、皮笑肉不笑",
+    "标志特征": "蓝色圆钵/蓝色圆月、血红雪花小鼓、黑色战甲",
+    "身份": "魔尊"
   },
   "observations": {
     "性别": [
@@ -35,6 +38,11 @@
         "value": "魔尊",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "称号": [
@@ -42,6 +50,11 @@
         "value": "栾龙天君",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "天君",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "外貌": [
@@ -49,6 +62,11 @@
         "value": "异常滚圆肥胖、双眼眯成细缝",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "身形奇胖、肥硕",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "性格": [
@@ -56,6 +74,30 @@
         "value": "贪食、皮笑肉不笑",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "蓝色圆钵/蓝色圆月",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "血红雪花小鼓",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "黑色战甲",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ]
   },
@@ -75,33 +117,46 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "性格": {
       "asOf": null,
       "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
       "dated": false,
       "seq": 2035
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.881Z"
+  "updatedAt": "2026-06-21T12:00:40.999Z"
 }

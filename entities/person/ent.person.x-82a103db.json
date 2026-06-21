@@ -17,7 +17,9 @@
     "身份": "幻夜白家嫡系子弟、白家夫人、白家弟子",
     "外貌": "貌美少妇",
     "阵营": "白家",
-    "小阶段": "炼虚期"
+    "小阶段": "炼虚",
+    "存殁": "死亡",
+    "死因": "被魔灵夺身吸干血肉"
   },
   "observations": {
     "性别": [
@@ -80,6 +82,25 @@
         "value": "炼虚期",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "死因": [
+      {
+        "value": "被魔灵夺身吸干血肉",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ]
   },
@@ -117,9 +138,21 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2029
+      "seq": 2041
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     }
   },
   "contested": false,
@@ -128,7 +161,8 @@
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.884Z"
+  "updatedAt": "2026-06-21T12:00:41.002Z"
 }

@@ -3,11 +3,12 @@
   "type": "beast",
   "name": "八足魔蜥",
   "aliases": [
-    "八足魔蜥代步兽"
+    "八足魔蜥代步兽",
+    "魔蜥"
   ],
   "summary": "幻啸沙漠原生珍稀魔兽，无法飞行但沙中疾行如风，魔核皮骨皆贵，近乎灭绝，多被魔族圈养。",
   "attributes": {
-    "栖息地": "幻啸沙漠一带",
+    "栖息地": "魔界",
     "能力": "沙漠中行动如风、沙漠穿梭、代步运输",
     "外形": "五丈长黑鳞八足巨蜥",
     "种族": "魔兽",
@@ -25,6 +26,11 @@
         "value": "幻啸沙漠一带",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "能力": [
@@ -87,9 +93,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2023
+      "seq": 2041
     },
     "能力": {
       "asOf": null,
@@ -129,7 +135,8 @@
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.893Z"
+  "updatedAt": "2026-06-21T12:00:40.986Z"
 }

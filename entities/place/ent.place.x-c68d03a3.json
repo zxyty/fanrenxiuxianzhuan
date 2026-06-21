@@ -3,13 +3,14 @@
   "type": "place",
   "name": "幻啸沙漠",
   "aliases": [
-    "幻啸沙漠禁地"
+    "幻啸沙漠禁地",
+    "幻啸沙漠绿洲"
   ],
   "summary": "魔界十大禁地之一，入内法力被压制九成、遁术宝物皆失效，只能徒步，幻啸魔风为患，徒步穿越需五六十年。",
   "attributes": {
     "所属界面": "圣界",
     "类型": "沙漠禁地",
-    "危险度": "极高",
+    "危险度": "高（魔尊魔兽出没、压制神念遁术）",
     "守护": "幻啸魔风、落魂风、地湮沙、幻啸魔狼",
     "特产": "八足魔蜥、火云石、矿脉、药田"
   },
@@ -58,6 +59,11 @@
         "value": "极高",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "高（魔尊魔兽出没、压制神念遁术）",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "守护": [
@@ -121,9 +127,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2029
+      "seq": 2041
     },
     "守护": {
       "asOf": null,
@@ -146,7 +152,8 @@
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.897Z"
+  "updatedAt": "2026-06-21T12:00:40.981Z"
 }

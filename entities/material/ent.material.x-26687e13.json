@@ -3,14 +3,15 @@
   "type": "material",
   "name": "血牙米",
   "aliases": [
-    "千年血牙米"
+    "千年血牙米",
+    "上品血牙米"
   ],
   "summary": "魔界稀有特产，半尺长血红米状果实，服之增精血、改善肉身，对血系魔功者可临时激增法力两三成，须特殊奇兽精血浇灌方成。",
   "attributes": {
-    "类型": "魔界特产灵物",
-    "用途": "增进精血、改善肉身、激发血系魔功潜力",
-    "稀有度": "极稀有",
-    "产地": "魔界"
+    "类型": "魔界灵谷/炼丹材料",
+    "用途": "增进精血、改善肉身、激发血系魔功潜力、种子、炼丹材料",
+    "稀有度": "极稀有、不外流",
+    "产地": "蓝瀑湖"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,11 @@
         "value": "魔界特产灵物",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "魔界灵谷/炼丹材料",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "用途": [
@@ -35,6 +41,16 @@
         "value": "激发血系魔功潜力",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "种子",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "炼丹材料",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "稀有度": [
@@ -42,6 +58,11 @@
         "value": "极稀有",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "极稀有、不外流",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "产地": [
@@ -49,6 +70,11 @@
         "value": "魔界",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "蓝瀑湖",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ]
   },
@@ -56,9 +82,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "用途": {
       "asOf": null,
@@ -68,21 +94,22 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 2035
+      "seq": 2041
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-yijin-huanxiao-shamo-2054"
+    "plot.hanli-yijin-huanxiao-shamo-2054",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-21T11:52:53.895Z"
+  "updatedAt": "2026-06-21T12:00:40.976Z"
 }

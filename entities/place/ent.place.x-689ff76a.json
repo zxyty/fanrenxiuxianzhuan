@@ -4,12 +4,15 @@
   "name": "熔岩湖",
   "aliases": [
     "赤红熔岩湖",
-    "熔岩湖底"
+    "熔岩湖底",
+    "地下熔岩湖"
   ],
   "summary": "韩立潜入的熔岩湖，湖底二百余丈深处藏有蓝色光幕禁制，其下连通地下石窟系统",
   "attributes": {
     "危险度": "极高（赤红熔岩，高温）",
-    "特产": "湖底蓝色光幕禁制及地下洞窟入口"
+    "特产": "极品火云石",
+    "类型": "地下熔岩湖",
+    "守护": "魔尊后期魔兽"
   },
   "observations": {
     "危险度": [
@@ -25,6 +28,25 @@
         "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
         "seq": 1177,
         "note": "第1180章发现"
+      },
+      {
+        "value": "极品火云石",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "类型": [
+      {
+        "value": "地下熔岩湖",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "守护": [
+      {
+        "value": "魔尊后期魔兽",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ]
   },
@@ -38,16 +60,28 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.ch1180-rescue-lava-lake-mupeilin",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 1177,
-      "note": "第1180章发现"
+      "seq": 2041
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.ch1180-rescue-lava-lake-mupeilin"
+    "plot.ch1180-rescue-lava-lake-mupeilin",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-19T10:12:28.673Z"
+  "updatedAt": "2026-06-21T12:00:40.983Z"
 }

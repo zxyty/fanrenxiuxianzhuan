@@ -9,16 +9,21 @@
     "黄发大汉",
     "焦黄短发大汉",
     "黄师弟",
-    "黄某"
+    "黄某",
+    "白家黄发大汉",
+    "白家大汉"
   ],
   "summary": "千竹教修士、非元武国人，竞卖会买走傀儡机关兽，以傀儡大军及巨型傀儡虎围杀偷跟的元武国修士。",
   "attributes": {
-    "身份": "护教法王",
-    "阵营": "千竹教",
+    "身份": "傀儡操纵者、护教法王、白家老祖、魔尊",
+    "阵营": "白家",
     "出身地": "他国",
     "性别": "男",
-    "外貌": "焦黄短发、相貌凶狠的大汉",
-    "性格": "心狠手辣、阴险"
+    "外貌": "黄发大汉",
+    "性格": "心狠手辣、阴险",
+    "种族": "魔族",
+    "小阶段": "合体",
+    "标志特征": "棱形古镜"
   },
   "observations": {
     "身份": [
@@ -31,6 +36,16 @@
         "value": "护教法王",
         "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
         "seq": 229
+      },
+      {
+        "value": "白家老祖",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      },
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "阵营": [
@@ -38,6 +53,11 @@
         "value": "千竹教",
         "docId": "plot.fanren-223-228-midian-jingmai-auction",
         "seq": 223
+      },
+      {
+        "value": "白家",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "出身地": [
@@ -60,6 +80,11 @@
         "value": "焦黄短发、相貌凶狠的大汉",
         "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
         "seq": 229
+      },
+      {
+        "value": "黄发大汉",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
       }
     ],
     "性格": [
@@ -68,21 +93,42 @@
         "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
         "seq": 229
       }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "棱形古镜",
+        "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+        "seq": 2041
+      }
     ]
   },
   "firstSeq": 223,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
-      "dated": false,
-      "seq": 229
-    },
-    "阵营": {
-      "asOf": null,
       "docId": "plot.fanren-223-228-midian-jingmai-auction",
       "dated": false,
       "seq": 223
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     },
     "出身地": {
       "asOf": null,
@@ -99,22 +145,41 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
       "dated": false,
-      "seq": 229
+      "seq": 2041
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
       "dated": false,
       "seq": 229
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
+      "dated": false,
+      "seq": 2041
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-223-228-midian-jingmai-auction",
-    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong"
+    "plot.fanren-ch230-trap-qianzhujiao-hunts-lin-shixiong",
+    "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou"
   ],
-  "updatedAt": "2026-06-14T06:52:19.589Z"
+  "updatedAt": "2026-06-21T12:00:41.001Z"
 }
