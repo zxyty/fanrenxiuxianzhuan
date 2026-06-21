@@ -14,13 +14,14 @@
   "attributes": {
     "称号": "人族三皇之一、儒皇、天元圣皇、天元境之主、圣皇",
     "出身地": "凡人、人族炼体士出身、原为凡人、人族炼体士出身改修儒家",
-    "身份": "天元境统治者、人族至强者、人族三皇之一、天元境之主、天元境强者、三皇之一/天元境之主、顶阶炼体士出身、今主修儒家功法",
+    "身份": "天元境统治者、人族至强者、人族三皇之一、天元境之主、天元境强者、三皇之一/天元境之主、顶阶炼体士出身、今主修儒家功法、三皇之一",
     "标志特征": "肉身强横不逊妖王",
     "种族": "人族",
     "外貌": "白袍中年儒生、中年儒生、儒雅白袍中年儒生、白色儒袍、双耳奇长、体表乳白光环",
     "性格": "从容温和、温和从容、豪爽嗜酒",
     "性别": "男",
-    "小阶段": "合体"
+    "小阶段": "合体",
+    "阵营": "人族"
   },
   "observations": {
     "称号": [
@@ -108,6 +109,11 @@
         "value": "顶阶炼体士出身、今主修儒家功法",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "三皇之一",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "标志特征": [
@@ -187,6 +193,13 @@
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
       }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
     ]
   },
   "firstSeq": 1189,
@@ -245,6 +258,12 @@
       "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
       "dated": false,
       "seq": 1777
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
     }
   },
   "contested": false,
@@ -260,7 +279,8 @@
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1353-lingchong-dacheng",
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:27:34.662Z"
+  "updatedAt": "2026-06-21T05:40:39.808Z"
 }

@@ -11,8 +11,8 @@
     "性别": "女",
     "小阶段": "炼气期三四层",
     "外貌": "十一二岁如画中仙童的女童",
-    "身份": "韩立记名弟子",
-    "标志特征": "冰髓之体(透髓之体)、九岁阴时寒毒发作"
+    "身份": "记名弟子",
+    "标志特征": "冰髓寒魄之体"
   },
   "observations": {
     "性别": [
@@ -46,6 +46,11 @@
         "value": "韩立记名弟子",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "记名弟子",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "标志特征": [
@@ -58,6 +63,11 @@
         "value": "冰髓之体(透髓之体)、九岁阴时寒毒发作",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "冰髓寒魄之体",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ]
   },
@@ -83,22 +93,23 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1777
+      "seq": 1783
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1777
+      "seq": 1783
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:27:34.668Z"
+  "updatedAt": "2026-06-21T05:40:39.765Z"
 }

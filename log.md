@@ -650,3 +650,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T05:11:38.190Z** `ingest` plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun — 第1765-1770章：许家宗庙血魂仪式，韩立助唤醒冰魄仙子 · kind=plot asOf=2026-06-21 entities=35 relations=43 src=01765-01770.md
 - **2026-06-21T05:20:08.462Z** `ingest` plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan — 凡人修仙传 1757-1759：九仙山·白果儿·三对三救人 · kind=plot asOf=2026-06-21 entities=43 relations=46 src=01771-01776.md
 - **2026-06-21T05:27:34.904Z** `ingest` plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi — 凡人修仙传 第1777-1782章｜望气识韩立·白果儿冰髓之体收记名弟子 · kind=plot asOf=2026-06-21 entities=36 relations=38 src=01777-01782.md
+- **2026-06-21T05:40:39.984Z** `ingest` plot.fanren-1789-tianhu-yaonu — 凡人修仙传 第1789章 天狐妖女——万骨真人拉拢韩立 · kind=plot asOf=2026-06-21 entities=60 relations=62 src=01783-01788.md

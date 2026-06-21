@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "妖族七大妖王之一，已先到九仙山。",
   "attributes": {
-    "身份": "七妖王之一",
-    "种族": "妖族"
+    "身份": "妖王",
+    "种族": "妖族",
+    "阵营": "妖族"
   },
   "observations": {
     "身份": [
@@ -14,6 +15,11 @@
         "value": "七妖王之一",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "妖王",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "种族": [
@@ -22,27 +28,41 @@
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
       }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
     ]
   },
   "firstSeq": 1771,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1771
+      "seq": 1783
     },
     "种族": {
       "asOf": null,
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
       "seq": 1771
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:20:08.270Z"
+  "updatedAt": "2026-06-21T05:40:39.771Z"
 }

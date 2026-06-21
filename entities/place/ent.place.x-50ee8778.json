@@ -4,14 +4,16 @@
   "name": "天灵境",
   "aliases": [
     "人族天灵境",
-    "天灵城"
+    "天灵城",
+    "灵皇圣城"
   ],
   "summary": "天妙灵皇统治的人族境域，主城天灵城建于直径百里、据说直通仙界的擎天灵树上，阵眼即擎天灵树。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "人族境域、高空飞岛禁地、人族三皇境之一",
-    "守护": "超级仙阵（阵眼擎天灵树）、擎天灵树（仙阵阵眼）",
-    "所属势力": "人族"
+    "类型": "人族境域、高空飞岛禁地、人族三皇境之一、皇城",
+    "守护": "超级仙阵（阵眼擎天灵树）、擎天灵树（仙阵阵眼）、擎天通灵树及诸多禁制",
+    "所属势力": "人族",
+    "危险度": "极高（魔劫主攻目标）"
   },
   "observations": {
     "所属界面": [
@@ -36,6 +38,11 @@
         "value": "人族三皇境之一",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "皇城",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "守护": [
@@ -48,6 +55,11 @@
         "value": "擎天灵树（仙阵阵眼）",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "擎天通灵树及诸多禁制",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "所属势力": [
@@ -55,6 +67,13 @@
         "value": "人族",
         "docId": "plot.fanren-1323-xuantian-fruit",
         "seq": 1321
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高（魔劫主攻目标）",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ]
   },
@@ -83,6 +102,12 @@
       "docId": "plot.fanren-1323-xuantian-fruit",
       "dated": false,
       "seq": 1321
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
     }
   },
   "contested": false,
@@ -92,7 +117,8 @@
     "plot.fanren-1323-xuantian-fruit",
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1323-xuantian-guoshi",
-    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian"
+    "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-20T09:02:29.379Z"
+  "updatedAt": "2026-06-21T05:40:39.813Z"
 }

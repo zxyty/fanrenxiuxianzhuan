@@ -5,12 +5,13 @@
   "aliases": [
     "灵皇",
     "三皇之一",
-    "人族三皇·灵皇"
+    "人族三皇·灵皇",
+    "灵皇前辈"
   ],
   "summary": "人族三皇之一，简称『灵皇』，统治天灵境，主城天灵城建于直通仙界的擎天灵树上。",
   "attributes": {
-    "称号": "三皇之一·灵皇",
-    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一、三境灵皇、三皇之一",
+    "称号": "人族傀儡术第一",
+    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一、三境灵皇、三皇之一、前任灵皇",
     "种族": "人族",
     "存殁": "死亡",
     "死因": "未渡过大天劫"
@@ -26,6 +27,11 @@
         "value": "三皇之一·灵皇",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      },
+      {
+        "value": "人族傀儡术第一",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "身份": [
@@ -53,6 +59,11 @@
         "value": "三皇之一",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "前任灵皇",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "种族": [
@@ -81,9 +92,9 @@
   "attrProvenance": {
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1411
+      "seq": 1783
     },
     "身份": {
       "asOf": null,
@@ -119,7 +130,8 @@
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
     "plot.fanren-1746-leave-leiming",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T04:44:27.004Z"
+  "updatedAt": "2026-06-21T05:40:39.799Z"
 }

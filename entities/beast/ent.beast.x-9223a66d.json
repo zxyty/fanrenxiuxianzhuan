@@ -7,9 +7,10 @@
   ],
   "summary": "人族玄武境中具托城之力的巨龟，传闻可能即是一只极巨大的雷龟。",
   "attributes": {
-    "能力": "托城之力",
-    "外形": "体大如城的巨龟",
-    "栖息地": "人族玄武境"
+    "能力": "托城之力、托起玄武巨城、水土两种大神通、极强防御",
+    "外形": "庞大如陆地的黑色巨龟",
+    "栖息地": "人族玄武境",
+    "血脉": "真灵玄武"
   },
   "observations": {
     "能力": [
@@ -17,6 +18,21 @@
         "value": "托城之力",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "托起玄武巨城",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "水土两种大神通",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "极强防御",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "外形": [
@@ -24,6 +40,11 @@
         "value": "体大如城的巨龟",
         "docId": "plot.fanren-1353-ling-chong-da-cheng",
         "seq": 1351
+      },
+      {
+        "value": "庞大如陆地的黑色巨龟",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "栖息地": [
@@ -31,6 +52,13 @@
         "value": "人族玄武境",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      }
+    ],
+    "血脉": [
+      {
+        "value": "真灵玄武",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ]
   },
@@ -44,22 +72,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1353-ling-chong-da-cheng",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1351
+      "seq": 1783
     },
     "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
       "seq": 1351
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-20T09:51:18.995Z"
+  "updatedAt": "2026-06-21T05:40:39.772Z"
 }

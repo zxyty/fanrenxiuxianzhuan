@@ -10,7 +10,9 @@
   "attributes": {
     "阵营": "人族/圣岛",
     "小阶段": "大乘期",
-    "称号": "定海神针"
+    "称号": "定海神针",
+    "种族": "人族",
+    "身份": "圣岛之人"
   },
   "observations": {
     "阵营": [
@@ -33,6 +35,20 @@
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ],
+    "身份": [
+      {
+        "value": "圣岛之人",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
     ]
   },
   "firstSeq": 1759,
@@ -54,13 +70,26 @@
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
       "seq": 1759
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:04:10.128Z"
+  "updatedAt": "2026-06-21T05:40:39.798Z"
 }

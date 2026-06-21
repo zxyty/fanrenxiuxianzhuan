@@ -13,9 +13,9 @@
   ],
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
-    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域、数万年一次与灵界重合降临魔劫",
-    "通道": "魔金山脉空间裂缝",
-    "主宰势力": "古魔、圣祖"
+    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域、数万年一次与灵界重合降临魔劫、凶险，圣祖相当于人族大乘期",
+    "通道": "天灵境擎天通灵树附近最先交融",
+    "主宰势力": "古魔圣祖"
   },
   "observations": {
     "特点": [
@@ -48,6 +48,11 @@
         "value": "数万年一次与灵界重合降临魔劫",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "凶险，圣祖相当于人族大乘期",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "通道": [
@@ -60,6 +65,11 @@
         "value": "魔金山脉空间裂缝",
         "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
         "seq": 1621
+      },
+      {
+        "value": "天灵境擎天通灵树附近最先交融",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "主宰势力": [
@@ -77,6 +87,11 @@
         "value": "古魔、圣祖",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "古魔圣祖",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ]
   },
@@ -90,15 +105,15 @@
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1621
+      "seq": 1783
     },
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1759
+      "seq": 1783
     }
   },
   "contested": false,
@@ -115,7 +130,8 @@
     "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
     "plot.fanren-1649-san-mo",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:11:38.015Z"
+  "updatedAt": "2026-06-21T05:40:39.816Z"
 }

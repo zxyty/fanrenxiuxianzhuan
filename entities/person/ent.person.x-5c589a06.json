@@ -1,0 +1,48 @@
+{
+  "id": "ent.person.x-5c589a06",
+  "type": "person",
+  "name": "谷晓风",
+  "aliases": [],
+  "summary": "谷家女修，韩立已答应在真灵大典上相助；谷家与叶家素来交好。",
+  "attributes": {
+    "性别": "女",
+    "身份": "谷家弟子"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ],
+    "身份": [
+      {
+        "value": "谷家弟子",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ]
+  },
+  "firstSeq": 1783,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1789-tianhu-yaonu"
+  ],
+  "updatedAt": "2026-06-21T05:40:39.807Z"
+}

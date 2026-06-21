@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "灵界银月狼族之王，玲珑之夫。",
   "attributes": {
-    "种族": "狼族",
+    "种族": "妖族",
     "称号": "天奎狼王",
-    "身份": "七大妖王之一"
+    "身份": "妖王"
   },
   "observations": {
     "种族": [
@@ -20,6 +20,11 @@
         "value": "狼族",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "称号": [
@@ -34,6 +39,11 @@
         "value": "七大妖王之一",
         "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
         "seq": 1303
+      },
+      {
+        "value": "妖王",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ]
   },
@@ -41,9 +51,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1303
+      "seq": 1783
     },
     "称号": {
       "asOf": null,
@@ -53,16 +63,17 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1303
+      "seq": 1783
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1063-xuanwo-heifengqi",
-    "plot.fanren-1305-battle-of-the-giant-hundun-valley"
+    "plot.fanren-1305-battle-of-the-giant-hundun-valley",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-16T11:47:43.482Z"
+  "updatedAt": "2026-06-21T05:40:39.806Z"
 }

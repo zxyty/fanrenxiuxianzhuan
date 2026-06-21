@@ -1,0 +1,79 @@
+{
+  "id": "ent.event.x-6ea5217d",
+  "type": "event",
+  "name": "魔劫",
+  "aliases": [
+    "魔灾"
+  ],
+  "summary": "古魔族降临的浩劫，将于千年内爆发；上次魔劫人妖合体期散修陨落大半，亦有三妖王一人皇战死。",
+  "attributes": {
+    "参与方": "古魔族、人族、妖族",
+    "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生",
+    "起因": "魔界与灵界界面交融"
+  },
+  "observations": {
+    "参与方": [
+      {
+        "value": "古魔族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ],
+    "影响": [
+      {
+        "value": "散修各自为战被古魔围剿、伤亡惨重",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "新任灵皇须死守天灵城、九死一生",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ],
+    "起因": [
+      {
+        "value": "魔界与灵界界面交融",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      }
+    ]
+  },
+  "firstSeq": 1783,
+  "attrProvenance": {
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1789-tianhu-yaonu"
+  ],
+  "updatedAt": "2026-06-21T05:40:39.816Z"
+}

@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "九仙山下专供合体期修士居住的白玉宫殿，十余层，每层独立布局、各有传送法阵与唯一禁制令牌。",
   "attributes": {
-    "类型": "合体期居所",
+    "类型": "合体期居所、宫殿/住所、居所宫殿",
     "守护": "禁制令牌"
   },
   "observations": {
@@ -14,6 +14,16 @@
         "value": "合体期居所",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "宫殿/住所",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
+      },
+      {
+        "value": "居所宫殿",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "守护": [
@@ -42,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T05:27:34.699Z"
+  "updatedAt": "2026-06-21T05:40:39.815Z"
 }

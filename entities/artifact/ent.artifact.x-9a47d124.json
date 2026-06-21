@@ -10,8 +10,8 @@
   "summary": "后天玄天之宝，由五座异属山峰合炼而成；单件离合极山即可翻山倒海，祭出可削弱雷劫威能小半。",
   "attributes": {
     "品阶": "后天玄天之宝",
-    "能力": "五座顶阶通天灵宝合一、祭出削弱雷劫威能小半、削弱雷劫小半威能",
-    "来历": "由五座极山组成",
+    "能力": "五座顶阶通天灵宝合一、祭出削弱雷劫威能小半、削弱雷劫小半威能、应对/压制大天劫",
+    "来历": "需集齐五座极山材料炼制",
     "禁制": "炼制须合体期以上修为",
     "外形": "五座山峰",
     "持有者": "韩立"
@@ -39,6 +39,11 @@
         "value": "削弱雷劫小半威能",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "应对/压制大天劫",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "来历": [
@@ -51,6 +56,11 @@
         "value": "由五座极山组成",
         "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
         "seq": 1687
+      },
+      {
+        "value": "需集齐五座极山材料炼制",
+        "docId": "plot.fanren-1789-tianhu-yaonu",
+        "seq": 1783
       }
     ],
     "禁制": [
@@ -91,9 +101,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 1687
+      "seq": 1783
     },
     "禁制": {
       "asOf": null,
@@ -118,7 +128,8 @@
   "contradictions": {},
   "docs": [
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
-    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu"
+    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+    "plot.fanren-1789-tianhu-yaonu"
   ],
-  "updatedAt": "2026-06-21T03:09:57.672Z"
+  "updatedAt": "2026-06-21T05:40:39.777Z"
 }
