@@ -3,13 +3,15 @@
   "type": "event",
   "name": "广灵道果大会",
   "aliases": [
-    "道果大会"
+    "道果大会",
+    "广灵道大会"
   ],
   "summary": "真龙金龙大长老将于数百年后在真龙之岛召开，各界真灵与部分大乘存在受邀参加。",
   "attributes": {
-    "地点": "真龙之岛",
-    "参与方": "各界真灵、部分大乘存在",
-    "起因": "金龙大长老召开"
+    "地点": "龙岛",
+    "参与方": "各界真灵、部分大乘存在、真龙族、各界强者千人、韩立、田飞儿",
+    "起因": "金龙大长老召开",
+    "影响": "得广灵道果者修炼参悟激增七八倍"
   },
   "observations": {
     "地点": [
@@ -17,6 +19,11 @@
         "value": "真龙之岛",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "龙岛",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "参与方": [
@@ -29,6 +36,26 @@
         "value": "部分大乘存在",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "真龙族",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      },
+      {
+        "value": "各界强者千人",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      },
+      {
+        "value": "田飞儿",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "起因": [
@@ -37,15 +64,22 @@
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
       }
+    ],
+    "影响": [
+      {
+        "value": "得广灵道果者修炼参悟激增七八倍",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      }
     ]
   },
   "firstSeq": 2167,
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 2167
+      "seq": 2311
     },
     "参与方": {
       "asOf": null,
@@ -58,12 +92,19 @@
       "docId": "plot.fanren-2167-2172-jinjie-dasheng",
       "dated": false,
       "seq": 2167
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T15:09:48.858Z"
+  "updatedAt": "2026-06-21T17:40:04.944Z"
 }

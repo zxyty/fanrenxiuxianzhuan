@@ -754,3 +754,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:31:29.566Z** `ingest` plot.fanren-2293-2298-qingyuan-jie — 凡人修仙传 第2293-2298章｜青元之劫：青元子渡天劫·谷外三大乘围攻·韩立救场 · kind=plot asOf=2026-06-21 entities=25 relations=31 src=02293-02298.md
 - **2026-06-21T17:34:22.677Z** `ingest` plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai — 谷外大战终局・韩立赴赤融山脉赫连商盟拍卖会（第2318-2323章） · kind=plot asOf=2026-06-21 entities=27 relations=28 src=02299-02304.md
 - **2026-06-21T17:37:08.274Z** `ingest` plot.fanren-ch2324-2328-helian-auction-fanyuan — 凡人修仙传 第2324-2328章｜风元大陆赫连商盟拍卖会·改道血天与翻天旗现世 · kind=plot asOf=2026-06-21 entities=28 relations=24 src=02305-02310.md
+- **2026-06-21T17:40:05.164Z** `ingest` plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier — 凡人修仙传 第2330-2335章｜玉书再现·劫走魇龙之血·田飞儿登场 · kind=plot asOf=2026-06-21 entities=31 relations=33 src=02311-02316.md

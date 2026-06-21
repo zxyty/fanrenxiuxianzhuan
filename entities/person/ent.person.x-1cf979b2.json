@@ -3,13 +3,14 @@
   "type": "person",
   "name": "胡玉双",
   "aliases": [
-    "胡仙子"
+    "胡仙子",
+    "胡丫头"
   ],
   "summary": "三尾媚狐，赫连商盟拍卖会主持人，血天来客、胡老五嫡系后人。",
   "attributes": {
     "种族": "三尾媚狐",
     "性别": "女",
-    "身份": "拍卖会主持人",
+    "身份": "赫连商盟拍卖主持",
     "出身地": "血天大陆",
     "标志特征": "三条粉红尾巴"
   },
@@ -33,6 +34,11 @@
         "value": "拍卖会主持人",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "赫连商盟拍卖主持",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "出身地": [
@@ -66,9 +72,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 2305
+      "seq": 2311
     },
     "出身地": {
       "asOf": null,
@@ -86,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T17:37:08.062Z"
+  "updatedAt": "2026-06-21T17:40:04.920Z"
 }

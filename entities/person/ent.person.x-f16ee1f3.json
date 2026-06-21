@@ -10,10 +10,11 @@
   ],
   "summary": "五龙海筑基修士，三老中的主事者，邀韩立联手夺取村中大权，被拒后派人暗中监视韩立。",
   "attributes": {
-    "小阶段": "筑基期",
-    "外貌": "长须",
+    "小阶段": "大乘",
+    "外貌": "身材矮小、长须、灰袍",
     "出身地": "五龙海",
-    "身份": "落难修士"
+    "身份": "落难修士",
+    "种族": "真龙族"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +22,11 @@
         "value": "筑基期",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "外貌": [
@@ -28,6 +34,11 @@
         "value": "长须",
         "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
         "seq": 583
+      },
+      {
+        "value": "身材矮小、长须、灰袍",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "出身地": [
@@ -43,21 +54,28 @@
         "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
         "seq": 583
       }
+    ],
+    "种族": [
+      {
+        "value": "真龙族",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      }
     ]
   },
   "firstSeq": 583,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 583
+      "seq": 2311
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 583
+      "seq": 2311
     },
     "出身地": {
       "asOf": null,
@@ -70,13 +88,20 @@
       "docId": "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
       "dated": false,
       "seq": 583
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-583-588-yinmingzhidi-yaowen-meining",
-    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling"
+    "plot.fanren-ch583-588-yinming-zhidi-meining-tongling",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-17T07:33:32.202Z"
+  "updatedAt": "2026-06-21T17:40:04.919Z"
 }

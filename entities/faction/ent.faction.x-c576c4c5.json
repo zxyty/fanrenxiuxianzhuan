@@ -10,8 +10,9 @@
   "summary": "横跨数个大陆的超级商盟，于赤融山脉黑焦峰举办拍卖会，主事人明尊。",
   "attributes": {
     "等级": "超级势力",
-    "据点": "风元大陆",
-    "理念": "横跨数大陆的商业联盟"
+    "据点": "风元大陆洞天",
+    "理念": "横跨数大陆的商业联盟",
+    "所属界面": "灵界"
   },
   "observations": {
     "等级": [
@@ -31,6 +32,11 @@
         "value": "风元大陆",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "风元大陆洞天",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "理念": [
@@ -38,6 +44,13 @@
         "value": "横跨数大陆的商业联盟",
         "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
         "seq": 2299
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ]
   },
@@ -51,22 +64,29 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 2305
+      "seq": 2311
     },
     "理念": {
       "asOf": null,
       "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
       "seq": 2299
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T17:37:08.068Z"
+  "updatedAt": "2026-06-21T17:40:04.928Z"
 }

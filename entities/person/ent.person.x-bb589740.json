@@ -6,16 +6,19 @@
     "清瘦老者",
     "唐兄",
     "唐道友",
-    "清瘦元婴老者"
+    "清瘦元婴老者",
+    "清瘦长老",
+    "清瘦商盟长老"
   ],
   "summary": "逆星盟元婴中期修士，持青镜蓝色飞剑，与海族胖头陀苦战，自爆古宝后以紫色锦帕遁逃。",
   "attributes": {
-    "小阶段": "元婴中期",
+    "小阶段": "大乘",
     "阵营": "逆星盟",
     "外貌": "身穿蓝袍、相貌清瘦、清瘦老者、蓝袍清瘦",
     "存殁": "死亡、重伤被封印",
     "死因": "被金蛟王金枪洞穿前胸、元婴遭封印",
-    "种族": "人类"
+    "种族": "人类",
+    "身份": "赫连商盟长老"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +26,11 @@
         "value": "元婴中期",
         "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
         "seq": 1141
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "阵营": [
@@ -74,15 +82,22 @@
         "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
         "seq": 1147
       }
+    ],
+    "身份": [
+      {
+        "value": "赫连商盟长老",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      }
     ]
   },
   "firstSeq": 1141,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1141-1146-capture-jiyin-zushi",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 1141
+      "seq": 2311
     },
     "阵营": {
       "asOf": null,
@@ -113,6 +128,12 @@
       "docId": "plot.fanren-1147-1152-jiaoyu-duobao",
       "dated": false,
       "seq": 1147
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
     }
   },
   "contested": false,
@@ -121,7 +142,8 @@
     "plot.fanren-1141-1146-capture-jiyin-zushi",
     "plot.fanren-ch1149-jinjiao-xiongyan",
     "plot.fanren-1143-yinsha-xueshi",
-    "plot.fanren-1147-1152-jiaoyu-duobao"
+    "plot.fanren-1147-1152-jiaoyu-duobao",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-18T12:01:49.583Z"
+  "updatedAt": "2026-06-21T17:40:04.922Z"
 }

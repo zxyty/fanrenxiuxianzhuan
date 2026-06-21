@@ -5,12 +5,13 @@
   "aliases": [
     "紫睛龙",
     "紫睛真龙",
-    "银衫少年"
+    "银衫少年",
+    "樊咆子师兄"
   ],
   "summary": "真龙之一，因争物与七首枭恶斗负伤，化十五六岁银衫少年与韩立结善缘，赠银鳞请帖。",
   "attributes": {
     "性别": "男",
-    "种族": "真龙",
+    "种族": "真龙族",
     "称号": "紫睛龙",
     "外貌": "十五六岁银衫少年",
     "标志特征": "通体银鳞巨龙,紫眼金角四长须"
@@ -28,6 +29,11 @@
         "value": "真龙",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "真龙族",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "称号": [
@@ -63,9 +69,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 2167
+      "seq": 2311
     },
     "称号": {
       "asOf": null,
@@ -90,7 +96,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T15:09:48.850Z"
+  "updatedAt": "2026-06-21T17:40:04.924Z"
 }

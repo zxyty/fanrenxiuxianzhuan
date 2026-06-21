@@ -5,11 +5,12 @@
   "aliases": [
     "总执事",
     "明大人",
-    "明前辈"
+    "明前辈",
+    "明兄"
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "赫连商盟风元大陆总执事",
+    "身份": "赫连商盟风元大陆主事人",
     "外貌": "红发老者",
     "小阶段": "大乘"
   },
@@ -19,6 +20,11 @@
         "value": "赫连商盟风元大陆总执事",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "赫连商盟风元大陆主事人",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ],
     "外貌": [
@@ -40,9 +46,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
-      "seq": 2305
+      "seq": 2311
     },
     "外貌": {
       "asOf": null,
@@ -60,7 +66,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T17:37:08.060Z"
+  "updatedAt": "2026-06-21T17:40:04.921Z"
 }

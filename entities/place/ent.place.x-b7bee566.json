@@ -8,7 +8,9 @@
   "summary": "传说独立于数界面间独特空间的岛屿，以蛟龙真龙类真灵为主，真龙就有十余条，将办广灵道果大会。",
   "attributes": {
     "类型": "独立空间之岛",
-    "守护": "真龙等真灵存在"
+    "守护": "真龙等真灵存在",
+    "所属界面": "灵界",
+    "所属势力": "真龙族"
   },
   "observations": {
     "类型": [
@@ -23,6 +25,20 @@
         "value": "真龙等真灵存在",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "真龙族",
+        "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+        "seq": 2311
       }
     ]
   },
@@ -39,12 +55,25 @@
       "docId": "plot.fanren-2167-2172-jinjie-dasheng",
       "dated": false,
       "seq": 2167
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "dated": false,
+      "seq": 2311
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
   ],
-  "updatedAt": "2026-06-21T15:09:48.857Z"
+  "updatedAt": "2026-06-21T17:40:04.947Z"
 }
