@@ -1,65 +1,69 @@
 {
-  "id": "ent.spell.x-59c6429c",
-  "type": "spell",
-  "name": "噬灵真火",
+  "id": "ent.formation.x-b8eab8da",
+  "type": "formation",
+  "name": "雷光法阵",
   "aliases": [
-    "噬灵火焰",
-    "噬灵神火"
+    "雷光法阵之术"
   ],
-  "summary": "韩立喷出化为噬灵火鸟的银焰真火，能沸腾溶解门上金银光霞。",
+  "summary": "雷云子独创的雷系法阵，可将体内雷电随时化为各种法阵以困敌/攻击/防御。",
   "attributes": {
-    "类型": "真火/吞噬类神通",
-    "威力": "吞噬天地能量、克制魔物邪气",
-    "适用境界": "高阶"
+    "出处": "雷云子独创",
+    "效果": "困敌、雷电攻击、雷电防御、化雷阵传送/现身",
+    "布置者": "雷云子"
   },
   "observations": {
-    "类型": [
+    "出处": [
       {
-        "value": "异火神通",
-        "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
-        "seq": 1705
-      },
-      {
-        "value": "真火/吞噬类神通",
+        "value": "雷云子独创",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
       }
     ],
-    "威力": [
+    "效果": [
       {
-        "value": "吞噬天地能量",
+        "value": "困敌",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
       },
       {
-        "value": "克制魔物邪气",
+        "value": "雷电攻击",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      },
+      {
+        "value": "雷电防御",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      },
+      {
+        "value": "化雷阵传送/现身",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
       }
     ],
-    "适用境界": [
+    "布置者": [
       {
-        "value": "高阶",
+        "value": "雷云子",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
       }
     ]
   },
-  "firstSeq": 1705,
+  "firstSeq": 1741,
   "attrProvenance": {
-    "类型": {
+    "出处": {
       "asOf": null,
       "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
       "seq": 1741
     },
-    "威力": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
       "seq": 1741
     },
-    "适用境界": {
+    "布置者": {
       "asOf": null,
       "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
@@ -69,9 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
     "plot.fanren-1746-leave-leiming"
   ],
-  "updatedAt": "2026-06-21T04:24:30.042Z"
+  "updatedAt": "2026-06-21T04:24:30.063Z"
 }

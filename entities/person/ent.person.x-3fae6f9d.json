@@ -24,7 +24,7 @@
   "summary": "黄枫谷仅十一层功法的滑头老者，欲拉拢低微弟子结盟自保，被韩立拒绝。",
   "attributes": {
     "小阶段": "炼气期十一层、炼气期十层、化神、疑似化神期、化神期、结丹期、结丹",
-    "身份": "黄枫谷弟子、弱者联盟倡导者、护法、慕兰大上师、天符门低阶弟子、大晋修士前辈、化神修士、天符门长老、镇魔塔相关知情修士、客栈帮工",
+    "身份": "黄枫谷弟子、弱者联盟倡导者、护法、慕兰大上师、天符门低阶弟子、大晋修士前辈、化神修士、天符门长老、镇魔塔相关知情修士、客栈帮工、人界顶点人族存在",
     "性格": "圆滑滑头、不可信、油嘴滑舌、善于撮合奉承、滑头投机、圆滑而强势、圆滑老练、沉稳、重长远利益、圆滑、老练",
     "外貌": "黄衫老者、黄衫无须老者、与二百多年前几无变化的老者、笑嘻嘻圆滑老者、满头白发、满脸皱纹、两眼细小、圆滑老者、面容苍老、两眼细小、一脸圆滑、小眼老者、灰袍白发病容、黄袍老者",
     "阵营": "黄枫谷、魔道六宗、大晋、人类修士、魔道",
@@ -33,7 +33,7 @@
     "性别": "男",
     "出身地": "人界",
     "存殁": "生死不明、死亡、存活",
-    "死因": "陨落于空间节点",
+    "死因": "肉身被血影侵占、元神被吞噬",
     "种族": "人族"
   },
   "observations": {
@@ -127,6 +127,11 @@
         "value": "客栈帮工",
         "docId": "plot.fanren-1573-1578-yunnianzhu-yuncheng",
         "seq": 1573
+      },
+      {
+        "value": "人界顶点人族存在",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "性格": [
@@ -338,6 +343,11 @@
         "value": "陨落于空间节点",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "肉身被血影侵占、元神被吞噬",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "种族": [
@@ -414,9 +424,9 @@
     },
     "死因": {
       "asOf": null,
-      "docId": "plot.fanren-1251-li-ya-er-yao",
+      "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
-      "seq": 1249
+      "seq": 1741
     },
     "种族": {
       "asOf": null,
@@ -451,7 +461,8 @@
     "plot.fanren-1251-li-ya-er-yao",
     "plot.fanren-1257-lianshou-zhiyi-bingfeng",
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
-    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+    "plot.fanren-1746-leave-leiming"
   ],
-  "updatedAt": "2026-06-21T04:11:53.081Z"
+  "updatedAt": "2026-06-21T04:24:30.037Z"
 }

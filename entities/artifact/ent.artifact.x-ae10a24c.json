@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-ae10a24c",
+  "type": "artifact",
+  "name": "百灵如意",
+  "aliases": [
+    "银色如意状法宝"
+  ],
+  "summary": "被困四人中儒生所持银色如意状法宝，抵挡石元龟触手巨网大半压力。",
+  "attributes": {
+    "持有者": "断臂儒生",
+    "外形": "银色如意状"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "断臂儒生",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ],
+    "外形": [
+      {
+        "value": "银色如意状",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ]
+  },
+  "firstSeq": 1741,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1746-leave-leiming"
+  ],
+  "updatedAt": "2026-06-21T04:24:30.070Z"
+}

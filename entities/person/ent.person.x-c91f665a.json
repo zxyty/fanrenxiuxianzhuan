@@ -9,8 +9,9 @@
   "summary": "炼气期儒生，坊市常住自由掮客（‘风行子’），向韩立牵线引入秘店竞卖会。",
   "attributes": {
     "小阶段": "炼气期",
-    "身份": "叶家大长老",
-    "外貌": "儒生"
+    "身份": "玄武境宗门修士",
+    "外貌": "儒生",
+    "出身地": "玄武境"
   },
   "observations": {
     "小阶段": [
@@ -35,6 +36,11 @@
         "value": "叶家大长老",
         "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
         "seq": 997
+      },
+      {
+        "value": "玄武境宗门修士",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "外貌": [
@@ -42,6 +48,13 @@
         "value": "儒生",
         "docId": "plot.fanren-ch242-zhifu-biguan",
         "seq": 241
+      }
+    ],
+    "出身地": [
+      {
+        "value": "玄武境",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ]
   },
@@ -55,15 +68,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-997-1002-kunwushan-qian-laomo",
+      "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
-      "seq": 997
+      "seq": 1741
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-ch242-zhifu-biguan",
       "dated": false,
       "seq": 241
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
     }
   },
   "contested": false,
@@ -71,7 +90,8 @@
   "docs": [
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
     "plot.fanren-ch242-zhifu-biguan",
-    "plot.fanren-997-1002-kunwushan-qian-laomo"
+    "plot.fanren-997-1002-kunwushan-qian-laomo",
+    "plot.fanren-1746-leave-leiming"
   ],
-  "updatedAt": "2026-06-18T03:51:46.732Z"
+  "updatedAt": "2026-06-21T04:24:30.093Z"
 }

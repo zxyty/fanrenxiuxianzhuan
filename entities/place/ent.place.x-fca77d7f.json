@@ -16,16 +16,17 @@
     "人族天渊城",
     "天渊城本地",
     "天渊城巨塔",
-    "石塔驻地"
+    "石塔驻地",
+    "天渊城入口"
   ],
   "summary": "灵界中聚集飞升修士、专应对外族大敌的城池，三境七地中唯一不受三圣皇七妖王管辖，由长老会主理。",
   "attributes": {
     "所属界面": "蛮荒界",
-    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池、城池/据点",
-    "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫、巨墙禁制、传送阵、执法天卫、人妖两族",
+    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池、城池/据点、城市/唯一出入口、人妖两族驻守巨城",
+    "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫、巨墙禁制、传送阵、执法天卫、人妖两族、天渊长老会（十名合体以上长老）、青冥卫、黑卫",
     "所属势力": "叶家",
     "特产": "丰富炼丹材料、珍稀符箓材料、一次性小型传送法盘、万里符",
-    "危险度": "高(异族攻城前线)、极高"
+    "危险度": "高(异族攻城前线)、极高、固若金汤"
   },
   "observations": {
     "所属界面": [
@@ -150,6 +151,16 @@
         "value": "城池/据点",
         "docId": "plot.fanren-1369-1374-black-leaf-forest-muzu",
         "seq": 1369
+      },
+      {
+        "value": "城市/唯一出入口",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      },
+      {
+        "value": "人妖两族驻守巨城",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "守护": [
@@ -202,6 +213,21 @@
         "value": "人妖两族",
         "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
+      },
+      {
+        "value": "天渊长老会（十名合体以上长老）",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      },
+      {
+        "value": "青冥卫",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      },
+      {
+        "value": "黑卫",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "所属势力": [
@@ -253,6 +279,11 @@
         "value": "极高",
         "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
+      },
+      {
+        "value": "固若金汤",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ]
   },
@@ -331,7 +362,8 @@
     "plot.fanren-1381-1386-tianfeng-zhiling-mulin-zhizhan",
     "plot.fanren-1387-1392-juji-tumou-zhenchan",
     "plot.fanren-1438-1440-yinzhufeng-juilinghua",
-    "plot.fanren-1492-da-zhan-ming-lei-shou"
+    "plot.fanren-1492-da-zhan-ming-lei-shou",
+    "plot.fanren-1746-leave-leiming"
   ],
-  "updatedAt": "2026-06-20T13:22:02.087Z"
+  "updatedAt": "2026-06-21T04:24:30.104Z"
 }

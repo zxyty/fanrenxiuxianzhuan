@@ -643,3 +643,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T03:47:49.993Z** `ingest` plot.fanren-1728-1733-hunyuanchi-rongzu-lianshenshu — 第1728-1733章 混元尺现威·戎族追杀与炼神术之约 · kind=plot asOf=2026-06-21 entities=0 relations=0 src=01723-01728.md
 - **2026-06-21T03:59:44.794Z** `ingest` plot.fanren-1734-stone-wall-spirit-script — 凡人修仙传 第1734章 石壁灵文：韩立潜入密洞复制金篆文功法、连擒戎族炼虚 · kind=plot asOf=2026-06-21 entities=28 relations=31 src=01729-01734.md
 - **2026-06-21T04:11:53.264Z** `ingest` plot.fanren-1735-1740-yuncheng-luan-xuling-baoding — 凡人修仙传 第1735-1740章｜云城之乱・虚天鼎重现・伏蛟城偶遇 · kind=plot asOf=2026-06-21 entities=45 relations=58 src=01735-01740.md
+- **2026-06-21T04:24:30.275Z** `ingest` plot.fanren-1746-leave-leiming — 凡人修仙传 第1746章 离开雷鸣：韩立诛血影、撤离伏蛟城 · kind=plot asOf=2026-06-21 entities=44 relations=47 src=01741-01746.md

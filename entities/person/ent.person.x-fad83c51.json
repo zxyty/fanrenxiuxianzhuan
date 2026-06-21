@@ -10,8 +10,10 @@
   "summary": "人族三皇之一，简称『灵皇』，统治天灵境，主城天灵城建于直通仙界的擎天灵树上。",
   "attributes": {
     "称号": "三皇之一·灵皇",
-    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一",
-    "种族": "人族"
+    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一、三境灵皇",
+    "种族": "人族",
+    "存殁": "死亡",
+    "死因": "未渡过大天劫"
   },
   "observations": {
     "称号": [
@@ -41,6 +43,11 @@
         "value": "人族三皇之一",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "三境灵皇",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ],
     "种族": [
@@ -48,6 +55,20 @@
         "value": "人族",
         "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
         "seq": 1411
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ],
+    "死因": [
+      {
+        "value": "未渡过大天劫",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
       }
     ]
   },
@@ -70,6 +91,18 @@
       "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
       "seq": 1411
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
     }
   },
   "contested": false,
@@ -79,7 +112,8 @@
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
     "plot.fanren-1267-1272-anyuan-city",
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
+    "plot.fanren-1746-leave-leiming"
   ],
-  "updatedAt": "2026-06-20T11:18:12.709Z"
+  "updatedAt": "2026-06-21T04:24:30.095Z"
 }

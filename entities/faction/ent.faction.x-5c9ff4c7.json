@@ -1,0 +1,62 @@
+{
+  "id": "ent.faction.x-5c9ff4c7",
+  "type": "faction",
+  "name": "天渊长老会",
+  "aliases": [],
+  "summary": "独成一系、专司天渊城防御的长老会，仅十名成员皆合体以上，缺额即从人妖两族另选合体期补入。",
+  "attributes": {
+    "等级": "合体以上",
+    "据点": "天渊城",
+    "理念": "守护天渊城防御"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "合体以上",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ],
+    "据点": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ],
+    "理念": [
+      {
+        "value": "守护天渊城防御",
+        "docId": "plot.fanren-1746-leave-leiming",
+        "seq": 1741
+      }
+    ]
+  },
+  "firstSeq": 1741,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1746-leave-leiming",
+      "dated": false,
+      "seq": 1741
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1746-leave-leiming"
+  ],
+  "updatedAt": "2026-06-21T04:24:30.074Z"
+}
