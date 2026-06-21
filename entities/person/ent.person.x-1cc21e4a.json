@@ -3,14 +3,20 @@
   "type": "person",
   "name": "凶司王",
   "aliases": [
-    "阴司王（误称）"
+    "阴司王（误称）",
+    "阴司鬼王",
+    "凶司王巨人",
+    "Xiongsi Wang"
   ],
   "summary": "冥界阴司十王之一，牛首人身、夺舍凶兽身躯炼成，肉身极强。",
   "attributes": {
-    "种族": "鬼物",
-    "身份": "阴司十王之一",
+    "种族": "鬼修/厉鬼之属",
+    "身份": "鬼王",
     "外貌": "身高两丈、牛首人身、灰白皮肤、黑甲尖刺",
-    "标志特征": "持血红狼牙棒、可炼阴魔"
+    "标志特征": "持血红狼牙棒、可炼阴魔、体表上千鬼脸、战甲尖刺",
+    "性格": "凶厉、重伤不退反进",
+    "存殁": "死亡",
+    "死因": "韩立玄天斩灵剑法则镇压斩杀，残气被噬金虫王扫净、被韩立一对一斩杀"
   },
   "observations": {
     "种族": [
@@ -18,6 +24,11 @@
         "value": "鬼物",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      },
+      {
+        "value": "鬼修/厉鬼之属",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "身份": [
@@ -25,6 +36,11 @@
         "value": "阴司十王之一",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      },
+      {
+        "value": "鬼王",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "外貌": [
@@ -39,6 +55,43 @@
         "value": "持血红狼牙棒、可炼阴魔",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      },
+      {
+        "value": "体表上千鬼脸",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      },
+      {
+        "value": "战甲尖刺",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      }
+    ],
+    "性格": [
+      {
+        "value": "凶厉、重伤不退反进",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359,
+        "note": "山峰本体被韩立玄天斩灵剑+噬金虫王灭杀；另一世界阴魂海青石棺中尚有残存黑影苏醒，欲重铸肉身复仇"
+      }
+    ],
+    "死因": [
+      {
+        "value": "韩立玄天斩灵剑法则镇压斩杀，残气被噬金虫王扫净",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      },
+      {
+        "value": "被韩立一对一斩杀",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ]
   },
@@ -46,15 +99,15 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2372-six-wings-reappear",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 2353
+      "seq": 2359
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2372-six-wings-reappear",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 2353
+      "seq": 2359
     },
     "外貌": {
       "asOf": null,
@@ -67,12 +120,32 @@
       "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
       "seq": 2353
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359,
+      "note": "山峰本体被韩立玄天斩灵剑+噬金虫王灭杀；另一世界阴魂海青石棺中尚有残存黑影苏醒，欲重铸肉身复仇"
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2372-six-wings-reappear"
+    "plot.fanren-2372-six-wings-reappear",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T18:41:52.698Z"
+  "updatedAt": "2026-06-21T18:53:49.786Z"
 }

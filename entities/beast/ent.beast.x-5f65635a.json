@@ -6,15 +6,16 @@
     "虫王",
     "紫金小人",
     "金儿",
-    "晶莹小人"
+    "晶莹小人",
+    "尺许金色小人"
   ],
   "summary": "传闻中的噬金虫之王，现世可令大乘修士乃至真仙退避，从无人真正培育出。",
   "attributes": {
     "等级": "传闻媲美真仙",
     "种族": "噬金虫",
     "主人": "韩立",
-    "能力": "金光绞杀、寒气剑光、晶光剑气/无形剑气、瞬移、斩杀同阶大乘",
-    "外形": "金色小人"
+    "能力": "金光绞杀、寒气剑光、晶光剑气/无形剑气、瞬移、斩杀同阶大乘、晶目喷晶光（十余丈晶光交叉斩）、体内无形剑气",
+    "外形": "面无表情的尺许金色小人"
   },
   "observations": {
     "等级": [
@@ -68,6 +69,16 @@
         "value": "斩杀同阶大乘",
         "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
         "seq": 2299
+      },
+      {
+        "value": "晶目喷晶光（十余丈晶光交叉斩）",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      },
+      {
+        "value": "体内无形剑气",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "外形": [
@@ -90,6 +101,12 @@
         "value": "金色小人",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "面无表情的尺许金色小人",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359,
+        "note": "化形战斗形态"
       }
     ]
   },
@@ -121,9 +138,10 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 2347
+      "seq": 2359,
+      "note": "化形战斗形态"
     }
   },
   "contested": false,
@@ -136,7 +154,8 @@
     "plot.fanren-2270-jiuyuanguan",
     "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T18:28:45.163Z"
+  "updatedAt": "2026-06-21T18:53:49.748Z"
 }

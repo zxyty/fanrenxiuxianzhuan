@@ -12,9 +12,10 @@
     "种族": "鸣族",
     "小阶段": "合体初期",
     "身份": "阵法宗师、雷电传送阵法创立者、一族少主",
-    "标志特征": "五雷之体、身躯可在实体与雷电间转化、红发络腮胡、鹰钩鼻、赤色羽翅、操控银色雷阵传送、浑身电蛇狂舞、手握银色法盘",
-    "阵营": "灵界异族",
-    "性别": "男"
+    "标志特征": "五雷之体、身躯可在实体与雷电间转化、红发络腮胡、鹰钩鼻、赤色羽翅、操控银色雷阵传送、浑身电蛇狂舞、手握银色法盘、本命真火、电弧神通",
+    "阵营": "商盟",
+    "性别": "男",
+    "外貌": "身披银甲、缭绕银色电弧"
   },
   "observations": {
     "种族": [
@@ -88,6 +89,11 @@
         "value": "浑身电蛇狂舞、手握银色法盘",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "本命真火、电弧神通",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "阵营": [
@@ -95,6 +101,11 @@
         "value": "灵界异族",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "商盟",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "性别": [
@@ -102,6 +113,13 @@
         "value": "男",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身披银甲、缭绕银色电弧",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ]
   },
@@ -133,15 +151,21 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 1945
+      "seq": 2359
     },
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
       "seq": 1945
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359
     }
   },
   "contested": false,
@@ -149,7 +173,8 @@
   "docs": [
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T09:56:46.659Z"
+  "updatedAt": "2026-06-21T18:53:49.807Z"
 }

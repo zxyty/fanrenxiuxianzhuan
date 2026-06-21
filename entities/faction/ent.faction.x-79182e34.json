@@ -4,13 +4,16 @@
   "name": "阴司十王",
   "aliases": [
     "阴司五王",
-    "阴司王"
+    "阴司王",
+    "阴司",
+    "鬼域",
+    "凶司王一系"
   ],
   "summary": "冥界鬼物势力，由十个比一般鬼王更强的存在统领，与赫连商盟争夺新生小世界。",
   "attributes": {
     "所属界面": "冥界",
     "理念": "强大鬼王",
-    "阵营": "冥界"
+    "阵营": "鬼道/敌对"
   },
   "observations": {
     "所属界面": [
@@ -32,6 +35,11 @@
         "value": "冥界",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      },
+      {
+        "value": "鬼道/敌对",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ]
   },
@@ -51,16 +59,17 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2372-six-wings-reappear",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 2353
+      "seq": 2359
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
-    "plot.fanren-2372-six-wings-reappear"
+    "plot.fanren-2372-six-wings-reappear",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T18:41:52.701Z"
+  "updatedAt": "2026-06-21T18:53:49.816Z"
 }

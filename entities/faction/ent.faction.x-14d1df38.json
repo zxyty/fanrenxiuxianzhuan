@@ -5,13 +5,14 @@
   "aliases": [
     "血道大宗血骨门",
     "血骨门一门",
-    "血天人"
+    "血天人",
+    "血道大宗"
   ],
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
-    "阵营": "魔道",
+    "阵营": "血道",
     "所属界面": "灵界（血天）",
-    "理念": "诛杀血神之术修炼者",
+    "理念": "向商盟展示实力",
     "据点": "血鹤城",
     "镇派之宝": "天鼎宫钥匙",
     "等级": "超级宗门"
@@ -22,6 +23,11 @@
         "value": "魔道",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
         "seq": 1225
+      },
+      {
+        "value": "血道",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "所属界面": [
@@ -56,6 +62,11 @@
         "value": "诛杀血神之术修炼者",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "向商盟展示实力",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ],
     "据点": [
@@ -94,9 +105,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 1225
+      "seq": 2359
     },
     "所属界面": {
       "asOf": null,
@@ -106,9 +117,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
-      "seq": 2347
+      "seq": 2359
     },
     "据点": {
       "asOf": null,
@@ -140,7 +151,8 @@
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
     "plot.fanren-2335-2340-tianding-gong-xueyu",
     "plot.fanren-2347-2352-zhan-wu-zu",
-    "plot.fanren-2372-six-wings-reappear"
+    "plot.fanren-2372-six-wings-reappear",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T18:41:52.673Z"
+  "updatedAt": "2026-06-21T18:53:49.817Z"
 }

@@ -762,3 +762,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T18:15:23.162Z** `ingest` plot.fanren-2341-2346-tianwu-bone-blood-corpse — 凡人修仙传 第2341-2346章｜骸骨·血煞尸·三圣之陨 · kind=plot asOf=2026-06-21 entities=35 relations=40 src=02341-02346.md
 - **2026-06-21T18:28:45.437Z** `ingest` plot.fanren-2347-2352-zhan-wu-zu — 第2347-2352章 战五祖：韩立以一敌众，无垢老祖临阵反噬华西仙子 · kind=plot asOf=2026-06-21 entities=42 relations=60 src=02347-02352.md
 - **2026-06-21T18:41:52.949Z** `ingest` plot.fanren-2372-six-wings-reappear — 凡人修仙传 第2372章 六翼再现——真仙血天降世追杀六翼霜蚣 · kind=plot asOf=2026-06-21 entities=48 relations=62 src=02353-02358.md
+- **2026-06-21T18:53:50.077Z** `ingest` plot.fanren-ch2359-2364-xiongsiwang-zhanluo — 第2359-2364章 鬼气滔滔·千鬼之力·莲台血骨——韩立斩杀凶司王 · kind=plot asOf=2026-06-21 entities=38 relations=44 src=02359-02364.md

@@ -6,7 +6,9 @@
   "summary": "阴司五王之一，负责后手，千万鬼军已潜入预定位置。",
   "attributes": {
     "身份": "阴司十王之一",
-    "阵营": "冥界"
+    "阵营": "冥界",
+    "外貌": "上半壮年男子、下半黑红色巨蝎身躯",
+    "标志特征": "持泛黑波怪剑"
   },
   "observations": {
     "身份": [
@@ -21,6 +23,20 @@
         "value": "冥界",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      }
+    ],
+    "外貌": [
+      {
+        "value": "上半壮年男子、下半黑红色巨蝎身躯",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "持泛黑波怪剑",
+        "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+        "seq": 2359
       }
     ]
   },
@@ -37,12 +53,25 @@
       "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
       "seq": 2353
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "dated": false,
+      "seq": 2359
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2372-six-wings-reappear"
+    "plot.fanren-2372-six-wings-reappear",
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
   ],
-  "updatedAt": "2026-06-21T18:41:52.699Z"
+  "updatedAt": "2026-06-21T18:53:49.806Z"
 }
