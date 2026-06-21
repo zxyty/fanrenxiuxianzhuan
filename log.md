@@ -616,3 +616,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T00:53:21.558Z** `ingest` plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao — 第1598-1599章：云城拍卖会——韩立竞得瑕疵琉璃天火液，压轴人面蛟混血异兽现身 · kind=plot asOf=2026-06-21 entities=18 relations=12 src=01597-01602.p1.md
 - **2026-06-21T00:55:36.970Z** `ingest` plot.fanren-1600-1601-renmianjiao-duonu — 第1600–1601章 惊变·人面蛟夺女（云城四族拍卖会） · kind=plot asOf=2026-06-21 entities=17 relations=22 src=01597-01602.p2.md
 - **2026-06-21T00:57:57.929Z** `ingest` plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu — 第1602-1603章 云城拍卖会：人面蛟认女、金雷竹与地幽战车竞拍 · kind=plot asOf=2026-06-21 entities=33 relations=27 src=01597-01602.p3.md
+- **2026-06-21T00:59:56.972Z** `ingest` plot.chapter-1605-1606-yuezong-mojin-shanmai — 第1605-1606章 越宗·麒麟：炼制瑕疵琉璃天火液、纤纤引见魔兽猎人越宗议进魔金山脉 · kind=plot asOf=2026-06-21 entities=16 relations=14 src=01603-01608.p1.md

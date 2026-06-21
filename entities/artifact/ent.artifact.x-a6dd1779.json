@@ -19,9 +19,9 @@
   "attributes": {
     "五行属性": "火",
     "持有者": "韩立",
-    "能力": "吞噬一切火焰、吸纳本源与记忆、含极寒极热、化银色火鸟、喷收青色雷珠、化银焰、紧随追踪、潜伏埋伏、吞噬各种灵力/银焰、吞吐雷珠、喷金银细丝、无视禁制穿透、奇毒腐蚀、喷灵漩邪光（金银细丝）、吞噬异力",
+    "能力": "吞噬一切火焰、吸纳本源与记忆、含极寒极热、化银色火鸟、喷收青色雷珠、化银焰、紧随追踪、潜伏埋伏、吞噬各种灵力/银焰、吞吐雷珠、喷金银细丝、无视禁制穿透、奇毒腐蚀、喷灵漩邪光（金银细丝）、吞噬异力、借用精纯灵气临时倍增威能",
     "来历": "太阴真火融合太阳精火、吞噬噬炎而成、紫罗极火→太阴真火，融太阳精火与噬炎本源、黑夜森林潜伏地下",
-    "外形": "拳头大银色火鸟"
+    "外形": "银色火焰、内含赤红火苗，可化火鸟/火球"
   },
   "observations": {
     "五行属性": [
@@ -103,6 +103,11 @@
         "value": "吞噬异力",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "借用精纯灵气临时倍增威能",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ],
     "来历": [
@@ -152,6 +157,11 @@
         "value": "拳头大银色火鸟",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "银色火焰、内含赤红火苗，可化火鸟/火球",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ]
   },
@@ -183,9 +193,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
-      "seq": 1543
+      "seq": 1603
     }
   },
   "contested": false,
@@ -222,7 +232,8 @@
     "plot.fanren-1544-1545-huoyang-zu-jiesha-luowang",
     "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
-    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T00:57:57.777Z"
+  "updatedAt": "2026-06-21T00:59:56.821Z"
 }

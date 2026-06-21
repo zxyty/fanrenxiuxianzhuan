@@ -5,13 +5,15 @@
   "aliases": [
     "瑕疵琉璃天火液",
     "琉璃火液",
-    "次品琉璃天火液"
+    "次品琉璃天火液",
+    "品天火液",
+    "瑕疵品天火液"
   ],
   "summary": "灵界七大灵液之一，本届仅半瓶送拍、底价1800万即引全场哗然，韩立闻名色变。",
   "attributes": {
-    "类型": "灵液、天外之火提炼灵液、天火液",
+    "类型": "灵液、天外之火提炼灵液、天火液、异火灵液",
     "稀有度": "灵界七大灵液之一、极稀有、稀有（次品/瑕疵品）",
-    "用途": "炼制合体级丹药；生服省苦修、换取冥河神乳",
+    "用途": "炼制合体级丹药；生服省苦修、换取冥河神乳、喂养噬灵天火获得神通、用途未定",
     "产地": "天外之火"
   },
   "observations": {
@@ -30,6 +32,11 @@
         "value": "天火液",
         "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
+      },
+      {
+        "value": "异火灵液",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ],
     "稀有度": [
@@ -59,6 +66,16 @@
         "value": "换取冥河神乳",
         "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
+      },
+      {
+        "value": "喂养噬灵天火获得神通",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
+      },
+      {
+        "value": "用途未定",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ],
     "产地": [
@@ -101,7 +118,8 @@
   "docs": [
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
-    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T00:57:57.782Z"
+  "updatedAt": "2026-06-21T00:59:56.824Z"
 }

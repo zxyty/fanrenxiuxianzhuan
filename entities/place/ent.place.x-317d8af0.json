@@ -8,10 +8,10 @@
   ],
   "summary": "距云城约一月路程、万余年前因空间风暴出现的黑色魔域山脉，魔气笼罩、虚空裂缝涌魔兽含圣阶，被天云族圣族封禁、每年仅开放一月供圣族以下入内猎魔兽，陨落率极高。",
   "attributes": {
-    "类型": "魔域山脉",
-    "危险度": "极高（陨落率十之一二）",
+    "类型": "凶地/山脉",
+    "危险度": "极高",
     "特产": "魔兽内丹/魔核、珍稀材料",
-    "守护": "天云族圣族封禁"
+    "守护": "高阶魔兽"
   },
   "observations": {
     "类型": [
@@ -19,6 +19,11 @@
         "value": "魔域山脉",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "凶地/山脉",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ],
     "危险度": [
@@ -26,6 +31,11 @@
         "value": "极高（陨落率十之一二）",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "极高",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ],
     "特产": [
@@ -46,6 +56,11 @@
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579,
         "note": "每年仅开放一月"
+      },
+      {
+        "value": "高阶魔兽",
+        "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
       }
     ]
   },
@@ -53,15 +68,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
-      "seq": 1579
+      "seq": 1603
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
-      "seq": 1579
+      "seq": 1603
     },
     "特产": {
       "asOf": null,
@@ -71,16 +86,16 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
-      "seq": 1579,
-      "note": "每年仅开放一月"
+      "seq": 1603
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:58:06.954Z"
+  "updatedAt": "2026-06-21T00:59:56.828Z"
 }
