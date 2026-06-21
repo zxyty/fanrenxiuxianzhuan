@@ -3,13 +3,15 @@
   "type": "item",
   "name": "圣树",
   "aliases": [
-    "云梦山圣树"
+    "云梦山圣树",
+    "后备圣树",
+    "木族圣树"
   ],
   "summary": "云梦山三派共管灵物，定期流出醇液，醇液为配制明清灵水的关键材料。",
   "attributes": {
-    "类型": "灵木/灵物",
-    "用途": "产醇液配明清灵水、流淌醇液、配制明清灵水",
-    "产地": "云梦山"
+    "类型": "镇族灵树",
+    "用途": "产醇液配明清灵水、流淌醇液、配制明清灵水、维系木族族群延续、显示阵眼状态、孕育大乘存在",
+    "产地": "木棉城圣地（灵界）"
   },
   "observations": {
     "类型": [
@@ -17,6 +19,11 @@
         "value": "灵木/灵物",
         "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
         "seq": 613
+      },
+      {
+        "value": "镇族灵树",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "用途": [
@@ -29,6 +36,11 @@
         "value": "流淌醇液、配制明清灵水",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "维系木族族群延续、显示阵眼状态、孕育大乘存在",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "产地": [
@@ -36,6 +48,11 @@
         "value": "云梦山",
         "docId": "plot.fanren-613-yinyue-becomes-qiling",
         "seq": 613
+      },
+      {
+        "value": "木棉城圣地（灵界）",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ]
   },
@@ -43,9 +60,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 613
+      "seq": 2149
     },
     "用途": {
       "asOf": null,
@@ -55,16 +72,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-613-yinyue-becomes-qiling",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 613
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch612-617-yinyue-qiling-yu-shijian-dahui",
-    "plot.fanren-613-yinyue-becomes-qiling"
+    "plot.fanren-613-yinyue-becomes-qiling",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-17T08:06:19.648Z"
+  "updatedAt": "2026-06-21T14:46:57.186Z"
 }

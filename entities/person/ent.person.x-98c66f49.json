@@ -4,14 +4,17 @@
   "name": "乌老",
   "aliases": [
     "魔族老者",
-    "三角碧眼魔族老者"
+    "三角碧眼魔族老者",
+    "魔族长袍老者"
   ],
   "summary": "血鸦城护法，炼虚后期，持漆黑圆钵喷怪鸟虚影、布黑色传送法阵，被韩立所救。",
   "attributes": {
     "种族": "魔族",
     "小阶段": "炼虚后期",
-    "身份": "血鸦城护法",
-    "标志特征": "三角碧眼、漆黑圆钵"
+    "身份": "圣祖化身",
+    "标志特征": "三角碧眼、漆黑圆钵",
+    "存殁": "死亡",
+    "死因": "被韩立挖心后银焰焚化"
   },
   "observations": {
     "种族": [
@@ -33,6 +36,11 @@
         "value": "血鸦城护法",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "圣祖化身",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "标志特征": [
@@ -40,6 +48,20 @@
         "value": "三角碧眼、漆黑圆钵",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立挖心后银焰焚化",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ]
   },
@@ -59,21 +81,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 2005
+      "seq": 2149
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
       "seq": 2005
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T11:17:22.817Z"
+  "updatedAt": "2026-06-21T14:46:57.153Z"
 }

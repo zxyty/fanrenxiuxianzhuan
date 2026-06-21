@@ -9,13 +9,16 @@
     "三六天绝阵",
     "木界禁制",
     "三号阵眼",
-    "一号阵眼"
+    "一号阵眼",
+    "木族大阵"
   ],
   "summary": "木族镇族第一大阵，传仿上界仙人玄天灵域神通而创，号称可灭杀大乘，以三十六颗后备圣树布成。",
   "attributes": {
-    "效果": "灭杀大乘存在、化百万里为杀戮之境、禁空坠敌、召唤百丈树人、风龙叶刃攻击、传送法阵援军、防御魔族、逆转阵眼之力困住圣祖化身",
+    "效果": "灭杀大乘存在、化百万里为杀戮之境、禁空坠敌、召唤百丈树人、风龙叶刃攻击、传送法阵援军、防御魔族、逆转阵眼之力困住圣祖化身、周期性积聚能量发动禁制屠杀阵内魔族、可激发二号阵眼全力自爆、自爆同归于尽",
     "出处": "木族",
-    "布置者": "木族全族"
+    "布置者": "木族全族",
+    "品阶": "超级大阵/绝阵",
+    "破解法": "同时摧毁多处阵眼以削弱威力"
   },
   "observations": {
     "效果": [
@@ -58,6 +61,21 @@
         "value": "逆转阵眼之力困住圣祖化身",
         "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
         "seq": 2143
+      },
+      {
+        "value": "周期性积聚能量发动禁制屠杀阵内魔族",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      },
+      {
+        "value": "可激发二号阵眼全力自爆",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      },
+      {
+        "value": "自爆同归于尽",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "出处": [
@@ -83,6 +101,20 @@
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
       }
+    ],
+    "品阶": [
+      {
+        "value": "超级大阵/绝阵",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "破解法": [
+      {
+        "value": "同时摧毁多处阵眼以削弱威力",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
     ]
   },
   "firstSeq": 2131,
@@ -104,6 +136,18 @@
       "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
       "seq": 2137
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
@@ -111,7 +155,8 @@
   "docs": [
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
     "plot.fanren-2137-2142-muzu-dazhan",
-    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:30:09.933Z"
+  "updatedAt": "2026-06-21T14:46:57.200Z"
 }

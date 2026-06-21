@@ -7,14 +7,15 @@
     "黑白相间矿石",
     "上品异魔金",
     "黑白矿石",
-    "特殊异魔金"
+    "特殊异魔金",
+    "黑白奇异矿石"
   ],
   "summary": "魔界稀少材料，兼含纯灵气与纯魔气；韩立所购一块内暗藏可直转真元的灰白光团晶珠。",
   "attributes": {
     "类型": "矿石",
     "产地": "魔界分矿",
     "稀有度": "稀少",
-    "用途": "炼去地煞阴气助突破合体后期巅峰"
+    "用途": "炼制魔器/材料、炼化内含晶球能量直接提升法力、可能含晶珠/真光、炼去地煞阴气助突破合体后期巅峰、催进修为至合体后期大圆满、汲取晶珠能量提升法力"
   },
   "observations": {
     "类型": [
@@ -88,6 +89,16 @@
         "value": "炼去地煞阴气助突破合体后期巅峰",
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
+      },
+      {
+        "value": "催进修为至合体后期大圆满",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      },
+      {
+        "value": "汲取晶珠能量提升法力",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ]
   },
@@ -113,9 +124,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
       "dated": false,
-      "seq": 2113
+      "seq": 2011
     }
   },
   "contested": false,
@@ -125,7 +136,8 @@
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
-    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:02:08.122Z"
+  "updatedAt": "2026-06-21T14:46:57.219Z"
 }

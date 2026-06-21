@@ -9,10 +9,12 @@
   ],
   "summary": "监战灵地争夺的炼虚期修士，身穿金色战甲、面带疤痕，点破千魂铃乃鸣老怪重宝。",
   "attributes": {
-    "小阶段": "炼虚期",
+    "小阶段": "合体",
     "身份": "灵地争夺监战、灵地争夺监督者、灵地争夺监战者、天渊城天卫",
     "外貌": "疤面、金色战甲、疤面金甲、金色战甲、疤面、疤面、金甲",
-    "称号": "天卫"
+    "称号": "天卫",
+    "种族": "魔族",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -20,6 +22,11 @@
         "value": "炼虚期",
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "身份": [
@@ -73,15 +80,29 @@
         "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
         "seq": 1315
       }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
     ]
   },
   "firstSeq": 1315,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 1315
+      "seq": 2149
     },
     "身份": {
       "asOf": null,
@@ -100,13 +121,26 @@
       "docId": "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
       "dated": false,
       "seq": 1315
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1317-tianyuan-cheng-spirit-land-plot",
-    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng"
+    "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-20T08:42:30.708Z"
+  "updatedAt": "2026-06-21T14:46:57.157Z"
 }

@@ -2,11 +2,14 @@
   "id": "ent.person.x-c96107cd",
   "type": "person",
   "name": "木族临时大长老",
-  "aliases": [],
+  "aliases": [
+    "临时大长老"
+  ],
   "summary": "木族大长老，调度木灵八子推演战局并布置防务。",
   "attributes": {
     "种族": "木族",
-    "身份": "临时大长老"
+    "身份": "临时大长老",
+    "存殁": "存活"
   },
   "observations": {
     "种族": [
@@ -21,6 +24,13 @@
         "value": "临时大长老",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ]
   },
@@ -37,12 +47,19 @@
       "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
       "seq": 2137
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:27:10.354Z"
+  "updatedAt": "2026-06-21T14:46:57.177Z"
 }

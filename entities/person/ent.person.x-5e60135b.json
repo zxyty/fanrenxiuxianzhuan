@@ -4,17 +4,20 @@
   "name": "木族大长老",
   "aliases": [
     "邬某",
-    "邬道友"
+    "邬道友",
+    "养伤的大长老"
   ],
   "summary": "木族大长老，大乘存在，姓邬，因外人潜入圣地盗走黑灵花而出面对峙。",
   "attributes": {
     "性别": "男",
     "种族": "木族",
-    "身份": "木族大长老",
+    "身份": "大长老",
     "小阶段": "大乘、大乘初期",
     "外貌": "一身青衫的威严老者、青衫老者",
     "阵营": "木族",
-    "结局": "重创、失大乘期实力（往事追述）"
+    "结局": "重创、失大乘期实力（往事追述）",
+    "存殁": "死亡",
+    "死因": "木棉城圣树被魔族摧毁，随圣树一同陨落"
   },
   "observations": {
     "性别": [
@@ -36,6 +39,11 @@
         "value": "木族大长老",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "大长老",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "小阶段": [
@@ -75,6 +83,20 @@
         "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
         "seq": 2125
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "死因": [
+      {
+        "value": "木棉城圣树被魔族摧毁，随圣树一同陨落",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
     ]
   },
   "firstSeq": 1861,
@@ -93,9 +115,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 1861
+      "seq": 2149
     },
     "小阶段": {
       "asOf": null,
@@ -120,13 +142,26 @@
       "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
       "dated": false,
       "seq": 2125
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1861-1866-mozhan-chongwang",
-    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:12:07.909Z"
+  "updatedAt": "2026-06-21T14:46:57.178Z"
 }

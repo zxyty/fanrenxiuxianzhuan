@@ -4,13 +4,18 @@
   "name": "翎仙子",
   "aliases": [
     "羽翅女子",
-    "带翅魔族女子"
+    "带翅魔族女子",
+    "带翅女子",
+    "魔族女子"
   ],
   "summary": "魔族圣祖化身之一，背生漆黑羽翅、容颜冷艳，精幻术与隐匿瞬移术，布七幡黑红封字火海封印韩立。",
   "attributes": {
     "性别": "女",
     "种族": "魔族",
-    "标志特征": "漆黑羽翅、幻术+隐匿瞬移、七幡封印火海"
+    "标志特征": "漆黑羽翅、幻术+隐匿瞬移、七幡封印火海",
+    "身份": "圣祖化身",
+    "存殁": "死亡",
+    "死因": "被涅槃变身韩立巨型手印压灭"
   },
   "observations": {
     "性别": [
@@ -44,6 +49,27 @@
         "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
         "seq": 2143
       }
+    ],
+    "身份": [
+      {
+        "value": "圣祖化身",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
+    ],
+    "死因": [
+      {
+        "value": "被涅槃变身韩立巨型手印压灭",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
     ]
   },
   "firstSeq": 2143,
@@ -66,12 +92,31 @@
       "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
       "dated": false,
       "seq": 2143
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:30:09.930Z"
+  "updatedAt": "2026-06-21T14:46:57.155Z"
 }

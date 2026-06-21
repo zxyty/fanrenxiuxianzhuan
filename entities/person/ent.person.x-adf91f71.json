@@ -11,8 +11,9 @@
     "种族": "魔族",
     "称号": "吞天大人",
     "外貌": "白发、皂袍、两手奇长过膝",
-    "身份": "偷袭木棉城主帅",
-    "性格": "溺爱身边魔族少年"
+    "身份": "圣族行动核心",
+    "性格": "溺爱身边魔族少年",
+    "阵营": "魔界·圣族"
   },
   "observations": {
     "种族": [
@@ -56,6 +57,11 @@
         "value": "偷袭木棉城主帅",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      },
+      {
+        "value": "圣族行动核心",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "性格": [
@@ -63,6 +69,13 @@
         "value": "溺爱身边魔族少年",
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界·圣族",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ]
   },
@@ -88,22 +101,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2137-2142-muzu-dazhan",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 2137
+      "seq": 2149
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
       "dated": false,
       "seq": 2119
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:27:10.353Z"
+  "updatedAt": "2026-06-21T14:46:57.180Z"
 }

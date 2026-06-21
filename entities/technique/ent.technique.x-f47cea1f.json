@@ -4,12 +4,13 @@
   "name": "神念秘术",
   "aliases": [
     "镇神术（同源相关）",
-    "神念秘术（敖啸所授）"
+    "神念秘术（敖啸所授）",
+    "敖啸神念秘术"
   ],
   "summary": "敖啸老祖花百余年独创、专为克制忘情决的神念法决；须由韩立修炼方对银月有效，练至火候可自体散发克制忘情决的神念波动，并增幅神识。",
   "attributes": {
-    "出处": "敖啸老祖",
-    "效果": "散发克制忘情决的神念波动、增幅神识、助益银月修炼",
+    "出处": "敖啸老祖所创",
+    "效果": "散发克制忘情决的神念波动、增幅神识、助益银月修炼、略增神念、静心养气、压制银月功法反噬",
     "修炼条件": "需由韩立（银月心魔之源）修炼方对银月生效"
   },
   "observations": {
@@ -23,6 +24,11 @@
         "value": "敖啸老祖",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "敖啸老祖所创",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "效果": [
@@ -40,6 +46,21 @@
         "value": "助益银月修炼",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "略增神念",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      },
+      {
+        "value": "静心养气",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      },
+      {
+        "value": "压制银月功法反噬",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
       }
     ],
     "修炼条件": [
@@ -54,9 +75,9 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
       "dated": false,
-      "seq": 2131
+      "seq": 2149
     },
     "效果": {
       "asOf": null,
@@ -75,7 +96,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:19:01.297Z"
+  "updatedAt": "2026-06-21T14:46:57.204Z"
 }

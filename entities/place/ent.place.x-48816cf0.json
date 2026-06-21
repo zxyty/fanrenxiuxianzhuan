@@ -3,14 +3,16 @@
   "type": "place",
   "name": "木棉城",
   "aliases": [
-    "木棉城联军总部"
+    "木棉城联军总部",
+    "木棉城圣地"
   ],
   "summary": "各族联军驻扎的总部大营，昔日木族第二大重城；以十几颗五六千丈高擎天巨木为支柱、纯用树木垒砌的十几层巨城。",
   "attributes": {
     "所属势力": "木族",
     "类型": "都城",
     "特产": "木族圣树",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "守护": "木族圣地守卫"
   },
   "observations": {
     "所属势力": [
@@ -55,6 +57,13 @@
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
       }
+    ],
+    "守护": [
+      {
+        "value": "木族圣地守卫",
+        "docId": "plot.fanren-2168-muzu-dazhan-12",
+        "seq": 2149
+      }
     ]
   },
   "firstSeq": 2125,
@@ -82,6 +91,12 @@
       "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
       "dated": false,
       "seq": 2131
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2168-muzu-dazhan-12",
+      "dated": false,
+      "seq": 2149
     }
   },
   "contested": false,
@@ -89,7 +104,8 @@
   "docs": [
     "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-2168-muzu-dazhan-12"
   ],
-  "updatedAt": "2026-06-21T14:27:10.359Z"
+  "updatedAt": "2026-06-21T14:46:57.201Z"
 }
