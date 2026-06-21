@@ -15,8 +15,8 @@
   "summary": "出身凡人城市炼体世家，绝佳灵根曾被误判无灵根，金刚诀第三层，筑基期，心高气傲。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴初期",
-    "身份": "炼体修士、炼体士、中阶炼体士、求拜韩立门下者、韩立随从、韩立弟子、韩立记名弟子、天渊城炼体士",
+    "小阶段": "元婴期",
+    "身份": "炼体修士、炼体士、中阶炼体士、求拜韩立门下者、韩立随从、韩立弟子、韩立记名弟子、天渊城炼体士、韩立门下弟子",
     "出身地": "凡人城市炼体世家",
     "外貌": "黄袍儒生，三十来岁，面容俊美",
     "标志特征": "灵根周期性消失（约一日一夜后再现）、金色灵具手套炼体拳法、消失灵根、法体双修",
@@ -56,6 +56,11 @@
         "value": "元婴初期",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "元婴期",
+        "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+        "seq": 1867
       }
     ],
     "身份": [
@@ -99,6 +104,11 @@
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831,
         "note": "隐藏与韩立关系"
+      },
+      {
+        "value": "韩立门下弟子",
+        "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+        "seq": 1867
       }
     ],
     "出身地": [
@@ -172,9 +182,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
       "dated": false,
-      "seq": 1861
+      "seq": 1867
     },
     "身份": {
       "asOf": null,
@@ -226,7 +236,8 @@
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
     "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
-    "plot.fanren-1861-1866-mozhan-chongwang"
+    "plot.fanren-1861-1866-mozhan-chongwang",
+    "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi"
   ],
-  "updatedAt": "2026-06-21T07:34:14.089Z"
+  "updatedAt": "2026-06-21T07:36:56.644Z"
 }
