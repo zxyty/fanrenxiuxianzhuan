@@ -13,13 +13,14 @@
     "迷你天外魔甲",
     "黑色符文护甲",
     "狰狞黑甲",
-    "黑色魔甲"
+    "黑色魔甲",
+    "黑色光幕"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "第二元婴",
-    "能力": "符文护罩防御、魔气冲天、收为元婴/法相穿戴后气势暴涨数倍、极强防御、黑色符文抵御紫电、自行护主、黑濛飓风护盾、形成护罩",
-    "外形": "黑气化甲、铭满黑色符文",
+    "能力": "符文护罩防御、魔气冲天、收为元婴/法相穿戴后气势暴涨数倍、极强防御、黑色符文抵御紫电、自行护主、黑濛飓风护盾、形成护罩、凝聚黑色符文光幕、防御绿焰电弧",
+    "外形": "黑色铠甲/光幕",
     "来历": "天外魔头之物，疑大有来历",
     "品阶": "极高",
     "禁制": "存裂痕待修补"
@@ -78,6 +79,16 @@
         "value": "形成护罩",
         "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "凝聚黑色符文光幕",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      },
+      {
+        "value": "防御绿焰电弧",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ],
     "外形": [
@@ -125,6 +136,11 @@
         "value": "黑气化甲、铭满黑色符文",
         "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "黑色铠甲/光幕",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ],
     "来历": [
@@ -197,9 +213,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
-      "seq": 1903
+      "seq": 2029
     },
     "来历": {
       "asOf": null,
@@ -239,7 +255,8 @@
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
-    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T08:47:10.044Z"
+  "updatedAt": "2026-06-21T11:46:30.146Z"
 }

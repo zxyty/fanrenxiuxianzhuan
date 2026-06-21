@@ -1,78 +1,80 @@
 {
-  "id": "ent.place.x-a42947b1",
-  "type": "place",
-  "name": "幻夜城",
-  "aliases": [
-    "换夜城"
-  ],
-  "summary": "幻啸沙漠前的城池，众人约定两年后于其最大客栈重聚。",
+  "id": "ent.person.x-75144842",
+  "type": "person",
+  "name": "朱果儿",
+  "aliases": [],
+  "summary": "纯人族结丹期少女，自称独自误入魔界，被万奴塔当作女奴，所修轮回功为其母所授，被韩立买走。",
   "attributes": {
-    "所属界面": "圣界",
-    "类型": "巨城",
-    "所属势力": "幻夜白家",
-    "守护": "超大禁制/禁空/限神念"
+    "性别": "女",
+    "种族": "人族",
+    "小阶段": "结丹",
+    "身份": "女奴",
+    "外貌": "圆脸俏丽"
   },
   "observations": {
-    "所属界面": [
+    "性别": [
       {
-        "value": "魔界",
-        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
-        "seq": 2023
-      },
-      {
-        "value": "圣界",
+        "value": "女",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "类型": [
+    "种族": [
       {
-        "value": "城池",
-        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
-        "seq": 2023
-      },
-      {
-        "value": "巨城",
+        "value": "人族",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "所属势力": [
+    "小阶段": [
       {
-        "value": "幻夜白家",
+        "value": "结丹",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "守护": [
+    "身份": [
       {
-        "value": "超大禁制/禁空/限神念",
+        "value": "女奴",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      }
+    ],
+    "外貌": [
+      {
+        "value": "圆脸俏丽",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ]
   },
-  "firstSeq": 2023,
+  "firstSeq": 2029,
   "attrProvenance": {
-    "所属界面": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "类型": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "所属势力": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "守护": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
@@ -82,8 +84,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:46:30.236Z"
+  "updatedAt": "2026-06-21T11:46:30.227Z"
 }

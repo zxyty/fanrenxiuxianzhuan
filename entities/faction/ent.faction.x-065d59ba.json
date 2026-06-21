@@ -4,11 +4,14 @@
   "name": "幻夜白家",
   "aliases": [
     "白家",
-    "幻夜城白家"
+    "幻夜城白家",
+    "白家一族"
   ],
   "summary": "据幻夜城的魔族家族，盛产荃香；其炼虚少妇向韩立求救。",
   "attributes": {
-    "阵营": "魔族"
+    "阵营": "魔族",
+    "所属界面": "圣界、魔界",
+    "据点": "幻夜城"
   },
   "observations": {
     "阵营": [
@@ -16,6 +19,25 @@
         "value": "魔族",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      }
+    ],
+    "据点": [
+      {
+        "value": "幻夜城",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ]
   },
@@ -26,12 +48,25 @@
       "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
       "seq": 2023
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:34:57.755Z"
+  "updatedAt": "2026-06-21T11:46:30.193Z"
 }

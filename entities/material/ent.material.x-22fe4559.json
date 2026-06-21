@@ -8,7 +8,8 @@
   "summary": "紫光树所结的珍稀灵果，效力仅适用于合体以下修士。",
   "attributes": {
     "类型": "灵果",
-    "用途": "合体以下修炼之用"
+    "用途": "炼丹主药",
+    "产地": "紫光树（圣界荒地）"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,18 @@
         "value": "合体以下修炼之用",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      },
+      {
+        "value": "炼丹主药",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      }
+    ],
+    "产地": [
+      {
+        "value": "紫光树（圣界荒地）",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ]
   },
@@ -36,15 +49,22 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
-      "seq": 2023
+      "seq": 2029
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:34:57.739Z"
+  "updatedAt": "2026-06-21T11:46:30.141Z"
 }

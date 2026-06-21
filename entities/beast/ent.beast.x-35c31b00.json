@@ -7,7 +7,8 @@
   "attributes": {
     "栖息地": "幻啸沙漠一带",
     "能力": "沙漠中行动如风",
-    "外形": "八足魔蜥"
+    "外形": "八足魔蜥",
+    "种族": "魔兽"
   },
   "observations": {
     "栖息地": [
@@ -35,6 +36,13 @@
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
       }
+    ],
+    "种族": [
+      {
+        "value": "魔兽",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      }
     ]
   },
   "firstSeq": 2005,
@@ -56,13 +64,20 @@
       "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
       "seq": 2005
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:34:57.679Z"
+  "updatedAt": "2026-06-21T11:46:30.186Z"
 }

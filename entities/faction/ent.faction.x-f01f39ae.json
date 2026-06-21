@@ -5,7 +5,9 @@
   "aliases": [],
   "summary": "关宁府三大世家之一，联办参王大会。",
   "attributes": {
-    "据点": "关宁府"
+    "据点": "关宁府",
+    "阵营": "魔族",
+    "掌门": "赵文好"
   },
   "observations": {
     "据点": [
@@ -13,6 +15,20 @@
         "value": "关宁府",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
+      }
+    ],
+    "掌门": [
+      {
+        "value": "赵文好",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ]
   },
@@ -23,12 +39,25 @@
       "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
       "dated": false,
       "seq": 901
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch901-906-canwang-dahui-tianjiwu"
+    "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-16T00:43:53.251Z"
+  "updatedAt": "2026-06-21T11:46:30.249Z"
 }

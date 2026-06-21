@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "魔界十大禁地之一，入内法力被压制九成、遁术宝物皆失效，只能徒步，幻啸魔风为患，徒步穿越需五六十年。",
   "attributes": {
-    "所属界面": "魔界",
-    "类型": "沙漠",
-    "危险度": "魔界十大禁地，压制九成法力、禁飞遁",
+    "所属界面": "圣界",
+    "类型": "禁地",
+    "危险度": "极高",
     "守护": "幻啸魔风",
     "特产": "八足魔蜥"
   },
@@ -17,6 +17,11 @@
         "value": "魔界",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ],
     "类型": [
@@ -29,6 +34,11 @@
         "value": "沙漠",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "禁地",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ],
     "危险度": [
@@ -36,6 +46,11 @@
         "value": "魔界十大禁地，压制九成法力、禁飞遁",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-2044-bai-yunxin",
+        "seq": 2029
       }
     ],
     "守护": [
@@ -57,21 +72,21 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
-      "seq": 1999
+      "seq": 2029
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
-      "seq": 2005
+      "seq": 2029
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
-      "seq": 1999
+      "seq": 2029
     },
     "守护": {
       "asOf": null,
@@ -91,7 +106,8 @@
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:34:57.760Z"
+  "updatedAt": "2026-06-21T11:46:30.238Z"
 }

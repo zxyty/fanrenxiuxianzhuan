@@ -1,78 +1,69 @@
 {
-  "id": "ent.place.x-a42947b1",
-  "type": "place",
-  "name": "幻夜城",
+  "id": "ent.person.x-6ee2664e",
+  "type": "person",
+  "name": "西白鸣",
   "aliases": [
-    "换夜城"
+    "白鸣",
+    "西白鸣三兄弟"
   ],
-  "summary": "幻啸沙漠前的城池，众人约定两年后于其最大客栈重聚。",
+  "summary": "白家弟子，元婴后期长髯老者，欲夺金曦鼠内丹突破化神，被白芸馨救场。",
   "attributes": {
-    "所属界面": "圣界",
-    "类型": "巨城",
-    "所属势力": "幻夜白家",
-    "守护": "超大禁制/禁空/限神念"
+    "种族": "魔族",
+    "小阶段": "元婴后期",
+    "身份": "白家弟子",
+    "外貌": "长髯老者"
   },
   "observations": {
-    "所属界面": [
+    "种族": [
       {
-        "value": "魔界",
-        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
-        "seq": 2023
-      },
-      {
-        "value": "圣界",
+        "value": "魔族",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "类型": [
+    "小阶段": [
       {
-        "value": "城池",
-        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
-        "seq": 2023
-      },
-      {
-        "value": "巨城",
+        "value": "元婴后期",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "所属势力": [
+    "身份": [
       {
-        "value": "幻夜白家",
+        "value": "白家弟子",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ],
-    "守护": [
+    "外貌": [
       {
-        "value": "超大禁制/禁空/限神念",
+        "value": "长髯老者",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
     ]
   },
-  "firstSeq": 2023,
+  "firstSeq": 2029,
   "attrProvenance": {
-    "所属界面": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "类型": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "所属势力": {
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
     },
-    "守护": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
@@ -82,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin"
   ],
-  "updatedAt": "2026-06-21T11:46:30.236Z"
+  "updatedAt": "2026-06-21T11:46:30.180Z"
 }
