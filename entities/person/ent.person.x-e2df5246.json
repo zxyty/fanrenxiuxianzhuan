@@ -10,7 +10,10 @@
     "种族": "天蝉族",
     "性别": "男",
     "小阶段": "大乘",
-    "外貌": "英俊冷酷、紫红煞气透体"
+    "外貌": "英俊冷酷、紫红煞气透体",
+    "身份": "商盟卫士",
+    "存殁": "死亡",
+    "死因": "被明尊作玄天之宝替代物献祭"
   },
   "observations": {
     "种族": [
@@ -40,6 +43,27 @@
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
       }
+    ],
+    "身份": [
+      {
+        "value": "商盟卫士",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
+    ],
+    "死因": [
+      {
+        "value": "被明尊作玄天之宝替代物献祭",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2389,
@@ -67,12 +91,31 @@
       "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
       "seq": 2389
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:06:58.225Z"
+  "updatedAt": "2026-06-21T20:28:27.676Z"
 }

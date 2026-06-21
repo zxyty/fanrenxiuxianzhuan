@@ -6,15 +6,18 @@
     "血玺",
     "玺印",
     "血色玺印",
-    "血色巨印"
+    "血色巨印",
+    "血印",
+    "血色印玺"
   ],
   "summary": "大界诞生的玄天之宝，气息未敛即可震慑压制大乘修为近半；以『镇』落玺印碾灭目标并摄入灵光使自身凝实。",
   "attributes": {
     "品阶": "玄天灵宝（大界级）",
     "持有者": "马良",
-    "能力": "血祭、气息震慑压制修为、镇压碾灭并吞噬灵光自我凝实、注仙灵力可击杀普通同阶真仙、一击碎极乐梵河界",
+    "能力": "血祭、气息震慑压制修为、镇压碾灭并吞噬灵光自我凝实、注仙灵力可击杀普通同阶真仙、一击碎极乐梵河界、血丝洞穿虚空、血枪/血印镇压、无形震波卷碎攻击、七玺齐落灭杀、召血龙、召血灵傀儡巨人",
     "来历": "血祭无数强大生灵炼成",
-    "外形": "四方玺印，表面血焰翻滚、人虫鱼兽图案栩栩如生"
+    "外形": "巨大血色印玺、血雾滚滚",
+    "五行属性": "血"
   },
   "observations": {
     "品阶": [
@@ -61,6 +64,36 @@
         "value": "一击碎极乐梵河界",
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
+      },
+      {
+        "value": "血丝洞穿虚空",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      },
+      {
+        "value": "血枪/血印镇压",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      },
+      {
+        "value": "无形震波卷碎攻击",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      },
+      {
+        "value": "七玺齐落灭杀",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      },
+      {
+        "value": "召血龙",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      },
+      {
+        "value": "召血灵傀儡巨人",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
       }
     ],
     "来历": [
@@ -75,6 +108,18 @@
         "value": "四方玺印，表面血焰翻滚、人虫鱼兽图案栩栩如生",
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
+      },
+      {
+        "value": "巨大血色印玺、血雾滚滚",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "血",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
       }
     ]
   },
@@ -106,16 +151,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
       "dated": false,
-      "seq": 2395
+      "seq": 2401
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2347-2352-zhan-wu-zu",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.998Z"
+  "updatedAt": "2026-06-21T20:28:27.682Z"
 }

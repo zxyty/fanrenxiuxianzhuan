@@ -10,7 +10,9 @@
     "性别": "女",
     "小阶段": "大乘",
     "阵营": "灵界大乘联军",
-    "标志特征": "一条手臂彻底消融"
+    "标志特征": "一条手臂彻底消融",
+    "存殁": "死亡",
+    "死因": "被万灵血玺压为飞灰"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,20 @@
         "seq": 2395,
         "note": "被血雨所伤"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
+    ],
+    "死因": [
+      {
+        "value": "被万灵血玺压为飞灰",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2395,
@@ -69,12 +85,25 @@
       "dated": false,
       "seq": 2395,
       "note": "被血雨所伤"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.997Z"
+  "updatedAt": "2026-06-21T20:28:27.657Z"
 }

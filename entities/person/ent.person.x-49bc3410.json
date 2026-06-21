@@ -12,7 +12,10 @@
     "小阶段": "大乘",
     "标志特征": "上百道银梭状宝物",
     "性格": "豪爽好斗",
-    "阵营": "灵界大乘联军"
+    "阵营": "灵界大乘联军",
+    "外貌": "绿发披肩、狮口牛目银色巨人",
+    "存殁": "死亡",
+    "死因": "被八座地下金色火山熔岩淹没"
   },
   "observations": {
     "种族": [
@@ -54,6 +57,28 @@
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
       }
+    ],
+    "外貌": [
+      {
+        "value": "绿发披肩、狮口牛目银色巨人",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401,
+        "note": "造化之身所化"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
+    ],
+    "死因": [
+      {
+        "value": "被八座地下金色火山熔岩淹没",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2389,
@@ -87,13 +112,33 @@
       "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
       "seq": 2395
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401,
+      "note": "造化之身所化"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.995Z"
+  "updatedAt": "2026-06-21T20:28:27.655Z"
 }

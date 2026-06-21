@@ -8,7 +8,8 @@
     "鬼盟",
     "本商盟",
     "本大陆商盟",
-    "赫连商盟分盟"
+    "赫连商盟分盟",
+    "商盟卫士"
   ],
   "summary": "横跨数个大陆的超级商盟，于赤融山脉黑焦峰举办拍卖会，主事人明尊。",
   "attributes": {
@@ -17,7 +18,8 @@
     "理念": "横跨数大陆的商业联盟、暗中维护灵界、排除外来势力、对血道大宗存忌惮、维持灵界平衡安稳、围杀真仙、夺其宝物",
     "所属界面": "灵界血天",
     "镇派之宝": "仙界秘术",
-    "掌门": "明尊"
+    "掌门": "明尊",
+    "阵营": "灵界"
   },
   "observations": {
     "等级": [
@@ -141,6 +143,13 @@
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
       }
+    ],
+    "阵营": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2299,
@@ -180,6 +189,12 @@
       "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
       "seq": 2389
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
@@ -196,7 +211,8 @@
     "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
     "plot.fanren-2403-dingji",
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.977Z"
+  "updatedAt": "2026-06-21T20:28:27.694Z"
 }

@@ -3,7 +3,8 @@
   "type": "person",
   "name": "乌灵夫人",
   "aliases": [
-    "乌夫人"
+    "乌夫人",
+    "乌灵道友"
   ],
   "summary": "古黎族大乘强者，肤色微黑、淡绿宫装，本命祝融神火威力无穷可煮海融山。",
   "attributes": {
@@ -11,7 +12,9 @@
     "性别": "女",
     "小阶段": "大乘",
     "标志特征": "本命祝融神火",
-    "阵营": "灵界大乘联军"
+    "阵营": "灵界大乘联军",
+    "外貌": "猪首猿身黑色怪物",
+    "存殁": "死亡"
   },
   "observations": {
     "种族": [
@@ -48,6 +51,21 @@
         "docId": "plot.fanren-2395-2400-zhanlu-shang",
         "seq": 2395
       }
+    ],
+    "外貌": [
+      {
+        "value": "猪首猿身黑色怪物",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401,
+        "note": "法相所化"
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2389,
@@ -81,13 +99,27 @@
       "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
       "seq": 2395
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401,
+      "note": "法相所化"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.995Z"
+  "updatedAt": "2026-06-21T20:28:27.656Z"
 }

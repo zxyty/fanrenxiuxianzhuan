@@ -4,13 +4,14 @@
   "name": "黑猊兽",
   "aliases": [
     "四头黑猊兽",
-    "四只黑猊兽"
+    "四只黑猊兽",
+    "黑甲青年"
   ],
   "summary": "明尊以紫红令牌召出的四头上位真灵，龙首狮身，排名接近天龙真凤，迎战马良血河。",
   "attributes": {
     "等级": "上位真灵",
-    "外形": "龙首狮身、体长十余丈、黝黑",
-    "能力": "黑色刃芒斩首、受创后化更巨黑兽"
+    "外形": "可化四名面容相似的黑甲青年",
+    "能力": "黑色刃芒斩首、受创后化更巨黑兽、本命真火神通、黑色火球"
   },
   "observations": {
     "等级": [
@@ -25,6 +26,11 @@
         "value": "龙首狮身、体长十余丈、黝黑",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "可化四名面容相似的黑甲青年",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
       }
     ],
     "能力": [
@@ -37,6 +43,11 @@
         "value": "受创后化更巨黑兽",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "本命真火神通、黑色火球",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
       }
     ]
   },
@@ -50,9 +61,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
       "dated": false,
-      "seq": 2389
+      "seq": 2401
     },
     "能力": {
       "asOf": null,
@@ -65,7 +76,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.990Z"
+  "updatedAt": "2026-06-21T20:28:27.660Z"
 }

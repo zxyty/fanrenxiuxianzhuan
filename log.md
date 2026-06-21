@@ -771,3 +771,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T19:58:49.792Z** `ingest` plot.fanren-2403-dingji — 凡人修仙传 第2403章 定计——人族商议应对真仙降世，韩立返青元宫 · kind=plot asOf=2026-06-21 entities=33 relations=37 src=02383-02388.md
 - **2026-06-21T20:06:58.487Z** `ingest` plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin — 凡人修仙传 第2389-2394章｜天外天群强云集围杀降临真仙 · kind=plot asOf=2026-06-21 entities=45 relations=51 src=02389-02394.md
 - **2026-06-21T20:19:54.221Z** `ingest` plot.fanren-2395-2400-zhanlu-shang — 凡人修仙传 第2395-2400章：阵眼激战·韩立制服六翼、解冰凤神魂印记、斩鹿（上） · kind=plot asOf=2026-06-21 entities=39 relations=54 src=02395-02400.md
+- **2026-06-21T20:28:27.913Z** `ingest` plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng — 第2401-2406章：真仙马良以万灵血玺尽灭风元大陆大乘群强 · kind=plot asOf=2026-06-21 entities=42 relations=53 src=02401-02406.md

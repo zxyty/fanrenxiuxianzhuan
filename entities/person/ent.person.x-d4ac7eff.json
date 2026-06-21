@@ -13,7 +13,8 @@
     "性格": "疯魔嗜战、独来独往",
     "身份": "马良属下、暗杀后手",
     "外貌": "灰袍、面色普通的中年男子、灰袍男子",
-    "标志特征": "小半身子凭空不见"
+    "标志特征": "小半身子凭空不见",
+    "存殁": "死亡"
   },
   "observations": {
     "小阶段": [
@@ -80,6 +81,13 @@
         "seq": 2395,
         "note": "本片段受伤"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+        "seq": 2401
+      }
     ]
   },
   "firstSeq": 2389,
@@ -122,13 +130,20 @@
       "dated": false,
       "seq": 2395,
       "note": "本片段受伤"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "dated": false,
+      "seq": 2401
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
-    "plot.fanren-2395-2400-zhanlu-shang"
+    "plot.fanren-2395-2400-zhanlu-shang",
+    "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng"
   ],
-  "updatedAt": "2026-06-21T20:19:53.996Z"
+  "updatedAt": "2026-06-21T20:28:27.658Z"
 }
