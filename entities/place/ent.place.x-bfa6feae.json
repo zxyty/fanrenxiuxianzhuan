@@ -6,14 +6,15 @@
     "广寒界界面",
     "广寒天",
     "广寒宫",
-    "Guanghan Realm"
+    "Guanghan Realm",
+    "广寒界海域"
   ],
   "summary": "需以广寒令配合万古族布置的开启法阵方能进入的界面。",
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "秘境",
-    "危险度": "极高"
+    "类型": "秘境界域",
+    "危险度": "极高(历届陨落者众)"
   },
   "observations": {
     "守护": [
@@ -40,6 +41,11 @@
         "value": "秘境",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "秘境界域",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "危险度": [
@@ -47,6 +53,11 @@
         "value": "极高",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "极高(历届陨落者众)",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ]
   },
@@ -66,15 +77,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1591
+      "seq": 1663
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1591
+      "seq": 1663
     }
   },
   "contested": false,
@@ -83,7 +94,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-21T00:59:56.827Z"
+  "updatedAt": "2026-06-21T02:42:39.284Z"
 }

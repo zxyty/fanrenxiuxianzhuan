@@ -8,7 +8,9 @@
     "千兄",
     "千机子道友",
     "千机子长老",
-    "千机子前辈"
+    "千机子前辈",
+    "千前辈",
+    "天机子(笔误)"
   ],
   "summary": "万古族强者，合体巅峰存在，黄袍矮胖、背古怪背篓、慈眉善目；因甲大师救命之恩寻访韩立并强势邀其赴万古族。",
   "attributes": {
@@ -16,8 +18,8 @@
     "称号": "合体巅峰",
     "外貌": "黄袍矮胖老者，背箩筐似的古怪背篓，慈眉善目",
     "性格": "和善而强势、城府深、说话兜圈子",
-    "小阶段": "合体期(顶阶)",
-    "身份": "万古族长老、傀儡大师、晶族客卿(存疑)、长老",
+    "小阶段": "圣阶(合体)",
+    "身份": "万古族长老、傀儡大师、晶族客卿(存疑)、长老、广寒界传送主持者",
     "阵营": "天云十三族"
   },
   "observations": {
@@ -64,6 +66,11 @@
         "value": "合体期(顶阶)",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
         "seq": 1597
+      },
+      {
+        "value": "圣阶(合体)",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "身份": [
@@ -86,6 +93,11 @@
         "value": "长老",
         "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
         "seq": 1657
+      },
+      {
+        "value": "广寒界传送主持者",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "阵营": [
@@ -124,9 +136,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1597
+      "seq": 1663
     },
     "身份": {
       "asOf": null,
@@ -147,7 +159,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1600-1601-renmianjiao-duonu",
-    "plot.fanren-1657-1662-kuajie-monian-yunzu"
+    "plot.fanren-1657-1662-kuajie-monian-yunzu",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-21T02:39:57.798Z"
+  "updatedAt": "2026-06-21T02:42:39.273Z"
 }

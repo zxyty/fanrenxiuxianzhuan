@@ -10,9 +10,9 @@
   "summary": "天云十三族之一，族人稀少、寿元为人族三四倍、容貌俊美智慧极高，精于炼丹阵法符箓，颇受诸族欢迎。",
   "attributes": {
     "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲、聪慧绝顶、眉间晶石、天赋不高、进境较慢、体质奇特、真灵之血效用有限、人数稀少",
-    "代表人物": "彩仙子",
+    "代表人物": "彩流罂",
     "阵营": "天云十三族",
-    "天赋神通": "炼器之术"
+    "天赋神通": "阵法"
   },
   "observations": {
     "特性": [
@@ -67,6 +67,11 @@
         "value": "彩仙子",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "彩流罂",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "阵营": [
@@ -81,6 +86,11 @@
         "value": "炼器之术",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "阵法",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ]
   },
@@ -94,9 +104,9 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1591
+      "seq": 1663
     },
     "阵营": {
       "asOf": null,
@@ -106,9 +116,9 @@
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1651
+      "seq": 1663
     }
   },
   "contested": false,
@@ -128,7 +138,8 @@
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1649-san-mo",
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
-    "plot.fanren-1657-1662-kuajie-monian-yunzu"
+    "plot.fanren-1657-1662-kuajie-monian-yunzu",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-21T02:39:57.806Z"
+  "updatedAt": "2026-06-21T02:42:39.286Z"
 }

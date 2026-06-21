@@ -9,13 +9,14 @@
     "紫色战甲",
     "紫甲",
     "魔甲",
-    "紫色魔甲"
+    "紫色魔甲",
+    "迷你天外魔甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
-    "持有者": "纤纤",
+    "持有者": "第二元婴",
     "能力": "符文护罩防御",
-    "外形": "半尺大紫色狰狞战甲，肩膝带刺、胸口破洞",
+    "外形": "迷你大小魔甲",
     "来历": "天外魔头之物，疑大有来历",
     "品阶": "极高",
     "禁制": "存裂痕待修补"
@@ -32,6 +33,11 @@
         "value": "纤纤",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "第二元婴",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "能力": [
@@ -66,6 +72,11 @@
         "value": "半尺大紫色狰狞战甲，肩膝带刺、胸口破洞",
         "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
         "seq": 1657
+      },
+      {
+        "value": "迷你大小魔甲",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ],
     "来历": [
@@ -126,9 +137,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1603
+      "seq": 1663
     },
     "能力": {
       "asOf": null,
@@ -138,9 +149,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1657
+      "seq": 1663
     },
     "来历": {
       "asOf": null,
@@ -174,7 +185,8 @@
     "plot.fanren-1643-de-jing",
     "plot.fanren-1649-san-mo",
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
-    "plot.fanren-1657-1662-kuajie-monian-yunzu"
+    "plot.fanren-1657-1662-kuajie-monian-yunzu",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-21T02:39:57.799Z"
+  "updatedAt": "2026-06-21T02:42:39.279Z"
 }

@@ -4,14 +4,16 @@
   "name": "月仙子",
   "aliases": [
     "田道友之妻",
-    "结丹女修"
+    "结丹女修",
+    "蓝色宫装女子"
   ],
   "summary": "田姓男子之妻，结丹期女修，容貌如温玉的少见美女；与韩立似为旧识，一见韩立面容即露震惊之色。随夫偷渡外海求药救女。",
   "attributes": {
     "性别": "女",
     "小阶段": "结丹期",
     "标志特征": "二十五六岁、肌肤白腻的大美女",
-    "外貌": "二十五六、脸如温玉的美女"
+    "外貌": "蓝色宫装、面容苍白",
+    "身份": "广寒令激发者之一"
   },
   "observations": {
     "性别": [
@@ -40,6 +42,18 @@
         "value": "二十五六、脸如温玉的美女",
         "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
         "seq": 1123
+      },
+      {
+        "value": "蓝色宫装、面容苍白",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
+      }
+    ],
+    "身份": [
+      {
+        "value": "广寒令激发者之一",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ]
   },
@@ -65,16 +79,23 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1123
+      "seq": 1663
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "dated": false,
+      "seq": 1663
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1123-1128-houqi-chucheng",
-    "plot.fanren-1123-1128-houqi-chucheng-huangshamen"
+    "plot.fanren-1123-1128-houqi-chucheng-huangshamen",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-18T11:23:46.500Z"
+  "updatedAt": "2026-06-21T02:42:39.274Z"
 }

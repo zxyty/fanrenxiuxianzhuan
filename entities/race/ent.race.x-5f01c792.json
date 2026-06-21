@@ -6,7 +6,8 @@
   "summary": "天云十三族之一，与万古族合力打造云城之卫。",
   "attributes": {
     "阵营": "天云十三族",
-    "代表人物": "段天刃"
+    "代表人物": "石昆",
+    "特性": "肉身强横"
   },
   "observations": {
     "阵营": [
@@ -21,6 +22,18 @@
         "value": "段天刃",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "石昆",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
+      }
+    ],
+    "特性": [
+      {
+        "value": "肉身强横",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ]
   },
@@ -34,9 +47,15 @@
     },
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1591
+      "seq": 1663
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "dated": false,
+      "seq": 1663
     }
   },
   "contested": false,
@@ -45,7 +64,8 @@
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.fanren-1586-qianjizi",
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-21T00:51:27.665Z"
+  "updatedAt": "2026-06-21T02:42:39.287Z"
 }

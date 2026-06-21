@@ -3,19 +3,22 @@
   "type": "artifact",
   "name": "法相金身",
   "aliases": [
-    "六口金色巨刃"
+    "六口金色巨刃",
+    "三头六臂金色怪物",
+    "金身"
   ],
   "summary": "韩立显化的三头六臂金身法相，六臂持六口金色巨刃交织斩击，被美妇惊呼为「玄天之宝」。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "三头六臂、六口金色巨刃斩击"
+    "能力": "三头六臂、六口金色巨刃斩击、供第二元婴附身、蕴魔气",
+    "外形": "三头六臂金色怪物"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1663
       }
     ],
     "能力": [
@@ -28,28 +31,47 @@
         "value": "六口金色巨刃斩击",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "供第二元婴附身、蕴魔气",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
+      }
+    ],
+    "外形": [
+      {
+        "value": "三头六臂金色怪物",
+        "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+        "seq": 1663
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1663,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1663
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
-      "seq": 1903
+      "seq": 1663
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "dated": false,
+      "seq": 1663
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1667-1672-guanghan-jie-entry"
   ],
-  "updatedAt": "2026-06-17T02:59:10.901Z"
+  "updatedAt": "2026-06-21T02:42:39.277Z"
 }
