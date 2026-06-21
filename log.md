@@ -703,3 +703,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T11:50:25.382Z** `ingest` plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi — 第2052-2053章 麻烦·广阴宝镜：韩立求购八足魔蜥，应允白家共驱火云石矿脉魔兽 · kind=plot asOf=2026-06-21 entities=14 relations=18 src=02035-02040.p2.md
 - **2026-06-21T11:52:54.075Z** `ingest` plot.hanli-yijin-huanxiao-shamo-2054 — 第2054-2056章 一进幻啸——韩立随白家入幻啸沙漠驱魔兽 · kind=plot asOf=2026-06-21 entities=22 relations=26 src=02035-02040.p3.md
 - **2026-06-21T12:00:41.232Z** `ingest` plot.fanren-2041-2046-sihunpei-rongyanhu-moshou — 魔界之战·司魂佩定位与火云石矿脉熔岩湖猎魔兽（第2041-2046章） · kind=plot asOf=2026-06-21 entities=33 relations=39 src=02041-02046.md
+- **2026-06-21T12:02:31.027Z** `ingest` plot.fanren-c2063-2064-mojie-kuangmai-yimojin — 凡人修仙传 第2063-2064章：矿脉魔灵解决·韩立白家宝库取异魔金 · kind=plot asOf=2026-06-21 entities=0 relations=0 src=02047-02052.p1.md
