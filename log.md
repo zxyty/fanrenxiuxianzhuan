@@ -632,3 +632,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T02:50:01.576Z** `ingest` plot.fanren-1669-1674-zhenhaiyuan-guanghanjie — 凡人修仙传 第1669-1674章｜广寒界海域：斩章鱼海兽、操练元磁神光合击术、初遇镇海猿天吼 · kind=plot asOf=2026-06-21 entities=25 relations=29 src=01669-01674.md
 - **2026-06-21T02:57:18.780Z** `ingest` plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian — 第1675-1680章 千变幻面·猎兽·暗兽之王（穿越暗兽森林） · kind=plot asOf=2026-06-21 entities=24 relations=29 src=01675-01680.md
 - **2026-06-21T03:05:06.950Z** `ingest` plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu — 凡人修仙传 第1681-1686章｜暗兽森林合击斩巨兽·突围遭遇海王族 · kind=plot asOf=2026-06-21 entities=32 relations=38 src=01681-01686.md
+- **2026-06-21T03:07:39.190Z** `ingest` plot.fanren-1691-1692-leipeng-puppet-yingjing — 第1691-1692章 雷鹏傀儡 / 影晶：韩立灭银虫元神，广寒界遗址三方混战 · kind=plot asOf=2026-06-21 entities=14 relations=14 src=01687-01692.p1.md
