@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "元魇所持真正玄天之宝，攻击化为密集黑丝，犀利无坚不摧、可洞穿虚空自行灭敌。",
   "attributes": {
-    "品阶": "玄天之宝",
+    "品阶": "玄天之物",
     "持有者": "元魇、元魇圣祖",
-    "能力": "化无数黑丝攻击、洞穿虚空灭敌、黑丝切割、月牙剑光、破禁",
+    "能力": "化无数黑丝攻击、洞穿虚空灭敌、黑丝切割、月牙剑光、破禁、百余丈漆黑剑光",
     "外形": "黑色巨剑/巨刃"
   },
   "observations": {
@@ -16,6 +16,11 @@
         "value": "玄天之宝",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "玄天之物",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "持有者": [
@@ -50,6 +55,11 @@
         "value": "破禁",
         "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
+      },
+      {
+        "value": "百余丈漆黑剑光",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "外形": [
@@ -64,9 +74,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2071
+      "seq": 2077
     },
     "持有者": {
       "asOf": null,
@@ -91,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
-    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T13:13:00.666Z"
+  "updatedAt": "2026-06-21T13:15:38.741Z"
 }

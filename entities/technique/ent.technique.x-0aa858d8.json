@@ -6,13 +6,15 @@
     "万元之力",
     "涅槃圣体·万元之力",
     "一涅变身",
-    "二涅变身"
+    "二涅变身",
+    "涅槃之体",
+    "无上魔体"
   ],
   "summary": "圣界无上神通，融五种虚影催发，一击威能近大乘期随手一击；韩立未真正修成，仅强行催动并承反噬，二涅变身更可能爆体。",
   "attributes": {
     "出处": "梵圣真魔功",
-    "效果": "万元之力巨掌镇压、化两头四臂赤金战甲妖异形象、法力激增倍许、恐怖巨力",
-    "修炼条件": "需大乘期",
+    "效果": "万元之力巨掌镇压、化两头四臂赤金战甲妖异形象、法力激增倍许、恐怖巨力、金鳞独角妖目魔神变身、二涅变身两头四臂、可激发玄天之宝",
+    "修炼条件": "激发数种真灵血脉",
     "适用境界": "大乘期"
   },
   "observations": {
@@ -48,6 +50,21 @@
         "value": "恐怖巨力",
         "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
         "seq": 1987
+      },
+      {
+        "value": "金鳞独角妖目魔神变身",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "二涅变身两头四臂",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "可激发玄天之宝",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "修炼条件": [
@@ -62,6 +79,11 @@
         "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
         "seq": 1987,
         "note": "韩立借惊蛰决+真灵之血勉强催动"
+      },
+      {
+        "value": "激发数种真灵血脉",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "适用境界": [
@@ -88,10 +110,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 1987,
-      "note": "韩立借惊蛰决+真灵之血勉强催动"
+      "seq": 2077
     },
     "适用境界": {
       "asOf": null,
@@ -104,7 +125,8 @@
   "contradictions": {},
   "docs": [
     "plot.tianyuan-great-war-1981-1986",
-    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T10:46:39.552Z"
+  "updatedAt": "2026-06-21T13:15:38.735Z"
 }

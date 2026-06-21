@@ -12,15 +12,17 @@
     "此界",
     "广寒界面",
     "广寒界禁制遗址",
-    "广寒界药园"
+    "广寒界药园",
+    "广寒界秘境",
+    "广寒界禁地"
   ],
   "summary": "需以广寒令配合万古族布置的开启法阵方能进入的界面。",
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "界面/秘境",
+    "类型": "秘境/界面",
     "危险度": "极高（上古凶兽众多）",
-    "特产": "灰色山峰特有矿石、万剑图、虚灵丹、灵药、阴凤草等稀有灵药"
+    "特产": "灰色山峰特有矿石、万剑图、虚灵丹、灵药、阴凤草等稀有灵药、太虚妙灵丹、仙界灵药"
   },
   "observations": {
     "守护": [
@@ -72,6 +74,11 @@
         "value": "界面/秘境",
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
+      },
+      {
+        "value": "秘境/界面",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "危险度": [
@@ -116,6 +123,16 @@
         "value": "阴凤草等稀有灵药",
         "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
         "seq": 1807
+      },
+      {
+        "value": "太虚妙灵丹",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "仙界灵药",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ]
   },
@@ -135,9 +152,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 1735
+      "seq": 2077
     },
     "危险度": {
       "asOf": null,
@@ -174,7 +191,8 @@
     "plot.fanren-1843-1848-hualing-zhi-zhan",
     "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
     "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
-    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T11:48:24.205Z"
+  "updatedAt": "2026-06-21T13:15:38.746Z"
 }

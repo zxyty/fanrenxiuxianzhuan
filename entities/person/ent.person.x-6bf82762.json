@@ -5,16 +5,18 @@
   "aliases": [
     "宝煌圣花",
     "宝花主人",
-    "粉红花树"
+    "粉红花树",
+    "宝花道友",
+    "宝花前辈"
   ],
   "summary": "魔族圣祖，白色宫装女子，以宝煌圣花花树为标志；当年被天泣、鹤颜联手打落一境界后逃至灵界，本片段返魔界节点并暗助韩立一行。",
   "attributes": {
     "性别": "女",
     "种族": "圣族",
-    "身份": "圣祖",
-    "外貌": "白衣女子，笑时百花失色，双眸漆黑如星",
-    "标志特征": "粉红奇花/花瓣/粉红火焰之术",
-    "称号": "宝花大人"
+    "身份": "原魔族三大始祖之一",
+    "外貌": "白衣出尘美艳女子",
+    "标志特征": "宝煌圣花花树、粉红奇花/花瓣/粉红火焰之术、真魔之躯、粉红宝花/怜花指",
+    "称号": "圣祖"
   },
   "observations": {
     "性别": [
@@ -41,6 +43,11 @@
         "value": "圣祖",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "原魔族三大始祖之一",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "外貌": [
@@ -53,6 +60,11 @@
         "value": "白衣女子，笑时百花失色，双眸漆黑如星",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "白衣出尘美艳女子",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "标志特征": [
@@ -65,6 +77,16 @@
         "value": "粉红奇花/花瓣/粉红火焰之术",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "真魔之躯",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "粉红宝花/怜花指",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "称号": [
@@ -72,6 +94,11 @@
         "value": "宝花大人",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ]
   },
@@ -91,34 +118,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 1999
+      "seq": 2077
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2053
+      "seq": 2077
     },
     "标志特征": {
-      "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
-      "dated": false,
-      "seq": 2053
-    },
-    "称号": {
       "asOf": null,
       "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
       "seq": 1999
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "dated": false,
+      "seq": 2077
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T12:24:42.042Z"
+  "updatedAt": "2026-06-21T13:15:38.729Z"
 }

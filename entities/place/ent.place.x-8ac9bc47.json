@@ -3,14 +3,15 @@
   "type": "place",
   "name": "苦灵岛",
   "aliases": [
-    "雷海中的岛屿"
+    "雷海中的岛屿",
+    "池塘山"
   ],
   "summary": "被雷海四面环绕的巨型岛屿，灵族探宝队此行目标，附近有金蟹魔晶傀儡之险；岛上有白衣女子等。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "岛屿",
+    "所属界面": "圣界（魔界）",
+    "类型": "秘境岛屿",
     "危险度": "高（压制大乘）",
-    "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇"
+    "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇、魔族三大始祖"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +24,11 @@
         "value": "灵界",
         "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
         "seq": 2071
+      },
+      {
+        "value": "圣界（魔界）",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "类型": [
@@ -35,6 +41,11 @@
         "value": "岛屿",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "秘境岛屿",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "危险度": [
@@ -69,6 +80,11 @@
         "value": "元魇",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "魔族三大始祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ]
   },
@@ -76,15 +92,15 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2071
+      "seq": 2077
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2071
+      "seq": 2077
     },
     "危险度": {
       "asOf": null,
@@ -104,7 +120,8 @@
   "docs": [
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
-    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T13:13:00.675Z"
+  "updatedAt": "2026-06-21T13:15:38.745Z"
 }

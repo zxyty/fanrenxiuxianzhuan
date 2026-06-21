@@ -2,12 +2,15 @@
   "id": "ent.item.x-2b031546",
   "type": "item",
   "name": "净灵莲",
-  "aliases": [],
+  "aliases": [
+    "银藕",
+    "银蓬"
+  ],
   "summary": "魔界深处灵物，七窍一气莲未形成前的进化形态，可大增慧根。",
   "attributes": {
-    "类型": "灵莲/灵草",
-    "用途": "提升灵根慧力、增进阶大乘几率、灵族探宝目标、洗炼/未明",
-    "产地": "灵岛"
+    "类型": "助突破大乘的灵药",
+    "用途": "提升灵根慧力、增进阶大乘几率、灵族探宝目标、洗炼/未明、突破大乘瓶颈",
+    "产地": "苦灵岛洗灵池"
   },
   "observations": {
     "类型": [
@@ -35,6 +38,11 @@
         "value": "灵莲/灵草",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "助突破大乘的灵药",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "用途": [
@@ -57,6 +65,11 @@
         "value": "洗炼/未明",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "突破大乘瓶颈",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "产地": [
@@ -79,6 +92,11 @@
         "value": "灵岛",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "苦灵岛洗灵池",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ]
   },
@@ -86,9 +104,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2071
+      "seq": 2077
     },
     "用途": {
       "asOf": null,
@@ -98,9 +116,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2065
+      "seq": 2077
     }
   },
   "contested": false,
@@ -110,7 +128,8 @@
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T13:10:00.836Z"
+  "updatedAt": "2026-06-21T13:15:38.744Z"
 }

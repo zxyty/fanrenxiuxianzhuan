@@ -23,14 +23,15 @@
   "attributes": {
     "性别": "女",
     "种族": "突兀人",
-    "小阶段": "合体",
+    "小阶段": "合体期",
     "身份": "天澜圣殿圣女、天澜圣女、天澜草原圣女、圣女",
     "外貌": "花容苍白",
     "称号": "仙子",
     "出身地": "天澜草原",
     "标志特征": "擅多种顶阶遁术",
     "阵营": "天澜圣殿、魔道、天澜、天澜草原、敌对韩立、突兀人/天澜草原、韩立一方",
-    "存殁": "存（被擒昏迷）、存"
+    "存殁": "存（被擒昏迷）、存、死亡",
+    "死因": "被宝花一方所杀"
   },
   "observations": {
     "性别": [
@@ -67,6 +68,11 @@
         "value": "合体",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "身份": [
@@ -228,6 +234,18 @@
         "docId": "plot.fanren-ch1045-tun-ying",
         "seq": 1045,
         "note": "被生擒昏迷"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      }
+    ],
+    "死因": [
+      {
+        "value": "被宝花一方所杀",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ]
   },
@@ -247,9 +265,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2047
+      "seq": 2077
     },
     "身份": {
       "asOf": null,
@@ -292,6 +310,12 @@
       "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
       "seq": 1045
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "dated": false,
+      "seq": 2077
     }
   },
   "contested": false,
@@ -328,7 +352,8 @@
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
-    "plot.fanren-ch2065-jinjingzhu"
+    "plot.fanren-ch2065-jinjingzhu",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T12:09:50.378Z"
+  "updatedAt": "2026-06-21T13:15:38.734Z"
 }

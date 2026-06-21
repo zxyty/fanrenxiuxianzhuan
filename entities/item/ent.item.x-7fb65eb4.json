@@ -3,11 +3,12 @@
   "type": "item",
   "name": "洗灵池",
   "aliases": [
-    "灵池"
+    "灵池",
+    "洗灵池所在神秘空间"
   ],
   "summary": "魔界深处灵物，化仙池未形成前的进化形态，对灵界各族有脱胎换骨之造化之力。",
   "attributes": {
-    "类型": "天地灵物、灵池/造化之地、灵池、圣界秘宝、秘地/池（坐落岛屿）、天地奇物/灵池",
+    "类型": "天地灵物、灵池/造化之地、灵池、圣界秘宝、秘地/池（坐落岛屿）、天地奇物/灵池、秘境/突破圣地",
     "用途": "脱胎换骨、关乎进阶大乘、增进阶大乘几率、灵族探宝目标",
     "产地": "圣界"
   },
@@ -42,6 +43,11 @@
         "value": "天地奇物/灵池",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "秘境/突破圣地",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "用途": [
@@ -103,7 +109,8 @@
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T13:10:00.837Z"
+  "updatedAt": "2026-06-21T13:15:38.745Z"
 }

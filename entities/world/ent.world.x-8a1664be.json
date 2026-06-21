@@ -13,8 +13,8 @@
   "summary": "圣族所在界面，与人界曾相通可补魔气，现通道被重新堵死。",
   "attributes": {
     "通道": "通往人界",
-    "特点": "意图侵占/降临此界、魔气浓厚、上古古魔来源、遗留圣器于下界、由圣祖主宰，图谋此界、魔气极浓、分魂反噬常见、有通往人界的上古通道、诸圣祖",
-    "主宰势力": "魔族",
+    "特点": "意图侵占/降临此界、魔气浓厚、上古古魔来源、遗留圣器于下界、由圣祖主宰，图谋此界、魔气极浓、分魂反噬常见、有通往人界的上古通道、诸圣祖、圣界大劫迫近",
+    "主宰势力": "魔族三大始祖",
     "层次": "高于灵界/魔界"
   },
   "observations": {
@@ -66,6 +66,11 @@
         "value": "诸圣祖",
         "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
+      },
+      {
+        "value": "圣界大劫迫近",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "主宰势力": [
@@ -88,6 +93,11 @@
         "value": "魔族",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "魔族三大始祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "层次": [
@@ -135,9 +145,9 @@
     },
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2029
+      "seq": 2077
     },
     "层次": {
       "asOf": null,
@@ -164,7 +174,8 @@
     "plot.tianyuan-great-war-1981-1986",
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T12:24:42.156Z"
+  "updatedAt": "2026-06-21T13:15:38.746Z"
 }

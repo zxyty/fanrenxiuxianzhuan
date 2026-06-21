@@ -19,10 +19,10 @@
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
-    "代表人物": "魔族圣祖、黑甲大汉、白袍少年、血光圣祖、宝树、黑鳄、匈姓大汉、魔族三大始祖、元魇",
+    "代表人物": "魔族圣祖、黑甲大汉、白袍少年、血光圣祖、宝树、黑鳄、匈姓大汉、魔族三大始祖、元魇、元魇圣祖、宝花圣祖、涅槃圣祖、六极",
     "阵营": "魔界、魔族、敌对、圣族、魔道、魔界/圣界、古魔、敌方",
     "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影、魔纹紫甲精锐，可召鹿首蝠身魔禽虚影",
-    "聚居地": "魔界",
+    "聚居地": "圣界（魔界）",
     "天敌": "人族"
   },
   "observations": {
@@ -71,6 +71,26 @@
         "value": "元魇",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "元魇圣祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "宝花圣祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "涅槃圣祖",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
+      },
+      {
+        "value": "六极",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "阵营": [
@@ -147,6 +167,11 @@
         "value": "魔界",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "圣界（魔界）",
+        "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+        "seq": 2077
       }
     ],
     "天敌": [
@@ -179,9 +204,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 1927
+      "seq": 2077
     },
     "天敌": {
       "asOf": null,
@@ -212,7 +237,8 @@
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
-    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade"
+    "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
   ],
-  "updatedAt": "2026-06-21T13:10:00.840Z"
+  "updatedAt": "2026-06-21T13:15:38.748Z"
 }
