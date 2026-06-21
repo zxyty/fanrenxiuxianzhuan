@@ -8,8 +8,8 @@
   ],
   "summary": "韩立所修变身神通，可化为四翅银色巨鹏，化金银细丝瞬遁天边，速度极快。",
   "attributes": {
-    "效果": "化四翅银色巨鹏极速遁走",
-    "外显异象": "四翅银色巨鹏、金银细丝",
+    "效果": "化四翅银色巨鹏极速遁走、变身天鹏、借鲲鹏之力、豁免鬼雾禁制、化四翅银色巨鹏极速飞遁",
+    "外显异象": "四翅银色巨鹏、金银细丝、化金银细丝瞬移天际",
     "出处": "飞灵族天鹏分支"
   },
   "observations": {
@@ -23,12 +23,22 @@
         "value": "变身天鹏、借鲲鹏之力、豁免鬼雾禁制",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
+      },
+      {
+        "value": "化四翅银色巨鹏极速飞遁",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "外显异象": [
       {
         "value": "四翅银色巨鹏、金银细丝",
         "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "化金银细丝瞬移天际",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
       }
     ],
@@ -44,9 +54,9 @@
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
-      "seq": 1909
+      "seq": 1507
     },
     "外显异象": {
       "asOf": null,
@@ -65,7 +75,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi"
+    "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
   ],
-  "updatedAt": "2026-06-20T13:58:52.303Z"
+  "updatedAt": "2026-06-21T08:55:10.624Z"
 }

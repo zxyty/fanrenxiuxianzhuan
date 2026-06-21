@@ -10,11 +10,12 @@
   "attributes": {
     "阵营": "人族（倚天城方）",
     "性别": "女",
-    "标志特征": "以血符催动合息兽、三色火焰、眉间血符",
+    "标志特征": "以血符催动合息兽、三色火焰、眉间血符、眉心血符催兽",
     "身份": "四大宗门太上长老",
     "小阶段": "合体期",
     "外貌": "背生火红羽翅",
-    "种族": "人族"
+    "种族": "人族",
+    "称号": "林鸾仙子"
   },
   "observations": {
     "阵营": [
@@ -51,6 +52,11 @@
         "value": "眉间血符",
         "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "眉心血符催兽",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "身份": [
@@ -94,6 +100,13 @@
         "value": "人族",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      }
+    ],
+    "称号": [
+      {
+        "value": "林鸾仙子",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ]
   },
@@ -140,6 +153,12 @@
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
@@ -150,7 +169,8 @@
     "plot.fanren-1898-1903-yitiancheng-war",
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1911-yitian-war-2",
-    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
   ],
-  "updatedAt": "2026-06-21T08:47:10.130Z"
+  "updatedAt": "2026-06-21T08:55:10.610Z"
 }

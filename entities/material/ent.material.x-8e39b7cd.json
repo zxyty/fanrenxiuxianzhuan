@@ -8,9 +8,9 @@
   ],
   "summary": "封存于镇魔锁内的至灵之气，对韩立大有用处；需在黄泉地火借天地阴火吸出，炼化之术极秘。",
   "attributes": {
-    "类型": "至灵之气",
+    "类型": "至灵之气、天地异气、混沌灵气",
     "用途": "对韩立修行大有用处",
-    "稀有度": "极稀(圣界知炼化术者不超过三人)",
+    "稀有度": "极稀(圣界知炼化术者不超过三人)、极稀有、极稀有(炼化术圣界知者不超三人)",
     "产地": "黄泉地火"
   },
   "observations": {
@@ -24,6 +24,11 @@
         "value": "天地异气",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "混沌灵气",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "用途": [
@@ -43,6 +48,11 @@
         "value": "极稀有",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "极稀有(炼化术圣界知者不超三人)",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "产地": [
@@ -62,9 +72,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1909
+      "seq": 1891
     },
     "用途": {
       "asOf": null,
@@ -74,9 +84,9 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1909
+      "seq": 1891
     },
     "产地": {
       "asOf": null,
@@ -90,7 +100,8 @@
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
   ],
-  "updatedAt": "2026-06-21T08:19:48.770Z"
+  "updatedAt": "2026-06-21T08:55:10.674Z"
 }

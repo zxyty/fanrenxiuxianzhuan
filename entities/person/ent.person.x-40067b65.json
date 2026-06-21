@@ -13,8 +13,9 @@
     "标志特征": "元神被困镇魔锁中",
     "种族": "魔族",
     "身份": "魔族圣祖",
-    "外貌": "绿袍老者",
-    "性格": "狡诈"
+    "外貌": "墨绿长袍老者",
+    "性格": "心狠手辣",
+    "存殁": "元神被困镇魔锁"
   },
   "observations": {
     "称号": [
@@ -42,7 +43,7 @@
       {
         "value": "魔族",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1921
+        "seq": 1909
       }
     ],
     "身份": [
@@ -55,6 +56,11 @@
         "value": "困于镇魔锁内之人",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "外貌": [
@@ -62,6 +68,11 @@
         "value": "绿袍老者",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "墨绿长袍老者",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "性格": [
@@ -69,6 +80,19 @@
         "value": "狡诈",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "心狠手辣",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
+      }
+    ],
+    "存殁": [
+      {
+        "value": "元神被困镇魔锁",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909,
+        "note": "肉身已失，仅余元神"
       }
     ]
   },
@@ -96,7 +120,7 @@
       "asOf": null,
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
-      "seq": 1921
+      "seq": 1909
     },
     "身份": {
       "asOf": null,
@@ -106,15 +130,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
       "dated": false,
-      "seq": 1891
+      "seq": 1909
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
       "dated": false,
-      "seq": 1891
+      "seq": 1909
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "dated": false,
+      "seq": 1909,
+      "note": "肉身已失，仅余元神"
     }
   },
   "contested": false,
@@ -122,7 +153,8 @@
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
   ],
-  "updatedAt": "2026-06-21T08:19:48.746Z"
+  "updatedAt": "2026-06-21T08:55:10.655Z"
 }

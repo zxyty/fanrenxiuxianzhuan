@@ -4,19 +4,27 @@
   "name": "分元斩尸大法",
   "aliases": [
     "分元斩尸",
-    "裂念术"
+    "裂念术",
+    "分元斩尸**",
+    "分元斩尸禁术"
   ],
   "summary": "圣界上古失传禁术，将元神彻底分裂为多个具独立神智、可驭部分法力的神念，每个皆如本体无主次；性格极端、易损元神、后患极大，血光化身赖此一分为三。",
   "attributes": {
-    "出处": "圣界上古禁术(失传)",
-    "效果": "元神分裂为多个独立神念、每个神念皆如本体、分身威能视神念多寡",
-    "修炼条件": "风险奇大、后患无穷、易损元神"
+    "出处": "圣界上古禁术(失传)、圣界",
+    "效果": "元神分裂为多个独立神念、每个神念皆如本体、分身威能视神念多寡、元神彻底分裂为多个独立神念、每个神念皆可视作本体、战斗中几无明显弱点",
+    "修炼条件": "风险奇大、后患无穷、易损元神",
+    "品阶": "上古禁术"
   },
   "observations": {
     "出处": [
       {
         "value": "圣界上古禁术(失传)",
         "docId": "plot.fanren-1923-blood-saint-descends",
+        "seq": 1909
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
       }
     ],
@@ -35,6 +43,21 @@
         "value": "分身威能视神念多寡",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "元神彻底分裂为多个独立神念",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
+      },
+      {
+        "value": "每个神念皆可视作本体",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
+      },
+      {
+        "value": "战斗中几无明显弱点",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ],
     "修炼条件": [
@@ -43,6 +66,13 @@
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909,
         "note": "争斗时无明显弱点"
+      }
+    ],
+    "品阶": [
+      {
+        "value": "上古禁术",
+        "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+        "seq": 1909
       }
     ]
   },
@@ -66,12 +96,19 @@
       "dated": false,
       "seq": 1909,
       "note": "争斗时无明显弱点"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "dated": false,
+      "seq": 1909
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
   ],
-  "updatedAt": "2026-06-17T03:11:34.324Z"
+  "updatedAt": "2026-06-21T08:55:10.665Z"
 }
