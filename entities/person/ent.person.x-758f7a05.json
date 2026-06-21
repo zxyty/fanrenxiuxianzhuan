@@ -12,9 +12,9 @@
   "summary": "五大真灵世家中排名第三、全由男修组成的林家大长老，墨绿长袍、头扎银环、容貌清秀如女，擅木蜃神通，抽得1号。",
   "attributes": {
     "性别": "男",
-    "身份": "林家大长老、林家太上长老、林家修士、潜入魔界一行成员",
-    "外貌": "墨绿长袍、银环、清秀如女、头戴银环、披发、披发男子",
-    "阵营": "人族真灵世家林家",
+    "身份": "林家大长老、林家太上长老、林家修士、潜入魔界一行成员、太上长老",
+    "外貌": "墨绿长袍、银环、清秀如女、头戴银环、披发、披发男子、披发",
+    "阵营": "林家",
     "小阶段": "合体中期以上、合体期"
   },
   "observations": {
@@ -45,6 +45,11 @@
         "value": "潜入魔界一行成员",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "太上长老",
+        "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+        "seq": 2011
       }
     ],
     "外貌": [
@@ -62,6 +67,11 @@
         "value": "披发男子",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "披发",
+        "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+        "seq": 2011
       }
     ],
     "阵营": [
@@ -69,6 +79,11 @@
         "value": "人族真灵世家林家",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "林家",
+        "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+        "seq": 2011
       }
     ],
     "小阶段": [
@@ -106,9 +121,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
       "dated": false,
-      "seq": 1819
+      "seq": 2011
     },
     "小阶段": {
       "asOf": null,
@@ -122,7 +137,8 @@
   "docs": [
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2025-2030-blood-crow-city-yimojin"
   ],
-  "updatedAt": "2026-06-21T11:08:29.514Z"
+  "updatedAt": "2026-06-21T11:20:00.654Z"
 }
