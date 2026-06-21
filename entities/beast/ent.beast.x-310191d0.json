@@ -3,12 +3,15 @@
   "type": "beast",
   "name": "墨麒麟",
   "aliases": [
-    "真灵墨麒麟"
+    "真灵墨麒麟",
+    "青色麒麟",
+    "青色麒麟虚影"
   ],
   "summary": "天生的水属性真灵，鳞片坚硬不下真龙，脱落鳞片为世间最顶阶水属性材料。",
   "attributes": {
-    "种族": "真灵",
-    "能力": "鳞片坚硬近真龙、蕴极精纯水灵力"
+    "种族": "麒麟",
+    "能力": "化虚影附宿主体内、由魔麟令召现本体",
+    "外形": "通体漆黑如墨、体长丈许"
   },
   "observations": {
     "种族": [
@@ -16,6 +19,11 @@
         "value": "真灵",
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333
+      },
+      {
+        "value": "麒麟",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "能力": [
@@ -23,6 +31,18 @@
         "value": "鳞片坚硬近真龙、蕴极精纯水灵力",
         "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
         "seq": 1333
+      },
+      {
+        "value": "化虚影附宿主体内、由魔麟令召现本体",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "外形": [
+      {
+        "value": "通体漆黑如墨、体长丈许",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -30,21 +50,28 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1333
+      "seq": 1615
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1333
+      "seq": 1615
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales"
+    "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-16T12:56:39.943Z"
+  "updatedAt": "2026-06-21T01:25:25.138Z"
 }

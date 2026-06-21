@@ -3,12 +3,19 @@
   "type": "person",
   "name": "圭姓男子",
   "aliases": [
-    "圭姓邪修"
+    "圭姓邪修",
+    "圭姓异族人",
+    "圭姓银甲男子",
+    "银甲男子"
   ],
   "summary": "雷云阁中曾差点与韩立动手的邪修，驾血红飞车、可化银蛟，以血珠神通屠灭三名蓝衫修士并吸食精血元神。",
   "attributes": {
-    "身份": "邪修",
-    "标志特征": "银色血刺战甲、可化银蛟、血红珠子神通"
+    "身份": "真灵之穴主人",
+    "标志特征": "银色血刺战甲、可化银蛟、血红珠子神通、银甲、幻化三分身、化血虹遁走",
+    "性别": "男",
+    "种族": "异族",
+    "性格": "凶戾独占",
+    "外貌": "银色战甲、神色阴沉"
   },
   "observations": {
     "身份": [
@@ -16,6 +23,11 @@
         "value": "邪修",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "真灵之穴主人",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "标志特征": [
@@ -33,6 +45,39 @@
         "value": "血红珠子神通",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "银甲、幻化三分身、化血虹遁走",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "种族": [
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "性格": [
+      {
+        "value": "凶戾独占",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银色战甲、神色阴沉",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -40,21 +85,46 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1609
+      "seq": 1615
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.252Z"
+  "updatedAt": "2026-06-21T01:25:25.160Z"
 }

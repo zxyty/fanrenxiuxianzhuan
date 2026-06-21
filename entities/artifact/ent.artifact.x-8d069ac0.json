@@ -6,14 +6,15 @@
     "黑色护罩",
     "紫魔甲",
     "紫色魔化战甲",
-    "紫色战甲"
+    "紫色战甲",
+    "紫甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "纤纤",
     "能力": "符文护罩防御",
-    "外形": "半尺大、造型狰狞、肩膝带尖刺、遍布黑色花纹、紫色",
-    "来历": "破损待修",
+    "外形": "紫色全身甲、白水晶双目",
+    "来历": "纤纤所有，待圣阶魔核修复",
     "品阶": "极高"
   },
   "observations": {
@@ -39,6 +40,11 @@
         "value": "魔气冲天、收为元婴/法相穿戴后气势暴涨数倍",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "极强防御",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "外形": [
@@ -46,6 +52,11 @@
         "value": "半尺大、造型狰狞、肩膝带尖刺、遍布黑色花纹、紫色",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "紫色全身甲、白水晶双目",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "来历": [
@@ -59,6 +70,11 @@
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603,
         "note": "需圣阶魔兽真血魔核修复"
+      },
+      {
+        "value": "纤纤所有，待圣阶魔核修复",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "品阶": [
@@ -86,16 +102,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1579
+      "seq": 1615
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1603,
-      "note": "需圣阶魔兽真血魔核修复"
+      "seq": 1615
     },
     "品阶": {
       "asOf": null,
@@ -110,7 +125,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:04:24.682Z"
+  "updatedAt": "2026-06-21T01:25:25.162Z"
 }

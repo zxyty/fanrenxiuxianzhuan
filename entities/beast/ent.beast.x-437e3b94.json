@@ -2,13 +2,15 @@
   "id": "ent.beast.x-437e3b94",
   "type": "beast",
   "name": "魔烟鸟",
-  "aliases": [],
+  "aliases": [
+    "黑色小鸟"
+  ],
   "summary": "灵界少数可被驯服的魔兽之一，拳头大小、通体乌黑嘴火红双眼金灿，无攻击力但擅寻物潜行，可寄主人神念亲身操控；纤纤所驯。",
   "attributes": {
-    "种族": "魔兽",
+    "种族": "魔兽（鸟）",
     "主人": "纤纤",
-    "能力": "寻物潜行神妙、可寄主人神念操控",
-    "外形": "拳头大、通体乌黑、嘴火红、双眼金灿"
+    "能力": "寻物潜行神妙、可寄主人神念操控、通灵引路、穿黑雾、寄主神念探查",
+    "外形": "黑色小鸟"
   },
   "observations": {
     "种族": [
@@ -16,6 +18,11 @@
         "value": "魔兽",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "魔兽（鸟）",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "主人": [
@@ -35,6 +42,11 @@
         "value": "可寄主人神念操控",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "通灵引路、穿黑雾、寄主神念探查",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "外形": [
@@ -42,6 +54,11 @@
         "value": "拳头大、通体乌黑、嘴火红、双眼金灿",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "黑色小鸟",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -49,9 +66,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1579
+      "seq": 1615
     },
     "主人": {
       "asOf": null,
@@ -67,15 +84,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1579
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-20T15:58:06.940Z"
+  "updatedAt": "2026-06-21T01:25:25.137Z"
 }

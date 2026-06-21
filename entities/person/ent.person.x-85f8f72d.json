@@ -3,13 +3,15 @@
   "type": "person",
   "name": "九夜",
   "aliases": [
-    "尖耳女子"
+    "尖耳女子",
+    "人形魔兽九夜"
   ],
   "summary": "多眼魔老者手下，面若桃花、碧绿双眼、尖耳、黄色狸尾，擅追踪隐匿；奉命跟牢韩立。",
   "attributes": {
     "性别": "女",
-    "身份": "多眼魔老者手下",
-    "标志特征": "碧绿双眼、尖耳、黄色狸尾"
+    "身份": "尾随入魔气者",
+    "标志特征": "碧绿双眼、尖耳、黄色狸尾",
+    "种族": "人形魔兽、高阶魔兽"
   },
   "observations": {
     "性别": [
@@ -24,6 +26,11 @@
         "value": "多眼魔老者手下",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "尾随入魔气者",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "标志特征": [
@@ -42,6 +49,18 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "种族": [
+      {
+        "value": "人形魔兽",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      },
+      {
+        "value": "高阶魔兽",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
     ]
   },
   "firstSeq": 1609,
@@ -54,21 +73,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1609
+      "seq": 1615
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.248Z"
+  "updatedAt": "2026-06-21T01:25:25.161Z"
 }

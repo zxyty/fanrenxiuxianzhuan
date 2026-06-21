@@ -10,7 +10,8 @@
   "attributes": {
     "种族": "古魔",
     "标志特征": "背生银符文黑色肉翅(星光点点)",
-    "性格": "谨慎狠辣"
+    "性格": "谨慎狠辣",
+    "身份": "上位主宰"
   },
   "observations": {
     "种族": [
@@ -33,6 +34,13 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "身份": [
+      {
+        "value": "上位主宰",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
     ]
   },
   "firstSeq": 1609,
@@ -54,12 +62,19 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.249Z"
+  "updatedAt": "2026-06-21T01:25:25.121Z"
 }

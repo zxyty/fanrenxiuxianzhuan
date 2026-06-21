@@ -1,0 +1,64 @@
+{
+  "id": "ent.person.x-ff4adf26",
+  "type": "person",
+  "name": "血瑛",
+  "aliases": [],
+  "summary": "血泡大汉之女，一身血红宫装、脸覆淡淡血雾难辨真容，奉父命去查清外来人屠杀及‘芝仙’异常。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "脸覆血雾难辨真容",
+    "身份": "血泡大汉之女"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "外貌": [
+      {
+        "value": "脸覆血雾难辨真容",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615,
+        "note": "血雾遮挡"
+      }
+    ],
+    "身份": [
+      {
+        "value": "血泡大汉之女",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ]
+  },
+  "firstSeq": 1615,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615,
+      "note": "血雾遮挡"
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1619-shalu-mojin-shanmai"
+  ],
+  "updatedAt": "2026-06-21T01:25:25.120Z"
+}

@@ -13,10 +13,13 @@
   "attributes": {
     "性别": "男",
     "小阶段": "化神中期",
-    "身份": "魔兽猎人、魔兽猎人/向导、上族九阶",
+    "身份": "魔兽猎人、魔兽猎人/向导、上族九阶、向导散修",
     "外貌": "身材粗壮、黑色皮袍",
-    "标志特征": "面带数条淡紫色疤痕、气息时强时弱、眉宇隐隐有煞气、足踏法轮、持藏蚕状怪虫的金盒、携测魔怪虫盒",
-    "称号": "雷云镇名宿魔兽猎人"
+    "标志特征": "面带数条淡紫色疤痕、气息时强时弱、眉宇隐隐有煞气、足踏法轮、持藏蚕状怪虫的金盒、携测魔怪虫盒、御一对法轮瞬移、双白骨电光飞剑",
+    "称号": "雷云镇名宿魔兽猎人",
+    "阵营": "灵界外来人",
+    "存殁": "死亡",
+    "死因": "被圭姓男子（银蛟分身）血红珠子化血水吞噬"
   },
   "observations": {
     "性别": [
@@ -48,6 +51,11 @@
         "value": "上族九阶",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "向导散修",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "外貌": [
@@ -77,6 +85,11 @@
         "value": "携测魔怪虫盒",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "御一对法轮瞬移、双白骨电光飞剑",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "称号": [
@@ -84,6 +97,27 @@
         "value": "雷云镇名宿魔兽猎人",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵界外来人",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "死因": [
+      {
+        "value": "被圭姓男子（银蛟分身）血红珠子化血水吞噬",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -124,6 +158,24 @@
       "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
       "seq": 1603
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
@@ -132,7 +184,8 @@
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.265Z"
+  "updatedAt": "2026-06-21T01:25:25.134Z"
 }

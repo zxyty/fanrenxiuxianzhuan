@@ -5,17 +5,20 @@
   "aliases": [
     "纤纤晶族女子",
     "纤仙子",
-    "纤道友"
+    "纤道友",
+    "晶族纤纤"
   ],
   "summary": "晶族女子，售予韩立天外魔甲并提供修补之法与魔金山脉圣阶魔兽情报；驯有魔烟鸟。",
   "attributes": {
     "性别": "女",
     "种族": "晶族",
-    "身份": "同行者",
+    "身份": "图谋真灵之穴者",
     "道号": "纤纤",
     "标志特征": "金光裹身外悬八块铜镜",
     "小阶段": "修为近瓶颈、炼虚（修为偏低）",
-    "称号": "纤仙子"
+    "称号": "纤仙子",
+    "阵营": "灵界外来人",
+    "性格": "谨慎多谋、各怀心机"
   },
   "observations": {
     "性别": [
@@ -47,6 +50,11 @@
         "value": "同行者",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "图谋真灵之穴者",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "道号": [
@@ -86,6 +94,20 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "阵营": [
+      {
+        "value": "灵界外来人",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎多谋、各怀心机",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
     ]
   },
   "firstSeq": 1579,
@@ -104,9 +126,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1609
+      "seq": 1615
     },
     "道号": {
       "asOf": null,
@@ -131,6 +153,18 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
@@ -141,7 +175,8 @@
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.264Z"
+  "updatedAt": "2026-06-21T01:25:25.156Z"
 }

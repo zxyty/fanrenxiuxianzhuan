@@ -4,15 +4,17 @@
   "name": "人面鹫",
   "aliases": [
     "女面魔禽",
-    "光头魔禽"
+    "光头魔禽",
+    "变异人面鹫"
   ],
   "summary": "灵界高阶魔禽，秃鹫身、女人面、四碧绿眼，身具真灵金乌部分血脉，会喷金乌真火、化金乌法相。",
   "attributes": {
     "种族": "魔禽",
     "等级": "炼虚初期、炼虚后期",
-    "血脉": "真灵金乌(部分)",
+    "血脉": "金乌血脉",
     "能力": "金乌真火、白色火蝶、魔核细针、魔音扰心神",
-    "外形": "秃鹫身/女人面/四只碧绿眼"
+    "外形": "秃鹫身/女人面/四只碧绿眼",
+    "栖息地": "魔金山脉"
   },
   "observations": {
     "种族": [
@@ -39,6 +41,11 @@
         "value": "真灵金乌(部分)",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "金乌血脉",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "能力": [
@@ -69,6 +76,13 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "栖息地": [
+      {
+        "value": "魔金山脉",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
     ]
   },
   "firstSeq": 1609,
@@ -87,9 +101,9 @@
     },
     "血脉": {
       "asOf": null,
-      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1609
+      "seq": 1615
     },
     "能力": {
       "asOf": null,
@@ -102,12 +116,19 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.266Z"
+  "updatedAt": "2026-06-21T01:25:25.124Z"
 }

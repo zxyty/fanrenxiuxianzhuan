@@ -2,11 +2,15 @@
   "id": "ent.place.x-cad6d6b0",
   "type": "place",
   "name": "真灵之穴",
-  "aliases": [],
+  "aliases": [
+    "灵穴"
+  ],
   "summary": "麒影记忆中最重要之物，将于这两年开启，得手者修炼可一日千里；位于魔金山脉内，眼下被一头负伤的圣阶魔兽占据。",
   "attributes": {
-    "类型": "秘穴/机缘之地",
-    "危险度": "被负伤圣阶魔兽占据"
+    "类型": "秘穴/机缘之地、秘穴/夺宝之地、真灵秘穴",
+    "危险度": "极高（圣阶魔兽看守、魔气凶猛）",
+    "所属界面": "灵界",
+    "守护": "圣阶魔兽、穴灵"
   },
   "observations": {
     "类型": [
@@ -14,6 +18,16 @@
         "value": "秘穴/机缘之地",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "秘穴/夺宝之地",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      },
+      {
+        "value": "真灵秘穴",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "危险度": [
@@ -21,6 +35,30 @@
         "value": "被负伤圣阶魔兽占据",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "极高（圣阶魔兽看守、魔气凶猛）",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      }
+    ],
+    "守护": [
+      {
+        "value": "圣阶魔兽",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
+      },
+      {
+        "value": "穴灵",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -34,15 +72,28 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1615
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "dated": false,
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:01:48.311Z"
+  "updatedAt": "2026-06-21T01:25:25.158Z"
 }

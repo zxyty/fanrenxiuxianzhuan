@@ -5,12 +5,13 @@
   "aliases": [
     "麒麟虚影",
     "迷你麒麟",
-    "麒麟分神"
+    "麒麟分神",
+    "迷你麒影"
   ],
   "summary": "当年一只真灵麒麟元神自爆分裂的十万份神念之一，逃出后欲借胎转生未成，反与胎儿纤纤魂魄结为伴生，彼此性命相连；保有真灵之穴等重要记忆。",
   "attributes": {
-    "种族": "真灵麒麟（分神）",
-    "能力": "指点修炼、保有真灵之穴位置等记忆"
+    "种族": "麒麟（虚影）",
+    "能力": "以墨麒麟残尸气炼化墨麟之宝"
   },
   "observations": {
     "种族": [
@@ -18,6 +19,11 @@
         "value": "真灵麒麟（分神）",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "麒麟（虚影）",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "能力": [
@@ -25,6 +31,11 @@
         "value": "指点修炼、保有真灵之穴位置等记忆",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "以墨麒麟残尸气炼化墨麟之宝",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ]
   },
@@ -32,21 +43,22 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1615
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1615
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:01:48.308Z"
+  "updatedAt": "2026-06-21T01:25:25.157Z"
 }

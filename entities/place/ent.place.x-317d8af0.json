@@ -9,10 +9,10 @@
   ],
   "summary": "距云城约一月路程、万余年前因空间风暴出现的黑色魔域山脉，魔气笼罩、虚空裂缝涌魔兽含圣阶，被天云族圣族封禁、每年仅开放一月供圣族以下入内猎魔兽，陨落率极高。",
   "attributes": {
-    "类型": "魔域山脉、凶地/山脉、凶险山脉、魔兽山脉",
-    "危险度": "极高（陨落率十之一二）、极高、高（魔气喷发期更甚）",
+    "类型": "魔域山脉、凶地/山脉、凶险山脉、魔兽山脉、魔气山脉",
+    "危险度": "极高（陨落率十之一二）、极高、高（魔气喷发期更甚）、高",
     "特产": "魔兽内丹/魔核、珍稀材料、芝仙、多眼魔眼珠",
-    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷、雷电世界外围、古魔、各阶魔兽",
+    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷、雷电世界外围、古魔、各阶魔兽、千计魔兽",
     "所属界面": "灵界、灵界（天云）"
   },
   "observations": {
@@ -36,6 +36,11 @@
         "value": "魔兽山脉",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "魔气山脉",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "危险度": [
@@ -53,6 +58,11 @@
         "value": "高（魔气喷发期更甚）",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "高",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "特产": [
@@ -98,6 +108,11 @@
         "value": "古魔、各阶魔兽",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "千计魔兽",
+        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+        "seq": 1615
       }
     ],
     "所属界面": [
@@ -154,7 +169,8 @@
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1619-shalu-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:12:46.254Z"
+  "updatedAt": "2026-06-21T01:25:25.162Z"
 }
