@@ -3,12 +3,13 @@
   "type": "world",
   "name": "仙界",
   "aliases": [
-    "仙界界面"
+    "仙界界面",
+    "天界"
   ],
   "summary": "最高界面，根本不与人界相通。",
   "attributes": {
-    "层次": "仙界",
-    "通道": "度劫飞升、接引台",
+    "层次": "灵界之上",
+    "通道": "仙界之门（乳白色裂缝/光柱）",
     "特点": "炼神术等真仙界秘术之源、仙域广袤数以千计、修炼资源远胜下界、对降临修士施加界面之力压制",
     "主宰势力": "始祖一脉"
   },
@@ -33,6 +34,11 @@
         "value": "仙界",
         "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
         "seq": 2401
+      },
+      {
+        "value": "灵界之上",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ],
     "通道": [
@@ -40,6 +46,11 @@
         "value": "度劫飞升、接引台",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
+      },
+      {
+        "value": "仙界之门（乳白色裂缝/光柱）",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ],
     "特点": [
@@ -76,15 +87,15 @@
   "attrProvenance": {
     "层次": {
       "asOf": null,
-      "docId": "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
       "dated": false,
-      "seq": 2401
+      "seq": 2425
     },
     "通道": {
       "asOf": null,
-      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
       "dated": false,
-      "seq": 1747
+      "seq": 2425
     },
     "特点": {
       "asOf": null,
@@ -110,7 +121,8 @@
     "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
     "plot.fanren-2395-2400-zhanlu-shang",
     "plot.fanren-ch2401-2406-wanling-xueyi-malang-vs-dasheng",
-    "plot.fanren-2427-zhanxian-zhong"
+    "plot.fanren-2427-zhanxian-zhong",
+    "plot.fanren-2425-2426-feisheng-zhijie"
   ],
-  "updatedAt": "2026-06-21T20:45:59.478Z"
+  "updatedAt": "2026-06-21T21:55:02.699Z"
 }

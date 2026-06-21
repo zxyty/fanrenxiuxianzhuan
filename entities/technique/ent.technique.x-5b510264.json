@@ -2,13 +2,16 @@
   "id": "ent.technique.x-5b510264",
   "type": "technique",
   "name": "元罡罩",
-  "aliases": [],
+  "aliases": [
+    "仙界秘术元罡罩"
+  ],
   "summary": "仙界秘术，以金篆文记载、晦涩难懂，操纵天地元气形成防御的特殊法决；碧影赠予韩立。",
   "attributes": {
     "品阶": "仙界秘术",
-    "效果": "操纵天地元气结成防御",
-    "出处": "碧影所赠/藏经阁",
-    "修炼条件": "需参悟金篆文"
+    "效果": "金色实体光罩护体、漩涡卷走天雷",
+    "出处": "仙界秘术",
+    "修炼条件": "需参悟金篆文",
+    "适用境界": "大乘渡劫"
   },
   "observations": {
     "品阶": [
@@ -23,6 +26,11 @@
         "value": "操纵天地元气结成防御",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "金色实体光罩护体、漩涡卷走天雷",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ],
     "出处": [
@@ -30,6 +38,11 @@
         "value": "碧影所赠/藏经阁",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "仙界秘术",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ],
     "修炼条件": [
@@ -37,6 +50,13 @@
         "value": "需参悟金篆文",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "大乘渡劫",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ]
   },
@@ -50,28 +70,35 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
       "dated": false,
-      "seq": 2359
+      "seq": 2425
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
       "dated": false,
-      "seq": 2359
+      "seq": 2425
     },
     "修炼条件": {
       "asOf": null,
       "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
       "seq": 2359
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+      "dated": false,
+      "seq": 2425
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2425-2426-feisheng-zhijie"
   ],
-  "updatedAt": "2026-06-21T19:58:49.561Z"
+  "updatedAt": "2026-06-21T21:55:02.695Z"
 }

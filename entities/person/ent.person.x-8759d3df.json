@@ -23,8 +23,9 @@
     "身份": "两族大乘靠山",
     "外貌": "精神矍铄老者",
     "标志特征": "雷云银弧电矢、大成元婴持双银色短剑；能喷白气神通腐蚀火链、持白色小旗与深红色小锤，能放红色闪电异宝、神秘符箓、白虎灵宠、赤红火凤灵宠、善用法阵、双灵宠",
-    "存殁": "失陷魔界",
-    "性别": "男"
+    "存殁": "死亡",
+    "性别": "男",
+    "死因": "大天劫陨落"
   },
   "observations": {
     "阵营": [
@@ -209,6 +210,11 @@
         "value": "失陷魔界",
         "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
         "seq": 2185
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ],
     "性别": [
@@ -216,6 +222,13 @@
         "value": "男",
         "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
         "seq": 2275
+      }
+    ],
+    "死因": [
+      {
+        "value": "大天劫陨落",
+        "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+        "seq": 2425
       }
     ]
   },
@@ -266,15 +279,21 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
       "dated": false,
-      "seq": 2185
+      "seq": 2425
     },
     "性别": {
       "asOf": null,
       "docId": "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
       "dated": false,
       "seq": 2275
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2425-2426-feisheng-zhijie",
+      "dated": false,
+      "seq": 2425
     }
   },
   "contested": false,
@@ -310,7 +329,8 @@
     "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
     "plot.fanren-2300-zushi-shanhai-zhu",
     "plot.fanren-ch2377-2382-malaiang-shizong",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2425-2426-feisheng-zhijie"
   ],
-  "updatedAt": "2026-06-21T19:58:49.529Z"
+  "updatedAt": "2026-06-21T21:55:02.652Z"
 }
