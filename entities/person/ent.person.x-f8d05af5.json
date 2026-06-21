@@ -14,7 +14,7 @@
     "称号": "合体巅峰",
     "外貌": "黄袍矮胖老者，背箩筐似的古怪背篓，慈眉善目",
     "性格": "和善而强势、城府深、说话兜圈子",
-    "小阶段": "合体顶阶",
+    "小阶段": "合体期(顶阶)",
     "身份": "万古族长老、傀儡大师、晶族客卿(存疑)",
     "阵营": "天云十三族"
   },
@@ -57,6 +57,11 @@
         "value": "合体顶阶",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "合体期(顶阶)",
+        "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
       }
     ],
     "身份": [
@@ -112,9 +117,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
       "dated": false,
-      "seq": 1585
+      "seq": 1597
     },
     "身份": {
       "asOf": null,
@@ -133,7 +138,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1586-qianjizi",
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.fanren-1600-1601-renmianjiao-duonu"
   ],
-  "updatedAt": "2026-06-21T00:51:27.673Z"
+  "updatedAt": "2026-06-21T00:55:36.822Z"
 }

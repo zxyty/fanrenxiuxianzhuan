@@ -9,10 +9,11 @@
   "attributes": {
     "性别": "男",
     "种族": "沙族",
-    "小阶段": "合体中期",
+    "小阶段": "合体期",
     "身份": "拍卖会主持人",
     "外貌": "温文尔雅锦袍白面中年",
-    "标志特征": "身负阴沉可怖气息"
+    "标志特征": "身负阴沉可怖气息",
+    "阵营": "四族"
   },
   "observations": {
     "性别": [
@@ -34,6 +35,11 @@
         "value": "合体中期",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
       }
     ],
     "身份": [
@@ -61,6 +67,13 @@
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
+    ],
+    "阵营": [
+      {
+        "value": "四族",
+        "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
+      }
     ]
   },
   "firstSeq": 1591,
@@ -79,9 +92,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
       "dated": false,
-      "seq": 1591
+      "seq": 1597
     },
     "身份": {
       "asOf": null,
@@ -100,13 +113,20 @@
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+      "dated": false,
+      "seq": 1597
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
-    "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao"
+    "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+    "plot.fanren-1600-1601-renmianjiao-duonu"
   ],
-  "updatedAt": "2026-06-21T00:53:21.409Z"
+  "updatedAt": "2026-06-21T00:55:36.818Z"
 }

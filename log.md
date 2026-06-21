@@ -614,3 +614,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-20T16:11:36.854Z** `ingest` plot.fanren-1586-qianjizi — 第1586章 千机子——广寒令引来三族争邀，万古族千机子降临 · kind=plot asOf=2026-06-20 entities=41 relations=52 src=01585-01590.md
 - **2026-06-21T00:51:27.832Z** `ingest` plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti — 凡人修仙传 第1591-1596章｜云城拍卖会·元磁之体被识破 · kind=plot asOf=2026-06-21 entities=34 relations=36 src=01591-01596.md
 - **2026-06-21T00:53:21.558Z** `ingest` plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao — 第1598-1599章：云城拍卖会——韩立竞得瑕疵琉璃天火液，压轴人面蛟混血异兽现身 · kind=plot asOf=2026-06-21 entities=18 relations=12 src=01597-01602.p1.md
+- **2026-06-21T00:55:36.970Z** `ingest` plot.fanren-1600-1601-renmianjiao-duonu — 第1600–1601章 惊变·人面蛟夺女（云城四族拍卖会） · kind=plot asOf=2026-06-21 entities=17 relations=22 src=01597-01602.p2.md
