@@ -11,7 +11,8 @@
   "attributes": {
     "所属界面": "灵界",
     "类型": "大陆",
-    "所属势力": "角蚩族"
+    "所属势力": "角蚩族",
+    "特产": "黄金雷狮"
   },
   "observations": {
     "所属界面": [
@@ -34,6 +35,13 @@
         "docId": "plot.fanren-1563-huaxue-lihun-dafa",
         "seq": 1561
       }
+    ],
+    "特产": [
+      {
+        "value": "黄金雷狮",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
+      }
     ]
   },
   "firstSeq": 1531,
@@ -55,6 +63,12 @@
       "docId": "plot.fanren-1563-huaxue-lihun-dafa",
       "dated": false,
       "seq": 1561
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "dated": false,
+      "seq": 2305
     }
   },
   "contested": false,
@@ -73,7 +87,8 @@
     "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu"
+    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
   ],
-  "updatedAt": "2026-06-21T15:33:17.598Z"
+  "updatedAt": "2026-06-21T17:37:08.072Z"
 }

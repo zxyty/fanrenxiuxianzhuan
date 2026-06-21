@@ -5,7 +5,9 @@
   "aliases": [],
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
-    "阵营": "魔道"
+    "阵营": "魔道",
+    "所属界面": "灵界",
+    "理念": "血道魔功"
   },
   "observations": {
     "阵营": [
@@ -13,6 +15,20 @@
         "value": "魔道",
         "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
         "seq": 1225
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
+      }
+    ],
+    "理念": [
+      {
+        "value": "血道魔功",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
       }
     ]
   },
@@ -23,13 +39,26 @@
       "docId": "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
       "dated": false,
       "seq": 1225
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "dated": false,
+      "seq": 2305
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "dated": false,
+      "seq": 2305
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1225-1230-tianjige-bishi-zhanshat-yinluo-zongzhu",
-    "plot.fanren-1226-jingang-hanli-vs-yuanzhi"
+    "plot.fanren-1226-jingang-hanli-vs-yuanzhi",
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
   ],
-  "updatedAt": "2026-06-20T06:00:56.879Z"
+  "updatedAt": "2026-06-21T17:37:08.069Z"
 }

@@ -1,0 +1,51 @@
+{
+  "id": "ent.person.x-0acc05ca",
+  "type": "person",
+  "name": "碧影",
+  "aliases": [
+    "碧老怪",
+    "碧影道友"
+  ],
+  "summary": "血天大陆某谋划大事者，明尊借七窍心音壁向其举荐韩立为帮手。",
+  "attributes": {
+    "身份": "血天大陆谋划者",
+    "阵营": "血天大陆"
+  },
+  "observations": {
+    "身份": [
+      {
+        "value": "血天大陆谋划者",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
+      }
+    ],
+    "阵营": [
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
+      }
+    ]
+  },
+  "firstSeq": 2305,
+  "attrProvenance": {
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "dated": false,
+      "seq": 2305
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "dated": false,
+      "seq": 2305
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
+  ],
+  "updatedAt": "2026-06-21T17:37:08.061Z"
+}

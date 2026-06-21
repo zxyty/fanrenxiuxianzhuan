@@ -8,7 +8,7 @@
   "summary": "灵界三大陆中最神秘者，血蛊虫独有产地。",
   "attributes": {
     "所属界面": "灵界",
-    "特产": "血蛊虫",
+    "特产": "血罡铁",
     "类型": "大陆"
   },
   "observations": {
@@ -24,6 +24,11 @@
         "value": "血蛊虫",
         "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
         "seq": 2185
+      },
+      {
+        "value": "血罡铁",
+        "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+        "seq": 2305
       }
     ],
     "类型": [
@@ -44,9 +49,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
       "dated": false,
-      "seq": 2185
+      "seq": 2305
     },
     "类型": {
       "asOf": null,
@@ -59,7 +64,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
-    "plot.fanren-2275-2280-hantan-dalao-kongjianshi"
+    "plot.fanren-2275-2280-hantan-dalao-kongjianshi",
+    "plot.fanren-ch2324-2328-helian-auction-fanyuan"
   ],
-  "updatedAt": "2026-06-21T17:08:06.492Z"
+  "updatedAt": "2026-06-21T17:37:08.071Z"
 }
