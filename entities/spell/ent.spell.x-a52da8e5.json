@@ -2,11 +2,15 @@
   "id": "ent.spell.x-a52da8e5",
   "type": "spell",
   "name": "五色神光",
-  "aliases": [],
+  "aliases": [
+    "五色光海",
+    "五色变身"
+  ],
   "summary": "五色孔雀真灵神通，所过之处五行之物皆被禁，名闻灵界。",
   "attributes": {
     "类型": "真灵神通",
-    "威力": "五行之物皆被禁"
+    "威力": "数倍于寻常五色神光",
+    "出处": "五光族"
   },
   "observations": {
     "类型": [
@@ -21,6 +25,19 @@
         "value": "五行之物皆被禁",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "数倍于寻常五色神光",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843,
+        "note": "鱼店主所修异常版本"
+      }
+    ],
+    "出处": [
+      {
+        "value": "五光族",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ]
   },
@@ -34,15 +51,23 @@
     },
     "威力": {
       "asOf": null,
-      "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
       "dated": false,
-      "seq": 1465
+      "seq": 1843,
+      "note": "鱼店主所修异常版本"
+    },
+    "出处": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1843-1848-hualing-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T12:41:41.635Z"
+  "updatedAt": "2026-06-21T07:01:40.323Z"
 }

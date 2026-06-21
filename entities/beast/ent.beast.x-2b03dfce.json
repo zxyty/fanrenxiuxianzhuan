@@ -11,15 +11,19 @@
     "五色孔雀灵禽",
     "徐姓青年灵禽",
     "五色灵光孔雀",
-    "五色孔雀真灵"
+    "五色孔雀真灵",
+    "五色孔雀虚影",
+    "巨型孔雀",
+    "五色神光孔雀"
   ],
   "summary": "徐姓青年所养上古灵禽，五色灵光所照之处恶风偃旗息鼓，但道行尚浅。",
   "attributes": {
     "种族": "灵犀孔雀、上古灵禽、真灵",
     "主人": "林银屏",
-    "能力": "五色灵光平息恶风、五色灵光、长翎激射破雾、瞬移扭曲身形、五色灵光隔绝天地灵气、开路、五色灵光镇风、五色灵光护罩、五色神光",
+    "能力": "五色灵光平息恶风、五色灵光、长翎激射破雾、瞬移扭曲身形、五色灵光隔绝天地灵气、开路、五色灵光镇风、五色灵光护罩、五色神光、五色神光禁制、五色飞剑、五色光盾",
     "外形": "五色孔雀、周身五色灵光、孔雀、上古孔雀、五色彩翎孔雀、数尺长五色彩翎孔雀、孔雀，尾部艳丽长翎",
-    "等级": "上古灵禽"
+    "等级": "上古灵禽",
+    "天敌": "山岳巨猿(比力不及)"
   },
   "observations": {
     "种族": [
@@ -106,6 +110,21 @@
         "value": "五色神光",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "五色神光禁制",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      },
+      {
+        "value": "五色飞剑",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      },
+      {
+        "value": "五色光盾",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ],
     "外形": [
@@ -151,6 +170,13 @@
         "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
         "seq": 1045
       }
+    ],
+    "天敌": [
+      {
+        "value": "山岳巨猿(比力不及)",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      }
     ]
   },
   "firstSeq": 1003,
@@ -184,6 +210,12 @@
       "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
       "dated": false,
       "seq": 1045
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
     }
   },
   "contested": false,
@@ -200,7 +232,8 @@
     "plot.fanren-ch1045-tun-ying",
     "plot.fanren-ch1051-chinian-zhenlei",
     "plot.fanren-ch1057-sanbao-lianshou",
-    "plot.fanren-1468-zhai-lei-zhi-shu"
+    "plot.fanren-1468-zhai-lei-zhi-shu",
+    "plot.fanren-1843-1848-hualing-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T12:41:41.636Z"
+  "updatedAt": "2026-06-21T07:01:40.361Z"
 }

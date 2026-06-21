@@ -662,3 +662,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T06:38:29.399Z** `ingest` plot.fanren-1825-1830-jinshen-yeyi-xilingchi — 凡人修仙传 第1825-1830章｜金身逞威·夜议深入魔界取洗灵池净灵莲 · kind=plot asOf=2026-06-21 entities=52 relations=62 src=01825-01830.md
 - **2026-06-21T06:46:43.316Z** `ingest` plot.fanren-1831-1836-wandu-hunyuan-shen — 凡人修仙传 第1831-1836章｜山腹小世界·万毒混元身·新变异噬金虫 · kind=plot asOf=2026-06-21 entities=41 relations=51 src=01831-01836.md
 - **2026-06-21T06:54:08.091Z** `ingest` plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan — 第1837-1842章 半部法决换路·再回地渊 · kind=plot asOf=2026-06-21 entities=25 relations=31 src=01837-01842.md
+- **2026-06-21T07:01:40.535Z** `ingest` plot.fanren-1843-1848-hualing-zhi-zhan — 凡人修仙传 第1843-1848章 化灵之战·破空异变 · kind=plot asOf=2026-06-21 entities=24 relations=31 src=01843-01848.md

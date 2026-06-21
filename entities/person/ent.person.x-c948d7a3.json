@@ -13,9 +13,10 @@
     "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法、魂魄与长元族人融合，记忆各半",
     "结局": "进入蛮荒后再无消息、进入蛮荒后失踪",
     "存殁": "下落不明",
-    "身份": "青元剑诀创立者、青元剑诀创始者、高阶大能、委托韩立收集材料者、委托韩立采药者、冥河之地坐镇者、隐居前辈",
+    "身份": "青元剑诀创立者、青元剑诀创始者、高阶大能、委托韩立收集材料者、委托韩立采药者、冥河之地坐镇者、隐居前辈、潜在大援",
     "种族": "人族",
-    "外貌": "灰袍三尺长髯、面容普通、精光四射"
+    "外貌": "灰袍三尺长髯、面容普通、精光四射",
+    "出身地": "隐于冥河之地"
   },
   "observations": {
     "小阶段": [
@@ -118,6 +119,11 @@
         "value": "隐居前辈",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "潜在大援",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ],
     "种族": [
@@ -133,6 +139,14 @@
         "value": "灰袍三尺长髯、面容普通、精光四射",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
+      }
+    ],
+    "出身地": [
+      {
+        "value": "隐于冥河之地",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843,
+        "note": "本片段未现身"
       }
     ]
   },
@@ -186,6 +200,13 @@
       "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
       "seq": 1507
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843,
+      "note": "本片段未现身"
     }
   },
   "contested": false,
@@ -205,7 +226,8 @@
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
-    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+    "plot.fanren-1843-1848-hualing-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T06:54:07.898Z"
+  "updatedAt": "2026-06-21T07:01:40.358Z"
 }

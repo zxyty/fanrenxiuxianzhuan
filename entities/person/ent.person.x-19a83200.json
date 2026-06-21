@@ -5,15 +5,23 @@
   "aliases": [
     "鱼姓男子",
     "余某",
-    "鱼道友"
+    "鱼道友",
+    "五光族人",
+    "双首巨禽鱼店主头颅",
+    "血色孔雀",
+    "迷你孔雀"
   ],
   "summary": "韩立当年在天鹏族圣城结识的枯瘦蓝袍中年男子；曾以青罗果诱韩立等助降雷兽后翻脸杀人，现已进阶圣阶初期，洗劫地渊矿脉后随韩立闯入传送法阵至冥河之地，与韩立开战。",
   "attributes": {
     "性别": "男",
-    "小阶段": "合体初期",
+    "小阶段": "合体后期大成巅峰",
     "身份": "圣城店主/神秘修士",
     "外貌": "身形枯瘦、蓝色长袍中年男子",
-    "标志特征": "驭雷兽、精通雷系神通"
+    "标志特征": "驭雷兽、精通雷系神通",
+    "种族": "五光族",
+    "性格": "镇定阴狠、记恨",
+    "存殁": "死亡",
+    "死因": "元婴被韩立金色电弧轰为灰烬"
   },
   "observations": {
     "性别": [
@@ -28,6 +36,12 @@
         "value": "合体初期",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "合体后期大成巅峰",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843,
+        "note": "与孔雀法相合一后暴涨两阶"
       }
     ],
     "身份": [
@@ -50,6 +64,34 @@
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
       }
+    ],
+    "种族": [
+      {
+        "value": "五光族",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      }
+    ],
+    "性格": [
+      {
+        "value": "镇定阴狠、记恨",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      }
+    ],
+    "死因": [
+      {
+        "value": "元婴被韩立金色电弧轰为灰烬",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
+      }
     ]
   },
   "firstSeq": 1837,
@@ -62,9 +104,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
       "dated": false,
-      "seq": 1837
+      "seq": 1843,
+      "note": "与孔雀法相合一后暴涨两阶"
     },
     "身份": {
       "asOf": null,
@@ -83,12 +126,37 @@
       "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
       "dated": false,
       "seq": 1837
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "dated": false,
+      "seq": 1843
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+    "plot.fanren-1843-1848-hualing-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T06:54:07.918Z"
+  "updatedAt": "2026-06-21T07:01:40.340Z"
 }

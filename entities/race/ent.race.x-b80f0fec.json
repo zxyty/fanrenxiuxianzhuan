@@ -7,9 +7,9 @@
   ],
   "summary": "灵界种族，以五色孔雀灵骨炼制须弥洞天图为镇族之宝。",
   "attributes": {
-    "代表人物": "秋夫人",
-    "天赋神通": "幻化秘术",
-    "特性": "独有幻化秘术（真假难辨）、翅小、服饰艳丽、外貌与天鹏族相似",
+    "代表人物": "鱼店主",
+    "天赋神通": "五色神光/五色变身",
+    "特性": "独有幻化秘术（真假难辨）、翅小、服饰艳丽、外貌与天鹏族相似、真血含五色光芒、与五色孔雀血脉相关",
     "阵营": "与天鹏族交好"
   },
   "observations": {
@@ -23,6 +23,11 @@
         "value": "秋夫人",
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423
+      },
+      {
+        "value": "鱼店主",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ],
     "天赋神通": [
@@ -35,6 +40,11 @@
         "value": "幻化秘术",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "五色神光/五色变身",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ],
     "特性": [
@@ -52,6 +62,11 @@
         "value": "外貌与天鹏族相似",
         "docId": "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
         "seq": 1405
+      },
+      {
+        "value": "真血含五色光芒、与五色孔雀血脉相关",
+        "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+        "seq": 1843
       }
     ],
     "阵营": [
@@ -66,15 +81,15 @@
   "attrProvenance": {
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
       "dated": false,
-      "seq": 1423
+      "seq": 1843
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.fanren-1425",
+      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
       "dated": false,
-      "seq": 1423
+      "seq": 1843
     },
     "特性": {
       "asOf": null,
@@ -98,7 +113,8 @@
     "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
     "plot.fanren-1425",
-    "plot.fanren-1431-1432-zhuyinzi-jiaojichang"
+    "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
+    "plot.fanren-1843-1848-hualing-zhi-zhan"
   ],
-  "updatedAt": "2026-06-20T11:39:50.556Z"
+  "updatedAt": "2026-06-21T07:01:40.359Z"
 }
