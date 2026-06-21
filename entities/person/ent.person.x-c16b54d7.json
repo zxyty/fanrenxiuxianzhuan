@@ -13,10 +13,11 @@
   "summary": "白化及之女，炼气期三四层女童，被石仑挟持为人质，由韩立以桃僵李代符救下。",
   "attributes": {
     "性别": "女",
-    "小阶段": "结丹后期",
+    "小阶段": "元婴初期",
     "外貌": "银袍少女",
     "身份": "韩立弟子",
-    "标志特征": "眉间深蓝莲花状标记、乳白莲影"
+    "标志特征": "眉间深蓝莲花状标记、乳白莲影",
+    "出身地": "玄武皇城(祖母/父亲一派)"
   },
   "observations": {
     "性别": [
@@ -41,6 +42,11 @@
         "value": "结丹后期",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "元婴初期",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "外貌": [
@@ -118,6 +124,14 @@
         "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
         "seq": 1855
       }
+    ],
+    "出身地": [
+      {
+        "value": "玄武皇城(祖母/父亲一派)",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861,
+        "note": "本片段决定迁往"
+      }
     ]
   },
   "firstSeq": 1771,
@@ -130,9 +144,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1831
+      "seq": 1861
     },
     "外貌": {
       "asOf": null,
@@ -151,6 +165,13 @@
       "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
       "seq": 1855
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "dated": false,
+      "seq": 1861,
+      "note": "本片段决定迁往"
     }
   },
   "contested": false,
@@ -162,7 +183,8 @@
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
-    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-21T07:16:44.560Z"
+  "updatedAt": "2026-06-21T07:34:14.088Z"
 }

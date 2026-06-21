@@ -10,8 +10,9 @@
   "summary": "天极门元婴修士，南陇侯生死之交，赠韩立联系令牌。",
   "attributes": {
     "称号": "璇玑子",
-    "外貌": "白袍老者",
-    "阵营": "天极门"
+    "外貌": "银发娇嫩面容、白袍",
+    "阵营": "天极门",
+    "小阶段": "合体中期大成"
   },
   "observations": {
     "称号": [
@@ -26,6 +27,11 @@
         "value": "白袍老者",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      },
+      {
+        "value": "银发娇嫩面容、白袍",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "阵营": [
@@ -33,6 +39,13 @@
         "value": "天极门",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体中期大成",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ]
   },
@@ -46,22 +59,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 721
+      "seq": 1861
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
       "dated": false,
       "seq": 721
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "dated": false,
+      "seq": 1861
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-721-726-dianyi-linghu-zhiyao",
-    "plot.fanren-721-726-dianyi-linghu-yufu"
+    "plot.fanren-721-726-dianyi-linghu-yufu",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-17T11:03:39.225Z"
+  "updatedAt": "2026-06-21T07:34:14.093Z"
 }

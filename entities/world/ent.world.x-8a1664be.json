@@ -13,7 +13,7 @@
   "attributes": {
     "通道": "通往人界",
     "特点": "意图侵占/降临此界、魔气浓厚、上古古魔来源、遗留圣器于下界、由圣祖主宰，图谋此界、魔气极浓、分魂反噬常见、有通往人界的上古通道、诸圣祖",
-    "主宰势力": "圣族",
+    "主宰势力": "诸圣祖",
     "层次": "高阶界面"
   },
   "observations": {
@@ -77,6 +77,11 @@
         "value": "圣族",
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
+      },
+      {
+        "value": "诸圣祖",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "层次": [
@@ -114,9 +119,9 @@
     },
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.fanren-1015-jinci-lingmu",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1015
+      "seq": 1861
     },
     "层次": {
       "asOf": null,
@@ -136,7 +141,8 @@
     "plot.fanren-ch829-834-modong-tunying-yishou",
     "plot.fanren-835-840-mozu-jietihuaxing",
     "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-21T02:18:49.565Z"
+  "updatedAt": "2026-06-21T07:34:14.122Z"
 }

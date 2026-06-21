@@ -15,8 +15,8 @@
   "summary": "上古流传的隐秘真灵世家,传承真龙血脉,操控遍布三境之地的拍卖行,血痣青年为其公子。",
   "attributes": {
     "等级": "真灵世家第一",
-    "镇派之宝": "真龙血脉传承、真龙之血、血晶摩诃剑、雪晶摩诃剑、合体级存在坐镇、真龙之血传承、擎天巨舟",
-    "据点": "九仙山迎仙宫第九层",
+    "镇派之宝": "真龙血脉传承、真龙之血、血晶摩诃剑、雪晶摩诃剑、合体级存在坐镇、真龙之血传承、擎天巨舟、陇家老祖",
+    "据点": "千万里山脉要塞据点群",
     "阵营": "人族、真灵世家·真龙血脉、人族真灵世家",
     "理念": "掌控人族拍卖行、兼得龙凤真血、真灵世家",
     "所属界面": "灵界"
@@ -84,6 +84,11 @@
         "value": "擎天巨舟",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "陇家老祖",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "据点": [
@@ -101,6 +106,11 @@
         "value": "九仙山迎仙宫第九层",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "千万里山脉要塞据点群",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "阵营": [
@@ -161,9 +171,9 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1795
+      "seq": 1861
     },
     "阵营": {
       "asOf": null,
@@ -203,7 +213,8 @@
     "plot.fanren-1825-1826-wanlingtai",
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-21T06:38:29.203Z"
+  "updatedAt": "2026-06-21T07:34:14.119Z"
 }

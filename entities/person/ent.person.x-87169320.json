@@ -3,17 +3,18 @@
   "type": "person",
   "name": "黑甲大汉",
   "aliases": [
-    "怒气冲冲大汉"
+    "怒气冲冲大汉",
+    "小鳄"
   ],
   "summary": "炼虚初期修士，与韩立、阴柔青年同受邀协助降服雷兽。",
   "attributes": {
-    "小阶段": "炼虚初期",
-    "外貌": "黑甲、满脸络腮胡、黑甲威武",
+    "小阶段": "合体期",
+    "外貌": "黑甲、满脸络腮胡、黑甲威武、黑甲、面容丑陋凶恶",
     "种族": "魔族",
-    "标志特征": "双巨锤",
+    "标志特征": "口吐白色雷芒、双巨锤、体表黑气滚滚、蛟龙虚影、精纯魔气",
     "性别": "男",
     "身份": "魔族尊者",
-    "阵营": "天鹏族",
+    "阵营": "宝华圣祖仆从",
     "存殁": "重伤昏迷"
   },
   "observations": {
@@ -22,6 +23,11 @@
         "value": "炼虚初期",
         "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
         "seq": 1417
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "外貌": [
@@ -34,6 +40,11 @@
         "value": "满脸络腮胡、黑甲威武",
         "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
         "seq": 1417
+      },
+      {
+        "value": "黑甲、面容丑陋凶恶",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "种族": [
@@ -46,6 +57,11 @@
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "邪龙后裔",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "标志特征": [
@@ -58,6 +74,16 @@
         "value": "双巨锤",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "体表黑气滚滚",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
+      },
+      {
+        "value": "蛟龙虚影、精纯魔气",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "性别": [
@@ -79,6 +105,11 @@
         "value": "天鹏族",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "宝华圣祖仆从",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "存殁": [
@@ -93,9 +124,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1417
+      "seq": 1861
     },
     "外貌": {
       "asOf": null,
@@ -111,9 +142,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
       "dated": false,
-      "seq": 1909
+      "seq": 1423
     },
     "性别": {
       "asOf": null,
@@ -129,9 +160,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1425",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1423
+      "seq": 1861
     },
     "存殁": {
       "asOf": null,
@@ -148,7 +179,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-20T11:37:56.468Z"
+  "updatedAt": "2026-06-21T07:34:14.101Z"
 }

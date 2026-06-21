@@ -3,15 +3,38 @@
   "type": "race",
   "name": "银狼族",
   "aliases": [],
-  "summary": "",
-  "attributes": {},
-  "observations": {},
+  "summary": "妖族之一，银光仙子与玲珑(银月)所属。",
+  "attributes": {
+    "代表人物": "银光仙子、银月"
+  },
+  "observations": {
+    "代表人物": [
+      {
+        "value": "银光仙子",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
+      },
+      {
+        "value": "银月",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
+      }
+    ]
+  },
   "firstSeq": 631,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "dated": false,
+      "seq": 1861
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain"
+    "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-14T20:25:50.700Z"
+  "updatedAt": "2026-06-21T07:34:14.132Z"
 }

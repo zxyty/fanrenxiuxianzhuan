@@ -14,15 +14,17 @@
     "宋姓师侄",
     "宋姓女子三人",
     "三女",
-    "宋姓女修"
+    "宋姓女修",
+    "圣主大人"
   ],
   "summary": "落云宗白凤峰峰主，柳眉的上司。",
   "attributes": {
     "性别": "女",
-    "身份": "白凤峰峰主、落云宗弟子、落云宗第四位元婴修士、落云宗长老、韩立门下师侄辈、落云宗元婴长老",
-    "小阶段": "结丹初期、结丹、结丹初期（近顶阶）、结丹中期巅峰、元婴、元婴期、结丹期、元婴初期",
+    "身份": "白凤峰峰主、落云宗弟子、落云宗第四位元婴修士、落云宗长老、韩立门下师侄辈、落云宗元婴长老、圣主",
+    "小阶段": "结丹初期、结丹、结丹初期（近顶阶）、结丹中期巅峰、元婴、元婴期、结丹期、元婴初期、大乘期",
     "阵营": "天南",
-    "标志特征": "共三人，宋姓，不冒失"
+    "标志特征": "本体被无数花朵虚影遮蔽",
+    "外貌": "白裙女子，足踏粉红奇花"
   },
   "observations": {
     "性别": [
@@ -62,6 +64,11 @@
         "value": "落云宗元婴长老",
         "docId": "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
         "seq": 1219
+      },
+      {
+        "value": "圣主",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "小阶段": [
@@ -104,6 +111,11 @@
         "value": "元婴初期",
         "docId": "plot.fanren-1196-er-nv",
         "seq": 1195
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "阵营": [
@@ -128,6 +140,18 @@
         "value": "共三人，宋姓，不冒失",
         "docId": "plot.ch1179-inner-valley-seek-three-women",
         "seq": 1177
+      },
+      {
+        "value": "本体被无数花朵虚影遮蔽",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白裙女子，足踏粉红奇花",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ]
   },
@@ -159,9 +183,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.ch1179-inner-valley-seek-three-women",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 1177
+      "seq": 1861
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "dated": false,
+      "seq": 1861
     }
   },
   "contested": false,
@@ -185,7 +215,8 @@
     "plot.ch1179-inner-valley-seek-three-women",
     "plot.ch1180-rescue-lava-lake-mupeilin",
     "plot.fanren-1181-chonglin-qiling",
-    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian"
+    "plot.fanren-1219-1224-zaidu-yuanyou-tianjidian",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-20T05:50:26.309Z"
+  "updatedAt": "2026-06-21T07:34:14.066Z"
 }

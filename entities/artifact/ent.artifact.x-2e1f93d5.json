@@ -7,8 +7,9 @@
   ],
   "summary": "韩立的法器，置于双目前凝望，可助其窥察阵法破绽。",
   "attributes": {
-    "持有者": "韩立",
-    "能力": "察看阵法破绽"
+    "持有者": "金袍仙使",
+    "能力": "察看阵法破绽",
+    "来历": "仙界宝物（仙使自述）"
   },
   "observations": {
     "持有者": [
@@ -16,6 +17,11 @@
         "value": "韩立",
         "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
         "seq": 313
+      },
+      {
+        "value": "金袍仙使",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
       }
     ],
     "能力": [
@@ -24,27 +30,41 @@
         "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
         "seq": 313
       }
+    ],
+    "来历": [
+      {
+        "value": "仙界宝物（仙使自述）",
+        "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+        "seq": 1861
+      }
     ]
   },
   "firstSeq": 313,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
-      "seq": 313
+      "seq": 1861
     },
     "能力": {
       "asOf": null,
       "docId": "plot.fanren-ch314-huihe-jiaomie-heishajiao",
       "dated": false,
       "seq": 313
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "dated": false,
+      "seq": 1861
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch314-huihe-jiaomie-heishajiao"
+    "plot.fanren-ch314-huihe-jiaomie-heishajiao",
+    "plot.fanren-1861-1866-mozhan-chongwang"
   ],
-  "updatedAt": "2026-06-14T10:27:34.998Z"
+  "updatedAt": "2026-06-21T07:34:14.061Z"
 }
