@@ -9,7 +9,8 @@
   "attributes": {
     "所属界面": "魔界",
     "类型": "封印之地",
-    "守护": "真仙封印"
+    "守护": "六极化身、真仙封印、上古封印禁制、虫海、血色螟虫",
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +47,28 @@
         "value": "真仙封印",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "上古封印禁制",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "虫海",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "血色螟虫",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
       }
     ]
   },
@@ -65,16 +88,23 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2107
+      "seq": 2083
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "dated": false,
+      "seq": 2191
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-2210-2215-mingchong-xieliansheng"
   ],
-  "updatedAt": "2026-06-21T13:53:18.799Z"
+  "updatedAt": "2026-06-21T15:36:11.348Z"
 }

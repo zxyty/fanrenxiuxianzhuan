@@ -9,7 +9,8 @@
     "元魇圣祖",
     "元魇前辈",
     "魔族始祖",
-    "元魇大人"
+    "元魇大人",
+    "元魇六极"
   ],
   "summary": "圣界圣祖级存在，黑袍、淡紫双目、剑眉，乘三首黑蛟，以黑枪开雷海通道，一掌镇压韩立一行。",
   "attributes": {
@@ -22,7 +23,8 @@
     "小阶段": "魔族始祖",
     "结局": "被伪仙傫自爆重创，失去小半身躯、气息衰弱大半",
     "阵营": "魔族",
-    "性格": "凶戾善演戏"
+    "性格": "凶戾善演戏",
+    "存殁": "被困"
   },
   "observations": {
     "性别": [
@@ -160,6 +162,14 @@
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
       }
+    ],
+    "存殁": [
+      {
+        "value": "被困",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191,
+        "note": "困于始印之地，约二十多年前与外界失联"
+      }
     ]
   },
   "firstSeq": 2065,
@@ -224,6 +234,13 @@
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
       "seq": 2083
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "dated": false,
+      "seq": 2191,
+      "note": "困于始印之地，约二十多年前与外界失联"
     }
   },
   "contested": false,
@@ -236,7 +253,8 @@
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
     "plot.fanren-2107-zaijian-weixianlu",
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
-    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity"
+    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+    "plot.fanren-2210-2215-mingchong-xieliansheng"
   ],
-  "updatedAt": "2026-06-21T15:25:01.493Z"
+  "updatedAt": "2026-06-21T15:36:11.337Z"
 }

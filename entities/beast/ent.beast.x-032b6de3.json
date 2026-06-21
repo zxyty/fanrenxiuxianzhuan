@@ -5,14 +5,18 @@
   "aliases": [
     "螟虫",
     "虫母",
-    "上古魔虫"
+    "上古魔虫",
+    "螟虫群",
+    "怪虫",
+    "螟虫母"
   ],
   "summary": "上古虫族诞生的恐怖存在，吞噬天地能量、繁殖惊人，毁灭数界后被两名真仙封印于始印之地，其苏醒即魔界大劫之源。",
   "attributes": {
     "种族": "上古虫族",
-    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体、吞噬一界之力",
-    "外形": "山岳般庞大",
-    "栖息地": "魔界（被封印处）"
+    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体、吞噬一界之力、实力大增、繁殖力激增数十倍、主动合并汇聚、反操控部分上古封印力量、气息感染普通魔虫使其变异为螟虫",
+    "外形": "狰狞，拳头至成人大小，倒刺/獠牙",
+    "栖息地": "始印之地",
+    "等级": "普通、高阶（不下合体）、巨型"
   },
   "observations": {
     "种族": [
@@ -42,6 +46,31 @@
         "value": "吞噬一界之力",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "实力大增",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "繁殖力激增数十倍",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "主动合并汇聚",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "反操控部分上古封印力量",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "气息感染普通魔虫使其变异为螟虫",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
       }
     ],
     "外形": [
@@ -49,6 +78,11 @@
         "value": "山岳般庞大",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "狰狞，拳头至成人大小，倒刺/獠牙",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
       }
     ],
     "栖息地": [
@@ -61,6 +95,28 @@
         "value": "魔界（被封印处）",
         "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
         "seq": 2131
+      },
+      {
+        "value": "始印之地",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      }
+    ],
+    "等级": [
+      {
+        "value": "普通",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "高阶（不下合体）",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
+      },
+      {
+        "value": "巨型",
+        "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+        "seq": 2191
       }
     ]
   },
@@ -80,22 +136,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
       "dated": false,
-      "seq": 2107
+      "seq": 2191
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
       "dated": false,
-      "seq": 2131
+      "seq": 2191
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "dated": false,
+      "seq": 2191
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
-    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen"
+    "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
+    "plot.fanren-2210-2215-mingchong-xieliansheng"
   ],
-  "updatedAt": "2026-06-21T14:19:01.294Z"
+  "updatedAt": "2026-06-21T15:36:11.342Z"
 }
