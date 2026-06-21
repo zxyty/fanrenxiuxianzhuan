@@ -16,20 +16,23 @@
     "紫衣女子",
     "紫衫宫装女子",
     "汪姑娘",
-    "紫灵妹妹"
+    "紫灵妹妹",
+    "紫姐姐",
+    "紫小姐"
   ],
   "summary": "妙音门弟子（门主之女），手持一节天雷竹，主导以名义长老之约换取韩立庇护。",
   "attributes": {
     "性别": "女",
-    "身份": "妙音门弟子（门主之女）、妙音门主事之一、妙音门修士、妙音门少门主、妙音门门主之女、妙音门宗主、妙音门此行为首、妙音门女修、天魔宗侍妾、魔宫侍妾、妙音门长老、外来散修、天魔宗太上长老侍妾",
+    "身份": "妙音门弟子（门主之女）、妙音门主事之一、妙音门修士、妙音门少门主、妙音门门主之女、妙音门宗主、妙音门此行为首、妙音门女修、天魔宗侍妾、魔宫侍妾、妙音门长老、外来散修、天魔宗太上长老侍妾、六极圣祖门下第七弟子/备用化身",
     "性格": "机敏、善谈判、洞察力强、沉稳、有谋略、不惊不躁、聪慧乖巧、知识渊博、谨慎、求强心切、心志坚定、心机深沉、妙音门被夺后偏执、机警聪慧、决然、心志坚定、追求强大、乖巧带狡黠、心机深沉、偏执",
-    "外貌": "眉清目秀、乱星海出名大美女、清秀模样、脸罩淡淡紫气看不清真容、黄衫少女、脸如白玉、明眸清澈、端庄秀丽、姿色普通、身材高挑、容貌普通、双目清澈、白裙貌美女修、明眸清眸、容颜出众、身材修长、秀发乌黑、五官艳丽，妩媚与冰寒交织、国色天香、乱星海出名美女、绝色慑人、容颜惊艳、姿容极佳娇媚动人、貌若天仙、身材修长、秀发乌黑、五官艳丽、神态冷漠妩媚交织",
+    "外貌": "眉清目秀、乱星海出名大美女、清秀模样、脸罩淡淡紫气看不清真容、黄衫少女、脸如白玉、明眸清澈、端庄秀丽、姿色普通、身材高挑、容貌普通、双目清澈、白裙貌美女修、明眸清眸、容颜出众、身材修长、秀发乌黑、五官艳丽，妩媚与冰寒交织、国色天香、乱星海出名美女、绝色慑人、容颜惊艳、姿容极佳娇媚动人、貌若天仙、身材修长、秀发乌黑、五官艳丽、神态冷漠妩媚交织、紫色长裙，常以黑纱雾气笼罩全身",
     "出身地": "妙音门",
-    "小阶段": "假丹期（筑基后期）、筑基期、结丹初期、结丹期、结丹、元婴期、元婴初期、金丹",
+    "小阶段": "假丹期（筑基后期）、筑基期、结丹初期、结丹期、结丹、元婴期、元婴初期、金丹、炼虚后期",
     "阵营": "乱星海",
-    "标志特征": "体内被下禁制",
+    "标志特征": "姹女素阴体",
     "称号": "紫灵仙子",
-    "结局": "本片段自行离去，立志不再嫁人专心修炼"
+    "结局": "本片段自行离去，立志不再嫁人专心修炼",
+    "种族": "人族"
   },
   "observations": {
     "性别": [
@@ -108,6 +111,11 @@
         "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
         "seq": 1231,
         "note": "被强掳，非自愿"
+      },
+      {
+        "value": "六极圣祖门下第七弟子/备用化身",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "性格": [
@@ -258,6 +266,11 @@
         "value": "身材修长、秀发乌黑、五官艳丽、神态冷漠妩媚交织",
         "docId": "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
         "seq": 1231
+      },
+      {
+        "value": "紫色长裙，常以黑纱雾气笼罩全身",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "出身地": [
@@ -308,6 +321,11 @@
         "value": "金丹",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "炼虚后期",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "阵营": [
@@ -353,6 +371,11 @@
         "value": "体内被下禁制",
         "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
         "seq": 1231
+      },
+      {
+        "value": "姹女素阴体",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "称号": [
@@ -372,6 +395,14 @@
         "value": "本片段自行离去，立志不再嫁人专心修炼",
         "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
         "seq": 1237
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101,
+        "note": "改修魔道功法"
       }
     ]
   },
@@ -422,9 +453,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1231-1236-kongjian-jiedian-hezuo-motuoshan",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 1231
+      "seq": 2101
     },
     "称号": {
       "asOf": null,
@@ -437,6 +468,13 @@
       "docId": "plot.fanren-1237-1244-ziling-exchange-huoyu",
       "dated": false,
       "seq": 1237
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "dated": false,
+      "seq": 2101,
+      "note": "改修魔道功法"
     }
   },
   "contested": false,
@@ -491,7 +529,8 @@
     "plot.fanren-1173-second-yuanying-tiansha-corpse",
     "plot.fanren-1231-1236-xiangzhili-fenglaoguai-hezuo",
     "plot.fanren-1237-1244-ziling-exchange-huoyu",
-    "plot.fanren-ch1245-jinghuo-xian"
+    "plot.fanren-ch1245-jinghuo-xian",
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
   ],
-  "updatedAt": "2026-06-20T06:29:35.922Z"
+  "updatedAt": "2026-06-21T13:50:35.405Z"
 }

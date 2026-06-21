@@ -15,10 +15,10 @@
     "种族": "圣族",
     "阵营": "魔族、魔族/圣族、魔族/圣界、圣族",
     "性别": "女",
-    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一",
+    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一、魔界始祖",
     "标志特征": "绿色小人元神、淡蓝色清澈眼珠、拥六大化身",
     "外貌": "肌肤如雪、黑色魔甲",
-    "称号": "落日真焰"
+    "称号": "魔界三大始祖之一"
   },
   "observations": {
     "种族": [
@@ -82,6 +82,11 @@
         "value": "魔界始祖之一",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "魔界始祖",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "标志特征": [
@@ -119,6 +124,11 @@
         "value": "落日真焰",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "魔界三大始祖之一",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ]
   },
@@ -162,9 +172,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 1945
+      "seq": 2101
     }
   },
   "contested": false,
@@ -176,7 +186,8 @@
     "plot.fanren-1958-huanri-shentong-baoshu",
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
   ],
-  "updatedAt": "2026-06-21T13:40:14.152Z"
+  "updatedAt": "2026-06-21T13:50:35.411Z"
 }

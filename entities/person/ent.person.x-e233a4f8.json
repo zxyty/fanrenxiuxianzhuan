@@ -10,16 +10,17 @@
     "千秋道友",
     "灵族圣女",
     "器灵族圣女",
-    "千秋姐姐"
+    "千秋姐姐",
+    "三层替身"
   ],
   "summary": "器灵族圣女、四大圣灵之一，与合体修士同阶；黄袍圆脸少女模样，携万森轮盘与擎天战舟构造图来两族拍卖会献宝。",
   "attributes": {
     "性别": "女",
-    "种族": "圣灵",
-    "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女、潜入魔界一行成员、圣女、灵族圣女、灵族圣灵",
+    "种族": "魔族",
+    "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女、潜入魔界一行成员、圣女、灵族圣女、灵族圣灵、广源斋小姐",
     "外貌": "黄袍圆脸十七八岁少女、十七八岁黄袍少女、黄袍少女（本体黄铜镜）、黄袍少女",
     "称号": "圣女",
-    "小阶段": "合体",
+    "小阶段": "化神期",
     "阵营": "韩立一方",
     "标志特征": "金色灵纹、半傫之身",
     "存殁": "死亡",
@@ -48,6 +49,11 @@
         "value": "圣灵",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "身份": [
@@ -91,6 +97,12 @@
         "value": "灵族圣灵",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "广源斋小姐",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101,
+        "note": "替身/接待普通客人"
       }
     ],
     "外貌": [
@@ -142,6 +154,11 @@
         "value": "合体",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "阵营": [
@@ -198,9 +215,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 1999
+      "seq": 2101
     },
     "身份": {
       "asOf": null,
@@ -222,9 +239,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 2047
+      "seq": 2101
     },
     "阵营": {
       "asOf": null,
@@ -268,7 +285,8 @@
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
-    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi"
+    "plot.fanren-2088-2089-wei-xian-lei-xuantian-hei-bi",
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
   ],
-  "updatedAt": "2026-06-21T13:07:47.151Z"
+  "updatedAt": "2026-06-21T13:50:35.410Z"
 }

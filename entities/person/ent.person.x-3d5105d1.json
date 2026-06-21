@@ -9,8 +9,9 @@
     "种族": "魔族",
     "外貌": "眉宇间铭印鲜红魔纹的青年",
     "标志特征": "额印鲜红魔纹",
-    "身份": "私矿主谋/异魔金卖家",
-    "性格": "谨慎精明"
+    "身份": "私矿头目",
+    "性格": "谨慎精明",
+    "小阶段": "炼虚化神等阶"
   },
   "observations": {
     "性别": [
@@ -46,6 +47,11 @@
         "value": "私矿主谋/异魔金卖家",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "私矿头目",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ],
     "性格": [
@@ -53,6 +59,13 @@
         "value": "谨慎精明",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "炼虚化神等阶",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ]
   },
@@ -84,21 +97,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 2095
+      "seq": 2101
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
       "seq": 2095
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "dated": false,
+      "seq": 2101
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
   ],
-  "updatedAt": "2026-06-21T13:47:45.540Z"
+  "updatedAt": "2026-06-21T13:50:35.412Z"
 }

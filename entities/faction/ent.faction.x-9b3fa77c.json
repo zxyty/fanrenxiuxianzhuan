@@ -7,7 +7,7 @@
   "attributes": {
     "所属界面": "魔界",
     "据点": "蓝瀑城",
-    "理念": "严控血牙米登记发售"
+    "理念": "蓝瀑湖第一势力"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +29,11 @@
         "value": "严控血牙米登记发售",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "蓝瀑湖第一势力",
+        "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+        "seq": 2101
       }
     ]
   },
@@ -48,15 +53,16 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
       "dated": false,
-      "seq": 2095
+      "seq": 2101
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
   ],
-  "updatedAt": "2026-06-21T13:47:45.543Z"
+  "updatedAt": "2026-06-21T13:50:35.413Z"
 }
