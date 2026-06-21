@@ -5,13 +5,16 @@
   "aliases": [
     "乌棍",
     "银斧",
-    "凶刃"
+    "凶刃",
+    "银色小斧",
+    "银色巨斧雷电"
   ],
   "summary": "圭灵的乌棍化成的十余丈银色巨斧，凶刃带器灵白虎，可施虎噬吞噬。",
   "attributes": {
     "持有者": "圭灵",
     "器灵": "独角白虎",
-    "外形": "十余丈雪亮巨斧"
+    "外形": "十余丈雪亮巨斧",
+    "能力": "化巨斧如雷电劈斩"
   },
   "observations": {
     "持有者": [
@@ -34,6 +37,13 @@
         "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
         "seq": 1021
       }
+    ],
+    "能力": [
+      {
+        "value": "化巨斧如雷电劈斩",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      }
     ]
   },
   "firstSeq": 1021,
@@ -55,13 +65,20 @@
       "docId": "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
       "dated": false,
       "seq": 1021
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1734-stone-wall-spirit-script",
+      "dated": false,
+      "seq": 1729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1021-1026-yanghuan-jiangfu-guiling-jiesha-laomo",
-    "plot.fanren-ch1051-chinian-zhenlei"
+    "plot.fanren-ch1051-chinian-zhenlei",
+    "plot.fanren-1734-stone-wall-spirit-script"
   ],
-  "updatedAt": "2026-06-18T07:36:16.071Z"
+  "updatedAt": "2026-06-21T03:59:44.629Z"
 }

@@ -8,22 +8,28 @@
   "summary": "韩立所炼黑色山峰法宝，可化百余丈罩敌，源自元磁神光，本片段被白袍少年极寒冻结小半。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "黑色山峰",
-    "五行属性": "金（元磁）"
+    "外形": "黑色山峰、黑色小山",
+    "五行属性": "金（元磁）",
+    "能力": "摄人入山腹、空间神通（吸河摄海，五极山完全炼成时）、分量极重、膨胀至十余丈、闪入虚空瞬移"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1729
       }
     ],
     "外形": [
       {
         "value": "黑色山峰",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1729
+      },
+      {
+        "value": "黑色小山",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
       }
     ],
     "五行属性": [
@@ -32,33 +38,67 @@
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
       }
+    ],
+    "能力": [
+      {
+        "value": "摄人入山腹",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      },
+      {
+        "value": "空间神通（吸河摄海，五极山完全炼成时）",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      },
+      {
+        "value": "分量极重",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      },
+      {
+        "value": "膨胀至十余丈",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      },
+      {
+        "value": "闪入虚空瞬移",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
+      }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1729,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1729
     },
     "外形": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1729
     },
     "五行属性": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1734-stone-wall-spirit-script",
+      "dated": false,
+      "seq": 1729
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1734-stone-wall-spirit-script"
   ],
-  "updatedAt": "2026-06-17T02:59:10.934Z"
+  "updatedAt": "2026-06-21T03:59:44.615Z"
 }

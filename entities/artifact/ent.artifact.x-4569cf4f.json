@@ -6,11 +6,12 @@
     "九宫天乾符光阵",
     "九宫天乾符宫殿",
     "九宫天乾符阵",
-    "银色光阵"
+    "银色光阵",
+    "九宫天乾符箓"
   ],
   "summary": "困敌用仙家符箓，韩立只参悟出一半，凭此研制出万珑珠。",
   "attributes": {
-    "品阶": "仙家符箓",
+    "品阶": "炼制材料稀少之极",
     "能力": "困敌、结成巨型光阵困敌、化宫殿楼台困敌、笼罩镇压、化光阵困敌、幻境宫殿、镇压罩落、喷银色光柱",
     "持有者": "韩立",
     "外形": "一百零八张银符排成奇异图案、108张银色符箓、银色光阵+银光宫殿虚影",
@@ -22,6 +23,11 @@
         "value": "仙家符箓",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "炼制材料稀少之极",
+        "docId": "plot.fanren-1734-stone-wall-spirit-script",
+        "seq": 1729
       }
     ],
     "能力": [
@@ -102,9 +108,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1341-leipao-xianshi",
+      "docId": "plot.fanren-1734-stone-wall-spirit-script",
       "dated": false,
-      "seq": 1339
+      "seq": 1729
     },
     "能力": {
       "asOf": null,
@@ -142,7 +148,8 @@
     "plot.fanren-1463-muqing-dong",
     "plot.fanren-1492-da-zhan-ming-lei-shou",
     "plot.fanren-1495-1500-xutiandian-jiuren",
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1734-stone-wall-spirit-script"
   ],
-  "updatedAt": "2026-06-21T01:25:25.154Z"
+  "updatedAt": "2026-06-21T03:59:44.638Z"
 }
