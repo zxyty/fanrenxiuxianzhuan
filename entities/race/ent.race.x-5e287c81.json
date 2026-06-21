@@ -10,7 +10,9 @@
   "attributes": {
     "特性": "天生真灵之体",
     "聚居地": "龙岛",
-    "天敌": "魔龙"
+    "天敌": "魔龙",
+    "天赋神通": "真麟留影之术",
+    "代表人物": "樊咆子、真龙族大长老"
   },
   "observations": {
     "特性": [
@@ -33,6 +35,25 @@
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
       }
+    ],
+    "天赋神通": [
+      {
+        "value": "真麟留影之术",
+        "docId": "plot.fanren-2439-deal-and-dao-fruit-assembly",
+        "seq": 2419
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "樊咆子",
+        "docId": "plot.fanren-2439-deal-and-dao-fruit-assembly",
+        "seq": 2419
+      },
+      {
+        "value": "真龙族大长老",
+        "docId": "plot.fanren-2439-deal-and-dao-fruit-assembly",
+        "seq": 2419
+      }
     ]
   },
   "firstSeq": 2311,
@@ -54,13 +75,26 @@
       "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
       "seq": 2311
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-2439-deal-and-dao-fruit-assembly",
+      "dated": false,
+      "seq": 2419
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-2439-deal-and-dao-fruit-assembly",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2439-deal-and-dao-fruit-assembly"
   ],
-  "updatedAt": "2026-06-21T17:47:59.005Z"
+  "updatedAt": "2026-06-21T21:37:20.774Z"
 }
