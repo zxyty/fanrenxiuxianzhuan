@@ -1,59 +1,55 @@
 {
-  "id": "ent.place.x-f073f25d",
-  "type": "place",
-  "name": "黑域",
+  "id": "ent.person.x-46967411",
+  "type": "person",
+  "name": "十一号黑纱侍女",
   "aliases": [
-    "黑暗世界"
+    "十一号",
+    "十一号侍女"
   ],
-  "summary": "黑域交换会的举办地，并非固定之处，而是可自行移动的须弥空间。",
+  "summary": "黑域接待韩立的黑纱侍女，身材娇小、结丹以上修为、极品炉鼎，陪韩立前往大殿。",
   "attributes": {
-    "类型": "秘境/交换大会场所",
-    "危险度": "高(藏匿异种妖兽及蛟蟒巨兽)",
-    "守护": "黑域牵引使者"
+    "性别": "女",
+    "小阶段": "结丹以上",
+    "身份": "黑域接待侍女/炉鼎"
   },
   "observations": {
-    "类型": [
+    "性别": [
       {
-        "value": "可移动须弥空间",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "秘境/交换大会场所",
+        "value": "女",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "危险度": [
+    "小阶段": [
       {
-        "value": "高(藏匿异种妖兽及蛟蟒巨兽)",
+        "value": "结丹以上",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "守护": [
+    "身份": [
       {
-        "value": "黑域牵引使者",
+        "value": "黑域接待侍女/炉鼎",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1801,
   "attrProvenance": {
-    "类型": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "危险度": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "守护": {
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
@@ -63,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.580Z"
+  "updatedAt": "2026-06-21T05:59:14.574Z"
 }

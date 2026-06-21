@@ -1,59 +1,54 @@
 {
-  "id": "ent.place.x-f073f25d",
-  "type": "place",
-  "name": "黑域",
+  "id": "ent.person.x-ff4a100a",
+  "type": "person",
+  "name": "秦素儿",
   "aliases": [
-    "黑暗世界"
+    "素儿"
   ],
-  "summary": "黑域交换会的举办地，并非固定之处，而是可自行移动的须弥空间。",
+  "summary": "天狐族女修，秦媚儿之姐，修炼心幻之术，曾化形为南宫婉试探韩立；为韩立搜集妖兽材料换取万年灵药。",
   "attributes": {
-    "类型": "秘境/交换大会场所",
-    "危险度": "高(藏匿异种妖兽及蛟蟒巨兽)",
-    "守护": "黑域牵引使者"
+    "种族": "天狐族",
+    "性别": "女",
+    "外貌": "瓜子脸蛋秀丽女子"
   },
   "observations": {
-    "类型": [
+    "种族": [
       {
-        "value": "可移动须弥空间",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "秘境/交换大会场所",
+        "value": "天狐族",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "危险度": [
+    "性别": [
       {
-        "value": "高(藏匿异种妖兽及蛟蟒巨兽)",
+        "value": "女",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "守护": [
+    "外貌": [
       {
-        "value": "黑域牵引使者",
+        "value": "瓜子脸蛋秀丽女子",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1801,
   "attrProvenance": {
-    "类型": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "危险度": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "守护": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
@@ -63,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.580Z"
+  "updatedAt": "2026-06-21T05:59:14.575Z"
 }

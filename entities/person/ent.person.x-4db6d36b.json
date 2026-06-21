@@ -10,18 +10,20 @@
     "赵城主孙女",
     "凤灵仙子",
     "风灵仙子",
-    "紫衫女子"
+    "紫衫女子",
+    "紫衫少女"
   ],
   "summary": "约四五岁女童，安远城赵城主之孙女，城破时被韩立所救，后由赵府老管家与丫鬟兰儿接回。",
   "attributes": {
     "性别": "女",
     "身份": "安远城赵城主孙女、赵某孙女、赵城主孙女、半妖女童、少族长嫡亲孙女、黑凤族直系血脉",
-    "外貌": "四五岁女童，面容白嫩，乌黑大眼、女童、四五岁、白嫩可爱、乌黑大眼、华美精致服饰、女童，清澈双目、十七八岁恬静清秀紫衫少女",
+    "外貌": "四五岁女童，面容白嫩，乌黑大眼、女童、四五岁、白嫩可爱、乌黑大眼、华美精致服饰、女童，清澈双目、十七八岁恬静清秀紫衫少女、绝色，仿若月宫仙子，与南宫婉七八分酷似，气质清冷",
     "种族": "半妖、半妖(黑凤族直系血脉)、黑凤族、半妖（黑凤族血脉）、人妖混血",
     "小阶段": "化神初期",
     "标志特征": "修炼速度奇快",
     "存殁": "存活",
-    "称号": "凤灵仙子、风灵仙子"
+    "称号": "凤灵仙子、风灵仙子",
+    "性格": "感恩、清冷又柔和"
   },
   "observations": {
     "性别": [
@@ -89,6 +91,11 @@
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789,
         "note": "真容被黑凤王本命真翎幻化遮蔽"
+      },
+      {
+        "value": "绝色，仿若月宫仙子，与南宫婉七八分酷似，气质清冷",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "种族": [
@@ -167,6 +174,13 @@
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
+    ],
+    "性格": [
+      {
+        "value": "感恩、清冷又柔和",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
     ]
   },
   "firstSeq": 1279,
@@ -219,6 +233,12 @@
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
       "seq": 1789
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
     }
   },
   "contested": false,
@@ -231,7 +251,8 @@
     "plot.fanren-1279-1284-anyuancheng-beast-tide-fall",
     "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:48:33.224Z"
+  "updatedAt": "2026-06-21T05:59:14.567Z"
 }

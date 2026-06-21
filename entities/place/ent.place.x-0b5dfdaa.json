@@ -1,45 +1,40 @@
 {
-  "id": "ent.place.x-f073f25d",
+  "id": "ent.place.x-0b5dfdaa",
   "type": "place",
-  "name": "黑域",
+  "name": "迷天楼",
   "aliases": [
-    "黑暗世界"
+    "幻天楼"
   ],
-  "summary": "黑域交换会的举办地，并非固定之处，而是可自行移动的须弥空间。",
+  "summary": "九仙山中心坊市群中的天狐族店铺，专售迷天石，楼体大半建于地下分五六层。",
   "attributes": {
-    "类型": "秘境/交换大会场所",
-    "危险度": "高(藏匿异种妖兽及蛟蟒巨兽)",
-    "守护": "黑域牵引使者"
+    "类型": "坊市店铺",
+    "所属势力": "天狐族",
+    "特产": "迷天石"
   },
   "observations": {
     "类型": [
       {
-        "value": "可移动须弥空间",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "秘境/交换大会场所",
+        "value": "坊市店铺",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "危险度": [
+    "所属势力": [
       {
-        "value": "高(藏匿异种妖兽及蛟蟒巨兽)",
+        "value": "天狐族",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "守护": [
+    "特产": [
       {
-        "value": "黑域牵引使者",
+        "value": "迷天石",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1801,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -47,13 +42,13 @@
       "dated": false,
       "seq": 1801
     },
-    "危险度": {
+    "所属势力": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "守护": {
+    "特产": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
@@ -63,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.580Z"
+  "updatedAt": "2026-06-21T05:59:14.558Z"
 }

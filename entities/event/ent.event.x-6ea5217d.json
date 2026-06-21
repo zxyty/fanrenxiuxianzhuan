@@ -3,13 +3,15 @@
   "type": "event",
   "name": "魔劫",
   "aliases": [
-    "魔灾"
+    "魔灾",
+    "魔劫之事",
+    "千年大劫"
   ],
   "summary": "古魔族降临的浩劫，将于千年内爆发；上次魔劫人妖合体期散修陨落大半，亦有三妖王一人皇战死。",
   "attributes": {
     "参与方": "古魔族、人族、妖族、人妖两族",
-    "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生、无人可置身事外",
-    "起因": "魔界与灵界界面交融"
+    "影响": "散修各自为战被古魔围剿、伤亡惨重、新任灵皇须死守天灵城、九死一生、无人可置身事外、两族灵药材料奇缺、势力积攒实力",
+    "起因": "魔界之战将至"
   },
   "observations": {
     "参与方": [
@@ -49,6 +51,11 @@
         "value": "无人可置身事外",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "两族灵药材料奇缺、势力积攒实力",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "起因": [
@@ -56,6 +63,11 @@
         "value": "魔界与灵界界面交融",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "魔界之战将至",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ]
   },
@@ -75,16 +87,17 @@
     },
     "起因": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
-      "seq": 1783
+      "seq": 1801
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:51:21.936Z"
+  "updatedAt": "2026-06-21T05:59:14.560Z"
 }

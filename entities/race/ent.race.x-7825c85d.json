@@ -1,59 +1,59 @@
 {
-  "id": "ent.place.x-f073f25d",
-  "type": "place",
-  "name": "黑域",
+  "id": "ent.race.x-7825c85d",
+  "type": "race",
+  "name": "金罡妖猿",
   "aliases": [
-    "黑暗世界"
+    "金罡妖猿一族"
   ],
-  "summary": "黑域交换会的举办地，并非固定之处，而是可自行移动的须弥空间。",
+  "summary": "极稀少的妖猿一族，长年守护圣岛的妖兵之一，天赋神通含九婴真火（罕能修炼大成）。",
   "attributes": {
-    "类型": "秘境/交换大会场所",
-    "危险度": "高(藏匿异种妖兽及蛟蟒巨兽)",
-    "守护": "黑域牵引使者"
+    "特性": "肉身强横、稀少",
+    "天赋神通": "九婴真火",
+    "聚居地": "圣岛"
   },
   "observations": {
-    "类型": [
+    "特性": [
       {
-        "value": "可移动须弥空间",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
+        "value": "肉身强横",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       },
       {
-        "value": "秘境/交换大会场所",
+        "value": "稀少",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "危险度": [
+    "天赋神通": [
       {
-        "value": "高(藏匿异种妖兽及蛟蟒巨兽)",
+        "value": "九婴真火",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "守护": [
+    "聚居地": [
       {
-        "value": "黑域牵引使者",
+        "value": "圣岛",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1801,
   "attrProvenance": {
-    "类型": {
+    "特性": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "危险度": {
+    "天赋神通": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "守护": {
+    "聚居地": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
@@ -63,8 +63,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.580Z"
+  "updatedAt": "2026-06-21T05:59:14.554Z"
 }

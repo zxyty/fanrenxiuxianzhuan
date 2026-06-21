@@ -1,43 +1,40 @@
 {
-  "id": "ent.item.x-320113b8",
-  "type": "item",
-  "name": "牵引令",
+  "id": "ent.material.x-126ee929",
+  "type": "material",
+  "name": "迷天石",
   "aliases": [
-    "牵引令牌",
-    "三角令牌"
+    "顶阶迷天石"
   ],
-  "summary": "进入黑域之地的唯一信物，黑黝黝三角令牌，万骨真人赠予韩立。",
+  "summary": "布置以幻阵为主的法阵之必需材料，分等阶、消耗极大；迷天楼为唯一大量出售顶阶迷天石者。",
   "attributes": {
-    "类型": "凭证令牌",
-    "用途": "凭以进入黑域"
+    "类型": "阵法材料",
+    "用途": "布置幻阵",
+    "产地": "迷天楼"
   },
   "observations": {
     "类型": [
       {
-        "value": "信物令牌",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
-      {
-        "value": "凭证令牌",
+        "value": "阵法材料",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
     "用途": [
       {
-        "value": "参加黑域交换会的凭证",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
+        "value": "布置幻阵",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ],
+    "产地": [
       {
-        "value": "凭以进入黑域",
+        "value": "迷天楼",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1795,
+  "firstSeq": 1801,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -50,13 +47,18 @@
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.576Z"
+  "updatedAt": "2026-06-21T05:59:14.550Z"
 }

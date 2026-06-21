@@ -1,0 +1,50 @@
+{
+  "id": "ent.technique.x-a65f51b6",
+  "type": "technique",
+  "name": "无情道",
+  "aliases": [
+    "无情道功法"
+  ],
+  "summary": "陇家老祖所修，绝去情绪弱点、连骨肉亲情亦不顾的威力绝大功法。",
+  "attributes": {
+    "效果": "断绝情绪/心神弱点",
+    "修炼条件": "舍弃情感"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "断绝情绪/心神弱点",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "舍弃情感",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ]
+  },
+  "firstSeq": 1801,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
+  ],
+  "updatedAt": "2026-06-21T05:59:14.548Z"
+}

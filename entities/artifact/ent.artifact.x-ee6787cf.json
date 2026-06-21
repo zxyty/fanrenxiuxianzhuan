@@ -1,59 +1,68 @@
 {
-  "id": "ent.place.x-f073f25d",
-  "type": "place",
-  "name": "黑域",
+  "id": "ent.artifact.x-ee6787cf",
+  "type": "artifact",
+  "name": "绢帕",
   "aliases": [
-    "黑暗世界"
+    "白光绢帕"
   ],
-  "summary": "黑域交换会的举办地，并非固定之处，而是可自行移动的须弥空间。",
+  "summary": "韩立当年赠予女童黛儿的低阶灵器，有避尘之用，黛儿贴身珍藏，成为相认信物。",
   "attributes": {
-    "类型": "秘境/交换大会场所",
-    "危险度": "高(藏匿异种妖兽及蛟蟒巨兽)",
-    "守护": "黑域牵引使者"
+    "品阶": "低阶灵器",
+    "持有者": "黛儿",
+    "能力": "避尘",
+    "外形": "散发淡淡白光的绢帕"
   },
   "observations": {
-    "类型": [
+    "品阶": [
       {
-        "value": "可移动须弥空间",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "秘境/交换大会场所",
+        "value": "低阶灵器",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "危险度": [
+    "持有者": [
       {
-        "value": "高(藏匿异种妖兽及蛟蟒巨兽)",
+        "value": "黛儿",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
-    "守护": [
+    "能力": [
       {
-        "value": "黑域牵引使者",
+        "value": "避尘",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ],
+    "外形": [
+      {
+        "value": "散发淡淡白光的绢帕",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1801,
   "attrProvenance": {
-    "类型": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "危险度": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
     },
-    "守护": {
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
+    },
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
@@ -63,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.580Z"
+  "updatedAt": "2026-06-21T05:59:14.575Z"
 }

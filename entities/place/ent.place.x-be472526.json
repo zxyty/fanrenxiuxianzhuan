@@ -5,12 +5,13 @@
   "aliases": [
     "九座山头灵山",
     "九仙山山脉",
-    "就仙山"
+    "就仙山",
+    "九仙山坊市群"
   ],
   "summary": "玄武境与天狐之地交界处，本届人妖两族万宝大会举办地。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "交易会场地、灵山、山脉、大会主办地、盛会举办地",
+    "类型": "交易会场地、灵山、山脉、大会主办地、盛会举办地、万宝大会会场/山岳、山脉/修士聚居地",
     "特产": "极品灵脉、人妖两用灵药",
     "守护": "大会前千里禁区、擅入者驱逐或杀无赦"
   },
@@ -47,6 +48,16 @@
         "value": "盛会举办地",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "万宝大会会场/山岳",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      },
+      {
+        "value": "山脉/修士聚居地",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "特产": [
@@ -109,7 +120,8 @@
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:51:21.938Z"
+  "updatedAt": "2026-06-21T05:59:14.582Z"
 }

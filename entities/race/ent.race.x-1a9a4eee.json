@@ -2,11 +2,14 @@
   "id": "ent.race.x-1a9a4eee",
   "type": "race",
   "name": "天狐族",
-  "aliases": [],
+  "aliases": [
+    "天狐一族",
+    "天狐王族"
+  ],
   "summary": "妖族之一，隐匿与幻化天赋在妖族众多种族中可排前三；花仙子出身于此并反出该族。",
   "attributes": {
-    "天赋神通": "隐匿、幻化",
-    "代表人物": "花仙子"
+    "天赋神通": "隐匿、幻化、心幻之术",
+    "代表人物": "花仙子、秦素儿、秦媚儿"
   },
   "observations": {
     "天赋神通": [
@@ -19,6 +22,11 @@
         "value": "幻化",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "心幻之术",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "代表人物": [
@@ -26,6 +34,16 @@
         "value": "花仙子",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "秦素儿",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      },
+      {
+        "value": "秦媚儿",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ]
   },
@@ -47,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:40:39.748Z"
+  "updatedAt": "2026-06-21T05:59:14.555Z"
 }

@@ -4,14 +4,17 @@
   "name": "陇家老祖",
   "aliases": [
     "陇老怪",
-    "金面中年修士"
+    "金面中年修士",
+    "金面中年人",
+    "陇家老怪"
   ],
   "summary": "真灵第一世家陇家之祖，合体后期大成，激发半龙之身，修无情道神通，丽娘生父。",
   "attributes": {
-    "种族": "真龙血脉一族",
-    "小阶段": "合体后期大成",
+    "种族": "人族",
+    "小阶段": "合体后期",
     "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
-    "标志特征": "面色淡金、气息冰冷"
+    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)",
+    "身份": "陇家老祖"
   },
   "observations": {
     "种族": [
@@ -19,6 +22,11 @@
         "value": "真龙血脉一族",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "小阶段": [
@@ -26,6 +34,11 @@
         "value": "合体后期大成",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ],
     "外貌": [
@@ -41,6 +54,23 @@
         "value": "面色淡金、气息冰冷",
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
+      },
+      {
+        "value": "真龙之血",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      },
+      {
+        "value": "半龙化(龙角金鳞金眸)",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ],
+    "身份": [
+      {
+        "value": "陇家老祖",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
       }
     ]
   },
@@ -48,15 +78,15 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
-      "seq": 1795
+      "seq": 1801
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
-      "seq": 1795
+      "seq": 1801
     },
     "外貌": {
       "asOf": null,
@@ -70,12 +100,19 @@
       "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
       "dated": false,
       "seq": 1795
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi"
+    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:51:21.915Z"
+  "updatedAt": "2026-06-21T05:59:14.537Z"
 }

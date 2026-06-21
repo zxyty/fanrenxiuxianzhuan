@@ -1,43 +1,33 @@
 {
-  "id": "ent.item.x-320113b8",
-  "type": "item",
-  "name": "牵引令",
+  "id": "ent.material.x-65acf8d8",
+  "type": "material",
+  "name": "妖兽材料",
   "aliases": [
-    "牵引令牌",
-    "三角令牌"
+    "妖兽骸骨",
+    "高阶妖兽内丹"
   ],
-  "summary": "进入黑域之地的唯一信物，黑黝黝三角令牌，万骨真人赠予韩立。",
+  "summary": "韩立炼制第二座极山所需的妖兽骸骨、内丹等材料，由秦素儿搜集，盛于小弥珠中交付。",
   "attributes": {
-    "类型": "凭证令牌",
-    "用途": "凭以进入黑域"
+    "类型": "炼器材料",
+    "用途": "炼制极山"
   },
   "observations": {
     "类型": [
       {
-        "value": "信物令牌",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
-      {
-        "value": "凭证令牌",
+        "value": "炼器材料",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
     "用途": [
       {
-        "value": "参加黑域交换会的凭证",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
-      {
-        "value": "凭以进入黑域",
+        "value": "炼制极山",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1795,
+  "firstSeq": 1801,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -55,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.576Z"
+  "updatedAt": "2026-06-21T05:59:14.553Z"
 }

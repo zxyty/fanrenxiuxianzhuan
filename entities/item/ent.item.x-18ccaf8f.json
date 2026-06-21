@@ -1,43 +1,40 @@
 {
-  "id": "ent.item.x-320113b8",
+  "id": "ent.item.x-18ccaf8f",
   "type": "item",
-  "name": "牵引令",
+  "name": "小弥珠",
   "aliases": [
-    "牵引令牌",
-    "三角令牌"
+    "半须弥宝物"
   ],
-  "summary": "进入黑域之地的唯一信物，黑黝黝三角令牌，万骨真人赠予韩立。",
+  "summary": "天狐族前辈炼制失败的半须弥宝物，鸡蛋大小淡黄圆珠，容量远大于普通储物灵器且可炼化入体、较隐秘。",
   "attributes": {
-    "类型": "凭证令牌",
-    "用途": "凭以进入黑域"
+    "类型": "储物宝物",
+    "用途": "盛装大量材料",
+    "品阶": "半须弥宝物"
   },
   "observations": {
     "类型": [
       {
-        "value": "信物令牌",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
-      {
-        "value": "凭证令牌",
+        "value": "储物宝物",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ],
     "用途": [
       {
-        "value": "参加黑域交换会的凭证",
-        "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-        "seq": 1795
-      },
+        "value": "盛装大量材料",
+        "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+        "seq": 1801
+      }
+    ],
+    "品阶": [
       {
-        "value": "凭以进入黑域",
+        "value": "半须弥宝物",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
     ]
   },
-  "firstSeq": 1795,
+  "firstSeq": 1801,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -50,13 +47,18 @@
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "dated": false,
+      "seq": 1801
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
   ],
-  "updatedAt": "2026-06-21T05:59:14.576Z"
+  "updatedAt": "2026-06-21T05:59:14.553Z"
 }
