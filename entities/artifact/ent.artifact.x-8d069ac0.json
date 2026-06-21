@@ -7,7 +7,8 @@
     "紫魔甲",
     "紫色魔化战甲",
     "紫色战甲",
-    "紫甲"
+    "紫甲",
+    "魔甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
@@ -15,7 +16,8 @@
     "能力": "符文护罩防御",
     "外形": "紫色全身甲、白水晶双目",
     "来历": "纤纤所有，待圣阶魔核修复",
-    "品阶": "极高"
+    "品阶": "极高",
+    "禁制": "残缺待修补"
   },
   "observations": {
     "持有者": [
@@ -84,6 +86,13 @@
         "seq": 1579,
         "note": "损坏后不足原威能十分之一"
       }
+    ],
+    "禁制": [
+      {
+        "value": "残缺待修补",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627
+      }
     ]
   },
   "firstSeq": 1579,
@@ -118,6 +127,12 @@
       "dated": false,
       "seq": 1579,
       "note": "损坏后不足原威能十分之一"
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "dated": false,
+      "seq": 1627
     }
   },
   "contested": false,
@@ -126,7 +141,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
   ],
-  "updatedAt": "2026-06-21T01:25:25.162Z"
+  "updatedAt": "2026-06-21T01:36:21.018Z"
 }

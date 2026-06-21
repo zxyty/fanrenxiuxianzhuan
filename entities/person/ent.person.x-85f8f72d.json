@@ -4,14 +4,16 @@
   "name": "九夜",
   "aliases": [
     "尖耳女子",
-    "人形魔兽九夜"
+    "人形魔兽九夜",
+    "高阶化形魔兽九夜",
+    "苗条银影"
   ],
   "summary": "多眼魔老者手下，面若桃花、碧绿双眼、尖耳、黄色狸尾，擅追踪隐匿；奉命跟牢韩立。",
   "attributes": {
     "性别": "女",
     "身份": "尾随入魔气者",
     "标志特征": "碧绿双眼、尖耳、黄色狸尾",
-    "种族": "人形魔兽、高阶魔兽"
+    "种族": "人形魔兽、高阶魔兽、高阶化形魔兽"
   },
   "observations": {
     "性别": [
@@ -60,6 +62,11 @@
         "value": "高阶魔兽",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "高阶化形魔兽",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627
       }
     ]
   },
@@ -94,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
   ],
-  "updatedAt": "2026-06-21T01:25:25.161Z"
+  "updatedAt": "2026-06-21T01:36:21.036Z"
 }

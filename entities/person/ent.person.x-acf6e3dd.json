@@ -6,19 +6,23 @@
     "纤纤晶族女子",
     "纤仙子",
     "纤道友",
-    "晶族纤纤"
+    "晶族纤纤",
+    "纤纤此女",
+    "青色麒麟法相",
+    "纤纤仙子"
   ],
   "summary": "晶族女子，售予韩立天外魔甲并提供修补之法与魔金山脉圣阶魔兽情报；驯有魔烟鸟。",
   "attributes": {
     "性别": "女",
     "种族": "晶族",
-    "身份": "图谋真灵之穴者",
+    "身份": "谋夺真麟本源者",
     "道号": "纤纤",
     "标志特征": "金光裹身外悬八块铜镜",
     "小阶段": "修为近瓶颈、炼虚（修为偏低）",
     "称号": "纤仙子",
     "阵营": "灵界外来人",
-    "性格": "谨慎多谋、各怀心机"
+    "性格": "谨慎多谋、各怀心机",
+    "外貌": "百余丈/数丈青色麒麟虚影（眉宇间一枚晶石）"
   },
   "observations": {
     "性别": [
@@ -55,6 +59,11 @@
         "value": "图谋真灵之穴者",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "谋夺真麟本源者",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627
       }
     ],
     "道号": [
@@ -108,6 +117,14 @@
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
       }
+    ],
+    "外貌": [
+      {
+        "value": "百余丈/数丈青色麒麟虚影（眉宇间一枚晶石）",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627,
+        "note": "真麟附身合体化形"
+      }
     ]
   },
   "firstSeq": 1579,
@@ -126,9 +143,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
       "dated": false,
-      "seq": 1615
+      "seq": 1627
     },
     "道号": {
       "asOf": null,
@@ -165,6 +182,13 @@
       "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
       "seq": 1615
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "dated": false,
+      "seq": 1627,
+      "note": "真麟附身合体化形"
     }
   },
   "contested": false,
@@ -176,7 +200,8 @@
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
     "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
   ],
-  "updatedAt": "2026-06-21T01:25:25.156Z"
+  "updatedAt": "2026-06-21T01:36:21.053Z"
 }

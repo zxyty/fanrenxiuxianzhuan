@@ -622,3 +622,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T01:12:46.416Z** `ingest` plot.fanren-1609-1614-duoyan-mo-mojin-shanmai — 凡人修仙传 第1609-1614章｜魔金山脉：斩多眼魔、铁魔伏杀、银蛟邪修 · kind=plot asOf=2026-06-21 entities=34 relations=40 src=01609-01614.md
 - **2026-06-21T01:25:25.297Z** `ingest` plot.fanren-1619-shalu-mojin-shanmai — 凡人修仙传 第1619章 杀戮：魔金山脉外来人遭魔兽屠戮，铁翅魔为夺“芝仙”兴师 · kind=plot asOf=2026-06-21 entities=40 relations=49 src=01615-01620.md
 - **2026-06-21T01:28:06.286Z** `ingest` plot.fanren-1625-1630-mojuyuan-xuantian-miezuan — 凡人修仙传 第1625-1630章｜魂体分元·剑阵困魔·玄天灭猿 · kind=plot asOf=2026-06-21 entities=20 relations=25 src=01621-01626.md
+- **2026-06-21T01:36:21.226Z** `ingest` plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan — 凡人修仙传 第1627-1632章｜玄天炼器术·真麟本源之争 · kind=plot asOf=2026-06-21 entities=33 relations=39 src=01627-01632.md

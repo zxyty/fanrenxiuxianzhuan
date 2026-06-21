@@ -1,78 +1,75 @@
 {
-  "id": "ent.beast.x-4f1d194b",
-  "type": "beast",
-  "name": "穴灵",
+  "id": "ent.artifact.x-61f4158c",
+  "type": "artifact",
+  "name": "玄天残刃",
   "aliases": [
-    "大光脸",
-    "巨大怪物",
-    "白色巨脸",
-    "千丈黑光巨怪"
+    "金色残刃",
+    "玄天之宝残片"
   ],
-  "summary": "真灵之穴守护者，一张数丈大光脸，吞真灵之血后沉睡，大嘴化为通往地下的白色通道。",
+  "summary": "魔界玄天之宝残片，能控制某种天地法则之力，对精纯魔气敏感，可被梵圣真魔功同化驱使，刃中封有一只不知名灵物。",
   "attributes": {
-    "外形": "千丈黑光雷电巨怪，中心一丈许白色巨脸",
-    "能力": "守护真灵之穴、千丈黑色雷电触手、凝聚百余丈黑色巨剑、大吞灭术/吞噬同类、受创瞬间复原",
-    "等级": "可秒杀炼虚中期",
-    "栖息地": "真灵之穴"
+    "来历": "魔界玄天之宝残片",
+    "能力": "控制天地法则之力、可被梵圣真魔功同化驱使、曾一斩破春黎剑阵、法则之力",
+    "器灵": "不知名灵物",
+    "外形": "由紫色残刃渐转纯金",
+    "持有者": "韩立"
   },
   "observations": {
-    "外形": [
+    "来历": [
       {
-        "value": "数丈大光脸、漆黑眼珠",
-        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
-        "seq": 1615
-      },
-      {
-        "value": "千丈黑光雷电巨怪，中心一丈许白色巨脸",
+        "value": "魔界玄天之宝残片",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ],
     "能力": [
       {
-        "value": "守护真灵之穴",
-        "docId": "plot.fanren-1619-shalu-mojin-shanmai",
-        "seq": 1615
-      },
-      {
-        "value": "千丈黑色雷电触手",
+        "value": "控制天地法则之力",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       },
       {
-        "value": "凝聚百余丈黑色巨剑",
+        "value": "可被梵圣真魔功同化驱使",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       },
       {
-        "value": "大吞灭术/吞噬同类",
+        "value": "曾一斩破春黎剑阵",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       },
       {
-        "value": "受创瞬间复原",
+        "value": "法则之力",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ],
-    "等级": [
+    "器灵": [
       {
-        "value": "可秒杀炼虚中期",
+        "value": "不知名灵物",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ],
-    "栖息地": [
+    "外形": [
       {
-        "value": "真灵之穴",
+        "value": "由紫色残刃渐转纯金",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627,
+        "note": "被梵圣真魔功同化中"
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ]
   },
-  "firstSeq": 1615,
+  "firstSeq": 1627,
   "attrProvenance": {
-    "外形": {
+    "来历": {
       "asOf": null,
       "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
       "dated": false,
@@ -80,17 +77,24 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
       "dated": false,
-      "seq": 1615
+      "seq": 1627
     },
-    "等级": {
+    "器灵": {
       "asOf": null,
       "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
       "dated": false,
       "seq": 1627
     },
-    "栖息地": {
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "dated": false,
+      "seq": 1627,
+      "note": "被梵圣真魔功同化中"
+    },
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
       "dated": false,
@@ -100,8 +104,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1619-shalu-mojin-shanmai",
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
   ],
-  "updatedAt": "2026-06-21T01:36:21.032Z"
+  "updatedAt": "2026-06-21T01:36:21.072Z"
 }

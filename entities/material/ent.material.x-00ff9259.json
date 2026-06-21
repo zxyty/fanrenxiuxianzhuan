@@ -1,55 +1,54 @@
 {
-  "id": "ent.material.x-fbd3e6ed",
+  "id": "ent.material.x-00ff9259",
   "type": "material",
-  "name": "魔核",
+  "name": "真麟本源",
   "aliases": [
-    "圣阶魔兽魔核"
+    "真麟之源",
+    "真灵本源",
+    "真灵之气",
+    "真麟之念",
+    "真麟本源之力"
   ],
-  "summary": "高阶魔兽的内丹，修复天外魔甲所需主材料，须上族以上等阶、最好圣阶魔兽内丹。",
+  "summary": "诞生真灵的本源之力，服之可助晶族乃至木头飞升真仙界，被穴灵吞入体内，为三方争夺焦点。",
   "attributes": {
-    "类型": "魔核",
-    "用途": "修补天外魔甲",
-    "稀有度": "圣阶"
+    "类型": "真灵本源之力、本源之力",
+    "用途": "助飞升真仙界/蜕化真龙之躯、脱胎换骨/助进阶合体",
+    "稀有度": "极稀有"
   },
   "observations": {
     "类型": [
       {
-        "value": "高阶魔兽内丹",
-        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-        "seq": 1579
+        "value": "真灵本源之力",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627
       },
       {
-        "value": "魔核",
+        "value": "本源之力",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ],
     "用途": [
       {
-        "value": "修复天外魔甲",
-        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-        "seq": 1579
+        "value": "助飞升真仙界/蜕化真龙之躯",
+        "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+        "seq": 1627
       },
       {
-        "value": "修补天外魔甲",
+        "value": "脱胎换骨/助进阶合体",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ],
     "稀有度": [
       {
-        "value": "圣阶极稀有",
-        "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-        "seq": 1579
-      },
-      {
-        "value": "圣阶",
+        "value": "极稀有",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
       }
     ]
   },
-  "firstSeq": 1579,
+  "firstSeq": 1627,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -73,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
   ],
-  "updatedAt": "2026-06-21T01:36:21.017Z"
+  "updatedAt": "2026-06-21T01:36:21.057Z"
 }
