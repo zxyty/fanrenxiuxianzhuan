@@ -7,7 +7,7 @@
   "attributes": {
     "种族": "人族",
     "小阶段": "合体后期",
-    "外貌": "披发男子"
+    "外貌": "披发"
   },
   "observations": {
     "种族": [
@@ -29,6 +29,11 @@
         "value": "披发男子",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "披发",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ]
   },
@@ -48,15 +53,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 1999
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:08:29.606Z"
+  "updatedAt": "2026-06-21T11:34:57.653Z"
 }

@@ -11,10 +11,11 @@
   "summary": "陇家太上客卿长老，合体中期，黑袍、额有紫色疤痕；神念惊人可同操72件法宝，施撕裂空间黑色光球，第一场迎战韩立落败。",
   "attributes": {
     "小阶段": "合体中期、合体初期",
-    "身份": "陇家太上客卿长老、陇家长老、陇家修士",
+    "身份": "陇家太上客卿长老、陇家长老、陇家修士、长老",
     "外貌": "黑袍",
     "阵营": "陇家",
-    "标志特征": "特殊坚韧青色手掌（伤口自愈）、黑色游走斑纹妖魔化、双袖喷绿色毒气"
+    "标志特征": "特殊坚韧青色手掌（伤口自愈）、黑色游走斑纹妖魔化、双袖喷绿色毒气",
+    "种族": "人族"
   },
   "observations": {
     "小阶段": [
@@ -44,6 +45,11 @@
         "value": "陇家修士",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "长老",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "外貌": [
@@ -91,6 +97,13 @@
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
       }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
     ]
   },
   "firstSeq": 1819,
@@ -124,6 +137,12 @@
       "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
       "dated": false,
       "seq": 1819
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
@@ -133,7 +152,8 @@
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
-    "plot.fanren-2025-2030-blood-crow-city-yimojin"
+    "plot.fanren-2025-2030-blood-crow-city-yimojin",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:20:00.651Z"
+  "updatedAt": "2026-06-21T11:34:57.655Z"
 }

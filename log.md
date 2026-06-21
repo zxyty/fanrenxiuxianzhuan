@@ -697,3 +697,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T11:21:55.135Z** `ingest` plot.fanren-2031-2032-shengzhuan-zhenling-yigu — 第2031-2032章 圣砖与血鸦城主·真灵遗骨拍卖 · kind=plot asOf=2026-06-21 entities=15 relations=12 src=02017-02022.p1.md
 - **2026-06-21T11:23:36.400Z** `ingest` plot.fanren-2033-2034-tongxuan-yaoling-banye-moying — 第2033-2034章 通玄药灵·血鸦城半夜魔影 · kind=plot asOf=2026-06-21 entities=0 relations=0 src=02017-02022.p2.md
 - **2026-06-21T11:26:23.947Z** `ingest` plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city — 第2035-2037章 泣灵秘藏：血鸦城外圣砖之争，韩立夺砖灭城主 · kind=plot asOf=2026-06-21 entities=20 relations=27 src=02017-02022.p3.md
+- **2026-06-21T11:34:57.987Z** `ingest` plot.fanren-2023-2028-shouchao-yu-chongchao — 凡人修仙传 第2023-2028章｜兽潮与虫潮·血战吸魔蚁海 · kind=plot asOf=2026-06-21 entities=43 relations=43 src=02023-02028.md

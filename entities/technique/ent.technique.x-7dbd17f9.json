@@ -8,8 +8,8 @@
   "summary": "异族炼体秘术，共七层，需浸泡特制奇毒液体修炼，圆满可令肉身媲美高阶妖修、万毒不浸。",
   "attributes": {
     "出处": "齐天锣附带炼体之法（黑域交换会换得）",
-    "效果": "层层强化肉身、万毒不浸、圆满可媲美高阶妖修",
-    "修炼条件": "浸泡特制奇毒液体，毒性逐层加烈，凡人成功率极低",
+    "效果": "层层强化肉身、万毒不浸、圆满可媲美高阶妖修、万毒不侵",
+    "修炼条件": "魔尊级",
     "适用境界": "炼体"
   },
   "observations": {
@@ -35,6 +35,11 @@
         "value": "圆满可媲美高阶妖修",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "万毒不侵",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "修炼条件": [
@@ -42,6 +47,11 @@
         "value": "浸泡特制奇毒液体，毒性逐层加烈，凡人成功率极低",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "魔尊级",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "适用境界": [
@@ -68,9 +78,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 1831
+      "seq": 2023
     },
     "适用境界": {
       "asOf": null,
@@ -82,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1831-1836-wandu-hunyuan-shen"
+    "plot.fanren-1831-1836-wandu-hunyuan-shen",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T06:46:43.076Z"
+  "updatedAt": "2026-06-21T11:34:57.712Z"
 }

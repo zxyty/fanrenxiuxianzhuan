@@ -5,14 +5,16 @@
   "aliases": [
     "泣灵圣砖",
     "长方晶砖",
-    "第四块圣砖"
+    "第四块圣砖",
+    "圣砖晶砖",
+    "四块圣砖"
   ],
   "summary": "白濛濛砖状物，记载二百万年前泣灵圣祖数种功法，拍卖压轴重宝，底价三千万魔石。",
   "attributes": {
-    "类型": "秘藏钥匙/晶砖",
-    "用途": "四块凑齐解锁泣灵圣祖神通与泣灵秘图",
+    "类型": "功法载体、秘藏钥匙/晶砖、藏宝晶砖、魔功载体/秘藏图",
+    "用途": "记载魔界神通功法、秘藏图",
     "品阶": "圣物（残缺）",
-    "产地": "泣灵圣祖坐化之地"
+    "产地": "魔界"
   },
   "observations": {
     "类型": [
@@ -25,6 +27,16 @@
         "value": "秘藏钥匙/晶砖",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "藏宝晶砖",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      },
+      {
+        "value": "魔功载体/秘藏图",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "用途": [
@@ -37,6 +49,11 @@
         "value": "四块凑齐解锁泣灵圣祖神通与泣灵秘图",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "记载魔界神通功法、秘藏图",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "品阶": [
@@ -56,6 +73,11 @@
         "value": "泣灵圣祖坐化之地",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ]
   },
@@ -63,15 +85,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
       "dated": false,
-      "seq": 2017
+      "seq": 2011
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 2017
+      "seq": 2023
     },
     "品阶": {
       "asOf": null,
@@ -81,9 +103,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 2017
+      "seq": 2023
     }
   },
   "contested": false,
@@ -91,7 +113,8 @@
   "docs": [
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
     "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:26:23.678Z"
+  "updatedAt": "2026-06-21T11:34:57.737Z"
 }

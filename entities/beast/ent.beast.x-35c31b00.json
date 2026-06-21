@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "幻啸沙漠原生珍稀魔兽，无法飞行但沙中疾行如风，魔核皮骨皆贵，近乎灭绝，多被魔族圈养。",
   "attributes": {
-    "栖息地": "幻啸沙漠",
+    "栖息地": "幻啸沙漠一带",
     "能力": "沙漠中行动如风",
     "外形": "八足魔蜥"
   },
@@ -15,6 +15,11 @@
         "value": "幻啸沙漠",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "幻啸沙漠一带",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "能力": [
@@ -36,9 +41,9 @@
   "attrProvenance": {
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 2005
+      "seq": 2023
     },
     "能力": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:17:22.743Z"
+  "updatedAt": "2026-06-21T11:34:57.679Z"
 }

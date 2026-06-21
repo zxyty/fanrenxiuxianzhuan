@@ -9,7 +9,8 @@
     "炳兄",
     "炳某",
     "灰袍银目老者",
-    "姓炳老者"
+    "姓炳老者",
+    "血鸦城主元婴"
   ],
   "summary": "血鸦城之主，中阶魔尊，银目鹰钩鼻、灰袍散发血气；竞拍圣砖至九千九百万后退出。",
   "attributes": {
@@ -21,7 +22,9 @@
     "性别": "男",
     "阵营": "魔界",
     "标志特征": "姓炳、拥有身外化身（第二化身，合体初期）、顶阶护身魔器血玉牌",
-    "结局": "被韩立以辟邪神雷灭其化身、吞其七杀血煞与黑骨魔虫后击落擒杀"
+    "结局": "被韩立以辟邪神雷灭其化身、吞其七杀血煞与黑骨魔虫后击落擒杀",
+    "存殁": "死亡",
+    "死因": "被韩立噬金虫吞噬元婴"
   },
   "observations": {
     "种族": [
@@ -116,6 +119,20 @@
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立噬金虫吞噬元婴",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
     ]
   },
   "firstSeq": 2017,
@@ -173,13 +190,26 @@
       "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
       "seq": 2017
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:26:23.663Z"
+  "updatedAt": "2026-06-21T11:34:57.640Z"
 }

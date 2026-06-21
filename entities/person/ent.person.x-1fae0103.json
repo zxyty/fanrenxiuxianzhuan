@@ -13,7 +13,11 @@
     "小阶段": "合体",
     "称号": "金葫魔尊",
     "外貌": "赤足丑陋汉子，背半人高金色葫芦",
-    "性格": "斯文、心思慎密"
+    "性格": "斯文、心思慎密",
+    "身份": "魔尊",
+    "存殁": "死亡",
+    "死因": "被韩立青竹蜂云剑/豹麟兽追杀",
+    "标志特征": "金葫·火属性麒麟虚影"
   },
   "observations": {
     "性别": [
@@ -57,6 +61,34 @@
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
       }
+    ],
+    "身份": [
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立青竹蜂云剑/豹麟兽追杀",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "金葫·火属性麒麟虚影",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
     ]
   },
   "firstSeq": 2017,
@@ -96,12 +128,37 @@
       "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
       "seq": 2017
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:26:23.671Z"
+  "updatedAt": "2026-06-21T11:34:57.644Z"
 }

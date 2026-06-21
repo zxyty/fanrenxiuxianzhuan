@@ -3,12 +3,14 @@
   "type": "faction",
   "name": "海家",
   "aliases": [
-    "枯寂城海家"
+    "枯寂城海家",
+    "海家魔人"
   ],
   "summary": "圣界少数几大炼器世家之一，有枯寂圣祖坐镇，美妇为其族人，欲得真灵遗骨炼器。",
   "attributes": {
     "据点": "枯寂城",
-    "理念": "炼器世家"
+    "理念": "炼器世家",
+    "阵营": "魔族"
   },
   "observations": {
     "据点": [
@@ -23,6 +25,13 @@
         "value": "炼器世家",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
         "seq": 2017
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ]
   },
@@ -39,12 +48,19 @@
       "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
       "dated": false,
       "seq": 2017
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu"
+    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:21:54.885Z"
+  "updatedAt": "2026-06-21T11:34:57.752Z"
 }

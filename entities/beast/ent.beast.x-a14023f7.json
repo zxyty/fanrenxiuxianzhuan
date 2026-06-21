@@ -8,8 +8,10 @@
   "summary": "圣界罕见剧毒魔兽，本生于深山密林却现身草原边东向成兽潮，毒雾凝聚整日不散、缓蚀护体灵光，比铁牙兽更可怕。",
   "attributes": {
     "等级": "略高于铁牙兽",
-    "栖息地": "深山密林（异常现身草原边）",
-    "能力": "剧毒毒雾凝聚不散、侵蚀护体灵光"
+    "栖息地": "魔界",
+    "能力": "剧毒",
+    "天敌": "吸魔蚁",
+    "外形": "蝶身狮首、黄绿茸毛、双目鲜红"
   },
   "observations": {
     "等级": [
@@ -24,6 +26,11 @@
         "value": "深山密林（异常现身草原边）",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "能力": [
@@ -31,6 +38,25 @@
         "value": "剧毒毒雾凝聚不散、侵蚀护体灵光",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "剧毒",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "天敌": [
+      {
+        "value": "吸魔蚁",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
+      }
+    ],
+    "外形": [
+      {
+        "value": "蝶身狮首、黄绿茸毛、双目鲜红",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ]
   },
@@ -44,21 +70,34 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 2005
+      "seq": 2023
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
       "dated": false,
-      "seq": 2005
+      "seq": 2023
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:17:22.825Z"
+  "updatedAt": "2026-06-21T11:34:57.676Z"
 }

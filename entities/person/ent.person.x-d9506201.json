@@ -10,10 +10,11 @@
   "attributes": {
     "种族": "魔族",
     "小阶段": "炼虚初期、合体中期",
-    "身份": "炼器师、散修",
+    "身份": "炼器师、散修、魔尊",
     "外貌": "容貌普通、淡蓝色长袍、蓝袍、面目普通的中年人",
     "性别": "男",
-    "出身地": "雷海"
+    "出身地": "雷海",
+    "标志特征": "体表绿焰、绿色火蛟"
   },
   "observations": {
     "种族": [
@@ -47,6 +48,11 @@
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017,
         "note": "自称"
+      },
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ],
     "外貌": [
@@ -73,6 +79,13 @@
         "value": "雷海",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "体表绿焰、绿色火蛟",
+        "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+        "seq": 2023
       }
     ]
   },
@@ -113,13 +126,20 @@
       "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
       "seq": 2017
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "dated": false,
+      "seq": 2023
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+    "plot.fanren-2023-2028-shouchao-yu-chongchao"
   ],
-  "updatedAt": "2026-06-21T11:26:23.667Z"
+  "updatedAt": "2026-06-21T11:34:57.643Z"
 }
