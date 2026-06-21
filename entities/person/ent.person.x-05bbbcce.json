@@ -5,17 +5,18 @@
   "aliases": [
     "石茧族石昆",
     "石某",
-    "深黄肌肤大汉"
+    "深黄肌肤大汉",
+    "石昆道友"
   ],
   "summary": "石茧族炼虚顶阶大汉，段天刃徒弟，肉身防御神通极强，一拳轰平海岛。",
   "attributes": {
     "种族": "石茧族",
     "小阶段": "炼虚顶阶(上族九阶)",
     "外貌": "肌肤深黄、身材高大",
-    "标志特征": "深黄战甲、肉身强横、肌肤可化黑成石人、拳头膨胀爆出黄光符文、身化灰色骄阳、肉身强横、土遁术、黄色战甲、赤红大锤、火蛟、红色玉瓶",
+    "标志特征": "深黄战甲、肉身强横、肌肤可化黑成石人、拳头膨胀爆出黄光符文、身化灰色骄阳、肉身强横、土遁术、黄色战甲、赤红大锤、火蛟、红色玉瓶、战甲、赤色铜镜三色光焰、螺旋状符文光幕、肉身化巨人、灰白石层生尖刺",
     "性别": "男",
-    "身份": "后天元磁之身",
-    "性格": "好战、斗法狂、爽快",
+    "身份": "韩立同行者",
+    "性格": "好战、斗法狂、爽快、好斗、阴森",
     "阵营": "段前辈一方",
     "出身地": "云城"
   },
@@ -91,6 +92,26 @@
         "value": "红色玉瓶",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "战甲",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      },
+      {
+        "value": "赤色铜镜三色光焰",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      },
+      {
+        "value": "螺旋状符文光幕",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      },
+      {
+        "value": "肉身化巨人、灰白石层生尖刺",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ],
     "性别": [
@@ -105,6 +126,11 @@
         "value": "后天元磁之身",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      },
+      {
+        "value": "韩立同行者",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ],
     "性格": [
@@ -122,6 +148,11 @@
         "value": "爽快",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      },
+      {
+        "value": "好斗、阴森",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ],
     "阵营": [
@@ -173,9 +204,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
       "dated": false,
-      "seq": 1669
+      "seq": 1681
     },
     "性格": {
       "asOf": null,
@@ -201,7 +232,8 @@
   "docs": [
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
-    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+    "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu"
   ],
-  "updatedAt": "2026-06-21T02:57:18.621Z"
+  "updatedAt": "2026-06-21T03:05:06.793Z"
 }

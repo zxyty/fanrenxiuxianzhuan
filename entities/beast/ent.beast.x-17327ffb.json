@@ -1,40 +1,41 @@
 {
-  "id": "ent.race.x-7b95aa2e",
-  "type": "race",
-  "name": "夜族",
+  "id": "ent.beast.x-17327ffb",
+  "type": "beast",
+  "name": "化血蝶",
   "aliases": [
-    "夜族人"
+    "绿蝶",
+    "绿色怪蝶"
   ],
-  "summary": "天云附近实力不次于天云的大族，掌握一座超级传送阵。",
+  "summary": "拳头大小的绿粉怪蝶，双翅扇出剧毒绿风，乃银潮虫天敌，一见即不死不休。",
   "attributes": {
-    "特性": "夜晚实力暴增",
-    "天敌": "—"
+    "天敌": "—",
+    "能力": "剧毒绿风"
   },
   "observations": {
-    "特性": [
-      {
-        "value": "夜晚实力暴增",
-        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
-        "seq": 1681
-      }
-    ],
     "天敌": [
       {
         "value": "—",
         "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
         "seq": 1681
       }
+    ],
+    "能力": [
+      {
+        "value": "剧毒绿风",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      }
     ]
   },
-  "firstSeq": 1573,
+  "firstSeq": 1681,
   "attrProvenance": {
-    "特性": {
+    "天敌": {
       "asOf": null,
       "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
       "dated": false,
       "seq": 1681
     },
-    "天敌": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
       "dated": false,
@@ -44,8 +45,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1573-1578-yunnianzhu-yuncheng",
     "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu"
   ],
-  "updatedAt": "2026-06-21T03:05:06.801Z"
+  "updatedAt": "2026-06-21T03:05:06.803Z"
 }

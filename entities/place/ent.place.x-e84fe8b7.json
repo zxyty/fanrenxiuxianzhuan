@@ -9,8 +9,8 @@
   "attributes": {
     "所属界面": "灵界",
     "危险度": "极高",
-    "守护": "暗兽",
-    "类型": "妖兽聚居地"
+    "守护": "三目/银目暗兽、王级暗兽",
+    "类型": "妖兽聚居森林"
   },
   "observations": {
     "所属界面": [
@@ -42,6 +42,11 @@
         "value": "暗兽",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "三目/银目暗兽、王级暗兽",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ],
     "类型": [
@@ -49,6 +54,11 @@
         "value": "妖兽聚居地",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "妖兽聚居森林",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ]
   },
@@ -68,22 +78,23 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
       "dated": false,
-      "seq": 1675
+      "seq": 1681
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
       "dated": false,
-      "seq": 1675
+      "seq": 1681
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
-    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+    "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu"
   ],
-  "updatedAt": "2026-06-21T02:57:18.623Z"
+  "updatedAt": "2026-06-21T03:05:06.781Z"
 }

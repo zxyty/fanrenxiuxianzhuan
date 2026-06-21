@@ -2,11 +2,15 @@
   "id": "ent.race.x-6ab0ad5c",
   "type": "race",
   "name": "海王族",
-  "aliases": [],
+  "aliases": [
+    "海王一族"
+  ],
   "summary": "与角蚩族联手跨洋而来的强大水属异族，代表人物简；可掀蓝色波涛裹身。",
   "attributes": {
-    "代表人物": "简、简道友、简兄",
-    "特性": "操纵海浪/真灵阴气、死鱼眼鱼鳞、操控蓝色波涛、鱼眼"
+    "代表人物": "简、简道友、简兄、海王族男子、海王族女子",
+    "特性": "操纵海浪/真灵阴气、死鱼眼鱼鳞、操控蓝色波涛、鱼眼、下半身白气笼罩、流水轻响、三大水族之一",
+    "阵营": "与角蚩族联盟",
+    "天赋神通": "王族血脉沟通圣鲸"
   },
   "observations": {
     "代表人物": [
@@ -24,6 +28,16 @@
         "value": "简兄",
         "docId": "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "海王族男子",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      },
+      {
+        "value": "海王族女子",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ],
     "特性": [
@@ -41,6 +55,30 @@
         "value": "鱼眼",
         "docId": "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
         "seq": 1531
+      },
+      {
+        "value": "下半身白气笼罩、流水轻响",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      },
+      {
+        "value": "三大水族之一",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      }
+    ],
+    "阵营": [
+      {
+        "value": "与角蚩族联盟",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "王族血脉沟通圣鲸",
+        "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+        "seq": 1681
       }
     ]
   },
@@ -57,6 +95,18 @@
       "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
       "dated": false,
       "seq": 1519
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+      "dated": false,
+      "seq": 1681
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+      "dated": false,
+      "seq": 1681
     }
   },
   "contested": false,
@@ -65,7 +115,8 @@
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1531-1536-escape-snakemen-huoyang",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
-    "plot.fanren-1531-1536-escape-snakemen-huoyangzu"
+    "plot.fanren-1531-1536-escape-snakemen-huoyangzu",
+    "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu"
   ],
-  "updatedAt": "2026-06-20T14:29:20.334Z"
+  "updatedAt": "2026-06-21T03:05:06.795Z"
 }
