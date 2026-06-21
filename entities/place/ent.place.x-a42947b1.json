@@ -8,7 +8,7 @@
   "summary": "幻啸沙漠前的城池，众人约定两年后于其最大客栈重聚。",
   "attributes": {
     "所属界面": "圣界",
-    "类型": "巨城",
+    "类型": "魔族城池",
     "所属势力": "幻夜白家",
     "守护": "超大禁制/禁空/限神念"
   },
@@ -35,6 +35,11 @@
         "value": "巨城",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "魔族城池",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ],
     "所属势力": [
@@ -62,9 +67,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "所属势力": {
       "asOf": null,
@@ -83,7 +88,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.236Z"
+  "updatedAt": "2026-06-21T11:48:24.209Z"
 }

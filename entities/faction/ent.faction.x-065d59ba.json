@@ -5,13 +5,14 @@
   "aliases": [
     "白家",
     "幻夜城白家",
-    "白家一族"
+    "白家一族",
+    "覆天家"
   ],
   "summary": "据幻夜城的魔族家族，盛产荃香；其炼虚少妇向韩立求救。",
   "attributes": {
     "阵营": "魔族",
     "所属界面": "圣界、魔界",
-    "据点": "幻夜城"
+    "据点": "幻夜城白家堡垒"
   },
   "observations": {
     "阵营": [
@@ -38,6 +39,11 @@
         "value": "幻夜城",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "幻夜城白家堡垒",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ]
   },
@@ -57,16 +63,17 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.193Z"
+  "updatedAt": "2026-06-21T11:48:24.211Z"
 }

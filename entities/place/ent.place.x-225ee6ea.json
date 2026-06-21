@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "幻夜城内专营奴隶与魔兽买卖的巨塔，分层布置传送阵，独门炼制魔晶傀儡卫士，由化神掌柜与炼虚护法坐镇。",
   "attributes": {
-    "所属界面": "圣界",
+    "所属界面": "魔界",
     "类型": "奴隶魔兽贩卖塔",
     "守护": "魔晶傀儡卫士"
   },
@@ -15,6 +15,11 @@
         "value": "圣界",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ],
     "类型": [
@@ -36,9 +41,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "类型": {
       "asOf": null,
@@ -56,7 +61,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.235Z"
+  "updatedAt": "2026-06-21T11:48:24.217Z"
 }

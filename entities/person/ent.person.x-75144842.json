@@ -7,9 +7,10 @@
   "attributes": {
     "性别": "女",
     "种族": "人族",
-    "小阶段": "结丹",
-    "身份": "女奴",
-    "外貌": "圆脸俏丽"
+    "小阶段": "元婴",
+    "身份": "女奴/婢女",
+    "外貌": "黄衫少女，面容与其母凌飞仙五分相似",
+    "出身地": "小灵天"
   },
   "observations": {
     "性别": [
@@ -31,6 +32,11 @@
         "value": "结丹",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ],
     "身份": [
@@ -38,6 +44,12 @@
         "value": "女奴",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "女奴/婢女",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035,
+        "note": "魔界为奴，被韩立种禁制收用"
       }
     ],
     "外貌": [
@@ -45,6 +57,18 @@
         "value": "圆脸俏丽",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "黄衫少女，面容与其母凌飞仙五分相似",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
+      }
+    ],
+    "出身地": [
+      {
+        "value": "小灵天",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ]
   },
@@ -64,27 +88,35 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035,
+      "note": "魔界为奴，被韩立种禁制收用"
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.227Z"
+  "updatedAt": "2026-06-21T11:48:24.182Z"
 }

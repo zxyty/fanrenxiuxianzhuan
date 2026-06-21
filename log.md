@@ -699,3 +699,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T11:26:23.947Z** `ingest` plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city — 第2035-2037章 泣灵秘藏：血鸦城外圣砖之争，韩立夺砖灭城主 · kind=plot asOf=2026-06-21 entities=20 relations=27 src=02017-02022.p3.md
 - **2026-06-21T11:34:57.987Z** `ingest` plot.fanren-2023-2028-shouchao-yu-chongchao — 凡人修仙传 第2023-2028章｜兽潮与虫潮·血战吸魔蚁海 · kind=plot asOf=2026-06-21 entities=43 relations=43 src=02023-02028.md
 - **2026-06-21T11:46:30.505Z** `ingest` plot.fanren-2044-bai-yunxin — 凡人修仙传 第2044章 白芸馨——韩立魔爪屠血线蝠、结识幻夜白家 · kind=plot asOf=2026-06-21 entities=38 relations=44 src=02029-02034.md
+- **2026-06-21T11:48:24.397Z** `ingest` plot.fanren-2050-2051-xiaolingtian-futianjushi — 凡人修仙传 第2050-2051章：小灵天之秘与覆天居士 · kind=plot asOf=2026-06-21 entities=27 relations=25 src=02035-02040.p1.md

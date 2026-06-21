@@ -5,9 +5,10 @@
   "aliases": [],
   "summary": "关宁府三大世家之一，联办参王大会。",
   "attributes": {
-    "据点": "关宁府",
+    "据点": "幻夜城",
     "阵营": "魔族",
-    "掌门": "赵文好"
+    "掌门": "赵文好",
+    "所属界面": "魔界"
   },
   "observations": {
     "据点": [
@@ -15,6 +16,11 @@
         "value": "关宁府",
         "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
         "seq": 901
+      },
+      {
+        "value": "幻夜城",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
       }
     ],
     "阵营": [
@@ -30,15 +36,22 @@
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
       }
+    ],
+    "所属界面": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+        "seq": 2035
+      }
     ]
   },
   "firstSeq": 901,
   "attrProvenance": {
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
-      "seq": 901
+      "seq": 2035
     },
     "阵营": {
       "asOf": null,
@@ -51,13 +64,20 @@
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch901-906-canwang-dahui-tianjiwu",
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.249Z"
+  "updatedAt": "2026-06-21T11:48:24.212Z"
 }
