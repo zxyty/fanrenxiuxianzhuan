@@ -2,11 +2,16 @@
   "id": "ent.material.x-d5f8104f",
   "type": "material",
   "name": "琉璃天火液",
-  "aliases": [],
+  "aliases": [
+    "瑕疵琉璃天火液",
+    "琉璃火液"
+  ],
   "summary": "灵界七大灵液之一，本届仅半瓶送拍、底价1800万即引全场哗然，韩立闻名色变。",
   "attributes": {
-    "类型": "灵液",
-    "稀有度": "灵界七大灵液之一"
+    "类型": "天外之火提炼灵液",
+    "稀有度": "极稀有",
+    "用途": "炼制合体级丹药；生服省苦修",
+    "产地": "天外之火"
   },
   "observations": {
     "类型": [
@@ -14,6 +19,11 @@
         "value": "灵液",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "天外之火提炼灵液",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
       }
     ],
     "稀有度": [
@@ -21,6 +31,25 @@
         "value": "灵界七大灵液之一",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
+      }
+    ],
+    "用途": [
+      {
+        "value": "炼制合体级丹药；生服省苦修",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
+      }
+    ],
+    "产地": [
+      {
+        "value": "天外之火",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
       }
     ]
   },
@@ -28,21 +57,34 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
       "dated": false,
-      "seq": 1591
+      "seq": 1597
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
       "dated": false,
-      "seq": 1591
+      "seq": 1597
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+      "dated": false,
+      "seq": 1597
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+      "dated": false,
+      "seq": 1597
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao"
   ],
-  "updatedAt": "2026-06-21T00:51:27.687Z"
+  "updatedAt": "2026-06-21T00:53:21.417Z"
 }

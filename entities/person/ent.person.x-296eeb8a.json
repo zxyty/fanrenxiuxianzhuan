@@ -2,13 +2,15 @@
   "id": "ent.person.x-296eeb8a",
   "type": "person",
   "name": "萧布衣",
-  "aliases": [],
+  "aliases": [
+    "蓝兄称呼者"
+  ],
   "summary": "沙族修士，合体中期，身负阴沉可怖气息，因沙族在列而主持本届四族拍卖会。",
   "attributes": {
     "性别": "男",
     "种族": "沙族",
     "小阶段": "合体中期",
-    "身份": "四族拍卖会主持人",
+    "身份": "拍卖会主持人",
     "外貌": "温文尔雅锦袍白面中年",
     "标志特征": "身负阴沉可怖气息"
   },
@@ -39,6 +41,11 @@
         "value": "四族拍卖会主持人",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "拍卖会主持人",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
       }
     ],
     "外貌": [
@@ -78,9 +85,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
       "dated": false,
-      "seq": 1591
+      "seq": 1597
     },
     "外貌": {
       "asOf": null,
@@ -98,7 +105,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao"
   ],
-  "updatedAt": "2026-06-21T00:51:27.674Z"
+  "updatedAt": "2026-06-21T00:53:21.409Z"
 }

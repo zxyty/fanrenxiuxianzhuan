@@ -7,8 +7,8 @@
   "attributes": {
     "品阶": "一品",
     "主料": "芝龙果、腾云胶",
-    "适用境界": "上族七八阶",
-    "功效": "精进炼虚初中期修为、精进炼虚初中期修士修为、加速炼虚修为、可换取极品灵石、丹性通灵之高阶丹药",
+    "适用境界": "炼虚期",
+    "功效": "精进炼虚初中期修为、精进炼虚初中期修士修为、加速炼虚修为、可换取极品灵石、丹性通灵之高阶丹药、提升法力、助突破瓶颈",
     "炼制者": "韩立",
     "副作用": "成丹率极低(十炼七八败)、成丹率极低、炼制繁难"
   },
@@ -52,6 +52,11 @@
         "value": "上族七八阶",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
       }
     ],
     "功效": [
@@ -79,6 +84,16 @@
         "value": "丹性通灵之高阶丹药",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "提升法力",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
+      },
+      {
+        "value": "助突破瓶颈",
+        "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
       }
     ],
     "炼制者": [
@@ -117,9 +132,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
       "dated": false,
-      "seq": 1591
+      "seq": 1597
     },
     "功效": {
       "asOf": null,
@@ -147,7 +162,8 @@
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
     "plot.fanren-1586-qianjizi",
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao"
   ],
-  "updatedAt": "2026-06-21T00:51:27.684Z"
+  "updatedAt": "2026-06-21T00:53:21.417Z"
 }

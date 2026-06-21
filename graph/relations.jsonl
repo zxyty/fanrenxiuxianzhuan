@@ -19915,3 +19915,15 @@
 {"s":"ent.event.x-3cb6c9eb","p":"involves","o":"ent.person.x-b7ad490e","evidence":"plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti","confidence":0.95,"seq":1591}
 {"s":"ent.event.x-3cb6c9eb","p":"involves","o":"ent.person.x-acf41611","evidence":"plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti","confidence":0.85,"seq":1591}
 {"s":"ent.event.x-3cb6c9eb","p":"involves","o":"ent.person.x-f8d05af5","evidence":"plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti","confidence":0.85,"seq":1591}
+{"s":"ent.person.x-b7ad490e","p":"reaches","o":"ent.realm.x-636ddcea","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.95,"seq":1597}
+{"s":"ent.person.x-b7ad490e","p":"casts","o":"ent.spell.x-2e9cb838","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597,"note":"遮掩面容潜入拍卖会"}
+{"s":"ent.person.x-b7ad490e","p":"possesses","o":"ent.artifact.x-767bcfb4","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.9,"seq":1597}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.person.x-c948d7a3","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597,"note":"受青元子委托收集琉璃天火液等材料"}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.material.x-d5f8104f","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.95,"seq":1597,"note":"以五千万灵石拍得半瓶"}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.pill.x-98e51fc7","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.9,"seq":1597,"note":"由韩立提供拍卖"}
+{"s":"ent.person.x-051dead8","p":"relatedTo","o":"ent.pill.x-98e51fc7","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597,"note":"以六千三百万拍得"}
+{"s":"ent.person.x-296eeb8a","p":"locatedIn","o":"ent.place.x-f583e0f1","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597,"note":"主持云城拍卖会"}
+{"s":"ent.person.x-934ceb07","p":"relatedTo","o":"ent.place.x-f583e0f1","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597,"note":"云城四大客卿之一"}
+{"s":"ent.person.x-051dead8","p":"ofRace","o":"ent.race.x-7c98f213","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597}
+{"s":"ent.place.x-f583e0f1","p":"withinWorld","o":"ent.world.x-f469359c","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.85,"seq":1597}
+{"s":"ent.material.x-d5f8104f","p":"relatedTo","o":"ent.person.x-c948d7a3","evidence":"plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao","confidence":0.8,"seq":1597,"note":"青元子炼合体级丹药所需材料"}
