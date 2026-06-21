@@ -756,3 +756,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:37:08.274Z** `ingest` plot.fanren-ch2324-2328-helian-auction-fanyuan — 凡人修仙传 第2324-2328章｜风元大陆赫连商盟拍卖会·改道血天与翻天旗现世 · kind=plot asOf=2026-06-21 entities=28 relations=24 src=02305-02310.md
 - **2026-06-21T17:40:05.164Z** `ingest` plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier — 凡人修仙传 第2330-2335章｜玉书再现·劫走魇龙之血·田飞儿登场 · kind=plot asOf=2026-06-21 entities=31 relations=33 src=02311-02316.md
 - **2026-06-21T17:47:59.275Z** `ingest` plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting — 凡人修仙传 第2317-2322章｜进入血天·八鬼噬佛图·阴司十王 · kind=plot asOf=2026-06-21 entities=38 relations=42 src=02317-02322.md
+- **2026-06-21T17:50:49.205Z** `ingest` plot.fanren-2342-2347-blood-crane-city-tianding-palace-key — 韩立血鹤城会清平万花，虚天鼎为天鼎宫仿制钥匙 · kind=plot asOf=2026-06-21 entities=22 relations=25 src=02323-02328.md

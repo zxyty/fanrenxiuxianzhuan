@@ -12,9 +12,9 @@
   "summary": "血天大陆某谋划大事者，明尊借七窍心音壁向其举荐韩立为帮手。",
   "attributes": {
     "身份": "血天大陆谋划者、赫连商盟血天大陆总执事、赫连商盟首领",
-    "阵营": "血天大陆",
+    "阵营": "本盟",
     "小阶段": "大乘期、合体",
-    "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者"
+    "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者、绿袍老者"
   },
   "observations": {
     "身份": [
@@ -39,6 +39,11 @@
         "value": "血天大陆",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "本盟",
+        "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+        "seq": 2323
       }
     ],
     "小阶段": [
@@ -66,6 +71,11 @@
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317,
         "note": "对外伪装成圆脸青年"
+      },
+      {
+        "value": "绿袍老者",
+        "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+        "seq": 2323
       }
     ]
   },
@@ -79,9 +89,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
-      "seq": 2305
+      "seq": 2323
     },
     "小阶段": {
       "asOf": null,
@@ -101,7 +111,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
   ],
-  "updatedAt": "2026-06-21T17:47:59.013Z"
+  "updatedAt": "2026-06-21T17:50:49.009Z"
 }

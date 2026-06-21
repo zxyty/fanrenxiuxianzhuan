@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "血骨门治下重城，常驻大乘期太上长老，龙蛇混杂、设有竞技场，夜晚天空化血红。",
   "attributes": {
-    "所属界面": "灵界",
+    "所属界面": "血天大陆",
     "所属势力": "血骨门",
     "类型": "城池",
-    "守护": "大乘期太上长老"
+    "守护": "禁空禁制"
   },
   "observations": {
     "所属界面": [
@@ -16,6 +16,11 @@
         "value": "灵界",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+        "seq": 2323
       }
     ],
     "所属势力": [
@@ -37,6 +42,11 @@
         "value": "大乘期太上长老",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "禁空禁制",
+        "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+        "seq": 2323
       }
     ]
   },
@@ -44,9 +54,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
-      "seq": 2317
+      "seq": 2323
     },
     "所属势力": {
       "asOf": null,
@@ -62,15 +72,16 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
-      "seq": 2317
+      "seq": 2323
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key"
   ],
-  "updatedAt": "2026-06-21T17:47:59.020Z"
+  "updatedAt": "2026-06-21T17:50:49.014Z"
 }
