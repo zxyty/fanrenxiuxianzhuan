@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "至寒系神通，修成者凭体内寒魄之气可遥遥感应昊阴之石。",
   "attributes": {
-    "效果": "感应昊阴之石/昊阴寒魄山",
-    "修炼条件": "适合寒魄体质"
+    "效果": "感应昊阴之石",
+    "修炼条件": "适合寒魄体质",
+    "五行属性": "阴/寒"
   },
   "observations": {
     "效果": [
@@ -14,6 +15,11 @@
         "value": "感应昊阴之石/昊阴寒魄山",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "感应昊阴之石",
+        "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
       }
     ],
     "修炼条件": [
@@ -22,28 +28,42 @@
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
       }
+    ],
+    "五行属性": [
+      {
+        "value": "阴/寒",
+        "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
+      }
     ]
   },
   "firstSeq": 1783,
   "attrProvenance": {
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-2442-chonghui-renjie",
       "dated": false,
-      "seq": 1783
+      "seq": 2419
     },
     "修炼条件": {
       "asOf": null,
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-2442-chonghui-renjie",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-2441-renzu-zhibian-lianshenshu"
+    "plot.fanren-2441-renzu-zhibian-lianshenshu",
+    "plot.fanren-2442-chonghui-renjie"
   ],
-  "updatedAt": "2026-06-21T21:42:06.306Z"
+  "updatedAt": "2026-06-21T21:43:51.585Z"
 }

@@ -777,3 +777,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T21:37:20.949Z** `ingest` plot.fanren-2439-deal-and-dao-fruit-assembly — 第2439章 交易、大会——韩立以真魂丹换龙族真麟留影鳞片，道果大会开幕 · kind=plot asOf=2026-06-21 entities=21 relations=22 src=02419-02424.p1.md
 - **2026-06-21T21:39:23.507Z** `ingest` plot.fanren-2440-de-guo — 凡人修仙传 第2440章 得果：韩立凑足道牌换广灵道果 · kind=plot asOf=2026-06-21 entities=12 relations=13 src=02419-02424.p2.md
 - **2026-06-21T21:42:06.487Z** `ingest` plot.fanren-2441-renzu-zhibian-lianshenshu — 第2441章 人族之变——韩立服广灵道果、神识隐患与炼神术第三层 · kind=plot asOf=2026-06-21 entities=24 relations=22 src=02419-02424.p3.md
+- **2026-06-21T21:43:51.762Z** `ingest` plot.fanren-2442-chonghui-renjie — 第2442章 重回人界：昊阴寒魄山炼成，韩立分魂返大晋 · kind=plot asOf=2026-06-21 entities=17 relations=18 src=02419-02424.p4.md

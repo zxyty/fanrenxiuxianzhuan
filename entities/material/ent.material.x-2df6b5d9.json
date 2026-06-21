@@ -2,11 +2,14 @@
   "id": "ent.material.x-2df6b5d9",
   "type": "material",
   "name": "昊阴之石",
-  "aliases": [],
+  "aliases": [
+    "昊阴石"
+  ],
   "summary": "组成昊阴寒魄山之奇寒矿石，平常不散异常寒气，被激发后才放出奇寒寒魄之气。",
   "attributes": {
-    "类型": "灵石",
-    "用途": "寒魄神通相关修炼"
+    "类型": "至寒矿石、灵石、矿石",
+    "用途": "组成昊阴寒魄山、寒魄神通相关修炼、炼昊阴寒魄山",
+    "产地": "雷霆大陆西川玄玉矿"
   },
   "observations": {
     "类型": [
@@ -18,6 +21,11 @@
       {
         "value": "灵石",
         "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+        "seq": 2419
+      },
+      {
+        "value": "矿石",
+        "docId": "plot.fanren-2442-chonghui-renjie",
         "seq": 2419
       }
     ],
@@ -31,6 +39,18 @@
         "value": "寒魄神通相关修炼",
         "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
         "seq": 2419
+      },
+      {
+        "value": "炼昊阴寒魄山",
+        "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
+      }
+    ],
+    "产地": [
+      {
+        "value": "雷霆大陆西川玄玉矿",
+        "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
       }
     ]
   },
@@ -38,13 +58,19 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
-      "seq": 2419
+      "seq": 1783
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "dated": false,
+      "seq": 1783
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-2442-chonghui-renjie",
       "dated": false,
       "seq": 2419
     }
@@ -53,7 +79,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-2441-renzu-zhibian-lianshenshu"
+    "plot.fanren-2441-renzu-zhibian-lianshenshu",
+    "plot.fanren-2442-chonghui-renjie"
   ],
-  "updatedAt": "2026-06-21T21:42:06.308Z"
+  "updatedAt": "2026-06-21T21:43:51.586Z"
 }

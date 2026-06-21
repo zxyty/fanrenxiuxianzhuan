@@ -6,7 +6,7 @@
   "summary": "盛放、滋养并壮大分魂的奇宝，可育成无反噬的元魂化身，能召唤孔雀灵禽化身，疑与五光族孔雀同源。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "养育壮大分魂、培育元魂化身、召唤孔雀化身",
+    "能力": "养育壮大分魂、培育元魂化身、召唤孔雀化身、培养分魂",
     "来历": "夺自奕姓老者",
     "外形": "布满灵纹的古灯"
   },
@@ -33,6 +33,11 @@
         "value": "召唤孔雀化身",
         "docId": "plot.fanren-2300-zushi-shanhai-zhu",
         "seq": 2281
+      },
+      {
+        "value": "培养分魂",
+        "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
       }
     ],
     "来历": [
@@ -80,7 +85,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2300-zushi-shanhai-zhu"
+    "plot.fanren-2300-zushi-shanhai-zhu",
+    "plot.fanren-2442-chonghui-renjie"
   ],
-  "updatedAt": "2026-06-21T17:20:40.517Z"
+  "updatedAt": "2026-06-21T21:43:51.584Z"
 }
