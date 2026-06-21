@@ -10,15 +10,21 @@
     "怪虫",
     "螟虫母",
     "凶虫",
-    "虫海"
+    "虫海",
+    "螟一",
+    "螟二",
+    "螟三",
+    "白色巨虫",
+    "螟虫之目"
   ],
   "summary": "上古虫族诞生的恐怖存在，吞噬天地能量、繁殖惊人，毁灭数界后被两名真仙封印于始印之地，其苏醒即魔界大劫之源。",
   "attributes": {
     "种族": "上古虫族",
-    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体、吞噬一界之力、实力大增、繁殖力激增数十倍、主动合并汇聚、反操控部分上古封印力量、气息感染普通魔虫使其变异为螟虫、困敌、传闻可吞劫灭族、掌控部分上古封印力量",
-    "外形": "狰狞，拳头至成人大小，倒刺/獠牙",
+    "能力": "吞噬天地各种能量、惊人繁殖、黑暗元素之体、吞噬一界之力、实力大增、繁殖力激增数十倍、主动合并汇聚、反操控部分上古封印力量、气息感染普通魔虫使其变异为螟虫、困敌、传闻可吞劫灭族、掌控部分上古封印力量、土属性本源神通、时间法则（皮毛）、金蝉脱壳/元神化身",
+    "外形": "山岳般庞大、狰狞，拳头至成人大小，倒刺/獠牙、山岳般白色巨蚕、眉心嵌黑晶石的灰白盲目女童",
     "栖息地": "圣界地宫深处",
-    "等级": "普通、高阶（不下合体）、巨型、神通广大"
+    "等级": "普通、高阶（不下合体）、巨型、神通广大",
+    "天敌": "玄天之物/凤族"
   },
   "observations": {
     "种族": [
@@ -83,6 +89,21 @@
         "value": "掌控部分上古封印力量",
         "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
         "seq": 2197
+      },
+      {
+        "value": "土属性本源神通",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
+      },
+      {
+        "value": "时间法则（皮毛）",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
+      },
+      {
+        "value": "金蝉脱壳/元神化身",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
       }
     ],
     "外形": [
@@ -95,6 +116,16 @@
         "value": "狰狞，拳头至成人大小，倒刺/獠牙",
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
+      },
+      {
+        "value": "山岳般白色巨蚕",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
+      },
+      {
+        "value": "眉心嵌黑晶石的灰白盲目女童",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
       }
     ],
     "栖息地": [
@@ -140,6 +171,13 @@
         "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
         "seq": 2203
       }
+    ],
+    "天敌": [
+      {
+        "value": "玄天之物/凤族",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
+      }
     ]
   },
   "firstSeq": 2107,
@@ -158,9 +196,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
       "dated": false,
-      "seq": 2191
+      "seq": 2107
     },
     "栖息地": {
       "asOf": null,
@@ -173,6 +211,12 @@
       "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
       "dated": false,
       "seq": 2191
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+      "dated": false,
+      "seq": 2209
     }
   },
   "contested": false,
@@ -182,7 +226,8 @@
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
     "plot.fanren-2210-2215-mingchong-xieliansheng",
     "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
-    "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong"
+    "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
   ],
-  "updatedAt": "2026-06-21T15:51:22.177Z"
+  "updatedAt": "2026-06-21T15:54:22.414Z"
 }

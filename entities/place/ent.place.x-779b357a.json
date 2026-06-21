@@ -8,8 +8,8 @@
   "summary": "圣界地下世界，含冥河沙殿堂、巨型法阵、隐蔽石林祭坛，封印螟虫之母与凶虫。",
   "attributes": {
     "所属界面": "圣界",
-    "类型": "封印地宫",
-    "危险度": "高",
+    "类型": "上古封印地宫",
+    "危险度": "极高（即将崩塌）",
     "守护": "人面虫、螟虫之母、禁制法阵"
   },
   "observations": {
@@ -25,6 +25,11 @@
         "value": "封印地宫",
         "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
         "seq": 2203
+      },
+      {
+        "value": "上古封印地宫",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
       }
     ],
     "危险度": [
@@ -32,6 +37,11 @@
         "value": "高",
         "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
         "seq": 2203
+      },
+      {
+        "value": "极高（即将崩塌）",
+        "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+        "seq": 2209
       }
     ],
     "守护": [
@@ -62,15 +72,15 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
       "dated": false,
-      "seq": 2203
+      "seq": 2209
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
       "dated": false,
-      "seq": 2203
+      "seq": 2209
     },
     "守护": {
       "asOf": null,
@@ -82,7 +92,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong"
+    "plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong",
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
   ],
-  "updatedAt": "2026-06-21T15:51:22.192Z"
+  "updatedAt": "2026-06-21T15:54:22.432Z"
 }
