@@ -1,0 +1,69 @@
+{
+  "id": "ent.event.x-5d9d418b",
+  "type": "event",
+  "name": "广灵道果大会",
+  "aliases": [
+    "道果大会"
+  ],
+  "summary": "真龙金龙大长老将于数百年后在真龙之岛召开，各界真灵与部分大乘存在受邀参加。",
+  "attributes": {
+    "地点": "真龙之岛",
+    "参与方": "各界真灵、部分大乘存在",
+    "起因": "金龙大长老召开"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "真龙之岛",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
+      }
+    ],
+    "参与方": [
+      {
+        "value": "各界真灵",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
+      },
+      {
+        "value": "部分大乘存在",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
+      }
+    ],
+    "起因": [
+      {
+        "value": "金龙大长老召开",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
+      }
+    ]
+  },
+  "firstSeq": 2167,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "dated": false,
+      "seq": 2167
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "dated": false,
+      "seq": 2167
+    },
+    "起因": {
+      "asOf": null,
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "dated": false,
+      "seq": 2167
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2167-2172-jinjie-dasheng"
+  ],
+  "updatedAt": "2026-06-21T15:09:48.858Z"
+}

@@ -2,10 +2,12 @@
   "id": "ent.item.x-5e0f59a8",
   "type": "item",
   "name": "蓝色玉简",
-  "aliases": [],
+  "aliases": [
+    "玉简清单"
+  ],
   "summary": "记载利用逆星盘再次进入冥河之地之法的蓝色玉简。",
   "attributes": {
-    "类型": "玉简",
+    "类型": "玉简清单",
     "用途": "记载进入冥河之地的方法"
   },
   "observations": {
@@ -14,6 +16,11 @@
         "value": "玉简",
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
+      },
+      {
+        "value": "玉简清单",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
       }
     ],
     "用途": [
@@ -28,9 +35,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1516-bamboo-leaves",
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
       "dated": false,
-      "seq": 1513
+      "seq": 2167
     },
     "用途": {
       "asOf": null,
@@ -42,7 +49,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1516-bamboo-leaves"
+    "plot.fanren-1516-bamboo-leaves",
+    "plot.fanren-2167-2172-jinjie-dasheng"
   ],
-  "updatedAt": "2026-06-16T19:14:17.438Z"
+  "updatedAt": "2026-06-21T15:09:48.855Z"
 }

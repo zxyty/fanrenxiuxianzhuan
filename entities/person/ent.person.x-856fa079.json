@@ -14,10 +14,10 @@
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
     "小阶段": "合体期",
-    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员、天渊城长老会长老、佛门僧人",
+    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员、天渊城长老会长老、佛门僧人、天渊城合体长老",
     "阵营": "韩立同盟",
     "出身地": "佛宗",
-    "外貌": "满脸皱纹、头顶光亮、披金色袈裟",
+    "外貌": "金袍老僧",
     "性别": "男",
     "种族": "人族",
     "标志特征": "拍袈裟召十八尊金色佛影"
@@ -70,6 +70,11 @@
         "value": "佛门僧人",
         "docId": "plot.tianyuan-great-war-1981-1986",
         "seq": 1981
+      },
+      {
+        "value": "天渊城合体长老",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
       }
     ],
     "阵营": [
@@ -116,6 +121,11 @@
         "value": "满脸皱纹、头顶光亮、披金色袈裟",
         "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
         "seq": 1963
+      },
+      {
+        "value": "金袍老僧",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
       }
     ],
     "性别": [
@@ -178,9 +188,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
       "dated": false,
-      "seq": 1963
+      "seq": 2167
     },
     "性别": {
       "asOf": null,
@@ -215,7 +225,8 @@
     "plot.fanren-1975-1980-heti-houqi-diyimozun",
     "plot.tianyuan-great-war-1981-1986",
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
-    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late"
+    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+    "plot.fanren-2167-2172-jinjie-dasheng"
   ],
-  "updatedAt": "2026-06-21T12:45:17.241Z"
+  "updatedAt": "2026-06-21T15:09:48.863Z"
 }

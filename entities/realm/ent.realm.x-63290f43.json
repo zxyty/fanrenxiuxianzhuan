@@ -9,16 +9,17 @@
     "大乘后期",
     "大乘境界",
     "大乘存在",
-    "大乘瓶颈"
+    "大乘瓶颈",
+    "大乘境"
   ],
   "summary": "中境界第三层（最顶层）。",
   "attributes": {
     "阶序": "大乘",
     "上一境": "合体后期",
     "下一境": "渡劫、合体、合体期、度劫期、（无，人族顶阶）",
-    "突破关键": "渡五行之劫、真雷劫、心劫",
+    "突破关键": "渡心魔之劫、元婴大成、重铸肉身",
     "小阶段": "大乘初期、大乘后期",
-    "突破征兆": "雷劫"
+    "突破征兆": "雷劫、三阳灌体、渡天劫真雷"
   },
   "observations": {
     "阶序": [
@@ -117,6 +118,11 @@
         "value": "渡五行之劫、真雷劫、心劫",
         "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
         "seq": 2155
+      },
+      {
+        "value": "渡心魔之劫、元婴大成、重铸肉身",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
       }
     ],
     "小阶段": [
@@ -136,6 +142,16 @@
         "value": "雷劫",
         "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
         "seq": 1957
+      },
+      {
+        "value": "三阳灌体",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
+      },
+      {
+        "value": "渡天劫真雷",
+        "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+        "seq": 2167
       }
     ]
   },
@@ -161,9 +177,9 @@
     },
     "突破关键": {
       "asOf": null,
-      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
       "dated": false,
-      "seq": 2155
+      "seq": 2167
     },
     "小阶段": {
       "asOf": null,
@@ -209,7 +225,8 @@
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
     "plot.fanren-2168-muzu-dazhan-12",
     "plot.fanren-2174-2178-hanli-mahayana-tribulation",
-    "plot.fanren-ch2180-black-white-thunder-ball"
+    "plot.fanren-ch2180-black-white-thunder-ball",
+    "plot.fanren-2167-2172-jinjie-dasheng"
   ],
-  "updatedAt": "2026-06-21T15:01:46.563Z"
+  "updatedAt": "2026-06-21T15:09:48.871Z"
 }
