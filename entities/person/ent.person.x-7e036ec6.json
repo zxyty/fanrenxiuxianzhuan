@@ -7,15 +7,18 @@
     "明馨道友",
     "古剑门少妇",
     "明道友",
-    "古剑门女修"
+    "古剑门女修",
+    "三目魔族",
+    "三目壮汉"
   ],
   "summary": "古剑门女修，元婴初期，自恃异宝速进，本卷被韩立一语道破修为而骇然。",
   "attributes": {
-    "性别": "女",
+    "性别": "男",
     "小阶段": "元婴初期",
     "阵营": "古剑门",
     "身份": "古剑门女修",
-    "标志特征": "似兰似菊花香"
+    "标志特征": "身带淡淡花香、似兰似菊花香、三目/宝轮法目、三玉骷髅",
+    "种族": "魔族"
   },
   "observations": {
     "性别": [
@@ -23,6 +26,11 @@
         "value": "女",
         "docId": "plot.fanren-1167-1172-return-luoyunzong",
         "seq": 859
+      },
+      {
+        "value": "男",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
       }
     ],
     "小阶段": [
@@ -66,6 +74,24 @@
         "value": "似兰似菊花香",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "三目/宝轮法目",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
+      },
+      {
+        "value": "三玉骷髅",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143,
+        "note": "圣祖化身"
       }
     ]
   },
@@ -73,9 +99,9 @@
   "attrProvenance": {
     "性别": {
       "asOf": null,
-      "docId": "plot.fanren-1167-1172-return-luoyunzong",
+      "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
       "dated": false,
-      "seq": 859
+      "seq": 2143
     },
     "小阶段": {
       "asOf": null,
@@ -97,9 +123,16 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
       "dated": false,
-      "seq": 865
+      "seq": 859
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+      "dated": false,
+      "seq": 2143,
+      "note": "圣祖化身"
     }
   },
   "contested": false,
@@ -109,7 +142,8 @@
     "plot.fanren-859-864-weidan-tanyan-qinghan",
     "plot.fanren-865-870-baiqiaoyuan-ceremony-zhiyang-invitation-duel",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
   ],
-  "updatedAt": "2026-06-18T12:25:03.962Z"
+  "updatedAt": "2026-06-21T14:30:09.931Z"
 }

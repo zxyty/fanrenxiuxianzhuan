@@ -6,11 +6,14 @@
     "木界绝阵",
     "木界大阵",
     "木界三六天绝阵",
-    "三六天绝阵"
+    "三六天绝阵",
+    "木界禁制",
+    "三号阵眼",
+    "一号阵眼"
   ],
   "summary": "木族镇族第一大阵，传仿上界仙人玄天灵域神通而创，号称可灭杀大乘，以三十六颗后备圣树布成。",
   "attributes": {
-    "效果": "灭杀大乘存在、化百万里为杀戮之境、禁空坠敌、召唤百丈树人、风龙叶刃攻击、传送法阵援军",
+    "效果": "灭杀大乘存在、化百万里为杀戮之境、禁空坠敌、召唤百丈树人、风龙叶刃攻击、传送法阵援军、防御魔族、逆转阵眼之力困住圣祖化身",
     "出处": "木族",
     "布置者": "木族全族"
   },
@@ -45,6 +48,16 @@
         "value": "传送法阵援军",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      },
+      {
+        "value": "防御魔族",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
+      },
+      {
+        "value": "逆转阵眼之力困住圣祖化身",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
       }
     ],
     "出处": [
@@ -97,7 +110,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
   ],
-  "updatedAt": "2026-06-21T14:27:10.360Z"
+  "updatedAt": "2026-06-21T14:30:09.933Z"
 }

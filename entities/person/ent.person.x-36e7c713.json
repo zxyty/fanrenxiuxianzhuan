@@ -14,7 +14,8 @@
     "小阶段": "合体期",
     "外貌": "身材魁梧、额头深皱、肌肤碧绿",
     "性别": "男",
-    "身份": "阵眼镇守者"
+    "身份": "阵眼镇守者",
+    "阵营": "木族"
   },
   "observations": {
     "种族": [
@@ -56,6 +57,13 @@
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
       }
+    ],
+    "阵营": [
+      {
+        "value": "木族",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
+      }
     ]
   },
   "firstSeq": 2131,
@@ -89,13 +97,20 @@
       "docId": "plot.fanren-2137-2142-muzu-dazhan",
       "dated": false,
       "seq": 2137
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+      "dated": false,
+      "seq": 2143
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen",
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
   ],
-  "updatedAt": "2026-06-21T14:27:10.369Z"
+  "updatedAt": "2026-06-21T14:30:09.928Z"
 }

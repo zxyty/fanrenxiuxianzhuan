@@ -3,12 +3,13 @@
   "type": "technique",
   "name": "血柯无量魔功",
   "aliases": [
-    "血柯无量功"
+    "血柯无量功",
+    "血柯无量"
   ],
   "summary": "魔界一门伤人伤己的邪门魔功，施展者放血色气浪与黑色符文漩涡吞噬精气，四人可四象合一融为血红毛人。",
   "attributes": {
     "出处": "魔界",
-    "效果": "血色气浪消融宝物、吞噬精气、四象合一为血红毛人"
+    "效果": "血色气浪消融宝物、吞噬精气、四象合一为血红毛人、幻化血蛟可重凝、血色光带攻防"
   },
   "observations": {
     "出处": [
@@ -33,6 +34,16 @@
         "value": "四象合一为血红毛人",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      },
+      {
+        "value": "幻化血蛟可重凝",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
+      },
+      {
+        "value": "血色光带攻防",
+        "docId": "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen",
+        "seq": 2143
       }
     ]
   },
@@ -54,7 +65,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2137-2142-muzu-dazhan"
+    "plot.fanren-2137-2142-muzu-dazhan",
+    "plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen"
   ],
-  "updatedAt": "2026-06-21T14:27:10.372Z"
+  "updatedAt": "2026-06-21T14:30:09.934Z"
 }

@@ -726,3 +726,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T14:16:24.587Z** `ingest` plot.fanren-2147-2149-wangqing-jue-mumiancheng — 第2147-2149章 忘情决·木棉城——韩立重逢银月，修炼神念秘术克制忘情决 · kind=plot asOf=2026-06-21 entities=18 relations=19 src=02125-02130.p3.md
 - **2026-06-21T14:19:01.463Z** `ingest` plot.fanren-ch2150-2155-mu-jie-36-tian-jue-zhen — 凡人修仙传 第2150-2155章｜木棉城会莫简离、布木界三十六天绝阵守二号阵眼 · kind=plot asOf=2026-06-21 entities=28 relations=31 src=02131-02136.md
 - **2026-06-21T14:27:10.547Z** `ingest` plot.fanren-2137-2142-muzu-dazhan — 凡人修仙传 第2137-2142章｜木灵八子与木族大战（木界绝阵困杀魔族） · kind=plot asOf=2026-06-21 entities=32 relations=40 src=02137-02142.md
+- **2026-06-21T14:30:10.106Z** `ingest` plot.fanren-c2162-2167-muzu-dazhan-shengzu-huashen — 凡人修仙传 第2162-2167章｜木族大战（六~十一）：韩立、蟹道人力抗魔族圣祖化身 · kind=plot asOf=2026-06-21 entities=22 relations=27 src=02143-02148.md
