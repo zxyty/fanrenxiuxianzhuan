@@ -3,13 +3,17 @@
   "type": "beast",
   "name": "石魔",
   "aliases": [
-    "灰白石魔"
+    "灰白石魔",
+    "石敢",
+    "两大石魔",
+    "巨大石人"
   ],
   "summary": "灰白岩石躯体、肩生四臂、十余丈高的魔物，性情温顺，能化身入土并以光柱化土为石筑造石城。",
   "attributes": {
     "种族": "魔物",
-    "外形": "灰白干裂岩石四臂巨人",
-    "能力": "化土为石、化身入土"
+    "外形": "巨大石人/灰白巨脸",
+    "能力": "化土为石、化身入土、瞬移/传送神通",
+    "主人": "元刹圣祖"
   },
   "observations": {
     "种族": [
@@ -24,6 +28,11 @@
         "value": "灰白干裂岩石四臂巨人",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "巨大石人/灰白巨脸",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ],
     "能力": [
@@ -36,6 +45,18 @@
         "value": "化身入土",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "瞬移/传送神通",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
+      }
+    ],
+    "主人": [
+      {
+        "value": "元刹圣祖",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ]
   },
@@ -49,21 +70,28 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
       "dated": false,
-      "seq": 1867
+      "seq": 1933
     },
     "能力": {
       "asOf": null,
       "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
       "dated": false,
       "seq": 1867
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+      "dated": false,
+      "seq": 1933
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
   ],
-  "updatedAt": "2026-06-21T07:38:54.661Z"
+  "updatedAt": "2026-06-21T09:31:13.270Z"
 }

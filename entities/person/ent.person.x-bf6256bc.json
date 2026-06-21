@@ -9,7 +9,7 @@
   "attributes": {
     "种族": "魔族",
     "小阶段": "合体中期",
-    "存殁": "被夺占"
+    "存殁": "躯体被夺占"
   },
   "observations": {
     "种族": [
@@ -32,6 +32,12 @@
         "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909,
         "note": "躯体被血光圣祖神念寄附"
+      },
+      {
+        "value": "躯体被夺占",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933,
+        "note": "被血光圣祖寄附"
       }
     ]
   },
@@ -51,17 +57,18 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
       "dated": false,
-      "seq": 1909,
-      "note": "躯体被血光圣祖神念寄附"
+      "seq": 1933,
+      "note": "被血光圣祖寄附"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
-    "plot.fanren-ch1915-1920-blood-saint-clones-battle"
+    "plot.fanren-ch1915-1920-blood-saint-clones-battle",
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
   ],
-  "updatedAt": "2026-06-21T09:04:03.809Z"
+  "updatedAt": "2026-06-21T09:31:13.284Z"
 }

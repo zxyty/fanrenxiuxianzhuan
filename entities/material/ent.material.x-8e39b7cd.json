@@ -8,8 +8,8 @@
   ],
   "summary": "封存于镇魔锁内的至灵之气，对韩立大有用处；需在黄泉地火借天地阴火吸出，炼化之术极秘。",
   "attributes": {
-    "类型": "至灵之气、天地异气、混沌灵气、天地奇物、天地灵气/混沌之气、灵气至宝",
-    "用途": "助进阶/二魔脱困所需",
+    "类型": "至灵之气、天地异气、混沌灵气、天地奇物、天地灵气/混沌之气、灵气至宝、特殊气息/至宝",
+    "用途": "韩立此行所夺目标",
     "稀有度": "极稀(圣界知炼化术者不超过三人)、极稀有、极稀有(炼化术圣界知者不超三人)",
     "产地": "镇魔锁内、黄泉地火、镇魔锁、镇魔锁/魔界"
   },
@@ -44,6 +44,11 @@
         "value": "灵气至宝",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "特殊气息/至宝",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ],
     "用途": [
@@ -56,6 +61,11 @@
         "value": "助进阶/二魔脱困所需",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "韩立此行所夺目标",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ],
     "稀有度": [
@@ -108,9 +118,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
       "dated": false,
-      "seq": 1927
+      "seq": 1933
     },
     "稀有度": {
       "asOf": null,
@@ -134,7 +144,8 @@
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
     "plot.fanren-1935-fei-cheng",
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
-    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
   ],
-  "updatedAt": "2026-06-21T09:22:58.786Z"
+  "updatedAt": "2026-06-21T09:31:13.272Z"
 }

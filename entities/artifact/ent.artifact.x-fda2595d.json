@@ -7,8 +7,8 @@
   ],
   "summary": "元刹法宝，喷黑色光柱吸摄元婴，将黑雨上人元婴收入镜中。",
   "attributes": {
-    "持有者": "元刹",
-    "能力": "喷黑光吸摄/收纳元婴",
+    "持有者": "血光圣祖",
+    "能力": "远程通讯传讯",
     "外形": "黑濛濛古镜"
   },
   "observations": {
@@ -17,6 +17,11 @@
         "value": "元刹",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "血光圣祖",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ],
     "能力": [
@@ -24,6 +29,11 @@
         "value": "喷黑光吸摄/收纳元婴",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "远程通讯传讯",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ],
     "外形": [
@@ -38,15 +48,15 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
       "dated": false,
-      "seq": 1927
+      "seq": 1933
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
       "dated": false,
-      "seq": 1927
+      "seq": 1933
     },
     "外形": {
       "asOf": null,
@@ -58,7 +68,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
   ],
-  "updatedAt": "2026-06-21T09:22:58.778Z"
+  "updatedAt": "2026-06-21T09:31:13.248Z"
 }

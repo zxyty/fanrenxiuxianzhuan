@@ -2,11 +2,13 @@
   "id": "ent.person.x-60746f31",
   "type": "person",
   "name": "六极",
-  "aliases": [],
+  "aliases": [
+    "六极一二"
+  ],
   "summary": "魔族高手，曾请元刹亲自出手追查人族图谋，仅被提及。",
   "attributes": {
     "种族": "魔族",
-    "阵营": "魔族"
+    "阵营": "魔族、魔族/圣族、魔族/圣界"
   },
   "observations": {
     "种族": [
@@ -21,6 +23,16 @@
         "value": "魔族",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "魔族/圣族",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
+      },
+      {
+        "value": "魔族/圣界",
+        "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+        "seq": 1933
       }
     ]
   },
@@ -42,7 +54,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
   ],
-  "updatedAt": "2026-06-21T09:22:58.770Z"
+  "updatedAt": "2026-06-21T09:31:13.322Z"
 }
