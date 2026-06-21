@@ -5,12 +5,14 @@
   "aliases": [
     "如意刃",
     "玄天如意刃残片",
-    "玄天残刃残片"
+    "玄天残刃残片",
+    "玄天残片",
+    "一片玄天如意刃残片"
   ],
   "summary": "圣界玄天之宝，圣祖曾以毁之为代价劈塌界面通道；被毁后一分为三由三魔保管，残片无法修补，可持之防身使神通狂涨小半。",
   "attributes": {
-    "品阶": "玄天之宝",
-    "来历": "得自魔金山脉合体期魔猿",
+    "品阶": "圣界宝物残片",
+    "来历": "宝树旧物，被魔猿盗出后落入韩立手中",
     "能力": "曾劈塌界面通道",
     "禁制": "已毁分为三片",
     "持有者": "圣祖、三魔分持、韩立、宝树、黑鳄",
@@ -22,6 +24,11 @@
         "value": "玄天之宝",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "圣界宝物残片",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "来历": [
@@ -34,6 +41,11 @@
         "value": "得自魔金山脉合体期魔猿",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "宝树旧物，被魔猿盗出后落入韩立手中",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "能力": [
@@ -89,15 +101,15 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1645
+      "seq": 1945
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939
+      "seq": 1945
     },
     "能力": {
       "asOf": null,
@@ -128,7 +140,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1649-san-mo",
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.204Z"
+  "updatedAt": "2026-06-21T09:56:46.615Z"
 }

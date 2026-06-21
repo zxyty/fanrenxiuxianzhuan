@@ -5,7 +5,8 @@
   "aliases": [
     "六极一二",
     "六极道友",
-    "六极姐姐"
+    "六极姐姐",
+    "六极的六大化身"
   ],
   "summary": "魔族高手，曾请元刹亲自出手追查人族图谋，仅被提及。",
   "attributes": {
@@ -13,8 +14,9 @@
     "阵营": "魔族、魔族/圣族、魔族/圣界",
     "性别": "女",
     "身份": "圣祖、圣祖存在",
-    "标志特征": "绿色小人元神、淡蓝色清澈眼珠",
-    "外貌": "披黑色战甲、覆青面獠牙面甲、露淡蓝色清澈眼珠的苗条甲士"
+    "标志特征": "绿色小人元神、淡蓝色清澈眼珠、拥六大化身",
+    "外貌": "肌肤如雪、黑色魔甲",
+    "称号": "落日真焰"
   },
   "observations": {
     "种族": [
@@ -75,6 +77,11 @@
         "value": "淡蓝色清澈眼珠",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "拥六大化身",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "外貌": [
@@ -83,6 +90,18 @@
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939,
         "note": "化身肉身"
+      },
+      {
+        "value": "肌肤如雪、黑色魔甲",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "称号": [
+      {
+        "value": "落日真焰",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -120,10 +139,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939,
-      "note": "化身肉身"
+      "seq": 1945
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
@@ -131,7 +155,8 @@
   "docs": [
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.135Z"
+  "updatedAt": "2026-06-21T09:56:46.731Z"
 }

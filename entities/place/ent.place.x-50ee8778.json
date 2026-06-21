@@ -10,8 +10,8 @@
   "summary": "天妙灵皇统治的人族境域，主城天灵城建于直径百里、据说直通仙界的擎天灵树上，阵眼即擎天灵树。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "人族境域、高空飞岛禁地、人族三皇境之一、皇城",
-    "守护": "超级仙阵（阵眼擎天灵树）、擎天灵树（仙阵阵眼）、擎天通灵树及诸多禁制",
+    "类型": "人族境域、高空飞岛禁地、人族三皇境之一、皇城、皇城/超级据点",
+    "守护": "超级仙阵（阵眼擎天灵树）、擎天灵树（仙阵阵眼）、擎天通灵树及诸多禁制、擎天巨树",
     "所属势力": "人族",
     "危险度": "极高（魔劫主攻目标）"
   },
@@ -43,6 +43,11 @@
         "value": "皇城",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "皇城/超级据点",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "守护": [
@@ -60,6 +65,11 @@
         "value": "擎天通灵树及诸多禁制",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "擎天巨树",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "所属势力": [
@@ -119,7 +129,8 @@
     "plot.fanren-1323-xuantian-guoshi",
     "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T06:38:29.225Z"
+  "updatedAt": "2026-06-21T09:56:46.735Z"
 }

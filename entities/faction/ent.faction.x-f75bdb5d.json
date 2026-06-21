@@ -12,12 +12,13 @@
     "天云族",
     "天云异族",
     "天云人",
-    "天云各族"
+    "天云各族",
+    "天云一族"
   ],
   "summary": "雷鸣大陆上由十三族组成的势力联盟，绿光城为其所属，正遭角蚩族吞并。",
   "attributes": {
     "所属界面": "灵界雷鸣大陆",
-    "阵营": "灵界势力联盟",
+    "阵营": "灵界势力",
     "据点": "绿光城、云城、横水城、金甲城",
     "镇派之宝": "超级传送法阵"
   },
@@ -49,6 +50,11 @@
         "value": "灵界势力联盟",
         "docId": "plot.fanren-ch1569-tuizou",
         "seq": 1567
+      },
+      {
+        "value": "灵界势力",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "据点": [
@@ -96,9 +102,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch1569-tuizou",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1567
+      "seq": 1945
     },
     "据点": {
       "asOf": null,
@@ -128,7 +134,8 @@
     "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
     "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
     "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
-    "plot.fanren-1746-leave-leiming"
+    "plot.fanren-1746-leave-leiming",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T04:24:30.110Z"
+  "updatedAt": "2026-06-21T09:56:46.634Z"
 }

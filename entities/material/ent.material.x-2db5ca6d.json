@@ -3,12 +3,14 @@
   "type": "material",
   "name": "天昙花",
   "aliases": [
-    "灵花"
+    "灵花",
+    "天云花"
   ],
   "summary": "珍稀灵物/灵药，雷云子所持，宝树追讨月余欲夺之。",
   "attributes": {
-    "类型": "灵药/灵花",
-    "稀有度": "珍稀"
+    "类型": "灵药/灵花、灵药、灵花/灵药",
+    "稀有度": "珍稀",
+    "用途": "抑制伤势、对宝花疗伤有用处"
   },
   "observations": {
     "类型": [
@@ -16,6 +18,16 @@
         "value": "灵药/灵花",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      },
+      {
+        "value": "灵花/灵药",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "稀有度": [
@@ -23,6 +35,18 @@
         "value": "珍稀",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      }
+    ],
+    "用途": [
+      {
+        "value": "抑制伤势",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      },
+      {
+        "value": "对宝花疗伤有用处",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -39,12 +63,19 @@
       "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
       "seq": 1939
+    },
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.206Z"
+  "updatedAt": "2026-06-21T09:56:46.685Z"
 }

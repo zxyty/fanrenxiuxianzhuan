@@ -6,13 +6,14 @@
     "圣祭",
     "群魔初现",
     "魔潮汹涌",
-    "魔界之战圣祭"
+    "魔界之战圣祭",
+    "圣界的圣祭"
   ],
   "summary": "魔族借圣祭从魔斑魔气中大举破界降临灵界，魔兽群分散袭掠、上百座三角巨塔筑石城祭坛，血光圣祖布阵下令进攻人类据点。",
   "attributes": {
     "章节": "1879、1880",
-    "地点": "灵界各处魔斑",
-    "参与方": "魔族圣族、人族修士、妖族、圣族尊者",
+    "地点": "灵界",
+    "参与方": "魔族圣族、人族修士、妖族、圣族尊者、宝树、元刹、血光圣祖",
     "起因": "圣祭，圣族图谋占据灵界部分地域",
     "结果": "魔族建成圣城、布魔气阵法，备战进攻最大人类据点",
     "影响": "收获丰厚"
@@ -35,6 +36,11 @@
         "value": "灵界各处魔斑",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "参与方": [
@@ -57,6 +63,21 @@
         "value": "圣族尊者",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "宝树",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      },
+      {
+        "value": "元刹",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      },
+      {
+        "value": "血光圣祖",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "起因": [
@@ -91,9 +112,9 @@
     },
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1867
+      "seq": 1945
     },
     "参与方": {
       "asOf": null,
@@ -124,7 +145,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1879-1880-mojie-qunmo-chuxian",
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T07:57:36.170Z"
+  "updatedAt": "2026-06-21T09:56:46.646Z"
 }

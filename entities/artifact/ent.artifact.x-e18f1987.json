@@ -10,7 +10,7 @@
   "attributes": {
     "持有者": "元刹",
     "来历": "两大石魔长老变化",
-    "外形": "灰白色石殿/石塔"
+    "外形": "石殿"
   },
   "observations": {
     "持有者": [
@@ -32,6 +32,11 @@
         "value": "灰白色石殿/石塔",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "石殿",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -51,15 +56,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939
+      "seq": 1945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.095Z"
+  "updatedAt": "2026-06-21T09:56:46.620Z"
 }

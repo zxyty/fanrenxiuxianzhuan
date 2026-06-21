@@ -1,0 +1,48 @@
+{
+  "id": "ent.pill.x-2737b8f2",
+  "type": "pill",
+  "name": "锁龙丹",
+  "aliases": [],
+  "summary": "可激发化身潜力暂时恢复法力的丹药，代价是百年后须闭关千年方能真正痊愈。",
+  "attributes": {
+    "功效": "激发化身潜力、暂复法力",
+    "副作用": "百年后须闭关千年方愈"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "激发化身潜力、暂复法力",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "副作用": [
+      {
+        "value": "百年后须闭关千年方愈",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ]
+  },
+  "firstSeq": 1945,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1958-huanri-shentong-baoshu"
+  ],
+  "updatedAt": "2026-06-21T09:56:46.734Z"
+}

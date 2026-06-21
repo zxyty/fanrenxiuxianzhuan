@@ -11,10 +11,12 @@
   "summary": "人族三皇之一，简称『灵皇』，统治天灵境，主城天灵城建于直通仙界的擎天灵树上。",
   "attributes": {
     "称号": "人族傀儡术第一",
-    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一、三境灵皇、三皇之一、前任灵皇",
+    "身份": "天灵境统治者、灵界三皇之一、人族三皇之一、三境灵皇、三皇之一、前任灵皇、天灵城灵皇",
     "种族": "人族",
     "存殁": "死亡",
-    "死因": "未渡过大天劫"
+    "死因": "未渡过大天劫",
+    "阵营": "人族",
+    "结局": "重伤逃脱后失踪"
   },
   "observations": {
     "称号": [
@@ -64,6 +66,11 @@
         "value": "前任灵皇",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "天灵城灵皇",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "种族": [
@@ -85,6 +92,20 @@
         "value": "未渡过大天劫",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "结局": [
+      {
+        "value": "重伤逃脱后失踪",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -119,6 +140,18 @@
       "docId": "plot.fanren-1746-leave-leiming",
       "dated": false,
       "seq": 1741
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
@@ -131,7 +164,8 @@
     "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-pagoda",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T05:40:39.799Z"
+  "updatedAt": "2026-06-21T09:56:46.738Z"
 }

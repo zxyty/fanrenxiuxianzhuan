@@ -5,9 +5,11 @@
   "aliases": [],
   "summary": "镇魔锁中另一魔头，黑色战甲、络腮胡子，已修成牵机大法，自称另有混沌之气提取法，索三分之一为交易。",
   "attributes": {
-    "外貌": "黑色战甲、络腮胡子大汉",
+    "外貌": "黑盔黑甲",
     "身份": "镇魔锁内魔头",
-    "标志特征": "牵机大法"
+    "标志特征": "牵机大法",
+    "种族": "魔族",
+    "阵营": "魔族"
   },
   "observations": {
     "外貌": [
@@ -15,6 +17,11 @@
         "value": "黑色战甲、络腮胡子大汉",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
+      },
+      {
+        "value": "黑盔黑甲",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "身份": [
@@ -30,15 +37,29 @@
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
       }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
     ]
   },
   "firstSeq": 1927,
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1927
+      "seq": 1945
     },
     "身份": {
       "asOf": null,
@@ -51,12 +72,25 @@
       "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
       "seq": 1927
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:20:35.135Z"
+  "updatedAt": "2026-06-21T09:56:46.720Z"
 }

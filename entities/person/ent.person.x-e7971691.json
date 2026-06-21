@@ -3,15 +3,19 @@
   "type": "person",
   "name": "宝树",
   "aliases": [
-    "宝树大人"
+    "宝树大人",
+    "白裙美妇"
   ],
   "summary": "隐藏于魔金山脉的魔族圣祖化身，赤足白裙、足踏粉色巨花，神念远胜韩立的大乘顶尖存在，玄天如意刃原主。",
   "attributes": {
     "种族": "魔族",
     "小阶段": "大乘",
-    "称号": "魔族圣祖",
-    "外貌": "赤足白裙、姿容无双",
-    "阵营": "古魔"
+    "称号": "宝树大人",
+    "外貌": "白裙美妇",
+    "阵营": "圣界",
+    "性别": "女",
+    "身份": "圣界圣祖",
+    "标志特征": "乘粉红巨花、身负旧伤"
   },
   "observations": {
     "种族": [
@@ -34,6 +38,11 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "宝树大人",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "外貌": [
@@ -41,6 +50,11 @@
         "value": "赤足白裙、姿容无双",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "白裙美妇",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "阵营": [
@@ -48,6 +62,32 @@
         "value": "古魔",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "身份": [
+      {
+        "value": "圣界圣祖",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "乘粉红巨花、身负旧伤",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -68,27 +108,46 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939
+      "seq": 1945
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939
+      "seq": 1945
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1939
+      "seq": 1945
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.199Z"
+  "updatedAt": "2026-06-21T09:56:46.591Z"
 }

@@ -4,15 +4,16 @@
   "name": "镇魔锁",
   "aliases": [
     "白色木盒",
-    "真魔锁"
+    "真魔锁",
+    "镇魂塔"
   ],
   "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
   "attributes": {
     "持有者": "血光圣祖",
     "品阶": "玄天之物",
     "外形": "金银符文镶嵌的白色木盒",
-    "禁制": "内藏混沌之气",
-    "能力": "蕴含混沌阴阳二气、封印魔物、封禁元神/可提取混沌之气",
+    "禁制": "已被内囚二魔暗中破开",
+    "能力": "蕴含混沌阴阳二气、封印魔物、封禁元神/可提取混沌之气、封印囚禁高阶魔族",
     "来历": "黄泉地火收取"
   },
   "observations": {
@@ -74,6 +75,11 @@
         "value": "内藏混沌之气",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
+      },
+      {
+        "value": "已被内囚二魔暗中破开",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "能力": [
@@ -91,6 +97,11 @@
         "value": "封禁元神/可提取混沌之气",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "封印囚禁高阶魔族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "来历": [
@@ -143,9 +154,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1927
+      "seq": 1945
     },
     "能力": {
       "asOf": null,
@@ -171,7 +182,8 @@
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T09:43:53.145Z"
+  "updatedAt": "2026-06-21T09:56:46.724Z"
 }

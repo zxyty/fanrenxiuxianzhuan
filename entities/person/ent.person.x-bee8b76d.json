@@ -9,8 +9,12 @@
   "summary": "圣阶圣祖，雪白长裙黑发绝世女子，与冥罗情同手足，麾下有血臂、铁翅等三名圣阶手下；本片段寻得黑渊鳄并以大神通带走。",
   "attributes": {
     "性别": "女",
-    "称号": "圣祖",
-    "外貌": "雪白长裙赤足、漆黑星眸的黑发女子"
+    "称号": "名震魔界",
+    "外貌": "雪白长裙赤足、漆黑星眸的黑发女子",
+    "阵营": "魔族、中立/独行",
+    "标志特征": "足踏巨花、施幻日神通",
+    "种族": "圣族",
+    "身份": "圣界三大始祖之一、占卜师"
   },
   "observations": {
     "性别": [
@@ -25,6 +29,11 @@
         "value": "圣祖",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "名震魔界",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ],
     "外貌": [
@@ -32,6 +41,39 @@
         "value": "雪白长裙赤足、漆黑星眸的黑发女子",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      },
+      {
+        "value": "中立/独行",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "足踏巨花、施幻日神通",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "种族": [
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
+      }
+    ],
+    "身份": [
+      {
+        "value": "圣界三大始祖之一、占卜师",
+        "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+        "seq": 1945
       }
     ]
   },
@@ -45,21 +87,46 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
-      "seq": 1645
+      "seq": 1945
     },
     "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1649-san-mo",
       "dated": false,
       "seq": 1645
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "dated": false,
+      "seq": 1945
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-1958-huanri-shentong-baoshu"
   ],
-  "updatedAt": "2026-06-21T02:18:49.583Z"
+  "updatedAt": "2026-06-21T09:56:46.732Z"
 }
