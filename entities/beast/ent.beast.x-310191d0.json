@@ -11,7 +11,8 @@
   "attributes": {
     "种族": "麒麟",
     "能力": "化虚影附宿主体内、由魔麟令召现本体",
-    "外形": "通体漆黑如墨、体长丈许"
+    "外形": "尺许大青色麒麟虚影",
+    "主人": "纤纤"
   },
   "observations": {
     "种族": [
@@ -43,6 +44,18 @@
         "value": "通体漆黑如墨、体长丈许",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "尺许大青色麒麟虚影",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
+      }
+    ],
+    "主人": [
+      {
+        "value": "纤纤",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ]
   },
@@ -62,16 +75,23 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 1615
+      "seq": 1657
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+      "dated": false,
+      "seq": 1657
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1333-1338-tianyuancheng-auction-mqlin-scales",
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1657-1662-kuajie-monian-yunzu"
   ],
-  "updatedAt": "2026-06-21T01:25:25.138Z"
+  "updatedAt": "2026-06-21T02:39:57.795Z"
 }

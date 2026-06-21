@@ -8,14 +8,15 @@
     "紫色魔化战甲",
     "紫色战甲",
     "紫甲",
-    "魔甲"
+    "魔甲",
+    "紫色魔甲"
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "纤纤",
     "能力": "符文护罩防御",
-    "外形": "紫色全身甲、白水晶双目",
-    "来历": "天外魔（君）相关",
+    "外形": "半尺大紫色狰狞战甲，肩膝带刺、胸口破洞",
+    "来历": "天外魔头之物，疑大有来历",
     "品阶": "极高",
     "禁制": "存裂痕待修补"
   },
@@ -24,7 +25,8 @@
       {
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1579
+        "seq": 1579,
+        "note": "修补后让予，第1661章"
       },
       {
         "value": "纤纤",
@@ -59,6 +61,11 @@
         "value": "紫色全身甲、白水晶双目",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "半尺大紫色狰狞战甲，肩膝带刺、胸口破洞",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ],
     "来历": [
@@ -82,6 +89,11 @@
         "value": "天外魔（君）相关",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "天外魔头之物，疑大有来历",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ],
     "品阶": [
@@ -126,15 +138,15 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 1615
+      "seq": 1657
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 1633
+      "seq": 1657
     },
     "品阶": {
       "asOf": null,
@@ -161,7 +173,8 @@
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1643-de-jing",
     "plot.fanren-1649-san-mo",
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+    "plot.fanren-1657-1662-kuajie-monian-yunzu"
   ],
-  "updatedAt": "2026-06-21T02:32:02.939Z"
+  "updatedAt": "2026-06-21T02:39:57.799Z"
 }

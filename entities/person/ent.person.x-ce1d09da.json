@@ -3,15 +3,18 @@
   "type": "person",
   "name": "许老怪",
   "aliases": [
-    "紫袍白发老者"
+    "紫袍白发老者",
+    "徐老怪"
   ],
   "summary": "灵山顶阶炼虚后期存在，化赤色火蛟、持朱红葫芦收天地元气炼宝，众异族忌惮。",
   "attributes": {
     "性别": "男",
-    "小阶段": "炼虚后期",
+    "小阶段": "炼虚顶阶",
     "称号": "许老怪",
-    "外貌": "六十余岁、面容粗犷、满头白发、一身紫袍",
-    "身份": "灵山顶阶存在"
+    "外貌": "红袍六十余岁，貌如常人",
+    "身份": "灵山顶阶存在",
+    "种族": "云族",
+    "性格": "豪爽精明"
   },
   "observations": {
     "性别": [
@@ -26,6 +29,12 @@
         "value": "炼虚后期",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "炼虚顶阶",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657,
+        "note": "本片段"
       }
     ],
     "称号": [
@@ -40,6 +49,11 @@
         "value": "六十余岁、面容粗犷、满头白发、一身紫袍",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "红袍六十余岁，貌如常人",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ],
     "身份": [
@@ -47,6 +61,20 @@
         "value": "灵山顶阶存在",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      }
+    ],
+    "种族": [
+      {
+        "value": "云族",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
+      }
+    ],
+    "性格": [
+      {
+        "value": "豪爽精明",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ]
   },
@@ -60,9 +88,10 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 1651
+      "seq": 1657,
+      "note": "本片段"
     },
     "称号": {
       "asOf": null,
@@ -72,21 +101,34 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 1651
+      "seq": 1657
     },
     "身份": {
       "asOf": null,
       "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
       "dated": false,
       "seq": 1651
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+      "dated": false,
+      "seq": 1657
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+      "dated": false,
+      "seq": 1657
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+    "plot.fanren-1657-1662-kuajie-monian-yunzu"
   ],
-  "updatedAt": "2026-06-21T02:32:02.916Z"
+  "updatedAt": "2026-06-21T02:39:57.796Z"
 }

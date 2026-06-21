@@ -6,12 +6,13 @@
     "筑基期",
     "筑基初期",
     "筑基中期",
-    "筑基后期"
+    "筑基后期",
+    "筑基巅峰"
   ],
   "summary": "修仙正式入门的境界；未筑基者不算修士、无法涉足修仙界，能否筑基受灵根资质所限。",
   "attributes": {
     "突破关键": "服筑基丹",
-    "阶序": "炼气之上",
+    "阶序": "筑基",
     "寿元": "两百多岁",
     "上一境": "结丹",
     "下一境": "结丹期",
@@ -55,6 +56,11 @@
         "value": "炼气之上",
         "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
         "seq": 301
+      },
+      {
+        "value": "筑基",
+        "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
+        "seq": 1657
       }
     ],
     "寿元": [
@@ -141,9 +147,9 @@
     },
     "阶序": {
       "asOf": null,
-      "docId": "plot.fanren-301-306-mengshan-wuyou-neiying",
+      "docId": "plot.fanren-1657-1662-kuajie-monian-yunzu",
       "dated": false,
-      "seq": 301
+      "seq": 1657
     },
     "寿元": {
       "asOf": null,
@@ -244,7 +250,8 @@
     "plot.fanren-919-924-ganjia-bailu-academy",
     "plot.fmxxz-ch889-tianshui-river-green-bat",
     "plot.fanren-973-yinyangku-minghe-page",
-    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan"
+    "plot.fanren-1129-1134-tianxing-shuangsheng-jidan",
+    "plot.fanren-1657-1662-kuajie-monian-yunzu"
   ],
-  "updatedAt": "2026-06-20T07:18:08.745Z"
+  "updatedAt": "2026-06-21T02:39:57.816Z"
 }
