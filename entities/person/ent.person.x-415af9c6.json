@@ -6,15 +6,18 @@
     "马良这厮",
     "降世真仙",
     "病弱青年",
-    "仙界疯子"
+    "仙界疯子",
+    "降临真仙",
+    "真仙疯子"
   ],
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
-    "性格": "心性过激",
-    "身份": "降世真仙",
+    "性格": "心性过激、嗜血祭、自大",
+    "身份": "仙界降临真仙",
     "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术",
     "外貌": "黑袍病弱（瘦弱）青年",
-    "阵营": "孤身"
+    "阵营": "孤身",
+    "小阶段": "真仙"
   },
   "observations": {
     "性格": [
@@ -22,6 +25,16 @@
         "value": "心性过激",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "嗜血祭",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
+      },
+      {
+        "value": "自大",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "身份": [
@@ -34,6 +47,11 @@
         "value": "降世真仙",
         "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
         "seq": 2365
+      },
+      {
+        "value": "仙界降临真仙",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "标志特征": [
@@ -67,6 +85,14 @@
         "seq": 2365,
         "note": "被血天群修共讨"
       }
+    ],
+    "小阶段": [
+      {
+        "value": "真仙",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377,
+        "note": "实力大半受限"
+      }
     ]
   },
   "firstSeq": 2251,
@@ -79,9 +105,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
       "dated": false,
-      "seq": 2365
+      "seq": 2377
     },
     "标志特征": {
       "asOf": null,
@@ -101,13 +127,21 @@
       "dated": false,
       "seq": 2365,
       "note": "被血天群修共讨"
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "dated": false,
+      "seq": 2377,
+      "note": "实力大半受限"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2270-jiuyuanguan",
-    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+    "plot.fanren-ch2377-2382-malaiang-shizong"
   ],
-  "updatedAt": "2026-06-21T19:01:33.529Z"
+  "updatedAt": "2026-06-21T19:22:14.819Z"
 }

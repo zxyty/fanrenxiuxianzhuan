@@ -16,14 +16,16 @@
     "金阙玉页",
     "乳白色玉牌",
     "外页",
-    "金阙玉书内页"
+    "金阙玉书内页",
+    "完整寄附神魂秘术",
+    "寄附神魂之术"
   ],
   "summary": "出自真仙界、于灵界仙人之骸寻得的仙家秘术，原共108页（内36页修炼、外72页杂学），只适合人族修炼。韩立所得为一张外页残页。",
   "attributes": {
     "品阶": "仙家之物、仙家秘术",
-    "出处": "真仙界、仙人符箓之道、仙家符箓之道、天澜兽分神所赠、仙界、金阙玉书残缺外页、骨手拇指内乳白玉牌、韩立所得残缺外页、天澜兽分神、金阙玉书外七十二页、残缺外页、金阙玉书残页",
-    "效果": "内36页载吐纳修炼之道、外72页载符箓阵法炼丹制器等杂学、记载一套符箓的炼制之法、记载多种仙家符箓炼制法、符箓之道、炼制银蝌文灵符、记载炼器之道、记载太一化清符、九宫天乾符、天戈符、甲元符等符箓秘术、吐纳修炼/玄功神通(内页)、符箓阵法炼丹制器(外页)、记载仙人符箓炼制之法、载有银蝌文、记载多种仙家符箓、记载四种威力极大符箓炼制法、银蝌文符箓绘制之道",
-    "修炼条件": "需充足元气，人界稀薄无法施展",
+    "出处": "真仙界、仙人符箓之道、仙家符箓之道、天澜兽分神所赠、仙界、金阙玉书残缺外页、骨手拇指内乳白玉牌、韩立所得残缺外页、天澜兽分神、金阙玉书外七十二页、残缺外页、金阙玉书残页、蛮荒异族洞府所得残页",
+    "效果": "内36页载吐纳修炼之道、外72页载符箓阵法炼丹制器等杂学、记载一套符箓的炼制之法、记载多种仙家符箓炼制法、符箓之道、炼制银蝌文灵符、记载炼器之道、记载太一化清符、九宫天乾符、天戈符、甲元符等符箓秘术、吐纳修炼/玄功神通(内页)、符箓阵法炼丹制器(外页)、记载仙人符箓炼制之法、载有银蝌文、记载多种仙家符箓、记载四种威力极大符箓炼制法、银蝌文符箓绘制之道、神魂完整寄附他人肉身、暂时遮蔽神魂追踪",
+    "修炼条件": "须仙人之体方能完整施展",
     "适用境界": "内页须炼虚期",
     "外显异象": "拇指大小乳白玉牌、银光符文"
   },
@@ -100,6 +102,11 @@
         "value": "金阙玉书残页",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "蛮荒异族洞府所得残页",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "效果": [
@@ -177,6 +184,16 @@
         "value": "银蝌文符箓绘制之道",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "神魂完整寄附他人肉身",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
+      },
+      {
+        "value": "暂时遮蔽神魂追踪",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "修炼条件": [
@@ -195,6 +212,11 @@
         "value": "需充足元气，人界稀薄无法施展",
         "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
         "seq": 1255
+      },
+      {
+        "value": "须仙人之体方能完整施展",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "适用境界": [
@@ -245,9 +267,9 @@
     },
     "修炼条件": {
       "asOf": null,
-      "docId": "plot.fanren-1255-1260-lianshou-zhiyi-zonglue-tianxia-huidao",
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
       "dated": false,
-      "seq": 1255
+      "seq": 2377
     },
     "适用境界": {
       "asOf": null,
@@ -290,7 +312,8 @@
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1975-1980-heti-houqi-diyimozun",
     "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
-    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+    "plot.fanren-ch2377-2382-malaiang-shizong"
   ],
-  "updatedAt": "2026-06-21T17:40:04.936Z"
+  "updatedAt": "2026-06-21T19:22:14.842Z"
 }

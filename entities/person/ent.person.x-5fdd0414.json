@@ -6,14 +6,17 @@
     "总执事",
     "明大人",
     "明前辈",
-    "明兄"
+    "明兄",
+    "赤红老者",
+    "赤发老者"
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "赫连商盟总执事",
-    "外貌": "红发老者",
+    "身份": "本盟总执事",
+    "外貌": "赤红头发老者",
     "小阶段": "大乘期",
-    "出身地": "风元大陆"
+    "出身地": "仙人嫡系后人后裔",
+    "阵营": "未明"
   },
   "observations": {
     "身份": [
@@ -31,6 +34,11 @@
         "value": "赫连商盟总执事",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "本盟总执事",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "外貌": [
@@ -38,6 +46,11 @@
         "value": "红发老者",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "赤红头发老者",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ],
     "小阶段": [
@@ -57,6 +70,18 @@
         "value": "风元大陆",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "仙人嫡系后人后裔",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
+      }
+    ],
+    "阵营": [
+      {
+        "value": "未明",
+        "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+        "seq": 2377
       }
     ]
   },
@@ -64,15 +89,15 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
       "dated": false,
-      "seq": 2317
+      "seq": 2377
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
       "dated": false,
-      "seq": 2305
+      "seq": 2377
     },
     "小阶段": {
       "asOf": null,
@@ -82,9 +107,15 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
       "dated": false,
-      "seq": 2317
+      "seq": 2377
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "dated": false,
+      "seq": 2377
     }
   },
   "contested": false,
@@ -92,7 +123,8 @@
   "docs": [
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-ch2377-2382-malaiang-shizong"
   ],
-  "updatedAt": "2026-06-21T17:47:58.982Z"
+  "updatedAt": "2026-06-21T19:22:14.866Z"
 }
