@@ -2,12 +2,14 @@
   "id": "ent.material.x-5514e12c",
   "type": "material",
   "name": "炼魔草",
-  "aliases": [],
+  "aliases": [
+    "炼魔花"
+  ],
   "summary": "上界天地灵药，淡银色，只对圣族大用，元魇圣祖能否走出最后一步与其息息相关。",
   "attributes": {
-    "类型": "上界天地灵药",
-    "用途": "圣族突破最后一步",
-    "稀有度": "上界稀有",
+    "类型": "灵草",
+    "用途": "魔族所重之天地奇物",
+    "稀有度": "极稀有",
     "产地": "上界"
   },
   "observations": {
@@ -16,6 +18,11 @@
         "value": "上界天地灵药",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "用途": [
@@ -23,6 +30,11 @@
         "value": "圣族突破最后一步",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "魔族所重之天地奇物",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "稀有度": [
@@ -30,6 +42,11 @@
         "value": "上界稀有",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "产地": [
@@ -44,21 +61,21 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
     },
     "产地": {
       "asOf": null,
@@ -70,7 +87,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:15:38.743Z"
+  "updatedAt": "2026-06-21T13:27:24.418Z"
 }

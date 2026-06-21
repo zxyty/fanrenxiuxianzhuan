@@ -4,13 +4,14 @@
   "name": "净灵莲",
   "aliases": [
     "银藕",
-    "银蓬"
+    "银蓬",
+    "灵莲"
   ],
   "summary": "魔界深处灵物，七窍一气莲未形成前的进化形态，可大增慧根。",
   "attributes": {
-    "类型": "助突破大乘的灵药",
-    "用途": "提升灵根慧力、增进阶大乘几率、灵族探宝目标、洗炼/未明、突破大乘瓶颈",
-    "产地": "苦灵岛洗灵池"
+    "类型": "天地灵物、灵莲、圣界秘宝、灵莲/天地奇物、灵莲/灵草、助突破大乘的灵药、灵草、灵莲/奇物",
+    "用途": "提升灵根慧力、增进阶大乘几率、灵族探宝目标、洗炼/未明、突破大乘瓶颈、洗经易髓、改造肉身",
+    "产地": "洗灵池"
   },
   "observations": {
     "类型": [
@@ -43,6 +44,16 @@
         "value": "助突破大乘的灵药",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
+      },
+      {
+        "value": "灵莲/奇物",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "用途": [
@@ -70,6 +81,11 @@
         "value": "突破大乘瓶颈",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "洗经易髓、改造肉身",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "产地": [
@@ -97,6 +113,11 @@
         "value": "苦灵岛洗灵池",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "洗灵池",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ]
   },
@@ -104,9 +125,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
-      "seq": 2077
+      "seq": 1825
     },
     "用途": {
       "asOf": null,
@@ -116,9 +137,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
     }
   },
   "contested": false,
@@ -129,7 +150,8 @@
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
-    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:15:38.744Z"
+  "updatedAt": "2026-06-21T13:27:24.397Z"
 }

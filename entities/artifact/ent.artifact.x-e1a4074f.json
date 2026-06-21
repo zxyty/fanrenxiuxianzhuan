@@ -6,7 +6,8 @@
     "玄天之剑",
     "此剑",
     "封印的玄天之剑",
-    "墨绿小剑"
+    "墨绿小剑",
+    "玄天之剑威能"
   ],
   "summary": "原为细长微黄、铭墨绿花纹的玄天果实，吸韩立逾三分之二精血后表皮变红、翠纹化符文，一端射出尺许翠亮剑刃（中心五道翠色符文），果实化作剑柄，成为灵剑。",
   "attributes": {
@@ -16,7 +17,7 @@
     "来历": "血祭大阵跨万里召唤争夺的玄天之宝",
     "品阶": "玄天之宝",
     "五行属性": "木(翠绿)",
-    "禁制": "封印于韩立臂膀化剑痕"
+    "禁制": "封印于韩立臂上"
   },
   "observations": {
     "持有者": [
@@ -126,6 +127,11 @@
         "value": "封印于韩立臂膀化剑痕",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "封印于韩立臂上",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ]
   },
@@ -169,9 +175,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 1993
+      "seq": 2083
     }
   },
   "contested": false,
@@ -180,7 +186,8 @@
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
     "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
     "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T10:59:59.897Z"
+  "updatedAt": "2026-06-21T13:27:24.417Z"
 }

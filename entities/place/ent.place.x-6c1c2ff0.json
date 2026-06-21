@@ -9,8 +9,8 @@
   "summary": "羊老二出身之地，雷海七煞所在。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "雷电海域、雷海",
-    "危险度": "高、极高"
+    "类型": "雷电海域、雷海、海域",
+    "危险度": "高、极高、高（天地之力压制、限三日）"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +30,11 @@
         "value": "雷海",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "海域",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "危险度": [
@@ -42,6 +47,11 @@
         "value": "极高",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "高（天地之力压制、限三日）",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ]
   },
@@ -70,7 +80,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.783Z"
+  "updatedAt": "2026-06-21T13:27:24.420Z"
 }

@@ -4,17 +4,18 @@
   "name": "宝花",
   "aliases": [
     "宝花大人",
-    "雪白长裙黑发女子"
+    "雪白长裙黑发女子",
+    "花树虚影"
   ],
   "summary": "圣阶圣祖，雪白长裙黑发绝世女子，与冥罗情同手足，麾下有血臂、铁翅等三名圣阶手下；本片段寻得黑渊鳄并以大神通带走。",
   "attributes": {
     "性别": "女",
     "称号": "名震魔界",
-    "外貌": "白衣/银瞳",
-    "阵营": "魔族、中立/独行",
-    "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光、镜面卜算之术",
-    "种族": "圣族",
-    "身份": "重返圣界的强者"
+    "外貌": "白衣女子",
+    "阵营": "魔族、中立/独行、圣族",
+    "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光、镜面卜算之术、本体花树",
+    "种族": "魔族",
+    "身份": "圣族前始祖"
   },
   "observations": {
     "性别": [
@@ -51,6 +52,11 @@
         "value": "白衣/银瞳",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "白衣女子",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "阵营": [
@@ -63,6 +69,11 @@
         "value": "中立/独行",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "标志特征": [
@@ -85,6 +96,11 @@
         "value": "镜面卜算之术",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "本体花树",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "种族": [
@@ -92,6 +108,11 @@
         "value": "圣族",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "身份": [
@@ -104,6 +125,11 @@
         "value": "重返圣界的强者",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
+      },
+      {
+        "value": "圣族前始祖",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ]
   },
@@ -123,9 +149,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2065
+      "seq": 2083
     },
     "阵营": {
       "asOf": null,
@@ -141,15 +167,15 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 1945
+      "seq": 2083
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2065
+      "seq": 2083
     }
   },
   "contested": false,
@@ -158,7 +184,8 @@
     "plot.fanren-1649-san-mo",
     "plot.fanren-1958-huanri-shentong-baoshu",
     "plot.fanren-2068-2069-fansuan-lanjie",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:05:49.776Z"
+  "updatedAt": "2026-06-21T13:27:24.408Z"
 }

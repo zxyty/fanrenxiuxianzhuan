@@ -9,7 +9,7 @@
   "summary": "被雷海四面环绕的巨型岛屿，灵族探宝队此行目标，附近有金蟹魔晶傀儡之险；岛上有白衣女子等。",
   "attributes": {
     "所属界面": "圣界（魔界）",
-    "类型": "秘境岛屿",
+    "类型": "海岛",
     "危险度": "高（压制大乘）",
     "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇、魔族三大始祖"
   },
@@ -46,6 +46,11 @@
         "value": "秘境岛屿",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "海岛",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ],
     "危险度": [
@@ -98,9 +103,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
     },
     "危险度": {
       "asOf": null,
@@ -121,7 +126,8 @@
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
     "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
-    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:15:38.745Z"
+  "updatedAt": "2026-06-21T13:27:24.420Z"
 }

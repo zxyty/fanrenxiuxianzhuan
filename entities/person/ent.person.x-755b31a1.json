@@ -3,12 +3,18 @@
   "type": "person",
   "name": "涅槃圣祖",
   "aliases": [
-    "涅槃"
+    "涅槃",
+    "涅槃道友",
+    "涅槃老家伙",
+    "苍老声音老者"
   ],
   "summary": "魔族始祖，唯一将无上魔体涅槃圣体修炼大成者；本章被提及。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族始祖"
+    "身份": "圣族强者",
+    "阵营": "圣族",
+    "标志特征": "涅槃圣体／三涅变身",
+    "外貌": "苍老声音"
   },
   "observations": {
     "种族": [
@@ -23,6 +29,32 @@
         "value": "魔族始祖",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "圣族强者",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
+      }
+    ],
+    "阵营": [
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "涅槃圣体／三涅变身",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
+      }
+    ],
+    "外貌": [
+      {
+        "value": "苍老声音",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       }
     ]
   },
@@ -36,15 +68,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
-      "seq": 2077
+      "seq": 2083
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "dated": false,
+      "seq": 2083
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "dated": false,
+      "seq": 2083
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "dated": false,
+      "seq": 2083
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2095-2100-kuling-island-baohua-shengzu"
+    "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:15:38.732Z"
+  "updatedAt": "2026-06-21T13:27:24.409Z"
 }

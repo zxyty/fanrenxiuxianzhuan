@@ -1,48 +1,43 @@
 {
-  "id": "ent.person.x-6b42cf41",
-  "type": "person",
-  "name": "鹤颜",
+  "id": "ent.beast.x-d6a0c137",
+  "type": "beast",
+  "name": "始印封印之物",
   "aliases": [],
-  "summary": "圣界身具始祖之位的强者，与天泣联手为宝花圣祖死敌。",
+  "summary": "被封印于始印之地的恐怖存在，可直接吞噬灵气与魔气、繁殖极快，曾毁灭无数界面；六千年前第二次苏醒，下次苏醒实力恐比上界真仙。",
   "attributes": {
-    "身份": "圣族圣祖",
-    "阵营": "圣族"
+    "栖息地": "始印之地",
+    "能力": "吞噬灵气与魔气、繁殖极快"
   },
   "observations": {
-    "身份": [
+    "栖息地": [
       {
-        "value": "始祖",
-        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-        "seq": 1999
-      },
-      {
-        "value": "圣族圣祖",
+        "value": "始印之地",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
       }
     ],
-    "阵营": [
+    "能力": [
       {
-        "value": "圣界",
-        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-        "seq": 1999
+        "value": "吞噬灵气与魔气",
+        "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+        "seq": 2083
       },
       {
-        "value": "圣族",
+        "value": "繁殖极快",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
       }
     ]
   },
-  "firstSeq": 1999,
+  "firstSeq": 2083,
   "attrProvenance": {
-    "身份": {
+    "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
       "seq": 2083
     },
-    "阵营": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
@@ -52,8 +47,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
   ],
-  "updatedAt": "2026-06-21T13:27:24.383Z"
+  "updatedAt": "2026-06-21T13:27:24.386Z"
 }
