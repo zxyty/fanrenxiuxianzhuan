@@ -11,8 +11,8 @@
   "attributes": {
     "品阶": "灵宝（混沌万灵榜）、混沌万灵榜灵宝、万灵榜灵宝",
     "持有者": "黑雨上人、黑雨上人（圣岛外借）",
-    "能力": "化银雾封锁、不受雷劫影响、封锁空中退路、隐匿不被感应、不受天劫雷影响、隔断并吸收天雷雷蛟",
-    "外形": "银色丝网、银色薄雾/丝网、覆盖山头的银色巨网"
+    "能力": "化银雾封锁、不受雷劫影响、封锁空中退路、隐匿不被感应、不受天劫雷影响、隔断并吸收天雷雷蛟、勒缩束缚、封禁神通",
+    "外形": "银色丝网、银色薄雾/丝网、覆盖山头的银色巨网、纤细银色丝网"
   },
   "observations": {
     "品阶": [
@@ -59,6 +59,16 @@
         "value": "隔断并吸收天雷雷蛟",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
         "seq": 1927
+      },
+      {
+        "value": "勒缩束缚",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
+      },
+      {
+        "value": "封禁神通",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "外形": [
@@ -75,6 +85,11 @@
       {
         "value": "覆盖山头的银色巨网",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      },
+      {
+        "value": "纤细银色丝网",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
       }
     ]
@@ -111,7 +126,8 @@
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T09:18:01.686Z"
+  "updatedAt": "2026-06-21T09:20:35.123Z"
 }

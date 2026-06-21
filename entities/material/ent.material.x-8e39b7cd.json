@@ -8,10 +8,10 @@
   ],
   "summary": "封存于镇魔锁内的至灵之气，对韩立大有用处；需在黄泉地火借天地阴火吸出，炼化之术极秘。",
   "attributes": {
-    "类型": "至灵之气、天地异气、混沌灵气、天地奇物",
+    "类型": "至灵之气、天地异气、混沌灵气、天地奇物、天地灵气/混沌之气",
     "用途": "对韩立修行大有用处",
     "稀有度": "极稀(圣界知炼化术者不超过三人)、极稀有、极稀有(炼化术圣界知者不超三人)",
-    "产地": "黄泉地火"
+    "产地": "镇魔锁"
   },
   "observations": {
     "类型": [
@@ -34,6 +34,11 @@
         "value": "天地奇物",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "天地灵气/混沌之气",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "用途": [
@@ -70,6 +75,11 @@
         "value": "黄泉地火",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "镇魔锁",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ]
   },
@@ -95,9 +105,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
-      "seq": 1921
+      "seq": 1927
     }
   },
   "contested": false,
@@ -107,7 +117,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T09:16:08.446Z"
+  "updatedAt": "2026-06-21T09:20:35.132Z"
 }

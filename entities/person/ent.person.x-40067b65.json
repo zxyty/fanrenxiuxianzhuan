@@ -4,7 +4,10 @@
   "name": "车骑恭",
   "aliases": [
     "墨绿长袍老者",
-    "车骑恭老者"
+    "车骑恭老者",
+    "车老怪",
+    "车老魔",
+    "车前辈"
   ],
   "summary": "被困镇魔锁的魔界圣祖，自称寿元最久者之一，紫言鼎原主，与血光有深仇，与韩立做交易换助力。",
   "attributes": {
@@ -12,9 +15,9 @@
     "阵营": "魔界",
     "标志特征": "元神被困镇魔锁中",
     "种族": "魔族",
-    "身份": "魔族圣祖",
+    "身份": "镇魔锁内魔头",
     "外貌": "墨绿长袍老者",
-    "性格": "心狠手辣",
+    "性格": "阴沉",
     "存殁": "元神被困镇魔锁"
   },
   "observations": {
@@ -61,6 +64,11 @@
         "value": "圣祖",
         "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
+      },
+      {
+        "value": "镇魔锁内魔头",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "外貌": [
@@ -85,6 +93,11 @@
         "value": "心狠手辣",
         "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
+      },
+      {
+        "value": "阴沉",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "存殁": [
@@ -124,9 +137,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
-      "seq": 1921
+      "seq": 1927
     },
     "外貌": {
       "asOf": null,
@@ -136,9 +149,9 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
-      "seq": 1909
+      "seq": 1927
     },
     "存殁": {
       "asOf": null,
@@ -155,7 +168,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T09:16:08.430Z"
+  "updatedAt": "2026-06-21T09:20:35.133Z"
 }

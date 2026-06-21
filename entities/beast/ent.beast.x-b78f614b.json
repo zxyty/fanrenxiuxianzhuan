@@ -6,14 +6,16 @@
     "黄粱石中石灵",
     "石灵",
     "七目金蟾",
-    "黄粱石灵灵物"
+    "黄粱石灵灵物",
+    "黄粱石灵噬灵"
   ],
   "summary": "黄泉地火深处黄粱梦石孕育五万年而生灵智的天地灵物，天赋瞬息幻术，体内妖晶为人族对付魔劫之物。",
   "attributes": {
     "等级": "天地灵物",
-    "能力": "瞬息幻术、普通石灵神通、瞬息释放幻术、普通灵石神通、阴寒妖火、转化天雷、天赋幻术（连合体存在亦能困住）、妖丹排斥巨力",
+    "能力": "瞬息幻术、普通石灵神通、瞬息释放幻术、普通灵石神通、阴寒妖火、转化天雷、天赋幻术（连合体存在亦能困住）、妖丹排斥巨力、黄色妖火、幻术、膨胀自爆",
     "栖息地": "黄泉地火地底",
-    "外形": "酷似蟾蜍、金光灿灿、额生血红妖目（幻术中现身为千丈七目金蟾）"
+    "外形": "酷似蟾蜍、金光灿灿、额生血红妖目（幻术中现身为千丈七目金蟾）",
+    "天敌": "碧蓝飞蝎蓝芒"
   },
   "observations": {
     "等级": [
@@ -63,6 +65,21 @@
         "value": "妖丹排斥巨力",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
         "seq": 1927
+      },
+      {
+        "value": "黄色妖火",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
+      },
+      {
+        "value": "幻术",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
+      },
+      {
+        "value": "膨胀自爆",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "栖息地": [
@@ -81,6 +98,13 @@
       {
         "value": "酷似蟾蜍、金光灿灿、额生血红妖目（幻术中现身为千丈七目金蟾）",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      }
+    ],
+    "天敌": [
+      {
+        "value": "碧蓝飞蝎蓝芒",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
       }
     ]
@@ -110,6 +134,12 @@
       "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
       "dated": false,
       "seq": 1927
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "dated": false,
+      "seq": 1927
     }
   },
   "contested": false,
@@ -117,7 +147,8 @@
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T09:18:01.681Z"
+  "updatedAt": "2026-06-21T09:20:35.118Z"
 }

@@ -6,16 +6,19 @@
     "雨啸天",
     "雨兄",
     "丑陋老者",
-    "黑羽上人"
+    "黑羽上人",
+    "黑雨"
   ],
   "summary": "枯瘦丑陋的合体中期道家修士，现居圣岛，奉圣岛之命前来黄泉地火擒捕黄粱石灵。",
   "attributes": {
     "种族": "人族",
     "小阶段": "合体中期",
     "身份": "圣岛居住者、现居圣岛",
-    "外貌": "枯瘦如柴、肌肤黝黑、形如焦木、枯瘦如柴、肌肤黝黑、似焦木般丑陋、老者",
+    "外貌": "枯瘦如柴、肌肤黝黑、形如焦木、枯瘦如柴、肌肤黝黑、似焦木般丑陋、老者、丑陋老者",
     "存殁": "存活",
-    "性别": "男"
+    "性别": "男",
+    "阵营": "圣岛",
+    "标志特征": "银霄雷网、碧蓝飞蝎"
   },
   "observations": {
     "种族": [
@@ -59,6 +62,11 @@
         "value": "老者",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
         "seq": 1927
+      },
+      {
+        "value": "丑陋老者",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "存殁": [
@@ -72,6 +80,20 @@
       {
         "value": "男",
         "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      }
+    ],
+    "阵营": [
+      {
+        "value": "圣岛",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "银霄雷网、碧蓝飞蝎",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
       }
     ]
@@ -113,6 +135,18 @@
       "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
       "dated": false,
       "seq": 1927
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "dated": false,
+      "seq": 1927
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "dated": false,
+      "seq": 1927
     }
   },
   "contested": false,
@@ -120,7 +154,8 @@
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T09:18:01.679Z"
+  "updatedAt": "2026-06-21T09:20:35.115Z"
 }

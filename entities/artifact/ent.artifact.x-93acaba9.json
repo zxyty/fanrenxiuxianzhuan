@@ -3,15 +3,16 @@
   "type": "artifact",
   "name": "镇魔锁",
   "aliases": [
-    "白色木盒"
+    "白色木盒",
+    "真魔锁"
   ],
   "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
   "attributes": {
     "持有者": "血光圣祖",
     "品阶": "玄天灵宝(未完成)",
     "外形": "金银符文镶嵌的白色木盒",
-    "禁制": "神念化身入内无法脱身；内有多重禁制",
-    "能力": "蕴含混沌阴阳二气",
+    "禁制": "内藏混沌之气",
+    "能力": "封印魔物",
     "来历": "夺自血光圣祖三名手下"
   },
   "observations": {
@@ -58,6 +59,11 @@
         "value": "十三层禁制（车骑恭已破解至最后三层）",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "内藏混沌之气",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "能力": [
@@ -65,6 +71,11 @@
         "value": "蕴含混沌阴阳二气",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "封印魔物",
+        "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
       }
     ],
     "来历": [
@@ -107,15 +118,15 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
-      "seq": 1909
+      "seq": 1927
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
       "dated": false,
-      "seq": 1891
+      "seq": 1927
     },
     "来历": {
       "asOf": null,
@@ -131,7 +142,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
   ],
-  "updatedAt": "2026-06-21T08:55:10.661Z"
+  "updatedAt": "2026-06-21T09:20:35.129Z"
 }
