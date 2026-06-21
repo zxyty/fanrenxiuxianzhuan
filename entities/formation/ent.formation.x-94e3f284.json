@@ -6,13 +6,16 @@
     "春黎剑阵",
     "春黎剑阵幻术阵",
     "春黎阵",
-    "春黎剑阵青莲剑阵"
+    "春黎剑阵青莲剑阵",
+    "青色光幕剑阵"
   ],
   "summary": "新青元剑诀附带的剑阵，威能胜大庚剑阵，需纯木属性高阶飞剑，韩立现修为即可布置。",
   "attributes": {
     "出处": "新青元剑诀、青元剑诀、青元子/青元剑诀",
     "布置者": "韩立",
-    "效果": "以幻术为主的剑阵、幻术为主的剑阵、幻术困敌、禁制遁术、无形巨力定身、青蟒扑杀、束缚、吸收灵气波动与音波、青莲光幕困敌、附带幻术、吸纳天地元气强化自身、孕育元气之剑、困敌、可催发元气之剑、困限身法、青莲幻境(巨木林)、斩杀阵中之敌"
+    "效果": "以幻术为主的剑阵、幻术为主的剑阵、幻术困敌、禁制遁术、无形巨力定身、青蟒扑杀、束缚、吸收灵气波动与音波、青莲光幕困敌、附带幻术、吸纳天地元气强化自身、孕育元气之剑、困敌、可催发元气之剑、困限身法、青莲幻境(巨木林)、斩杀阵中之敌、幻化困敌(青莲/巨树/甲士)、虚实结合攻击",
+    "品阶": "高阶剑阵",
+    "破解法": "灵目可洞穿幻术"
   },
   "observations": {
     "出处": [
@@ -124,6 +127,30 @@
         "value": "斩杀阵中之敌",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      },
+      {
+        "value": "幻化困敌(青莲/巨树/甲士)",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      },
+      {
+        "value": "虚实结合攻击",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      }
+    ],
+    "品阶": [
+      {
+        "value": "高阶剑阵",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      }
+    ],
+    "破解法": [
+      {
+        "value": "灵目可洞穿幻术",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ]
   },
@@ -146,6 +173,18 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
@@ -159,7 +198,8 @@
     "plot.fanren-1555-1560-lvguang-city-jiaochi-war-ship",
     "plot.fanren-1563-huaxue-lihun-dafa",
     "plot.fanren-ch1569-tuizou",
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
   ],
-  "updatedAt": "2026-06-21T01:12:46.269Z"
+  "updatedAt": "2026-06-21T01:28:06.145Z"
 }

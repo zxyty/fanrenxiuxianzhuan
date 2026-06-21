@@ -4,12 +4,13 @@
   "name": "灵兽环",
   "aliases": [
     "银色圆镯",
-    "乌黑灵兽环"
+    "乌黑灵兽环",
+    "装噬金虫的灵兽环"
   ],
   "summary": "灵界与储物镯齐名之物，内分隔数个空间，可同时容纳不同灵兽灵虫；韩立用以收纳噬金虫、啼魂兽及豹麟兽等。",
   "attributes": {
-    "类型": "灵兽收纳法器",
-    "用途": "收纳灵兽",
+    "类型": "储灵兽法器",
+    "用途": "释放/收纳噬金虫",
     "产地": "灵界"
   },
   "observations": {
@@ -23,6 +24,11 @@
         "value": "灵兽收纳法器",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "储灵兽法器",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ],
     "用途": [
@@ -35,6 +41,11 @@
         "value": "收纳灵兽",
         "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
         "seq": 1495
+      },
+      {
+        "value": "释放/收纳噬金虫",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ],
     "产地": [
@@ -49,15 +60,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
       "dated": false,
-      "seq": 1495
+      "seq": 1621
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1495-1500-xutian-rescue-melee",
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
       "dated": false,
-      "seq": 1495
+      "seq": 1621
     },
     "产地": {
       "asOf": null,
@@ -74,7 +85,8 @@
     "plot.fanren-1504-cuijing-zhuan",
     "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
     "plot.fanren-1495-1500-xutiandian-jiuren",
-    "plot.fanren-1504-cuijingzhuan"
+    "plot.fanren-1504-cuijingzhuan",
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
   ],
-  "updatedAt": "2026-06-20T13:50:49.597Z"
+  "updatedAt": "2026-06-21T01:28:06.146Z"
 }

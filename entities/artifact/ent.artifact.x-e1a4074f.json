@@ -8,9 +8,11 @@
   "summary": "原为细长微黄、铭墨绿花纹的玄天果实，吸韩立逾三分之二精血后表皮变红、翠纹化符文，一端射出尺许翠亮剑刃（中心五道翠色符文），果实化作剑柄，成为灵剑。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）",
-    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变",
-    "来历": "血祭大阵跨万里召唤争夺的玄天之宝"
+    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）、黄色木棍状果实/翠绿剑刃，刃心五个翠色符文",
+    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变、逆转天地法则、翠绿剑光分割空间",
+    "来历": "血祭大阵跨万里召唤争夺的玄天之宝",
+    "品阶": "玄天之宝(法则至宝)",
+    "五行属性": "木(翠绿)"
   },
   "observations": {
     "持有者": [
@@ -30,6 +32,11 @@
         "value": "尺许翠亮剑刃·中心五个翠色符文（灵剑态）",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
+      },
+      {
+        "value": "黄色木棍状果实/翠绿剑刃，刃心五个翠色符文",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ],
     "能力": [
@@ -42,6 +49,16 @@
         "value": "吸食精血蜕变",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
+      },
+      {
+        "value": "逆转天地法则",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      },
+      {
+        "value": "翠绿剑光分割空间",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ],
     "来历": [
@@ -49,6 +66,20 @@
         "value": "血祭大阵跨万里召唤争夺的玄天之宝",
         "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
         "seq": 1525
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天之宝(法则至宝)",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "木(翠绿)",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ]
   },
@@ -77,12 +108,25 @@
       "docId": "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
       "dated": false,
       "seq": 1525
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian"
+    "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
   ],
-  "updatedAt": "2026-06-20T14:21:42.278Z"
+  "updatedAt": "2026-06-21T01:28:06.134Z"
 }

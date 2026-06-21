@@ -3,12 +3,17 @@
   "type": "artifact",
   "name": "紫色残刃",
   "aliases": [
-    "紫痕残刃"
+    "紫痕残刃",
+    "紫色巨剑",
+    "血色残刃",
+    "墨刃"
   ],
   "summary": "圣阶魔猿身前悬浮的半尺残刃，内封似蛟非蛟似凤非凤生金独角之物，斩出紫痕灵压惊人，但发动前略顿、本体脆弱。",
   "attributes": {
-    "外形": "半尺长残刃、紫光半透明、内有独角蛟凤状物",
-    "能力": "斩出紫色剑痕"
+    "外形": "半尺长残刃、紫光半透明、内有独角蛟凤状物、半尺残刃→丈许紫剑→血红→墨黑，刃上三淡金古文",
+    "能力": "斩出紫色剑痕、逆转法则黑浪、吸纳真魔气自我修复、幻化灵物虚影",
+    "品阶": "玄天之宝",
+    "来历": "古魔界，持有者因此宝遭追杀"
   },
   "observations": {
     "外形": [
@@ -26,6 +31,11 @@
         "value": "内有独角蛟凤状物",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "半尺残刃→丈许紫剑→血红→墨黑，刃上三淡金古文",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ],
     "能力": [
@@ -33,6 +43,35 @@
         "value": "斩出紫色剑痕",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "逆转法则黑浪",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      },
+      {
+        "value": "吸纳真魔气自我修复",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      },
+      {
+        "value": "幻化灵物虚影",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天之宝",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
+      }
+    ],
+    "来历": [
+      {
+        "value": "古魔界，持有者因此宝遭追杀",
+        "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+        "seq": 1621
       }
     ]
   },
@@ -49,12 +88,25 @@
       "docId": "plot.fanren-1619-shalu-mojin-shanmai",
       "dated": false,
       "seq": 1615
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+      "dated": false,
+      "seq": 1621
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1619-shalu-mojin-shanmai"
+    "plot.fanren-1619-shalu-mojin-shanmai",
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
   ],
-  "updatedAt": "2026-06-21T01:25:25.148Z"
+  "updatedAt": "2026-06-21T01:28:06.135Z"
 }
