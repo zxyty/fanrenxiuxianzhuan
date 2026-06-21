@@ -2,14 +2,17 @@
   "id": "ent.artifact.x-01ce9506",
   "type": "artifact",
   "name": "魔晶傀儡",
-  "aliases": [],
+  "aliases": [
+    "顶阶魔晶傀儡",
+    "傀儡大军"
+  ],
   "summary": "万奴塔独门秘术炼制的傀儡，无法被元神寄附，靠预设法器法决控制行动，材料手法粗糙却实力不弱，可挡一般元婴修士。",
   "attributes": {
     "持有者": "万奴塔",
     "能力": "靠法器法决控制、守卫塔门、先天冻光巨刃、乳白光柱、赤红符文大手",
-    "来历": "万奴塔独门炼制秘术",
+    "来历": "泣灵老祖炼制",
     "外形": "十几丈高、赤红甲衣、眉宇镶赤红晶石、提晶莹巨刃",
-    "品阶": "近合体后期大成"
+    "品阶": "近合体后期大成、结丹、元婴、化神、炼虚、合体初中期"
   },
   "observations": {
     "持有者": [
@@ -46,6 +49,11 @@
         "value": "万奴塔独门炼制秘术",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "泣灵老祖炼制",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ],
     "外形": [
@@ -65,6 +73,31 @@
         "value": "近合体后期大成",
         "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
         "seq": 2227
+      },
+      {
+        "value": "结丹",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
+      },
+      {
+        "value": "化神",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
+      },
+      {
+        "value": "合体初中期",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ]
   },
@@ -84,9 +117,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
-      "seq": 2029
+      "seq": 2233
     },
     "外形": {
       "asOf": null,
@@ -105,7 +138,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2227-2232-zhiling-guangyuan"
+    "plot.fanren-2227-2232-zhiling-guangyuan",
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
   ],
-  "updatedAt": "2026-06-21T16:13:20.177Z"
+  "updatedAt": "2026-06-21T16:20:46.404Z"
 }

@@ -11,15 +11,16 @@
     "白发老者虚影",
     "族中那位大人",
     "灵王分念",
-    "灵王分魂"
+    "灵王分魂",
+    "灵族灵王"
   ],
   "summary": "天极门元婴修士，南陇侯生死之交，赠韩立联系令牌。",
   "attributes": {
     "称号": "璇玑子",
     "外貌": "白发鹤颜白袍老者",
     "阵营": "天极门",
-    "小阶段": "大乘",
-    "标志特征": "衣袖印紫红枫叶",
+    "小阶段": "大乘期",
+    "标志特征": "气息面貌百万年始终如一",
     "种族": "灵族",
     "身份": "灵族首领/族中大人"
   },
@@ -71,6 +72,11 @@
         "value": "大乘",
         "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
         "seq": 2071
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ],
     "标志特征": [
@@ -78,6 +84,11 @@
         "value": "衣袖印紫红枫叶",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "气息面貌百万年始终如一",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ],
     "种族": [
@@ -123,15 +134,15 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
-      "seq": 2071
+      "seq": 2233
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
-      "seq": 2005
+      "seq": 2233
     },
     "种族": {
       "asOf": null,
@@ -154,7 +165,8 @@
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
-    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct"
+    "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
   ],
-  "updatedAt": "2026-06-21T13:13:00.666Z"
+  "updatedAt": "2026-06-21T16:20:46.395Z"
 }

@@ -741,3 +741,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T15:57:21.833Z** `ingest` plot.fanren-2234-2239-chongmu-zhi-zhan — 凡人修仙传 第2234-2239章 虫母之战：真极之躯觉醒 · kind=plot asOf=2026-06-21 entities=16 relations=23 src=02215-02220.md
 - **2026-06-21T16:05:10.056Z** `ingest` plot.fanren-2221-2226-xuanxian-mingchong-zhimu-zhansha — 第2221-2226章 玄仙·真极之躯与螟虫之母伏诛 · kind=plot asOf=2026-06-21 entities=27 relations=35 src=02221-02226.md
 - **2026-06-21T16:13:20.414Z** `ingest` plot.fanren-2227-2232-zhiling-guangyuan — 凡人修仙传 第2227-2232章｜宝花诛六极、重回广源斋会紫灵、三准虫王最后进化 · kind=plot asOf=2026-06-21 entities=45 relations=44 src=02227-02232.md
+- **2026-06-21T16:20:46.617Z** `ingest` plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm — 凡人修仙传 第2233-2238章：傀儡大军、墨灵圣舟返回灵界、三清雷霄符 · kind=plot asOf=2026-06-21 entities=21 relations=19 src=02233-02238.md

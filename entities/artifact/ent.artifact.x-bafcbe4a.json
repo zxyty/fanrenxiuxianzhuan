@@ -3,13 +3,17 @@
   "type": "artifact",
   "name": "墨灵圣舟",
   "aliases": [
-    "墨灵圣舟飞舟"
+    "墨灵圣舟飞舟",
+    "魔灵圣舟",
+    "漆黑飞舟",
+    "千丈巨舟"
   ],
   "summary": "泣灵秘藏中的飞行至宝，可排进圣界前三。",
   "attributes": {
     "品阶": "魔界前三飞行异宝",
-    "能力": "极速飞行/护主",
-    "外形": "飞行舟"
+    "能力": "空间属性神通",
+    "外形": "千丈乌黑巨舟、银幡环列",
+    "持有者": "韩立"
   },
   "observations": {
     "品阶": [
@@ -29,6 +33,11 @@
         "value": "极速飞行/护主",
         "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
+      },
+      {
+        "value": "空间属性神通",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ],
     "外形": [
@@ -41,6 +50,18 @@
         "value": "飞行舟",
         "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
         "seq": 2227
+      },
+      {
+        "value": "千丈乌黑巨舟、银幡环列",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+        "seq": 2233
       }
     ]
   },
@@ -54,22 +75,29 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
-      "seq": 2017
+      "seq": 2233
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2227-2232-zhiling-guangyuan",
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
-      "seq": 2227
+      "seq": 2233
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+      "dated": false,
+      "seq": 2233
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
-    "plot.fanren-2227-2232-zhiling-guangyuan"
+    "plot.fanren-2227-2232-zhiling-guangyuan",
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
   ],
-  "updatedAt": "2026-06-21T16:13:20.173Z"
+  "updatedAt": "2026-06-21T16:20:46.401Z"
 }
