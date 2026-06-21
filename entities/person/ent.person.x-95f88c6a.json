@@ -11,20 +11,22 @@
     "敖啸老祖宗",
     "敖前辈",
     "长发男子",
-    "敖啸大人"
+    "敖啸大人",
+    "啸前辈"
   ],
   "summary": "妖族七大妖王之一，玲珑之祖父，修啸月妖功，连元刹圣祖都为之忌惮。",
   "attributes": {
     "种族": "银月一族（银月狼族）、妖族(银狼)、银月狼族、妖族",
-    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中、妖族唯一大乘、银月之祖父、圣岛镇守者、妖族老祖、妖族大乘",
+    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中、妖族唯一大乘、银月之祖父、圣岛镇守者、妖族老祖、妖族大乘、妖族大乘老祖",
     "称号": "敖啸老祖",
     "标志特征": "觉醒月体",
     "小阶段": "大乘",
     "存殁": "存活",
     "性别": "男",
-    "外貌": "面庞极年轻",
+    "外貌": "银袍、乌黑长直披腰、面若处子",
     "寿元": "撑不过下一次雷劫",
-    "阵营": "圣岛(留守)"
+    "阵营": "圣岛(留守)",
+    "出身地": "银月狼族"
   },
   "observations": {
     "种族": [
@@ -85,6 +87,11 @@
         "value": "妖族大乘",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "妖族大乘老祖",
+        "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
+        "seq": 2125
       }
     ],
     "称号": [
@@ -152,6 +159,11 @@
         "value": "面庞极年轻",
         "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
         "seq": 1957
+      },
+      {
+        "value": "银袍、乌黑长直披腰、面若处子",
+        "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
+        "seq": 2125
       }
     ],
     "寿元": [
@@ -166,6 +178,13 @@
         "value": "圣岛(留守)",
         "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
         "seq": 1987
+      }
+    ],
+    "出身地": [
+      {
+        "value": "银月狼族",
+        "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
+        "seq": 2125
       }
     ]
   },
@@ -215,9 +234,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
       "dated": false,
-      "seq": 1957
+      "seq": 2125
     },
     "寿元": {
       "asOf": null,
@@ -230,6 +249,12 @@
       "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
       "dated": false,
       "seq": 1987
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
@@ -241,7 +266,8 @@
     "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
     "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.798Z"
+  "updatedAt": "2026-06-21T14:14:09.548Z"
 }

@@ -3,12 +3,13 @@
   "type": "place",
   "name": "木族领域",
   "aliases": [
-    "木族领地"
+    "木族领地",
+    "木族占领区"
   ],
   "summary": "木族所属的领域，魔劫将爆之际白裙圣主现身于此附近。",
   "attributes": {
     "所属界面": "灵界",
-    "所属势力": "木族"
+    "所属势力": "魔族（占领）"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +24,11 @@
         "value": "木族",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "魔族（占领）",
+        "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
+        "seq": 2125
       }
     ]
   },
@@ -36,15 +42,16 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan",
       "dated": false,
-      "seq": 1861
+      "seq": 2125
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1861-1866-mozhan-chongwang"
+    "plot.fanren-1861-1866-mozhan-chongwang",
+    "plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan"
   ],
-  "updatedAt": "2026-06-21T07:34:14.074Z"
+  "updatedAt": "2026-06-21T14:14:09.559Z"
 }
