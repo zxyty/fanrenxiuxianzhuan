@@ -8,16 +8,17 @@
     "芝仙元神",
     "曲儿丫头",
     "白衣女童",
-    "白裙女童"
+    "白裙女童",
+    "小辫女童"
   ],
   "summary": "九曲灵参元神所化的六七岁女童，灵智初开，可入芝仙躯壳代炼灵力，将随韩立入广寒界。",
   "attributes": {
     "种族": "天地灵物(九曲灵参所化)",
-    "外貌": "六七岁扎小辫圆脸白裙女童",
+    "外貌": "头扎小辫女童",
     "性格": "纯真胆怯",
     "性别": "女",
-    "身份": "韩立之婢",
-    "标志特征": "擅遁术、隐匿神通"
+    "身份": "韩立器灵/属下",
+    "标志特征": "背射无数寒刃"
   },
   "observations": {
     "种族": [
@@ -38,6 +39,11 @@
         "value": "六七岁扎小辫圆脸白裙女童",
         "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
         "seq": 1705
+      },
+      {
+        "value": "头扎小辫女童",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "性格": [
@@ -59,6 +65,11 @@
         "value": "韩立之婢",
         "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
         "seq": 1705
+      },
+      {
+        "value": "韩立器灵/属下",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "标志特征": [
@@ -66,6 +77,11 @@
         "value": "擅遁术、隐匿神通",
         "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
         "seq": 1705
+      },
+      {
+        "value": "背射无数寒刃",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
@@ -79,9 +95,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1705
+      "seq": 1717
     },
     "性格": {
       "asOf": null,
@@ -97,15 +113,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1705
+      "seq": 1717
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1705
+      "seq": 1717
     }
   },
   "contested": false,
@@ -113,7 +129,8 @@
   "docs": [
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-    "plot.fanren-1705-1710-ding-zhong-qu-bao"
+    "plot.fanren-1705-1710-ding-zhong-qu-bao",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:24:53.934Z"
+  "updatedAt": "2026-06-21T03:45:34.565Z"
 }

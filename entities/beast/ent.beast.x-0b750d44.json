@@ -10,9 +10,9 @@
   "summary": "暗兽森林最高阶存在，皮毛纯金、双目漆黑，能统率数百暗兽，一撞即重创石昆，疑为圣阶以上；最后惊怒遁走。",
   "attributes": {
     "等级": "王级",
-    "能力": "统率数百暗兽、撞飞肉身强横者",
+    "能力": "统率数百暗兽、撞飞肉身强横者、喷金色风刃",
     "栖息地": "暗兽森林",
-    "外形": "丈许长、纯金皮毛、双目漆黑"
+    "外形": "丈许金光皮毛、漆黑双目"
   },
   "observations": {
     "等级": [
@@ -32,6 +32,11 @@
         "value": "撞飞肉身强横者",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "喷金色风刃",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "栖息地": [
@@ -46,6 +51,11 @@
         "value": "丈许长、纯金皮毛、双目漆黑",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
+      },
+      {
+        "value": "丈许金光皮毛、漆黑双目",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
@@ -71,15 +81,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1675
+      "seq": 1717
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T02:57:18.614Z"
+  "updatedAt": "2026-06-21T03:45:34.563Z"
 }

@@ -4,13 +4,16 @@
   "name": "六足蜥蜴",
   "aliases": [
     "六足四翅蜥蜴",
-    "深黄蜥蜴怪兽"
+    "深黄蜥蜴怪兽",
+    "六足蜥蜴巨兽",
+    "蜥蜴巨兽"
   ],
   "summary": "金角青年的坐骑怪兽，深黄六足两对肉翅、化十余丈长，遁入虚空助战，被韩立金色巨拳击中狼狈现身。",
   "attributes": {
-    "主人": "蜀黍特使",
+    "主人": "角蚩族青年",
     "外形": "深黄色、六足两对肉翅、十余丈长",
-    "能力": "扇翅卷黄风遁形、口吐黄芒"
+    "能力": "扇翅卷黄风遁形、口吐黄芒、口吐黄气",
+    "等级": "炼虚中阶、炼虚中期"
   },
   "observations": {
     "主人": [
@@ -18,6 +21,11 @@
         "value": "蜀黍特使",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "角蚩族青年",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "外形": [
@@ -47,6 +55,23 @@
         "value": "口吐黄芒",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "口吐黄气",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "等级": [
+      {
+        "value": "炼虚中阶",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "炼虚中期",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
@@ -54,9 +79,9 @@
   "attrProvenance": {
     "主人": {
       "asOf": null,
-      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1711
+      "seq": 1717
     },
     "外形": {
       "asOf": null,
@@ -69,12 +94,19 @@
       "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
       "seq": 1711
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:32:54.793Z"
+  "updatedAt": "2026-06-21T03:45:34.537Z"
 }

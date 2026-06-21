@@ -5,19 +5,22 @@
   "aliases": [
     "银色短尺",
     "银色匹练",
-    "银色尺影"
+    "银色尺影",
+    "银尺虚影"
   ],
   "summary": "韩立所持银色短尺，可化十余丈银色尺影/匹练，变化玄妙、遁速极快。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "银色尺影斩击、化匹练卷击"
+    "能力": "银色尺影斩击、化匹练卷击、幻化尺影、克制幻术、遁入虚空隐袭",
+    "禁制": "银蝌文"
   },
   "observations": {
     "持有者": [
       {
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1717,
+        "note": "第1722章被金身夺取吞没，原属角蚩族青年"
       }
     ],
     "能力": [
@@ -30,28 +33,58 @@
         "value": "化匹练卷击",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "幻化尺影",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "克制幻术",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "遁入虚空隐袭",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "禁制": [
+      {
+        "value": "银蝌文",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1717,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1717,
+      "note": "第1722章被金身夺取吞没，原属角蚩族青年"
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1903
+      "seq": 1717
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-17T02:59:10.898Z"
+  "updatedAt": "2026-06-21T03:45:34.463Z"
 }

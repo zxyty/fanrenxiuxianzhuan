@@ -3,13 +3,16 @@
   "type": "artifact",
   "name": "玄天圣器",
   "aliases": [
-    "仿制玄天之宝"
+    "仿制玄天之宝",
+    "迷天钟复制品"
   ],
   "summary": "海王族长老赐下、专门探测用的顶阶宝物，仿制玄天之宝；可感应他人所携圣器/宝物，但无法感应封印的玄天果实。",
   "attributes": {
     "持有者": "海王族女子",
-    "能力": "探测/感应玄天之宝与圣器",
-    "来历": "海王族长老所赐"
+    "能力": "复制迷天钟威能、针对封印",
+    "来历": "角蚩族以珍稀材料并取迷天神种炼制",
+    "品阶": "传说/玄天级、玄天圣器（临时性）",
+    "禁制": "一年后自行解体消失"
   },
   "observations": {
     "持有者": [
@@ -24,6 +27,11 @@
         "value": "探测/感应玄天之宝与圣器",
         "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
         "seq": 1681
+      },
+      {
+        "value": "复制迷天钟威能、针对封印",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "来历": [
@@ -31,6 +39,30 @@
         "value": "海王族长老所赐",
         "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
         "seq": 1681
+      },
+      {
+        "value": "角蚩族以珍稀材料并取迷天神种炼制",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "品阶": [
+      {
+        "value": "传说/玄天级",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "玄天圣器（临时性）",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "禁制": [
+      {
+        "value": "一年后自行解体消失",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
@@ -44,21 +76,34 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1681
+      "seq": 1717
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1681
+      "seq": 1717
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu"
+    "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:05:06.798Z"
+  "updatedAt": "2026-06-21T03:45:34.530Z"
 }

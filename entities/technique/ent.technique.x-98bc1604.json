@@ -9,12 +9,13 @@
     "真魔法相金身",
     "金身法相",
     "三首六臂金身",
-    "三首六臂梵圣金身"
+    "三首六臂梵圣金身",
+    "紫金身影"
   ],
   "summary": "韩立背后浮现的三头六臂金色法相，六臂挥金光助攻，配合破灭法目击碎巨塔晶石。",
   "attributes": {
     "外显异象": "三头六臂金色虚影",
-    "效果": "六臂放金光攻击",
+    "效果": "六臂放金光攻击、三首六臂法相、夺取敌方法宝、吞噬法宝",
     "适用境界": "炼虚"
   },
   "observations": {
@@ -23,6 +24,11 @@
         "value": "三头六臂金色虚影",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "紫金灵光、紫色符文、梵音",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "效果": [
@@ -30,6 +36,21 @@
         "value": "六臂放金光攻击",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "三首六臂法相",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "夺取敌方法宝",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      },
+      {
+        "value": "吞噬法宝",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "适用境界": [
@@ -50,9 +71,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1903
+      "seq": 1717
     },
     "适用境界": {
       "asOf": null,
@@ -68,7 +89,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:32:54.780Z"
+  "updatedAt": "2026-06-21T03:45:34.467Z"
 }

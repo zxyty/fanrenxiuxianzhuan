@@ -5,7 +5,9 @@
   "aliases": [
     "金角青年",
     "蜀黍",
-    "金角特使"
+    "金角特使",
+    "青年元婴",
+    "持玄天圣器的核心弟子"
   ],
   "summary": "角蚩人首领，头生金角、脸色阴沉，身怀玄天圣器，骑六足四翅黄蜥蜴、以血红蜗牛灵虫锁定，独自追杀韩立。",
   "attributes": {
@@ -13,7 +15,10 @@
     "种族": "角蚩人",
     "身份": "角蚩人特使/首领",
     "称号": "蜀黍特使",
-    "标志特征": "头生金角、持玄天圣器、凝黑影矛/乌矛"
+    "标志特征": "头生金角、持玄天圣器、凝黑影矛/乌矛",
+    "小阶段": "元婴",
+    "存殁": "死亡",
+    "死因": "被韩立惊蛰决巨猿吼声震灭"
   },
   "observations": {
     "性别": [
@@ -60,6 +65,27 @@
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
       }
+    ],
+    "小阶段": [
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立惊蛰决巨猿吼声震灭",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
+      }
     ]
   },
   "firstSeq": 1711,
@@ -93,12 +119,31 @@
       "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
       "seq": 1711
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:32:54.791Z"
+  "updatedAt": "2026-06-21T03:45:34.526Z"
 }

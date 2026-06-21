@@ -16,8 +16,9 @@
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "界面",
-    "危险度": "极高（上古凶兽众多）"
+    "类型": "周期开启秘境",
+    "危险度": "极高（上古凶兽众多）",
+    "特产": "灰色山峰特有矿石"
   },
   "observations": {
     "守护": [
@@ -59,6 +60,11 @@
         "value": "界面",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "周期开启秘境",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ],
     "危险度": [
@@ -76,6 +82,13 @@
         "value": "极高（上古凶兽众多）",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      }
+    ],
+    "特产": [
+      {
+        "value": "灰色山峰特有矿石",
+        "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+        "seq": 1717
       }
     ]
   },
@@ -95,15 +108,21 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
-      "seq": 1711
+      "seq": 1717
     },
     "危险度": {
       "asOf": null,
       "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
       "seq": 1669
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "dated": false,
+      "seq": 1717
     }
   },
   "contested": false,
@@ -119,7 +138,8 @@
     "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
     "plot.fanren-1691-1692-leipeng-puppet-yingjing",
     "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
-    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
   ],
-  "updatedAt": "2026-06-21T03:32:54.801Z"
+  "updatedAt": "2026-06-21T03:45:34.568Z"
 }

@@ -639,3 +639,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T03:16:50.409Z** `ingest` plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan — 凡人修仙传 第1704-1709章｜药园破禁夺灵药·主殿现虚灵丹之争 · kind=plot asOf=2026-06-21 entities=25 relations=22 src=01699-01704.md
 - **2026-06-21T03:24:54.110Z** `ingest` plot.fanren-1705-1710-ding-zhong-qu-bao — 凡人修仙传 第1705-1710章｜鼎中取宝·金葫与化形灵药·屏中洞天 · kind=plot asOf=2026-06-21 entities=33 relations=36 src=01705-01710.md
 - **2026-06-21T03:32:54.954Z** `ingest` plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie — 凡人修仙传 第1711-1716章｜真仙遗址光柱催修，本体与第二元婴狂涨进阶炼虚，玄天果实救命斩黄金盘 · kind=plot asOf=2026-06-21 entities=37 relations=45 src=01711-01716.md
+- **2026-06-21T03:45:34.729Z** `ingest` plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle — 凡人修仙传 第1717-1722章｜广寒界激战角蚩族青年（银尺·颠倒乾坤·巨猿凶威） · kind=plot asOf=2026-06-21 entities=46 relations=53 src=01717-01722.md
