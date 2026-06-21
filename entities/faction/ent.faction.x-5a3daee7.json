@@ -1,0 +1,48 @@
+{
+  "id": "ent.faction.x-5a3daee7",
+  "type": "faction",
+  "name": "华天宗",
+  "aliases": [],
+  "summary": "人族三大宗门之一，辖十几座城池、有数名合体修士。",
+  "attributes": {
+    "阵营": "人族",
+    "据点": "辖十几座人族城池"
+  },
+  "observations": {
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+        "seq": 2179
+      }
+    ],
+    "据点": [
+      {
+        "value": "辖十几座人族城池",
+        "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+        "seq": 2179
+      }
+    ]
+  },
+  "firstSeq": 2179,
+  "attrProvenance": {
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+      "dated": false,
+      "seq": 2179
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+      "dated": false,
+      "seq": 2179
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity"
+  ],
+  "updatedAt": "2026-06-21T15:25:01.495Z"
+}

@@ -7,13 +7,15 @@
     "红尺",
     "黄戈",
     "玉扇",
-    "如意"
+    "如意",
+    "碧绿玉扇",
+    "七色光焰玉扇"
   ],
   "summary": "太真七修所用七件古宝，含古镜、红尺、黄戈、令牌、小鼎、玉扇、如意。",
   "attributes": {
-    "持有者": "太真七修",
-    "外形": "古镜、红尺、黄戈、令牌、小鼎、玉扇、如意",
-    "能力": "合体结七色彩罩困魔大阵"
+    "持有者": "黑枭王",
+    "外形": "古镜、红尺、黄戈、令牌、小鼎、玉扇、如意、碧绿百丈巨扇、七层光焰",
+    "能力": "七色光霞压制"
   },
   "observations": {
     "持有者": [
@@ -21,6 +23,11 @@
         "value": "太真七修",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "黑枭王",
+        "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+        "seq": 2179
       }
     ],
     "外形": [
@@ -58,6 +65,11 @@
         "value": "如意",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "碧绿百丈巨扇、七层光焰",
+        "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+        "seq": 2179
       }
     ],
     "能力": [
@@ -65,6 +77,11 @@
         "value": "合体结七色彩罩困魔大阵",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "七色光霞压制",
+        "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+        "seq": 2179
       }
     ]
   },
@@ -72,9 +89,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
       "dated": false,
-      "seq": 769
+      "seq": 2179
     },
     "外形": {
       "asOf": null,
@@ -84,16 +101,17 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
       "dated": false,
-      "seq": 769
+      "seq": 2179
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-769-774-bianjie-zhizhan-6-8"
+    "plot.fanren-769-774-bianjie-zhizhan-6-8",
+    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity"
   ],
-  "updatedAt": "2026-06-17T12:31:42.896Z"
+  "updatedAt": "2026-06-21T15:25:01.507Z"
 }

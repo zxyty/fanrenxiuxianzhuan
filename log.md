@@ -732,3 +732,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T15:01:46.759Z** `ingest` plot.fanren-ch2180-black-white-thunder-ball — 第2180章 黑白雷球——韩立硬抗真雷劫最后一击 · kind=plot asOf=2026-06-21 entities=28 relations=35 src=02161-02166.md
 - **2026-06-21T15:09:49.029Z** `ingest` plot.fanren-2167-2172-jinjie-dasheng — 凡人修仙传 第2167-2172章｜韩立斩心魔进阶大乘·洞天鼠王透露六翼霜蚣下落 · kind=plot asOf=2026-06-21 entities=35 relations=37 src=02167-02172.md
 - **2026-06-21T15:17:46.376Z** `ingest` plot.fanren-2173-2178-shengdao-shizhe-fanlian — 凡人修仙传 第2173-2178章｜圣岛使者临天渊城·韩立为弟子海月天翻脸 · kind=plot asOf=2026-06-21 entities=35 relations=36 src=02173-02178.md
+- **2026-06-21T15:25:01.712Z** `ingest` plot.fanren-2179-2184-dacheng-celebration-tianyuancity — 凡人修仙传 第2179-2184章｜韩立大乘消息传开·天渊城大乘庆典开幕 · kind=plot asOf=2026-06-21 entities=42 relations=38 src=02179-02184.md
