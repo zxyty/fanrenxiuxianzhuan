@@ -2,11 +2,15 @@
   "id": "ent.person.x-bb0ac38c",
   "type": "person",
   "name": "黑凤妖王",
-  "aliases": [],
+  "aliases": [
+    "黑凤王",
+    "黑凤道友"
+  ],
   "summary": "黑凤族首领，神通广大，赵某称无法瞒过其耳目。",
   "attributes": {
     "阵营": "妖族",
-    "身份": "黑凤族首领"
+    "身份": "七妖王之一",
+    "种族": "黑凤族"
   },
   "observations": {
     "阵营": [
@@ -21,6 +25,18 @@
         "value": "黑凤族首领",
         "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
         "seq": 1279
+      },
+      {
+        "value": "七妖王之一",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "种族": [
+      {
+        "value": "黑凤族",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ]
   },
@@ -34,15 +50,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
-      "seq": 1279
+      "seq": 1771
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls"
+    "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-16T10:33:15.758Z"
+  "updatedAt": "2026-06-21T05:20:08.271Z"
 }

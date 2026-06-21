@@ -2,12 +2,15 @@
   "id": "ent.faction.x-87c5f7a5",
   "type": "faction",
   "name": "雾海观",
-  "aliases": [],
+  "aliases": [
+    "雾海观一门"
+  ],
   "summary": "灵界小观，玄灵子开创、器灵子执掌，传承自下界雾海宗，已破落。",
   "attributes": {
     "所属界面": "灵界",
     "掌门": "器灵子",
-    "理念": "传雾海无极功"
+    "理念": "传雾海无极功",
+    "镇派之宝": "传承法器"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +33,13 @@
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
+    ],
+    "镇派之宝": [
+      {
+        "value": "传承法器",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
     ]
   },
   "firstSeq": 1765,
@@ -51,12 +61,19 @@
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T05:11:38.006Z"
+  "updatedAt": "2026-06-21T05:20:08.250Z"
 }

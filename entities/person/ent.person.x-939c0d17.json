@@ -1,78 +1,69 @@
 {
-  "id": "ent.place.x-be472526",
-  "type": "place",
-  "name": "九仙山",
+  "id": "ent.person.x-939c0d17",
+  "type": "person",
+  "name": "岳华",
   "aliases": [
-    "九座山头灵山"
+    "月华仙子",
+    "白裙少妇"
   ],
-  "summary": "玄武境与天狐之地交界处，本届人妖两族万宝大会举办地。",
+  "summary": "结丹期修士，白化及岳母、白果儿外祖母，秀丽端庄、心高气傲。",
   "attributes": {
-    "所属界面": "灵界",
-    "类型": "灵山",
-    "特产": "极品灵脉、人妖两用灵药",
-    "守护": "人妖两族精锐共控"
+    "性别": "女",
+    "小阶段": "结丹",
+    "称号": "岳华仙子",
+    "外貌": "三十余岁白裙少妇"
   },
   "observations": {
-    "所属界面": [
+    "性别": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
-        "seq": 1753
-      }
-    ],
-    "类型": [
-      {
-        "value": "交易会场地",
-        "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
-        "seq": 1753
-      },
-      {
-        "value": "灵山",
+        "value": "女",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
       }
     ],
-    "特产": [
+    "小阶段": [
       {
-        "value": "极品灵脉",
-        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-        "seq": 1771
-      },
-      {
-        "value": "人妖两用灵药",
+        "value": "结丹",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
       }
     ],
-    "守护": [
+    "称号": [
       {
-        "value": "人妖两族精锐共控",
+        "value": "岳华仙子",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "外貌": [
+      {
+        "value": "三十余岁白裙少妇",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
       }
     ]
   },
-  "firstSeq": 1753,
+  "firstSeq": 1771,
   "attrProvenance": {
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
-      "dated": false,
-      "seq": 1753
-    },
-    "类型": {
+    "性别": {
       "asOf": null,
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
       "seq": 1771
     },
-    "特产": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
       "seq": 1771
     },
-    "守护": {
+    "称号": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
@@ -82,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T05:20:08.292Z"
+  "updatedAt": "2026-06-21T05:20:08.264Z"
 }

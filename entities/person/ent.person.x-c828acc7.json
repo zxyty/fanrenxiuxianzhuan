@@ -2,14 +2,20 @@
   "id": "ent.person.x-c828acc7",
   "type": "person",
   "name": "海大少",
-  "aliases": [],
+  "aliases": [
+    "海兄",
+    "海姓美男子",
+    "美男子"
+  ],
   "summary": "出身凡人城市炼体世家，绝佳灵根曾被误判无灵根，金刚诀第三层，筑基期，心高气傲。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基期",
-    "身份": "炼体修士",
+    "小阶段": "筑基初期",
+    "身份": "炼体修士、炼体士、中阶炼体士",
     "出身地": "凡人城市炼体世家",
-    "外貌": "白色儒服、剑眉郎目、三十余岁美男子"
+    "外貌": "三十余岁黄色儒袍美男子",
+    "标志特征": "灵根周期性消失（约一日一夜后再现）、金色灵具手套炼体拳法",
+    "性格": "自大爱嘴上占便宜"
   },
   "observations": {
     "性别": [
@@ -24,6 +30,11 @@
         "value": "筑基期",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "筑基初期",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "身份": [
@@ -31,6 +42,16 @@
         "value": "炼体修士",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "炼体士",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "中阶炼体士",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "出身地": [
@@ -45,6 +66,30 @@
         "value": "白色儒服、剑眉郎目、三十余岁美男子",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "三十余岁黄色儒袍美男子",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "灵根周期性消失（约一日一夜后再现）",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "金色灵具手套炼体拳法",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "性格": [
+      {
+        "value": "自大爱嘴上占便宜",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ]
   },
@@ -58,9 +103,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
-      "seq": 1765
+      "seq": 1771
     },
     "身份": {
       "asOf": null,
@@ -76,15 +121,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
-      "seq": 1765
+      "seq": 1771
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T05:11:37.991Z"
+  "updatedAt": "2026-06-21T05:20:08.260Z"
 }

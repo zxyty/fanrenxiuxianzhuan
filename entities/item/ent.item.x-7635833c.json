@@ -8,7 +8,8 @@
   "summary": "彩仙子酿制的云城第一灵酒，百年仅得十余坛，可明目轻身、每口节省月余苦修，酿法与其功法相关。",
   "attributes": {
     "用途": "明目轻身、每口节省月余苦修",
-    "产地": "云城醇香阁"
+    "产地": "云城醇香阁",
+    "类型": "灵酒"
   },
   "observations": {
     "用途": [
@@ -29,6 +30,13 @@
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
+    ],
+    "类型": [
+      {
+        "value": "灵酒",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
     ]
   },
   "firstSeq": 1591,
@@ -44,12 +52,19 @@
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T00:51:27.661Z"
+  "updatedAt": "2026-06-21T05:20:08.284Z"
 }

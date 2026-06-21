@@ -3,13 +3,15 @@
   "type": "place",
   "name": "玄武境",
   "aliases": [
-    "玄武镜"
+    "玄武镜",
+    "玄武境地域"
   ],
   "summary": "玄武霸皇统治的人族境域，主城玄武城建于远古巨龟骖灵背上，阵眼即骖灵古龟。",
   "attributes": {
     "所属界面": "灵界",
-    "类型": "人族境域、人族三皇境之一",
-    "守护": "超级仙阵（阵眼骖灵古龟）、骖灵古龟（仙阵阵眼）"
+    "类型": "人族境域、人族三皇境之一、境域",
+    "守护": "超级仙阵（阵眼骖灵古龟）、骖灵古龟（仙阵阵眼）",
+    "危险度": "高（与妖族接壤、兽潮频繁）"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +31,11 @@
         "value": "人族三皇境之一",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "境域",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "守护": [
@@ -41,6 +48,13 @@
         "value": "骖灵古龟（仙阵阵眼）",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      }
+    ],
+    "危险度": [
+      {
+        "value": "高（与妖族接壤、兽潮频繁）",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ]
   },
@@ -63,6 +77,12 @@
       "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
       "dated": false,
       "seq": 1267
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
@@ -70,7 +90,8 @@
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1267-1272-anyuan-city",
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T05:11:38.012Z"
+  "updatedAt": "2026-06-21T05:20:08.248Z"
 }

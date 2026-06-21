@@ -3,14 +3,18 @@
   "type": "person",
   "name": "器灵子",
   "aliases": [
-    "七灵子"
+    "七灵子",
+    "小道士",
+    "雾海观观主"
   ],
   "summary": "雾海观观主，筑基期，祖师玄灵子衣钵传人，修雾海无极功。",
   "attributes": {
     "性别": "男",
-    "小阶段": "筑基期",
+    "小阶段": "筑基期、筑基初期、筑基",
     "身份": "雾海观观主",
-    "外貌": "圆脸、黄色道袍、背负残破木剑、十七八岁小道士"
+    "外貌": "约十七八岁背黑色木剑的小道士",
+    "标志特征": "三灵根、遁术身形时隐时现、丹田藏传承法器、桃僵李代符",
+    "出身地": "雾海观（相关）"
   },
   "observations": {
     "性别": [
@@ -25,6 +29,16 @@
         "value": "筑基期",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "筑基初期",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "筑基",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "身份": [
@@ -39,6 +53,40 @@
         "value": "圆脸、黄色道袍、背负残破木剑、十七八岁小道士",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "约十七八岁背黑色木剑的小道士",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "三灵根",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "遁术身形时隐时现",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "丹田藏传承法器",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      },
+      {
+        "value": "桃僵李代符",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "出身地": [
+      {
+        "value": "雾海观（相关）",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ]
   },
@@ -64,15 +112,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
-      "seq": 1765
+      "seq": 1771
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T05:11:37.992Z"
+  "updatedAt": "2026-06-21T05:20:08.261Z"
 }

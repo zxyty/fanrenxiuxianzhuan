@@ -8,7 +8,7 @@
   "summary": "辣椒状红光灵果，酿制传说仙酒红罗仙酒的主材料，千年开花万年结果、培育极难。",
   "attributes": {
     "类型": "灵果",
-    "用途": "酿制红罗天酒",
+    "用途": "酿红罗仙酒",
     "稀有度": "极稀有",
     "产地": "广寒界药园"
   },
@@ -30,6 +30,11 @@
         "value": "酿制红罗天酒",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
+      },
+      {
+        "value": "酿红罗仙酒",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "稀有度": [
@@ -57,9 +62,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
-      "seq": 1747
+      "seq": 1771
     },
     "稀有度": {
       "asOf": null,
@@ -78,7 +83,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-21T04:36:13.334Z"
+  "updatedAt": "2026-06-21T05:20:08.287Z"
 }

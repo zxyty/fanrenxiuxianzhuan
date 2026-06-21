@@ -13,7 +13,8 @@
     "小阶段": "合体中期",
     "身份": "圣皇手下",
     "外貌": "白白胖胖、白面大耳、身披紫色袈裟",
-    "存殁": "存活"
+    "存殁": "存活",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -27,7 +28,7 @@
       {
         "value": "合体中期",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1921
+        "seq": 1771
       }
     ],
     "身份": [
@@ -42,6 +43,11 @@
         "value": "白白胖胖、白面大耳、身披紫色袈裟",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "紫色袈裟白胖僧人",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "存殁": [
@@ -50,9 +56,16 @@
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
     ]
   },
-  "firstSeq": 1921,
+  "firstSeq": 1771,
   "attrProvenance": {
     "种族": {
       "asOf": null,
@@ -64,7 +77,7 @@
       "asOf": null,
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
-      "seq": 1921
+      "seq": 1771
     },
     "身份": {
       "asOf": null,
@@ -83,12 +96,19 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-17T03:26:19.773Z"
+  "updatedAt": "2026-06-21T05:20:08.267Z"
 }

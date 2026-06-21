@@ -13,11 +13,13 @@
   "attributes": {
     "称号": "人族三皇之一、儒皇、天元圣皇、天元境之主、圣皇",
     "出身地": "凡人、人族炼体士出身、原为凡人、人族炼体士出身改修儒家",
-    "身份": "天元境统治者、人族至强者、人族三皇之一、天元境之主、天元境强者",
+    "身份": "天元境统治者、人族至强者、人族三皇之一、天元境之主、天元境强者、三皇之一/天元境之主",
     "标志特征": "法体双修大成进阶合体",
     "种族": "人族",
-    "外貌": "白袍中年儒生、中年儒生、儒雅白袍中年儒生",
-    "性格": "从容温和、温和从容"
+    "外貌": "白袍中年儒生、中年儒生、儒雅白袍中年儒生、白色儒袍、双耳奇长、体表乳白光环",
+    "性格": "从容温和、温和从容、豪爽嗜酒",
+    "性别": "男",
+    "小阶段": "合体后期"
   },
   "observations": {
     "称号": [
@@ -95,6 +97,11 @@
         "value": "天元境强者",
         "docId": "plot.fanren-1287-chuancheng-zhu",
         "seq": 1285
+      },
+      {
+        "value": "三皇之一/天元境之主",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "标志特征": [
@@ -127,6 +134,11 @@
         "value": "儒雅白袍中年儒生",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "白色儒袍、双耳奇长、体表乳白光环",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ],
     "性格": [
@@ -139,6 +151,25 @@
         "value": "温和从容",
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
+      },
+      {
+        "value": "豪爽嗜酒",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体后期",
+        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+        "seq": 1771
       }
     ]
   },
@@ -186,6 +217,18 @@
       "docId": "plot.fanren-1353-ling-chong-da-cheng",
       "dated": false,
       "seq": 1351
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "dated": false,
+      "seq": 1771
     }
   },
   "contested": false,
@@ -199,7 +242,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-ch1190-huajiezhu-jifeng-jiubian",
     "plot.fanren-1267-1272-anyuan-city",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
   ],
-  "updatedAt": "2026-06-20T09:51:18.980Z"
+  "updatedAt": "2026-06-21T05:20:08.265Z"
 }
