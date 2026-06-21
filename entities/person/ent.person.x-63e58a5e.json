@@ -12,10 +12,10 @@
   "summary": "独霸蓝瀑湖多年的魔族圣祖，已隐居多年，现仅由一具化身与两名弟子坐镇蓝瀑湖。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔界圣祖",
+    "身份": "魔界老牌圣祖",
     "称号": "圣祖",
     "性别": "女",
-    "外貌": "蓝色火焰诡异大鸟、容颜普通的蓝袍中年妇人",
+    "外貌": "蓝色火焰诡异大鸟、容颜普通的蓝袍中年妇人、蓝袍妇人",
     "性格": "冰冷阴寒",
     "阵营": "魔界"
   },
@@ -37,6 +37,11 @@
         "value": "魔界圣祖",
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
+      },
+      {
+        "value": "魔界老牌圣祖",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
       }
     ],
     "称号": [
@@ -68,6 +73,11 @@
         "value": "容颜普通的蓝袍中年妇人",
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
+      },
+      {
+        "value": "蓝袍妇人",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
       }
     ],
     "性格": [
@@ -95,9 +105,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
       "dated": false,
-      "seq": 2113
+      "seq": 2119
     },
     "称号": {
       "asOf": null,
@@ -134,7 +144,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
   ],
-  "updatedAt": "2026-06-21T14:02:08.145Z"
+  "updatedAt": "2026-06-21T14:10:10.927Z"
 }

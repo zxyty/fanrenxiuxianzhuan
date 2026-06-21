@@ -3,11 +3,13 @@
   "type": "race",
   "name": "人族",
   "aliases": [
-    "人族修士"
+    "人族修士",
+    "人族强者",
+    "异族人"
   ],
   "summary": "韩立所属种族，被炼虚期敌人识破。",
   "attributes": {
-    "聚居地": "天渊城、风元大陆西北角、天元大陆、风元大陆",
+    "聚居地": "天渊城、风元大陆西北角、天元大陆、风元大陆、灵界/小灵天",
     "代表人物": "天元圣皇、金越、青龙上人、林鸾、银光仙子、韩立、金越大师、羽衣少女",
     "特性": "世代相传神通、修炼苛刻"
   },
@@ -32,6 +34,11 @@
         "value": "风元大陆",
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
+      },
+      {
+        "value": "灵界/小灵天",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
       }
     ],
     "代表人物": [
@@ -128,7 +135,8 @@
     "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
   ],
-  "updatedAt": "2026-06-21T11:08:29.652Z"
+  "updatedAt": "2026-06-21T14:10:10.965Z"
 }

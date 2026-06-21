@@ -15,14 +15,16 @@
     "魔界魔族",
     "魔尊境界",
     "魔尊后期",
-    "魔尊后期大成"
+    "魔尊后期大成",
+    "魔界中人",
+    "异族"
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
-    "代表人物": "魔族圣祖、黑甲大汉、白袍少年、血光圣祖、宝树、黑鳄、匈姓大汉、魔族三大始祖、元魇、元魇圣祖、宝花圣祖、涅槃圣祖、六极",
+    "代表人物": "魔族圣祖、黑甲大汉、白袍少年、血光圣祖、宝树、黑鳄、匈姓大汉、魔族三大始祖、元魇、元魇圣祖、宝花圣祖、涅槃圣祖、六极、吞天",
     "阵营": "魔界、魔族、敌对、圣族、魔道、魔界/圣界、古魔、敌方",
     "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影、魔纹紫甲精锐，可召鹿首蝠身魔禽虚影",
-    "聚居地": "圣界（魔界）",
+    "聚居地": "魔界/圣界",
     "天敌": "人族"
   },
   "observations": {
@@ -91,6 +93,11 @@
         "value": "六极",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "吞天",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
       }
     ],
     "阵营": [
@@ -172,6 +179,11 @@
         "value": "圣界（魔界）",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "魔界/圣界",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
       }
     ],
     "天敌": [
@@ -204,9 +216,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
+      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
       "dated": false,
-      "seq": 2077
+      "seq": 2119
     },
     "天敌": {
       "asOf": null,
@@ -239,7 +251,8 @@
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
     "plot.fanren-2090-2091-kuling-island-yuanmo-lingwang-trade",
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
   ],
-  "updatedAt": "2026-06-21T13:50:35.421Z"
+  "updatedAt": "2026-06-21T14:10:10.964Z"
 }

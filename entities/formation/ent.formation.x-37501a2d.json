@@ -4,12 +4,14 @@
   "name": "六绝青雷大阵",
   "aliases": [
     "六绝青雷阵",
-    "六绝青雷绝阵"
+    "六绝青雷绝阵",
+    "六极青雷大阵"
   ],
   "summary": "上古超级法阵，由蓝瀑圣祖与六极化身联手布下；残缺不全但威能巨大，未发动前几无波动，以青色雷弧/雷球攻击，阵眼为唯一出口。",
   "attributes": {
     "效果": "青色雷弧雷球攻击、幻术雾海禁制、未发动无波动",
-    "布置者": "蓝瀑圣祖、六极化身"
+    "布置者": "蓝瀑圣祖、六极化身",
+    "破解法": "击其最薄弱处一击奏效"
   },
   "observations": {
     "效果": [
@@ -40,6 +42,13 @@
         "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
         "seq": 2113
       }
+    ],
+    "破解法": [
+      {
+        "value": "击其最薄弱处一击奏效",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
+      }
     ]
   },
   "firstSeq": 2113,
@@ -55,12 +64,19 @@
       "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
       "seq": 2113
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+      "dated": false,
+      "seq": 2119
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
   ],
-  "updatedAt": "2026-06-21T14:02:08.148Z"
+  "updatedAt": "2026-06-21T14:10:10.936Z"
 }

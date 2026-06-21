@@ -1,0 +1,50 @@
+{
+  "id": "ent.pill.x-093a09cc",
+  "type": "pill",
+  "name": "天魂丹",
+  "aliases": [
+    "翠绿丹药"
+  ],
+  "summary": "稀有灵药，可激发潜力令宝花再次释放玄天灵域；韩立曾欲炼制却缺原料。",
+  "attributes": {
+    "功效": "激发潜力",
+    "副作用": "重伤者强用恐伤及根本"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "激发潜力",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
+      }
+    ],
+    "副作用": [
+      {
+        "value": "重伤者强用恐伤及根本",
+        "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+        "seq": 2119
+      }
+    ]
+  },
+  "firstSeq": 2119,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+      "dated": false,
+      "seq": 2119
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+      "dated": false,
+      "seq": 2119
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
+  ],
+  "updatedAt": "2026-06-21T14:10:10.937Z"
+}

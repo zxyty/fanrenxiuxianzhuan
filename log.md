@@ -720,3 +720,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T13:50:35.582Z** `ingest` plot.hra-2119-guangyuanzhai-ziling-chongfeng — 第2119-2124章 广源斋问情报、重逢紫灵与阴阳大五行真光线索 · kind=plot asOf=2026-06-21 entities=22 relations=26 src=02101-02106.md
 - **2026-06-21T13:53:18.958Z** `ingest` plot.fanren-2125-2130-mingchong-mu-and-cigang-beast — 凡人修仙传 第2125-2130章｜螟虫之母与磁光兽夺真光 · kind=plot asOf=2026-06-21 entities=23 relations=22 src=02107-02112.md
 - **2026-06-21T14:02:08.312Z** `ingest` plot.fanren-2113-2118-de-jing-mi-mou-an-liu — 凡人修仙传 第2113-2118章 得晶·密谋·暗流欲动 · kind=plot asOf=2026-06-21 entities=36 relations=45 src=02113-02118.md
+- **2026-06-21T14:10:11.122Z** `ingest` plot.fanren-2119-2124-xuantian-lingyu-resurgence — 凡人修仙传 第2119-2124章｜玄天灵域再现·惊退蓝瀑六极·通道异变 · kind=plot asOf=2026-06-21 entities=34 relations=45 src=02119-02124.md
