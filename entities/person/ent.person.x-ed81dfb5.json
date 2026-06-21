@@ -21,7 +21,8 @@
     "外貌": "斗篷遮面、玉容苍白时显婀娜、头戴白色斗篷、斗篷下眸光流转、身材修长婀娜、头戴白色斗篷",
     "性格": "从容镇定、谨慎、果决、能言善辩、惊疑谨慎",
     "称号": "仙子",
-    "阵营": "天云十三族"
+    "阵营": "彩流罂一方",
+    "种族": "晶族"
   },
   "observations": {
     "性别": [
@@ -169,6 +170,18 @@
         "value": "天云十三族",
         "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
         "seq": 1681
+      },
+      {
+        "value": "彩流罂一方",
+        "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+        "seq": 1699
+      }
+    ],
+    "种族": [
+      {
+        "value": "晶族",
+        "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+        "seq": 1699
       }
     ]
   },
@@ -219,9 +232,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
+      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
       "dated": false,
-      "seq": 1681
+      "seq": 1699
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "dated": false,
+      "seq": 1699
     }
   },
   "contested": false,
@@ -234,7 +253,8 @@
     "plot.fanren-1691-1692-leipeng-puppet-yingjing",
     "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
     "plot.fanren-1695-1697-break-formation-taiyi-qingshan",
-    "plot.fanren-1693-1703-xianren-palace-climb"
+    "plot.fanren-1693-1703-xianren-palace-climb",
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
   ],
-  "updatedAt": "2026-06-21T03:14:05.550Z"
+  "updatedAt": "2026-06-21T03:16:50.236Z"
 }

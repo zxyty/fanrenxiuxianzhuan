@@ -636,3 +636,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T03:09:57.829Z** `ingest` plot.fanren-1693-1694-taiyi-qingguang-xuehouzu — 第1693-1694章 太乙青光禁制与雪吼族 · kind=plot asOf=2026-06-21 entities=17 relations=20 src=01687-01692.p2.md
 - **2026-06-21T03:11:33.776Z** `ingest` plot.fanren-1695-1697-break-formation-taiyi-qingshan — 第1695-1697章 三人破十一重禁制·韩立夺太乙青山 · kind=plot asOf=2026-06-21 entities=13 relations=13 src=01687-01692.p3.md
 - **2026-06-21T03:14:05.721Z** `ingest` plot.fanren-1693-1703-xianren-palace-climb — 凡人修仙传 第1693-1703章｜灵界登山夺宝·真仙界仙人遗殿 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=01693-01698.md
+- **2026-06-21T03:16:50.409Z** `ingest` plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan — 凡人修仙传 第1704-1709章｜药园破禁夺灵药·主殿现虚灵丹之争 · kind=plot asOf=2026-06-21 entities=25 relations=22 src=01699-01704.md
