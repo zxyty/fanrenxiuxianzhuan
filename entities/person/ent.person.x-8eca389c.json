@@ -11,12 +11,12 @@
   "summary": "真灵第一世家陇家之祖，合体后期大成，激发半龙之身，修无情道神通，丽娘生父。",
   "attributes": {
     "种族": "人族",
-    "小阶段": "合体后期",
+    "小阶段": "合体期",
     "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
     "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)",
-    "身份": "老祖",
+    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持",
     "性格": "深沉冷静",
-    "阵营": "陇家"
+    "阵营": "陇家、人族真灵世家"
   },
   "observations": {
     "种族": [
@@ -41,6 +41,11 @@
         "value": "合体后期",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
       }
     ],
     "外貌": [
@@ -78,6 +83,11 @@
         "value": "老祖",
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819
+      },
+      {
+        "value": "陇家老祖/真灵大典主持",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
       }
     ],
     "性格": [
@@ -92,6 +102,11 @@
         "value": "陇家",
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819
+      },
+      {
+        "value": "人族真灵世家",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
       }
     ]
   },
@@ -105,9 +120,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
       "dated": false,
-      "seq": 1801
+      "seq": 1819
     },
     "外貌": {
       "asOf": null,
@@ -124,9 +139,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
-      "seq": 1819
+      "seq": 1801
     },
     "性格": {
       "asOf": null,
@@ -146,7 +161,8 @@
   "docs": [
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
-    "plot.fanren-1825-1826-wanlingtai"
+    "plot.fanren-1825-1826-wanlingtai",
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
   ],
-  "updatedAt": "2026-06-21T06:21:10.425Z"
+  "updatedAt": "2026-06-21T06:23:12.342Z"
 }

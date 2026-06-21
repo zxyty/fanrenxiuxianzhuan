@@ -3,12 +3,14 @@
   "type": "faction",
   "name": "真灵世家",
   "aliases": [
-    "真灵血脉世家"
+    "真灵血脉世家",
+    "五十一家真灵世家",
+    "五大真灵世家"
   ],
   "summary": "人族大势力，陇东为其嫡系子弟。",
   "attributes": {
     "阵营": "人族",
-    "理念": "禁互夺真灵血脉",
+    "理念": "献真血祭品换潜灵令、车轮战排名",
     "等级": "上古血脉世家"
   },
   "observations": {
@@ -24,6 +26,11 @@
         "value": "禁互夺真灵血脉",
         "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
+      },
+      {
+        "value": "献真血祭品换潜灵令、车轮战排名",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
       }
     ],
     "等级": [
@@ -44,9 +51,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
       "dated": false,
-      "seq": 1375
+      "seq": 1819
     },
     "等级": {
       "asOf": null,
@@ -62,7 +69,8 @@
     "plot.fanren-1353-lingchong-dacheng",
     "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
   ],
-  "updatedAt": "2026-06-21T06:19:11.175Z"
+  "updatedAt": "2026-06-21T06:23:12.354Z"
 }

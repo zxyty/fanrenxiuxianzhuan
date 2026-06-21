@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "霍州一带修仙世家，弟子林师兄炼气期即持中阶灵器青灵剑。",
   "attributes": {
-    "等级": "修仙世家"
+    "等级": "修仙世家",
+    "阵营": "人族真灵世家"
   },
   "observations": {
     "等级": [
@@ -13,6 +14,13 @@
         "value": "修仙世家",
         "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
         "seq": 1225
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族真灵世家",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
       }
     ]
   },
@@ -23,12 +31,19 @@
       "docId": "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
       "dated": false,
       "seq": 1225
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai"
+    "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
   ],
-  "updatedAt": "2026-06-20T06:06:09.354Z"
+  "updatedAt": "2026-06-21T06:23:12.357Z"
 }

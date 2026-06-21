@@ -6,7 +6,8 @@
   "summary": "上届真灵世家排名第四，与谷家有世仇。",
   "attributes": {
     "等级": "五大真灵世家",
-    "理念": "上届排名第四"
+    "理念": "上届排名第四",
+    "阵营": "人族真灵世家"
   },
   "observations": {
     "等级": [
@@ -20,6 +21,13 @@
       {
         "value": "上届排名第四",
         "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族真灵世家",
+        "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
       }
     ]
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
       "seq": 1819
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1825-1826-wanlingtai"
+    "plot.fanren-1825-1826-wanlingtai",
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
   ],
-  "updatedAt": "2026-06-21T06:21:10.439Z"
+  "updatedAt": "2026-06-21T06:23:12.359Z"
 }
