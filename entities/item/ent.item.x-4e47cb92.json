@@ -1,42 +1,30 @@
 {
-  "id": "ent.item.x-c7781a90",
+  "id": "ent.item.x-4e47cb92",
   "type": "item",
-  "name": "璃水珠",
-  "aliases": [
-    "天璃水精"
-  ],
-  "summary": "魔鳄向铁翅魔索要的报酬，约定助夺芝仙后交换。",
+  "name": "红罗天酒",
+  "aliases": [],
+  "summary": "以红罗果按配方酿制的灵酒，有延年益寿、改善体质之效，因万年药性灵效或更佳。",
   "attributes": {
-    "类型": "异宝",
-    "用途": "令傀儡身躯转化为璃水之身、增益灵性"
+    "类型": "灵酒",
+    "用途": "延年益寿、改善体质"
   },
   "observations": {
     "类型": [
       {
-        "value": "珠宝异物",
-        "docId": "plot.fanren-1643-de-jing",
-        "seq": 1639
-      },
-      {
-        "value": "异宝",
+        "value": "灵酒",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
     ],
     "用途": [
       {
-        "value": "二魔交易报酬",
-        "docId": "plot.fanren-1643-de-jing",
-        "seq": 1639
-      },
-      {
-        "value": "令傀儡身躯转化为璃水之身、增益灵性",
+        "value": "延年益寿、改善体质",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
     ]
   },
-  "firstSeq": 1639,
+  "firstSeq": 1747,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -54,9 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1643-de-jing",
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-21T04:36:13.288Z"
+  "updatedAt": "2026-06-21T04:36:13.336Z"
 }

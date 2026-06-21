@@ -8,8 +8,9 @@
   "summary": "辣椒状红光灵果，酿制传说仙酒红罗仙酒的主材料，千年开花万年结果、培育极难。",
   "attributes": {
     "类型": "灵果",
-    "用途": "酿红罗仙酒主材料",
-    "稀有度": "极稀有"
+    "用途": "酿制红罗天酒",
+    "稀有度": "极稀有",
+    "产地": "广寒界药园"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
         "value": "酿红罗仙酒主材料",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "酿制红罗天酒",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ],
     "稀有度": [
@@ -31,6 +37,13 @@
         "value": "极稀有",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      }
+    ],
+    "产地": [
+      {
+        "value": "广寒界药园",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ]
   },
@@ -44,21 +57,28 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 1699
+      "seq": 1747
     },
     "稀有度": {
       "asOf": null,
       "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
       "dated": false,
       "seq": 1699
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "dated": false,
+      "seq": 1747
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-21T03:16:50.249Z"
+  "updatedAt": "2026-06-21T04:36:13.334Z"
 }

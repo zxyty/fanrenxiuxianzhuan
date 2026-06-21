@@ -8,7 +8,8 @@
   "summary": "人族大势力，陇东为其嫡系子弟。",
   "attributes": {
     "阵营": "人族",
-    "理念": "禁互夺真灵血脉"
+    "理念": "禁互夺真灵血脉",
+    "等级": "上古血脉世家"
   },
   "observations": {
     "阵营": [
@@ -23,6 +24,13 @@
         "value": "禁互夺真灵血脉",
         "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
         "seq": 1375
+      }
+    ],
+    "等级": [
+      {
+        "value": "上古血脉世家",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ]
   },
@@ -39,6 +47,12 @@
       "docId": "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
       "dated": false,
       "seq": 1375
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "dated": false,
+      "seq": 1747
     }
   },
   "contested": false,
@@ -46,7 +60,8 @@
   "docs": [
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1353-lingchong-dacheng",
-    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul"
+    "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-20T10:26:58.828Z"
+  "updatedAt": "2026-06-21T04:36:13.303Z"
 }

@@ -8,8 +8,8 @@
   ],
   "summary": "含剧毒、合体误食可毙命的灵草，是十几种顶阶灵药（含直催合体修为灵丹）必需材料，百万年前已在灵界灭绝、无法移植培育。",
   "attributes": {
-    "类型": "毒灵草",
-    "用途": "顶阶炼丹材料",
+    "类型": "灵草",
+    "用途": "炼制合体期精进丹药的主材料",
     "稀有度": "灵界已灭绝"
   },
   "observations": {
@@ -18,6 +18,11 @@
         "value": "毒灵草",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "灵草",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ],
     "用途": [
@@ -25,6 +30,11 @@
         "value": "顶阶炼丹材料",
         "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
         "seq": 1699
+      },
+      {
+        "value": "炼制合体期精进丹药的主材料",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ],
     "稀有度": [
@@ -39,15 +49,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 1699
+      "seq": 1747
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 1699
+      "seq": 1747
     },
     "稀有度": {
       "asOf": null,
@@ -59,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-21T03:16:50.250Z"
+  "updatedAt": "2026-06-21T04:36:13.336Z"
 }

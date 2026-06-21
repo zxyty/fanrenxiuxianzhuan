@@ -1,64 +1,52 @@
 {
-  "id": "ent.material.x-7cbf54bc",
-  "type": "material",
-  "name": "银色莲蓬",
-  "aliases": [
-    "银色莲蓬银藕"
-  ],
-  "summary": "泉眼上漂浮的银灿莲蓬，连真仙剑丝都反震而灭，韩立连泉水一并吸入蓝色玉瓶完整收取。",
+  "id": "ent.artifact.x-5dbc3538",
+  "type": "artifact",
+  "name": "监察仙器",
+  "aliases": [],
+  "summary": "仙域玄明所掌的仙器，可感应天地反应，本卷感应到下界小灵界有人修成炼神术第一层的天象。",
   "attributes": {
-    "类型": "灵药",
-    "稀有度": "极稀有",
-    "产地": "广寒界药园"
+    "持有者": "玄明",
+    "能力": "感应天地反应/异常天象",
+    "来历": "仙域"
   },
   "observations": {
-    "类型": [
+    "持有者": [
       {
-        "value": "水灵植",
-        "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-        "seq": 1699
-      },
-      {
-        "value": "灵药",
+        "value": "玄明",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
     ],
-    "稀有度": [
+    "能力": [
       {
-        "value": "逆天罕见",
-        "docId": "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
-        "seq": 1699
-      },
-      {
-        "value": "极稀有",
+        "value": "感应天地反应/异常天象",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
     ],
-    "产地": [
+    "来历": [
       {
-        "value": "广寒界药园",
+        "value": "仙域",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
     ]
   },
-  "firstSeq": 1699,
+  "firstSeq": 1747,
   "attrProvenance": {
-    "类型": {
+    "持有者": {
       "asOf": null,
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
       "seq": 1747
     },
-    "稀有度": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
       "seq": 1747
     },
-    "产地": {
+    "来历": {
       "asOf": null,
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
@@ -68,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-21T04:36:13.337Z"
+  "updatedAt": "2026-06-21T04:36:13.299Z"
 }

@@ -6,12 +6,13 @@
     "徐老哥",
     "白发老者",
     "徐某",
-    "白发店主"
+    "白发店主",
+    "谷家分支族长"
   ],
   "summary": "天星宗坊市炼器店主，仅炼气期但家学渊源，靠徐家世代供养的火鸦妖火可炼顶阶法器。",
   "attributes": {
-    "小阶段": "炼气期",
-    "身份": "天泉峰弟子（三师兄）",
+    "小阶段": "元婴",
+    "身份": "谷家分支族长",
     "外貌": "白发苍苍、满脸皱纹、年近花甲",
     "性格": "炼器成痴",
     "性别": "男",
@@ -23,6 +24,11 @@
         "value": "炼气期",
         "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
         "seq": 217
+      },
+      {
+        "value": "元婴",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ],
     "身份": [
@@ -40,6 +46,11 @@
         "value": "天泉峰弟子（三师兄）",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "谷家分支族长",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ],
     "外貌": [
@@ -85,15 +96,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 217
+      "seq": 1747
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
-      "seq": 601
+      "seq": 1747
     },
     "外貌": {
       "asOf": null,
@@ -125,7 +136,8 @@
   "docs": [
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
     "plot.fanren-223-228-midian-jingmai-auction",
-    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha"
+    "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-17T07:51:04.365Z"
+  "updatedAt": "2026-06-21T04:36:13.352Z"
 }

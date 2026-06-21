@@ -15,7 +15,8 @@
     "合体初期",
     "合体顶峰",
     "合体顶阶",
-    "合体大瓶颈"
+    "合体大瓶颈",
+    "合体瓶颈"
   ],
   "summary": "中境界第二层。",
   "attributes": {
@@ -23,7 +24,8 @@
     "上一境": "大乘",
     "下一境": "化神",
     "小阶段": "合体后期、合体后期巅峰、中期、合体中期、合体初期、合体初阶",
-    "突破关键": "伐除心魔（需黑幽冰香）"
+    "突破关键": "伐除心魔（需黑幽冰香）、神念之强（炼神术可大幅减轻瓶颈困阻）、大量灵丹辅助、布法阵借天地元气",
+    "突破征兆": "雾海天象、五色灵云、强大灵压、天地元气汇聚天象、心魔入侵"
   },
   "observations": {
     "阶序": [
@@ -114,6 +116,38 @@
         "value": "伐除心魔（需黑幽冰香）",
         "docId": "plot.fanren-1693-1703-xianren-palace-climb",
         "seq": 1693
+      },
+      {
+        "value": "神念之强（炼神术可大幅减轻瓶颈困阻）",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
+      },
+      {
+        "value": "大量灵丹辅助",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
+      },
+      {
+        "value": "布法阵借天地元气",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
+      }
+    ],
+    "突破征兆": [
+      {
+        "value": "雾海天象、五色灵云、强大灵压",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
+      },
+      {
+        "value": "天地元气汇聚天象",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
+      },
+      {
+        "value": "心魔入侵",
+        "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+        "seq": 1747
       }
     ]
   },
@@ -148,6 +182,12 @@
       "docId": "plot.fanren-1693-1703-xianren-palace-climb",
       "dated": false,
       "seq": 1693
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "dated": false,
+      "seq": 1747
     }
   },
   "contested": false,
@@ -169,7 +209,8 @@
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
     "plot.fanren-1693-1703-xianren-palace-climb",
     "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
-    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding"
+    "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
   ],
-  "updatedAt": "2026-06-21T04:11:53.097Z"
+  "updatedAt": "2026-06-21T04:36:13.360Z"
 }
