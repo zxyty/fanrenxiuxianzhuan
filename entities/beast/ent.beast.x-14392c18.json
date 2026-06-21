@@ -1,0 +1,72 @@
+{
+  "id": "ent.beast.x-14392c18",
+  "type": "beast",
+  "name": "人形芝仙",
+  "aliases": [
+    "芝仙",
+    "灵药化形芝仙"
+  ],
+  "summary": "罕见修炼到人形的灵药，精通土木两种遁术并修成浮光化影远遁神通；击伤一名修炼者后被金元禁光反击，逃入魔金山脉，其灵仙血价值连城。",
+  "attributes": {
+    "种族": "灵药化形",
+    "能力": "土木遁术、浮光化影远遁神通",
+    "栖息地": "魔金山脉"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "灵药化形",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      }
+    ],
+    "能力": [
+      {
+        "value": "土木遁术",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      },
+      {
+        "value": "浮光化影远遁神通",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      }
+    ],
+    "栖息地": [
+      {
+        "value": "魔金山脉",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603,
+        "note": "重伤后逃入"
+      }
+    ]
+  },
+  "firstSeq": 1603,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "dated": false,
+      "seq": 1603
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "dated": false,
+      "seq": 1603
+    },
+    "栖息地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "dated": false,
+      "seq": 1603,
+      "note": "重伤后逃入"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-ch1607-qiying-zhixian"
+  ],
+  "updatedAt": "2026-06-21T01:01:48.316Z"
+}

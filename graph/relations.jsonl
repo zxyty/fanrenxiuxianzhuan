@@ -19990,3 +19990,17 @@
 {"s":"ent.person.x-32b81c2a","p":"relatedTo","o":"ent.place.x-317d8af0","evidence":"plot.chapter-1605-1606-yuezong-mojin-shanmai","confidence":0.9,"seq":1603,"note":"魔金山脉魔兽猎人，曾进入三十七次"}
 {"s":"ent.artifact.x-a6dd1779","p":"relatedTo","o":"ent.material.x-d5f8104f","evidence":"plot.chapter-1605-1606-yuezong-mojin-shanmai","confidence":0.9,"seq":1603,"note":"吞食后获得借灵气倍增威能的神通"}
 {"s":"ent.place.x-317d8af0","p":"relatedTo","o":"ent.place.x-f583e0f1","evidence":"plot.chapter-1605-1606-yuezong-mojin-shanmai","confidence":0.8,"seq":1603,"note":"相距约月许路程"}
+{"s":"ent.beast.x-c94fd022","p":"relatedTo","o":"ent.person.x-acf6e3dd","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.97,"seq":1603,"note":"伴生关系，性命相连；当年借胎转生未成而结"}
+{"s":"ent.person.x-acf6e3dd","p":"ofRace","o":"ent.race.x-c24b59bd","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.97,"seq":1603}
+{"s":"ent.person.x-acf6e3dd","p":"relatedTo","o":"ent.place.x-cad6d6b0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.9,"seq":1603,"note":"欲进入夺机缘"}
+{"s":"ent.beast.x-c94fd022","p":"relatedTo","o":"ent.place.x-cad6d6b0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.9,"seq":1603,"note":"保有其位置等记忆"}
+{"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-32b81c2a","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.85,"seq":1603,"note":"此行同伴，暂时同行"}
+{"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-acf6e3dd","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.85,"seq":1603,"note":"此行同伴，暂时同行"}
+{"s":"ent.person.x-32b81c2a","p":"ally","o":"ent.person.x-acf6e3dd","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.85,"seq":1603,"note":"此行同伴，暂时同行"}
+{"s":"ent.place.x-cad6d6b0","p":"locatedIn","o":"ent.place.x-317d8af0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.95,"seq":1603}
+{"s":"ent.place.x-ed208ff4","p":"relatedTo","o":"ent.place.x-317d8af0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.95,"seq":1603,"note":"封禁魔金山脉的禁制、唯一入口"}
+{"s":"ent.place.x-e11c61da","p":"locatedIn","o":"ent.place.x-ed208ff4","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.9,"seq":1603}
+{"s":"ent.beast.x-14392c18","p":"relatedTo","o":"ent.spell.x-2e5ab4b2","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.92,"seq":1603,"note":"原:casts"}
+{"s":"ent.beast.x-14392c18","p":"locatedIn","o":"ent.place.x-317d8af0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.88,"seq":1603,"note":"重伤后逃入"}
+{"s":"ent.item.x-43b513b8","p":"relatedTo","o":"ent.place.x-e11c61da","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.85,"seq":1603,"note":"在雷云阁领取"}
+{"s":"ent.item.x-43b513b8","p":"relatedTo","o":"ent.place.x-317d8af0","evidence":"plot.fanren-ch1607-qiying-zhixian","confidence":0.85,"seq":1603,"note":"进入墨金山脉的通行之物"}

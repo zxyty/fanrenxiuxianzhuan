@@ -8,10 +8,11 @@
   ],
   "summary": "距云城约一月路程、万余年前因空间风暴出现的黑色魔域山脉，魔气笼罩、虚空裂缝涌魔兽含圣阶，被天云族圣族封禁、每年仅开放一月供圣族以下入内猎魔兽，陨落率极高。",
   "attributes": {
-    "类型": "凶地/山脉",
+    "类型": "魔域山脉、凶地/山脉、凶险山脉",
     "危险度": "极高",
     "特产": "魔兽内丹/魔核、珍稀材料",
-    "守护": "高阶魔兽"
+    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷",
+    "所属界面": "灵界"
   },
   "observations": {
     "类型": [
@@ -23,6 +24,11 @@
       {
         "value": "凶地/山脉",
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
+      },
+      {
+        "value": "凶险山脉",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
       }
     ],
@@ -61,6 +67,18 @@
         "value": "高阶魔兽",
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
         "seq": 1603
+      },
+      {
+        "value": "青灵云海禁制、雷云大阵禁制神雷",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
       }
     ]
   },
@@ -68,9 +86,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1579
     },
     "危险度": {
       "asOf": null,
@@ -86,7 +104,14 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "dated": false,
+      "seq": 1579,
+      "note": "每年仅开放一月"
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1607-qiying-zhixian",
       "dated": false,
       "seq": 1603
     }
@@ -95,7 +120,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+    "plot.fanren-ch1607-qiying-zhixian"
   ],
-  "updatedAt": "2026-06-21T00:59:56.828Z"
+  "updatedAt": "2026-06-21T01:01:48.310Z"
 }

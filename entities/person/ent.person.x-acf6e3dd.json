@@ -13,7 +13,8 @@
     "种族": "晶族",
     "身份": "商人/晚辈",
     "道号": "纤纤",
-    "标志特征": "眉宇间一颗晶石闪动淡白光"
+    "标志特征": "眉宇间一颗晶石闪动淡白光",
+    "小阶段": "修为近瓶颈"
   },
   "observations": {
     "性别": [
@@ -50,6 +51,13 @@
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
         "seq": 1603
       }
+    ],
+    "小阶段": [
+      {
+        "value": "修为近瓶颈",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      }
     ]
   },
   "firstSeq": 1579,
@@ -83,6 +91,12 @@
       "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
       "seq": 1603
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1607-qiying-zhixian",
+      "dated": false,
+      "seq": 1603
     }
   },
   "contested": false,
@@ -90,7 +104,8 @@
   "docs": [
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.fanren-1586-qianjizi",
-    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+    "plot.fanren-ch1607-qiying-zhixian"
   ],
-  "updatedAt": "2026-06-21T00:59:56.818Z"
+  "updatedAt": "2026-06-21T01:01:48.307Z"
 }

@@ -2,10 +2,12 @@
   "id": "ent.race.x-c24b59bd",
   "type": "race",
   "name": "晶族",
-  "aliases": [],
+  "aliases": [
+    "晶族人"
+  ],
   "summary": "天云十三族之一，族人稀少、寿元为人族三四倍、容貌俊美智慧极高，精于炼丹阵法符箓，颇受诸族欢迎。",
   "attributes": {
-    "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲、聪慧绝顶、眉间晶石",
+    "特性": "寿元长、智慧高、精炼丹阵法符箓、擅修补法宝/魔甲、聪慧绝顶、眉间晶石、天赋不高、进境较慢",
     "代表人物": "彩仙子",
     "阵营": "天云十三族"
   },
@@ -35,6 +37,11 @@
         "value": "聪慧绝顶、眉间晶石",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
+      },
+      {
+        "value": "天赋不高、进境较慢",
+        "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
       }
     ],
     "代表人物": [
@@ -86,7 +93,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+    "plot.fanren-ch1607-qiying-zhixian"
   ],
-  "updatedAt": "2026-06-21T00:59:56.830Z"
+  "updatedAt": "2026-06-21T01:01:48.315Z"
 }
