@@ -7,9 +7,10 @@
   ],
   "summary": "克制灵族的法宝，数里大银网，散发诡异气息令灵族法力凝滞、可摄/抹灵智；本章金袍青年所用为仿制品，仍能克制灵族。",
   "attributes": {
-    "持有者": "金袍青年",
+    "持有者": "仙界金仙使者",
     "能力": "克制灵族、令灵族法力无法提动、抹灭灵智、幻化星辰虚影/灰色飓风绞杀",
-    "外形": "数里许大银色巨网，布满银色符文"
+    "外形": "数里许大银色巨网，布满银色符文",
+    "来历": "仙界"
   },
   "observations": {
     "持有者": [
@@ -18,6 +19,11 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993,
         "note": "仿制品"
+      },
+      {
+        "value": "仙界金仙使者",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "能力": [
@@ -48,16 +54,22 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
       }
+    ],
+    "来历": [
+      {
+        "value": "仙界",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
     ]
   },
   "firstSeq": 1993,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1993,
-      "note": "仿制品"
+      "seq": 2005
     },
     "能力": {
       "asOf": null,
@@ -70,12 +82,19 @@
       "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
       "seq": 1993
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.802Z"
+  "updatedAt": "2026-06-21T11:17:22.764Z"
 }

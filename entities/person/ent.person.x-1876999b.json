@@ -4,13 +4,17 @@
   "name": "金鼓长老",
   "aliases": [
     "金鼓",
-    "瘦削灰袍汉子"
+    "瘦削灰袍汉子",
+    "林姓男子"
   ],
   "summary": "灵族金系一脉长老，精通音波神通，擅对付大量敌人，合体中期。",
   "attributes": {
     "种族": "灵族",
     "小阶段": "合体中期",
-    "身份": "灵族金系一脉长老"
+    "身份": "灵族金系一脉长老",
+    "阵营": "灵族",
+    "外貌": "瘦削",
+    "标志特征": "铜锣嗡鸣致魔兽醉倒"
   },
   "observations": {
     "种族": [
@@ -33,6 +37,27 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
       }
+    ],
+    "阵营": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
+    ],
+    "外貌": [
+      {
+        "value": "瘦削",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "铜锣嗡鸣致魔兽醉倒",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
     ]
   },
   "firstSeq": 1993,
@@ -54,12 +79,31 @@
       "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
       "seq": 1993
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.884Z"
+  "updatedAt": "2026-06-21T11:17:22.811Z"
 }

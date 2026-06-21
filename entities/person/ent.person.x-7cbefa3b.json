@@ -10,7 +10,8 @@
     "种族": "器灵族",
     "小阶段": "合体初期",
     "身份": "器灵族长老",
-    "外貌": "脸色苍白、四周飘蓝雾"
+    "外貌": "神色木然青年",
+    "标志特征": "银色战甲、化飓风嗜血冲杀"
   },
   "observations": {
     "种族": [
@@ -39,6 +40,18 @@
         "value": "脸色苍白、四周飘蓝雾",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "神色木然青年",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "银色战甲、化飓风嗜血冲杀",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ]
   },
@@ -64,15 +77,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1993
+      "seq": 2005
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.887Z"
+  "updatedAt": "2026-06-21T11:17:22.813Z"
 }

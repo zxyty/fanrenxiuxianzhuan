@@ -20,7 +20,8 @@
     "据点": "十三世家联建据点",
     "阵营": "人族、真灵世家·真龙血脉、人族真灵世家",
     "理念": "掌控人族拍卖行、兼得龙凤真血、真灵世家",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "掌门": "陇家老祖"
   },
   "observations": {
     "等级": [
@@ -159,6 +160,13 @@
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
       }
+    ],
+    "掌门": [
+      {
+        "value": "陇家老祖",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
     ]
   },
   "firstSeq": 1333,
@@ -198,6 +206,12 @@
       "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
       "dated": false,
       "seq": 1753
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
     }
   },
   "contested": false,
@@ -223,7 +237,8 @@
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.810Z"
+  "updatedAt": "2026-06-21T11:17:22.727Z"
 }

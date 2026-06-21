@@ -692,3 +692,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T10:46:39.813Z** `ingest` plot.fanren-1987-1992-tianger-mie-di-taiji-tu — 凡人修仙传 第1987-1992章｜天戈灭敌·太极图困杀血光化身 · kind=plot asOf=2026-06-21 entities=33 relations=32 src=01987-01992.md
 - **2026-06-21T11:00:00.123Z** `ingest` plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu — 凡人修仙传 第1993-1998章｜摄灵天网·黄巾傀儡·叶仙子之请 · kind=plot asOf=2026-06-21 entities=45 relations=57 src=01993-01998.md
 - **2026-06-21T11:08:30.031Z** `ingest` plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian — 凡人修仙传 第1999-2004章｜魔界之战：天卜与硬闯魔族节点 · kind=plot asOf=2026-06-21 entities=44 relations=51 src=01999-02004.md
+- **2026-06-21T11:17:23.347Z** `ingest` plot.fanren-2005-2010-bazu-moxi-xianhundan — 凡人修仙传 第2005-2010章｜八足魔蜥定路线 & 灵族封真仙炼仙魂丹 · kind=plot asOf=2026-06-21 entities=47 relations=38 src=02005-02010.md

@@ -5,15 +5,17 @@
   "aliases": [
     "铁某",
     "铁兄",
-    "铁道友"
+    "铁道友",
+    "铁塔般魔族大汉"
   ],
   "summary": "石茧族修士，炼虚顶阶（上族九阶），秃头灰白皮肤、容貌狰狞而言语客气，邀韩立同赴四族拍卖会欲竞拍万妙丹。",
   "attributes": {
-    "种族": "古魔",
-    "小阶段": "炼虚顶阶",
+    "种族": "魔族（幽鸦族）",
+    "小阶段": "炼虚后期",
     "外貌": "青袍男子",
-    "身份": "魔金山脉镇守者(三魔之一)",
-    "性格": "胸有成竹、与多眼不睦"
+    "身份": "血鸦城护法",
+    "性格": "胸有成竹、与多眼不睦",
+    "标志特征": "铁塔身形、黑色巨棍"
   },
   "observations": {
     "种族": [
@@ -26,6 +28,11 @@
         "value": "古魔",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "魔族（幽鸦族）",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "小阶段": [
@@ -34,6 +41,11 @@
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585,
         "note": "上族九阶"
+      },
+      {
+        "value": "炼虚后期",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "外貌": [
@@ -53,6 +65,11 @@
         "value": "魔金山脉镇守者(三魔之一)",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "血鸦城护法",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "性格": [
@@ -61,22 +78,28 @@
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
       }
+    ],
+    "标志特征": [
+      {
+        "value": "铁塔身形、黑色巨棍",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
+      }
     ]
   },
   "firstSeq": 1585,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1645
+      "seq": 2005
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1585,
-      "note": "上族九阶"
+      "seq": 2005
     },
     "外貌": {
       "asOf": null,
@@ -86,22 +109,29 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1645
+      "seq": 2005
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-1649-san-mo",
       "dated": false,
       "seq": 1645
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "dated": false,
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1586-qianjizi",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.533Z"
+  "updatedAt": "2026-06-21T11:17:22.814Z"
 }

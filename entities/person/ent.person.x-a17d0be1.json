@@ -7,9 +7,9 @@
   ],
   "summary": "灵族圣灵，合体后期且灵压更强，本体何物成灵不明，白光忽明忽暗令观者头晕，精通数种克制魔功大神通且颇知魔界。",
   "attributes": {
-    "种族": "灵族",
-    "小阶段": "合体后期",
-    "标志特征": "周身白光忽暗忽明、令人头晕目眩"
+    "种族": "灵族/圣灵",
+    "小阶段": "后期",
+    "标志特征": "护体灵光所过魔兽四分五裂"
   },
   "observations": {
     "种族": [
@@ -17,6 +17,11 @@
         "value": "灵族",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "灵族/圣灵",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "小阶段": [
@@ -24,6 +29,11 @@
         "value": "合体后期",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "后期",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "标志特征": [
@@ -31,6 +41,11 @@
         "value": "周身白光忽暗忽明、令人头晕目眩",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "护体灵光所过魔兽四分五裂",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ]
   },
@@ -38,27 +53,28 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1993
+      "seq": 2005
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1993
+      "seq": 2005
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 1993
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-21T10:59:59.886Z"
+  "updatedAt": "2026-06-21T11:17:22.806Z"
 }

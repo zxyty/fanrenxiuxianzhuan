@@ -7,8 +7,8 @@
   ],
   "summary": "太真七修以七件古宝合成、围困圣禽的大阵。",
   "attributes": {
-    "布置者": "太真七修",
-    "效果": "形成七色彩罩围困妖禽并托住青焰"
+    "布置者": "灵族",
+    "效果": "符链锁敌、封印真魂"
   },
   "observations": {
     "布置者": [
@@ -16,6 +16,11 @@
         "value": "太真七修",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ],
     "效果": [
@@ -23,6 +28,11 @@
         "value": "形成七色彩罩围困妖禽并托住青焰",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "符链锁敌、封印真魂",
+        "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+        "seq": 2005
       }
     ]
   },
@@ -30,21 +40,22 @@
   "attrProvenance": {
     "布置者": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 769
+      "seq": 2005
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 769
+      "seq": 2005
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-769-774-border-war-6-8"
+    "plot.fanren-769-774-border-war-6-8",
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
   ],
-  "updatedAt": "2026-06-15T03:47:18.090Z"
+  "updatedAt": "2026-06-21T11:17:22.774Z"
 }
