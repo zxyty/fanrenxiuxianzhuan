@@ -5,14 +5,17 @@
   "aliases": [
     "修魔天鬼门",
     "青色巨门",
-    "天鬼门法宝"
+    "天鬼门法宝",
+    "鬼门",
+    "青色小门"
   ],
   "summary": "灵界十大魔器之一，锈迹斑斑青色巨门、两侧铭青面獠牙鬼头，可血祭召唤修罗鬼王与天鬼。",
   "attributes": {
-    "持有者": "秃头魔族",
+    "持有者": "韩立",
     "能力": "血祭召唤修罗鬼王/天鬼、召唤天鬼",
-    "来历": "仿自魔界名宝，灵界十大魔器之一",
-    "外形": "高十丈、厚八尺锈蚀青门，两侧青面獠牙鬼头"
+    "来历": "缴自秃头魔族",
+    "外形": "青色小门",
+    "品阶": "魔族法宝"
   },
   "observations": {
     "持有者": [
@@ -20,6 +23,11 @@
         "value": "秃头魔族",
         "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
         "seq": 1879
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "能力": [
@@ -39,6 +47,11 @@
         "value": "仿自魔界名宝，灵界十大魔器之一",
         "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
         "seq": 1879
+      },
+      {
+        "value": "缴自秃头魔族",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "外形": [
@@ -46,6 +59,18 @@
         "value": "高十丈、厚八尺锈蚀青门，两侧青面獠牙鬼头",
         "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
         "seq": 1879
+      },
+      {
+        "value": "青色小门",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "品阶": [
+      {
+        "value": "魔族法宝",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ]
   },
@@ -53,9 +78,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1879
+      "seq": 1885
     },
     "能力": {
       "asOf": null,
@@ -65,21 +90,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1879
+      "seq": 1885
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1879
+      "seq": 1885
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T08:05:00.533Z"
+  "updatedAt": "2026-06-21T08:08:00.260Z"
 }

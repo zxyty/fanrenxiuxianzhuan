@@ -21,7 +21,8 @@
     "器灵": "不知名灵物",
     "外形": "紫色断刃，残缺修补后泛五色霞光",
     "持有者": "虚灵老者",
-    "禁制": "驱动反噬剧烈、险伤元气"
+    "禁制": "驱动反噬剧烈、险伤元气",
+    "品阶": "残刃"
   },
   "observations": {
     "来历": [
@@ -161,6 +162,13 @@
         "docId": "plot.fanren-1734-stone-wall-spirit-script",
         "seq": 1729
       }
+    ],
+    "品阶": [
+      {
+        "value": "残刃",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
     ]
   },
   "firstSeq": 1627,
@@ -200,6 +208,12 @@
       "docId": "plot.fanren-1734-stone-wall-spirit-script",
       "dated": false,
       "seq": 1729
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
     }
   },
   "contested": false,
@@ -213,7 +227,8 @@
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1843-1848-hualing-zhi-zhan",
     "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
-    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T08:05:00.527Z"
+  "updatedAt": "2026-06-21T08:08:00.262Z"
 }

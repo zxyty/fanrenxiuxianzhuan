@@ -671,3 +671,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T07:45:53.312Z** `ingest` plot.fanren-ch1881-mo-lin-cheng-xia — 第1881章 魔临城下——韩立炼成五行葫剑、试祭万剑图，天渊城备战 · kind=plot asOf=2026-06-21 entities=22 relations=23 src=01867-01872.p3.md
 - **2026-06-21T07:57:36.443Z** `ingest` plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue — 第1873-1878章 人魔之战（四~六）：天渊城火阵退敌、魔族圣祖谋城、韩立携银光仙子援倚天城 · kind=plot asOf=2026-06-21 entities=44 relations=55 src=01873-01878.md
 - **2026-06-21T08:05:00.709Z** `ingest` plot.fanren-1879-1884-jizhan-sanmo-tianguimen — 第1879-1884章 激战三魔：韩立诛力尊者，秃头/蓝纹二魔祭天鬼门、子母真魔幡 · kind=plot asOf=2026-06-21 entities=24 relations=28 src=01879-01884.md
+- **2026-06-21T08:08:00.444Z** `ingest` plot.fanren-1898-1903-yitiancheng-war — 凡人修仙传 第1898-1903章｜驰援倚天城·万象魔骑与九阳罡日绝阵 · kind=plot asOf=2026-06-21 entities=22 relations=27 src=01885-01890.md

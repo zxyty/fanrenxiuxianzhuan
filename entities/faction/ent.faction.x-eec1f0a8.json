@@ -1,11 +1,9 @@
 {
-  "id": "ent.faction.x-1b24bcfa",
+  "id": "ent.faction.x-eec1f0a8",
   "type": "faction",
-  "name": "万象魔骑",
-  "aliases": [
-    "万象魔骑甲士"
-  ],
-  "summary": "魔族骑乘魔兽的甲士队伍，恭迎血光圣祖化身并奉命开启传送阵。",
+  "name": "冰灵部",
+  "aliases": [],
+  "summary": "圣族下属一部，飞牙所属。",
   "attributes": {
     "阵营": "魔族"
   },
@@ -13,7 +11,7 @@
     "阵营": [
       {
         "value": "魔族",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
       }
     ]
@@ -22,7 +20,7 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
       "seq": 1885
     }
@@ -30,8 +28,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T08:08:00.256Z"
+  "updatedAt": "2026-06-21T08:08:00.255Z"
 }

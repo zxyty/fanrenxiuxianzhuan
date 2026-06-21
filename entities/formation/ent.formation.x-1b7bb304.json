@@ -1,0 +1,76 @@
+{
+  "id": "ent.formation.x-1b7bb304",
+  "type": "formation",
+  "name": "九阳罡日绝阵",
+  "aliases": [
+    "九阳罡日大阵",
+    "九阳罡日法阵",
+    "镇城大阵"
+  ],
+  "summary": "倚天城镇城大阵，四大宗门集十几名阵法宗师耗千年研创，吸纳天地阳力越多威能越强，全盛可击杀魔尊。",
+  "attributes": {
+    "效果": "吸纳天地阳力增威、全盛可击杀魔尊、调动迟缓",
+    "布置者": "倚天城四大宗门",
+    "破解法": "五阳化月之日天地阳力大减则失效"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "吸纳天地阳力增威",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      },
+      {
+        "value": "全盛可击杀魔尊",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      },
+      {
+        "value": "调动迟缓",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "布置者": [
+      {
+        "value": "倚天城四大宗门",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "破解法": [
+      {
+        "value": "五阳化月之日天地阳力大减则失效",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ]
+  },
+  "firstSeq": 1885,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    },
+    "破解法": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1898-1903-yitiancheng-war"
+  ],
+  "updatedAt": "2026-06-21T08:08:00.259Z"
+}

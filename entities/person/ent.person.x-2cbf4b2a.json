@@ -6,9 +6,11 @@
   "summary": "魔族（圣族）尊者，脸颊有魔纹，双臂可化缠绕电弧的蓝色肉翅，应力尊者之邀联手追凶。",
   "attributes": {
     "种族": "魔族",
-    "身份": "圣族尊者",
+    "身份": "魔尊",
     "标志特征": "脸颊魔纹、蓝色电弧肉翅",
-    "性格": "慎重"
+    "性格": "慎重",
+    "存殁": "死亡",
+    "死因": "运送重要之物途中陨落（疑被抢宝）"
   },
   "observations": {
     "种族": [
@@ -23,6 +25,11 @@
         "value": "圣族尊者",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "魔尊",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "标志特征": [
@@ -38,6 +45,20 @@
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "死因": [
+      {
+        "value": "运送重要之物途中陨落（疑被抢宝）",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
     ]
   },
   "firstSeq": 1873,
@@ -50,9 +71,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1873
+      "seq": 1885
     },
     "标志特征": {
       "asOf": null,
@@ -65,12 +86,25 @@
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
       "seq": 1873
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T07:57:36.153Z"
+  "updatedAt": "2026-06-21T08:08:00.241Z"
 }

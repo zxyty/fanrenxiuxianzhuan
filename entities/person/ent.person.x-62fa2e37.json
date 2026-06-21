@@ -6,7 +6,10 @@
   "summary": "人族修士，已复人形、面色苍白，与羊首擎天巨兽联手对阵黑甲大汉及不死魔族，勉强自保。",
   "attributes": {
     "阵营": "人族",
-    "标志特征": "体表七口短刃化五爪青龙、驱风雷"
+    "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔",
+    "身份": "九星宗合体修士",
+    "小阶段": "合体",
+    "外貌": "黄袍儒生"
   },
   "observations": {
     "阵营": [
@@ -26,10 +29,36 @@
         "value": "驱风雷",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "金银双毛笔",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "身份": [
+      {
+        "value": "九星宗合体修士",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黄袍儒生",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1885,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -39,16 +68,35 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1909
+      "seq": 1885
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "dated": false,
+      "seq": 1885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-17T03:11:34.317Z"
+  "updatedAt": "2026-06-21T08:08:00.245Z"
 }

@@ -4,19 +4,20 @@
   "name": "珈轮战魔",
   "aliases": [
     "天轮化魔",
-    "三头六臂巨魔"
+    "三头六臂巨魔",
+    "加伦战魔"
   ],
   "summary": "魔族战魔，最低化神级修为、修魔族一等魔功，攻打倚天城，为首数十只神通远胜同阶。",
   "attributes": {
     "阵营": "魔族",
-    "特性": "化神级以上、修一等魔功"
+    "特性": "化神级以上、修一等魔功、三头六臂、巨兽法相"
   },
   "observations": {
     "阵营": [
       {
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1885
       }
     ],
     "特性": [
@@ -24,6 +25,16 @@
         "value": "化神级以上、修一等魔功",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "三头六臂",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      },
+      {
+        "value": "巨兽法相",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ]
   },
@@ -33,20 +44,21 @@
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1885
     },
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1903
+      "seq": 1885
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-18T08:17:02.744Z"
+  "updatedAt": "2026-06-21T08:08:00.257Z"
 }

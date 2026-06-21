@@ -24,7 +24,7 @@
     "称号": "圣祖",
     "标志特征": "三缕分神化少年/巨魔，背生巨角魔影、八青色鬼头、四血翅",
     "存殁": "在世",
-    "外貌": "相貌儒雅、脸如冠玉的血袍中年男子",
+    "外貌": "血袍清秀少年",
     "性别": "男"
   },
   "observations": {
@@ -55,6 +55,11 @@
         "value": "圣族首领/圣祖",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "小阶段": [
@@ -67,6 +72,12 @@
         "value": "大乘期",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "合体后期大成",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885,
+        "note": "化身"
       }
     ],
     "阵营": [
@@ -123,6 +134,12 @@
         "value": "相貌儒雅、脸如冠玉的血袍中年男子",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "血袍清秀少年",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885,
+        "note": "化身"
       }
     ],
     "性别": [
@@ -180,9 +197,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1873
+      "seq": 1885,
+      "note": "化身"
     },
     "性别": {
       "asOf": null,
@@ -199,7 +217,8 @@
     "plot.fanren-1929-1934-blood-saint-clones-battle",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1879-1880-mojie-qunmo-chuxian",
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T07:57:36.188Z"
+  "updatedAt": "2026-06-21T08:08:00.238Z"
 }

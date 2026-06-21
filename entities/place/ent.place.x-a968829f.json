@@ -8,8 +8,8 @@
   ],
   "summary": "魔界之战中人族据守的城池，依仗各种禁制抵御魔族进攻。",
   "attributes": {
-    "类型": "城池、战场城池、宗门联合据点、人族城池",
-    "守护": "各种禁制",
+    "类型": "城池、战场城池、宗门联合据点、人族城池、人族城市",
+    "守护": "各种禁制、四大宗门、九阳罡日绝阵、铜甲傀儡大军",
     "所属界面": "灵界",
     "所属势力": "魔族"
   },
@@ -34,6 +34,11 @@
         "value": "人族城池",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "人族城市",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "守护": [
@@ -46,6 +51,16 @@
         "value": "四大宗门",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "九阳罡日绝阵",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
+      },
+      {
+        "value": "铜甲傀儡大军",
+        "docId": "plot.fanren-1898-1903-yitiancheng-war",
+        "seq": 1885
       }
     ],
     "所属界面": [
@@ -88,9 +103,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1903
+      "seq": 1873
     },
     "所属界面": {
       "asOf": null,
@@ -112,7 +127,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
-    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+    "plot.fanren-1898-1903-yitiancheng-war"
   ],
-  "updatedAt": "2026-06-21T08:05:00.513Z"
+  "updatedAt": "2026-06-21T08:08:00.248Z"
 }
