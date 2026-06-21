@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-08e6358e",
+  "type": "artifact",
+  "name": "青猿傀儡",
+  "aliases": [
+    "青猿"
+  ],
+  "summary": "韩立所用傀儡，在分矿为其开采异魔金。",
+  "attributes": {
+    "持有者": "韩立",
+    "能力": "采矿"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "能力": [
+      {
+        "value": "采矿",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ]
+  },
+  "firstSeq": 2113,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
+  ],
+  "updatedAt": "2026-06-21T14:02:08.123Z"
+}

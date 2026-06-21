@@ -9,8 +9,9 @@
   "attributes": {
     "所属界面": "魔界",
     "特产": "极品矿脉、血牙米",
-    "类型": "巨型湖泊",
-    "守护": "蓝瀑圣祖(化身+两弟子)"
+    "类型": "湖泊区域",
+    "守护": "蓝瀑圣祖(化身+两弟子)",
+    "所属势力": "蓝瀑圣祖"
   },
   "observations": {
     "所属界面": [
@@ -52,6 +53,11 @@
         "value": "巨型湖泊",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "湖泊区域",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "守护": [
@@ -59,6 +65,13 @@
         "value": "蓝瀑圣祖(化身+两弟子)",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "蓝瀑圣祖",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -78,15 +91,21 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
       "seq": 2095
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
     }
   },
   "contested": false,
@@ -96,7 +115,8 @@
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-2107-zaijian-weixianlu",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:50:35.415Z"
+  "updatedAt": "2026-06-21T14:02:08.130Z"
 }

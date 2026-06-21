@@ -7,8 +7,8 @@
   ],
   "summary": "魔族/圣界通用的灵石货币，韩立以紫灵果换得一镯魔石。",
   "attributes": {
-    "类型": "货币灵石",
-    "用途": "魔界通货"
+    "类型": "通货",
+    "用途": "交易支付"
   },
   "observations": {
     "类型": [
@@ -21,6 +21,11 @@
         "value": "货币灵石",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "通货",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "用途": [
@@ -28,6 +33,11 @@
         "value": "魔界通货",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "交易支付",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -35,22 +45,23 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:47:45.548Z"
+  "updatedAt": "2026-06-21T14:02:08.134Z"
 }

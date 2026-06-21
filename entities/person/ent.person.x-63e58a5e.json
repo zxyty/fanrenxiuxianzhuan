@@ -4,13 +4,20 @@
   "name": "蓝瀑圣祖",
   "aliases": [
     "蓝瀑老祖",
-    "蓝瀑魔祖"
+    "蓝瀑魔祖",
+    "蓝瀑姐姐",
+    "蓝袍妇人",
+    "蓝色火焰大鸟"
   ],
   "summary": "独霸蓝瀑湖多年的魔族圣祖，已隐居多年，现仅由一具化身与两名弟子坐镇蓝瀑湖。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族圣祖",
-    "称号": "蓝瀑圣祖"
+    "身份": "魔界圣祖",
+    "称号": "圣祖",
+    "性别": "女",
+    "外貌": "蓝色火焰诡异大鸟、容颜普通的蓝袍中年妇人",
+    "性格": "冰冷阴寒",
+    "阵营": "魔界"
   },
   "observations": {
     "种族": [
@@ -25,6 +32,11 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "魔界圣祖",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "称号": [
@@ -32,6 +44,44 @@
         "value": "蓝瀑圣祖",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "外貌": [
+      {
+        "value": "蓝色火焰诡异大鸟",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      },
+      {
+        "value": "容颜普通的蓝袍中年妇人",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "性格": [
+      {
+        "value": "冰冷阴寒",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -45,21 +95,46 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:47:45.522Z"
+  "updatedAt": "2026-06-21T14:02:08.145Z"
 }

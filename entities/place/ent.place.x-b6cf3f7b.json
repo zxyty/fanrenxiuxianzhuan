@@ -8,8 +8,10 @@
   "summary": "位于蓝瀑湖湖心巨岛的魔族大城，淡蓝色巨石砌成，魔族卫士林立，为血牙米交易地。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "城市/湖区",
-    "特产": "血牙米、魔芋茶"
+    "类型": "城池",
+    "特产": "血牙米、魔芋茶",
+    "所属势力": "蓝瀑圣祖",
+    "守护": "禁空压制"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +31,11 @@
         "value": "城市/湖区",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "城池",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "特产": [
@@ -42,6 +49,20 @@
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
       }
+    ],
+    "所属势力": [
+      {
+        "value": "蓝瀑圣祖",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "守护": [
+      {
+        "value": "禁空压制",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
     ]
   },
   "firstSeq": 2095,
@@ -54,22 +75,35 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2107
+      "seq": 2113
     },
     "特产": {
       "asOf": null,
       "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
       "dated": false,
       "seq": 2095
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:53:18.798Z"
+  "updatedAt": "2026-06-21T14:02:08.156Z"
 }

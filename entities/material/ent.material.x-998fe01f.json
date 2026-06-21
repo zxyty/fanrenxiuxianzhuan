@@ -5,14 +5,16 @@
   "aliases": [
     "异魔金矿石",
     "黑白相间矿石",
-    "上品异魔金"
+    "上品异魔金",
+    "黑白矿石",
+    "特殊异魔金"
   ],
   "summary": "魔界稀少材料，兼含纯灵气与纯魔气；韩立所购一块内暗藏可直转真元的灰白光团晶珠。",
   "attributes": {
     "类型": "矿石",
-    "产地": "蓝瀑湖私矿",
+    "产地": "魔界分矿",
     "稀有度": "稀少",
-    "用途": "可能含晶珠/真光"
+    "用途": "炼去地煞阴气助突破合体后期巅峰"
   },
   "observations": {
     "类型": [
@@ -52,6 +54,11 @@
         "value": "蓝瀑湖私矿",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "魔界分矿",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "稀有度": [
@@ -76,6 +83,11 @@
         "value": "可能含晶珠/真光",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "炼去地煞阴气助突破合体后期巅峰",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -89,9 +101,9 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2107
+      "seq": 2113
     },
     "稀有度": {
       "asOf": null,
@@ -101,9 +113,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2107
+      "seq": 2113
     }
   },
   "contested": false,
@@ -112,7 +124,8 @@
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:53:18.797Z"
+  "updatedAt": "2026-06-21T14:02:08.122Z"
 }

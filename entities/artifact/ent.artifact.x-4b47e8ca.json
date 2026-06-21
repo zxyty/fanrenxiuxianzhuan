@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "玄天圣树",
   "aliases": [
-    "玄天花树"
+    "玄天花树",
+    "玄天花树虚影"
   ],
   "summary": "宝花彻底融合的重宝，可生长成与手掌一体的花树、吸取持有者法力，为施展玄天灵域的根本。",
   "attributes": {
     "持有者": "宝花",
-    "能力": "生长成吸法力的灵树、化粉红巨花/魔焰、施展玄天灵域",
+    "能力": "生长成吸法力的灵树、化粉红巨花/魔焰、施展玄天灵域、护身/遁形",
     "外形": "翠绿大树、粉红花树"
   },
   "observations": {
@@ -34,6 +35,11 @@
         "value": "施展玄天灵域",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "护身/遁形",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "外形": [
@@ -74,7 +80,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:47:45.523Z"
+  "updatedAt": "2026-06-21T14:02:08.151Z"
 }

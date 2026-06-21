@@ -6,14 +6,16 @@
     "小魔鳄",
     "黑鳄",
     "宝花黑鳄",
-    "迷你鳄鱼"
+    "迷你鳄鱼",
+    "黑色魔兽",
+    "巨鳄"
   ],
   "summary": "刚进阶圣阶的魔鳄，曾为冥罗圣祖坐骑；疑助血瑛毁去铁兄化身。",
   "attributes": {
     "等级": "圣阶、圣阶（新晋）",
-    "主人": "冥罗",
+    "主人": "宝花",
     "血脉": "邪龙真血",
-    "外形": "黑色长袍黝黑丑陋大汉",
+    "外形": "数十丈黑色鳄状、黑鳞怪角",
     "种族": "邪龙族"
   },
   "observations": {
@@ -34,6 +36,11 @@
         "value": "冥罗",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "宝花",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "血脉": [
@@ -49,6 +56,11 @@
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645,
         "note": "化形人身"
+      },
+      {
+        "value": "数十丈黑色鳄状、黑鳞怪角",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "种族": [
@@ -79,9 +91,9 @@
     },
     "主人": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 1645
+      "seq": 2113
     },
     "血脉": {
       "asOf": null,
@@ -91,10 +103,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 1645,
-      "note": "化形人身"
+      "seq": 2113
     },
     "种族": {
       "asOf": null,
@@ -113,7 +124,8 @@
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
     "plot.fanren-2107-zaijian-weixianlu",
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:47:45.517Z"
+  "updatedAt": "2026-06-21T14:02:08.145Z"
 }

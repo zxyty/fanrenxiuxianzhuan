@@ -4,13 +4,14 @@
   "name": "血牙米",
   "aliases": [
     "千年血牙米",
-    "上品血牙米"
+    "上品血牙米",
+    "血牙"
   ],
   "summary": "魔界稀有特产，半尺长血红米状果实，服之增精血、改善肉身，对血系魔功者可临时激增法力两三成，须特殊奇兽精血浇灌方成。",
   "attributes": {
-    "类型": "魔界特产灵物、魔界灵谷/炼丹材料、魔界特产、魔界灵药、灵米/材料、特产米粮、灵米/物资",
-    "用途": "增进精血、改善肉身、激发血系魔功潜力、种子、炼丹材料、肉身强一阶",
-    "稀有度": "极稀有、极稀有、不外流、上品极稀有、管控严格、极稀少受管控",
+    "类型": "魔界特产灵物、魔界灵谷/炼丹材料、魔界特产、魔界灵药、灵米/材料、特产米粮、灵米/物资、灵米",
+    "用途": "增进精血、改善肉身、激发血系魔功潜力、种子、炼丹材料、肉身强一阶、增强肉身",
+    "稀有度": "极稀有、极稀有、不外流、上品极稀有、管控严格、极稀少受管控、限量稀缺",
     "产地": "魔界、蓝瀑湖、疑似蓝瀑湖、蓝瀑城、蓝瀑城/蓝瀑湖、蓝瀑城城主府矿脉"
   },
   "observations": {
@@ -49,6 +50,11 @@
         "value": "灵米/物资",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "灵米",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "用途": [
@@ -81,6 +87,11 @@
         "value": "肉身强一阶",
         "docId": "plot.fanren-2107-zaijian-weixianlu",
         "seq": 2089
+      },
+      {
+        "value": "增强肉身",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "稀有度": [
@@ -103,6 +114,11 @@
         "value": "极稀少受管控",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "限量稀缺",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "产地": [
@@ -174,7 +190,8 @@
     "plot.fanren-2065-2070-leihai-huangjin-xie",
     "plot.fanren-2107-zaijian-weixianlu",
     "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
-    "plot.hra-2119-guangyuanzhai-ziling-chongfeng"
+    "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:50:35.417Z"
+  "updatedAt": "2026-06-21T14:02:08.128Z"
 }

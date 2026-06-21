@@ -3,13 +3,14 @@
   "type": "spell",
   "name": "玄天灵域",
   "aliases": [
-    "玄天花界"
+    "玄天花界",
+    "玄天领域"
   ],
   "summary": "宝花以玄天圣树修成的神通，可化方圆千丈为自成天地的领域，域内无法借助天地元气、大乘战力被削七八成。",
   "attributes": {
     "类型": "领域神通",
-    "出处": "玄天圣树",
-    "适用境界": "大乘/始祖级"
+    "出处": "上古上界残本秘诀",
+    "适用境界": "上界真仙级"
   },
   "observations": {
     "类型": [
@@ -24,6 +25,11 @@
         "value": "玄天圣树",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "上古上界残本秘诀",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "适用境界": [
@@ -31,6 +37,12 @@
         "value": "大乘/始祖级",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "上界真仙级",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113,
+        "note": "宝花修出最低阶"
       }
     ]
   },
@@ -44,21 +56,23 @@
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2095
+      "seq": 2113,
+      "note": "宝花修出最低阶"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake"
+    "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:47:45.523Z"
+  "updatedAt": "2026-06-21T14:02:08.125Z"
 }

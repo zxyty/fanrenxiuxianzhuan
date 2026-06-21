@@ -9,17 +9,19 @@
     "六极的六大化身",
     "六极圣祖",
     "六极化身",
-    "六极门"
+    "六极门",
+    "六极化身之一"
   ],
   "summary": "魔族高手，曾请元刹亲自出手追查人族图谋，仅被提及。",
   "attributes": {
     "种族": "圣族",
-    "阵营": "魔族、魔族/圣族、魔族/圣界、圣族",
+    "阵营": "魔族、魔族/圣族、魔族/圣界、圣族、魔界",
     "性别": "女",
-    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一、魔界始祖",
+    "身份": "圣祖、圣祖存在、圣族圣祖、魔界始祖之一、魔界始祖、六极化身",
     "标志特征": "绿色小人元神、淡蓝色清澈眼珠、拥六大化身",
-    "外貌": "肌肤如雪、黑色魔甲",
-    "称号": "魔界三大始祖之一"
+    "外貌": "苗条妙龄女子",
+    "称号": "圣祖",
+    "小阶段": "合体后期"
   },
   "observations": {
     "种族": [
@@ -54,6 +56,11 @@
         "value": "圣族",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "性别": [
@@ -88,6 +95,12 @@
         "value": "魔界始祖",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "六极化身",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113,
+        "note": "六极的化身之一"
       }
     ],
     "标志特征": [
@@ -118,6 +131,12 @@
         "value": "肌肤如雪、黑色魔甲",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "苗条妙龄女子",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113,
+        "note": "化身"
       }
     ],
     "称号": [
@@ -130,6 +149,18 @@
         "value": "魔界三大始祖之一",
         "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
         "seq": 2101
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -167,15 +198,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 1945
+      "seq": 2113,
+      "note": "化身"
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 2101
+      "seq": 2113
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+      "dated": false,
+      "seq": 2113
     }
   },
   "contested": false,
@@ -189,7 +227,8 @@
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
     "plot.fanren-2107-zaijian-weixianlu",
     "plot.hra-2119-guangyuanzhai-ziling-chongfeng",
-    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast"
+    "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T13:53:18.801Z"
+  "updatedAt": "2026-06-21T14:02:08.146Z"
 }

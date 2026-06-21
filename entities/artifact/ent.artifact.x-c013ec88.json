@@ -3,12 +3,13 @@
   "type": "artifact",
   "name": "震元锏",
   "aliases": [
-    "震元键"
+    "震元键",
+    "土黄色短锏"
   ],
   "summary": "宫装女子所有的威能奇大法宝，需相应修为方能发挥，对方疑有抗衡之物。",
   "attributes": {
-    "持有者": "宫装女子",
-    "能力": "威能奇大"
+    "持有者": "宝花",
+    "能力": "威能奇大、黄色光圈滞敌、自爆"
   },
   "observations": {
     "持有者": [
@@ -16,6 +17,11 @@
         "value": "宫装女子",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "宝花",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ],
     "能力": [
@@ -23,6 +29,16 @@
         "value": "威能奇大",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "黄色光圈滞敌",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
+      },
+      {
+        "value": "自爆",
+        "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
+        "seq": 2113
       }
     ]
   },
@@ -30,9 +46,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
       "dated": false,
-      "seq": 1999
+      "seq": 2113
     },
     "能力": {
       "asOf": null,
@@ -44,7 +60,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2113-2118-de-jing-mi-mou-an-liu"
   ],
-  "updatedAt": "2026-06-21T11:08:29.546Z"
+  "updatedAt": "2026-06-21T14:02:08.149Z"
 }
