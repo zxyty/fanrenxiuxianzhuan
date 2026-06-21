@@ -2,11 +2,14 @@
   "id": "ent.event.x-3cb6c9eb",
   "type": "event",
   "name": "四族拍卖会",
-  "aliases": [],
+  "aliases": [
+    "云城四族拍卖会"
+  ],
   "summary": "天云十三族每十年由四族主持的大拍卖会，上族以上皆可参加；本届因角蚩族入侵拿出珍品，含万妙丹与万古族两头通灵傀儡。",
   "attributes": {
-    "地点": "云意拍卖行",
-    "参与方": "天云十三族、韩立、铁坚"
+    "地点": "云城",
+    "参与方": "天云十三族、韩立、铁坚、萧布衣、段天刃、千机子",
+    "结果": "凤凰石520余万、金王花700万成交；现琉璃天火液半瓶底价1800万"
   },
   "observations": {
     "地点": [
@@ -14,6 +17,11 @@
         "value": "云意拍卖行",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "云城",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ],
     "参与方": [
@@ -31,6 +39,28 @@
         "value": "铁坚",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "萧布衣",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      },
+      {
+        "value": "段天刃",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      },
+      {
+        "value": "千机子",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      }
+    ],
+    "结果": [
+      {
+        "value": "凤凰石520余万、金王花700万成交；现琉璃天火液半瓶底价1800万",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ]
   },
@@ -38,21 +68,28 @@
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
-      "seq": 1585
+      "seq": 1591
     },
     "参与方": {
       "asOf": null,
       "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
       "seq": 1585
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "dated": false,
+      "seq": 1591
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1586-qianjizi"
+    "plot.fanren-1586-qianjizi",
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
   ],
-  "updatedAt": "2026-06-20T16:11:26.816Z"
+  "updatedAt": "2026-06-21T00:51:27.682Z"
 }

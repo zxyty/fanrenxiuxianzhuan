@@ -1,76 +1,71 @@
 {
-  "id": "ent.place.x-bfa6feae",
-  "type": "place",
-  "name": "广寒界",
-  "aliases": [
-    "广寒界界面",
-    "广寒天",
-    "广寒宫",
-    "Guanghan Realm"
-  ],
-  "summary": "需以广寒令配合万古族布置的开启法阵方能进入的界面。",
+  "id": "ent.material.x-3e25150f",
+  "type": "material",
+  "name": "凤凰石",
+  "aliases": [],
+  "summary": "唯真凤诞生之地才孕育的五色奇石，炼器炼丹入药皆价值极高；本届以520余万灵石被墨绿族女子拍走。",
   "attributes": {
-    "守护": "天云十三族",
-    "所属界面": "灵界",
-    "类型": "秘境",
-    "危险度": "极高"
+    "类型": "灵石",
+    "用途": "炼器、炼丹入药",
+    "产地": "真凤诞生之地",
+    "稀有度": "珍稀"
   },
   "observations": {
-    "守护": [
-      {
-        "value": "需广寒令与开启法阵方可进入",
-        "docId": "plot.fanren-1586-qianjizi",
-        "seq": 1585
-      },
-      {
-        "value": "天云十三族",
-        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
-        "seq": 1591
-      }
-    ],
-    "所属界面": [
-      {
-        "value": "灵界",
-        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
-        "seq": 1591
-      }
-    ],
     "类型": [
       {
-        "value": "秘境",
+        "value": "灵石",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ],
-    "危险度": [
+    "用途": [
       {
-        "value": "极高",
+        "value": "炼器",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      },
+      {
+        "value": "炼丹入药",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      }
+    ],
+    "产地": [
+      {
+        "value": "真凤诞生之地",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "珍稀",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ]
   },
-  "firstSeq": 1585,
+  "firstSeq": 1591,
   "attrProvenance": {
-    "守护": {
-      "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
-      "dated": false,
-      "seq": 1591
-    },
-    "所属界面": {
-      "asOf": null,
-      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
-      "dated": false,
-      "seq": 1591
-    },
     "类型": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
     },
-    "危险度": {
+    "用途": {
+      "asOf": null,
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "dated": false,
+      "seq": 1591
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "dated": false,
+      "seq": 1591
+    },
+    "稀有度": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
@@ -80,8 +75,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
   ],
-  "updatedAt": "2026-06-21T00:51:27.676Z"
+  "updatedAt": "2026-06-21T00:51:27.686Z"
 }

@@ -5,7 +5,8 @@
   "aliases": [],
   "summary": "天云十三族之一，与万古族合力打造云城之卫。",
   "attributes": {
-    "阵营": "天云十三族"
+    "阵营": "天云十三族",
+    "代表人物": "段天刃"
   },
   "observations": {
     "阵营": [
@@ -13,6 +14,13 @@
         "value": "天云十三族",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "段天刃",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ]
   },
@@ -23,6 +31,12 @@
       "docId": "plot.fanren-1586-qianjizi",
       "dated": false,
       "seq": 1585
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+      "dated": false,
+      "seq": 1591
     }
   },
   "contested": false,
@@ -30,7 +44,8 @@
   "docs": [
     "plot.fanren-1573-1578-yunnianzhu-yuncheng",
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-    "plot.fanren-1586-qianjizi"
+    "plot.fanren-1586-qianjizi",
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
   ],
-  "updatedAt": "2026-06-20T16:11:25.899Z"
+  "updatedAt": "2026-06-21T00:51:27.665Z"
 }

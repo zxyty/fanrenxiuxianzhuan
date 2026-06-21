@@ -1,76 +1,68 @@
 {
-  "id": "ent.place.x-bfa6feae",
-  "type": "place",
-  "name": "广寒界",
+  "id": "ent.person.x-eabfa594",
+  "type": "person",
+  "name": "彩流罂",
   "aliases": [
-    "广寒界界面",
-    "广寒天",
-    "广寒宫",
-    "Guanghan Realm"
+    "妃緤夫人"
   ],
-  "summary": "需以广寒令配合万古族布置的开启法阵方能进入的界面。",
+  "summary": "天云圣族美妇，自称法阵禁制造诣在天云排前五；进阶圣族时于广寒界发现隐秘禁制，欲借三名元磁之体者破禁取物以延缓大天劫。",
   "attributes": {
-    "守护": "天云十三族",
-    "所属界面": "灵界",
-    "类型": "秘境",
-    "危险度": "极高"
+    "性别": "女",
+    "种族": "圣族",
+    "身份": "天云十三族之圣族",
+    "性格": "精明、爽快、深沉"
   },
   "observations": {
-    "守护": [
+    "性别": [
       {
-        "value": "需广寒令与开启法阵方可进入",
-        "docId": "plot.fanren-1586-qianjizi",
-        "seq": 1585
-      },
-      {
-        "value": "天云十三族",
+        "value": "女",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ],
-    "所属界面": [
+    "种族": [
       {
-        "value": "灵界",
+        "value": "圣族",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ],
-    "类型": [
+    "身份": [
       {
-        "value": "秘境",
+        "value": "天云十三族之圣族",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ],
-    "危险度": [
+    "性格": [
       {
-        "value": "极高",
+        "value": "精明、爽快、深沉",
         "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
         "seq": 1591
       }
     ]
   },
-  "firstSeq": 1585,
+  "firstSeq": 1591,
   "attrProvenance": {
-    "守护": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
     },
-    "所属界面": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
     },
-    "类型": {
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
       "seq": 1591
     },
-    "危险度": {
+    "性格": {
       "asOf": null,
       "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
@@ -80,8 +72,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1586-qianjizi",
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
   ],
-  "updatedAt": "2026-06-21T00:51:27.676Z"
+  "updatedAt": "2026-06-21T00:51:27.671Z"
 }

@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "炼虚级修士才能服用的丹药，以芝龙果为主材料。",
   "attributes": {
-    "品阶": "炼虚级",
+    "品阶": "一品",
     "主料": "芝龙果、腾云胶",
-    "适用境界": "炼虚初中期",
-    "功效": "精进炼虚初中期修为、精进炼虚初中期修士修为、加速炼虚修为、可换取极品灵石",
+    "适用境界": "上族七八阶",
+    "功效": "精进炼虚初中期修为、精进炼虚初中期修士修为、加速炼虚修为、可换取极品灵石、丹性通灵之高阶丹药",
     "炼制者": "韩立",
     "副作用": "成丹率极低(十炼七八败)、成丹率极低、炼制繁难"
   },
@@ -18,6 +18,11 @@
         "value": "炼虚级",
         "docId": "plot.fanren-ch1359-shuanghuang-appears",
         "seq": 1357
+      },
+      {
+        "value": "一品",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ],
     "主料": [
@@ -42,6 +47,11 @@
         "value": "炼虚初中期",
         "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
         "seq": 1519
+      },
+      {
+        "value": "上族七八阶",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ],
     "功效": [
@@ -64,6 +74,11 @@
         "value": "可换取极品灵石",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "丹性通灵之高阶丹药",
+        "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
+        "seq": 1591
       }
     ],
     "炼制者": [
@@ -90,9 +105,9 @@
   "attrProvenance": {
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-ch1359-shuanghuang-appears",
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
-      "seq": 1357
+      "seq": 1591
     },
     "主料": {
       "asOf": null,
@@ -102,9 +117,9 @@
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
-      "seq": 1519
+      "seq": 1591
     },
     "功效": {
       "asOf": null,
@@ -131,7 +146,8 @@
     "plot.fanren-ch1359-shuanghuang-appears",
     "plot.fanren-1519-1524-zhongjian-jinjie-lianxu",
     "plot.fanren-1519-1524-zhong-jian-jinjie-lianxu",
-    "plot.fanren-1586-qianjizi"
+    "plot.fanren-1586-qianjizi",
+    "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti"
   ],
-  "updatedAt": "2026-06-20T16:11:26.235Z"
+  "updatedAt": "2026-06-21T00:51:27.684Z"
 }
