@@ -6,15 +6,19 @@
     "米某",
     "米尊者",
     "秃头高阶魔族",
-    "秃头魔族尊者"
+    "秃头魔族尊者",
+    "秃头尊者",
+    "秃头魔尊"
   ],
   "summary": "魔族（圣族）尊者，秃头、嘴角生肉须，贪婪好利，以赤红云雾遁行，应邀联手追凶。",
   "attributes": {
     "种族": "魔族",
-    "身份": "圣族尊者、魔族尊者",
-    "标志特征": "秃头、嘴角肉须、赤红云雾遁法",
+    "身份": "圣族尊者、魔族尊者、尊者",
+    "标志特征": "秃头、嘴角肉须、赤红云雾遁法、秃头、肉须",
     "性格": "贪婪",
-    "阵营": "魔族"
+    "阵营": "魔族",
+    "小阶段": "合体期",
+    "结局": "化乌虹携四天鬼逃走"
   },
   "observations": {
     "种族": [
@@ -34,6 +38,11 @@
         "value": "魔族尊者",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "尊者",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "标志特征": [
@@ -41,6 +50,16 @@
         "value": "秃头、嘴角肉须、赤红云雾遁法",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "秃头",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "肉须",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "性格": [
@@ -55,6 +74,20 @@
         "value": "魔族",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      }
+    ],
+    "结局": [
+      {
+        "value": "化乌虹携四天鬼逃走",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ]
   },
@@ -89,12 +122,25 @@
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
       "seq": 1873
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "dated": false,
+      "seq": 1879
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "dated": false,
+      "seq": 1879
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
   ],
-  "updatedAt": "2026-06-21T07:57:36.190Z"
+  "updatedAt": "2026-06-21T08:05:00.523Z"
 }

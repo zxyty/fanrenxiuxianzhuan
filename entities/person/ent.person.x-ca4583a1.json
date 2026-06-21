@@ -8,17 +8,20 @@
     "独角老者",
     "力兄",
     "力道友",
-    "三头六臂魔物"
+    "三头六臂魔物",
+    "独角魔尊"
   ],
   "summary": "魔族（圣族）尊者，独角老者，因唯一爱孙被人族修士所杀而动用罗森魔器联手二魔追凶。",
   "attributes": {
     "种族": "魔族",
-    "身份": "圣族尊者、血光圣祖坐下力尊者",
-    "标志特征": "独角、可化五六丈巨躯、持乌黑巨棍",
+    "身份": "圣族尊者、血光圣祖坐下力尊者、魔族尊者",
+    "标志特征": "独角、可化五六丈巨躯、持乌黑巨棍、独角、三面六臂、魔焰飞轮、黑红银符战甲",
     "性格": "暴怒护短",
     "小阶段": "合体中期",
     "外貌": "独角老者，可化三头六臂巨大魔物",
-    "阵营": "魔族"
+    "阵营": "魔族",
+    "存殁": "死亡",
+    "死因": "被韩立辟邪神雷碎甲、银色火焰焚为灰烬（连元婴）"
   },
   "observations": {
     "种族": [
@@ -38,6 +41,11 @@
         "value": "血光圣祖坐下力尊者",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "魔族尊者",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "标志特征": [
@@ -45,6 +53,26 @@
         "value": "独角、可化五六丈巨躯、持乌黑巨棍",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "独角",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "三面六臂",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "魔焰飞轮",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "黑红银符战甲",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "性格": [
@@ -74,6 +102,20 @@
         "value": "魔族",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立辟邪神雷碎甲、银色火焰焚为灰烬（连元婴）",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ]
   },
@@ -121,12 +163,25 @@
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
       "seq": 1873
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "dated": false,
+      "seq": 1879
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "dated": false,
+      "seq": 1879
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
   ],
-  "updatedAt": "2026-06-21T07:57:36.187Z"
+  "updatedAt": "2026-06-21T08:05:00.499Z"
 }

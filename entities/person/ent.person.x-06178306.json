@@ -9,11 +9,14 @@
     "曲儿丫头",
     "白衣女童",
     "白裙女童",
-    "小辫女童"
+    "小辫女童",
+    "曲灵参",
+    "曲灵参所化",
+    "芝仙灵躯操纵者"
   ],
   "summary": "九曲灵参元神所化的六七岁女童，灵智初开，可入芝仙躯壳代炼灵力，将随韩立入广寒界。",
   "attributes": {
-    "种族": "天地灵物(九曲灵参所化)",
+    "种族": "天地灵物（曲灵参）",
     "外貌": "头扎小辫女童",
     "性格": "纯真胆怯",
     "性别": "女",
@@ -26,6 +29,11 @@
         "value": "天地灵物(九曲灵参所化)",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "天地灵物（曲灵参）",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "外貌": [
@@ -89,9 +97,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
       "dated": false,
-      "seq": 1663
+      "seq": 1879
     },
     "外貌": {
       "asOf": null,
@@ -130,7 +138,8 @@
     "plot.fanren-1667-1672-guanghan-jie-entry",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
   ],
-  "updatedAt": "2026-06-21T03:45:34.565Z"
+  "updatedAt": "2026-06-21T08:05:00.524Z"
 }

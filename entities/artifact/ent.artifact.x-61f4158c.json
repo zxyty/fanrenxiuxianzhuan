@@ -9,14 +9,17 @@
     "玄天残刃金刃",
     "玄天宝刃",
     "玄天灵宝残片",
-    "残片香炉"
+    "残片香炉",
+    "紫色断刃",
+    "紫色短刃",
+    "紫刃"
   ],
   "summary": "魔界玄天之宝残片，能控制某种天地法则之力，对精纯魔气敏感，可被梵圣真魔功同化驱使，刃中封有一只不知名灵物。",
   "attributes": {
     "来历": "蛮荒上古战场",
-    "能力": "控制天地法则之力、可被梵圣真魔功同化驱使、曾一斩破春黎剑阵、法则之力、吸纳天地元气、举重若轻一击斩杀强敌、注入符文补全后斩出丈许金色刃芒、金色洪流、法则之力斩击",
+    "能力": "控制天地法则之力、可被梵圣真魔功同化驱使、曾一斩破春黎剑阵、法则之力、吸纳天地元气、举重若轻一击斩杀强敌、注入符文补全后斩出丈许金色刃芒、金色洪流、法则之力斩击、引动天地法则之力、五色霞光自修残缺、黑色法则巨浪飞灰湮灭",
     "器灵": "不知名灵物",
-    "外形": "残破香炉，金文与残缺兽纹",
+    "外形": "紫色断刃，残缺修补后泛五色霞光",
     "持有者": "虚灵老者",
     "禁制": "驱动反噬剧烈、险伤元气"
   },
@@ -83,6 +86,21 @@
         "value": "法则之力斩击",
         "docId": "plot.fanren-1734-stone-wall-spirit-script",
         "seq": 1729
+      },
+      {
+        "value": "引动天地法则之力",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "五色霞光自修残缺",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
+      },
+      {
+        "value": "黑色法则巨浪飞灰湮灭",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "器灵": [
@@ -118,6 +136,11 @@
         "value": "残破香炉，金文与残缺兽纹",
         "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
         "seq": 1855
+      },
+      {
+        "value": "紫色断刃，残缺修补后泛五色霞光",
+        "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+        "seq": 1879
       }
     ],
     "持有者": [
@@ -162,9 +185,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
       "dated": false,
-      "seq": 1855
+      "seq": 1879
     },
     "持有者": {
       "asOf": null,
@@ -189,7 +212,8 @@
     "plot.fanren-1734-stone-wall-spirit-script",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1843-1848-hualing-zhi-zhan",
-    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
   ],
-  "updatedAt": "2026-06-21T07:16:44.524Z"
+  "updatedAt": "2026-06-21T08:05:00.527Z"
 }
