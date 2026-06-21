@@ -15,15 +15,16 @@
   "summary": "天鹏族五大长老中的大长老，精通对人族的了解，欲借韩立风雷翅中的鲲鹏之羽助本族圣子过试炼。",
   "attributes": {
     "性别": "女",
-    "种族": "灵族",
-    "身份": "天鹏族长老",
-    "外貌": "背生金色羽翅、身披白袍、少女模样、雍容气息",
+    "种族": "真龙一族",
+    "身份": "真龙一族大长老/第一人",
+    "外貌": "金色长袍、紫角、方脸剑眉",
     "小阶段": "合体中期以上、合体期、合体大成、圣阶后期大成、圣阶初期、合体",
     "阵营": "灵族",
     "称号": "大长老",
     "标志特征": "金黄色镜子法宝",
     "存殁": "死亡",
-    "死因": "意外陨落（回归灵类本源，疑点重重）"
+    "死因": "意外陨落（回归灵类本源，疑点重重）",
+    "性格": "不怒自威"
   },
   "observations": {
     "性别": [
@@ -48,6 +49,11 @@
         "value": "灵族",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
+      },
+      {
+        "value": "真龙一族",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "身份": [
@@ -65,6 +71,11 @@
         "value": "天鹏族长老",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "真龙一族大长老/第一人",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "外貌": [
@@ -97,6 +108,11 @@
         "value": "背生金色羽翅、身披白袍、少女模样、雍容气息",
         "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
         "seq": 2287
+      },
+      {
+        "value": "金色长袍、紫角、方脸剑眉",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "小阶段": [
@@ -170,6 +186,13 @@
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
+    ],
+    "性格": [
+      {
+        "value": "不怒自威",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      }
     ]
   },
   "firstSeq": 1411,
@@ -182,21 +205,21 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2059
+      "seq": 2413
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 1429
+      "seq": 2413
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2287
+      "seq": 2413
     },
     "小阶段": {
       "asOf": null,
@@ -233,6 +256,12 @@
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
       "seq": 2059
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+      "dated": false,
+      "seq": 2413
     }
   },
   "contested": false,
@@ -251,7 +280,8 @@
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
     "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing"
+    "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T17:28:48.239Z"
+  "updatedAt": "2026-06-21T20:54:47.585Z"
 }

@@ -11,9 +11,9 @@
   "summary": "真龙之一，因争物与七首枭恶斗负伤，化十五六岁银衫少年与韩立结善缘，赠银鳞请帖。",
   "attributes": {
     "性别": "男",
-    "种族": "真龙族",
+    "种族": "真龙一族",
     "称号": "紫睛龙",
-    "外貌": "十五六岁银衫少年",
+    "外貌": "银杉少年、面色苍白、嘴角带笑",
     "标志特征": "通体银鳞巨龙,紫眼金角四长须"
   },
   "observations": {
@@ -34,6 +34,11 @@
         "value": "真龙族",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "真龙一族",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "称号": [
@@ -49,6 +54,11 @@
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167,
         "note": "由真龙身躯化形"
+      },
+      {
+        "value": "银杉少年、面色苍白、嘴角带笑",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "标志特征": [
@@ -69,9 +79,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2311
+      "seq": 2413
     },
     "称号": {
       "asOf": null,
@@ -81,10 +91,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2167,
-      "note": "由真龙身躯化形"
+      "seq": 2413
     },
     "标志特征": {
       "asOf": null,
@@ -97,7 +106,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2167-2172-jinjie-dasheng",
-    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T17:40:04.924Z"
+  "updatedAt": "2026-06-21T20:54:47.586Z"
 }

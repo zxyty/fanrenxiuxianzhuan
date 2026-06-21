@@ -4,12 +4,14 @@
   "name": "真龙",
   "aliases": [
     "真龙一族",
-    "真龙存在"
+    "真龙存在",
+    "真龙之族"
   ],
   "summary": "真灵级强大种族，与大乘同阶，强者神通可比真仙，代表真龙之岛。",
   "attributes": {
-    "代表人物": "樊咆子、金龙大长老",
-    "聚居地": "真龙之岛"
+    "代表人物": "樊咆子、金龙大长老、金大长老、田飞儿",
+    "聚居地": "龙岛",
+    "特性": "人口稀少、对飞升仙界兴趣不大"
   },
   "observations": {
     "代表人物": [
@@ -22,6 +24,16 @@
         "value": "金龙大长老",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "金大长老",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      },
+      {
+        "value": "田飞儿",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "聚居地": [
@@ -29,6 +41,18 @@
         "value": "真龙之岛",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "龙岛",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      }
+    ],
+    "特性": [
+      {
+        "value": "人口稀少、对飞升仙界兴趣不大",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ]
   },
@@ -42,15 +66,22 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2167
+      "seq": 2413
+    },
+    "特性": {
+      "asOf": null,
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+      "dated": false,
+      "seq": 2413
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2167-2172-jinjie-dasheng"
+    "plot.fanren-2167-2172-jinjie-dasheng",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T15:09:48.870Z"
+  "updatedAt": "2026-06-21T20:54:47.594Z"
 }

@@ -4,14 +4,15 @@
   "name": "田飞儿",
   "aliases": [
     "田仙子",
-    "绿色圆环"
+    "绿色圆环",
+    "田飞儿丫头"
   ],
   "summary": "真龙族女子，本体真龙之身；伪装成面目普通的黑袍男子，借至交樊咆子之名结交韩立，劫走魇龙之血，求随韩立跨大陆传送离开，并为广灵道果大会三十六执事之一。",
   "attributes": {
     "性别": "女",
-    "种族": "龙族",
-    "外貌": "面目普通黑袍男子、绿色圆环/储物镯、淡绿长袍、肌肤如雪、五官清秀",
-    "身份": "广灵道果大会三十六执事之一",
+    "种族": "真龙一族",
+    "外貌": "面目普通黑袍男子、绿色圆环/储物镯、淡绿长袍、肌肤如雪、五官清秀、肌肤似雪、头生短绿角、绿袍",
+    "身份": "广灵道果大会三十六执事之一、龙岛迎宾使者、道果大会执事",
     "标志特征": "乌发中一对翠绿短角"
   },
   "observations": {
@@ -33,6 +34,11 @@
         "value": "龙族",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "真龙一族",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "外貌": [
@@ -52,6 +58,11 @@
         "value": "淡绿长袍、肌肤如雪、五官清秀",
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
+      },
+      {
+        "value": "肌肤似雪、头生短绿角、绿袍",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "身份": [
@@ -59,6 +70,16 @@
         "value": "广灵道果大会三十六执事之一",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "龙岛迎宾使者",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      },
+      {
+        "value": "道果大会执事",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "标志特征": [
@@ -85,9 +106,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2317
+      "seq": 2413
     },
     "外貌": {
       "asOf": null,
@@ -113,7 +134,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T17:47:59.014Z"
+  "updatedAt": "2026-06-21T20:54:47.584Z"
 }

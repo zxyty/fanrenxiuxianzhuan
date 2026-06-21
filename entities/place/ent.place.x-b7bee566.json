@@ -3,14 +3,15 @@
   "type": "place",
   "name": "真龙之岛",
   "aliases": [
-    "龙岛"
+    "龙岛",
+    "龙岛绿月"
   ],
   "summary": "传说独立于数界面间独特空间的岛屿，以蛟龙真龙类真灵为主，真龙就有十余条，将办广灵道果大会。",
   "attributes": {
-    "类型": "独立空间之岛",
-    "守护": "真龙等真灵存在",
-    "所属界面": "灵界",
-    "所属势力": "真龙族"
+    "类型": "悬浮星空岛屿/绿月",
+    "守护": "淡绿色光幕、设有禁区",
+    "所属界面": "摩柯界附近星空",
+    "所属势力": "真龙一族"
   },
   "observations": {
     "类型": [
@@ -18,6 +19,11 @@
         "value": "独立空间之岛",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "悬浮星空岛屿/绿月",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "守护": [
@@ -25,6 +31,11 @@
         "value": "真龙等真灵存在",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "淡绿色光幕、设有禁区",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "所属界面": [
@@ -32,6 +43,11 @@
         "value": "灵界",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "摩柯界附近星空",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "所属势力": [
@@ -39,6 +55,11 @@
         "value": "真龙族",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "真龙一族",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ]
   },
@@ -46,34 +67,35 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2167
+      "seq": 2413
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2167
+      "seq": 2413
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2311
+      "seq": 2413
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2311
+      "seq": 2413
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2167-2172-jinjie-dasheng",
-    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier"
+    "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T17:40:04.947Z"
+  "updatedAt": "2026-06-21T20:54:47.597Z"
 }

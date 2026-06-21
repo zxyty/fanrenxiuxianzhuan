@@ -11,7 +11,8 @@
     "所属界面": "圣界（魔界）",
     "类型": "海岛",
     "危险度": "高（压制大乘）",
-    "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇、魔族三大始祖"
+    "守护": "金色巨蟹魔晶傀儡、雷海、灭情、无常、元魇、魔族三大始祖、魔族三始祖轮守",
+    "特产": "洗灵池、灵霄天柱"
   },
   "observations": {
     "所属界面": [
@@ -90,6 +91,23 @@
         "value": "魔族三大始祖",
         "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
         "seq": 2077
+      },
+      {
+        "value": "魔族三始祖轮守",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      }
+    ],
+    "特产": [
+      {
+        "value": "洗灵池",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      },
+      {
+        "value": "灵霄天柱",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ]
   },
@@ -118,6 +136,12 @@
       "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
       "seq": 2065
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+      "dated": false,
+      "seq": 2413
     }
   },
   "contested": false,
@@ -128,7 +152,8 @@
     "plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct",
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
-    "plot.fanren-2107-zaijian-weixianlu"
+    "plot.fanren-2107-zaijian-weixianlu",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T13:40:14.188Z"
+  "updatedAt": "2026-06-21T20:54:47.570Z"
 }

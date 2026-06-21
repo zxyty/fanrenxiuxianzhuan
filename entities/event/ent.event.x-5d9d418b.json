@@ -9,9 +9,11 @@
   "summary": "真龙金龙大长老将于数百年后在真龙之岛召开，各界真灵与部分大乘存在受邀参加。",
   "attributes": {
     "地点": "龙岛",
-    "参与方": "各界真灵、部分大乘存在、真龙族、各界强者千人、韩立、田飞儿",
-    "起因": "金龙大长老召开",
-    "影响": "得广灵道果者修炼参悟激增七八倍"
+    "参与方": "各界真灵、部分大乘存在、真龙族、各界强者千人、韩立、田飞儿、真龙一族、诸界大乘/强者",
+    "起因": "龙岛给诸界强者聚集互换宝物之机",
+    "影响": "得广灵道果者修炼参悟激增七八倍",
+    "章节": "2434",
+    "经过": "两年后召开、汇聚他界强者、迎宾→入岛换购珍材→宝物交换会→私会金长老"
   },
   "observations": {
     "地点": [
@@ -56,6 +58,16 @@
         "value": "田飞儿",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      },
+      {
+        "value": "真龙一族",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      },
+      {
+        "value": "诸界大乘/强者",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "起因": [
@@ -63,6 +75,11 @@
         "value": "金龙大长老召开",
         "docId": "plot.fanren-2167-2172-jinjie-dasheng",
         "seq": 2167
+      },
+      {
+        "value": "龙岛给诸界强者聚集互换宝物之机",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ],
     "影响": [
@@ -70,6 +87,25 @@
         "value": "得广灵道果者修炼参悟激增七八倍",
         "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
         "seq": 2311
+      }
+    ],
+    "章节": [
+      {
+        "value": "2434",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      }
+    ],
+    "经过": [
+      {
+        "value": "两年后召开、汇聚他界强者",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
+      },
+      {
+        "value": "迎宾→入岛换购珍材→宝物交换会→私会金长老",
+        "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+        "seq": 2413
       }
     ]
   },
@@ -89,15 +125,27 @@
     },
     "起因": {
       "asOf": null,
-      "docId": "plot.fanren-2167-2172-jinjie-dasheng",
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
       "dated": false,
-      "seq": 2167
+      "seq": 2413
     },
     "影响": {
       "asOf": null,
       "docId": "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
       "dated": false,
       "seq": 2311
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+      "dated": false,
+      "seq": 2413
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.fanren-2413-2418-pingling-return-mojie",
+      "dated": false,
+      "seq": 2413
     }
   },
   "contested": false,
@@ -105,7 +153,8 @@
   "docs": [
     "plot.fanren-2167-2172-jinjie-dasheng",
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
-    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting"
+    "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
+    "plot.fanren-2413-2418-pingling-return-mojie"
   ],
-  "updatedAt": "2026-06-21T17:47:59.031Z"
+  "updatedAt": "2026-06-21T20:54:47.599Z"
 }
