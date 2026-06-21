@@ -3,14 +3,17 @@
   "type": "person",
   "name": "修罗蛛族母",
   "aliases": [
-    "修罗蛛祖母"
+    "修罗蛛祖母",
+    "母亲大人"
   ],
   "summary": "修罗蛛一族之主，实力堪比真灵的大乘，守护巢穴与光阴之丝。",
   "attributes": {
     "性别": "女",
     "种族": "修罗蛛",
-    "小阶段": "大乘",
-    "阵营": "修罗蛛一族"
+    "小阶段": "近大乘",
+    "阵营": "修罗蛛一族",
+    "身份": "修罗蛛一族族母",
+    "标志特征": "金色巨盾、化巨型碧绿钢毛蜘蛛、时间之力"
   },
   "observations": {
     "性别": [
@@ -33,6 +36,12 @@
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257,
         "note": "堪比真灵"
+      },
+      {
+        "value": "近大乘",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263,
+        "note": "成年修罗蛛之首"
       }
     ],
     "阵营": [
@@ -40,6 +49,30 @@
         "value": "修罗蛛一族",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      }
+    ],
+    "身份": [
+      {
+        "value": "修罗蛛一族族母",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "金色巨盾",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
+      },
+      {
+        "value": "化巨型碧绿钢毛蜘蛛",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
+      },
+      {
+        "value": "时间之力",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
       }
     ]
   },
@@ -59,22 +92,35 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
-      "seq": 2257,
-      "note": "堪比真灵"
+      "seq": 2263,
+      "note": "成年修罗蛛之首"
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
       "seq": 2257
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "dated": false,
+      "seq": 2263
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "dated": false,
+      "seq": 2263
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
   ],
-  "updatedAt": "2026-06-21T16:55:30.419Z"
+  "updatedAt": "2026-06-21T16:58:06.991Z"
 }

@@ -3,13 +3,16 @@
   "type": "person",
   "name": "樱仙子",
   "aliases": [
-    "樱儿"
+    "樱儿",
+    "樱道友"
   ],
   "summary": "修罗蛛一族中闭关参悟的关键修士，其修炼成败关乎族母大事，受严密保护。",
   "attributes": {
     "性别": "女",
-    "身份": "闭关参悟修士",
-    "存殁": "存活"
+    "身份": "修罗蛛族母之女",
+    "存殁": "存活",
+    "种族": "修罗蛛",
+    "出身地": "修罗蛛界面石城"
   },
   "observations": {
     "性别": [
@@ -24,6 +27,11 @@
         "value": "闭关参悟修士",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "修罗蛛族母之女",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
       }
     ],
     "存殁": [
@@ -31,6 +39,20 @@
         "value": "存活",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      }
+    ],
+    "种族": [
+      {
+        "value": "修罗蛛",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
+      }
+    ],
+    "出身地": [
+      {
+        "value": "修罗蛛界面石城",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
       }
     ]
   },
@@ -44,21 +66,34 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
-      "seq": 2257
+      "seq": 2263
     },
     "存殁": {
       "asOf": null,
       "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
       "seq": 2257
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "dated": false,
+      "seq": 2263
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "dated": false,
+      "seq": 2263
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
   ],
-  "updatedAt": "2026-06-21T16:55:30.420Z"
+  "updatedAt": "2026-06-21T16:58:06.992Z"
 }

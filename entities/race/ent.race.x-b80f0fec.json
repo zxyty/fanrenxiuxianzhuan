@@ -3,12 +3,13 @@
   "type": "race",
   "name": "五光族",
   "aliases": [
-    "五光支"
+    "五光支",
+    "五光一族"
   ],
   "summary": "灵界种族，以五色孔雀灵骨炼制须弥洞天图为镇族之宝。",
   "attributes": {
-    "代表人物": "鱼店主",
-    "天赋神通": "五色神光/五色变身",
+    "代表人物": "奕姓老者",
+    "天赋神通": "五色神光",
     "特性": "独有幻化秘术（真假难辨）、翅小、服饰艳丽、外貌与天鹏族相似、真血含五色光芒、与五色孔雀血脉相关",
     "阵营": "与天鹏族交好"
   },
@@ -28,6 +29,11 @@
         "value": "鱼店主",
         "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
         "seq": 1843
+      },
+      {
+        "value": "奕姓老者",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
       }
     ],
     "天赋神通": [
@@ -45,6 +51,11 @@
         "value": "五色神光/五色变身",
         "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
         "seq": 1843
+      },
+      {
+        "value": "五色神光",
+        "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+        "seq": 2263
       }
     ],
     "特性": [
@@ -81,15 +92,15 @@
   "attrProvenance": {
     "代表人物": {
       "asOf": null,
-      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
-      "seq": 1843
+      "seq": 2263
     },
     "天赋神通": {
       "asOf": null,
-      "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
+      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
-      "seq": 1843
+      "seq": 2263
     },
     "特性": {
       "asOf": null,
@@ -114,7 +125,8 @@
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
     "plot.fanren-1425",
     "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
-    "plot.fanren-1843-1848-hualing-zhi-zhan"
+    "plot.fanren-1843-1848-hualing-zhi-zhan",
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
   ],
-  "updatedAt": "2026-06-21T07:01:40.359Z"
+  "updatedAt": "2026-06-21T16:58:06.997Z"
 }

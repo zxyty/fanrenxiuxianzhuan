@@ -746,3 +746,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T16:35:45.738Z** `ingest` plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong — 凡人修仙传 第2245-2250章｜伏灵山乌龙·灵王与三清雷霄符之约 · kind=plot asOf=2026-06-21 entities=31 relations=46 src=02245-02250.md
 - **2026-06-21T16:47:57.599Z** `ingest` plot.fanren-2270-jiuyuanguan — 凡人修仙传 第2270章 九元观：金翰仙宫宫主与黑脸道士密议追查叛徒 · kind=plot asOf=2026-06-21 entities=39 relations=47 src=02251-02256.md
 - **2026-06-21T16:55:30.602Z** `ingest` plot.fanren-2257-2262-xiaoxiuluojie-cheqizi — 凡人修仙传 第2257-2262章｜小修罗界打草惊蛇·玄武真血·救莫简离遇车泣子 · kind=plot asOf=2026-06-21 entities=26 relations=35 src=02257-02262.md
+- **2026-06-21T16:58:07.199Z** `ingest` plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe — 凡人修仙传 第2282-2287章｜修罗之战（一至六）：韩立力战飞灵族奕姓老者，破修罗蛛石城 · kind=plot asOf=2026-06-21 entities=21 relations=26 src=02263-02268.md
