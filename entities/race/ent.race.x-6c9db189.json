@@ -5,13 +5,15 @@
   "aliases": [
     "魔族大军",
     "魔族精锐",
-    "高阶魔族"
+    "高阶魔族",
+    "古魔一族"
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
     "代表人物": "魔族圣祖、黑甲大汉、白袍少年",
     "阵营": "魔界",
-    "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影"
+    "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影",
+    "聚居地": "真魔界"
   },
   "observations": {
     "代表人物": [
@@ -36,6 +38,11 @@
         "value": "魔界",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
       }
     ],
     "特性": [
@@ -44,9 +51,16 @@
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
       }
+    ],
+    "聚居地": [
+      {
+        "value": "真魔界",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
+      }
     ]
   },
-  "firstSeq": 1909,
+  "firstSeq": 1867,
   "attrProvenance": {
     "代表人物": {
       "asOf": null,
@@ -65,13 +79,20 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "聚居地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-ch1881-mo-lin-cheng-xia"
   ],
-  "updatedAt": "2026-06-17T03:26:19.784Z"
+  "updatedAt": "2026-06-21T07:45:53.102Z"
 }

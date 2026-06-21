@@ -5,7 +5,9 @@
   "aliases": [
     "苍护法",
     "绿袍老者",
-    "逆星盟护法苍云龙"
+    "逆星盟护法苍云龙",
+    "绿老",
+    "绿袍黄发枯瘦老者"
   ],
   "summary": "逆星盟护法，绿袍魔道修士，结丹初期，修炼七煞决，主持南明岛离岛盘查，暗中盯上韩立的聚煞诀窍并图谋逼献紫灵仙子。",
   "attributes": {
@@ -13,7 +15,9 @@
     "身份": "逆星盟护法",
     "阵营": "魔道/逆星盟、魔道",
     "性格": "老练精明、足智多谋、老练阴沉、足智多谋",
-    "外貌": "绿袍老者"
+    "外貌": "绿袍、满头黄发、枯瘦",
+    "种族": "魔族",
+    "标志特征": "神目神通"
   },
   "observations": {
     "小阶段": [
@@ -59,6 +63,25 @@
         "value": "绿袍老者",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "绿袍、满头黄发、枯瘦",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "神目神通",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
       }
     ]
   },
@@ -90,16 +113,29 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-499-504-nanming-island",
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
       "dated": false,
-      "seq": 499
+      "seq": 1867
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "dated": false,
+      "seq": 1867
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-499-504-nanming-island",
-    "plot.fanren-ch499-504-nanming-island"
+    "plot.fanren-ch499-504-nanming-island",
+    "plot.fanren-ch1881-mo-lin-cheng-xia"
   ],
-  "updatedAt": "2026-06-17T06:06:07.730Z"
+  "updatedAt": "2026-06-21T07:45:53.086Z"
 }

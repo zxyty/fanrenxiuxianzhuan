@@ -13,14 +13,15 @@
     "小阶段": "合体中期",
     "身份": "魔族圣祖",
     "外貌": "双目血红、约十六七岁、浑身血腥味的少年",
-    "标志特征": "接体寄生降临、法力不及本体十分之一、可分化三身、驾驭紫色小鼎与七色宝塔"
+    "标志特征": "接体寄生降临、法力不及本体十分之一、可分化三身、驾驭紫色小鼎与七色宝塔",
+    "存殁": "在世"
   },
   "observations": {
     "种族": [
       {
         "value": "魔族",
         "docId": "plot.fanren-1923-blood-saint-descends",
-        "seq": 1909
+        "seq": 1867
       }
     ],
     "小阶段": [
@@ -35,6 +36,11 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "魔族最高战力",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
       }
     ],
     "外貌": [
@@ -61,15 +67,22 @@
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
       }
+    ],
+    "存殁": [
+      {
+        "value": "在世",
+        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+        "seq": 1867
+      }
     ]
   },
-  "firstSeq": 1909,
+  "firstSeq": 1867,
   "attrProvenance": {
     "种族": {
       "asOf": null,
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
-      "seq": 1909
+      "seq": 1867
     },
     "小阶段": {
       "asOf": null,
@@ -95,12 +108,19 @@
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
       "seq": 1909
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-ch1881-mo-lin-cheng-xia"
   ],
-  "updatedAt": "2026-06-17T03:11:34.290Z"
+  "updatedAt": "2026-06-21T07:45:53.088Z"
 }
