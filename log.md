@@ -682,3 +682,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T09:20:35.346Z** `ingest` plot.fanren-1943-1944-fenshou-fengxie-qianji — 第1943-1944章 分手·风邪与牵机大法 · kind=plot asOf=2026-06-21 entities=16 relations=20 src=01927-01932.p2.md
 - **2026-06-21T09:22:58.976Z** `ingest` plot.hanli-1945-1946-mona-yuancha-zhenmosuo — 第1945-1946章 魔女元刹现身 韩立提取混沌之气遭夺宝 · kind=plot asOf=2026-06-21 entities=20 relations=23 src=01927-01932.p3.md
 - **2026-06-21T09:31:13.505Z** `ingest` plot.fanren-ch1933-1938-shidian-yuancha-zhuijie — 凡人修仙传 第1933-1938章｜石殿·大敌联手·拦截 · kind=plot asOf=2026-06-21 entities=27 relations=36 src=01933-01938.md
+- **2026-06-21T09:43:53.459Z** `ingest` plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan — 凡人修仙传 第1939-1944章｜追婴·远遁·黑棺 · kind=plot asOf=2026-06-21 entities=40 relations=52 src=01939-01944.md

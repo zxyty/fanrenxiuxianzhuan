@@ -3,12 +3,18 @@
   "type": "person",
   "name": "六极",
   "aliases": [
-    "六极一二"
+    "六极一二",
+    "六极道友",
+    "六极姐姐"
   ],
   "summary": "魔族高手，曾请元刹亲自出手追查人族图谋，仅被提及。",
   "attributes": {
-    "种族": "魔族",
-    "阵营": "魔族、魔族/圣族、魔族/圣界"
+    "种族": "圣族",
+    "阵营": "魔族、魔族/圣族、魔族/圣界",
+    "性别": "女",
+    "身份": "圣祖、圣祖存在",
+    "标志特征": "绿色小人元神、淡蓝色清澈眼珠",
+    "外貌": "披黑色战甲、覆青面獠牙面甲、露淡蓝色清澈眼珠的苗条甲士"
   },
   "observations": {
     "种族": [
@@ -16,6 +22,11 @@
         "value": "魔族",
         "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "阵营": [
@@ -34,28 +45,93 @@
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
+    ],
+    "身份": [
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "圣祖存在",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "绿色小人元神",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "淡蓝色清澈眼珠",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
+    ],
+    "外貌": [
+      {
+        "value": "披黑色战甲、覆青面獠牙面甲、露淡蓝色清澈眼珠的苗条甲士",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939,
+        "note": "化身肉身"
+      }
     ]
   },
   "firstSeq": 1927,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
-      "seq": 1927
+      "seq": 1939
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
       "dated": false,
       "seq": 1927
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939,
+      "note": "化身肉身"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
-    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T09:31:13.322Z"
+  "updatedAt": "2026-06-21T09:43:53.135Z"
 }

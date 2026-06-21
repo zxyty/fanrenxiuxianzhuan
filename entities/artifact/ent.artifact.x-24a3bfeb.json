@@ -4,14 +4,16 @@
   "name": "乾坤盘",
   "aliases": [
     "巨大玉盘",
-    "圆形玉盘"
+    "圆形玉盘",
+    "巨盘",
+    "乾坤神通"
   ],
   "summary": "毒龙的禁空至宝，百余丈巨大圆形玉盘，可放出无边光幕封路、布禁空法阵困敌，但无法禁制拥有天赋破空之力的凤类灵禽；此次被血光借来围堵韩立。",
   "attributes": {
-    "持有者": "血光圣祖",
-    "能力": "禁空、封路光幕、感应晶壁、封禁地域、化赤红骄阳搜敌",
+    "持有者": "血光",
+    "能力": "禁空、封路光幕、感应晶壁、封禁地域、化赤红骄阳搜敌、收纳魔族、吞噬精血法力",
     "禁制": "禁空（凤类天赋破空除外）",
-    "外形": "百余丈晶莹圆形玉盘、巨大玉盘"
+    "外形": "百余丈晶莹圆形玉盘、巨大玉盘、白色巨盘/玉盘"
   },
   "observations": {
     "持有者": [
@@ -20,6 +22,11 @@
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933,
         "note": "借自毒龙"
+      },
+      {
+        "value": "血光",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "能力": [
@@ -47,6 +54,16 @@
         "value": "化赤红骄阳搜敌",
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933
+      },
+      {
+        "value": "收纳魔族",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "吞噬精血法力",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "禁制": [
@@ -66,6 +83,11 @@
         "value": "巨大玉盘",
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933
+      },
+      {
+        "value": "白色巨盘/玉盘",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ]
   },
@@ -73,10 +95,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
-      "seq": 1933,
-      "note": "借自毒龙"
+      "seq": 1939
     },
     "能力": {
       "asOf": null,
@@ -100,7 +121,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T09:31:13.316Z"
+  "updatedAt": "2026-06-21T09:43:53.148Z"
 }

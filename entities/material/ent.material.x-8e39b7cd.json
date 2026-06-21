@@ -8,8 +8,8 @@
   ],
   "summary": "封存于镇魔锁内的至灵之气，对韩立大有用处；需在黄泉地火借天地阴火吸出，炼化之术极秘。",
   "attributes": {
-    "类型": "至灵之气、天地异气、混沌灵气、天地奇物、天地灵气/混沌之气、灵气至宝、特殊气息/至宝",
-    "用途": "韩立此行所夺目标",
+    "类型": "至灵之气、天地异气、混沌灵气、天地奇物、天地灵气/混沌之气、灵气至宝、特殊气息/至宝、天地至宝之气",
+    "用途": "对韩立修行大有用处、助进阶/二魔脱困所需、韩立此行所夺目标、圣祖所重、对圣祖存在大有益处",
     "稀有度": "极稀(圣界知炼化术者不超过三人)、极稀有、极稀有(炼化术圣界知者不超三人)",
     "产地": "镇魔锁内、黄泉地火、镇魔锁、镇魔锁/魔界"
   },
@@ -49,6 +49,11 @@
         "value": "特殊气息/至宝",
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933
+      },
+      {
+        "value": "天地至宝之气",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "用途": [
@@ -66,6 +71,16 @@
         "value": "韩立此行所夺目标",
         "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
         "seq": 1933
+      },
+      {
+        "value": "圣祖所重",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "对圣祖存在大有益处",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "稀有度": [
@@ -118,9 +133,9 @@
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+      "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
-      "seq": 1933
+      "seq": 1909
     },
     "稀有度": {
       "asOf": null,
@@ -145,7 +160,8 @@
     "plot.fanren-1935-fei-cheng",
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
-    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie"
+    "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T09:31:13.272Z"
+  "updatedAt": "2026-06-21T09:43:53.147Z"
 }

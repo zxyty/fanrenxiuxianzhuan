@@ -3,14 +3,16 @@
   "type": "person",
   "name": "雷云子",
   "aliases": [
-    "雷云子老小子"
+    "雷云子老小子",
+    "雷兄",
+    "雷某"
   ],
   "summary": "鸣族异族人，炼虚中期，传说『五雷之体』，修上古失传雷霆大神通、阵法宗师，独创雷光法阵；与韩立大战后结交交流。",
   "attributes": {
     "种族": "鸣族",
-    "小阶段": "炼虚中期",
-    "身份": "阵法宗师、雷电传送阵法创立者",
-    "标志特征": "五雷之体、身躯可在实体与雷电间转化"
+    "小阶段": "合体初期",
+    "身份": "阵法宗师、雷电传送阵法创立者、一族少主",
+    "标志特征": "五雷之体、身躯可在实体与雷电间转化、红发络腮胡、鹰钩鼻、赤色羽翅"
   },
   "observations": {
     "种族": [
@@ -25,6 +27,11 @@
         "value": "炼虚中期",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "合体初期",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "身份": [
@@ -37,6 +44,11 @@
         "value": "雷电传送阵法创立者",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "一族少主",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "标志特征": [
@@ -49,6 +61,21 @@
         "value": "身躯可在实体与雷电间转化",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "红发络腮胡",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "鹰钩鼻",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "赤色羽翅",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ]
   },
@@ -62,9 +89,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1746-leave-leiming",
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
-      "seq": 1741
+      "seq": 1939
     },
     "身份": {
       "asOf": null,
@@ -82,7 +109,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1746-leave-leiming"
+    "plot.fanren-1746-leave-leiming",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T04:24:30.103Z"
+  "updatedAt": "2026-06-21T09:43:53.196Z"
 }

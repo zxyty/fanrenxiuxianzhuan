@@ -11,7 +11,8 @@
     "等级": "圣阶、圣阶（新晋）",
     "主人": "冥罗",
     "血脉": "邪龙真血",
-    "外形": "黑色长袍黝黑丑陋大汉"
+    "外形": "黑色长袍黝黑丑陋大汉",
+    "种族": "魔族"
   },
   "observations": {
     "等级": [
@@ -47,6 +48,13 @@
         "seq": 1645,
         "note": "化形人身"
       }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
     ]
   },
   "firstSeq": 1645,
@@ -75,12 +83,19 @@
       "dated": false,
       "seq": 1645,
       "note": "化形人身"
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.582Z"
+  "updatedAt": "2026-06-21T09:43:53.201Z"
 }

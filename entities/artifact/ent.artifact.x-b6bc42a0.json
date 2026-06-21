@@ -4,15 +4,17 @@
   "name": "玄天如意刃",
   "aliases": [
     "如意刃",
-    "玄天如意刃残片"
+    "玄天如意刃残片",
+    "玄天残刃残片"
   ],
   "summary": "圣界玄天之宝，圣祖曾以毁之为代价劈塌界面通道；被毁后一分为三由三魔保管，残片无法修补，可持之防身使神通狂涨小半。",
   "attributes": {
     "品阶": "玄天之宝",
-    "来历": "圣界",
+    "来历": "得自魔金山脉合体期魔猿",
     "能力": "曾劈塌界面通道",
     "禁制": "已毁分为三片",
-    "持有者": "圣祖、三魔分持"
+    "持有者": "圣祖、三魔分持、韩立、宝树、黑鳄",
+    "外形": "数寸长金色断刃"
   },
   "observations": {
     "品阶": [
@@ -27,6 +29,11 @@
         "value": "圣界",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "得自魔金山脉合体期魔猿",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "能力": [
@@ -53,6 +60,28 @@
         "value": "三魔分持",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "宝树",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      },
+      {
+        "value": "黑鳄",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
+    ],
+    "外形": [
+      {
+        "value": "数寸长金色断刃",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ]
   },
@@ -66,9 +95,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
-      "seq": 1645
+      "seq": 1939
     },
     "能力": {
       "asOf": null,
@@ -87,12 +116,19 @@
       "docId": "plot.fanren-1649-san-mo",
       "dated": false,
       "seq": 1645
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T02:18:49.553Z"
+  "updatedAt": "2026-06-21T09:43:53.204Z"
 }

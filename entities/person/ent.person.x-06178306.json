@@ -16,12 +16,13 @@
   ],
   "summary": "九曲灵参元神所化的六七岁女童，灵智初开，可入芝仙躯壳代炼灵力，将随韩立入广寒界。",
   "attributes": {
-    "种族": "天地灵物（曲灵参）",
+    "种族": "天地灵物化形",
     "外貌": "头扎小辫女童",
     "性格": "纯真胆怯",
     "性别": "女",
     "身份": "韩立器灵/属下",
-    "标志特征": "背射无数寒刃"
+    "标志特征": "背射无数寒刃",
+    "阵营": "韩立一方"
   },
   "observations": {
     "种族": [
@@ -34,6 +35,11 @@
         "value": "天地灵物（曲灵参）",
         "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
         "seq": 1879
+      },
+      {
+        "value": "天地灵物化形",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
       }
     ],
     "外貌": [
@@ -91,15 +97,22 @@
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
       }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+        "seq": 1939
+      }
     ]
   },
   "firstSeq": 1663,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
       "dated": false,
-      "seq": 1879
+      "seq": 1939
     },
     "外貌": {
       "asOf": null,
@@ -130,6 +143,12 @@
       "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
       "seq": 1717
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "dated": false,
+      "seq": 1939
     }
   },
   "contested": false,
@@ -139,7 +158,8 @@
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
-    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
   ],
-  "updatedAt": "2026-06-21T08:05:00.524Z"
+  "updatedAt": "2026-06-21T09:43:53.091Z"
 }
