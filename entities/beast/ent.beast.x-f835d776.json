@@ -6,13 +6,14 @@
     "合息兽",
     "羊首巨兽",
     "羊首熊身巨兽",
-    "合息"
+    "合息",
+    "羊首熊身擎天巨兽"
   ],
   "summary": "人族一方的合息兽，羊首熊身，可喷飓风化黄云防御；被林鸾以血符催动攻击圣祖，反遭圣祖紫色小鼎困住、七色宝塔收走。",
   "attributes": {
     "种族": "合息兽",
     "外形": "羊首熊身巨兽",
-    "能力": "喷飓风、化黄云防御、黄霞吞噬、黄风撕裂、蝠翼化黑黄云防御、巨掌镇压",
+    "能力": "喷飓风、化黄云防御、黄霞吞噬、黄风撕裂、蝠翼化黑黄云防御、巨掌镇压、可怖法力、驱使怪风",
     "等级": "四大凶兽之一"
   },
   "observations": {
@@ -33,6 +34,11 @@
         "value": "羊首、熊身、蝠翼、碧绿长毛，可达两三千丈",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "羊首熊身、擎天巨大",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "能力": [
@@ -65,6 +71,16 @@
         "value": "巨掌镇压",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "可怖法力",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "驱使怪风",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "等级": [
@@ -106,7 +122,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1911-yitian-war-2"
+    "plot.fanren-1911-yitian-war-2",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-21T08:33:31.973Z"
+  "updatedAt": "2026-06-21T08:47:10.153Z"
 }

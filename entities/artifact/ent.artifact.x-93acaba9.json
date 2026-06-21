@@ -12,7 +12,7 @@
     "外形": "金银符文镶嵌的白色木盒",
     "禁制": "神念化身入内无法脱身；内有多重禁制",
     "能力": "蕴含混沌阴阳二气",
-    "来历": "血光圣祖交付三名尊者"
+    "来历": "血光圣祖宝物"
   },
   "observations": {
     "持有者": [
@@ -24,7 +24,8 @@
       {
         "value": "韩立",
         "docId": "plot.fanren-1923-blood-saint-descends",
-        "seq": 1891
+        "seq": 1891,
+        "note": "夺得"
       }
     ],
     "品阶": [
@@ -71,6 +72,11 @@
         "value": "血光圣祖交付三名尊者",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "血光圣祖宝物",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ]
   },
@@ -108,9 +114,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
       "dated": false,
-      "seq": 1891
+      "seq": 1903
     }
   },
   "contested": false,
@@ -118,7 +124,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-21T08:19:48.766Z"
+  "updatedAt": "2026-06-21T08:47:10.108Z"
 }

@@ -9,11 +9,12 @@
   "summary": "阴阳二刹之一的中年美妇，借禁制隐匿偷袭韩立，断臂后欲遁被风雷翅追杀，连元婴一并焚为灰烬而亡。",
   "attributes": {
     "性别": "女",
-    "阵营": "魔族",
+    "阵营": "魔族、魔族/敌对",
     "身份": "阴阳二刹之一",
-    "外貌": "粉色宫裙、双目似水",
+    "外貌": "粉色宫裙、双目似水、中年美妇、一身粉色宫裙、双目似水",
     "存殁": "死亡",
-    "死因": "被韩立风雷翅银爪洞穿、银焰焚毁元婴"
+    "死因": "被韩立风雷翅银爪洞穿、银焰焚毁元婴、被韩立银色巨鹏巨爪洞穿、银焰焚为灰烬，连元婴未及遁出",
+    "小阶段": "合体期"
   },
   "observations": {
     "性别": [
@@ -27,6 +28,11 @@
       {
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "魔族/敌对",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
       }
     ],
@@ -42,6 +48,11 @@
         "value": "粉色宫裙、双目似水",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "中年美妇、一身粉色宫裙、双目似水",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "存殁": [
@@ -55,6 +66,18 @@
       {
         "value": "被韩立风雷翅银爪洞穿、银焰焚毁元婴",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "被韩立银色巨鹏巨爪洞穿、银焰焚为灰烬，连元婴未及遁出",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
       }
     ]
@@ -96,12 +119,19 @@
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "dated": false,
+      "seq": 1903
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-17T02:59:10.914Z"
+  "updatedAt": "2026-06-21T08:47:10.028Z"
 }

@@ -10,7 +10,9 @@
     "种族": "魔族",
     "身份": "魔族尊者",
     "阵营": "魔族",
-    "称号": "羽仙子"
+    "称号": "羽仙子",
+    "性别": "女",
+    "标志特征": "碧绿巨蛤虚影喷碧绿光霞"
   },
   "observations": {
     "种族": [
@@ -40,6 +42,20 @@
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "碧绿巨蛤虚影喷碧绿光霞",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
+      }
     ]
   },
   "firstSeq": 1897,
@@ -67,13 +83,26 @@
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "dated": false,
+      "seq": 1903
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "dated": false,
+      "seq": 1903
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1911-yitian-war-2"
+    "plot.fanren-1911-yitian-war-2",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-21T08:33:31.896Z"
+  "updatedAt": "2026-06-21T08:47:10.135Z"
 }

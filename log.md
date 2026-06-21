@@ -674,3 +674,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T08:08:00.444Z** `ingest` plot.fanren-1898-1903-yitiancheng-war — 凡人修仙传 第1898-1903章｜驰援倚天城·万象魔骑与九阳罡日绝阵 · kind=plot asOf=2026-06-21 entities=22 relations=27 src=01885-01890.md
 - **2026-06-21T08:19:49.033Z** `ingest` plot.fanren-1891-1896-zhenmosuo-chejigong — 凡人修仙传 第1891-1896章｜倚天城攻防与镇魔锁中的圣祖车骑恭 · kind=plot asOf=2026-06-21 entities=31 relations=28 src=01891-01896.md
 - **2026-06-21T08:33:32.176Z** `ingest` plot.fanren-1911-yitian-war-2 — 第1911章 倚天之战（二）——魔族大军总攻倚天城 · kind=plot asOf=2026-06-21 entities=44 relations=69 src=01897-01902.md
+- **2026-06-21T08:47:10.354Z** `ingest` plot.fanren-1903-1908-yitian-zhizhan-8-10 — 凡人修仙传 第1903-1908章 倚天之战（八～十）：韩立闯七色宝塔、阴阳二刹美妇偷袭授首 · kind=plot asOf=2026-06-21 entities=38 relations=48 src=01903-01908.md

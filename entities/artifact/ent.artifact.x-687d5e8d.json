@@ -9,8 +9,9 @@
   "summary": "血光圣祖借予属下的两具傀儡，有合体初期实力、使透明长刃与七色长枪，无神念无灵智，被韩立击穿后遭噬金虫吞噬殆尽。",
   "attributes": {
     "持有者": "血光圣祖",
-    "外形": "琉璃质常人大小傀儡",
-    "能力": "透明长刃、七色长枪、七色光罩"
+    "外形": "琉璃质常人大小傀儡、晶莹光滑琉璃身躯、四臂",
+    "能力": "透明长刃、七色长枪、七色光罩、抗噬灵天火",
+    "品阶": "合体初期实力"
   },
   "observations": {
     "持有者": [
@@ -24,6 +25,11 @@
       {
         "value": "琉璃质常人大小傀儡",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "晶莹光滑琉璃身躯、四臂",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
       }
     ],
@@ -41,6 +47,18 @@
       {
         "value": "七色光罩",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "抗噬灵天火",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
+      }
+    ],
+    "品阶": [
+      {
+        "value": "合体初期实力",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
       }
     ]
@@ -64,12 +82,19 @@
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "dated": false,
+      "seq": 1903
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-17T02:59:10.943Z"
+  "updatedAt": "2026-06-21T08:47:10.104Z"
 }

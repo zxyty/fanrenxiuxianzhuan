@@ -18,8 +18,8 @@
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
     "持有者": "第二元婴",
-    "能力": "符文护罩防御、魔气冲天、收为元婴/法相穿戴后气势暴涨数倍、极强防御、黑色符文抵御紫电、自行护主、黑濛飓风护盾",
-    "外形": "黑色狰狞战甲，表面浮现黑色符文",
+    "能力": "符文护罩防御、魔气冲天、收为元婴/法相穿戴后气势暴涨数倍、极强防御、黑色符文抵御紫电、自行护主、黑濛飓风护盾、形成护罩",
+    "外形": "黑气化甲、铭满黑色符文",
     "来历": "天外魔头之物，疑大有来历",
     "品阶": "极高",
     "禁制": "存裂痕待修补"
@@ -73,6 +73,11 @@
         "value": "黑濛飓风护盾",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "形成护罩",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "外形": [
@@ -115,6 +120,11 @@
         "value": "黑色狰狞战甲，表面浮现黑色符文",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      },
+      {
+        "value": "黑气化甲、铭满黑色符文",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "来历": [
@@ -187,9 +197,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
       "dated": false,
-      "seq": 1717
+      "seq": 1903
     },
     "来历": {
       "asOf": null,
@@ -228,7 +238,8 @@
     "plot.fanren-1693-1703-xianren-palace-climb",
     "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-21T03:45:34.456Z"
+  "updatedAt": "2026-06-21T08:47:10.044Z"
 }

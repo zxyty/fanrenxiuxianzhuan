@@ -7,12 +7,13 @@
     "七色巨塔",
     "七色小塔",
     "迷你宝塔",
-    "七色光霞"
+    "七色光霞",
+    "七色霞光宝塔"
   ],
   "summary": "须弥宝物外化内现而成的七层巨塔，内为无边须弥空间，逐层有守塔傀儡，节点藏于第七层；塔顶有眼珠状巨大晶球。",
   "attributes": {
-    "外形": "七层灰白巨塔、塔顶晶球、数千丈高七色巨塔、数寸迷你宝塔",
-    "禁制": "七色符文禁制（外部攻击被摄走）",
+    "外形": "七层灰白巨塔、塔顶晶球、数千丈高七色巨塔、数寸迷你宝塔、七色霞光、内现七层灰白巨塔",
+    "禁制": "七色符文禁制（外部攻击被摄走）、无边异空间、不断幻化怪兽、节点暗藏第七层",
     "能力": "化七色光霞收物",
     "持有者": "魔族圣祖"
   },
@@ -32,12 +33,22 @@
         "value": "数寸迷你宝塔",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "七色霞光、内现七层灰白巨塔",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+        "seq": 1903
       }
     ],
     "禁制": [
       {
         "value": "七色符文禁制（外部攻击被摄走）",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "seq": 1903
+      },
+      {
+        "value": "无边异空间、不断幻化怪兽、节点暗藏第七层",
+        "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903
       }
     ],
@@ -92,7 +103,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1903-1908-yitian-zhizhan-8-10"
   ],
-  "updatedAt": "2026-06-17T03:11:34.302Z"
+  "updatedAt": "2026-06-21T08:47:10.081Z"
 }
