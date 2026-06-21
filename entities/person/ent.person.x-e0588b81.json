@@ -1,64 +1,52 @@
 {
-  "id": "ent.person.x-99fea604",
+  "id": "ent.person.x-e0588b81",
   "type": "person",
-  "name": "银光仙子",
+  "name": "许蛟",
   "aliases": [
-    "银光道友",
-    "面具女子"
+    "许蛟道友",
+    "许族长",
+    "白衣男子"
   ],
-  "summary": "人族顶阶存在，与林鸾联手在顶阶争斗中抵御「小女子」与「白袍男子」，节节后退。",
+  "summary": "许家现任族长，化神后期白衣男子，执掌族长之位约千年。",
   "attributes": {
-    "阵营": "人族",
-    "性别": "女",
-    "小阶段": "合体期",
-    "身份": "天渊城长老、原长老会候补长老",
-    "种族": "妖族",
-    "标志特征": "银色面具、声音悦耳"
+    "性别": "男",
+    "小阶段": "化神后期",
+    "身份": "许家族长",
+    "外貌": "三十来岁、满面书卷之气的白衣男子",
+    "出身地": "风元大陆"
   },
   "observations": {
-    "阵营": [
-      {
-        "value": "人族",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
-      }
-    ],
     "性别": [
       {
-        "value": "女",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "value": "男",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
     ],
     "小阶段": [
       {
-        "value": "合体期",
+        "value": "化神后期",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
     ],
     "身份": [
       {
-        "value": "天渊城长老",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "原长老会候补长老",
+        "value": "许家族长",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
     ],
-    "种族": [
+    "外貌": [
       {
-        "value": "妖族",
+        "value": "三十来岁、满面书卷之气的白衣男子",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
     ],
-    "标志特征": [
+    "出身地": [
       {
-        "value": "银色面具、声音悦耳",
+        "value": "风元大陆",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
@@ -66,15 +54,9 @@
   },
   "firstSeq": 1759,
   "attrProvenance": {
-    "阵营": {
-      "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-      "dated": false,
-      "seq": 1903
-    },
     "性别": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
       "seq": 1759
     },
@@ -90,13 +72,13 @@
       "dated": false,
       "seq": 1759
     },
-    "种族": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
       "seq": 1759
     },
-    "标志特征": {
+    "出身地": {
       "asOf": null,
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
@@ -106,9 +88,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T05:04:10.122Z"
+  "updatedAt": "2026-06-21T05:04:10.168Z"
 }

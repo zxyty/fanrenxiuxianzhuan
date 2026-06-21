@@ -10,14 +10,14 @@
   "summary": "二十余岁貌美冷淡女修，飞升修士嫡系后裔，持白色本命冰剑。",
   "attributes": {
     "性别": "女",
-    "身份": "飞升修士嫡系后裔、许家后人/巡逻队员、天渊城巡逻队成员、黑铁卫、黑卫统领、冰魄仙子后人、青冥卫",
-    "外貌": "脸色洁白如玉、星辰般双眼、二十余岁，肌肤洁白如玉近乎透明，双目如星辰",
+    "身份": "飞升修士嫡系后裔、许家后人/巡逻队员、天渊城巡逻队成员、黑铁卫、黑卫统领、冰魄仙子后人、青冥卫、青冥卫外巡逻修士、许家族人",
+    "外貌": "脸色洁白如玉、星辰般双眼、二十余岁，肌肤洁白如玉近乎透明，双目如星辰、面容洁白如玉、身材修长、蓝色宫装",
     "性格": "冷淡",
     "阵营": "人族",
-    "小阶段": "元婴、元婴期、化神中期",
+    "小阶段": "元婴、元婴期、化神中期、化神期",
     "标志特征": "星眸、冰属性功法、星眸（似冰魄仙子）、冰属性极寒功法",
     "种族": "人族",
-    "出身地": "许家"
+    "出身地": "天元境"
   },
   "observations": {
     "性别": [
@@ -62,6 +62,16 @@
         "value": "青冥卫",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "青冥卫外巡逻修士",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      },
+      {
+        "value": "许家族人",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "外貌": [
@@ -74,6 +84,11 @@
         "value": "二十余岁，肌肤洁白如玉近乎透明，双目如星辰",
         "docId": "plot.fanren-1323-xuantian-guoshi",
         "seq": 1321
+      },
+      {
+        "value": "面容洁白如玉、身材修长、蓝色宫装",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "性格": [
@@ -110,6 +125,11 @@
         "value": "化神中期",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "化神期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "标志特征": [
@@ -146,6 +166,11 @@
         "value": "许家",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -201,9 +226,9 @@
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1327
+      "seq": 1759
     }
   },
   "contested": false,
@@ -216,7 +241,8 @@
     "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T04:44:27.044Z"
+  "updatedAt": "2026-06-21T05:04:10.088Z"
 }

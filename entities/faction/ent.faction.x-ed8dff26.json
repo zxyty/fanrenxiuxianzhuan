@@ -11,7 +11,8 @@
     "据点": "天渊城",
     "理念": "镇守蛮荒入口、培育飞升修士",
     "所属界面": "灵界",
-    "阵营": "角蚩族高层"
+    "阵营": "天渊城",
+    "等级": "合体期长老组成"
   },
   "observations": {
     "据点": [
@@ -40,6 +41,18 @@
         "value": "角蚩族高层",
         "docId": "plot.fanren-ch1569-tuizou",
         "seq": 1567
+      },
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "等级": [
+      {
+        "value": "合体期长老组成",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -65,9 +78,15 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch1569-tuizou",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1567
+      "seq": 1759
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
@@ -77,7 +96,8 @@
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-ch1569-tuizou",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T04:44:27.066Z"
+  "updatedAt": "2026-06-21T05:04:10.132Z"
 }

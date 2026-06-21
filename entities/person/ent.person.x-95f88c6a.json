@@ -6,14 +6,18 @@
     "敖啸妖王",
     "敖啸",
     "老狼",
-    "敖啸老狼"
+    "敖啸老狼",
+    "敖啸前辈",
+    "敖啸老祖宗"
   ],
   "summary": "妖族七大妖王之一，玲珑之祖父，修啸月妖功，连元刹圣祖都为之忌惮。",
   "attributes": {
-    "种族": "银月一族（银月狼族）、妖族(银狼)",
-    "身份": "妖族七大妖王之一、七大妖王之一",
-    "称号": "敖啸妖王",
-    "标志特征": "啸月妖功"
+    "种族": "银月一族（银月狼族）、妖族(银狼)、银月狼族",
+    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中",
+    "称号": "两族大乘、定海神针",
+    "标志特征": "啸月妖功",
+    "小阶段": "大乘期",
+    "存殁": "存活"
   },
   "observations": {
     "种族": [
@@ -26,6 +30,11 @@
         "value": "妖族(银狼)",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "银月狼族",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "身份": [
@@ -38,6 +47,12 @@
         "value": "七大妖王之一",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "闭关恢复中",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759,
+        "note": "渡第二十一次大天劫损耗元气"
       }
     ],
     "称号": [
@@ -45,6 +60,11 @@
         "value": "敖啸妖王",
         "docId": "plot.fanren-ch1057-sanbao-lianshou",
         "seq": 1057
+      },
+      {
+        "value": "两族大乘、定海神针",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "标志特征": [
@@ -52,6 +72,20 @@
         "value": "啸月妖功",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -71,22 +105,35 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-ch1057-sanbao-lianshou",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1057
+      "seq": 1759
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1057-three-treasures-joint-attack",
       "dated": false,
       "seq": 1057
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1057-sanbao-lianshou",
-    "plot.fanren-1057-three-treasures-joint-attack"
+    "plot.fanren-1057-three-treasures-joint-attack",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-18T08:17:02.735Z"
+  "updatedAt": "2026-06-21T05:04:10.127Z"
 }

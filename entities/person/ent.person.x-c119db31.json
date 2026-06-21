@@ -1,35 +1,32 @@
 {
-  "id": "ent.person.x-8759d3df",
+  "id": "ent.person.x-c119db31",
   "type": "person",
-  "name": "莫简离",
-  "aliases": [
-    "莫大人",
-    "莫简离大人"
-  ],
-  "summary": "人族威名人物，与圣岛并称，被视为抵御魔族阴谋的依仗。",
+  "name": "许鲁",
+  "aliases": [],
+  "summary": "许家化神中期巨汉，满脸虬须、目如铜铃。",
   "attributes": {
-    "阵营": "人族/圣岛",
-    "小阶段": "大乘期",
-    "称号": "定海神针"
+    "性别": "男",
+    "小阶段": "化神中期",
+    "外貌": "满脸虬须、目如铜铃的高大巨汉"
   },
   "observations": {
-    "阵营": [
+    "性别": [
       {
-        "value": "人族/圣岛",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1921
-      }
-    ],
-    "小阶段": [
-      {
-        "value": "大乘期",
+        "value": "男",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
     ],
-    "称号": [
+    "小阶段": [
       {
-        "value": "定海神针",
+        "value": "化神中期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "外貌": [
+      {
+        "value": "满脸虬须、目如铜铃的高大巨汉",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
       }
@@ -37,11 +34,11 @@
   },
   "firstSeq": 1759,
   "attrProvenance": {
-    "阵营": {
+    "性别": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1921
+      "seq": 1759
     },
     "小阶段": {
       "asOf": null,
@@ -49,7 +46,7 @@
       "dated": false,
       "seq": 1759
     },
-    "称号": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
@@ -59,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T05:04:10.128Z"
+  "updatedAt": "2026-06-21T05:04:10.153Z"
 }

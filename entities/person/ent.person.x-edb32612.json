@@ -10,13 +10,13 @@
   ],
   "summary": "御灵宗元婴初期修士，绿袍鸠面、脸色阴沉，携气息不凡的灵兽袋。",
   "attributes": {
-    "小阶段": "元婴初期、元婴期、元婴",
-    "外貌": "绿袍鸠面",
+    "小阶段": "元婴初期、元婴期、元婴、合体期",
+    "外貌": "银发娇嫩面容、白袍",
     "性格": "阴沉寡言",
     "阵营": "慕兰",
     "性别": "男",
-    "身份": "御灵宗长老",
-    "种族": "慕兰人",
+    "身份": "天渊城长老",
+    "种族": "人族",
     "标志特征": "附灵术与双尾翡翠蛇合体为半人半蛇怪",
     "存殁": "死亡",
     "死因": "被韩立蓝色魔焰冰封后以金弧金网击碎本体、被韩立当作慕兰奸细所杀、附灵后被韩立乾蓝冰焰冻结、辟邪神雷金网灭杀、被韩立当作慕兰奸细诛杀"
@@ -37,6 +37,11 @@
         "value": "元婴",
         "docId": "plot.fanren-727-732-huanglongshan-yingning-ziluojihuo",
         "seq": 727
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "外貌": [
@@ -44,6 +49,11 @@
         "value": "绿袍鸠面",
         "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
         "seq": 721
+      },
+      {
+        "value": "银发娇嫩面容、白袍",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "性格": [
@@ -83,6 +93,11 @@
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733,
         "note": "潜伏卧底"
+      },
+      {
+        "value": "天渊城长老",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "种族": [
@@ -91,6 +106,11 @@
         "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
         "seq": 733,
         "note": "真实出身"
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "标志特征": [
@@ -140,9 +160,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-721-726-dianyi-linghu-zhiyao",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 721
+      "seq": 1759
     },
     "性格": {
       "asOf": null,
@@ -164,17 +184,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 733,
-      "note": "潜伏卧底"
+      "seq": 1759
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch733-738-huanglongshan-gu-shuangpu-spy",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 733,
-      "note": "真实出身"
+      "seq": 1759
     },
     "标志特征": {
       "asOf": null,
@@ -204,7 +222,8 @@
     "plot.fanren-751-756-huayan-leizhu-yunlu-laomo",
     "plot.fanren-721-726-dianyi-linghu-yufu",
     "plot.fanren-ch727-732-huanglong-mountain-ying-ning",
-    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling"
+    "plot.fanren-ch733-738-shuangwei-she-pofang-fuling",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-17T11:54:02.507Z"
+  "updatedAt": "2026-06-21T05:04:10.119Z"
 }

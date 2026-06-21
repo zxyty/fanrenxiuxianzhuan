@@ -6,7 +6,8 @@
   "summary": "混沌谷一侧现身的妖族势力，以妖气化灰白妖雾，疑欲趁火打劫。",
   "attributes": {
     "阵营": "与人族联盟",
-    "聚居地": "风元大陆西北角"
+    "聚居地": "风元大陆西北角",
+    "代表人物": "七大妖王"
   },
   "observations": {
     "阵营": [
@@ -27,6 +28,13 @@
         "docId": "plot.fanren-1353-lingchong-dacheng",
         "seq": 1351
       }
+    ],
+    "代表人物": [
+      {
+        "value": "七大妖王",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
     ]
   },
   "firstSeq": 1297,
@@ -42,6 +50,12 @@
       "docId": "plot.fanren-1353-lingchong-dacheng",
       "dated": false,
       "seq": 1351
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
@@ -51,7 +65,8 @@
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-1353-ling-chong-da-cheng",
     "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
-    "plot.fanren-1353-lingchong-dacheng"
+    "plot.fanren-1353-lingchong-dacheng",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-20T09:51:18.975Z"
+  "updatedAt": "2026-06-21T05:04:10.140Z"
 }

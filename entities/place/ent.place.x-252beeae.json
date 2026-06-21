@@ -6,7 +6,8 @@
   "summary": "天渊城招待高阶修士之处，由十几栋十三层独立阁楼组成，炼虚以上方可入住。",
   "attributes": {
     "所属势力": "天渊城",
-    "类型": "客栈/居所"
+    "类型": "阁楼",
+    "所属界面": "天渊城"
   },
   "observations": {
     "所属势力": [
@@ -21,6 +22,18 @@
         "value": "客栈/居所",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "阁楼",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "天渊城",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -34,15 +47,22 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1753
+      "seq": 1759
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T04:44:27.058Z"
+  "updatedAt": "2026-06-21T05:04:10.133Z"
 }

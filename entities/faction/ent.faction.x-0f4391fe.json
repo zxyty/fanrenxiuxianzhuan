@@ -4,12 +4,16 @@
   "name": "许家",
   "aliases": [
     "许世家族",
-    "许氏家族"
+    "许氏家族",
+    "许家一族"
   ],
   "summary": "人族世家，魔劫前迁入圣皇城；血灵为其供奉，掌握关乎冰魄先祖回归的机密。",
   "attributes": {
     "阵营": "人族",
-    "所属界面": "灵界"
+    "所属界面": "灵界",
+    "据点": "天元境、风元大陆宗庙山峰",
+    "掌门": "许家族长",
+    "镇派之宝": "迷蜃幻境、血魂瓶、血晶棺"
   },
   "observations": {
     "阵营": [
@@ -24,10 +28,51 @@
         "value": "灵界",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "据点": [
+      {
+        "value": "天元境",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      },
+      {
+        "value": "风元大陆宗庙山峰",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "掌门": [
+      {
+        "value": "许家族长",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "迷蜃幻境",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      },
+      {
+        "value": "血魂瓶",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      },
+      {
+        "value": "血晶棺",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
-  "firstSeq": 1921,
+  "firstSeq": 1759,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
@@ -40,12 +85,31 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "据点": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-17T03:26:19.761Z"
+  "updatedAt": "2026-06-21T05:04:10.185Z"
 }

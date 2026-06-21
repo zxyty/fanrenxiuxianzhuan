@@ -3,15 +3,17 @@
   "type": "person",
   "name": "金越禅师",
   "aliases": [
-    "金越道友"
+    "金越道友",
+    "披金色袈裟老僧"
   ],
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
-    "小阶段": "合体中期",
-    "身份": "天渊城长老、飞升修士",
+    "小阶段": "合体期",
+    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员",
     "阵营": "天渊城",
     "出身地": "佛宗",
-    "外貌": "披淡金袈裟、半尺白须、眯眼老僧"
+    "外貌": "身披金色袈裟的老僧",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -24,6 +26,11 @@
         "value": "合体中期",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "身份": [
@@ -36,6 +43,16 @@
         "value": "飞升修士",
         "docId": "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
         "seq": 1345
+      },
+      {
+        "value": "僧修",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      },
+      {
+        "value": "天渊城长老会成员",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "阵营": [
@@ -57,6 +74,18 @@
         "value": "披淡金袈裟、半尺白须、眯眼老僧",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "身披金色袈裟的老僧",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -64,9 +93,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1753
+      "seq": 1759
     },
     "身份": {
       "asOf": null,
@@ -88,9 +117,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1753
+      "seq": 1759
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
@@ -98,7 +133,8 @@
   "docs": [
     "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
     "plot.fanren-1345-1350-baimai-lianbaojue-tianyuancheng-luying",
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T04:44:27.046Z"
+  "updatedAt": "2026-06-21T05:04:10.118Z"
 }

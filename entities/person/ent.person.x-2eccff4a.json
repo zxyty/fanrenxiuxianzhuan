@@ -7,16 +7,18 @@
     "冰魄仙子本体",
     "小极宫创派祖师",
     "冰魄仙子光影",
-    "冰魄道友"
+    "冰魄道友",
+    "冰魄大人"
   ],
   "summary": "昔日修士，小极宫为其留在人界的一脉，已成往事人物。",
   "attributes": {
     "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖、上古修士、上古飞升修士、许家先祖、小极宫创立祖师、虚灵宝鼎主人",
     "称号": "上古修士",
-    "存殁": "失踪",
+    "存殁": "失踪、下落不明、死亡",
     "性别": "女",
     "结局": "飞升前冰封冰渊岛后莫名失踪",
-    "标志特征": "星辰般流彩的眸子"
+    "标志特征": "乾蓝冰焰",
+    "小阶段": "合体期"
   },
   "observations": {
     "身份": [
@@ -84,6 +86,17 @@
         "docId": "plot.fanren-1088-bingpo-hanlie-zhen",
         "seq": 1087,
         "note": "飞升前冰封冰渊岛时莫名失踪"
+      },
+      {
+        "value": "下落不明",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759,
+        "note": "失踪数万年"
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ],
     "性别": [
@@ -110,6 +123,18 @@
         "value": "星辰般流彩的眸子",
         "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
         "seq": 1327
+      },
+      {
+        "value": "乾蓝冰焰",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+        "seq": 1759
       }
     ]
   },
@@ -148,9 +173,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
-      "seq": 1327
+      "seq": 1759
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "dated": false,
+      "seq": 1759
     }
   },
   "contested": false,
@@ -168,7 +199,8 @@
     "plot.fanren-1327-1332-tianyuan-fangshi-taixuandian",
     "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
     "plot.fanren-1746-leave-leiming",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
   ],
-  "updatedAt": "2026-06-21T04:36:13.357Z"
+  "updatedAt": "2026-06-21T05:04:10.171Z"
 }
