@@ -3,14 +3,16 @@
   "type": "artifact",
   "name": "黑纱",
   "aliases": [
-    "纱巾"
+    "纱巾",
+    "黑色轻纱",
+    "神秘黑纱"
   ],
   "summary": "乌罗王族遗宝，注灵力可化半透明覆体隐形，神念难穿，隐形之效仅次于太一化清符。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "覆体隐形、阻隔神念洞穿",
+    "能力": "覆体隐形、阻隔神念洞穿、隐匿身形（透明无形）",
     "外形": "淡黑薄软、有黑色符文",
-    "来历": "夺自乌罗王族"
+    "来历": "得自乌罗人"
   },
   "observations": {
     "持有者": [
@@ -30,6 +32,11 @@
         "value": "阻隔神念洞穿",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "隐匿身形（透明无形）",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ],
     "外形": [
@@ -44,6 +51,11 @@
         "value": "夺自乌罗王族",
         "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
         "seq": 1543
+      },
+      {
+        "value": "得自乌罗人",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ]
   },
@@ -69,15 +81,16 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
-      "seq": 1543
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao"
+    "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-20T14:42:22.865Z"
+  "updatedAt": "2026-06-21T02:57:18.627Z"
 }

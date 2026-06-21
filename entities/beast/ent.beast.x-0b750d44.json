@@ -1,78 +1,75 @@
 {
-  "id": "ent.place.x-e84fe8b7",
-  "type": "place",
-  "name": "暗兽森林",
+  "id": "ent.beast.x-0b750d44",
+  "type": "beast",
+  "name": "王级暗兽",
   "aliases": [
-    "暗兽之森"
+    "金色暗兽",
+    "暗兽之王",
+    "兽王"
   ],
-  "summary": "暗兽一族聚居地，一日三分之二为黑夜，夜晚暗兽实力暴增。",
+  "summary": "暗兽森林最高阶存在，皮毛纯金、双目漆黑，能统率数百暗兽，一撞即重创石昆，疑为圣阶以上；最后惊怒遁走。",
   "attributes": {
-    "所属界面": "灵界",
-    "危险度": "极高",
-    "守护": "暗兽",
-    "类型": "妖兽聚居地"
+    "等级": "王级",
+    "能力": "统率数百暗兽、撞飞肉身强横者",
+    "栖息地": "暗兽森林",
+    "外形": "丈许长、纯金皮毛、双目漆黑"
   },
   "observations": {
-    "所属界面": [
+    "等级": [
       {
-        "value": "广寒界",
-        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
-        "seq": 1669
+        "value": "王级",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      }
+    ],
+    "能力": [
+      {
+        "value": "统率数百暗兽",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       },
       {
-        "value": "灵界",
+        "value": "撞飞肉身强横者",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
       }
     ],
-    "危险度": [
+    "栖息地": [
       {
-        "value": "高",
-        "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
-        "seq": 1669
-      },
-      {
-        "value": "极高",
+        "value": "暗兽森林",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
       }
     ],
-    "守护": [
+    "外形": [
       {
-        "value": "暗兽",
-        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
-        "seq": 1675
-      }
-    ],
-    "类型": [
-      {
-        "value": "妖兽聚居地",
+        "value": "丈许长、纯金皮毛、双目漆黑",
         "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
         "seq": 1675
       }
     ]
   },
-  "firstSeq": 1669,
+  "firstSeq": 1675,
   "attrProvenance": {
-    "所属界面": {
+    "等级": {
       "asOf": null,
       "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
       "seq": 1675
     },
-    "危险度": {
+    "能力": {
       "asOf": null,
       "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
       "seq": 1675
     },
-    "守护": {
+    "栖息地": {
       "asOf": null,
       "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
       "seq": 1675
     },
-    "类型": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
@@ -82,8 +79,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
     "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-21T02:57:18.623Z"
+  "updatedAt": "2026-06-21T02:57:18.614Z"
 }

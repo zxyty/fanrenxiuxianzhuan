@@ -3,14 +3,15 @@
   "type": "artifact",
   "name": "天罡印",
   "aliases": [
-    "银色小印"
+    "银色小印",
+    "银印"
   ],
   "summary": "翁姓青年早年所得异宝，五六寸银印底刻上古文『天罡印』，施展耗法力神念，对圣阶之下大有用处。",
   "attributes": {
     "持有者": "韩立",
     "来历": "翁姓青年早年无意所得后转赐韩立",
-    "能力": "对圣阶之下大有用处",
-    "外形": "五六寸古朴银印、底铭紫色上古文"
+    "能力": "化银光盾防御",
+    "外形": "银灿灿大印"
   },
   "observations": {
     "持有者": [
@@ -32,6 +33,11 @@
         "value": "对圣阶之下大有用处",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "化银光盾防御",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ],
     "外形": [
@@ -39,6 +45,11 @@
         "value": "五六寸古朴银印、底铭紫色上古文",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "银灿灿大印",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ]
   },
@@ -58,21 +69,22 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
-      "seq": 1663
+      "seq": 1675
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
       "dated": false,
-      "seq": 1663
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-21T02:42:39.275Z"
+  "updatedAt": "2026-06-21T02:57:18.625Z"
 }

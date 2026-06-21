@@ -12,11 +12,12 @@
     "种族": "石茧族",
     "小阶段": "炼虚顶阶(上族九阶)",
     "外貌": "肌肤深黄、身材高大",
-    "标志特征": "深黄战甲、肉身强横、肌肤可化黑成石人、拳头膨胀爆出黄光符文、身化灰色骄阳",
+    "标志特征": "深黄战甲、肉身强横、肌肤可化黑成石人、拳头膨胀爆出黄光符文、身化灰色骄阳、肉身强横、土遁术、黄色战甲、赤红大锤、火蛟、红色玉瓶",
     "性别": "男",
     "身份": "后天元磁之身",
     "性格": "好战、斗法狂、爽快",
-    "阵营": "段前辈一方"
+    "阵营": "段前辈一方",
+    "出身地": "云城"
   },
   "observations": {
     "种族": [
@@ -65,6 +66,31 @@
         "value": "身化灰色骄阳",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      },
+      {
+        "value": "肉身强横、土遁术",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      },
+      {
+        "value": "黄色战甲",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      },
+      {
+        "value": "赤红大锤",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      },
+      {
+        "value": "火蛟",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      },
+      {
+        "value": "红色玉瓶",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ],
     "性别": [
@@ -103,6 +129,13 @@
         "value": "段前辈一方",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      }
+    ],
+    "出身地": [
+      {
+        "value": "云城",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ]
   },
@@ -155,13 +188,20 @@
       "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
       "dated": false,
       "seq": 1669
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1667-1672-guanghan-jie-entry",
-    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie"
+    "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-21T02:50:01.424Z"
+  "updatedAt": "2026-06-21T02:57:18.621Z"
 }

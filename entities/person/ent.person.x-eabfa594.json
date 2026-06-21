@@ -4,7 +4,8 @@
   "name": "彩流罂",
   "aliases": [
     "妃緤夫人",
-    "晶族前辈"
+    "晶族前辈",
+    "彩前辈"
   ],
   "summary": "天云圣族美妇，自称法阵禁制造诣在天云排前五；进阶圣族时于广寒界发现隐秘禁制，欲借三名元磁之体者破禁取物以延缓大天劫。",
   "attributes": {
@@ -12,7 +13,8 @@
     "种族": "晶族",
     "身份": "柳水儿之师",
     "性格": "精明、爽快、深沉",
-    "小阶段": "圣阶(合体)"
+    "小阶段": "圣阶(合体)",
+    "称号": "前辈"
   },
   "observations": {
     "性别": [
@@ -59,6 +61,13 @@
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
       }
+    ],
+    "称号": [
+      {
+        "value": "前辈",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      }
     ]
   },
   "firstSeq": 1591,
@@ -92,6 +101,12 @@
       "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
       "dated": false,
       "seq": 1663
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+      "dated": false,
+      "seq": 1675
     }
   },
   "contested": false,
@@ -99,7 +114,8 @@
   "docs": [
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-21T02:42:39.270Z"
+  "updatedAt": "2026-06-21T02:57:18.601Z"
 }

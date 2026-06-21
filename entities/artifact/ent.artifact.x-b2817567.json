@@ -11,13 +11,14 @@
     "白蛇",
     "白蒙蒙白蛇",
     "通灵傀儡娃娃",
-    "散寒气女子傀儡"
+    "散寒气女子傀儡",
+    "白蟒"
   ],
   "summary": "甲天木所赠新型通灵傀儡，上族七阶，可在白蛇/白蟒与白袍女子两形态间变化，需冰属性灵石驱动。",
   "attributes": {
     "品阶": "炼虚初阶神通",
     "持有者": "韩立",
-    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜、玄冰之体/冰属性、可穿越洞府禁制、炼虚初期实力、可执行简单命令",
+    "能力": "白蛇/数丈白蟒与白袍女子双形态变化、对敌或为婢皆宜、玄冰之体/冰属性、可穿越洞府禁制、炼虚初期实力、可执行简单命令、化形（白蟒/白衣女子）、持蓝色玉扇放寒光",
     "禁制": "滴血认主后他人无法操纵",
     "来历": "甲天木亲手炼制",
     "外形": "尺许白蛇，晶莹剔透；或眉目如画白袍女子、白蛇、面无表情的白衣女子、尺许白蛇、英姿貌美女子、面无表情女子、散发寒气",
@@ -68,6 +69,16 @@
         "value": "炼虚初期实力、可执行简单命令",
         "docId": "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
         "seq": 1651
+      },
+      {
+        "value": "化形（白蟒/白衣女子）",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
+      },
+      {
+        "value": "持蓝色玉扇放寒光",
+        "docId": "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
+        "seq": 1675
       }
     ],
     "禁制": [
@@ -173,7 +184,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+    "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian"
   ],
-  "updatedAt": "2026-06-21T02:32:02.937Z"
+  "updatedAt": "2026-06-21T02:57:18.629Z"
 }
