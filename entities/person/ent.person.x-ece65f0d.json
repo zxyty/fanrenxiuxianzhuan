@@ -3,13 +3,16 @@
   "type": "person",
   "name": "翡姓青年",
   "aliases": [
-    "翡前辈"
+    "翡前辈",
+    "翡兄",
+    "翡某"
   ],
   "summary": "大乘期前辈，引涂姓男子入场，圣族众皆以晚辈之礼参拜，出手拦下涂的杀招。",
   "attributes": {
     "小阶段": "大乘期",
     "外貌": "白袍、双足赤裸、二十七八、容貌普通",
-    "身份": "受圣族敬畏的大乘前辈"
+    "身份": "受圣族敬畏的大乘前辈",
+    "阵营": "天云"
   },
   "observations": {
     "小阶段": [
@@ -30,6 +33,13 @@
       {
         "value": "受圣族敬畏的大乘前辈",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
+      }
+    ],
+    "阵营": [
+      {
+        "value": "天云",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
       }
     ]
@@ -53,12 +63,19 @@
       "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
       "dated": false,
       "seq": 1597
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+      "dated": false,
+      "seq": 1597
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1600-1601-renmianjiao-duonu"
+    "plot.fanren-1600-1601-renmianjiao-duonu",
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
   ],
-  "updatedAt": "2026-06-21T00:55:36.817Z"
+  "updatedAt": "2026-06-21T00:57:57.769Z"
 }

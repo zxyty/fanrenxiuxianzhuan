@@ -5,13 +5,14 @@
   "aliases": [
     "紫狐",
     "紫色幼兽",
-    "紫色狐狸"
+    "紫色狐狸",
+    "人面蛟之女"
   ],
   "summary": "继承人面蛟血脉的紫色幼狐，涂姓男子之女，能现银色蛟影法相吸收雷电、尖鸣干扰低修者法力。",
   "attributes": {
-    "血脉": "人面蛟",
-    "外形": "半尺紫色狐狸、鼻耳生淡银鳞片、灵智已开",
-    "能力": "银色蛟影法相护体吸收电光、尖鸣干扰低修为者法力",
+    "血脉": "人面蛟、人面蛟嫡系血亲",
+    "外形": "半尺紫色狐狸、鼻耳生淡银鳞片、灵智已开、紫色小兽、六七岁紫辫女童",
+    "能力": "银色蛟影法相护体吸收电光、尖鸣干扰低修为者法力、感应术",
     "主人": "涂姓男子(其父)"
   },
   "observations": {
@@ -20,12 +21,27 @@
         "value": "人面蛟",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
         "seq": 1597
+      },
+      {
+        "value": "人面蛟嫡系血亲",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+        "seq": 1597
       }
     ],
     "外形": [
       {
         "value": "半尺紫色狐狸、鼻耳生淡银鳞片、灵智已开",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
+      },
+      {
+        "value": "紫色小兽",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
+        "seq": 1597
+      },
+      {
+        "value": "六七岁紫辫女童",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
       }
     ],
@@ -38,6 +54,11 @@
       {
         "value": "尖鸣干扰低修为者法力",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
+      },
+      {
+        "value": "感应术",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
       }
     ],
@@ -79,7 +100,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1600-1601-renmianjiao-duonu"
+    "plot.fanren-1600-1601-renmianjiao-duonu",
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
   ],
-  "updatedAt": "2026-06-21T00:55:36.824Z"
+  "updatedAt": "2026-06-21T00:57:57.776Z"
 }

@@ -12,7 +12,7 @@
   "attributes": {
     "阶序": "中境界第三层",
     "上一境": "度劫期",
-    "下一境": "合体",
+    "下一境": "渡劫、合体、合体期、度劫期",
     "突破关键": "度天劫，防域外天魔",
     "小阶段": "大乘初期、大乘后期"
   },
@@ -50,6 +50,11 @@
       {
         "value": "合体期",
         "docId": "plot.fanren-1600-1601-renmianjiao-duonu",
+        "seq": 1597
+      },
+      {
+        "value": "度劫期",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
       }
     ],
@@ -89,9 +94,9 @@
     },
     "下一境": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
       "dated": false,
-      "seq": 1921
+      "seq": 127
     },
     "突破关键": {
       "asOf": null,
@@ -114,7 +119,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
     "plot.fanren-1516-1517-zhuye-likai",
-    "plot.fanren-1600-1601-renmianjiao-duonu"
+    "plot.fanren-1600-1601-renmianjiao-duonu",
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
   ],
-  "updatedAt": "2026-06-21T00:55:36.827Z"
+  "updatedAt": "2026-06-21T00:57:57.791Z"
 }

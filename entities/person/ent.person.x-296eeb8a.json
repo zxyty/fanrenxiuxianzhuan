@@ -3,14 +3,16 @@
   "type": "person",
   "name": "萧布衣",
   "aliases": [
-    "蓝兄称呼者"
+    "蓝兄称呼者",
+    "萧兄",
+    "萧某"
   ],
   "summary": "沙族修士，合体中期，身负阴沉可怖气息，因沙族在列而主持本届四族拍卖会。",
   "attributes": {
     "性别": "男",
     "种族": "沙族",
     "小阶段": "合体期",
-    "身份": "拍卖会主持人",
+    "身份": "四族拍卖会主持人、拍卖会主持人、拍卖大会主持",
     "外貌": "温文尔雅锦袍白面中年",
     "标志特征": "身负阴沉可怖气息",
     "阵营": "四族"
@@ -51,6 +53,11 @@
       {
         "value": "拍卖会主持人",
         "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+        "seq": 1597
+      },
+      {
+        "value": "拍卖大会主持",
+        "docId": "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
         "seq": 1597
       }
     ],
@@ -98,9 +105,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
+      "docId": "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
       "dated": false,
-      "seq": 1597
+      "seq": 1591
     },
     "外貌": {
       "asOf": null,
@@ -126,7 +133,8 @@
   "docs": [
     "plot.fanren-1591-1596-yunchang-caixianzi-yuanci-zhiti",
     "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
-    "plot.fanren-1600-1601-renmianjiao-duonu"
+    "plot.fanren-1600-1601-renmianjiao-duonu",
+    "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu"
   ],
-  "updatedAt": "2026-06-21T00:55:36.818Z"
+  "updatedAt": "2026-06-21T00:57:57.771Z"
 }
