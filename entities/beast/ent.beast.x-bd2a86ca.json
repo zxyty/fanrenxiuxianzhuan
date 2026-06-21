@@ -5,14 +5,15 @@
   "aliases": [
     "雷电之灵",
     "雷电之兽",
-    "五色雷兽"
+    "五色雷兽",
+    "三色雷兽"
   ],
   "summary": "鸠首青肤、上半人下半鸟、锤锥双臂的雷属性灵兽，由鱼姓店主以真仙界育兽秘术从雷电中催育而成，天下仅此一只。",
   "attributes": {
     "等级": "炼虚级、炼虚级神通",
-    "主人": "鱼老贼",
-    "能力": "白色雷球、蓝色电矢、金色电蛟、雷遁、驱赤白蓝金四色电弧、雷电之力、赤白蓝金四色电弧、五色天雷/赤色雷芒",
-    "外形": "鸠首青肤、上人下鸟、蓝羽翅、一锤一锥双臂、金黄眼珠、银光灵兽，青色绿爪、指尖赤色雷芒、鸠首青肤、上人下鸟、蓝色羽翅、双臂前端一锤一锥、金黄眼珠、银光/迷你绿色雷兽精魂虚影、青色绿爪、双目乌黑",
+    "主人": "鱼店主",
+    "能力": "白色雷球、蓝色电矢、金色电蛟、雷遁、驱赤白蓝金四色电弧、雷电之力、赤白蓝金四色电弧、五色天雷/赤色雷芒、金银蓝三色雷弧、半人半鸟形态",
+    "外形": "鸠首青肤、上人下鸟、蓝羽翅、一锤一锥双臂、金黄眼珠、银光灵兽，青色绿爪、指尖赤色雷芒、鸠首青肤、上人下鸟、蓝色羽翅、双臂前端一锤一锥、金黄眼珠、银光/迷你绿色雷兽精魂虚影、青色绿爪、双目乌黑、半人半鸟",
     "种族": "雷电之灵",
     "天敌": "缚雷焦光大阵"
   },
@@ -41,6 +42,11 @@
         "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
         "seq": 1423,
         "note": "以晶核寄付暂时操控"
+      },
+      {
+        "value": "鱼店主",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "能力": [
@@ -83,6 +89,16 @@
         "value": "五色天雷/赤色雷芒",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "金银蓝三色雷弧",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "半人半鸟形态",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "外形": [
@@ -110,6 +126,11 @@
         "value": "青色绿爪、双目乌黑",
         "docId": "plot.fanren-1425",
         "seq": 1423
+      },
+      {
+        "value": "半人半鸟",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "种族": [
@@ -137,10 +158,9 @@
     },
     "主人": {
       "asOf": null,
-      "docId": "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
       "dated": false,
-      "seq": 1423,
-      "note": "以晶核寄付暂时操控"
+      "seq": 1837
     },
     "能力": {
       "asOf": null,
@@ -173,7 +193,8 @@
     "plot.fanren-1417-1422-kunpeng-sheli-jingzhe-shier-bian",
     "plot.fanren-1423-1428-jiangshou-yinleizhu-jidan",
     "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
-    "plot.fanren-1425"
+    "plot.fanren-1425",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-20T11:37:56.470Z"
+  "updatedAt": "2026-06-21T06:54:07.919Z"
 }

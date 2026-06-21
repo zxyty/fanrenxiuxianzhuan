@@ -4,15 +4,20 @@
   "name": "金峰",
   "aliases": [
     "青甲人",
-    "金老弟"
+    "金老弟",
+    "金统领",
+    "青甲男子",
+    "守卫统领金峰"
   ],
   "summary": "地渊守卫值勤统领，修为深不可测，青甲实为浓厚煞气凝聚（四煞化甲术），三大长老对其极为客气。",
   "attributes": {
     "阵营": "飞灵族地渊守卫",
     "身份": "地渊守卫统领、地渊值勤、地渊守卫首领",
-    "外貌": "青色战甲中年男子、身披灰暗青甲",
+    "外貌": "青色战甲中年男子、身披灰暗青甲、青甲中年男子",
     "标志特征": "煞气凝甲",
-    "种族": "飞灵族"
+    "种族": "飞灵族",
+    "性别": "男",
+    "小阶段": "圣阶大成"
   },
   "observations": {
     "阵营": [
@@ -49,6 +54,11 @@
         "value": "身披灰暗青甲",
         "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
+      },
+      {
+        "value": "青甲中年男子",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "标志特征": [
@@ -63,6 +73,20 @@
         "value": "飞灵族",
         "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
         "seq": 1429
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "圣阶大成",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ]
   },
@@ -97,6 +121,18 @@
       "docId": "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
       "dated": false,
       "seq": 1429
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
     }
   },
   "contested": false,
@@ -104,7 +140,8 @@
   "docs": [
     "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
     "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
-    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian"
+    "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-20T11:43:45.763Z"
+  "updatedAt": "2026-06-21T06:54:07.896Z"
 }

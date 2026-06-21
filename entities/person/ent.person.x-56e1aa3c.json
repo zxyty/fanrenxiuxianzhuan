@@ -7,16 +7,20 @@
     "金长老",
     "金大长老",
     "金悦长老",
-    "金悦少女"
+    "金悦少女",
+    "金仙子",
+    "金前辈"
   ],
   "summary": "天鹏族五大长老中的大长老，精通对人族的了解，欲借韩立风雷翅中的鲲鹏之羽助本族圣子过试炼。",
   "attributes": {
     "性别": "女",
     "种族": "飞灵族",
     "身份": "天鹏族长老",
-    "外貌": "背生金色羽翅的白袍少女",
-    "小阶段": "合体大成",
-    "阵营": "天鹏族"
+    "外貌": "白衣/白袍女子",
+    "小阶段": "合体中期以上、合体期、合体大成、圣阶后期大成、圣阶初期",
+    "阵营": "天鹏族",
+    "称号": "大长老",
+    "标志特征": "金黄色镜子法宝"
   },
   "observations": {
     "性别": [
@@ -75,6 +79,11 @@
         "value": "背生金色羽翅的白袍少女",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "白衣/白袍女子",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "小阶段": [
@@ -92,6 +101,16 @@
         "value": "合体大成",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "圣阶后期大成",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "圣阶初期",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "阵营": [
@@ -99,6 +118,20 @@
         "value": "天鹏族",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      }
+    ],
+    "称号": [
+      {
+        "value": "大长老",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "金黄色镜子法宝",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ]
   },
@@ -124,21 +157,33 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
       "dated": false,
-      "seq": 1831
+      "seq": 1837
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fmxxz-ch1417-1422-kunpeng-sheli-jingzhe-shi-er-bian",
       "dated": false,
-      "seq": 1831
+      "seq": 1417
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
     }
   },
   "contested": false,
@@ -154,7 +199,8 @@
     "plot.fanren-1431-1432-zhuyinzi-jiaojichang",
     "plot.fanren-1433-1434-tianpeng-shitan-diyuan",
     "plot.fanren-1435-1437-sicha-huajia-diyuan-shilian",
-    "plot.fanren-1831-1836-wandu-hunyuan-shen"
+    "plot.fanren-1831-1836-wandu-hunyuan-shen",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-21T06:46:43.116Z"
+  "updatedAt": "2026-06-21T06:54:07.916Z"
 }

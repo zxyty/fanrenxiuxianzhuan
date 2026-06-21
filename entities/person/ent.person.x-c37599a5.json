@@ -3,7 +3,8 @@
   "type": "person",
   "name": "白璧",
   "aliases": [
-    "白璧圣子"
+    "白璧圣子",
+    "白璧圣主"
   ],
   "summary": "天鹏族现存圣子，化神初期，成年后激发鲲鹏真圣血脉，金羽翅；白雷之侄、白凝之侄。",
   "attributes": {
@@ -14,7 +15,8 @@
     "标志特征": "掐诀生淡金色丝芒",
     "性格": "潇洒温和,如沐春风、温和潇洒",
     "外貌": "眉清目亮",
-    "阵营": "天鹏族、韩立一行、飞灵族"
+    "阵营": "天鹏族、韩立一行、飞灵族",
+    "存殁": "存"
   },
   "observations": {
     "性别": [
@@ -142,6 +144,13 @@
         "docId": "plot.fanren-1447-1452-blood-puppets-and-pet-advance",
         "seq": 1447
       }
+    ],
+    "存殁": [
+      {
+        "value": "存",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      }
     ]
   },
   "firstSeq": 1423,
@@ -193,6 +202,12 @@
       "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
       "dated": false,
       "seq": 1429
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
     }
   },
   "contested": false,
@@ -214,7 +229,8 @@
     "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
     "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
     "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
-    "plot.fanren-1831-1836-wandu-hunyuan-shen"
+    "plot.fanren-1831-1836-wandu-hunyuan-shen",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-21T06:46:43.126Z"
+  "updatedAt": "2026-06-21T06:54:07.895Z"
 }

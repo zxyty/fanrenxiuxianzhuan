@@ -22,15 +22,17 @@
     "二层",
     "三层",
     "地渊七层",
-    "地渊六层"
+    "地渊六层",
+    "地缘"
   ],
   "summary": "飞灵族圣子试炼之地，妖物横行，为飞灵族生死大敌，近期不太平。",
   "attributes": {
-    "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高、极高（含妖王级妖物）、高（妖物、妖潮）、极高（第七层妖物凶强）",
+    "危险度": "极高、极高（七层、有妖王级妖物、黑潮）、高、极高（含妖王级妖物）、高（妖物、妖潮）、极高（第七层妖物凶强）、高（妖物厮杀、半封闭）、深层极高",
     "所属界面": "蛮荒世界",
-    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地、地下凶险界域、入口巨渊、地下世界/秘境、秘境入口、地下试炼之地、地下试炼险地、分层试炼秘地、多层地下凶地、灵界险地、幽暗地域",
+    "类型": "试炼之地、凶险秘境/巨渊、地下世界（七层）、地下世界/试炼之地、多层地下险地、地下多层险地、地底秽气界域、地下凶地、地下界域、地下深渊、地底秘境、凶险之地、守卫要地、地下凶险界域、入口巨渊、地下世界/秘境、秘境入口、地下试炼之地、地下试炼险地、分层试炼秘地、多层地下凶地、灵界险地、幽暗地域、多层险地/矿脉所在、多层地下秘境",
     "守护": "飞灵族地渊守卫、飞灵族封锁地渊之门、地渊妖物、飞灵族、飞灵族封锁入口、众多炼虚级及以上妖物",
-    "特产": "冥焰果"
+    "特产": "最深层珍稀矿脉",
+    "所属势力": "飞灵族"
   },
   "observations": {
     "危险度": [
@@ -63,6 +65,16 @@
         "value": "极高（第七层妖物凶强）",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "高（妖物厮杀、半封闭）",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "深层极高",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "所属界面": [
@@ -192,6 +204,16 @@
         "value": "幽暗地域",
         "docId": "plot.fanren-1468-zhai-lei-zhi-shu",
         "seq": 1465
+      },
+      {
+        "value": "多层险地/矿脉所在",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "多层地下秘境",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "守护": [
@@ -231,6 +253,18 @@
         "value": "冥焰果",
         "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
         "seq": 1429
+      },
+      {
+        "value": "最深层珍稀矿脉",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      }
+    ],
+    "所属势力": [
+      {
+        "value": "飞灵族",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ]
   },
@@ -262,9 +296,15 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1429-1434-zhuyinzi-jiaojichang-shitan",
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
       "dated": false,
-      "seq": 1429
+      "seq": 1837
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
     }
   },
   "contested": false,
@@ -294,7 +334,8 @@
     "plot.fanren-1463-muqing-dong",
     "plot.fanren-1468-zhai-lei-zhi-shu",
     "plot.fanren-1474-jingkongmo",
-    "plot.fanren-1831-1836-wandu-hunyuan-shen"
+    "plot.fanren-1831-1836-wandu-hunyuan-shen",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-21T06:46:43.144Z"
+  "updatedAt": "2026-06-21T06:54:07.922Z"
 }

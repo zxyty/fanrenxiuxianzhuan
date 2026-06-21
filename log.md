@@ -661,3 +661,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T06:25:53.316Z** `ingest` plot.fanren-1830-1831-zhenling-dadian-qiecuo — 第1830-1831章 真灵大典切磋：韩立战陇家老祖、劳家挑战 · kind=plot asOf=2026-06-21 entities=23 relations=30 src=01819-01824.p3.md
 - **2026-06-21T06:38:29.399Z** `ingest` plot.fanren-1825-1830-jinshen-yeyi-xilingchi — 凡人修仙传 第1825-1830章｜金身逞威·夜议深入魔界取洗灵池净灵莲 · kind=plot asOf=2026-06-21 entities=52 relations=62 src=01825-01830.md
 - **2026-06-21T06:46:43.316Z** `ingest` plot.fanren-1831-1836-wandu-hunyuan-shen — 凡人修仙传 第1831-1836章｜山腹小世界·万毒混元身·新变异噬金虫 · kind=plot asOf=2026-06-21 entities=41 relations=51 src=01831-01836.md
+- **2026-06-21T06:54:08.091Z** `ingest` plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan — 第1837-1842章 半部法决换路·再回地渊 · kind=plot asOf=2026-06-21 entities=25 relations=31 src=01837-01842.md

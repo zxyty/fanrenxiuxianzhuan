@@ -11,17 +11,22 @@
     "雷兰小姐",
     "银杉少女",
     "雷兰圣子",
-    "法雷兰"
+    "法雷兰",
+    "雷兰圣主",
+    "兰圣主",
+    "雷圣主",
+    "天鹏族圣女"
   ],
   "summary": "天鹏族圣子，银衫白翅、面白如玉目如秋水，因参悟法决来迟。",
   "attributes": {
     "性别": "女",
     "种族": "飞灵人",
-    "身份": "天鹏族圣子、圣子、飞灵族圣子、天鹏族圣子/同行者、天鹏族圣主",
-    "标志特征": "白色羽翅、遁光化金光、银翅弹跳银弧、白翅、银衫、驭雷为丝、如雷电之灵、金葫芦项链放紫色电丝、施银翅银弧雷系神通、银弧防护、金色葫芦放紫色电丝",
-    "外貌": "面白如玉,目如秋水、身材修长、银色羽翅、俏脸黛眉、身材修长、一对银色羽翅、美目",
+    "身份": "天鹏族圣子、圣子、飞灵族圣子、天鹏族圣子/同行者、天鹏族圣主、天鹏族圣女",
+    "标志特征": "白色羽翅、遁光化金光、银翅弹跳银弧、白翅、银衫、驭雷为丝、如雷电之灵、金葫芦项链放紫色电丝、施银翅银弧雷系神通、银弧防护、金色葫芦放紫色电丝、需借冰煞之气修炼某秘术、背生羽翅、银色电弧雷网",
+    "外貌": "面白如玉,目如秋水、身材修长、银色羽翅、俏脸黛眉、身材修长、一对银色羽翅、美目、银衫、目如秋水、周身隐有雷弧",
     "阵营": "天鹏族、韩立一行、飞灵族",
-    "小阶段": "灵将"
+    "小阶段": "灵将",
+    "称号": "雷圣主、雷兰圣主"
   },
   "observations": {
     "性别": [
@@ -73,6 +78,11 @@
         "value": "天鹏族圣主",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "天鹏族圣女",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "标志特征": [
@@ -120,6 +130,16 @@
         "value": "金色葫芦放紫色电丝",
         "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
+      },
+      {
+        "value": "需借冰煞之气修炼某秘术",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "背生羽翅、银色电弧雷网",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "外貌": [
@@ -147,6 +167,11 @@
         "value": "美目",
         "docId": "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
         "seq": 1447
+      },
+      {
+        "value": "银衫、目如秋水、周身隐有雷弧",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ],
     "阵营": [
@@ -176,6 +201,18 @@
         "value": "灵将",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      }
+    ],
+    "称号": [
+      {
+        "value": "雷圣主",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
+      },
+      {
+        "value": "雷兰圣主",
+        "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+        "seq": 1837
       }
     ]
   },
@@ -222,6 +259,12 @@
       "docId": "plot.fanren-1457-taodun-didi-escape",
       "dated": false,
       "seq": 1453
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "dated": false,
+      "seq": 1837
     }
   },
   "contested": false,
@@ -243,7 +286,8 @@
     "plot.fanren-1441-1446-dingyuan-trial-huangfeng-bingsha",
     "plot.fanren-1447-1452-blood-puppet-piaolin-beast-advance",
     "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
-    "plot.fanren-1831-1836-wandu-hunyuan-shen"
+    "plot.fanren-1831-1836-wandu-hunyuan-shen",
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
   ],
-  "updatedAt": "2026-06-21T06:46:43.129Z"
+  "updatedAt": "2026-06-21T06:54:07.917Z"
 }
