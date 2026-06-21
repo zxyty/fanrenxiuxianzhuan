@@ -3,13 +3,16 @@
   "type": "item",
   "name": "圣砖",
   "aliases": [
-    "泣灵圣砖"
+    "泣灵圣砖",
+    "长方晶砖",
+    "第四块圣砖"
   ],
   "summary": "白濛濛砖状物，记载二百万年前泣灵圣祖数种功法，拍卖压轴重宝，底价三千万魔石。",
   "attributes": {
-    "类型": "功法载体",
-    "用途": "记载泣灵圣祖功法",
-    "品阶": "圣物（残缺）"
+    "类型": "秘藏钥匙/晶砖",
+    "用途": "四块凑齐解锁泣灵圣祖神通与泣灵秘图",
+    "品阶": "圣物（残缺）",
+    "产地": "泣灵圣祖坐化之地"
   },
   "observations": {
     "类型": [
@@ -17,6 +20,11 @@
         "value": "功法载体",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "秘藏钥匙/晶砖",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
       }
     ],
     "用途": [
@@ -24,6 +32,11 @@
         "value": "记载泣灵圣祖功法",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "四块凑齐解锁泣灵圣祖神通与泣灵秘图",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
       }
     ],
     "品阶": [
@@ -37,25 +50,38 @@
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
         "seq": 2017
       }
+    ],
+    "产地": [
+      {
+        "value": "泣灵圣祖坐化之地",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
     ]
   },
   "firstSeq": 2011,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
-      "seq": 2011
+      "seq": 2017
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
-      "seq": 2011
+      "seq": 2017
     },
     "品阶": {
       "asOf": null,
       "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+      "dated": false,
+      "seq": 2017
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
       "seq": 2017
     }
@@ -64,7 +90,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
-    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu"
+    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
   ],
-  "updatedAt": "2026-06-21T11:21:54.876Z"
+  "updatedAt": "2026-06-21T11:26:23.678Z"
 }

@@ -5,15 +5,23 @@
   "aliases": [
     "炳前辈",
     "城主大人",
-    "银目老者"
+    "银目老者",
+    "炳兄",
+    "炳某",
+    "灰袍银目老者",
+    "姓炳老者"
   ],
   "summary": "血鸦城之主，中阶魔尊，银目鹰钩鼻、灰袍散发血气；竞拍圣砖至九千九百万后退出。",
   "attributes": {
     "种族": "魔族",
-    "小阶段": "中阶魔尊",
+    "小阶段": "中阶魔尊、合体中期",
     "称号": "血鸦城主、城主大人",
-    "身份": "血鸦城城主",
-    "外貌": "银目、鹰钩鼻、灰袍、散发血气"
+    "身份": "血鸦城城主、血鸦城主",
+    "外貌": "银目、鹰钩鼻、灰袍、散发血气、灰袍银目老者",
+    "性别": "男",
+    "阵营": "魔界",
+    "标志特征": "姓炳、拥有身外化身（第二化身，合体初期）、顶阶护身魔器血玉牌",
+    "结局": "被韩立以辟邪神雷灭其化身、吞其七杀血煞与黑骨魔虫后击落擒杀"
   },
   "observations": {
     "种族": [
@@ -27,6 +35,11 @@
       {
         "value": "中阶魔尊",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+        "seq": 2017
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
       }
     ],
@@ -47,12 +60,60 @@
         "value": "血鸦城城主",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
         "seq": 2017
+      },
+      {
+        "value": "血鸦城主",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
       }
     ],
     "外貌": [
       {
         "value": "银目、鹰钩鼻、灰袍、散发血气",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+        "seq": 2017
+      },
+      {
+        "value": "灰袍银目老者",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "姓炳",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      },
+      {
+        "value": "拥有身外化身（第二化身，合体初期）",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      },
+      {
+        "value": "顶阶护身魔器血玉牌",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "结局": [
+      {
+        "value": "被韩立以辟邪神雷灭其化身、吞其七杀血煞与黑骨魔虫后击落擒杀",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
       }
     ]
@@ -88,12 +149,37 @@
       "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
       "dated": false,
       "seq": 2017
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu"
+    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
   ],
-  "updatedAt": "2026-06-21T11:21:54.862Z"
+  "updatedAt": "2026-06-21T11:26:23.663Z"
 }

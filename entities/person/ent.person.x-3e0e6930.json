@@ -2,12 +2,14 @@
   "id": "ent.person.x-3e0e6930",
   "type": "person",
   "name": "泣灵圣祖",
-  "aliases": [],
+  "aliases": [
+    "泣灵圣祖坐化之地主人"
+  ],
   "summary": "二百万年前魔界圣祖，传仅次于三大始祖，其遗留圣砖记载数种功法现于血鸦城拍卖。",
   "attributes": {
     "身份": "魔界圣祖",
     "存殁": "死亡",
-    "称号": "仅次于三大始祖"
+    "称号": "圣祖"
   },
   "observations": {
     "身份": [
@@ -29,6 +31,11 @@
         "value": "仅次于三大始祖",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
       }
     ]
   },
@@ -48,15 +55,16 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
-      "seq": 2011
+      "seq": 2017
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2025-2030-blood-crow-city-yimojin"
+    "plot.fanren-2025-2030-blood-crow-city-yimojin",
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
   ],
-  "updatedAt": "2026-06-21T11:20:00.685Z"
+  "updatedAt": "2026-06-21T11:26:23.672Z"
 }

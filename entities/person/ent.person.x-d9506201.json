@@ -2,13 +2,18 @@
   "id": "ent.person.x-d9506201",
   "type": "person",
   "name": "羊老二",
-  "aliases": [],
+  "aliases": [
+    "羊某",
+    "面目普通中年男子"
+  ],
   "summary": "血鸦城小有名气的炼器师，炼虚初期，居住百余年一向低调，却以九千九百万魔石拍下圣砖，举动诡异。",
   "attributes": {
     "种族": "魔族",
-    "小阶段": "炼虚初期",
-    "身份": "炼器师",
-    "外貌": "容貌普通、淡蓝色长袍"
+    "小阶段": "炼虚初期、合体中期",
+    "身份": "炼器师、散修",
+    "外貌": "容貌普通、淡蓝色长袍、蓝袍、面目普通的中年人",
+    "性别": "男",
+    "出身地": "雷海"
   },
   "observations": {
     "种族": [
@@ -23,6 +28,12 @@
         "value": "炼虚初期",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
         "seq": 2017
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017,
+        "note": "初现时伪装成炼虚"
       }
     ],
     "身份": [
@@ -30,12 +41,37 @@
         "value": "炼器师",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
         "seq": 2017
+      },
+      {
+        "value": "散修",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017,
+        "note": "自称"
       }
     ],
     "外貌": [
       {
         "value": "容貌普通、淡蓝色长袍",
         "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+        "seq": 2017
+      },
+      {
+        "value": "蓝袍、面目普通的中年人",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+        "seq": 2017
+      }
+    ],
+    "出身地": [
+      {
+        "value": "雷海",
+        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
         "seq": 2017
       }
     ]
@@ -65,12 +101,25 @@
       "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
       "dated": false,
       "seq": 2017
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "dated": false,
+      "seq": 2017
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu"
+    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city"
   ],
-  "updatedAt": "2026-06-21T11:21:54.869Z"
+  "updatedAt": "2026-06-21T11:26:23.667Z"
 }
