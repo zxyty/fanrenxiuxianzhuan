@@ -11,7 +11,7 @@
   "attributes": {
     "性别": "男",
     "小阶段": "化神",
-    "身份": "许家族长",
+    "身份": "许家家主",
     "外貌": "三十来岁、满面书卷之气的白衣男子",
     "出身地": "风元大陆",
     "称号": "第一百七十三代玄孙"
@@ -41,6 +41,11 @@
         "value": "许家族长",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "许家家主",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ],
     "外貌": [
@@ -81,9 +86,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
       "dated": false,
-      "seq": 1759
+      "seq": 2185
     },
     "外貌": {
       "asOf": null,
@@ -108,7 +113,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu"
   ],
-  "updatedAt": "2026-06-21T05:11:37.989Z"
+  "updatedAt": "2026-06-21T15:33:17.525Z"
 }

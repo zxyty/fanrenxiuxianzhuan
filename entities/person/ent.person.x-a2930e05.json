@@ -3,13 +3,16 @@
   "type": "person",
   "name": "李蓉",
   "aliases": [
-    "蓉仙子"
+    "蓉仙子",
+    "李仙子"
   ],
   "summary": "圣岛使者，合体中期却晶光透肤、功法不凡，三千年前曾称深入蛮荒失踪。",
   "attributes": {
     "小阶段": "合体中期",
     "身份": "圣岛使者",
-    "外貌": "绝色，肌肤透晶光"
+    "外貌": "绝色，肌肤透晶光",
+    "阵营": "人族/天渊城方、圣岛",
+    "性别": "女"
   },
   "observations": {
     "小阶段": [
@@ -32,6 +35,25 @@
         "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
         "seq": 2179
       }
+    ],
+    "阵营": [
+      {
+        "value": "人族/天渊城方",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "圣岛",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      }
     ]
   },
   "firstSeq": 2179,
@@ -53,12 +75,25 @@
       "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
       "dated": false,
       "seq": 2179
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "dated": false,
+      "seq": 2185
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "dated": false,
+      "seq": 2185
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity"
+    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu"
   ],
-  "updatedAt": "2026-06-21T15:25:01.485Z"
+  "updatedAt": "2026-06-21T15:33:17.574Z"
 }

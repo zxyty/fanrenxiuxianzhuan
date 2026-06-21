@@ -9,18 +9,22 @@
     "冰魄仙子光影",
     "冰魄道友",
     "冰魄大人",
-    "冰魄"
+    "冰魄",
+    "血魂",
+    "血魄",
+    "冰魄先祖血魂化身",
+    "血魂道友"
   ],
   "summary": "昔日修士，小极宫为其留在人界的一脉，已成往事人物。",
   "attributes": {
-    "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖、上古修士、上古飞升修士、许家先祖、小极宫创立祖师、虚灵宝鼎主人、许家先祖（血魂化身）",
+    "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖、上古修士、上古飞升修士、许家先祖、小极宫创立祖师、虚灵宝鼎主人、许家先祖（血魂化身）、许家先祖血魂分身",
     "称号": "上古修士",
-    "存殁": "失踪、下落不明、死亡、死亡（第1759章）、本尊死亡/失踪",
+    "存殁": "失踪、下落不明、死亡、死亡（第1759章）、本尊死亡/失踪、存（被救醒，脸色苍白）",
     "性别": "女",
     "结局": "飞升前冰封冰渊岛后莫名失踪",
-    "标志特征": "乾蓝冰焰",
-    "小阶段": "炼虚初期",
-    "外貌": "美丽绝伦女子、赤红宫装、血色瞳孔、宫装女子，瞳孔初为血红后复漆黑"
+    "标志特征": "持镇海钟克制冰海一族、星辰般流彩的眸子、乾蓝冰焰、身近半虚半实、身躯特殊、本体冰魄、血魂本体",
+    "小阶段": "炼虚",
+    "外貌": "美丽绝伦女子、赤红宫装、血色瞳孔、宫装女子，瞳孔初为血红后复漆黑、白衣女子"
   },
   "observations": {
     "身份": [
@@ -73,6 +77,11 @@
         "value": "许家先祖（血魂化身）",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "许家先祖血魂分身",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ],
     "称号": [
@@ -116,6 +125,11 @@
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765,
         "note": "据世界状态须知第1759章；本片段出场者为血魂化身血灵"
+      },
+      {
+        "value": "存（被救醒，脸色苍白）",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ],
     "性别": [
@@ -147,6 +161,21 @@
         "value": "乾蓝冰焰",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "身近半虚半实",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "身躯特殊、本体冰魄",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "血魂本体",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ],
     "小阶段": [
@@ -160,6 +189,11 @@
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765,
         "note": "血魂化身，非本尊修为"
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ],
     "外貌": [
@@ -173,6 +207,11 @@
         "value": "宫装女子，瞳孔初为血红后复漆黑",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "白衣女子",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ]
   },
@@ -211,16 +250,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1087-1092-xuanyu-cave-binghan-formation",
       "dated": false,
-      "seq": 1759
+      "seq": 1087
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
       "dated": false,
-      "seq": 1765,
-      "note": "血魂化身，非本尊修为"
+      "seq": 2185
     },
     "外貌": {
       "asOf": null,
@@ -249,7 +287,8 @@
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-2174-2178-hanli-mahayana-tribulation"
+    "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu"
   ],
-  "updatedAt": "2026-06-21T14:49:40.676Z"
+  "updatedAt": "2026-06-21T15:33:17.571Z"
 }

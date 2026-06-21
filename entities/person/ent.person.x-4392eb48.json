@@ -5,13 +5,16 @@
   "aliases": [
     "黑枭",
     "枭王",
-    "黑枭道友"
+    "黑枭道友",
+    "夜叉族大乘"
   ],
   "summary": "夜叉族大乘修士，数千年前诈死，强闯韩立庆典索人挑衅。",
   "attributes": {
     "种族": "夜叉族",
     "小阶段": "大乘",
-    "标志特征": "黑甲彪悍巨汉、化数百丈巨人"
+    "标志特征": "黑甲彪悍巨汉、化数百丈巨人、七色玉扇、黑色巨砖、七七四十九种材料黑色战甲",
+    "阵营": "夜叉族",
+    "存殁": "重伤逃走、重伤逃脱"
   },
   "observations": {
     "种族": [
@@ -33,6 +36,40 @@
         "value": "黑甲彪悍巨汉、化数百丈巨人",
         "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
         "seq": 2179
+      },
+      {
+        "value": "七色玉扇",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "黑色巨砖",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "七七四十九种材料黑色战甲",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      }
+    ],
+    "阵营": [
+      {
+        "value": "夜叉族",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      }
+    ],
+    "存殁": [
+      {
+        "value": "重伤逃走",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
+      },
+      {
+        "value": "重伤逃脱",
+        "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+        "seq": 2185
       }
     ]
   },
@@ -55,12 +92,25 @@
       "docId": "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
       "dated": false,
       "seq": 2179
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "dated": false,
+      "seq": 2185
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
+      "dated": false,
+      "seq": 2185
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity"
+    "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
+    "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu"
   ],
-  "updatedAt": "2026-06-21T15:25:01.484Z"
+  "updatedAt": "2026-06-21T15:33:17.577Z"
 }
