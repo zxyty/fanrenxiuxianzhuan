@@ -4,16 +4,20 @@
   "name": "止水",
   "aliases": [
     "脸色苍白青年",
-    "止水道友"
+    "止水道友",
+    "灵族青年",
+    "灵躯青年"
   ],
   "summary": "灵族器灵族长老，新近进阶合体初期，脸色苍白、四周飘蓝雾，擅破碎虚空秘术。",
   "attributes": {
     "种族": "灵族/圣灵",
     "小阶段": "合体初期",
     "身份": "器灵族圣灵",
-    "外貌": "脸色苍白",
-    "标志特征": "原本越来越重的阴寒煞气，此次荡然无存",
-    "阵营": "灵族"
+    "外貌": "面色苍白青年",
+    "标志特征": "银色战甲、化飓风嗜血冲杀、气息阴寒、神念扫之如泥牛入海、原本越来越重的阴寒煞气，此次荡然无存、掌心金色符文，与金蟹符文相呼应、手臂金色符文、银色灵纹",
+    "阵营": "灵族",
+    "性别": "男",
+    "性格": "木然"
   },
   "observations": {
     "种族": [
@@ -67,6 +71,11 @@
         "value": "脸色苍白",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "面色苍白青年",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "标志特征": [
@@ -85,6 +94,21 @@
         "value": "原本越来越重的阴寒煞气，此次荡然无存",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
+      },
+      {
+        "value": "掌心金色符文，与金蟹符文相呼应",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      },
+      {
+        "value": "手臂金色符文",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      },
+      {
+        "value": "银色灵纹",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "阵营": [
@@ -92,6 +116,20 @@
         "value": "灵族",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      }
+    ],
+    "性格": [
+      {
+        "value": "木然",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ]
   },
@@ -117,21 +155,33 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 2047
+      "seq": 2065
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 2059
+      "seq": 2005
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
       "seq": 2059
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "dated": false,
+      "seq": 2065
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "dated": false,
+      "seq": 2065
     }
   },
   "contested": false,
@@ -141,7 +191,8 @@
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-2070-erjin-huanxiao",
-    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+    "plot.fanren-2065-2070-leihai-huangjin-xie"
   ],
-  "updatedAt": "2026-06-21T12:57:40.857Z"
+  "updatedAt": "2026-06-21T13:05:49.773Z"
 }

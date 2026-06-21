@@ -1,57 +1,57 @@
 {
-  "id": "ent.place.x-6c1c2ff0",
+  "id": "ent.place.x-ec2e712d",
   "type": "place",
-  "name": "雷海",
+  "name": "灵岛",
   "aliases": [
-    "雷海海域",
-    "雷电之海"
+    "翠绿巨岛",
+    "灵气晶化之岛"
   ],
-  "summary": "羊老二出身之地，雷海七煞所在。",
+  "summary": "魔界海域中翠绿巨岛，灵气精纯远胜灵界顶阶灵脉，禁制内灵气晶化为五色光点，藏洗灵池与净灵莲。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "雷电海域、雷海",
-    "危险度": "高、极高"
+    "类型": "灵气晶化灵岛",
+    "特产": "洗灵池、净灵莲、灵气晶粒"
   },
   "observations": {
     "所属界面": [
       {
         "value": "魔界",
-        "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
-        "seq": 2017
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "类型": [
       {
-        "value": "雷电海域",
-        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
-        "seq": 2065
-      },
-      {
-        "value": "雷海",
+        "value": "灵气晶化灵岛",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
       }
     ],
-    "危险度": [
+    "特产": [
       {
-        "value": "高",
+        "value": "洗灵池",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
       },
       {
-        "value": "极高",
+        "value": "净灵莲",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      },
+      {
+        "value": "灵气晶粒",
         "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
         "seq": 2065
       }
     ]
   },
-  "firstSeq": 2017,
+  "firstSeq": 2065,
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 2017
+      "seq": 2065
     },
     "类型": {
       "asOf": null,
@@ -59,7 +59,7 @@
       "dated": false,
       "seq": 2065
     },
-    "危险度": {
+    "特产": {
       "asOf": null,
       "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
@@ -69,7 +69,6 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
     "plot.fanren-2065-2070-leihai-huangjin-xie"
   ],
   "updatedAt": "2026-06-21T13:05:49.783Z"

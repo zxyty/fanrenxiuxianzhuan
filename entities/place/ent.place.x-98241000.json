@@ -9,7 +9,7 @@
   "summary": "魔界最东端的广阔海域，深海有魔尊乃至圣祖级化形海兽；洗灵池、净灵莲所在岛屿在此。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "海域/魔族圣地",
+    "类型": "海洋",
     "危险度": "极高（混乱之气、密集雷电）"
   },
   "observations": {
@@ -30,6 +30,11 @@
         "value": "海域/魔族圣地",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
+      },
+      {
+        "value": "海洋",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "危险度": [
@@ -55,9 +60,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 2059
+      "seq": 2065
     },
     "危险度": {
       "asOf": null,
@@ -71,7 +76,8 @@
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2070-erjin-huanxiao",
-    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+    "plot.fanren-2065-2070-leihai-huangjin-xie"
   ],
-  "updatedAt": "2026-06-21T12:57:40.871Z"
+  "updatedAt": "2026-06-21T13:05:49.759Z"
 }

@@ -10,11 +10,11 @@
   "attributes": {
     "性别": "女",
     "称号": "名震魔界",
-    "外貌": "白衣裙、姿容举世无双",
+    "外貌": "白衣/银瞳",
     "阵营": "魔族、中立/独行",
-    "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光",
+    "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光、镜面卜算之术",
     "种族": "圣族",
-    "身份": "圣界三大始祖之一、占卜师"
+    "身份": "重返圣界的强者"
   },
   "observations": {
     "性别": [
@@ -46,6 +46,11 @@
         "value": "白衣裙、姿容举世无双",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      },
+      {
+        "value": "白衣/银瞳",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "阵营": [
@@ -75,6 +80,11 @@
         "value": "迷魂眸光",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      },
+      {
+        "value": "镜面卜算之术",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "种族": [
@@ -89,6 +99,11 @@
         "value": "圣界三大始祖之一、占卜师",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "重返圣界的强者",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ]
   },
@@ -108,9 +123,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 2047
+      "seq": 2065
     },
     "阵营": {
       "asOf": null,
@@ -132,9 +147,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 1945
+      "seq": 2065
     }
   },
   "contested": false,
@@ -142,7 +157,8 @@
   "docs": [
     "plot.fanren-1649-san-mo",
     "plot.fanren-1958-huanri-shentong-baoshu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2065-2070-leihai-huangjin-xie"
   ],
-  "updatedAt": "2026-06-21T12:12:04.584Z"
+  "updatedAt": "2026-06-21T13:05:49.776Z"
 }

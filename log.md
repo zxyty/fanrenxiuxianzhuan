@@ -709,3 +709,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T12:24:42.526Z** `ingest` plot.fanren-2070-erjin-huanxiao — 第2070章 二进幻啸：宝花圣祖审魂得知洗灵池净灵莲，韩立一行二进幻啸沙漠 · kind=plot asOf=2026-06-21 entities=47 relations=63 src=02053-02058.md
 - **2026-06-21T12:45:17.411Z** `ingest` plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late — 凡人修仙传 1983-1988｜青龙陨落与韩立晋阶合体后期 · kind=plot asOf=2026-06-21 entities=17 relations=16 src=01969-01974.md
 - **2026-06-21T12:57:41.032Z** `ingest` plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai — 凡人修仙传 第2059-2064章｜铁沙岭·熏香寨：图谋青鸾真血强闯青翼族 · kind=plot asOf=2026-06-21 entities=36 relations=44 src=02059-02064.md
+- **2026-06-21T13:05:49.933Z** `ingest` plot.fanren-2065-2070-leihai-huangjin-xie — 凡人修仙传 第2065-2070章｜雷海·黄金蟹·三大始祖 · kind=plot asOf=2026-06-21 entities=44 relations=47 src=02065-02070.md

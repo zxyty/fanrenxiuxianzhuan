@@ -5,16 +5,19 @@
   "aliases": [
     "白光中神灵",
     "白戚道友",
-    "白濛濛光影"
+    "白濛濛光影",
+    "白戚老儒",
+    "白光中圣灵"
   ],
   "summary": "灵族圣灵，合体后期且灵压更强，本体何物成灵不明，白光忽明忽暗令观者头晕，精通数种克制魔功大神通且颇知魔界。",
   "attributes": {
-    "种族": "灵族/圣灵",
+    "种族": "圣灵",
     "小阶段": "后期",
-    "标志特征": "护体灵光所过魔兽四分五裂",
+    "标志特征": "周身白光忽暗忽明、令人头晕目眩、护体灵光所过魔兽四分五裂、天赋灵目，额射白光，外覆白光难辨面目、白光中圣灵",
     "性别": "男",
     "阵营": "韩立一行",
-    "外貌": "白濛濛光影"
+    "外貌": "白濛濛光影",
+    "身份": "灵族探宝队成员、灵族真正主事者"
   },
   "observations": {
     "种族": [
@@ -27,6 +30,11 @@
         "value": "灵族/圣灵",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "圣灵",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "小阶段": [
@@ -51,6 +59,16 @@
         "value": "护体灵光所过魔兽四分五裂",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "天赋灵目，额射白光，外覆白光难辨面目",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      },
+      {
+        "value": "白光中圣灵",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
       }
     ],
     "性别": [
@@ -73,15 +91,27 @@
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
       }
+    ],
+    "身份": [
+      {
+        "value": "灵族探宝队成员",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      },
+      {
+        "value": "灵族真正主事者",
+        "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+        "seq": 2065
+      }
     ]
   },
   "firstSeq": 1993,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
       "dated": false,
-      "seq": 2005
+      "seq": 2065
     },
     "小阶段": {
       "asOf": null,
@@ -91,9 +121,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 2005
+      "seq": 1993
     },
     "性别": {
       "asOf": null,
@@ -112,6 +142,12 @@
       "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
       "seq": 2053
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2065-2070-leihai-huangjin-xie",
+      "dated": false,
+      "seq": 2065
     }
   },
   "contested": false,
@@ -119,7 +155,8 @@
   "docs": [
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2065-2070-leihai-huangjin-xie"
   ],
-  "updatedAt": "2026-06-21T12:24:42.186Z"
+  "updatedAt": "2026-06-21T13:05:49.772Z"
 }
