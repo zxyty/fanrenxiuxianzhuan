@@ -13,7 +13,8 @@
     "身份": "木族大长老",
     "小阶段": "大乘、大乘初期",
     "外貌": "一身青衫的威严老者、青衫老者",
-    "阵营": "木族"
+    "阵营": "木族",
+    "结局": "重创、失大乘期实力（往事追述）"
   },
   "observations": {
     "性别": [
@@ -67,6 +68,13 @@
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
       }
+    ],
+    "结局": [
+      {
+        "value": "重创、失大乘期实力（往事追述）",
+        "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+        "seq": 2125
+      }
     ]
   },
   "firstSeq": 1861,
@@ -106,12 +114,19 @@
       "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
       "seq": 1861
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1861-1866-mozhan-chongwang"
+    "plot.fanren-1861-1866-mozhan-chongwang",
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
   ],
-  "updatedAt": "2026-06-21T07:34:14.104Z"
+  "updatedAt": "2026-06-21T14:12:07.909Z"
 }

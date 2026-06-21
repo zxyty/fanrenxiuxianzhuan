@@ -2,12 +2,15 @@
   "id": "ent.place.x-7556691b",
   "type": "place",
   "name": "木族灵域",
-  "aliases": [],
+  "aliases": [
+    "木族之地"
+  ],
   "summary": "灵界中木族所居之地，本片段巨木大片魔化为墨绿、弥漫紫黑魔气且不见木族人。",
   "attributes": {
     "所属界面": "灵界",
     "所属势力": "木族",
-    "特产": "百丈高巨木密林"
+    "特产": "百丈高巨木密林",
+    "危险度": "高（魔族横行）"
   },
   "observations": {
     "所属界面": [
@@ -30,6 +33,13 @@
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
       }
+    ],
+    "危险度": [
+      {
+        "value": "高（魔族横行）",
+        "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+        "seq": 2125
+      }
     ]
   },
   "firstSeq": 2119,
@@ -51,12 +61,19 @@
       "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
       "dated": false,
       "seq": 2119
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
   ],
-  "updatedAt": "2026-06-21T14:10:10.963Z"
+  "updatedAt": "2026-06-21T14:12:07.918Z"
 }

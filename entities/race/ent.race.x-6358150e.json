@@ -12,8 +12,8 @@
   ],
   "summary": "五行灵族之一，灵将天樱所属。",
   "attributes": {
-    "阵营": "中立",
-    "聚居地": "南艮大沙漠之外、黑叶森林等、黑叶森林、黑叶森林一带、黑叶森林、一线天范围、风元大陆木族领域、木族领域、蛮荒世界木族领地、魔界、灵界木族灵域",
+    "阵营": "诸族联军",
+    "聚居地": "南艮大沙漠之外、黑叶森林等、黑叶森林、黑叶森林一带、黑叶森林、一线天范围、风元大陆木族领域、木族领域、蛮荒世界木族领地、魔界、灵界木族灵域、木族灵域",
     "特性": "五感差、靠灵觉联系对敌、碧绿肌肤、双目微紫、极排外、第三妖目破隐匿、肉身强横、五感差、长于灵觉、碧绿肌肤、腰带分阶、可由树木化形隐匿、肉身强横、银阶力大、化巨大木人、翠绿木矛/箭矢",
     "代表人物": "木瑞、紫阶木灵、橙阶木灵、木族大长老（邬某）",
     "天赋神通": "天木梦罗、人树合一/木灵之体、人树合一、木遁术",
@@ -35,6 +35,11 @@
         "value": "中立",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "诸族联军",
+        "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+        "seq": 2125
       }
     ],
     "聚居地": [
@@ -87,6 +92,11 @@
         "value": "灵界木族灵域",
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
+      },
+      {
+        "value": "木族灵域",
+        "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+        "seq": 2125
       }
     ],
     "特性": [
@@ -212,9 +222,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
       "dated": false,
-      "seq": 1861
+      "seq": 2125
     },
     "聚居地": {
       "asOf": null,
@@ -266,7 +276,8 @@
     "plot.fanren-1958-huanri-shentong-baoshu",
     "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
     "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
-    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
   ],
-  "updatedAt": "2026-06-21T14:10:10.966Z"
+  "updatedAt": "2026-06-21T14:12:07.910Z"
 }

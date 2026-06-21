@@ -11,7 +11,8 @@
   "attributes": {
     "聚居地": "天渊城、风元大陆西北角、天元大陆、风元大陆、灵界/小灵天",
     "代表人物": "天元圣皇、金越、青龙上人、林鸾、银光仙子、韩立、金越大师、羽衣少女",
-    "特性": "世代相传神通、修炼苛刻"
+    "特性": "世代相传神通、修炼苛刻",
+    "阵营": "诸族联军"
   },
   "observations": {
     "聚居地": [
@@ -94,6 +95,13 @@
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
       }
+    ],
+    "阵营": [
+      {
+        "value": "诸族联军",
+        "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+        "seq": 2125
+      }
     ]
   },
   "firstSeq": 1303,
@@ -115,6 +123,12 @@
       "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
       "dated": false,
       "seq": 1735
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
@@ -136,7 +150,8 @@
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-    "plot.fanren-2119-2124-xuantian-lingyu-resurgence"
+    "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
   ],
-  "updatedAt": "2026-06-21T14:10:10.965Z"
+  "updatedAt": "2026-06-21T14:12:07.911Z"
 }
