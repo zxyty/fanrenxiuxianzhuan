@@ -15,13 +15,13 @@
   ],
   "summary": "人族威名人物，与圣岛并称，被视为抵御魔族阴谋的依仗。",
   "attributes": {
-    "阵营": "人族/圣岛、人族、圣岛、灵界、异族联军",
+    "阵营": "人族/圣岛、人族、圣岛、灵界、异族联军、韩立联盟",
     "小阶段": "大乘",
     "称号": "定海神针",
     "种族": "人族",
     "身份": "两族大乘靠山",
     "外貌": "百余丈金毛巨猿",
-    "标志特征": "大成元婴持双银色短剑；能喷白气神通腐蚀火链",
+    "标志特征": "持白色小旗与深红色小锤，能放红色闪电异宝",
     "存殁": "失陷魔界"
   },
   "observations": {
@@ -50,6 +50,11 @@
         "value": "异族联军",
         "docId": "plot.fanren-2137-2142-muzu-dazhan",
         "seq": 2137
+      },
+      {
+        "value": "韩立联盟",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "小阶段": [
@@ -143,6 +148,11 @@
         "value": "大成元婴持双银色短剑；能喷白气神通腐蚀火链",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "持白色小旗与深红色小锤，能放红色闪电异宝",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "存殁": [
@@ -200,9 +210,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
-      "seq": 2245
+      "seq": 2257
     },
     "存殁": {
       "asOf": null,
@@ -237,7 +247,8 @@
     "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
     "plot.chapter-2239-2244-worm-king-ancient-altar",
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
   ],
-  "updatedAt": "2026-06-21T16:47:57.334Z"
+  "updatedAt": "2026-06-21T16:55:30.416Z"
 }

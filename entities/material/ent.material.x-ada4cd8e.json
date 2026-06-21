@@ -5,10 +5,10 @@
   "aliases": [],
   "summary": "蕴含时间法则的九天奇珍，可延寿、推迟天劫；先天生于真仙界光阴之河，后天可从小修罗界成年修罗蛛晶核提炼。",
   "attributes": {
-    "用途": "延年益寿、推迟天劫",
-    "产地": "光阴之河、修罗蛛晶核",
+    "用途": "延年益寿、推迟天劫、助度劫",
+    "产地": "光阴之河、修罗蛛晶核、修罗蛛巢穴",
     "稀有度": "九天奇珍",
-    "类型": "灵材"
+    "类型": "度劫灵物"
   },
   "observations": {
     "用途": [
@@ -21,6 +21,11 @@
         "value": "推迟天劫",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "助度劫",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "产地": [
@@ -33,6 +38,11 @@
         "value": "修罗蛛晶核",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "修罗蛛巢穴",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "稀有度": [
@@ -47,6 +57,11 @@
         "value": "灵材",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "度劫灵物",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ]
   },
@@ -72,16 +87,17 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
-      "seq": 2251
+      "seq": 2257
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
   ],
-  "updatedAt": "2026-06-21T16:47:57.353Z"
+  "updatedAt": "2026-06-21T16:55:30.426Z"
 }

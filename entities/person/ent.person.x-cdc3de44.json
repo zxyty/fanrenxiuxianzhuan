@@ -7,16 +7,19 @@
     "黄袍青年",
     "言师弟",
     "三十余岁黄袍修士",
-    "面孔英俊的黄袍青年"
+    "面孔英俊的黄袍青年",
+    "黄袍探子",
+    "黄衣枯瘦青年"
   ],
   "summary": "落云宗锁烟峰筑基期修士，尖耳猴腮、市侩，欲强分弟子当制符苦力。",
   "attributes": {
     "小阶段": "筑基期",
     "性格": "市侩",
     "性别": "男",
-    "身份": "落云宗弟子",
+    "身份": "探子",
     "外貌": "面孔英俊、着黄袍",
-    "阵营": "星宫"
+    "阵营": "星宫",
+    "种族": "修罗蛛"
   },
   "observations": {
     "小阶段": [
@@ -45,6 +48,11 @@
         "value": "落云宗弟子",
         "docId": "plot.fanren-ch595-600-join-luoyunzong",
         "seq": 595
+      },
+      {
+        "value": "探子",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "外貌": [
@@ -70,6 +78,13 @@
         "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
         "seq": 1201
       }
+    ],
+    "种族": [
+      {
+        "value": "修罗蛛",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
+      }
     ]
   },
   "firstSeq": 595,
@@ -94,9 +109,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch595-600-join-luoyunzong",
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
-      "seq": 595
+      "seq": 2257
     },
     "外貌": {
       "asOf": null,
@@ -109,6 +124,12 @@
       "docId": "plot.fanren-1202-xinggong-zhi-zhan-3",
       "dated": false,
       "seq": 1201
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "dated": false,
+      "seq": 2257
     }
   },
   "contested": false,
@@ -118,7 +139,8 @@
     "plot.fanren-1309-1314-jinting-zhou-tianyuan-cheng",
     "plot.fanren-ch595-600-join-luoyunzong",
     "plot.fanren-1202-xinggong-zhi-zhan-3",
-    "plot.fanren-1305-juren-zhi-zhan"
+    "plot.fanren-1305-juren-zhi-zhan",
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
   ],
-  "updatedAt": "2026-06-20T08:26:29.769Z"
+  "updatedAt": "2026-06-21T16:55:30.421Z"
 }

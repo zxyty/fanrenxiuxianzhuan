@@ -10,11 +10,12 @@
   ],
   "summary": "地蛟岛海域的异类大乘，皮肤黝黑覆角质鳞片，煞气滚滚、血色光霞缠身，为三清雷霄符而来。",
   "attributes": {
-    "种族": "异类（海域大乘）",
+    "种族": "异族",
     "小阶段": "大乘期、大乘",
     "出身地": "地蛟岛/大陆中部海域",
     "外貌": "黝黑粗糙、半身角质鳞片、血色煞气光霞",
-    "标志特征": "具蛛类相关血脉"
+    "标志特征": "具蛛类相关血脉",
+    "阵营": "韩立联盟"
   },
   "observations": {
     "种族": [
@@ -22,6 +23,11 @@
         "value": "异类（海域大乘）",
         "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
         "seq": 2245
+      },
+      {
+        "value": "异族",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
       }
     ],
     "小阶段": [
@@ -61,15 +67,22 @@
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
       }
+    ],
+    "阵营": [
+      {
+        "value": "韩立联盟",
+        "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+        "seq": 2257
+      }
     ]
   },
   "firstSeq": 2245,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
-      "seq": 2245
+      "seq": 2257
     },
     "小阶段": {
       "asOf": null,
@@ -94,13 +107,20 @@
       "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
       "seq": 2251
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "dated": false,
+      "seq": 2257
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fmxz-ch2245-2250-linwang-leixiao-fu-wulong",
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
   ],
-  "updatedAt": "2026-06-21T16:47:57.335Z"
+  "updatedAt": "2026-06-21T16:55:30.417Z"
 }
