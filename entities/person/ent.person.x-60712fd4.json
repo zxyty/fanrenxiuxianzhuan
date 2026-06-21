@@ -2,10 +2,12 @@
   "id": "ent.person.x-60712fd4",
   "type": "person",
   "name": "风邪",
-  "aliases": [],
+  "aliases": [
+    "风邪道友"
+  ],
   "summary": "镇魔锁中另一魔头，黑色战甲、络腮胡子，已修成牵机大法，自称另有混沌之气提取法，索三分之一为交易。",
   "attributes": {
-    "外貌": "黑盔黑甲",
+    "外貌": "黑甲满脸络腮、威严",
     "身份": "老魔",
     "标志特征": "牵机大法",
     "种族": "魔族",
@@ -23,6 +25,12 @@
         "value": "黑盔黑甲",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "黑甲满脸络腮、威严",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089,
+        "note": "本片段"
       }
     ],
     "身份": [
@@ -71,9 +79,10 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 1945
+      "seq": 2089,
+      "note": "本片段"
     },
     "身份": {
       "asOf": null,
@@ -112,7 +121,8 @@
   "docs": [
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
     "plot.fanren-1958-huanri-shentong-baoshu",
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T10:04:34.875Z"
+  "updatedAt": "2026-06-21T13:40:14.176Z"
 }

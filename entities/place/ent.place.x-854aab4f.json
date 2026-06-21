@@ -6,7 +6,7 @@
   "summary": "魔界一处地方，血牙米唯一产地，离幻夜城极远。",
   "attributes": {
     "所属界面": "魔界",
-    "特产": "异魔金"
+    "特产": "异魔金晶珠"
   },
   "observations": {
     "所属界面": [
@@ -26,6 +26,11 @@
         "value": "异魔金",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "异魔金晶珠",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ]
   },
@@ -39,16 +44,17 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 2047
+      "seq": 2089
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
-    "plot.fanren-ch2065-jinjingzhu"
+    "plot.fanren-ch2065-jinjingzhu",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T12:09:50.355Z"
+  "updatedAt": "2026-06-21T13:40:14.187Z"
 }

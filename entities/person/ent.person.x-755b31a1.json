@@ -6,15 +6,22 @@
     "涅槃",
     "涅槃道友",
     "涅槃老家伙",
-    "苍老声音老者"
+    "苍老声音老者",
+    "金袍人",
+    "魔化金袍人",
+    "涅槃圣祖化身",
+    "涅盘圣祖"
   ],
   "summary": "魔族始祖，唯一将无上魔体涅槃圣体修炼大成者；本章被提及。",
   "attributes": {
     "种族": "魔族",
-    "身份": "圣族强者",
-    "阵营": "圣族",
-    "标志特征": "涅槃圣体／三涅变身",
-    "外貌": "苍老声音"
+    "身份": "魔族始祖、圣族强者、圣界三大始祖之一、魔界始祖之一、魔族圣祖",
+    "阵营": "魔界",
+    "标志特征": "涅槃圣体／三涅变身、淡金肌肤、双目翠绿欲滴、眼眶深陷、黑鳞独角魔化、漆黑指甲化飞剑",
+    "外貌": "苍老声音",
+    "存殁": "存（本体沉睡，化身行动）",
+    "性格": "阴沉、仇视灵界",
+    "小阶段": "稍强于合体后期"
   },
   "observations": {
     "种族": [
@@ -34,6 +41,21 @@
         "value": "圣族强者",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "圣界三大始祖之一",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "魔界始祖之一",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "魔族圣祖",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "阵营": [
@@ -41,6 +63,11 @@
         "value": "圣族",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "标志特征": [
@@ -48,6 +75,26 @@
         "value": "涅槃圣体／三涅变身",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "淡金肌肤",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "双目翠绿欲滴",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "眼眶深陷",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "黑鳞独角魔化、漆黑指甲化飞剑",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "外貌": [
@@ -55,6 +102,28 @@
         "value": "苍老声音",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存（本体沉睡，化身行动）",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      }
+    ],
+    "性格": [
+      {
+        "value": "阴沉、仇视灵界",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "稍强于合体后期",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089,
+        "note": "仅为化身；本体为大乘"
       }
     ]
   },
@@ -68,15 +137,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
       "dated": false,
-      "seq": 2083
+      "seq": 2077
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 2083
+      "seq": 2089
     },
     "标志特征": {
       "asOf": null,
@@ -89,13 +158,33 @@
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
       "seq": 2083
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089,
+      "note": "仅为化身；本体为大乘"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2095-2100-kuling-island-baohua-shengzu",
-    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T13:27:24.409Z"
+  "updatedAt": "2026-06-21T13:40:14.172Z"
 }

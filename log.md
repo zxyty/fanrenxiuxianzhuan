@@ -715,3 +715,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T13:13:00.838Z** `ingest` plot.fanren-c2092-2094-kuling-island-niepanzhu-self-destruct — 第2092-2094章 苦灵岛之战：涅槃珠与伪仙傫自爆，陇家老祖、羽衣少女陨落，韩立幸免 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=02071-02076.p3.md
 - **2026-06-21T13:15:38.903Z** `ingest` plot.fanren-2095-2100-kuling-island-baohua-shengzu — 凡人修仙传 第2095-2100章｜苦灵岛：宝花圣祖现身与洗灵池之约 · kind=plot asOf=2026-06-21 entities=26 relations=27 src=02077-02082.md
 - **2026-06-21T13:27:24.573Z** `ingest` plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi — 第2101章 探池——圣族始印封印危机与韩立探洗灵池寻净灵莲 · kind=plot asOf=2026-06-21 entities=33 relations=40 src=02083-02088.md
+- **2026-06-21T13:40:14.343Z** `ingest` plot.fanren-2107-zaijian-weixianlu — 第2107章 再见伪仙露：涅槃化身唤醒黄金蟹伪仙截杀韩立 · kind=plot asOf=2026-06-21 entities=49 relations=63 src=02089-02094.md

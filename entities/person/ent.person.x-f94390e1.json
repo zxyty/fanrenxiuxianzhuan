@@ -2,11 +2,15 @@
   "id": "ent.person.x-f94390e1",
   "type": "person",
   "name": "天泣",
-  "aliases": [],
+  "aliases": [
+    "青甲大汉",
+    "天泣师兄"
+  ],
   "summary": "圣界身具始祖之位的强者，与鹤颜联手为宝花圣祖死敌，曾合力将其打落一境界。",
   "attributes": {
-    "身份": "圣族圣祖",
-    "阵营": "圣族"
+    "身份": "高阶魔族",
+    "阵营": "圣族",
+    "外貌": "青色魔甲、三十许岁彪悍威猛"
   },
   "observations": {
     "身份": [
@@ -19,6 +23,11 @@
         "value": "圣族圣祖",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "高阶魔族",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "阵营": [
@@ -32,28 +41,44 @@
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
       }
+    ],
+    "外貌": [
+      {
+        "value": "青色魔甲、三十许岁彪悍威猛",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089,
+        "note": "本片段"
+      }
     ]
   },
   "firstSeq": 1999,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 2083
+      "seq": 2089
     },
     "阵营": {
       "asOf": null,
       "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
       "dated": false,
       "seq": 2083
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089,
+      "note": "本片段"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T13:27:24.382Z"
+  "updatedAt": "2026-06-21T13:40:14.179Z"
 }

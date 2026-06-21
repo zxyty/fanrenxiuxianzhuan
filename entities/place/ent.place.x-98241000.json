@@ -10,7 +10,8 @@
   "attributes": {
     "所属界面": "魔界",
     "类型": "海洋",
-    "危险度": "极高（混乱之气、密集雷电）"
+    "危险度": "极高（混乱之气、密集雷电）",
+    "守护": "黄金巨蟹(伪仙傀)"
   },
   "observations": {
     "所属界面": [
@@ -48,6 +49,13 @@
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
+    ],
+    "守护": [
+      {
+        "value": "黄金巨蟹(伪仙傀)",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      }
     ]
   },
   "firstSeq": 1999,
@@ -69,6 +77,12 @@
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
       "seq": 2059
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089
     }
   },
   "contested": false,
@@ -77,7 +91,8 @@
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2065-2070-leihai-huangjin-xie"
+    "plot.fanren-2065-2070-leihai-huangjin-xie",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T13:05:49.759Z"
+  "updatedAt": "2026-06-21T13:40:14.188Z"
 }

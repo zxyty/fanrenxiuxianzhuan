@@ -12,12 +12,12 @@
   "summary": "原为细长微黄、铭墨绿花纹的玄天果实，吸韩立逾三分之二精血后表皮变红、翠纹化符文，一端射出尺许翠亮剑刃（中心五道翠色符文），果实化作剑柄，成为灵剑。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）、黄色木棍状果实/翠绿剑刃，刃心五个翠色符文、木棍状、手臂淡黄色印痕(封印态)、翠芒剑刃",
-    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变、逆转天地法则、翠绿剑光分割空间、翠芒一斩势不可挡、斩后抽空持有者体内全部灵力",
+    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）、黄色木棍状果实/翠绿剑刃，刃心五个翠色符文、木棍状、手臂淡黄色印痕(封印态)、翠芒剑刃、三尺墨绿剑影",
+    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变、逆转天地法则、翠绿剑光分割空间、翠芒一斩势不可挡、斩后抽空持有者体内全部灵力、墨绿剑影、引动天地元气灌注、硬挡圣蟹半击并反弹",
     "来历": "血祭大阵跨万里召唤争夺的玄天之宝",
     "品阶": "玄天之宝",
     "五行属性": "木(翠绿)",
-    "禁制": "封印于韩立臂上"
+    "禁制": "封印于手臂、墨绿符文手臂"
   },
   "observations": {
     "持有者": [
@@ -57,6 +57,11 @@
         "value": "翠芒剑刃",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "三尺墨绿剑影",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "能力": [
@@ -89,6 +94,21 @@
         "value": "斩后抽空持有者体内全部灵力",
         "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
         "seq": 1711
+      },
+      {
+        "value": "墨绿剑影",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "引动天地元气灌注",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      },
+      {
+        "value": "硬挡圣蟹半击并反弹",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "来历": [
@@ -132,6 +152,11 @@
         "value": "封印于韩立臂上",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "封印于手臂、墨绿符文手臂",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ]
   },
@@ -175,9 +200,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 2083
+      "seq": 2089
     }
   },
   "contested": false,
@@ -187,7 +212,8 @@
     "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
     "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T13:27:24.417Z"
+  "updatedAt": "2026-06-21T13:40:14.155Z"
 }

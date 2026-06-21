@@ -1,0 +1,67 @@
+{
+  "id": "ent.person.x-c1ecd0ea",
+  "type": "person",
+  "name": "夺舍老妪",
+  "aliases": [
+    "红袍老妪",
+    "天泣师妹"
+  ],
+  "summary": "天泣师妹，当年被宝花毁肉身后被逼夺舍苍老躯体、再无进阶望，怀恨追杀宝花欲得人。",
+  "attributes": {
+    "性别": "女",
+    "外貌": "白发鸡皮、满脸皱纹、拄鹤首拐杖的老妪",
+    "标志特征": "鹤首拐杖"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白发鸡皮、满脸皱纹、拄鹤首拐杖的老妪",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089,
+        "note": "夺舍所得苍老肉身"
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "鹤首拐杖",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
+      }
+    ]
+  },
+  "firstSeq": 2089,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089,
+      "note": "夺舍所得苍老肉身"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
+      "dated": false,
+      "seq": 2089
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2107-zaijian-weixianlu"
+  ],
+  "updatedAt": "2026-06-21T13:40:14.180Z"
+}

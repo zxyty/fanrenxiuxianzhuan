@@ -2,11 +2,13 @@
   "id": "ent.faction.x-06928561",
   "type": "faction",
   "name": "兽尊殿",
-  "aliases": [],
+  "aliases": [
+    "兽尊殿分殿"
+  ],
   "summary": "幻夜城一带的雇佣型势力，成员皆魔修老怪、拼斗经验极强，受赵家秘密雇佣百年追杀韩立一伙。",
   "attributes": {
     "理念": "受雇出手、以化形魔兽尊者为主、招揽道友图谋大事",
-    "阵营": "圣族",
+    "阵营": "魔界",
     "所属界面": "圣界",
     "镇派之宝": "万兽圣祖坐镇"
   },
@@ -39,6 +41,11 @@
         "value": "圣族",
         "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
         "seq": 2083
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2107-zaijian-weixianlu",
+        "seq": 2089
       }
     ],
     "所属界面": [
@@ -71,9 +78,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+      "docId": "plot.fanren-2107-zaijian-weixianlu",
       "dated": false,
-      "seq": 2083
+      "seq": 2089
     },
     "所属界面": {
       "asOf": null,
@@ -93,7 +100,8 @@
   "docs": [
     "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi"
+    "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
+    "plot.fanren-2107-zaijian-weixianlu"
   ],
-  "updatedAt": "2026-06-21T13:27:24.385Z"
+  "updatedAt": "2026-06-21T13:40:14.189Z"
 }
