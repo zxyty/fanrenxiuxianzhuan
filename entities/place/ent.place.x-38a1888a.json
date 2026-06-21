@@ -1,29 +1,22 @@
 {
-  "id": "ent.place.x-f3c93ded",
+  "id": "ent.place.x-38a1888a",
   "type": "place",
-  "name": "玄武城",
-  "aliases": [
-    "玄武巨城"
-  ],
-  "summary": "建于骖灵后代巨龟背上的黑色城堡，列有黑色骨甲甲士与骑蓝狼的雷卫。",
+  "name": "万宝大殿",
+  "aliases": [],
+  "summary": "飞仙峰顶云海中的拍卖主殿，分多层，三层为合体期老怪贵宾房。",
   "attributes": {
-    "类型": "城池"
+    "类型": "拍卖大殿"
   },
   "observations": {
     "类型": [
       {
-        "value": "妖族城池(建于巨龟背上)",
-        "docId": "plot.fanren-1789-tianhu-yaonu",
-        "seq": 1783
-      },
-      {
-        "value": "城池",
+        "value": "拍卖大殿",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
     ]
   },
-  "firstSeq": 1783,
+  "firstSeq": 1789,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -35,8 +28,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:48:33.262Z"
+  "updatedAt": "2026-06-21T05:48:33.231Z"
 }

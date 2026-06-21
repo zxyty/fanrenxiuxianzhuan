@@ -3,13 +3,15 @@
   "type": "person",
   "name": "洞天鼠王",
   "aliases": [
-    "鼠王"
+    "鼠王",
+    "洞天"
   ],
   "summary": "七妖王之一，出身妖族大族琼鼠一族，最神秘，常以秘法遮掩身形，神通成谜，无人敢轻易招惹。",
   "attributes": {
-    "身份": "七妖王之一",
+    "身份": "七大妖王之一",
     "种族": "琼鼠一族",
-    "性格": "神秘"
+    "性格": "神秘",
+    "标志特征": "声音苍老"
   },
   "observations": {
     "身份": [
@@ -17,6 +19,11 @@
         "value": "七妖王之一",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "七大妖王之一",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "种族": [
@@ -32,15 +39,22 @@
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
       }
+    ],
+    "标志特征": [
+      {
+        "value": "声音苍老",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
     ]
   },
   "firstSeq": 1783,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1783
+      "seq": 1789
     },
     "种族": {
       "asOf": null,
@@ -53,12 +67,19 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.766Z"
+  "updatedAt": "2026-06-21T05:48:33.249Z"
 }

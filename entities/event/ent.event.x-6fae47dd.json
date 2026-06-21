@@ -5,13 +5,16 @@
   "aliases": [
     "九仙山万宝大会",
     "万宝大",
-    "明面上的万宝大会"
+    "明面上的万宝大会",
+    "万宝大会首场拍卖",
+    "万宝大会头次拍卖会"
   ],
   "summary": "人妖两族每隔千年联手举办的大型交易会，本届定于九仙山，韩立与妖族女子约定届时交易。",
   "attributes": {
-    "地点": "九仙山飞仙峰",
-    "参与方": "人族、妖族、人妖两族、异族、人三皇、七妖王、各方合体老怪、韩立",
-    "经过": "千年一次"
+    "地点": "飞仙峰万宝大殿",
+    "参与方": "人族、妖族、人妖两族、异族、人三皇、七妖王、各方合体老怪、韩立、七大妖王、器灵族",
+    "经过": "千年一次",
+    "章节": "1795-1797、1798-1800"
   },
   "observations": {
     "地点": [
@@ -29,6 +32,11 @@
         "value": "九仙山飞仙峰",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "飞仙峰万宝大殿",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "参与方": [
@@ -71,6 +79,16 @@
         "value": "韩立",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "七大妖王",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      },
+      {
+        "value": "器灵族",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "经过": [
@@ -79,15 +97,27 @@
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
       }
+    ],
+    "章节": [
+      {
+        "value": "1795-1797",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      },
+      {
+        "value": "1798-1800",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
     ]
   },
   "firstSeq": 1753,
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1777
+      "seq": 1789
     },
     "参与方": {
       "asOf": null,
@@ -100,6 +130,12 @@
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
       "seq": 1771
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
@@ -109,7 +145,8 @@
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.787Z"
+  "updatedAt": "2026-06-21T05:48:33.264Z"
 }

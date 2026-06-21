@@ -5,13 +5,15 @@
   "aliases": [
     "霸皇",
     "霸皇大人",
-    "玄武道友"
+    "玄武道友",
+    "本皇"
   ],
   "summary": "人族三皇之一，简称『霸皇』，统治玄武境，主城玄武城建于远古巨龟骖灵背上。",
   "attributes": {
     "称号": "玄武霸皇",
-    "身份": "玄武境统治者、人族三皇之一、一方势力之主、妖王/霸皇、霸皇级强者",
-    "阵营": "妖族"
+    "身份": "玄武境统治者、人族三皇之一、一方势力之主、妖王/霸皇、霸皇级强者、拍卖会主持",
+    "阵营": "妖族",
+    "外貌": "身高两丈、黑光缠身虬须大汉"
   },
   "observations": {
     "称号": [
@@ -51,6 +53,11 @@
         "value": "霸皇级强者",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "拍卖会主持",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "阵营": [
@@ -58,6 +65,13 @@
         "value": "妖族",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      }
+    ],
+    "外貌": [
+      {
+        "value": "身高两丈、黑光缠身虬须大汉",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ]
   },
@@ -80,6 +94,12 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
@@ -88,7 +108,8 @@
     "plot.fanren-1267-1272-anyuan-city-shoujao",
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.809Z"
+  "updatedAt": "2026-06-21T05:48:33.227Z"
 }

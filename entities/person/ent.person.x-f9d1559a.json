@@ -12,9 +12,9 @@
   "attributes": {
     "性别": "男",
     "小阶段": "筑基期、筑基初期、筑基",
-    "身份": "雾海观观主、小道士、求拜韩立门下者、韩立随从、小道士",
+    "身份": "雾海观观主、小道士、求拜韩立门下者、韩立随从、小道士、修士、记名弟子",
     "外貌": "约十七八岁背黑色木剑的小道士",
-    "标志特征": "三灵根、遁术身形时隐时现、丹田藏传承法器、桃僵李代符",
+    "标志特征": "三灵根、遁术身形时隐时现、丹田藏传承法器、桃僵李代符、体内封印雾海观传承器物",
     "出身地": "雾海观（相关）"
   },
   "observations": {
@@ -62,6 +62,16 @@
         "value": "小道士",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "修士",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      },
+      {
+        "value": "记名弟子",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "外貌": [
@@ -96,6 +106,11 @@
         "value": "桃僵李代符",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "体内封印雾海观传承器物",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "出身地": [
@@ -151,7 +166,8 @@
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.765Z"
+  "updatedAt": "2026-06-21T05:48:33.253Z"
 }

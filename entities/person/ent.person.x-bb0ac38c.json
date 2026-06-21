@@ -4,13 +4,18 @@
   "name": "黑凤妖王",
   "aliases": [
     "黑凤王",
-    "黑凤道友"
+    "黑凤道友",
+    "筱馆",
+    "黑裙妇人"
   ],
   "summary": "黑凤族首领，神通广大，赵某称无法瞒过其耳目。",
   "attributes": {
     "阵营": "妖族",
-    "身份": "七妖王之一",
-    "种族": "黑凤族"
+    "身份": "黑凤族首领、七妖王之一、黑凤王、七大妖王之一",
+    "种族": "妖族（黑凤族）",
+    "性别": "女",
+    "小阶段": "合体后期",
+    "称号": "黑凤王"
   },
   "observations": {
     "阵营": [
@@ -30,6 +35,16 @@
         "value": "七妖王之一",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "黑凤王",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      },
+      {
+        "value": "七大妖王之一",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "种族": [
@@ -37,6 +52,32 @@
         "value": "黑凤族",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "妖族（黑凤族）",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
+    ],
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
+    ],
+    "称号": [
+      {
+        "value": "黑凤王",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ]
   },
@@ -50,22 +91,41 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
       "dated": false,
-      "seq": 1771
+      "seq": 1279
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1771
+      "seq": 1789
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1279-1284-anyuan-city-beast-tide-falls",
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:20:08.271Z"
+  "updatedAt": "2026-06-21T05:48:33.249Z"
 }

@@ -5,9 +5,11 @@
   "aliases": [],
   "summary": "妖族七大妖王之一，已先到九仙山。",
   "attributes": {
-    "身份": "妖王",
+    "身份": "七大妖王之一",
     "种族": "妖族",
-    "阵营": "妖族"
+    "阵营": "妖族",
+    "外貌": "红色长袍",
+    "标志特征": "声音嘶哑"
   },
   "observations": {
     "身份": [
@@ -20,6 +22,11 @@
         "value": "妖王",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "七大妖王之一",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "种族": [
@@ -35,15 +42,29 @@
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
       }
+    ],
+    "外貌": [
+      {
+        "value": "红色长袍",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "声音嘶哑",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
     ]
   },
   "firstSeq": 1771,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1783
+      "seq": 1789
     },
     "种族": {
       "asOf": null,
@@ -56,13 +77,26 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.771Z"
+  "updatedAt": "2026-06-21T05:48:33.246Z"
 }

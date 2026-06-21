@@ -1,35 +1,30 @@
 {
-  "id": "ent.place.x-c7fcf8ee",
+  "id": "ent.place.x-62c26ac4",
   "type": "place",
-  "name": "飞仙峰",
+  "name": "白璧峡谷",
   "aliases": [],
-  "summary": "九仙山最高峰，两族中立之地，本届万宝大会主会场所在。",
+  "summary": "人族极东之地，唯一产出银丝晶之处，由玄武城掌控。",
   "attributes": {
-    "类型": "山峰",
-    "守护": "雷卫骑蓝色飞狼巡逻"
+    "类型": "峡谷",
+    "特产": "银丝晶"
   },
   "observations": {
     "类型": [
       {
-        "value": "万宝大会主会场",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "山峰",
+        "value": "峡谷",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
     ],
-    "守护": [
+    "特产": [
       {
-        "value": "雷卫骑蓝色飞狼巡逻",
+        "value": "银丝晶",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1789,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -37,7 +32,7 @@
       "dated": false,
       "seq": 1789
     },
-    "守护": {
+    "特产": {
       "asOf": null,
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
@@ -47,8 +42,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:48:33.229Z"
+  "updatedAt": "2026-06-21T05:48:33.261Z"
 }

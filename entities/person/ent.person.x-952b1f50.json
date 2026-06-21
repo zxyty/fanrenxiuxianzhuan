@@ -2,12 +2,15 @@
   "id": "ent.person.x-952b1f50",
   "type": "person",
   "name": "天奎狼王",
-  "aliases": [],
+  "aliases": [
+    "狼王"
+  ],
   "summary": "灵界银月狼族之王，玲珑之夫。",
   "attributes": {
     "种族": "妖族",
     "称号": "天奎狼王",
-    "身份": "妖王"
+    "身份": "妖王",
+    "标志特征": "六大化身、声音冰冷无感情"
   },
   "observations": {
     "种族": [
@@ -45,6 +48,18 @@
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
       }
+    ],
+    "标志特征": [
+      {
+        "value": "六大化身",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      },
+      {
+        "value": "声音冰冷无感情",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
+      }
     ]
   },
   "firstSeq": 1063,
@@ -66,6 +81,12 @@
       "docId": "plot.fanren-1789-tianhu-yaonu",
       "dated": false,
       "seq": 1783
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "dated": false,
+      "seq": 1789
     }
   },
   "contested": false,
@@ -73,7 +94,8 @@
   "docs": [
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
-    "plot.fanren-1789-tianhu-yaonu"
+    "plot.fanren-1789-tianhu-yaonu",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:40:39.806Z"
+  "updatedAt": "2026-06-21T05:48:33.248Z"
 }

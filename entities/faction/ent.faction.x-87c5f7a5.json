@@ -9,8 +9,8 @@
   "attributes": {
     "所属界面": "灵界",
     "掌门": "器灵子",
-    "理念": "传雾海无极功",
-    "镇派之宝": "传承法器"
+    "理念": "神通秘术非同小可",
+    "镇派之宝": "传承器物（法器）"
   },
   "observations": {
     "所属界面": [
@@ -32,6 +32,11 @@
         "value": "传雾海无极功",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "神通秘术非同小可",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ],
     "镇派之宝": [
@@ -39,6 +44,11 @@
         "value": "传承法器",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "传承器物（法器）",
+        "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+        "seq": 1789
       }
     ]
   },
@@ -58,22 +68,23 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1765
+      "seq": 1789
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
-      "seq": 1771
+      "seq": 1789
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:20:08.250Z"
+  "updatedAt": "2026-06-21T05:48:33.232Z"
 }

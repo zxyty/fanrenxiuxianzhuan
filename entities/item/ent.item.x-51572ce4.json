@@ -1,35 +1,32 @@
 {
-  "id": "ent.place.x-c7fcf8ee",
-  "type": "place",
-  "name": "飞仙峰",
-  "aliases": [],
-  "summary": "九仙山最高峰，两族中立之地，本届万宝大会主会场所在。",
+  "id": "ent.item.x-51572ce4",
+  "type": "item",
+  "name": "化劫傀儡",
+  "aliases": [
+    "替劫傀儡"
+  ],
+  "summary": "人族有名异宝，对合体修士有化灾替劫奇效；一次性消耗品，需主人自行抓准时机催动，可用泣灵血木炼制。",
   "attributes": {
-    "类型": "山峰",
-    "守护": "雷卫骑蓝色飞狼巡逻"
+    "类型": "替劫/化灾傀儡",
+    "用途": "为合体修士化灾替劫"
   },
   "observations": {
     "类型": [
       {
-        "value": "万宝大会主会场",
-        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
-        "seq": 1777
-      },
-      {
-        "value": "山峰",
+        "value": "替劫/化灾傀儡",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
     ],
-    "守护": [
+    "用途": [
       {
-        "value": "雷卫骑蓝色飞狼巡逻",
+        "value": "为合体修士化灾替劫",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
       }
     ]
   },
-  "firstSeq": 1777,
+  "firstSeq": 1789,
   "attrProvenance": {
     "类型": {
       "asOf": null,
@@ -37,7 +34,7 @@
       "dated": false,
       "seq": 1789
     },
-    "守护": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
@@ -47,8 +44,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
   ],
-  "updatedAt": "2026-06-21T05:48:33.229Z"
+  "updatedAt": "2026-06-21T05:48:33.257Z"
 }
