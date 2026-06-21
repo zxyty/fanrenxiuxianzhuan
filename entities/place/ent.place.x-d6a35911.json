@@ -7,7 +7,9 @@
   "attributes": {
     "所属界面": "魔界",
     "所属势力": "魔族",
-    "守护": "节点"
+    "守护": "魔族大军/禁制黑幕",
+    "类型": "要塞",
+    "危险度": "极高"
   },
   "observations": {
     "所属界面": [
@@ -29,6 +31,25 @@
         "value": "节点",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      },
+      {
+        "value": "魔族大军/禁制黑幕",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      }
+    ],
+    "类型": [
+      {
+        "value": "要塞",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ]
   },
@@ -48,15 +69,28 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1951
+      "seq": 1999
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "dated": false,
+      "seq": 1999
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "dated": false,
+      "seq": 1999
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:04:34.891Z"
+  "updatedAt": "2026-06-21T11:08:29.543Z"
 }

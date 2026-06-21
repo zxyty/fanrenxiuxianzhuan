@@ -3,13 +3,14 @@
   "type": "artifact",
   "name": "天命铜钱",
   "aliases": [
-    "紫金色铜钱"
+    "紫金色铜钱",
+    "紫色铜钱"
   ],
   "summary": "血光圣祖所持紫金色铜钱，一面笑脸一面鬼面交互闪烁，可自行感应威胁性异宝并示警。",
   "attributes": {
-    "持有者": "血光圣祖",
-    "能力": "感应威胁性异宝并示警",
-    "外形": "紫金色，一面和善人脸、一面凶煞鬼面交互闪烁"
+    "持有者": "宫装女子",
+    "能力": "感应威胁性异宝并示警、示警、卜算法器/化铜盆",
+    "外形": "紫色铜钱"
   },
   "observations": {
     "持有者": [
@@ -17,6 +18,11 @@
         "value": "血光圣祖",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "宫装女子",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "能力": [
@@ -24,6 +30,16 @@
         "value": "感应威胁性异宝并示警",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "示警",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      },
+      {
+        "value": "卜算法器/化铜盆",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "外形": [
@@ -31,6 +47,11 @@
         "value": "紫金色，一面和善人脸、一面凶煞鬼面交互闪烁",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "紫色铜钱",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ]
   },
@@ -38,9 +59,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1993
+      "seq": 1999
     },
     "能力": {
       "asOf": null,
@@ -50,15 +71,16 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1993
+      "seq": 1999
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:59:59.892Z"
+  "updatedAt": "2026-06-21T11:08:29.545Z"
 }

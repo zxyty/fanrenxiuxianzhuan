@@ -12,11 +12,11 @@
   ],
   "summary": "真灵第一世家陇家之祖，合体后期大成，激发半龙之身，修无情道神通，丽娘生父。",
   "attributes": {
-    "种族": "人族",
+    "种族": "圣灵",
     "小阶段": "合体",
     "外貌": "面色淡金的中年男子",
-    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化",
-    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老、陇家老祖/第一修士",
+    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化、持净雷瓶",
+    "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老、陇家老祖/第一修士、潜入魔界一行领头",
     "性格": "老谋深算",
     "阵营": "陇家、人族真灵世家、人族",
     "称号": "人族最高战力之一"
@@ -32,6 +32,11 @@
         "value": "人族",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "圣灵",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "小阶段": [
@@ -114,6 +119,11 @@
         "value": "半龙化",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "持净雷瓶",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "身份": [
@@ -146,6 +156,11 @@
         "value": "陇家老祖/第一修士",
         "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
         "seq": 1987
+      },
+      {
+        "value": "潜入魔界一行领头",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "性格": [
@@ -199,9 +214,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1801
+      "seq": 1999
     },
     "小阶段": {
       "asOf": null,
@@ -258,7 +273,8 @@
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
     "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:59:59.882Z"
+  "updatedAt": "2026-06-21T11:08:29.599Z"
 }

@@ -7,7 +7,9 @@
   "attributes": {
     "种族": "灵族",
     "小阶段": "合体中期",
-    "身份": "精通法阵禁制"
+    "身份": "圣灵",
+    "标志特征": "精通阵法禁制",
+    "外貌": "老儒"
   },
   "observations": {
     "种族": [
@@ -29,6 +31,25 @@
         "value": "精通法阵禁制",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "圣灵",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "精通阵法禁制",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      }
+    ],
+    "外貌": [
+      {
+        "value": "老儒",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ]
   },
@@ -48,15 +69,28 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1993
+      "seq": 1999
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "dated": false,
+      "seq": 1999
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "dated": false,
+      "seq": 1999
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:59:59.885Z"
+  "updatedAt": "2026-06-21T11:08:29.601Z"
 }

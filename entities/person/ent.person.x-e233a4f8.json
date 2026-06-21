@@ -14,10 +14,10 @@
   "summary": "器灵族圣女、四大圣灵之一，与合体修士同阶；黄袍圆脸少女模样，携万森轮盘与擎天战舟构造图来两族拍卖会献宝。",
   "attributes": {
     "性别": "女",
-    "种族": "灵族",
-    "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女",
+    "种族": "圣灵",
+    "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女、潜入魔界一行成员、圣女",
     "外貌": "黄袍圆脸十七八岁少女、十七八岁黄袍少女、黄袍少女（本体黄铜镜）、黄袍少女",
-    "称号": "千秋圣女",
+    "称号": "圣女",
     "小阶段": "合体后期",
     "阵营": "灵族"
   },
@@ -39,6 +39,11 @@
         "value": "灵族",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "圣灵",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "身份": [
@@ -61,6 +66,16 @@
         "value": "器灵族圣女",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "潜入魔界一行成员",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      },
+      {
+        "value": "圣女",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "外貌": [
@@ -90,6 +105,11 @@
         "value": "千秋圣女",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "圣女",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "小阶段": [
@@ -117,9 +137,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1993
+      "seq": 1999
     },
     "身份": {
       "asOf": null,
@@ -135,9 +155,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1801
+      "seq": 1999
     },
     "小阶段": {
       "asOf": null,
@@ -159,7 +179,8 @@
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:59:59.883Z"
+  "updatedAt": "2026-06-21T11:08:29.600Z"
 }

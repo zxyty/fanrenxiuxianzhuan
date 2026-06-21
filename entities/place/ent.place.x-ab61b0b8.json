@@ -8,10 +8,10 @@
   ],
   "summary": "玄武霸皇统治的人族境域，主城玄武城建于远古巨龟骖灵背上，阵眼即骖灵古龟。",
   "attributes": {
-    "所属界面": "灵界",
+    "所属界面": "魔界",
     "类型": "人族境域、人族三皇境之一、境域",
-    "守护": "超级仙阵（阵眼骖灵古龟）、骖灵古龟（仙阵阵眼）",
-    "危险度": "高（与妖族接壤、兽潮频繁）"
+    "守护": "超级仙阵（阵眼骖灵古龟）、骖灵古龟（仙阵阵眼）、暴魔族",
+    "危险度": "高(烽火混乱)"
   },
   "observations": {
     "所属界面": [
@@ -19,6 +19,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
         "seq": 1267
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "类型": [
@@ -48,6 +53,11 @@
         "value": "骖灵古龟（仙阵阵眼）",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "暴魔族",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ],
     "危险度": [
@@ -55,6 +65,11 @@
         "value": "高（与妖族接壤、兽潮频繁）",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "高(烽火混乱)",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
       }
     ]
   },
@@ -62,9 +77,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1267-1272-anyuan-city-shoujao",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1267
+      "seq": 1999
     },
     "类型": {
       "asOf": null,
@@ -80,9 +95,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
       "dated": false,
-      "seq": 1771
+      "seq": 1999
     }
   },
   "contested": false,
@@ -92,7 +107,8 @@
     "plot.fanren-1267-1272-anyuan-city",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
     "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T05:27:34.700Z"
+  "updatedAt": "2026-06-21T11:08:29.538Z"
 }

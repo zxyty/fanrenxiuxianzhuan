@@ -3,7 +3,8 @@
   "type": "person",
   "name": "叶家老祖",
   "aliases": [
-    "羽衣少女"
+    "羽衣少女",
+    "黛眉少女"
   ],
   "summary": "叶家老祖，化形为身着五色羽衣的十七八岁少女，声如黄鹂，性情活泼，疼爱孙女叶颖。",
   "attributes": {
@@ -13,7 +14,8 @@
     "小阶段": "合体中期以上",
     "性别": "女",
     "种族": "人族",
-    "标志特征": "天凤血脉"
+    "标志特征": "天凤血脉",
+    "出身地": "叶家"
   },
   "observations": {
     "外貌": [
@@ -90,6 +92,13 @@
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
       }
+    ],
+    "出身地": [
+      {
+        "value": "叶家",
+        "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+        "seq": 1999
+      }
     ]
   },
   "firstSeq": 1819,
@@ -135,6 +144,12 @@
       "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
       "seq": 1993
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "dated": false,
+      "seq": 1999
     }
   },
   "contested": false,
@@ -143,7 +158,8 @@
     "plot.fanren-1825-1826-wanlingtai",
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
   ],
-  "updatedAt": "2026-06-21T10:59:59.888Z"
+  "updatedAt": "2026-06-21T11:08:29.609Z"
 }
