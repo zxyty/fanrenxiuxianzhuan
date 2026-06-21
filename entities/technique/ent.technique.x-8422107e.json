@@ -9,8 +9,9 @@
   "attributes": {
     "品阶": "上古秘术",
     "出处": "敖啸无意中所得",
-    "效果": "威力奇大、修补心境破绽助突破合体（七八成把握）",
-    "适用境界": "炼虚后期—合体"
+    "效果": "威力奇大、修补心境破绽助突破合体（七八成把握）、断绝情感、弥补心境破绽助进阶、停修则不进则退、与七星月体相克致法力反噬",
+    "适用境界": "炼虚后期—合体",
+    "修炼条件": "体质不相克者方宜"
   },
   "observations": {
     "品阶": [
@@ -37,6 +38,21 @@
         "value": "修补心境破绽助突破合体（七八成把握）",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      },
+      {
+        "value": "断绝情感、弥补心境破绽助进阶",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
+      },
+      {
+        "value": "停修则不进则退",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
+      },
+      {
+        "value": "与七星月体相克致法力反噬",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
       }
     ],
     "适用境界": [
@@ -44,6 +60,13 @@
         "value": "炼虚后期—合体",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "体质不相克者方宜",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
       }
     ]
   },
@@ -72,12 +95,19 @@
       "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
       "seq": 1951
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-2147-2149-wangqing-jue-mumiancheng"
   ],
-  "updatedAt": "2026-06-21T10:04:34.942Z"
+  "updatedAt": "2026-06-21T14:16:24.416Z"
 }

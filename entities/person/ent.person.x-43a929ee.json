@@ -5,14 +5,15 @@
   "aliases": [
     "青铜面具女子",
     "狼首面具女子",
-    "影卫獠影"
+    "影卫獠影",
+    "青铜狼首面具女子"
   ],
   "summary": "敖啸老祖的影卫，獠兽一族女子，戴青铜狼首面具，潜伏圣岛多年，与敖啸有十万年魂契。",
   "attributes": {
     "性别": "女",
     "种族": "獠兽一族",
-    "身份": "敖啸影卫/卧底",
-    "外貌": "黑袍、青铜狼首面具、不露肌肤"
+    "身份": "银月影卫",
+    "外貌": "青铜狼首面具、黑袍黑手套"
   },
   "observations": {
     "性别": [
@@ -35,6 +36,11 @@
         "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
         "seq": 1957,
         "note": "潜伏圣岛"
+      },
+      {
+        "value": "银月影卫",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
       }
     ],
     "外貌": [
@@ -42,6 +48,11 @@
         "value": "黑袍、青铜狼首面具、不露肌肤",
         "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
         "seq": 1957
+      },
+      {
+        "value": "青铜狼首面具、黑袍黑手套",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
       }
     ]
   },
@@ -61,22 +72,22 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
       "dated": false,
-      "seq": 1957,
-      "note": "潜伏圣岛"
+      "seq": 2125
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
       "dated": false,
-      "seq": 1957
+      "seq": 2125
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+    "plot.fanren-2147-2149-wangqing-jue-mumiancheng"
   ],
-  "updatedAt": "2026-06-21T10:12:26.517Z"
+  "updatedAt": "2026-06-21T14:16:24.413Z"
 }

@@ -13,7 +13,9 @@
     "标志特征": "六大化身、声音冰冷无感情",
     "性别": "男",
     "阵营": "妖族",
-    "性格": "背信、好色"
+    "性格": "背信、好色",
+    "存殁": "死亡",
+    "死因": "妖魔大战中被数名魔尊偷袭陨落"
   },
   "observations": {
     "种族": [
@@ -89,6 +91,20 @@
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
+      }
+    ],
+    "死因": [
+      {
+        "value": "妖魔大战中被数名魔尊偷袭陨落",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
+      }
     ]
   },
   "firstSeq": 1063,
@@ -134,6 +150,18 @@
       "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
       "seq": 1951
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+      "dated": false,
+      "seq": 2125
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+      "dated": false,
+      "seq": 2125
     }
   },
   "contested": false,
@@ -143,7 +171,8 @@
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-2147-2149-wangqing-jue-mumiancheng"
   ],
-  "updatedAt": "2026-06-21T10:04:34.911Z"
+  "updatedAt": "2026-06-21T14:16:24.415Z"
 }

@@ -723,3 +723,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T14:10:11.122Z** `ingest` plot.fanren-2119-2124-xuantian-lingyu-resurgence — 凡人修仙传 第2119-2124章｜玄天灵域再现·惊退蓝瀑六极·通道异变 · kind=plot asOf=2026-06-21 entities=34 relations=45 src=02119-02124.md
 - **2026-06-21T14:12:08.084Z** `ingest` plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha — 凡人修仙传 第2143-2144章 木族惊变·再战元刹 · kind=plot asOf=2026-06-21 entities=16 relations=16 src=02125-02130.p1.md
 - **2026-06-21T14:14:09.723Z** `ingest` plot.fanren-2145-2146-aoxiao-yinyue-jiuyuan — 第2145-2146章：元刹来袭、敖啸与银月救援 · kind=plot asOf=2026-06-21 entities=17 relations=19 src=02125-02130.p2.md
+- **2026-06-21T14:16:24.587Z** `ingest` plot.fanren-2147-2149-wangqing-jue-mumiancheng — 第2147-2149章 忘情决·木棉城——韩立重逢银月，修炼神念秘术克制忘情决 · kind=plot asOf=2026-06-21 entities=18 relations=19 src=02125-02130.p3.md

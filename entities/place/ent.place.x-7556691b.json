@@ -8,7 +8,7 @@
   "summary": "灵界中木族所居之地，本片段巨木大片魔化为墨绿、弥漫紫黑魔气且不见木族人。",
   "attributes": {
     "所属界面": "灵界",
-    "所属势力": "木族",
+    "所属势力": "各族联军/木族",
     "特产": "百丈高巨木密林",
     "危险度": "高（魔族横行）"
   },
@@ -25,6 +25,11 @@
         "value": "木族",
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
+      },
+      {
+        "value": "各族联军/木族",
+        "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
+        "seq": 2125
       }
     ],
     "特产": [
@@ -52,9 +57,9 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+      "docId": "plot.fanren-2147-2149-wangqing-jue-mumiancheng",
       "dated": false,
-      "seq": 2119
+      "seq": 2125
     },
     "特产": {
       "asOf": null,
@@ -73,7 +78,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
-    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha"
+    "plot.fanren-2143-2144-muzu-jingbian-zaizhan-yuansha",
+    "plot.fanren-2147-2149-wangqing-jue-mumiancheng"
   ],
-  "updatedAt": "2026-06-21T14:12:07.918Z"
+  "updatedAt": "2026-06-21T14:16:24.420Z"
 }
