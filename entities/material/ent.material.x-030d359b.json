@@ -3,12 +3,13 @@
   "type": "material",
   "name": "黑幽冰香",
   "aliases": [
-    "残香"
+    "残香",
+    "驱魔神香"
   ],
   "summary": "突破合体境界伐除心魔的圣物，赤红火球点不燃，韩立得三截玉匣收藏",
   "attributes": {
-    "类型": "香/圣物",
-    "用途": "突破合体伐除心魔",
+    "类型": "驱魔神香",
+    "用途": "驱逐天外魔念",
     "稀有度": "圣物"
   },
   "observations": {
@@ -17,6 +18,11 @@
         "value": "香/圣物",
         "docId": "plot.fanren-1693-1703-xianren-palace-climb",
         "seq": 1693
+      },
+      {
+        "value": "驱魔神香",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ],
     "用途": [
@@ -24,6 +30,11 @@
         "value": "突破合体伐除心魔",
         "docId": "plot.fanren-1693-1703-xianren-palace-climb",
         "seq": 1693
+      },
+      {
+        "value": "驱逐天外魔念",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ],
     "稀有度": [
@@ -38,15 +49,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1693-1703-xianren-palace-climb",
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
       "dated": false,
-      "seq": 1693
+      "seq": 1969
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1693-1703-xianren-palace-climb",
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
       "dated": false,
-      "seq": 1693
+      "seq": 1969
     },
     "稀有度": {
       "asOf": null,
@@ -58,7 +69,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1693-1703-xianren-palace-climb"
+    "plot.fanren-1693-1703-xianren-palace-climb",
+    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late"
   ],
-  "updatedAt": "2026-06-21T03:14:05.569Z"
+  "updatedAt": "2026-06-21T12:45:17.256Z"
 }

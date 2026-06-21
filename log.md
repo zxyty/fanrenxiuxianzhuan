@@ -707,3 +707,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T12:09:50.616Z** `ingest` plot.fanren-ch2065-jinjingzhu — 第2065章 金鲸珠——韩立取宝异魔金、购魔晶傀儡术、会合陇家老祖 · kind=plot asOf=2026-06-21 entities=35 relations=41 src=02047-02052.p2.md
 - **2026-06-21T12:12:04.778Z** `ingest` plot.fanren-2068-2069-fansuan-lanjie — 第2068-2069章 反算·拦截：韩立托付朱果儿、陇家偷蜥之谋与林家修士遭擒 · kind=plot asOf=2026-06-21 entities=23 relations=19 src=02047-02052.p3.md
 - **2026-06-21T12:24:42.526Z** `ingest` plot.fanren-2070-erjin-huanxiao — 第2070章 二进幻啸：宝花圣祖审魂得知洗灵池净灵莲，韩立一行二进幻啸沙漠 · kind=plot asOf=2026-06-21 entities=47 relations=63 src=02053-02058.md
+- **2026-06-21T12:45:17.411Z** `ingest` plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late — 凡人修仙传 1983-1988｜青龙陨落与韩立晋阶合体后期 · kind=plot asOf=2026-06-21 entities=17 relations=16 src=01969-01974.md

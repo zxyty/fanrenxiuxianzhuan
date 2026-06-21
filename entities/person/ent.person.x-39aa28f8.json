@@ -5,13 +5,17 @@
   "aliases": [
     "天外魔头顶阶",
     "天外魔军",
-    "天外魔君化身"
+    "天外魔君化身",
+    "天外魔头所化",
+    "亦男亦女魔头"
   ],
   "summary": "穴灵自承的本源,其一缕分魂附身蜃气化为穴灵。",
   "attributes": {
     "种族": "天外魔头",
     "称号": "天外魔头顶阶存在",
-    "标志特征": "化身千万、可魔化真灵真仙"
+    "标志特征": "催化心魔（复制韩立本体）",
+    "性格": "擅勾引人心、杀人于无形",
+    "结局": "魔念被黑幽冰香驱逐出韩立神识海"
   },
   "observations": {
     "种族": [
@@ -38,6 +42,25 @@
         "value": "化身千万、可魔化真灵真仙",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "催化心魔（复制韩立本体）",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
+      }
+    ],
+    "性格": [
+      {
+        "value": "擅勾引人心、杀人于无形",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
+      }
+    ],
+    "结局": [
+      {
+        "value": "魔念被黑幽冰香驱逐出韩立神识海",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ]
   },
@@ -57,9 +80,21 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
       "dated": false,
-      "seq": 1633
+      "seq": 1969
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+      "dated": false,
+      "seq": 1969
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+      "dated": false,
+      "seq": 1969
     }
   },
   "contested": false,
@@ -69,7 +104,8 @@
     "plot.fanren-ch1637-tulao-wugong",
     "plot.fanren-1649-san-mo",
     "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
-    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru"
+    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late"
   ],
-  "updatedAt": "2026-06-21T07:09:08.412Z"
+  "updatedAt": "2026-06-21T12:45:17.247Z"
 }

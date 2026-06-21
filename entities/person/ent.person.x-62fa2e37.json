@@ -6,19 +6,22 @@
     "青龙道友",
     "青龙",
     "倚天城太上长老",
-    "顾长老（误，非此人）"
+    "顾长老（误，非此人）",
+    "青龙长老",
+    "青龙前辈"
   ],
   "summary": "人族修士，已复人形、面色苍白，与羊首擎天巨兽联手对阵黑甲大汉及不死魔族，勉强自保。",
   "attributes": {
     "阵营": "人族（倚天城方）",
-    "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔、化身五爪真青龙、化青龙、化龙大神通、化五爪青龙、体表七口短刃、风雷神通、手持白玉厚书（射银色古文）、可催青龙真身半妖化为半龙半人",
-    "身份": "九星宗合体修士、四大宗门太上长老、倚天城太上长老、九星宗太上长老、原倚天城长老、天渊城长老（新加入）、天渊城长老会长老",
+    "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔、化身五爪真青龙、化青龙、化龙大神通、化五爪青龙、体表七口短刃、风雷神通、手持白玉厚书（射银色古文）、可催青龙真身半妖化为半龙半人、可化半龙形态、金银双灵笔、儒家功法",
+    "身份": "九星宗合体修士、四大宗门太上长老、倚天城太上长老、九星宗太上长老、原倚天城长老、天渊城长老（新加入）、天渊城长老会长老、天渊城长老",
     "小阶段": "合体中期",
     "外貌": "四十来岁、面容方正威严",
     "性格": "刚烈不屈",
     "种族": "半妖",
     "性别": "男",
-    "存殁": "存(本片段受重伤离城)"
+    "存殁": "死亡",
+    "死因": "韩立植入噬灵真火灵漩邪光奇毒发作，激战中被豹麟兽抓杀吞噬元婴"
   },
   "observations": {
     "阵营": [
@@ -73,6 +76,21 @@
         "value": "可催青龙真身半妖化为半龙半人",
         "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
         "seq": 1963
+      },
+      {
+        "value": "可化半龙形态",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
+      },
+      {
+        "value": "金银双灵笔",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
+      },
+      {
+        "value": "儒家功法",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ],
     "身份": [
@@ -110,6 +128,11 @@
         "value": "天渊城长老会长老",
         "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
         "seq": 1963
+      },
+      {
+        "value": "天渊城长老",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ],
     "小阶段": [
@@ -183,6 +206,18 @@
         "value": "存(本片段受重伤离城)",
         "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
         "seq": 1963
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
+      }
+    ],
+    "死因": [
+      {
+        "value": "韩立植入噬灵真火灵漩邪光奇毒发作，激战中被豹麟兽抓杀吞噬元婴",
+        "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+        "seq": 1969
       }
     ]
   },
@@ -238,9 +273,15 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
       "dated": false,
-      "seq": 1963
+      "seq": 1969
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late",
+      "dated": false,
+      "seq": 1969
     }
   },
   "contested": false,
@@ -254,7 +295,8 @@
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
     "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
-    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+    "plot.fanren-1983-1988-qinglong-falls-hanli-reaches-heti-late"
   ],
-  "updatedAt": "2026-06-21T10:19:20.679Z"
+  "updatedAt": "2026-06-21T12:45:17.237Z"
 }
