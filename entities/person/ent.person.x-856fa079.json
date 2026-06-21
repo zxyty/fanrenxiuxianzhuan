@@ -14,13 +14,13 @@
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
     "小阶段": "合体期",
-    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员",
+    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员、天渊城长老会长老",
     "阵营": "天渊城",
     "出身地": "佛宗",
     "外貌": "满脸皱纹、头顶光亮、披金色袈裟",
     "性别": "男",
     "种族": "人族",
-    "标志特征": "佛门修士"
+    "标志特征": "僧人/佛号"
   },
   "observations": {
     "小阶段": [
@@ -60,6 +60,11 @@
         "value": "天渊城长老会成员",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "天渊城长老会长老",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ],
     "阵营": [
@@ -117,6 +122,11 @@
         "value": "佛门修士",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "僧人/佛号",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ]
   },
@@ -166,9 +176,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
       "dated": false,
-      "seq": 1867
+      "seq": 1975
     }
   },
   "contested": false,
@@ -181,7 +191,8 @@
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
-    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji"
+    "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
+    "plot.fanren-1975-1980-heti-houqi-diyimozun"
   ],
-  "updatedAt": "2026-06-21T10:19:20.686Z"
+  "updatedAt": "2026-06-21T10:30:21.918Z"
 }

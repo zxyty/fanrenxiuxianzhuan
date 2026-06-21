@@ -18,14 +18,15 @@
   "summary": "落云宗元婴期长老，面色灰白如大病初愈；率先察觉宗内有人结婴，判定为潜入散修，主张静观拉拢。",
   "attributes": {
     "性别": "男",
-    "小阶段": "元婴初期",
+    "小阶段": "元婴、元婴期、元婴初期、合体中期、合体",
     "外貌": "银发白眉、银发老者、银发、老者",
-    "身份": "落云宗长老、落云宗大长老、落云宗修士、落云宗、韩立的程师兄、落云宗高层",
+    "身份": "落云宗长老、落云宗大长老、落云宗修士、落云宗、韩立的程师兄、落云宗高层、天渊城长老会长老、天渊城长老会成员",
     "阵营": "韩立一方",
     "存殁": "死亡",
     "死因": "坐化",
     "寿元": "余十余年",
-    "标志特征": "银发"
+    "标志特征": "银发",
+    "种族": "人族"
   },
   "observations": {
     "性别": [
@@ -50,6 +51,16 @@
         "value": "元婴初期",
         "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
         "seq": 847
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ],
     "外貌": [
@@ -104,6 +115,16 @@
         "value": "落云宗高层",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "天渊城长老会长老",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
+      },
+      {
+        "value": "天渊城长老会成员",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ],
     "阵营": [
@@ -170,6 +191,13 @@
         "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
       }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
+      }
     ]
   },
   "firstSeq": 631,
@@ -182,9 +210,9 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-847-852-mojian-zaixian-mowei-sinue",
+      "docId": "plot.fanren-631-636-lingyan-tree-yunmeng-mountain",
       "dated": false,
-      "seq": 847
+      "seq": 631
     },
     "外貌": {
       "asOf": null,
@@ -227,6 +255,12 @@
       "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
       "dated": false,
       "seq": 841
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "dated": false,
+      "seq": 1975
     }
   },
   "contested": false,
@@ -259,7 +293,8 @@
     "plot.fanren-847-852-mojian-zaixian",
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
     "plot.fanren-865-870-zhiyang-invitation-and-duel",
-    "plot.fanren-ch1167-1172-return-to-luoyun-sect"
+    "plot.fanren-ch1167-1172-return-to-luoyun-sect",
+    "plot.fanren-1975-1980-heti-houqi-diyimozun"
   ],
-  "updatedAt": "2026-06-18T12:25:03.971Z"
+  "updatedAt": "2026-06-21T10:30:21.917Z"
 }

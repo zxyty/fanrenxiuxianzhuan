@@ -2,13 +2,18 @@
   "id": "ent.artifact.x-3ce5cf9e",
   "type": "artifact",
   "name": "天戈符",
-  "aliases": [],
+  "aliases": [
+    "金银色符箓",
+    "长戈虚影"
+  ],
   "summary": "残页唯一一种攻击符箓，金属性，可幻化真仙界天戈之刃，威力裂地开海；深奥异常，韩立化神期暂无头绪。",
   "attributes": {
     "品阶": "仙家符箓",
     "五行属性": "金",
-    "能力": "幻化真仙界天戈之刃，裂地开海",
-    "来历": "金阙玉书外页"
+    "能力": "吸纳金灵气、长戈虚影爆发恐怖波动",
+    "来历": "金阙玉书外页",
+    "持有者": "韩立",
+    "外形": "金银色符箓/长戈虚影"
   },
   "observations": {
     "品阶": [
@@ -30,6 +35,11 @@
         "value": "幻化真仙界天戈之刃，裂地开海",
         "docId": "plot.fanren-1341-leipao-xianshi",
         "seq": 1339
+      },
+      {
+        "value": "吸纳金灵气、长戈虚影爆发恐怖波动",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ],
     "来历": [
@@ -37,6 +47,20 @@
         "value": "金阙玉书外页",
         "docId": "plot.fanren-1463-muqing-dong",
         "seq": 1459
+      }
+    ],
+    "持有者": [
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
+      }
+    ],
+    "外形": [
+      {
+        "value": "金银色符箓/长戈虚影",
+        "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+        "seq": 1975
       }
     ]
   },
@@ -56,15 +80,27 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1341-leipao-xianshi",
+      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
       "dated": false,
-      "seq": 1339
+      "seq": 1975
     },
     "来历": {
       "asOf": null,
       "docId": "plot.fanren-1463-muqing-dong",
       "dated": false,
       "seq": 1459
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "dated": false,
+      "seq": 1975
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "dated": false,
+      "seq": 1975
     }
   },
   "contested": false,
@@ -72,7 +108,8 @@
   "docs": [
     "plot.fanren-1341-leipao-xianshi",
     "plot.fanren-1463-mujing-cave",
-    "plot.fanren-1463-muqing-dong"
+    "plot.fanren-1463-muqing-dong",
+    "plot.fanren-1975-1980-heti-houqi-diyimozun"
   ],
-  "updatedAt": "2026-06-20T12:23:23.897Z"
+  "updatedAt": "2026-06-21T10:30:21.927Z"
 }
