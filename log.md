@@ -635,3 +635,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T03:07:39.190Z** `ingest` plot.fanren-1691-1692-leipeng-puppet-yingjing — 第1691-1692章 雷鹏傀儡 / 影晶：韩立灭银虫元神，广寒界遗址三方混战 · kind=plot asOf=2026-06-21 entities=14 relations=14 src=01687-01692.p1.md
 - **2026-06-21T03:09:57.829Z** `ingest` plot.fanren-1693-1694-taiyi-qingguang-xuehouzu — 第1693-1694章 太乙青光禁制与雪吼族 · kind=plot asOf=2026-06-21 entities=17 relations=20 src=01687-01692.p2.md
 - **2026-06-21T03:11:33.776Z** `ingest` plot.fanren-1695-1697-break-formation-taiyi-qingshan — 第1695-1697章 三人破十一重禁制·韩立夺太乙青山 · kind=plot asOf=2026-06-21 entities=13 relations=13 src=01687-01692.p3.md
+- **2026-06-21T03:14:05.721Z** `ingest` plot.fanren-1693-1703-xianren-palace-climb — 凡人修仙传 第1693-1703章｜灵界登山夺宝·真仙界仙人遗殿 · kind=plot asOf=2026-06-21 entities=24 relations=21 src=01693-01698.md

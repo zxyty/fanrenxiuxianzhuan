@@ -12,7 +12,7 @@
     "所属势力": "韩立洞府",
     "类型": "洞府药园",
     "特产": "千结花、黑芍草、金精参、玄天仙藤、九曲灵参、万年以上灵药",
-    "守护": "粗浅法阵（黄令牌控制）",
+    "守护": "五紫金柱五色光幕+紫色雷电",
     "所属界面": "灵界"
   },
   "observations": {
@@ -117,6 +117,11 @@
         "value": "粗浅法阵（黄令牌控制）",
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
+      },
+      {
+        "value": "五紫金柱五色光幕+紫色雷电",
+        "docId": "plot.fanren-1693-1703-xianren-palace-climb",
+        "seq": 1693
       }
     ],
     "所属界面": [
@@ -149,9 +154,9 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
+      "docId": "plot.fanren-1693-1703-xianren-palace-climb",
       "dated": false,
-      "seq": 601
+      "seq": 1693
     },
     "所属界面": {
       "asOf": null,
@@ -176,7 +181,8 @@
     "plot.fanren-1245-sun-essence-fire-appears",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
     "plot.fanren-ch1245-jinghuo-xian",
-    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan"
+    "lore.fanren-1655-lishui-zhu-yuanhe-wuji-shan",
+    "plot.fanren-1693-1703-xianren-palace-climb"
   ],
-  "updatedAt": "2026-06-21T02:32:02.943Z"
+  "updatedAt": "2026-06-21T03:14:05.555Z"
 }
