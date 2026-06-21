@@ -667,3 +667,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T07:16:44.728Z** `ingest` plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong — 凡人修仙传 第1855-1860章：蚀仙丹、玄天之宝残片与虚灵老者的噬金虫 · kind=plot asOf=2026-06-21 entities=38 relations=41 src=01855-01860.md
 - **2026-06-21T07:34:14.307Z** `ingest` plot.fanren-1861-1866-mozhan-chongwang — 凡人修仙传 第1861-1866章｜魔斑降世·候选虫王·深海迷影 · kind=plot asOf=2026-06-21 entities=58 relations=62 src=01861-01866.md
 - **2026-06-21T07:36:56.830Z** `ingest` plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi — 凡人修仙传 第1877-1878章 魔蝠——魔劫爆发、魔族破界入灵界 · kind=plot asOf=2026-06-21 entities=20 relations=20 src=01867-01872.p1.md
+- **2026-06-21T07:38:54.846Z** `ingest` plot.fanren-1879-1880-mojie-qunmo-chuxian — 第1879-1880章 群魔初现·魔潮汹涌——魔族大军破界降临灵界 · kind=plot asOf=2026-06-21 entities=20 relations=18 src=01867-01872.p2.md

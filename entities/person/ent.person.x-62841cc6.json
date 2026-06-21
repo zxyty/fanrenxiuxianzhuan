@@ -3,20 +3,27 @@
   "type": "person",
   "name": "蒙蛮",
   "aliases": [
-    "牛头巨汉"
+    "牛头巨汉",
+    "牛头魔族"
   ],
   "summary": "雷牛一族巨汉，奉圣祖诏令与魔蝠族同为第一批入灵界，与蝠烈立屠戮人族赌约。",
   "attributes": {
-    "种族": "雷牛一族",
+    "种族": "雷牛一族、魔族",
     "阵营": "魔族",
-    "外貌": "身高五六丈碧绿巨汉、头生黑色弯角、满脸黄毛",
-    "标志特征": "背负一对金色短斧"
+    "外貌": "身高五六丈碧绿巨汉、头生黑色弯角、满脸黄毛、牛头巨汉",
+    "标志特征": "背负一对金色短斧",
+    "身份": "雷牛群之主"
   },
   "observations": {
     "种族": [
       {
         "value": "雷牛一族",
         "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+        "seq": 1867
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
       }
     ],
@@ -32,12 +39,24 @@
         "value": "身高五六丈碧绿巨汉、头生黑色弯角、满脸黄毛",
         "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
         "seq": 1867
+      },
+      {
+        "value": "牛头巨汉",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
       }
     ],
     "标志特征": [
       {
         "value": "背负一对金色短斧",
         "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+        "seq": 1867
+      }
+    ],
+    "身份": [
+      {
+        "value": "雷牛群之主",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
       }
     ]
@@ -67,12 +86,19 @@
       "docId": "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
       "dated": false,
       "seq": 1867
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi"
+    "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
   ],
-  "updatedAt": "2026-06-21T07:36:56.646Z"
+  "updatedAt": "2026-06-21T07:38:54.655Z"
 }

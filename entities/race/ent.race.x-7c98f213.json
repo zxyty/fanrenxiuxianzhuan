@@ -7,14 +7,17 @@
     "圣界一族",
     "我圣族",
     "圣族上三阶",
-    "上界圣族"
+    "上界圣族",
+    "真魔界圣族",
+    "魔族圣族"
   ],
   "summary": "来自圣界的魔族，曾可经通道往返人界补充魔气；通道堵死后神通大减。",
   "attributes": {
     "聚居地": "灵界",
     "代表人物": "元刹圣祖、古魔（血焰）、圣祖、古魔、血焰、谷姓圣族",
     "特性": "无寿元之危、惧大天劫",
-    "天赋神通": "魔气灌注/转化"
+    "天赋神通": "魔气灌注/转化",
+    "阵营": "魔族"
   },
   "observations": {
     "聚居地": [
@@ -84,6 +87,13 @@
         "docId": "plot.fanren-1015-jinci-lingmu",
         "seq": 1015
       }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
+      }
     ]
   },
   "firstSeq": 1015,
@@ -111,6 +121,12 @@
       "docId": "plot.fanren-1015-jinci-lingmu",
       "dated": false,
       "seq": 1015
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
@@ -124,7 +140,8 @@
     "plot.fanren-1598-1599-liuli-tianhuoye-auction-renmianjiao",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
     "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
-    "plot.fanren-1649-san-mo"
+    "plot.fanren-1649-san-mo",
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
   ],
-  "updatedAt": "2026-06-21T02:18:49.577Z"
+  "updatedAt": "2026-06-21T07:38:54.663Z"
 }

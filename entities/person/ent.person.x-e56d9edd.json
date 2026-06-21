@@ -9,7 +9,9 @@
     "血光那小人",
     "为首少年",
     "巨魔",
-    "魔头化身"
+    "魔头化身",
+    "血光老祖",
+    "血光圣祖大人"
   ],
   "summary": "大乘级魔族圣祖，琉璃傀儡/紫言鼎/镇魔锁/巨塔等至宝之主，隔空神念威吓韩立，疑欲以本体破界降临；血袍少年为其一具化身。",
   "attributes": {
@@ -19,14 +21,15 @@
     "阵营": "魔道/圣界",
     "称号": "圣祖",
     "标志特征": "三缕分神化少年/巨魔，背生巨角魔影、八青色鬼头、四血翅",
-    "存殁": "在世"
+    "存殁": "在世",
+    "外貌": "血光笼罩的高大人影、目光如残月"
   },
   "observations": {
     "种族": [
       {
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1867
       }
     ],
     "身份": [
@@ -39,6 +42,11 @@
         "value": "圣界圣祖",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915
+      },
+      {
+        "value": "圣族首领/圣祖",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
       }
     ],
     "小阶段": [
@@ -63,6 +71,11 @@
         "value": "魔道/圣界",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
       }
     ],
     "称号": [
@@ -70,6 +83,11 @@
         "value": "圣祖",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "血光圣祖",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
       }
     ],
     "标志特征": [
@@ -86,15 +104,22 @@
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
       }
+    ],
+    "外貌": [
+      {
+        "value": "血光笼罩的高大人影、目光如残月",
+        "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+        "seq": 1867
+      }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1867,
   "attrProvenance": {
     "种族": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1867
     },
     "身份": {
       "asOf": null,
@@ -132,6 +157,12 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "dated": false,
+      "seq": 1867
     }
   },
   "contested": false,
@@ -140,7 +171,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
   ],
-  "updatedAt": "2026-06-17T03:26:19.740Z"
+  "updatedAt": "2026-06-21T07:38:54.650Z"
 }

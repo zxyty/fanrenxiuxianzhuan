@@ -1,42 +1,28 @@
 {
-  "id": "ent.beast.x-54ff10ff",
+  "id": "ent.beast.x-9bd3e168",
   "type": "beast",
-  "name": "血蝠",
+  "name": "雷牛",
   "aliases": [
-    "血红蝙蝠",
-    "巨蝠",
-    "血蝠群"
+    "青色巨牛",
+    "雷牛群"
   ],
-  "summary": "通体血红、身体异常坚硬的培育灵兽，连掺庚精的青竹蜂云剑也需顿挫才能斩开。",
+  "summary": "数以万计的青色巨牛魔兽，双目血红、口喷白气，受金色角号号令。",
   "attributes": {
-    "外形": "巨大血色蝙蝠",
-    "能力": "体表坚硬",
     "种族": "魔兽",
+    "外形": "青色巨牛、双目血红、口喷白气",
     "栖息地": "真魔界"
   },
   "observations": {
-    "外形": [
+    "种族": [
       {
-        "value": "血红蝙蝠",
-        "docId": "plot.fanren-1003-qunmo-yinxian",
-        "seq": 1003
-      },
-      {
-        "value": "巨大血色蝙蝠",
+        "value": "魔兽",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
       }
     ],
-    "能力": [
+    "外形": [
       {
-        "value": "体表坚硬",
-        "docId": "plot.fanren-1003-qunmo-yinxian",
-        "seq": 1003
-      }
-    ],
-    "种族": [
-      {
-        "value": "魔兽",
+        "value": "青色巨牛、双目血红、口喷白气",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
       }
@@ -49,21 +35,15 @@
       }
     ]
   },
-  "firstSeq": 1003,
+  "firstSeq": 1867,
   "attrProvenance": {
-    "外形": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
       "dated": false,
       "seq": 1867
     },
-    "能力": {
-      "asOf": null,
-      "docId": "plot.fanren-1003-qunmo-yinxian",
-      "dated": false,
-      "seq": 1003
-    },
-    "种族": {
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
       "dated": false,
@@ -79,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1003-qunmo-yinxian",
     "plot.fanren-1879-1880-mojie-qunmo-chuxian"
   ],
-  "updatedAt": "2026-06-21T07:38:54.658Z"
+  "updatedAt": "2026-06-21T07:38:54.657Z"
 }
