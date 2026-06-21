@@ -8,9 +8,9 @@
   "summary": "许家须发灰白老者，炼虚中期，许蛟叔祖辈，本在闭关出关相迎。",
   "attributes": {
     "性别": "男",
-    "小阶段": "炼虚中期、炼虚期",
+    "小阶段": "炼虚中期、炼虚期、炼虚",
     "外貌": "须发灰白老者",
-    "身份": "许家老者"
+    "身份": "许家修士"
   },
   "observations": {
     "性别": [
@@ -30,6 +30,11 @@
         "value": "炼虚期",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ],
     "外貌": [
@@ -44,6 +49,11 @@
         "value": "许家老者",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "许家修士",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ]
   },
@@ -69,15 +79,16 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
-      "seq": 1759
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:04:10.169Z"
+  "updatedAt": "2026-06-21T05:11:37.969Z"
 }

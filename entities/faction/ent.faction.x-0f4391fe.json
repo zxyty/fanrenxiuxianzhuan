@@ -12,7 +12,7 @@
     "阵营": "人族",
     "所属界面": "灵界",
     "据点": "天元境、风元大陆宗庙山峰",
-    "掌门": "许家族长",
+    "掌门": "许蛟",
     "镇派之宝": "迷蜃幻境、血魂瓶、血晶棺"
   },
   "observations": {
@@ -20,7 +20,7 @@
       {
         "value": "人族",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1921
+        "seq": 1765
       }
     ],
     "所属界面": [
@@ -52,6 +52,11 @@
         "value": "许家族长",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "许蛟",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ],
     "镇派之宝": [
@@ -78,7 +83,7 @@
       "asOf": null,
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
-      "seq": 1921
+      "seq": 1765
     },
     "所属界面": {
       "asOf": null,
@@ -94,9 +99,9 @@
     },
     "掌门": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
-      "seq": 1759
+      "seq": 1765
     },
     "镇派之宝": {
       "asOf": null,
@@ -109,7 +114,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:04:10.185Z"
+  "updatedAt": "2026-06-21T05:11:38.005Z"
 }

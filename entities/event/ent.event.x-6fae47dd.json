@@ -5,7 +5,7 @@
   "aliases": [],
   "summary": "人妖两族每隔千年联手举办的大型交易会，本届定于九仙山，韩立与妖族女子约定届时交易。",
   "attributes": {
-    "地点": "九仙山",
+    "地点": "玄武境",
     "参与方": "人族、妖族"
   },
   "observations": {
@@ -14,6 +14,11 @@
         "value": "九仙山",
         "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
         "seq": 1753
+      },
+      {
+        "value": "玄武境",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ],
     "参与方": [
@@ -33,9 +38,9 @@
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
-      "seq": 1753
+      "seq": 1765
     },
     "参与方": {
       "asOf": null,
@@ -47,7 +52,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1753-1758-laike-lingdwang-zhenxue"
+    "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T04:44:27.062Z"
+  "updatedAt": "2026-06-21T05:11:38.008Z"
 }

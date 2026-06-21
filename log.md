@@ -647,3 +647,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T04:36:13.552Z** `ingest` plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family — 凡人修仙传 第1747-1752章｜炼神术第一层大成、谷家与真灵世家 · kind=plot asOf=2026-06-21 entities=48 relations=48 src=01747-01752.md
 - **2026-06-21T04:44:27.240Z** `ingest` plot.fanren-1753-1758-laike-lingdwang-zhenxue — 凡人修仙传 第1753-1758章｜来客·邀请与灵皇大比·真血隐忧 · kind=plot asOf=2026-06-21 entities=42 relations=45 src=01753-01758.md
 - **2026-06-21T05:04:10.495Z** `ingest` plot.fanren-1765-xujia-bingpo-xianzi-descendant — 凡人修仙传 第1765章 许家——韩立寻访冰魄仙子后人 · kind=plot asOf=2026-06-21 entities=45 relations=65 src=01759-01764.md
+- **2026-06-21T05:11:38.190Z** `ingest` plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun — 第1765-1770章：许家宗庙血魂仪式，韩立助唤醒冰魄仙子 · kind=plot asOf=2026-06-21 entities=35 relations=43 src=01765-01770.md

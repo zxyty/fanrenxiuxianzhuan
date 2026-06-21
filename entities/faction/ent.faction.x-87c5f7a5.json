@@ -1,62 +1,52 @@
 {
-  "id": "ent.artifact.x-f6d4a9f4",
-  "type": "artifact",
-  "name": "血魂瓶",
+  "id": "ent.faction.x-87c5f7a5",
+  "type": "faction",
+  "name": "雾海观",
   "aliases": [],
-  "summary": "许家祖传宝物，原为一对（一只曾被冰魄先祖带走），用于封存血魂。",
+  "summary": "灵界小观，玄灵子开创、器灵子执掌，传承自下界雾海宗，已破落。",
   "attributes": {
-    "来历": "冰魄仙子祭炼",
-    "外形": "血色小瓶",
-    "能力": "封存/释放血魂"
+    "所属界面": "灵界",
+    "掌门": "器灵子",
+    "理念": "传雾海无极功"
   },
   "observations": {
-    "来历": [
+    "所属界面": [
       {
-        "value": "许家祖传一对",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "冰魄仙子祭炼",
+        "value": "灵界",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "外形": [
+    "掌门": [
       {
-        "value": "数寸长鲜红小瓶，奇异花纹，隐有血腥气",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "血色小瓶",
+        "value": "器灵子",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "能力": [
+    "理念": [
       {
-        "value": "封存/释放血魂",
+        "value": "传雾海无极功",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ]
   },
-  "firstSeq": 1759,
+  "firstSeq": 1765,
   "attrProvenance": {
-    "来历": {
+    "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "外形": {
+    "掌门": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "能力": {
+    "理念": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
@@ -66,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:11:37.976Z"
+  "updatedAt": "2026-06-21T05:11:38.006Z"
 }

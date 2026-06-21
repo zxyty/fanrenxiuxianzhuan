@@ -8,17 +8,19 @@
     "小极宫创派祖师",
     "冰魄仙子光影",
     "冰魄道友",
-    "冰魄大人"
+    "冰魄大人",
+    "冰魄"
   ],
   "summary": "昔日修士，小极宫为其留在人界的一脉，已成往事人物。",
   "attributes": {
-    "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖、上古修士、上古飞升修士、许家先祖、小极宫创立祖师、虚灵宝鼎主人",
+    "身份": "小极宫一脉之源、小极宫创派祖师、上古飞升修士/许家先祖、小极宫一脉始祖、上古修士、上古飞升修士、许家先祖、小极宫创立祖师、虚灵宝鼎主人、许家先祖（血魂化身）",
     "称号": "上古修士",
-    "存殁": "失踪、下落不明、死亡",
+    "存殁": "失踪、下落不明、死亡、死亡（第1759章）、本尊死亡/失踪",
     "性别": "女",
     "结局": "飞升前冰封冰渊岛后莫名失踪",
     "标志特征": "乾蓝冰焰",
-    "小阶段": "合体期"
+    "小阶段": "炼虚初期",
+    "外貌": "美丽绝伦女子、赤红宫装、血色瞳孔、宫装女子，瞳孔初为血红后复漆黑"
   },
   "observations": {
     "身份": [
@@ -66,6 +68,11 @@
         "value": "虚灵宝鼎主人",
         "docId": "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
         "seq": 1735
+      },
+      {
+        "value": "许家先祖（血魂化身）",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ],
     "称号": [
@@ -97,6 +104,18 @@
         "value": "死亡",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "死亡（第1759章）",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765,
+        "note": "第1773章血魂被唤醒、凝化血躯复苏"
+      },
+      {
+        "value": "本尊死亡/失踪",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765,
+        "note": "据世界状态须知第1759章；本片段出场者为血魂化身血灵"
       }
     ],
     "性别": [
@@ -135,6 +154,25 @@
         "value": "合体期",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "炼虚初期",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765,
+        "note": "血魂化身，非本尊修为"
+      }
+    ],
+    "外貌": [
+      {
+        "value": "美丽绝伦女子、赤红宫装、血色瞳孔",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765,
+        "note": "血魂重塑血躯"
+      },
+      {
+        "value": "宫装女子，瞳孔初为血红后复漆黑",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ]
   },
@@ -179,9 +217,17 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
-      "seq": 1759
+      "seq": 1765,
+      "note": "血魂化身，非本尊修为"
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765,
+      "note": "血魂重塑血躯"
     }
   },
   "contested": false,
@@ -200,7 +246,8 @@
     "plot.fanren-1735-1740-yuncheng-luan-xuling-baoding",
     "plot.fanren-1746-leave-leiming",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:04:10.171Z"
+  "updatedAt": "2026-06-21T05:11:37.988Z"
 }

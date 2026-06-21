@@ -1,69 +1,69 @@
 {
-  "id": "ent.artifact.x-bf465a71",
-  "type": "artifact",
-  "name": "血晶棺",
+  "id": "ent.material.x-c57671c8",
+  "type": "material",
+  "name": "魔玉花",
   "aliases": [
-    "血色晶棺",
-    "水晶版棺木"
+    "黑玉花",
+    "黑玉魔花"
   ],
-  "summary": "冰魄仙子早年炼制的后手，用于唤醒封存于血魂瓶中的一丝血魂。",
+  "summary": "真魔界特产黑色灵药，三万年火候，对修炼魔功大有用处；韩立收下作为还鼎之谢。",
   "attributes": {
-    "来历": "冰魄仙子所炼后手",
-    "持有者": "许家",
-    "能力": "凝化血躯供血魂寄附",
-    "外形": "薛红灵光水晶棺木"
+    "类型": "灵药",
+    "用途": "修炼魔功",
+    "产地": "真魔界",
+    "稀有度": "珍稀（次于灵宝）"
   },
   "observations": {
-    "来历": [
+    "类型": [
       {
-        "value": "冰魄仙子所炼后手",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      }
-    ],
-    "持有者": [
-      {
-        "value": "许家",
+        "value": "灵药",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "能力": [
+    "用途": [
       {
-        "value": "凝化血躯供血魂寄附",
+        "value": "修炼魔功",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "外形": [
+    "产地": [
       {
-        "value": "薛红灵光水晶棺木",
+        "value": "真魔界",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "珍稀（次于灵宝）",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ]
   },
-  "firstSeq": 1759,
+  "firstSeq": 1765,
   "attrProvenance": {
-    "来历": {
-      "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-      "dated": false,
-      "seq": 1759
-    },
-    "持有者": {
+    "类型": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "能力": {
+    "用途": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "外形": {
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
+    },
+    "稀有度": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
@@ -73,8 +73,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:11:37.977Z"
+  "updatedAt": "2026-06-21T05:11:38.004Z"
 }

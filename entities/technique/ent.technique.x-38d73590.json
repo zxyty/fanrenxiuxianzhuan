@@ -2,10 +2,16 @@
   "id": "ent.technique.x-38d73590",
   "type": "technique",
   "name": "血魂秘术",
-  "aliases": [],
+  "aliases": [
+    "血魂**",
+    "血魂之术",
+    "血魂秘术典籍"
+  ],
   "summary": "记载于蓝色玉简中的冰魄仙子秘术，与血魂祭炼/唤醒相关。",
   "attributes": {
-    "出处": "蓝色玉简"
+    "出处": "血晶上人",
+    "效果": "唤醒/重塑血魂、凝化血躯、重铸化身、保命、化身不反噬",
+    "外显异象": "夜晚天象与波动"
   },
   "observations": {
     "出处": [
@@ -13,6 +19,40 @@
         "value": "蓝色玉简",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "血晶上人",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "效果": [
+      {
+        "value": "唤醒/重塑血魂、凝化血躯",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      },
+      {
+        "value": "重铸化身",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      },
+      {
+        "value": "保命",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      },
+      {
+        "value": "化身不反噬",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "外显异象": [
+      {
+        "value": "夜晚天象与波动",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
       }
     ]
   },
@@ -20,15 +60,28 @@
   "attrProvenance": {
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
-      "seq": 1759
+      "seq": 1765
+    },
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
+    },
+    "外显异象": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:04:10.178Z"
+  "updatedAt": "2026-06-21T05:11:37.995Z"
 }

@@ -1,56 +1,40 @@
 {
-  "id": "ent.artifact.x-f6d4a9f4",
+  "id": "ent.artifact.x-d77d8f6f",
   "type": "artifact",
-  "name": "血魂瓶",
+  "name": "八蛟刃",
   "aliases": [],
-  "summary": "许家祖传宝物，原为一对（一只曾被冰魄先祖带走），用于封存血魂。",
+  "summary": "可驱使八条蛟龙之力的蓝色灵宝怪刃，许家以之换鼎，被韩立退回。",
   "attributes": {
-    "来历": "冰魄仙子祭炼",
-    "外形": "血色小瓶",
-    "能力": "封存/释放血魂"
+    "品阶": "灵宝",
+    "能力": "驱使八条蛟龙之力",
+    "外形": "蓝色怪刃"
   },
   "observations": {
-    "来历": [
+    "品阶": [
       {
-        "value": "许家祖传一对",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "冰魄仙子祭炼",
-        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
-        "seq": 1765
-      }
-    ],
-    "外形": [
-      {
-        "value": "数寸长鲜红小瓶，奇异花纹，隐有血腥气",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "血色小瓶",
+        "value": "灵宝",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
     "能力": [
       {
-        "value": "封存/释放血魂",
+        "value": "驱使八条蛟龙之力",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "外形": [
+      {
+        "value": "蓝色怪刃",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ]
   },
-  "firstSeq": 1759,
+  "firstSeq": 1765,
   "attrProvenance": {
-    "来历": {
-      "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
-      "dated": false,
-      "seq": 1765
-    },
-    "外形": {
+    "品阶": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
@@ -61,13 +45,18 @@
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:11:37.976Z"
+  "updatedAt": "2026-06-21T05:11:37.994Z"
 }

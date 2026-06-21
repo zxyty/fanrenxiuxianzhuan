@@ -1,77 +1,62 @@
 {
-  "id": "ent.person.x-51f211d3",
+  "id": "ent.person.x-c828acc7",
   "type": "person",
-  "name": "许火",
-  "aliases": [
-    "火叔"
-  ],
-  "summary": "许家须发灰白老者，炼虚初期，许蛟叔祖辈，本在闭关出关相迎。",
+  "name": "海大少",
+  "aliases": [],
+  "summary": "出身凡人城市炼体世家，绝佳灵根曾被误判无灵根，金刚诀第三层，筑基期，心高气傲。",
   "attributes": {
     "性别": "男",
-    "小阶段": "炼虚",
-    "外貌": "须发雪白老者",
-    "身份": "许家修士"
+    "小阶段": "筑基期",
+    "身份": "炼体修士",
+    "出身地": "凡人城市炼体世家",
+    "外貌": "白色儒服、剑眉郎目、三十余岁美男子"
   },
   "observations": {
     "性别": [
       {
         "value": "男",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      }
-    ],
-    "小阶段": [
-      {
-        "value": "炼虚初期",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "炼虚",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "外貌": [
+    "小阶段": [
       {
-        "value": "须发灰白老者",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "须发雪白老者",
+        "value": "筑基期",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
     "身份": [
       {
-        "value": "许家老者",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
+        "value": "炼体修士",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "出身地": [
       {
-        "value": "许家修士",
+        "value": "凡人城市炼体世家",
+        "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+        "seq": 1765
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白色儒服、剑眉郎目、三十余岁美男子",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ]
   },
-  "firstSeq": 1759,
+  "firstSeq": 1765,
   "attrProvenance": {
     "性别": {
-      "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-      "dated": false,
-      "seq": 1759
-    },
-    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "外貌": {
+    "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
@@ -82,13 +67,24 @@
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "dated": false,
+      "seq": 1765
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:11:37.968Z"
+  "updatedAt": "2026-06-21T05:11:37.991Z"
 }

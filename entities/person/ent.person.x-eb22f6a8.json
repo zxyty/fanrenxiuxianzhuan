@@ -1,62 +1,52 @@
 {
-  "id": "ent.artifact.x-f6d4a9f4",
-  "type": "artifact",
-  "name": "血魂瓶",
+  "id": "ent.person.x-eb22f6a8",
+  "type": "person",
+  "name": "血晶上人",
   "aliases": [],
-  "summary": "许家祖传宝物，原为一对（一只曾被冰魄先祖带走），用于封存血魂。",
+  "summary": "数万年前人族奇才，独创血魂秘术，曾以此术击杀异族同阶存在，早已陨落，衣钵被冰魄仙子发现。",
   "attributes": {
-    "来历": "冰魄仙子祭炼",
-    "外形": "血色小瓶",
-    "能力": "封存/释放血魂"
+    "称号": "上人",
+    "种族": "人族",
+    "存殁": "死亡（远古陨落）"
   },
   "observations": {
-    "来历": [
+    "称号": [
       {
-        "value": "许家祖传一对",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "冰魄仙子祭炼",
+        "value": "上人",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "外形": [
+    "种族": [
       {
-        "value": "数寸长鲜红小瓶，奇异花纹，隐有血腥气",
-        "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-        "seq": 1759
-      },
-      {
-        "value": "血色小瓶",
+        "value": "人族",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ],
-    "能力": [
+    "存殁": [
       {
-        "value": "封存/释放血魂",
+        "value": "死亡（远古陨落）",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
       }
     ]
   },
-  "firstSeq": 1759,
+  "firstSeq": 1765,
   "attrProvenance": {
-    "来历": {
+    "称号": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "外形": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
       "seq": 1765
     },
-    "能力": {
+    "存殁": {
       "asOf": null,
       "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
       "dated": false,
@@ -66,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun"
   ],
-  "updatedAt": "2026-06-21T05:11:37.976Z"
+  "updatedAt": "2026-06-21T05:11:37.972Z"
 }
