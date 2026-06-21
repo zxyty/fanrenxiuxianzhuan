@@ -4,15 +4,17 @@
   "name": "天渊大战",
   "aliases": [
     "天渊城大战",
-    "天渊城守城战"
+    "天渊城守城战",
+    "天渊大战（四）",
+    "天渊大战（五）"
   ],
   "summary": "魔族倾尽全力进攻天渊城的大决战开幕，开战即以天河四宝灭数十万魔兽，转入双方高阶对决前奏。",
   "attributes": {
-    "章节": "第1992-1994章",
+    "章节": "第1995-1997章",
     "地点": "天渊城",
-    "参与方": "天渊城长老会、魔族大军",
-    "经过": "魔兽倾巢攻城→天河四宝清场→魔族高层出动克制",
-    "结果": "首阶段灭数十万魔兽，高阶大战将启"
+    "参与方": "天渊城长老会、魔族大军、人族、妖族、魔族",
+    "经过": "禁空禁制困魔族、炼虚队伍困魔尊、韩立战古魔大汉、空间法阵困血光化身",
+    "结果": "未决（片段止于谷兄祭七焰扇与同心环）"
   },
   "observations": {
     "章节": [
@@ -20,6 +22,11 @@
         "value": "第1992-1994章",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "第1995-1997章",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "地点": [
@@ -39,6 +46,21 @@
         "value": "魔族大军",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "人族",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      },
+      {
+        "value": "魔族",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "经过": [
@@ -46,6 +68,11 @@
         "value": "魔兽倾巢攻城→天河四宝清场→魔族高层出动克制",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "禁空禁制困魔族、炼虚队伍困魔尊、韩立战古魔大汉、空间法阵困血光化身",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "结果": [
@@ -53,6 +80,11 @@
         "value": "首阶段灭数十万魔兽，高阶大战将启",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "未决（片段止于谷兄祭七焰扇与同心环）",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ]
   },
@@ -60,9 +92,9 @@
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     },
     "地点": {
       "asOf": null,
@@ -78,21 +110,22 @@
     },
     "经过": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     },
     "结果": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1975-1980-heti-houqi-diyimozun"
+    "plot.fanren-1975-1980-heti-houqi-diyimozun",
+    "plot.tianyuan-great-war-1981-1986"
   ],
-  "updatedAt": "2026-06-21T10:30:21.933Z"
+  "updatedAt": "2026-06-21T10:38:29.980Z"
 }

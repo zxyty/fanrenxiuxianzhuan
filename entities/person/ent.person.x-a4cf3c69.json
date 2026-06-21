@@ -2,13 +2,23 @@
   "id": "ent.person.x-a4cf3c69",
   "type": "person",
   "name": "匈姓大汉",
-  "aliases": [],
+  "aliases": [
+    "匈某",
+    "魔族大汉",
+    "魔族第一魔尊"
+  ],
   "summary": "被血光圣祖称为‘圣祖之下第一魔尊’的魔族强者，古铜半身、兽皮围裙，受血光圣祖暗示去对付韩立。",
   "attributes": {
-    "种族": "魔族",
-    "称号": "圣祖之下第一魔尊",
+    "种族": "古魔",
+    "称号": "魔族第一魔尊",
     "性格": "好战狂放",
-    "外貌": "古铜色半身、兽皮围裙"
+    "外貌": "古铜色半身、兽皮围裙",
+    "小阶段": "后期魔尊",
+    "阵营": "魔族",
+    "标志特征": "血色臂甲/甲衣、碧绿魔火狼牙棒、八头魔蛟、魔相",
+    "存殁": "死亡",
+    "死因": "被韩立二涅变身四掌合一镇杀（飞灰湮灭）",
+    "结局": "第2000章身亡"
   },
   "observations": {
     "种族": [
@@ -16,6 +26,11 @@
         "value": "魔族",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "称号": [
@@ -23,6 +38,11 @@
         "value": "圣祖之下第一魔尊",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "魔族第一魔尊",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "性格": [
@@ -38,21 +58,64 @@
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
       }
+    ],
+    "小阶段": [
+      {
+        "value": "后期魔尊",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981,
+        "note": "神通近半步大乘"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "血色臂甲/甲衣、碧绿魔火狼牙棒、八头魔蛟、魔相",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立二涅变身四掌合一镇杀（飞灰湮灭）",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
+    ],
+    "结局": [
+      {
+        "value": "第2000章身亡",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
     ]
   },
   "firstSeq": 1975,
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     },
     "性格": {
       "asOf": null,
@@ -65,12 +128,50 @@
       "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
       "dated": false,
       "seq": 1975
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981,
+      "note": "神通近半步大乘"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1975-1980-heti-houqi-diyimozun"
+    "plot.fanren-1975-1980-heti-houqi-diyimozun",
+    "plot.tianyuan-great-war-1981-1986"
   ],
-  "updatedAt": "2026-06-21T10:30:21.915Z"
+  "updatedAt": "2026-06-21T10:38:29.991Z"
 }

@@ -14,13 +14,13 @@
   "summary": "天渊城五名人族长老之一，合体修士、飞升修士，长年闭关苦修不理外事。",
   "attributes": {
     "小阶段": "合体期",
-    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员、天渊城长老会长老",
-    "阵营": "天渊城",
+    "身份": "天渊城长老、飞升修士、僧修、天渊城长老会成员、天渊城长老会长老、佛门僧人",
+    "阵营": "人族",
     "出身地": "佛宗",
     "外貌": "满脸皱纹、头顶光亮、披金色袈裟",
     "性别": "男",
     "种族": "人族",
-    "标志特征": "僧人/佛号"
+    "标志特征": "拍袈裟召十八尊金色佛影"
   },
   "observations": {
     "小阶段": [
@@ -65,6 +65,11 @@
         "value": "天渊城长老会长老",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "佛门僧人",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "阵营": [
@@ -72,6 +77,11 @@
         "value": "天渊城",
         "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
         "seq": 1345
+      },
+      {
+        "value": "人族",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "出身地": [
@@ -127,6 +137,11 @@
         "value": "僧人/佛号",
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975
+      },
+      {
+        "value": "拍袈裟召十八尊金色佛影",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ]
   },
@@ -146,9 +161,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1345-1350-bai-mai-lian-bao-jue-lv-ying",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1345
+      "seq": 1981
     },
     "出身地": {
       "asOf": null,
@@ -176,9 +191,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1975
+      "seq": 1981
     }
   },
   "contested": false,
@@ -192,7 +207,8 @@
     "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
     "plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji",
-    "plot.fanren-1975-1980-heti-houqi-diyimozun"
+    "plot.fanren-1975-1980-heti-houqi-diyimozun",
+    "plot.tianyuan-great-war-1981-1986"
   ],
-  "updatedAt": "2026-06-21T10:30:21.918Z"
+  "updatedAt": "2026-06-21T10:38:29.993Z"
 }

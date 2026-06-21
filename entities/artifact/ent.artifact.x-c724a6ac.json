@@ -11,7 +11,8 @@
   "summary": "韩立所持一青一黑两座可涨至百丈的极山，蛮力轰击，可凭空收发。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "巨力镇压轰击、化千丈巨峰镇压、峰底放灰霞与无形剑气、重量可激增数倍"
+    "能力": "巨力镇压轰击、化千丈巨峰镇压、峰底放灰霞与无形剑气、重量可激增数倍",
+    "外形": "一青一黑两座山峰"
   },
   "observations": {
     "持有者": [
@@ -42,6 +43,13 @@
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
+    ],
+    "外形": [
+      {
+        "value": "一青一黑两座山峰",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      }
     ]
   },
   "firstSeq": 1897,
@@ -57,13 +65,20 @@
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.tianyuan-great-war-1981-1986",
+      "dated": false,
+      "seq": 1981
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1911-yitian-war-2"
+    "plot.fanren-1911-yitian-war-2",
+    "plot.tianyuan-great-war-1981-1986"
   ],
-  "updatedAt": "2026-06-21T08:33:31.914Z"
+  "updatedAt": "2026-06-21T10:38:30.005Z"
 }

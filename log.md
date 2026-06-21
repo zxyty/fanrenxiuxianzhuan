@@ -688,3 +688,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T10:12:26.815Z** `ingest` plot.fanren-1957-1962-shengdao-aoxiao-huolizong — 凡人修仙传 第1957-1962章｜圣岛敖啸布局、影卫獠影与火离宗求援 · kind=plot asOf=2026-06-21 entities=36 relations=47 src=01957-01962.md
 - **2026-06-21T10:19:20.908Z** `ingest` plot.fanren-1963-1968-tianyuan-cheng-qinglong-sanji — 凡人修仙传 第1963-1968章｜韩立归城，逼青龙上人接三击（浑天两仪阵） · kind=plot asOf=2026-06-21 entities=24 relations=37 src=01963-01968.md
 - **2026-06-21T10:30:22.156Z** `ingest` plot.fanren-1975-1980-heti-houqi-diyimozun — 凡人修仙传 第1975-1980章｜韩立进阶合体后期·血光圣祖邀第一魔尊·长老会托缠化身 · kind=plot asOf=2026-06-21 entities=28 relations=45 src=01975-01980.md
+- **2026-06-21T10:38:30.229Z** `ingest` plot.tianyuan-great-war-1981-1986 — 天渊大战（四~五）：韩立战古魔大汉，谷兄祭七焰扇困血光化身 · kind=plot asOf=2026-06-21 entities=27 relations=41 src=01981-01986.md

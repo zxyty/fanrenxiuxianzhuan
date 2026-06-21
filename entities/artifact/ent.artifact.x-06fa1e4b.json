@@ -9,16 +9,19 @@
     "仿制七焰扇",
     "七焰扇古宝",
     "七焰扇法宝",
-    "七焰扇真品"
+    "七焰扇真品",
+    "七色翎羽羽扇",
+    "七色羽扇",
+    "七柄火鸟羽扇"
   ],
   "summary": "古修遗骸玉简所载古宝炼制法，需八十一种火属性灵料融合炼成；据银月所言乃通天灵宝之一（排名靠后），韩立分得其炼制法玉简。",
   "attributes": {
-    "品阶": "通天灵宝、通灵之宝、普通灵宝（灵界较低阶）、高阶法宝、通天灵宝(排名极低)",
+    "品阶": "通天灵宝、通灵之宝、普通灵宝（灵界较低阶）、高阶法宝、通天灵宝(排名极低)、灵宝",
     "五行属性": "火",
     "来历": "古修遗骸玉简记载炼制法、大衍神君改良仿制为三焰扇、仿制、上古修士遗骸玉简所载炼制法",
-    "外形": "扇形法器",
-    "能力": "火焰之威",
-    "持有者": "韩立",
+    "外形": "扇、扇形法器、七色翎羽红光羽扇、七色羽扇",
+    "能力": "化七色赤红火鸟、七色光焰",
+    "持有者": "韩立、韩立（待炼）、韩立（拟炼制）、银发老者(谷兄)、银发老者",
     "禁制": "炼制需八十一种火属性灵料"
   },
   "observations": {
@@ -47,6 +50,11 @@
         "value": "通天灵宝(排名极低)",
         "docId": "plot.fanren-817-822-zhan-huochan-qiyanshan",
         "seq": 817
+      },
+      {
+        "value": "灵宝",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "五行属性": [
@@ -89,6 +97,16 @@
         "value": "扇形法器",
         "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
         "seq": 961
+      },
+      {
+        "value": "七色翎羽红光羽扇",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      },
+      {
+        "value": "七色羽扇",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "能力": [
@@ -107,6 +125,11 @@
         "value": "火焰类法宝",
         "docId": "plot.fmxxz-ch889-tianshui-river-green-bat",
         "seq": 889
+      },
+      {
+        "value": "化七色赤红火鸟、七色光焰",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "持有者": [
@@ -124,6 +147,16 @@
         "value": "韩立（拟炼制）",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "银发老者(谷兄)",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
+      },
+      {
+        "value": "银发老者",
+        "docId": "plot.tianyuan-great-war-1981-1986",
+        "seq": 1981
       }
     ],
     "禁制": [
@@ -156,22 +189,21 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-ch961-966-tu-jiao-mie-jiao",
+      "docId": "plot.fanren-817-822-zhan-huo-chan-gu-xiu-yi-hai",
       "dated": false,
-      "seq": 961
+      "seq": 817
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1039-hei-feng-qi",
+      "docId": "plot.tianyuan-great-war-1981-1986",
       "dated": false,
-      "seq": 1039,
-      "note": "通天灵宝中排名末尾"
+      "seq": 1981
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1161-kunpeng-zhi-yu",
+      "docId": "plot.fanren-871-876-tan-xuanwo-bu-zhenpan",
       "dated": false,
-      "seq": 919
+      "seq": 871
     },
     "禁制": {
       "asOf": null,
@@ -198,7 +230,8 @@
     "plot.fanren-ch889-894-tianlan-jinyanshi",
     "plot.fanren-ch949-miaoyin-baojing",
     "plot.fanren-ch961-966-tu-jiao-mie-jiao",
-    "plot.fmxxz-ch889-tianshui-river-green-bat"
+    "plot.fmxxz-ch889-tianshui-river-green-bat",
+    "plot.tianyuan-great-war-1981-1986"
   ],
-  "updatedAt": "2026-06-18T02:40:25.634Z"
+  "updatedAt": "2026-06-21T10:38:29.996Z"
 }
