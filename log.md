@@ -750,3 +750,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:00:27.420Z** `ingest` plot.fanren-2288-2293-xiuluo-war-and-hantan-deal — 凡人修仙传 第2288-2293章：修罗之战收尾与寒潭打捞之约 · kind=plot asOf=2026-06-21 entities=22 relations=25 src=02269-02274.md
 - **2026-06-21T17:08:06.728Z** `ingest` plot.fanren-2275-2280-hantan-dalao-kongjianshi — 凡人修仙传 第2275-2280章：寒潭打捞空间之石与韩立暗返 · kind=plot asOf=2026-06-21 entities=28 relations=35 src=02275-02280.md
 - **2026-06-21T17:20:40.787Z** `ingest` plot.fanren-2300-zushi-shanhai-zhu — 第2300章 族誓——韩立炼化山海珠，空鱼族全族血誓归附 · kind=plot asOf=2026-06-21 entities=41 relations=44 src=02281-02286.md
+- **2026-06-21T17:28:48.444Z** `ingest` plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing — 凡人修仙传 第2287-2292章：韩立立青元宫远游、黄元子谋诛青元子、飞灵族越隆求炼极元晶 · kind=plot asOf=2026-06-21 entities=17 relations=20 src=02287-02292.md
