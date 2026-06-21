@@ -5,13 +5,16 @@
   "aliases": [
     "黑域交换大会",
     "黑域大会",
-    "黑域交易会"
+    "黑域交易会",
+    "鬼蜮交换会"
   ],
   "summary": "万宝大会期间私下举办、专为合体修士的神秘以物易物交换会，由神通广大的神秘修士组织，不问身份、一日即散。",
   "attributes": {
-    "地点": "黑域",
-    "参与方": "合体修士、妖族、韩立(计划参加)、人妖两族合体存在、秦素儿",
-    "起因": "应对魔劫"
+    "地点": "蛮荒世界黑域",
+    "参与方": "合体修士、妖族、韩立(计划参加)、人妖两族合体存在、秦素儿、人妖两族修士(约四五百人)、黑域",
+    "起因": "应对魔劫",
+    "章节": "1813-1818",
+    "结果": "韩立以阴凤草换得齐天锣及助修宝物胚胎"
   },
   "observations": {
     "地点": [
@@ -19,6 +22,11 @@
         "value": "黑域",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
+      },
+      {
+        "value": "蛮荒世界黑域",
+        "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+        "seq": 1807
       }
     ],
     "参与方": [
@@ -46,6 +54,16 @@
         "value": "秦素儿",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "人妖两族修士(约四五百人)",
+        "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+        "seq": 1807
+      },
+      {
+        "value": "黑域",
+        "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+        "seq": 1807
       }
     ],
     "起因": [
@@ -54,15 +72,29 @@
         "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
         "seq": 1795
       }
+    ],
+    "章节": [
+      {
+        "value": "1813-1818",
+        "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+        "seq": 1807
+      }
+    ],
+    "结果": [
+      {
+        "value": "韩立以阴凤草换得齐天锣及助修宝物胚胎",
+        "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+        "seq": 1807
+      }
     ]
   },
   "firstSeq": 1777,
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
       "dated": false,
-      "seq": 1777
+      "seq": 1807
     },
     "参与方": {
       "asOf": null,
@@ -75,6 +107,18 @@
       "docId": "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
       "dated": false,
       "seq": 1795
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "dated": false,
+      "seq": 1807
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-1813-1818-heiyu-exchange-qitianluo",
+      "dated": false,
+      "seq": 1807
     }
   },
   "contested": false,
@@ -83,7 +127,8 @@
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
     "plot.fanren-1789-tianhu-yaonu",
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
-    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei"
+    "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
+    "plot.fanren-1813-1818-heiyu-exchange-qitianluo"
   ],
-  "updatedAt": "2026-06-21T05:59:14.562Z"
+  "updatedAt": "2026-06-21T06:01:34.889Z"
 }

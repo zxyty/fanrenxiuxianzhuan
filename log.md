@@ -654,3 +654,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T05:48:33.416Z** `ingest` plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen — 凡人修仙传 第1789-1794章｜万宝大会收徒·隐灵根·重逢黛儿 · kind=plot asOf=2026-06-21 entities=41 relations=46 src=01789-01794.md
 - **2026-06-21T05:51:22.095Z** `ingest` plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi — 凡人修仙传 第1801-1806章｜万骨之邀·陇家夺徒·巨猿战老祖 · kind=plot asOf=2026-06-21 entities=29 relations=31 src=01795-01800.md
 - **2026-06-21T05:59:14.749Z** `ingest` plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei — 凡人修仙传 第1801-1806章｜圣岛·迷天楼·秦氏姐妹 · kind=plot asOf=2026-06-21 entities=43 relations=37 src=01801-01806.md
+- **2026-06-21T06:01:35.046Z** `ingest` plot.fanren-1813-1818-heiyu-exchange-qitianluo — 凡人修仙传 第1813-1818章｜黑域交换大会·齐天锣与阴凤草 · kind=plot asOf=2026-06-21 entities=16 relations=13 src=01807-01812.md
