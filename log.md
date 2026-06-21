@@ -752,3 +752,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:20:40.787Z** `ingest` plot.fanren-2300-zushi-shanhai-zhu — 第2300章 族誓——韩立炼化山海珠，空鱼族全族血誓归附 · kind=plot asOf=2026-06-21 entities=41 relations=44 src=02281-02286.md
 - **2026-06-21T17:28:48.444Z** `ingest` plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing — 凡人修仙传 第2287-2292章：韩立立青元宫远游、黄元子谋诛青元子、飞灵族越隆求炼极元晶 · kind=plot asOf=2026-06-21 entities=17 relations=20 src=02287-02292.md
 - **2026-06-21T17:31:29.566Z** `ingest` plot.fanren-2293-2298-qingyuan-jie — 凡人修仙传 第2293-2298章｜青元之劫：青元子渡天劫·谷外三大乘围攻·韩立救场 · kind=plot asOf=2026-06-21 entities=25 relations=31 src=02293-02298.md
+- **2026-06-21T17:34:22.677Z** `ingest` plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai — 谷外大战终局・韩立赴赤融山脉赫连商盟拍卖会（第2318-2323章） · kind=plot asOf=2026-06-21 entities=27 relations=28 src=02299-02304.md

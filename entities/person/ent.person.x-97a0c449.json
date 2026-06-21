@@ -12,7 +12,8 @@
     "性别": "男",
     "小阶段": "大乘",
     "身份": "阵法大师",
-    "标志特征": "蛇瞳、墨绿蛇纹"
+    "标志特征": "蛇瞳、墨绿蛇纹",
+    "结局": "弃友逃走，被韩立派金儿追杀"
   },
   "observations": {
     "性别": [
@@ -47,6 +48,13 @@
         "docId": "plot.fanren-2293-2298-qingyuan-jie",
         "seq": 2293
       }
+    ],
+    "结局": [
+      {
+        "value": "弃友逃走，被韩立派金儿追杀",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
     ]
   },
   "firstSeq": 2293,
@@ -74,12 +82,19 @@
       "docId": "plot.fanren-2293-2298-qingyuan-jie",
       "dated": false,
       "seq": 2293
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2293-2298-qingyuan-jie"
+    "plot.fanren-2293-2298-qingyuan-jie",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T17:31:29.362Z"
+  "updatedAt": "2026-06-21T17:34:22.477Z"
 }

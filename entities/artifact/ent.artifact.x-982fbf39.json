@@ -4,12 +4,14 @@
   "name": "子母尸阴雷",
   "aliases": [
     "尸阴雷",
-    "灰白圆珠"
+    "灰白圆珠",
+    "灰白圆珠尸阴雷"
   ],
   "summary": "黄元子所备三颗诡异雷宝，用以强破十八天煞阵。",
   "attributes": {
     "持有者": "黄元子",
-    "外形": "拇指大小灰白圆珠、遍布血丝"
+    "外形": "拇指大小灰白圆珠、遍布血丝",
+    "品阶": "弱化体威力仅真品十分之一"
   },
   "observations": {
     "持有者": [
@@ -24,6 +26,14 @@
         "value": "拇指大小灰白圆珠、遍布血丝",
         "docId": "plot.fanren-2293-2298-qingyuan-jie",
         "seq": 2293
+      }
+    ],
+    "品阶": [
+      {
+        "value": "弱化体威力仅真品十分之一",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299,
+        "note": "分化凝真之术所造"
       }
     ]
   },
@@ -40,12 +50,20 @@
       "docId": "plot.fanren-2293-2298-qingyuan-jie",
       "dated": false,
       "seq": 2293
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299,
+      "note": "分化凝真之术所造"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2293-2298-qingyuan-jie"
+    "plot.fanren-2293-2298-qingyuan-jie",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T17:31:29.378Z"
+  "updatedAt": "2026-06-21T17:34:22.501Z"
 }

@@ -8,7 +8,7 @@
   "summary": "异族炼体秘术，共七层，需浸泡特制奇毒液体修炼，圆满可令肉身媲美高阶妖修、万毒不浸。",
   "attributes": {
     "出处": "齐天锣附带炼体之法（黑域交换会换得）",
-    "效果": "层层强化肉身、万毒不浸、圆满可媲美高阶妖修、万毒不侵",
+    "效果": "层层强化肉身、万毒不浸、圆满可媲美高阶妖修、万毒不侵、克制奇毒、自行逼毒",
     "修炼条件": "魔尊级",
     "适用境界": "炼体"
   },
@@ -40,6 +40,11 @@
         "value": "万毒不侵",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      },
+      {
+        "value": "克制奇毒、自行逼毒",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ],
     "修炼条件": [
@@ -93,7 +98,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
-    "plot.fanren-2023-2028-shouchao-yu-chongchao"
+    "plot.fanren-2023-2028-shouchao-yu-chongchao",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T11:34:57.712Z"
+  "updatedAt": "2026-06-21T17:34:22.499Z"
 }

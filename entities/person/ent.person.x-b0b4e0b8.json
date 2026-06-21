@@ -12,9 +12,11 @@
   "attributes": {
     "小阶段": "合体期",
     "称号": "金焰候",
-    "外貌": "面如白玉、乌黑长髯、金龙冠金袍",
+    "外貌": "高冠金袍、半尺乌髯儒雅中年",
     "标志特征": "嗜金/通体金色饰物、火遁之术",
-    "性别": "男"
+    "性别": "男",
+    "出身地": "冥河之地",
+    "结局": "绝念隐退回洞府"
   },
   "observations": {
     "小阶段": [
@@ -41,6 +43,11 @@
         "value": "面如白玉、乌黑长髯、金龙冠金袍",
         "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
         "seq": 1849
+      },
+      {
+        "value": "高冠金袍、半尺乌髯儒雅中年",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ],
     "标志特征": [
@@ -61,6 +68,20 @@
         "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
         "seq": 1855
       }
+    ],
+    "出身地": [
+      {
+        "value": "冥河之地",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
+    ],
+    "结局": [
+      {
+        "value": "绝念隐退回洞府",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
     ]
   },
   "firstSeq": 1849,
@@ -79,9 +100,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
-      "seq": 1849
+      "seq": 2299
     },
     "标志特征": {
       "asOf": null,
@@ -94,13 +115,26 @@
       "docId": "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
       "dated": false,
       "seq": 1855
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
-    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T07:16:44.558Z"
+  "updatedAt": "2026-06-21T17:34:22.480Z"
 }

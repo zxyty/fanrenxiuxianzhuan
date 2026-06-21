@@ -3,13 +3,16 @@
   "type": "person",
   "name": "不灭天尊",
   "aliases": [
-    "不灭道友"
+    "不灭道友",
+    "狰狞巨人"
   ],
   "summary": "大乘强者，身具不灭之体、重伤瞬愈，可化小山巨人，头生弯角背生骨刺，以变化身撕裂虚空。",
   "attributes": {
     "性别": "男",
     "小阶段": "大乘",
-    "标志特征": "不灭之体、头生弯角、背生骨刺"
+    "标志特征": "不灭之体、头生弯角、背生骨刺、不灭之体/狰狞巨人",
+    "存殁": "死亡",
+    "死因": "被噬金虫王斩首并逼出元婴斩杀"
   },
   "observations": {
     "性别": [
@@ -41,6 +44,25 @@
         "value": "背生骨刺",
         "docId": "plot.fanren-2293-2298-qingyuan-jie",
         "seq": 2293
+      },
+      {
+        "value": "不灭之体/狰狞巨人",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
+    ],
+    "死因": [
+      {
+        "value": "被噬金虫王斩首并逼出元婴斩杀",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ]
   },
@@ -63,12 +85,25 @@
       "docId": "plot.fanren-2293-2298-qingyuan-jie",
       "dated": false,
       "seq": 2293
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2293-2298-qingyuan-jie"
+    "plot.fanren-2293-2298-qingyuan-jie",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T17:31:29.361Z"
+  "updatedAt": "2026-06-21T17:34:22.474Z"
 }

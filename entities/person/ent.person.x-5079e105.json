@@ -3,14 +3,18 @@
   "type": "person",
   "name": "黄元子",
   "aliases": [
-    "黄袍男子"
+    "黄袍男子",
+    "青年道士同伙",
+    "黄袍小人"
   ],
   "summary": "长元族大乘，原姓被弃改名图报仇——欲夺回被青元子侵占的族兄肉身；掌九幻如意门，备子母尸阴雷与玄天残宝晶环。",
   "attributes": {
     "性别": "男",
     "种族": "长元族",
-    "小阶段": "大乘",
-    "阵营": "围攻青元子一方"
+    "小阶段": "元婴大成",
+    "阵营": "九幻如意门",
+    "存殁": "死亡",
+    "死因": "被韩立紫金巨手镇压、月牙剑芒追杀元婴"
   },
   "observations": {
     "性别": [
@@ -32,6 +36,12 @@
         "value": "大乘",
         "docId": "plot.fanren-2293-2298-qingyuan-jie",
         "seq": 2293
+      },
+      {
+        "value": "元婴大成",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299,
+        "note": "本体修为；可施神游神通"
       }
     ],
     "阵营": [
@@ -39,6 +49,25 @@
         "value": "围攻青元子一方",
         "docId": "plot.fanren-2293-2298-qingyuan-jie",
         "seq": 2293
+      },
+      {
+        "value": "九幻如意门",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立紫金巨手镇压、月牙剑芒追杀元婴",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ]
   },
@@ -58,21 +87,35 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2293-2298-qingyuan-jie",
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
-      "seq": 2293
+      "seq": 2299,
+      "note": "本体修为；可施神游神通"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2293-2298-qingyuan-jie",
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
-      "seq": 2293
+      "seq": 2299
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+      "dated": false,
+      "seq": 2299
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2293-2298-qingyuan-jie"
+    "plot.fanren-2293-2298-qingyuan-jie",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T17:31:29.361Z"
+  "updatedAt": "2026-06-21T17:34:22.476Z"
 }

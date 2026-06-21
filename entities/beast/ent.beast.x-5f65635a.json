@@ -4,15 +4,17 @@
   "name": "噬金虫王",
   "aliases": [
     "虫王",
-    "紫金小人"
+    "紫金小人",
+    "金儿",
+    "晶莹小人"
   ],
   "summary": "传闻中的噬金虫之王，现世可令大乘修士乃至真仙退避，从无人真正培育出。",
   "attributes": {
     "等级": "传闻媲美真仙",
     "种族": "噬金虫",
     "主人": "韩立",
-    "能力": "金光绞杀、寒气剑光",
-    "外形": "半尺高紫金色小人，无鼻无口、双目冰冷"
+    "能力": "金光绞杀、寒气剑光、晶光剑气/无形剑气、瞬移、斩杀同阶大乘",
+    "外形": "紫金色尺许小人"
   },
   "observations": {
     "等级": [
@@ -51,6 +53,21 @@
         "value": "寒气剑光",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "晶光剑气/无形剑气",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      },
+      {
+        "value": "瞬移",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
+      },
+      {
+        "value": "斩杀同阶大乘",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ],
     "外形": [
@@ -63,6 +80,11 @@
         "value": "半尺高紫金色小人，无鼻无口、双目冰冷",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "紫金色尺许小人",
+        "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
+        "seq": 2299
       }
     ]
   },
@@ -94,9 +116,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
-      "seq": 2251
+      "seq": 2299
     }
   },
   "contested": false,
@@ -106,7 +128,8 @@
     "plot.fanren-1516-1517-zhuye-likai",
     "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
     "plot.chapter-2239-2244-worm-king-ancient-altar",
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai"
   ],
-  "updatedAt": "2026-06-21T16:47:57.361Z"
+  "updatedAt": "2026-06-21T17:34:22.472Z"
 }
