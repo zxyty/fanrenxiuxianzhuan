@@ -14,7 +14,10 @@
     "外貌": "鹰勾鼻老者、三十来岁青衣弟子、满脸皱纹的灰袍老者、满脸皱纹灰袍老者、白发老者",
     "小阶段": "大乘期",
     "阵营": "巫灵三圣",
-    "标志特征": "八臂青魔魔皮、青罡风木牌"
+    "标志特征": "八臂青魔魔皮、青罡风木牌",
+    "种族": "巫灵",
+    "存殁": "死亡",
+    "死因": "元婴被神秘血影吞噬"
   },
   "observations": {
     "性别": [
@@ -110,6 +113,27 @@
         "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
         "seq": 2335
       }
+    ],
+    "种族": [
+      {
+        "value": "巫灵",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "死因": [
+      {
+        "value": "元婴被神秘血影吞噬",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
     ]
   },
   "firstSeq": 139,
@@ -155,6 +179,24 @@
       "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
       "seq": 2335
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
     }
   },
   "contested": false,
@@ -164,7 +206,8 @@
     "plot.fanren-146-151-han-li-joins-huangfenggu",
     "plot.fanren-1155-yaoshou-zhi-luan",
     "plot.fmxz-ch1155-yaoshou-zhi-luan",
-    "plot.fanren-2335-2340-tianding-gong-xueyu"
+    "plot.fanren-2335-2340-tianding-gong-xueyu",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T18:06:40.954Z"
+  "updatedAt": "2026-06-21T18:15:22.870Z"
 }

@@ -4,13 +4,15 @@
   "name": "血合五子",
   "aliases": [
     "血合道友",
-    "五名青年"
+    "五名青年",
+    "五名青年男子"
   ],
   "summary": "五名相貌服饰举止如一的青年，合体后期大成；原为一名大乘，将元婴一分为五练就五大分身，欲一同进阶大乘。",
   "attributes": {
     "小阶段": "合体",
     "外貌": "五人如同一个模子印出",
-    "标志特征": "元婴分五、五大分身"
+    "标志特征": "眼放血红、散腐臭",
+    "身份": "血傀儡"
   },
   "observations": {
     "小阶段": [
@@ -32,6 +34,19 @@
         "value": "元婴分五、五大分身",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "眼放血红、散腐臭",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "身份": [
+      {
+        "value": "血傀儡",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341,
+        "note": "被神秘血影操控"
       }
     ]
   },
@@ -51,15 +66,23 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
       "dated": false,
-      "seq": 2329
+      "seq": 2341
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341,
+      "note": "被神秘血影操控"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T17:58:15.171Z"
+  "updatedAt": "2026-06-21T18:15:22.872Z"
 }

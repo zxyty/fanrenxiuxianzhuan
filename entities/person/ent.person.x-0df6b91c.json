@@ -7,10 +7,12 @@
   ],
   "summary": "血天大陆名气大乘道侣之一，浓眉幽黑、修为深不可测，曾遭孽龙重伤后实力不降反增；华西仙子之夫君。",
   "attributes": {
-    "小阶段": "大乘",
+    "小阶段": "大乘期",
     "外貌": "浓眉幽黑大汉",
     "标志特征": "气息深不可测、身具克制神念探测秘宝",
-    "出身地": "血天大陆"
+    "出身地": "血天大陆",
+    "性别": "男",
+    "性格": "木讷憨厚"
   },
   "observations": {
     "小阶段": [
@@ -18,6 +20,11 @@
         "value": "大乘",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ],
     "外貌": [
@@ -40,15 +47,29 @@
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "性格": [
+      {
+        "value": "木讷憨厚",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
     ]
   },
   "firstSeq": 2329,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
       "dated": false,
-      "seq": 2329
+      "seq": 2341
     },
     "外貌": {
       "asOf": null,
@@ -67,12 +88,25 @@
       "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
       "seq": 2329
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T17:58:15.141Z"
+  "updatedAt": "2026-06-21T18:15:22.903Z"
 }

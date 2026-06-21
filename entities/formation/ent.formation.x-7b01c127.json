@@ -9,12 +9,13 @@
     "光阵",
     "火瑚群岛传送法阵",
     "绿光城传送法阵",
-    "五色光阵"
+    "五色光阵",
+    "小型传送法阵"
   ],
   "summary": "肖姓女子以三十六杆阵旗配合法盘、金篆文/银蝌文催动的大型法阵，调动天地元气，于云层浮现百余丈光阵，可瞬间传送目标；威能远胜大庚剑阵。",
   "attributes": {
-    "效果": "瞬间传送目标、传送、跨海域/大陆传送、破界远程传送",
-    "布置者": "韩立",
+    "效果": "瞬间传送目标、传送、跨海域/大陆传送、破界远程传送、一次性传送（修复后可两三次）",
+    "布置者": "天鼎真人（遗设）",
     "破解法": "以空云晶修复、—"
   },
   "observations": {
@@ -38,6 +39,11 @@
         "value": "破界远程传送",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "一次性传送（修复后可两三次）",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ],
     "布置者": [
@@ -50,6 +56,11 @@
         "value": "韩立",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "天鼎真人（遗设）",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ],
     "破解法": [
@@ -75,9 +86,9 @@
     },
     "布置者": {
       "asOf": null,
-      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
       "dated": false,
-      "seq": 1837
+      "seq": 2341
     },
     "破解法": {
       "asOf": null,
@@ -90,7 +101,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1551-qidu-hanli-vs-guaie",
-    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan"
+    "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T06:54:07.929Z"
+  "updatedAt": "2026-06-21T18:15:22.886Z"
 }

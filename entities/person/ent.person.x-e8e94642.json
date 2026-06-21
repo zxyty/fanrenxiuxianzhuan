@@ -4,14 +4,18 @@
   "name": "余姓老者",
   "aliases": [
     "余兄",
-    "余道友"
+    "余道友",
+    "巫灵三圣之一"
   ],
   "summary": "巫灵三圣之一，驾蜈蚣灵兽，血狱中受困时施驱灵术应对吞骨蝶与血灵。",
   "attributes": {
     "小阶段": "大乘期",
     "阵营": "巫灵三圣",
     "外貌": "老者",
-    "标志特征": "墨绿青纹巫道神通"
+    "标志特征": "墨绿青纹巫道神通",
+    "种族": "巫灵",
+    "存殁": "死亡",
+    "死因": "元婴被神秘血影吞噬"
   },
   "observations": {
     "小阶段": [
@@ -41,6 +45,27 @@
         "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
         "seq": 2335
       }
+    ],
+    "种族": [
+      {
+        "value": "巫灵",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "死因": [
+      {
+        "value": "元婴被神秘血影吞噬",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
     ]
   },
   "firstSeq": 2335,
@@ -68,12 +93,31 @@
       "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
       "seq": 2335
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2335-2340-tianding-gong-xueyu"
+    "plot.fanren-2335-2340-tianding-gong-xueyu",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T18:06:40.955Z"
+  "updatedAt": "2026-06-21T18:15:22.869Z"
 }

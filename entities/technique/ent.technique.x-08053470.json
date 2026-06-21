@@ -1,0 +1,50 @@
+{
+  "id": "ent.technique.x-08053470",
+  "type": "technique",
+  "name": "透换之术",
+  "aliases": [
+    "透换术"
+  ],
+  "summary": "吴姓老者所用秘术，使手掌透明化无形没入物体取出所藏之物而不损坏外壳，消耗法力极巨。",
+  "attributes": {
+    "效果": "隔物取物、不损外壳",
+    "修炼条件": "巫灵秘术"
+  },
+  "observations": {
+    "效果": [
+      {
+        "value": "隔物取物、不损外壳",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "巫灵秘术",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
+    ]
+  },
+  "firstSeq": 2341,
+  "attrProvenance": {
+    "效果": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
+  ],
+  "updatedAt": "2026-06-21T18:15:22.877Z"
+}

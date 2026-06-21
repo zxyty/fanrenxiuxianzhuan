@@ -7,15 +7,16 @@
     "天鼎真人秘境",
     "天鼎宫禁制中枢",
     "天鼎宫分宫",
-    "天鼎宫秘境"
+    "天鼎宫秘境",
+    "天鼎宫中枢秘地"
   ],
   "summary": "天鼎真人遗留下界洞府，藏历劫功法秘诀与重宝灵药，位于万月山脉，禁制重重，需钥匙方可入，定期二次出世。",
   "attributes": {
-    "类型": "飞升真仙遗留洞府、秘境/夺宝之地、秘境、上古秘境",
+    "类型": "飞升真仙遗留洞府、秘境/夺宝之地、秘境、上古秘境、独立空间秘地",
     "所属界面": "灵界",
     "危险度": "禁制重重、极高（越近中心越危险）、极高",
     "特产": "历劫功法秘诀、重宝灵药",
-    "守护": "天鼎真人封印、金篆/银蝌文巨门、分区光幕禁制、层层分宫禁制幻境、层层玄妙禁制、天鼎真人所布禁制"
+    "守护": "天鼎真人封印、金篆/银蝌文巨门、分区光幕禁制、层层分宫禁制幻境、层层玄妙禁制、天鼎真人所布禁制、中枢禁制法阵"
   },
   "observations": {
     "类型": [
@@ -38,6 +39,11 @@
         "value": "上古秘境",
         "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
         "seq": 2335
+      },
+      {
+        "value": "独立空间秘地",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ],
     "所属界面": [
@@ -96,6 +102,11 @@
         "value": "天鼎真人所布禁制",
         "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
         "seq": 2335
+      },
+      {
+        "value": "中枢禁制法阵",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ]
   },
@@ -137,7 +148,8 @@
   "docs": [
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2335-2340-tianding-gong-xueyu"
+    "plot.fanren-2335-2340-tianding-gong-xueyu",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T18:06:40.960Z"
+  "updatedAt": "2026-06-21T18:15:22.919Z"
 }

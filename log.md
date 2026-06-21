@@ -759,3 +759,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:50:49.205Z** `ingest` plot.fanren-2342-2347-blood-crane-city-tianding-palace-key — 韩立血鹤城会清平万花，虚天鼎为天鼎宫仿制钥匙 · kind=plot asOf=2026-06-21 entities=22 relations=25 src=02323-02328.md
 - **2026-06-21T17:58:15.368Z** `ingest` plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru — 凡人修仙传 第2329-2334章｜天鼎宫现世：巨门·双鼎·进入 · kind=plot asOf=2026-06-21 entities=29 relations=39 src=02329-02334.md
 - **2026-06-21T18:06:41.200Z** `ingest` plot.fanren-2335-2340-tianding-gong-xueyu — 凡人修仙传 第2335-2340章｜天鼎宫夺宝、巫灵三圣与血狱 · kind=plot asOf=2026-06-21 entities=29 relations=33 src=02335-02340.md
+- **2026-06-21T18:15:23.162Z** `ingest` plot.fanren-2341-2346-tianwu-bone-blood-corpse — 凡人修仙传 第2341-2346章｜骸骨·血煞尸·三圣之陨 · kind=plot asOf=2026-06-21 entities=35 relations=40 src=02341-02346.md

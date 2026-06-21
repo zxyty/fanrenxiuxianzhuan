@@ -15,10 +15,11 @@
     "小阶段": "大乘期",
     "性别": "男",
     "身份": "血骨门太上长老",
-    "标志特征": "九目血蟾虚影",
+    "标志特征": "戴面具",
     "称号": "狂魔",
     "外貌": "白色面具覆面",
-    "阵营": "血骨门"
+    "阵营": "血骨门",
+    "出身地": "血天大陆"
   },
   "observations": {
     "小阶段": [
@@ -57,6 +58,11 @@
         "value": "九目血蟾虚影",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "戴面具",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
       }
     ],
     "称号": [
@@ -89,6 +95,13 @@
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
       }
+    ],
+    "出身地": [
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+        "seq": 2341
+      }
     ]
   },
   "firstSeq": 2323,
@@ -113,9 +126,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
       "dated": false,
-      "seq": 2329
+      "seq": 2341
     },
     "称号": {
       "asOf": null,
@@ -134,6 +147,12 @@
       "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
       "seq": 2329
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "dated": false,
+      "seq": 2341
     }
   },
   "contested": false,
@@ -141,7 +160,8 @@
   "docs": [
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2335-2340-tianding-gong-xueyu"
+    "plot.fanren-2335-2340-tianding-gong-xueyu",
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
   ],
-  "updatedAt": "2026-06-21T18:06:40.951Z"
+  "updatedAt": "2026-06-21T18:15:22.901Z"
 }
