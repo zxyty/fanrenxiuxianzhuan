@@ -12,7 +12,7 @@
     "危险度": "极高（圣阶魔兽看守、魔气凶猛）",
     "所属界面": "灵界",
     "守护": "圣阶魔兽、穴灵",
-    "特产": "真麟本源、真灵之血"
+    "特产": "真麟本源、穴灵"
   },
   "observations": {
     "类型": [
@@ -73,6 +73,11 @@
         "value": "真麟本源、真灵之血",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "真麟本源、穴灵",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -104,9 +109,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "plot.fanren-ch1637-tulao-wugong",
       "dated": false,
-      "seq": 1627
+      "seq": 1633
     }
   },
   "contested": false,
@@ -114,7 +119,8 @@
   "docs": [
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1619-shalu-mojin-shanmai",
-    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:36:21.034Z"
+  "updatedAt": "2026-06-21T01:48:19.353Z"
 }

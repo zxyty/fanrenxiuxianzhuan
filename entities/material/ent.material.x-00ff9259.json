@@ -7,13 +7,16 @@
     "真灵本源",
     "真灵之气",
     "真麟之念",
-    "真麟本源之力"
+    "真麟本源之力",
+    "真麟本源力量",
+    "本源"
   ],
   "summary": "诞生真灵的本源之力，服之可助晶族乃至木头飞升真仙界，被穴灵吞入体内，为三方争夺焦点。",
   "attributes": {
-    "类型": "真灵本源之力、本源之力",
-    "用途": "助飞升真仙界/蜕化真龙之躯、脱胎换骨/助进阶合体",
-    "稀有度": "极稀有"
+    "类型": "真灵本源之力、本源之力、本源力量、本源之物",
+    "用途": "助飞升真仙界/蜕化真龙之躯、脱胎换骨/助进阶合体、助进阶合体",
+    "稀有度": "逆天/极稀",
+    "产地": "真灵之穴"
   },
   "observations": {
     "类型": [
@@ -26,6 +29,16 @@
         "value": "本源之力",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "本源力量",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      },
+      {
+        "value": "本源之物",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ],
     "用途": [
@@ -38,6 +51,11 @@
         "value": "脱胎换骨/助进阶合体",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "助进阶合体",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ],
     "稀有度": [
@@ -45,6 +63,18 @@
         "value": "极稀有",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "逆天/极稀",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
+    ],
+    "产地": [
+      {
+        "value": "真灵之穴",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -64,15 +94,22 @@
     },
     "稀有度": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "plot.fanren-ch1637-tulao-wugong",
       "dated": false,
-      "seq": 1627
+      "seq": 1633
+    },
+    "产地": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:36:21.057Z"
+  "updatedAt": "2026-06-21T01:48:19.389Z"
 }

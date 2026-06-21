@@ -3,12 +3,17 @@
   "type": "person",
   "name": "彦姓老者",
   "aliases": [
-    "彦前辈"
+    "彦前辈",
+    "彦叔",
+    "彦某"
   ],
   "summary": "雷云镇本地修炼者长辈，与越宗父辈有旧交，搬出竞技场规矩与长老会震慑外来人。",
   "attributes": {
     "小阶段": "炼虚顶阶/上族",
-    "阵营": "雷云镇本地修炼者"
+    "阵营": "雷云镇本地修炼者",
+    "性别": "男",
+    "外貌": "头发灰白老者",
+    "性格": "冷静沉稳"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +28,27 @@
         "value": "雷云镇本地修炼者",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
+    ],
+    "外貌": [
+      {
+        "value": "头发灰白老者",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
+    ],
+    "性格": [
+      {
+        "value": "冷静沉稳",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -39,12 +65,31 @@
       "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
       "seq": 1603
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:04:24.678Z"
+  "updatedAt": "2026-06-21T01:48:19.363Z"
 }

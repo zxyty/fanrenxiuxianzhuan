@@ -3,14 +3,17 @@
   "type": "person",
   "name": "绿发异族",
   "aliases": [
-    "绿发中年人"
+    "绿发中年人",
+    "绿发人",
+    "绿发异族人"
   ],
   "summary": "圭姓异族同伴，绿发四方头、肉身强横的上族九阶，硬拼韩立反被元磁神光与黑色小山镇压半跪。",
   "attributes": {
     "种族": "异族",
     "小阶段": "炼虚顶阶、上族九阶",
-    "性格": "蛮横暴虐",
-    "标志特征": "黄光巨掌神通、肉身强横"
+    "性格": "霸道凶横",
+    "标志特征": "黄光巨掌神通、肉身强横",
+    "外貌": "头颅四方、碧绿头发"
   },
   "observations": {
     "种族": [
@@ -37,6 +40,11 @@
         "value": "蛮横暴虐",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "霸道凶横",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ],
     "标志特征": [
@@ -44,6 +52,13 @@
         "value": "黄光巨掌神通、肉身强横",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      }
+    ],
+    "外貌": [
+      {
+        "value": "头颅四方、碧绿头发",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -63,21 +78,28 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "docId": "plot.fanren-ch1637-tulao-wugong",
       "dated": false,
-      "seq": 1603
+      "seq": 1633
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
       "seq": 1603
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:04:24.677Z"
+  "updatedAt": "2026-06-21T01:48:19.369Z"
 }

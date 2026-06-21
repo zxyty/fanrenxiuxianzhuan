@@ -2,10 +2,15 @@
   "id": "ent.person.x-39aa28f8",
   "type": "person",
   "name": "天外魔君",
-  "aliases": [],
+  "aliases": [
+    "天外魔头顶阶",
+    "天外魔军"
+  ],
   "summary": "穴灵自承的本源,其一缕分魂附身蜃气化为穴灵。",
   "attributes": {
-    "种族": "魔族"
+    "种族": "天外魔头",
+    "称号": "天外魔头顶阶存在",
+    "标志特征": "化身千万、可魔化真灵真仙"
   },
   "observations": {
     "种族": [
@@ -13,6 +18,25 @@
         "value": "魔族",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "天外魔头",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
+    ],
+    "称号": [
+      {
+        "value": "天外魔头顶阶存在",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "化身千万、可魔化真灵真仙",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -20,15 +44,28 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+      "docId": "plot.fanren-ch1637-tulao-wugong",
       "dated": false,
-      "seq": 1627
+      "seq": 1633
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan"
+    "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:36:21.056Z"
+  "updatedAt": "2026-06-21T01:48:19.348Z"
 }

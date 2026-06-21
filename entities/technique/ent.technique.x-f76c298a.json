@@ -9,8 +9,9 @@
   "summary": "遁术中最神秘的一种，瞬息百丈、飘忽鬼魅，远胜普通五行遁术，由风雷翅注入雷电之力激发。",
   "attributes": {
     "出处": "天鹏族",
-    "效果": "瞬移般极速遁行，飘忽鬼魅、高速遁行、借雷之力隐匿身形、雷光瞬遁",
-    "五行属性": "风、雷"
+    "效果": "瞬移般极速遁行，飘忽鬼魅、高速遁行、借雷之力隐匿身形、雷光瞬遁、极速遁逃、忽隐忽现",
+    "五行属性": "风、雷",
+    "修炼条件": "需辟邪神雷支撑、消耗甚大"
   },
   "observations": {
     "出处": [
@@ -45,6 +46,11 @@
         "value": "雷光瞬遁",
         "docId": "plot.fanren-1407-jinsui-lianti",
         "seq": 1405
+      },
+      {
+        "value": "极速遁逃、忽隐忽现",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ],
     "五行属性": [
@@ -57,6 +63,13 @@
         "value": "雷",
         "docId": "plot.fanren-ch547-552-poison-three-demons",
         "seq": 547
+      }
+    ],
+    "修炼条件": [
+      {
+        "value": "需辟邪神雷支撑、消耗甚大",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
       }
     ]
   },
@@ -79,6 +92,12 @@
       "docId": "plot.fanren-ch547-552-poison-three-demons",
       "dated": false,
       "seq": 547
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
@@ -93,7 +112,8 @@
     "plot.fanren-ch696-poji-yuji-pavilion-scroll",
     "plot.fanren-ch702-lianying-zhuimoguanthrough",
     "plot.fanren-ch985-990-kunmozhen-yinchi-yecha",
-    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong"
+    "plot.fanren-1405-1410-jinsui-liti-tianpeng-chizirong",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-20T11:11:09.603Z"
+  "updatedAt": "2026-06-21T01:48:19.406Z"
 }

@@ -3,13 +3,18 @@
   "type": "person",
   "name": "五泣",
   "aliases": [
-    "巨角男子"
+    "巨角男子",
+    "五夜",
+    "双角魔",
+    "蜍",
+    "蜍大人"
   ],
   "summary": "多眼魔老者手下，膀大腰圆、头生乌黑巨角、兽腿黑毛披黑铁甲，能提残魂还原凶手模样。",
   "attributes": {
     "性别": "男",
     "身份": "多眼魔老者手下",
-    "标志特征": "乌黑巨角、兽腿黑毛、黑铁甲"
+    "标志特征": "乌黑巨角、兽腿黑毛、黑铁甲",
+    "种族": "化形魔兽"
   },
   "observations": {
     "性别": [
@@ -42,6 +47,13 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "种族": [
+      {
+        "value": "化形魔兽",
+        "docId": "plot.fanren-ch1637-tulao-wugong",
+        "seq": 1633
+      }
     ]
   },
   "firstSeq": 1609,
@@ -63,12 +75,19 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "dated": false,
+      "seq": 1633
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-ch1637-tulao-wugong"
   ],
-  "updatedAt": "2026-06-21T01:12:46.249Z"
+  "updatedAt": "2026-06-21T01:48:19.402Z"
 }
