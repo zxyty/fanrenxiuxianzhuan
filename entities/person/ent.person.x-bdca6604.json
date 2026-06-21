@@ -3,11 +3,14 @@
   "type": "person",
   "name": "凶魔",
   "aliases": [
-    "那名凶魔"
+    "那名凶魔",
+    "绝世凶魔",
+    "真仙凶魔"
   ],
   "summary": "血祭无数生灵的强大魔头，被血骨门等血道大宗集结大乘存在布困魔大阵围剿的目标。",
   "attributes": {
-    "标志特征": "血祭无数生灵"
+    "标志特征": "施大神通时引动法则之链禁锢自身法力",
+    "身份": "疑真仙界降临者"
   },
   "observations": {
     "标志特征": [
@@ -15,6 +18,18 @@
         "value": "血祭无数生灵",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "施大神通时引动法则之链禁锢自身法力",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      }
+    ],
+    "身份": [
+      {
+        "value": "疑真仙界降临者",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
       }
     ]
   },
@@ -22,15 +37,22 @@
   "attrProvenance": {
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
       "dated": false,
-      "seq": 2359
+      "seq": 2371
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+      "dated": false,
+      "seq": 2371
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2371-2376-guishu-zuling-yu-renzu"
   ],
-  "updatedAt": "2026-06-21T18:53:49.815Z"
+  "updatedAt": "2026-06-21T19:13:41.610Z"
 }

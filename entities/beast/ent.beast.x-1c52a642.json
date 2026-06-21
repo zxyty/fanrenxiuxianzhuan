@@ -10,7 +10,8 @@
     "种族": "传说魔兽",
     "能力": "吞食日月、破空穿梭、瞬间破空穿梭",
     "栖息地": "海底深处",
-    "外形": "未知"
+    "外形": "未知",
+    "等级": "真灵"
   },
   "observations": {
     "种族": [
@@ -51,6 +52,13 @@
         "seq": 577,
         "note": "仅存于传说"
       }
+    ],
+    "等级": [
+      {
+        "value": "真灵",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      }
     ]
   },
   "firstSeq": 577,
@@ -79,6 +87,12 @@
       "dated": false,
       "seq": 577,
       "note": "仅存于传说"
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+      "dated": false,
+      "seq": 2371
     }
   },
   "contested": false,
@@ -86,7 +100,8 @@
   "docs": [
     "plot.fanren-577-582-yinming-zhidi-gaoqiang-cunluo",
     "plot.fanren-1516-bamboo-leaves",
-    "plot.fanren-577-582-yinming-zhidi"
+    "plot.fanren-577-582-yinming-zhidi",
+    "plot.fanren-2371-2376-guishu-zuling-yu-renzu"
   ],
-  "updatedAt": "2026-06-17T07:25:52.605Z"
+  "updatedAt": "2026-06-21T19:13:41.621Z"
 }

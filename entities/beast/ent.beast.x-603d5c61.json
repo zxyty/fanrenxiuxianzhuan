@@ -2,11 +2,14 @@
   "id": "ent.beast.x-603d5c61",
   "type": "beast",
   "name": "古树祖灵",
-  "aliases": [],
+  "aliases": [
+    "祖灵"
+  ],
   "summary": "类似真灵的古树祖灵，绿灵族可沟通附体借其威能，强者不在一般大乘之下。",
   "attributes": {
     "等级": "类似真灵",
-    "能力": "被绿灵族沟通附体、威能近大乘"
+    "能力": "被绿灵族沟通附体、威能近大乘、寄附绿灵族肉身、化参天巨木/巨人",
+    "天敌": "雷属性神通"
   },
   "observations": {
     "等级": [
@@ -21,6 +24,23 @@
         "value": "被绿灵族沟通附体、威能近大乘",
         "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
         "seq": 2365
+      },
+      {
+        "value": "寄附绿灵族肉身",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      },
+      {
+        "value": "化参天巨木/巨人",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      }
+    ],
+    "天敌": [
+      {
+        "value": "雷属性神通",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
       }
     ]
   },
@@ -37,12 +57,19 @@
       "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
       "dated": false,
       "seq": 2365
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+      "dated": false,
+      "seq": 2371
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2390-xiaolingtian-luling"
+    "plot.fanren-2389-2390-xiaolingtian-luling",
+    "plot.fanren-2371-2376-guishu-zuling-yu-renzu"
   ],
-  "updatedAt": "2026-06-21T19:05:25.861Z"
+  "updatedAt": "2026-06-21T19:13:41.588Z"
 }

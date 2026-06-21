@@ -13,16 +13,18 @@
     "魔灵巨舟",
     "魔灵飞舟",
     "墨灵巨舟",
-    "黑色飞舟"
+    "黑色飞舟",
+    "圣舟",
+    "墨灵圣舟巨舟"
   ],
   "summary": "泣灵秘藏中的飞行至宝，可排进圣界前三。",
   "attributes": {
     "品阶": "魔界前三飞行异宝",
     "能力": "极速飞行/护主、空间属性神通、遁速惊人、撕裂虚空、奇快遁速、可缩形改貌、极速飞遁、气势惊人、遁速极快、装载大量傀儡作战巡视、黑色光幕吸纳攻击、缩放变形、沉海潜行",
-    "外形": "庞大黑色巨舟",
+    "外形": "舟、飞行舟、千丈乌黑巨舟、银幡环列、山岳般黑色巨舟、漆黑如墨巨舟、千余丈黑色巨舟、千余丈黑色巨舟、密布傀儡甲士、仿佛小山的黑色巨舟、庞大黑色巨舟、小山般黑色巨舟、千丈黑色巨兽状巨舟",
     "持有者": "韩立",
     "来历": "魔界排名前三飞行至宝",
-    "禁制": "黑水之上遁速大减"
+    "禁制": "无形护舟禁制"
   },
   "observations": {
     "品阶": [
@@ -144,6 +146,16 @@
         "value": "庞大黑色巨舟",
         "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
         "seq": 2365
+      },
+      {
+        "value": "小山般黑色巨舟",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      },
+      {
+        "value": "千丈黑色巨兽状巨舟",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
       }
     ],
     "持有者": [
@@ -165,6 +177,11 @@
         "value": "黑水之上遁速大减",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "无形护舟禁制",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
       }
     ]
   },
@@ -184,9 +201,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
-      "seq": 2365
+      "seq": 2017
     },
     "持有者": {
       "asOf": null,
@@ -202,9 +219,9 @@
     },
     "禁制": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
       "dated": false,
-      "seq": 2239
+      "seq": 2371
     }
   },
   "contested": false,
@@ -219,7 +236,8 @@
     "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
-    "plot.fanren-2389-2390-xiaolingtian-luling"
+    "plot.fanren-2389-2390-xiaolingtian-luling",
+    "plot.fanren-2371-2376-guishu-zuling-yu-renzu"
   ],
-  "updatedAt": "2026-06-21T19:05:25.848Z"
+  "updatedAt": "2026-06-21T19:13:41.613Z"
 }

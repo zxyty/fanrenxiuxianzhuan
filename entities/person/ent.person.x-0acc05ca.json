@@ -14,12 +14,13 @@
   "summary": "血天大陆某谋划大事者，明尊借七窍心音壁向其举荐韩立为帮手。",
   "attributes": {
     "身份": "血天大陆谋划者、赫连商盟血天大陆总执事、赫连商盟首领、赫连商盟血天负责人、强者之战负责人、商盟首脑",
-    "阵营": "血天大陆、本盟、本盟（守护小世界一方）、韩立一方、商盟",
+    "阵营": "血天大陆、本盟、本盟（守护小世界一方）、韩立一方、商盟、赫连商盟",
     "小阶段": "大乘期、合体、大乘",
     "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者、绿袍老者、绿袍枯黄面老者、老者",
     "性别": "男",
     "出身地": "赫连商盟",
-    "性格": "谨慎、对危险敏感"
+    "性格": "谨慎、对危险敏感",
+    "存殁": "死亡"
   },
   "observations": {
     "身份": [
@@ -79,6 +80,11 @@
         "value": "商盟",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "赫连商盟",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
       }
     ],
     "小阶段": [
@@ -149,6 +155,13 @@
         "seq": 2365,
         "note": "本章对韩立有心头预兆"
       }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+        "seq": 2371
+      }
     ]
   },
   "firstSeq": 2305,
@@ -196,6 +209,12 @@
       "dated": false,
       "seq": 2365,
       "note": "本章对韩立有心头预兆"
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
+      "dated": false,
+      "seq": 2371
     }
   },
   "contested": false,
@@ -206,7 +225,8 @@
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2372-six-wings-reappear",
     "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
-    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+    "plot.fanren-2371-2376-guishu-zuling-yu-renzu"
   ],
-  "updatedAt": "2026-06-21T19:01:33.578Z"
+  "updatedAt": "2026-06-21T19:13:41.611Z"
 }
