@@ -8,11 +8,12 @@
   ],
   "summary": "灵族器灵族长老，新近进阶合体初期，脸色苍白、四周飘蓝雾，擅破碎虚空秘术。",
   "attributes": {
-    "种族": "灵族",
+    "种族": "灵族/圣灵",
     "小阶段": "合体初期",
     "身份": "器灵族圣灵",
     "外貌": "脸色苍白",
-    "标志特征": "气息阴寒、神念扫之如泥牛入海"
+    "标志特征": "原本越来越重的阴寒煞气，此次荡然无存",
+    "阵营": "灵族"
   },
   "observations": {
     "种族": [
@@ -25,6 +26,11 @@
         "value": "灵族",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "灵族/圣灵",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "小阶段": [
@@ -74,6 +80,18 @@
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047,
         "note": "韩立疑其有异"
+      },
+      {
+        "value": "原本越来越重的阴寒煞气，此次荡然无存",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -81,9 +99,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 2053
+      "seq": 2059
     },
     "小阶段": {
       "asOf": null,
@@ -105,10 +123,15 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 2047,
-      "note": "韩立疑其有异"
+      "seq": 2059
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
     }
   },
   "contested": false,
@@ -117,7 +140,8 @@
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.183Z"
+  "updatedAt": "2026-06-21T12:57:40.857Z"
 }

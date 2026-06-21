@@ -4,13 +4,18 @@
   "name": "赵姓妇人",
   "aliases": [
     "赵姐姐",
-    "青裙妇人"
+    "青裙妇人",
+    "青长老",
+    "翠绿长裙妇人"
   ],
   "summary": "四十余岁面容普通、青裙的化神后期女修，久在天渊城苦修少参聚会。",
   "attributes": {
     "性别": "女",
     "小阶段": "化神后期",
-    "外貌": "四十余岁、面容普通、身穿青裙、四十余岁、青裙"
+    "外貌": "四十余岁、面容普通、身穿青裙、四十余岁、青裙、翠绿长裙、中等姿色、肌肤略黑",
+    "身份": "长老",
+    "阵营": "魔界",
+    "标志特征": "肩头三首青蛇、三首巨蟒、碧绿细针"
   },
   "observations": {
     "性别": [
@@ -37,6 +42,42 @@
         "value": "四十余岁、青裙",
         "docId": "plot.fanren-1387-1392-juji-tumou-zhenchan",
         "seq": 1387
+      },
+      {
+        "value": "翠绿长裙、中等姿色、肌肤略黑",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "身份": [
+      {
+        "value": "长老",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "肩头三首青蛇",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      },
+      {
+        "value": "三首巨蟒",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      },
+      {
+        "value": "碧绿细针",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -59,13 +100,32 @@
       "docId": "plot.fanren-1387-1392-julji-tushan-zhentu",
       "dated": false,
       "seq": 1387
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1387-1392-julji-tushan-zhentu",
-    "plot.fanren-1387-1392-juji-tumou-zhenchan"
+    "plot.fanren-1387-1392-juji-tumou-zhenchan",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-20T10:47:31.693Z"
+  "updatedAt": "2026-06-21T12:57:40.843Z"
 }

@@ -6,8 +6,9 @@
   "summary": "兽尊殿坐镇圣祖，神秘罕露面，十有八九是大乘期化形魔兽。",
   "attributes": {
     "种族": "化形魔兽",
-    "身份": "兽尊殿圣祖",
-    "小阶段": "大乘期"
+    "身份": "圣祖",
+    "小阶段": "大乘期",
+    "阵营": "魔族"
   },
   "observations": {
     "种族": [
@@ -22,6 +23,11 @@
         "value": "兽尊殿圣祖",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "圣祖",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "小阶段": [
@@ -30,6 +36,13 @@
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053,
         "note": "据传/十有八九"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -43,9 +56,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 2053
+      "seq": 2059
     },
     "小阶段": {
       "asOf": null,
@@ -53,12 +66,19 @@
       "dated": false,
       "seq": 2053,
       "note": "据传/十有八九"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.229Z"
+  "updatedAt": "2026-06-21T12:57:40.811Z"
 }

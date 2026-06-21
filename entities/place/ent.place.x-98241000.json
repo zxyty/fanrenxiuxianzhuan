@@ -3,13 +3,14 @@
   "type": "place",
   "name": "魔源海",
   "aliases": [
-    "魔渊海"
+    "魔渊海",
+    "魔族起源之地"
   ],
   "summary": "魔界最东端的广阔海域，深海有魔尊乃至圣祖级化形海兽；洗灵池、净灵莲所在岛屿在此。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "海域",
-    "危险度": "高(海兽、化形海兽)"
+    "类型": "海域/魔族圣地",
+    "危险度": "极高（混乱之气、密集雷电）"
   },
   "observations": {
     "所属界面": [
@@ -24,6 +25,11 @@
         "value": "海域",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "海域/魔族圣地",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "危险度": [
@@ -31,6 +37,11 @@
         "value": "高(海兽、化形海兽)",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "极高（混乱之气、密集雷电）",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -44,22 +55,23 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 1999
+      "seq": 2059
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 1999
+      "seq": 2059
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.195Z"
+  "updatedAt": "2026-06-21T12:57:40.871Z"
 }

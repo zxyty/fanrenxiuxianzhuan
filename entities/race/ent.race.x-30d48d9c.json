@@ -18,15 +18,16 @@
     "我族",
     "圣灵族",
     "灵族圣灵",
-    "灵族同道"
+    "灵族同道",
+    "灵类"
   ],
   "summary": "灵界诸族中最弱小的族类，可化人形者为灵将（实力比肩人族化神），上有玄灵、圣灵级；真正大敌为夜叉族。",
   "attributes": {
     "特性": "五行灵体、灵将可化人形、可由灵物点化进化而生、开灵智艰难、数量稀少、开灵智即具神通",
     "天敌": "夜叉族",
-    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）、窈窕人影、白光人影、千秋仙子、千秋圣女、白戚、金鼓长老、藏形",
+    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）、窈窕人影、白光人影、千秋仙子、千秋圣女、白戚、金鼓长老、藏形、止水、金长老",
     "聚居地": "灵界一角（如祖云山）",
-    "阵营": "灵界异族",
+    "阵营": "灵族联军",
     "天赋神通": "化白色小剑、剑丝、剑气"
   },
   "observations": {
@@ -124,6 +125,16 @@
         "value": "藏形",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "止水",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      },
+      {
+        "value": "金长老",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "聚居地": [
@@ -153,6 +164,11 @@
         "value": "灵界异族",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "灵族联军",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "天赋神通": [
@@ -201,9 +217,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 1999
+      "seq": 2059
     },
     "天赋神通": {
       "asOf": null,
@@ -235,7 +251,8 @@
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-ch2065-jinjingzhu",
     "plot.fanren-2068-2069-fansuan-lanjie",
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.193Z"
+  "updatedAt": "2026-06-21T12:57:40.869Z"
 }

@@ -1,79 +1,80 @@
 {
-  "id": "ent.race.x-83f1777f",
-  "type": "race",
-  "name": "青翼族",
+  "id": "ent.person.x-5880cfbf",
+  "type": "person",
+  "name": "魔族男子",
   "aliases": [
-    "青翼人",
-    "青翼族魔尊"
+    "青翼族魔"
   ],
-  "summary": "魔界一族，整体不算强大，但极少数核心族人继承青鸾血脉、拥有青鸾天赋神通；领地为铁沙岭。",
+  "summary": "守护核心弟子的青翼族魔修，精通『魔风遁』，以白羽扇召风龙、驱使额生碧绿妖目的雪白魔禽，仍被韩立识破偷袭。",
   "attributes": {
-    "聚居地": "铁沙岭·熏香寨",
+    "性别": "男",
+    "种族": "青翼族",
+    "身份": "护卫/核心弟子守护者",
     "阵营": "魔界",
-    "天赋神通": "青鸾血脉/天赋神通",
-    "特性": "驱兽之术、青鸾血脉",
-    "代表人物": "凌源圣祖、青裙妇人"
+    "标志特征": "魔风遁、白羽扇、赤红圆环驱雪白魔禽"
   },
   "observations": {
-    "聚居地": [
+    "性别": [
       {
-        "value": "铁沙岭",
-        "docId": "plot.fanren-2070-erjin-huanxiao",
-        "seq": 2053
-      },
+        "value": "男",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "种族": [
       {
-        "value": "铁沙岭·熏香寨",
+        "value": "青翼族",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "身份": [
+      {
+        "value": "护卫/核心弟子守护者",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
     ],
     "阵营": [
       {
-        "value": "魔族",
-        "docId": "plot.fanren-2070-erjin-huanxiao",
-        "seq": 2053
-      },
-      {
         "value": "魔界",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
     ],
-    "天赋神通": [
+    "标志特征": [
       {
-        "value": "青鸾血脉/天赋神通",
-        "docId": "plot.fanren-2070-erjin-huanxiao",
-        "seq": 2053
-      }
-    ],
-    "特性": [
-      {
-        "value": "驱兽之术",
+        "value": "魔风遁",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       },
       {
-        "value": "青鸾血脉",
-        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-        "seq": 2059
-      }
-    ],
-    "代表人物": [
-      {
-        "value": "凌源圣祖",
+        "value": "白羽扇",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       },
       {
-        "value": "青裙妇人",
+        "value": "赤红圆环驱雪白魔禽",
         "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
         "seq": 2059
       }
     ]
   },
-  "firstSeq": 2053,
+  "firstSeq": 2059,
   "attrProvenance": {
-    "聚居地": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
+    },
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
@@ -85,19 +86,7 @@
       "dated": false,
       "seq": 2059
     },
-    "天赋神通": {
-      "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
-      "dated": false,
-      "seq": 2053
-    },
-    "特性": {
-      "asOf": null,
-      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
-      "dated": false,
-      "seq": 2059
-    },
-    "代表人物": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
@@ -107,8 +96,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2070-erjin-huanxiao",
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:57:40.868Z"
+  "updatedAt": "2026-06-21T12:57:40.842Z"
 }

@@ -2,12 +2,17 @@
   "id": "ent.person.x-7bb042d3",
   "type": "person",
   "name": "凌源圣祖",
-  "aliases": [],
+  "aliases": [
+    "凌源大人",
+    "凌源圣祖化身"
+  ],
   "summary": "魔族圣祖，仅以一具化身常年坐镇铁沙岭（报青翼族大恩）；本体闭生死关万年、疑已陨落。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族圣祖",
-    "存殁": "存疑"
+    "身份": "魔族圣祖、圣祖化身、青翼族靠山/坐镇圣祖",
+    "存殁": "存疑",
+    "阵营": "青翼族",
+    "结局": "化身被韩立击成重伤、闭关"
   },
   "observations": {
     "种族": [
@@ -22,6 +27,17 @@
         "value": "魔族圣祖",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "圣祖化身",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059,
+        "note": "化身降临坐镇"
+      },
+      {
+        "value": "青翼族靠山/坐镇圣祖",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ],
     "存殁": [
@@ -30,6 +46,20 @@
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053,
         "note": "本体闭生死关万年，有传言已陨落"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "青翼族",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "结局": [
+      {
+        "value": "化身被韩立击成重伤、闭关",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -53,12 +83,25 @@
       "dated": false,
       "seq": 2053,
       "note": "本体闭生死关万年，有传言已陨落"
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.226Z"
+  "updatedAt": "2026-06-21T12:57:40.859Z"
 }

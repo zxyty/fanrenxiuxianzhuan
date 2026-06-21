@@ -10,7 +10,8 @@
     "所属界面": "魔界",
     "所属势力": "青翼族",
     "特产": "青鸾真血",
-    "守护": "凌源圣祖化身"
+    "守护": "青翼族",
+    "类型": "山脉/族地、山岭据点"
   },
   "observations": {
     "所属界面": [
@@ -39,6 +40,23 @@
         "value": "凌源圣祖化身",
         "docId": "plot.fanren-2070-erjin-huanxiao",
         "seq": 2053
+      },
+      {
+        "value": "青翼族",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      }
+    ],
+    "类型": [
+      {
+        "value": "山脉/族地",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
+      },
+      {
+        "value": "山岭据点",
+        "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+        "seq": 2059
       }
     ]
   },
@@ -64,15 +82,22 @@
     },
     "守护": {
       "asOf": null,
-      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
       "dated": false,
-      "seq": 2053
+      "seq": 2059
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
+      "dated": false,
+      "seq": 2059
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2070-erjin-huanxiao"
+    "plot.fanren-2070-erjin-huanxiao",
+    "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai"
   ],
-  "updatedAt": "2026-06-21T12:24:42.243Z"
+  "updatedAt": "2026-06-21T12:57:40.870Z"
 }
