@@ -3,14 +3,17 @@
   "type": "person",
   "name": "胥姓男子",
   "aliases": [
-    "胥道友"
+    "胥道友",
+    "胥贤侄",
+    "白净面孔男子"
   ],
   "summary": "圣岛合体期长老，面色阴沉极少与人交谈，族中长辈与敖啸是旧识，被敖啸点名另行交代。",
   "attributes": {
     "性别": "男",
     "小阶段": "合体期",
     "外貌": "面色阴沉的高瘦男子",
-    "阵营": "圣岛"
+    "阵营": "圣岛",
+    "身份": "圣岛长老/莫道友记名弟子"
   },
   "observations": {
     "性别": [
@@ -40,6 +43,13 @@
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
       }
+    ],
+    "身份": [
+      {
+        "value": "圣岛长老/莫道友记名弟子",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
+      }
     ]
   },
   "firstSeq": 1951,
@@ -67,12 +77,19 @@
       "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
       "seq": 1951
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "dated": false,
+      "seq": 1957
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
   ],
-  "updatedAt": "2026-06-21T10:04:34.928Z"
+  "updatedAt": "2026-06-21T10:12:26.519Z"
 }

@@ -9,10 +9,10 @@
   ],
   "summary": "结丹后期的白须老者，主持试剑大会带队事宜，接收宋师祖密报并怀疑杜东身份。",
   "attributes": {
-    "小阶段": "结丹后期",
+    "小阶段": "炼虚期",
     "性别": "男",
-    "身份": "百巧院长老",
-    "外貌": "火红头发、黝黑皮肤",
+    "身份": "火离宗掌门",
+    "外貌": "白须老者",
     "阵营": "落云宗"
   },
   "observations": {
@@ -21,6 +21,11 @@
         "value": "结丹后期",
         "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
         "seq": 619
+      },
+      {
+        "value": "炼虚期",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "性别": [
@@ -35,6 +40,11 @@
         "value": "百巧院长老",
         "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
         "seq": 859
+      },
+      {
+        "value": "火离宗掌门",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "外貌": [
@@ -47,6 +57,11 @@
         "value": "白须飘飘满脸皱纹蓝袍老者",
         "docId": "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
         "seq": 619
+      },
+      {
+        "value": "白须老者",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "阵营": [
@@ -61,9 +76,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 619
+      "seq": 1957
     },
     "性别": {
       "asOf": null,
@@ -73,15 +88,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 859
+      "seq": 1957
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-859-864-weidan-tanyan-qinghan",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 859
+      "seq": 1957
     },
     "阵营": {
       "asOf": null,
@@ -95,7 +110,8 @@
   "docs": [
     "plot.fanren-618-622-luoyunzong-zongnei-xuanba",
     "plot.fanren-859-864-weidan-tanyan-qinghan",
-    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan"
+    "plot.fanren-ch619-624-luoyunzong-shijian-neixuan",
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
   ],
-  "updatedAt": "2026-06-17T08:14:39.739Z"
+  "updatedAt": "2026-06-21T10:12:26.569Z"
 }

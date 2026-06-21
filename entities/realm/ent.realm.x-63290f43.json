@@ -16,7 +16,8 @@
     "上一境": "合体期",
     "下一境": "渡劫、合体、合体期、度劫期、（无，人族顶阶）",
     "突破关键": "度雷劫飞升",
-    "小阶段": "大乘初期、大乘后期"
+    "小阶段": "大乘初期、大乘后期",
+    "突破征兆": "雷劫"
   },
   "observations": {
     "阶序": [
@@ -98,6 +99,13 @@
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
       }
+    ],
+    "突破征兆": [
+      {
+        "value": "雷劫",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
+      }
     ]
   },
   "firstSeq": 127,
@@ -131,6 +139,12 @@
       "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
       "dated": false,
       "seq": 1507
+    },
+    "突破征兆": {
+      "asOf": null,
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "dated": false,
+      "seq": 1957
     }
   },
   "contested": false,
@@ -150,7 +164,8 @@
     "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan"
+    "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
   ],
-  "updatedAt": "2026-06-21T09:43:53.212Z"
+  "updatedAt": "2026-06-21T10:12:26.556Z"
 }

@@ -10,18 +10,20 @@
     "敖啸前辈",
     "敖啸老祖宗",
     "敖前辈",
-    "长发男子"
+    "长发男子",
+    "敖啸大人"
   ],
   "summary": "妖族七大妖王之一，玲珑之祖父，修啸月妖功，连元刹圣祖都为之忌惮。",
   "attributes": {
     "种族": "银月一族（银月狼族）、妖族(银狼)、银月狼族、妖族",
-    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中、妖族唯一大乘、银月之祖父",
+    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中、妖族唯一大乘、银月之祖父、圣岛镇守者",
     "称号": "敖啸老祖",
     "标志特征": "觉醒月体",
     "小阶段": "大乘期",
     "存殁": "存活",
     "性别": "男",
-    "外貌": "银袍、乌黑长直披腰、面若处子的三十余岁男子"
+    "外貌": "面庞极年轻",
+    "寿元": "撑不过下一次雷劫"
   },
   "observations": {
     "种族": [
@@ -67,6 +69,11 @@
         "value": "妖族唯一大乘、银月之祖父",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      },
+      {
+        "value": "圣岛镇守者",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "称号": [
@@ -124,6 +131,18 @@
         "value": "银袍、乌黑长直披腰、面若处子的三十余岁男子",
         "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
         "seq": 1951
+      },
+      {
+        "value": "面庞极年轻",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
+      }
+    ],
+    "寿元": [
+      {
+        "value": "撑不过下一次雷劫",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ]
   },
@@ -173,9 +192,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 1951
+      "seq": 1957
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "dated": false,
+      "seq": 1957
     }
   },
   "contested": false,
@@ -184,7 +209,8 @@
     "plot.fanren-ch1057-sanbao-lianshou",
     "plot.fanren-1057-three-treasures-joint-attack",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
-    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
   ],
-  "updatedAt": "2026-06-21T10:04:34.897Z"
+  "updatedAt": "2026-06-21T10:12:26.512Z"
 }

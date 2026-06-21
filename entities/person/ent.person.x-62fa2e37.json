@@ -11,11 +11,12 @@
   "attributes": {
     "阵营": "人族（倚天城方）",
     "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔、化身五爪真青龙、化青龙、化龙大神通、化五爪青龙、体表七口短刃、风雷神通",
-    "身份": "倚天城太上长老",
-    "小阶段": "合体期",
-    "外貌": "已恢复人形、面色苍白",
+    "身份": "九星宗合体修士、四大宗门太上长老、倚天城太上长老、九星宗太上长老、原倚天城长老",
+    "小阶段": "合体中期",
+    "外貌": "锦袍男子",
     "性格": "刚烈不屈",
-    "种族": "人族"
+    "种族": "半妖",
+    "性别": "男"
   },
   "observations": {
     "阵营": [
@@ -77,6 +78,16 @@
         "value": "倚天城太上长老",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "九星宗太上长老",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
+      },
+      {
+        "value": "原倚天城长老",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "小阶段": [
@@ -89,6 +100,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "外貌": [
@@ -102,6 +118,11 @@
         "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
         "seq": 1903,
         "note": "本片段"
+      },
+      {
+        "value": "锦袍男子",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ],
     "性格": [
@@ -116,6 +137,18 @@
         "value": "人族",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "半妖",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+        "seq": 1957
       }
     ]
   },
@@ -135,22 +168,21 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
-      "seq": 1897
+      "seq": 1885
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 1891
+      "seq": 1957
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhizhan-8-10",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 1903,
-      "note": "本片段"
+      "seq": 1957
     },
     "性格": {
       "asOf": null,
@@ -160,9 +192,15 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
       "dated": false,
-      "seq": 1897
+      "seq": 1957
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1957-1962-shengdao-aoxiao-huolizong",
+      "dated": false,
+      "seq": 1957
     }
   },
   "contested": false,
@@ -174,7 +212,8 @@
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1911-yitian-war-2",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
-    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi"
+    "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+    "plot.fanren-1957-1962-shengdao-aoxiao-huolizong"
   ],
-  "updatedAt": "2026-06-21T08:55:10.606Z"
+  "updatedAt": "2026-06-21T10:12:26.581Z"
 }
