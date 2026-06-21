@@ -17,12 +17,13 @@
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
     "性格": "心性过激、嗜血祭、自大",
-    "身份": "九元观弟子、降世真仙、仙界降临真仙、仙界顶阶仙人、下界真仙",
-    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术、可化金色神人、恢复全盛仙力、血河八条五爪血龙、黑白太极古镜、翠绿小伞",
-    "外貌": "金色神人形象",
-    "阵营": "敌",
+    "身份": "九元观弟子、降世真仙、仙界降临真仙、仙界顶阶仙人、下界真仙、真仙/仙人、操控真仙傀儡、争夺血河阵眼者、仙界真仙",
+    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术、可化金色神人、恢复全盛仙力、血河八条五爪血龙、黑白太极古镜、翠绿小伞、金灿灿符箓、蓝色玉盒、神魂禁制、金蓝二色符文交错、灵域之力",
+    "外貌": "千余丈金色巨人，一目金芒一目蓝焰",
+    "阵营": "敌方",
     "小阶段": "真仙",
-    "称号": "血祭凶魔"
+    "称号": "明尊",
+    "种族": "仙界之人"
   },
   "observations": {
     "性格": [
@@ -67,6 +68,22 @@
         "value": "下界真仙",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "真仙/仙人",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "神念降临灵界，受压制"
+      },
+      {
+        "value": "操控真仙傀儡、争夺血河阵眼者",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "仙界真仙",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "标志特征": [
@@ -104,6 +121,26 @@
         "value": "翠绿小伞",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "金灿灿符箓",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "蓝色玉盒",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "神魂禁制",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "金蓝二色符文交错、灵域之力",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "外貌": [
@@ -121,6 +158,12 @@
         "value": "金色神人形象",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "千余丈金色巨人，一目金芒一目蓝焰",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "施展灵域化身后"
       }
     ],
     "阵营": [
@@ -134,6 +177,11 @@
         "value": "敌",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "敌方",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "小阶段": [
@@ -149,6 +197,18 @@
         "value": "血祭凶魔",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "明尊",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
+    ],
+    "种族": [
+      {
+        "value": "仙界之人",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ]
   },
@@ -174,15 +234,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2389
+      "seq": 2395,
+      "note": "施展灵域化身后"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2389
+      "seq": 2395
     },
     "小阶段": {
       "asOf": null,
@@ -193,9 +254,15 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2383
+      "seq": 2395
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
@@ -205,7 +272,8 @@
     "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
     "plot.fanren-ch2377-2382-malaiang-shizong",
     "plot.fanren-2403-dingji",
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.254Z"
+  "updatedAt": "2026-06-21T20:19:53.993Z"
 }

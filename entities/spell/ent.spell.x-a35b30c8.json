@@ -8,13 +8,15 @@
     "玄天花",
     "灵域",
     "玄天花域",
-    "伪灵域"
+    "伪灵域",
+    "灵域之力"
   ],
   "summary": "宝花以玄天圣树修成的神通，可化方圆千丈为自成天地的领域，域内无法借助天地元气、大乘战力被削七八成。",
   "attributes": {
-    "类型": "领域神通",
-    "出处": "残缺上古典籍",
-    "适用境界": "仙人"
+    "类型": "真仙神通",
+    "出处": "仙界真仙",
+    "适用境界": "真仙全盛",
+    "威力": "笼罩天地、削弱界面阵法法则之力"
   },
   "observations": {
     "类型": [
@@ -22,6 +24,11 @@
         "value": "领域神通",
         "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
         "seq": 2095
+      },
+      {
+        "value": "真仙神通",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "出处": [
@@ -39,6 +46,11 @@
         "value": "残缺上古典籍",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      },
+      {
+        "value": "仙界真仙",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "适用境界": [
@@ -62,6 +74,18 @@
         "value": "仙人",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "真仙全盛",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
+    ],
+    "威力": [
+      {
+        "value": "笼罩天地、削弱界面阵法法则之力",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ]
   },
@@ -69,21 +93,27 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-ch2095-2100-xuantian-shengshu-lanpu-lake",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2095
+      "seq": 2395
     },
     "出处": {
       "asOf": null,
-      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2209
+      "seq": 2395
     },
     "适用境界": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2251
+      "seq": 2395
+    },
+    "威力": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
@@ -96,7 +126,8 @@
     "plot.fanren-2234-2239-chongmu-zhi-zhan",
     "plot.fanren-2227-2232-zhiling-guangyuan",
     "plot.fanren-2270-jiuyuanguan",
-    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T19:01:33.585Z"
+  "updatedAt": "2026-06-21T20:19:54.000Z"
 }

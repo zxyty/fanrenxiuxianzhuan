@@ -15,11 +15,11 @@
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "商盟主事",
+    "身份": "联军统筹/本盟一员",
     "外貌": "赤红头发老者",
     "小阶段": "大乘期",
     "出身地": "仙人嫡系后人后裔",
-    "阵营": "赫连商盟",
+    "阵营": "灵界大乘联军",
     "性格": "深沉算计",
     "称号": "明尊",
     "标志特征": "无形浮现凝聚之体"
@@ -55,6 +55,11 @@
         "value": "商盟主事",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "联军统筹/本盟一员",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "外貌": [
@@ -103,6 +108,11 @@
         "value": "赫连商盟",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "灵界大乘联军",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "性格": [
@@ -131,9 +141,9 @@
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2389
+      "seq": 2395
     },
     "外貌": {
       "asOf": null,
@@ -155,9 +165,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2383
+      "seq": 2395
     },
     "性格": {
       "asOf": null,
@@ -186,7 +196,8 @@
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-ch2377-2382-malaiang-shizong",
     "plot.fanren-2403-dingji",
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.251Z"
+  "updatedAt": "2026-06-21T20:19:53.994Z"
 }

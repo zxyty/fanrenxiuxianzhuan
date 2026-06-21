@@ -4,14 +4,16 @@
   "name": "烈煞金罡沙",
   "aliases": [
     "黄色晶粒飓风",
-    "土黄沙雾"
+    "土黄沙雾",
+    "金罡沙",
+    "晶沙"
   ],
   "summary": "上古罕见奇沙，土黄晶莹、奇重，攻防皆具恐怖威能，被泣灵圣祖精炼并与黄色葫芦融为一体，唯韩立可发挥全部神通。",
   "attributes": {
-    "类型": "上古奇沙",
-    "用途": "攻防",
+    "类型": "攻杀型灵沙",
+    "用途": "化晶沙海碾磨碎敌",
     "稀有度": "罕见",
-    "产地": "泣灵秘藏"
+    "产地": "魔界"
   },
   "observations": {
     "类型": [
@@ -19,6 +21,11 @@
         "value": "上古奇沙",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "攻杀型灵沙",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "用途": [
@@ -26,6 +33,11 @@
         "value": "攻防",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "化晶沙海碾磨碎敌",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "稀有度": [
@@ -40,6 +52,11 @@
         "value": "泣灵秘藏",
         "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
         "seq": 2239
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ]
   },
@@ -47,15 +64,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2239
+      "seq": 2395
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2239
+      "seq": 2395
     },
     "稀有度": {
       "asOf": null,
@@ -65,16 +82,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2239
+      "seq": 2395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.chapter-2239-2244-worm-king-ancient-altar",
-    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T17:00:27.234Z"
+  "updatedAt": "2026-06-21T20:19:53.987Z"
 }

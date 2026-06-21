@@ -9,9 +9,10 @@
   "summary": "仙界秘阵，明尊误称/伪称为两仪灭尘阵，实为更玄妙的两仪微尘阵，布于鸣煞之地以困杀真仙。",
   "attributes": {
     "品阶": "仙界法阵",
-    "效果": "困敌、削弱、自爆献祭",
+    "效果": "困敌、削弱、自爆献祭、界面法则杀阵",
     "出处": "仙界",
-    "破解法": "下界材料替代致残缺削弱"
+    "破解法": "下界材料替代致残缺削弱",
+    "布置者": "灵界大乘联军"
   },
   "observations": {
     "品阶": [
@@ -36,6 +37,11 @@
         "value": "自爆献祭",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "界面法则杀阵",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "出处": [
@@ -51,6 +57,13 @@
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389,
         "note": "用三万六千余件阵旗阵盘、数以万计极品晶石布成"
+      }
+    ],
+    "布置者": [
+      {
+        "value": "灵界大乘联军",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ]
   },
@@ -80,12 +93,19 @@
       "dated": false,
       "seq": 2389,
       "note": "用三万六千余件阵旗阵盘、数以万计极品晶石布成"
+    },
+    "布置者": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.264Z"
+  "updatedAt": "2026-06-21T20:19:54.001Z"
 }

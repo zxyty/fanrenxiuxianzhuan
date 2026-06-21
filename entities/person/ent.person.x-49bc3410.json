@@ -10,8 +10,9 @@
   "attributes": {
     "种族": "天忌族",
     "小阶段": "大乘",
-    "标志特征": "造化之身化银色巨人",
-    "性格": "豪爽好斗"
+    "标志特征": "上百道银梭状宝物",
+    "性格": "豪爽好斗",
+    "阵营": "灵界大乘联军"
   },
   "observations": {
     "种族": [
@@ -33,6 +34,11 @@
         "value": "造化之身化银色巨人",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "上百道银梭状宝物",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "性格": [
@@ -40,6 +46,13 @@
         "value": "豪爽好斗",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵界大乘联军",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ]
   },
@@ -59,21 +72,28 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2389
+      "seq": 2395
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
       "seq": 2389
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.258Z"
+  "updatedAt": "2026-06-21T20:19:53.995Z"
 }

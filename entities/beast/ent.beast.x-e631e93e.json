@@ -6,14 +6,16 @@
     "鹿首熊身怪兽",
     "鹿首凶身巨兽",
     "鹿兄",
-    "鹿首巨汉"
+    "鹿首巨汉",
+    "阳鹿道友"
   ],
   "summary": "角蚩族供奉的上古真灵之一，借上古契约召唤迎战马良，战后失踪。",
   "attributes": {
     "等级": "真灵",
     "种族": "角蚩族",
     "外形": "鹿首壮硕巨人",
-    "主人": "降临真仙"
+    "主人": "降临真仙",
+    "能力": "瞬移横跨数百丈、乳白光晕粘稠压制之力、丈许白濛濛风弹"
   },
   "observations": {
     "等级": [
@@ -64,6 +66,23 @@
         "seq": 2389,
         "note": "被收服为随从"
       }
+    ],
+    "能力": [
+      {
+        "value": "瞬移横跨数百丈",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "乳白光晕粘稠压制之力",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "丈许白濛濛风弹",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
     ]
   },
   "firstSeq": 2377,
@@ -92,6 +111,12 @@
       "dated": false,
       "seq": 2389,
       "note": "被收服为随从"
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
@@ -99,7 +124,8 @@
   "docs": [
     "plot.fanren-ch2377-2382-malaiang-shizong",
     "plot.fanren-2403-dingji",
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.255Z"
+  "updatedAt": "2026-06-21T20:19:53.983Z"
 }

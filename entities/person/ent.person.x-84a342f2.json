@@ -26,13 +26,14 @@
     "性别": "男",
     "种族": "妖",
     "身份": "慕兰大仙师、大仙师、天澜圣殿仙师、突兀四大仙师之一、天澜大仙师、天澜草原大仙师、突兀族四大仙师之一、天澜圣殿修士、天澜圣殿大修士、天澜圣殿长老、化身角蚩族修炼者",
-    "外貌": "面印金银灵纹的白袍青年",
+    "外貌": "白袍、脸侧金银色刺青灵纹、面容近似韩立",
     "结局": "法宝被夺、欲脱体而逃",
-    "标志特征": "元婴寄身灵犀孔雀、九只碧绿飞轮(可合一化碧虹)、九只碧绿飞轮、灵犀孔雀、青色圆珠/光团、可凝练素阴星气、化八翼巨蚣替身、化形通体雪白八翼蜈蚣、八只近似透明翅翼、本体六翼巨大蜈蚣",
+    "标志特征": "元婴寄身灵犀孔雀、九只碧绿飞轮(可合一化碧虹)、九只碧绿飞轮、灵犀孔雀、青色圆珠/光团、可凝练素阴星气、化八翼巨蚣替身、化形通体雪白八翼蜈蚣、八只近似透明翅翼、本体六翼巨大蜈蚣、三对透明蝉翼、擅神秘遁术",
     "称号": "天澜草原大仙师",
     "存殁": "死亡",
     "死因": "被元刹圣祖魔像逼至元婴自爆、被元刹圣祖魔像弹指,元婴自爆",
-    "性格": "自负多疑"
+    "性格": "自负多疑",
+    "出身地": "雷鸣大陆"
   },
   "observations": {
     "小阶段": [
@@ -213,6 +214,11 @@
         "value": "面印金银灵纹的白袍青年",
         "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
         "seq": 2365
+      },
+      {
+        "value": "白袍、脸侧金银色刺青灵纹、面容近似韩立",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "结局": [
@@ -269,6 +275,11 @@
         "value": "本体六翼巨大蜈蚣",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "三对透明蝉翼、擅神秘遁术",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "称号": [
@@ -323,6 +334,13 @@
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
       }
+    ],
+    "出身地": [
+      {
+        "value": "雷鸣大陆",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
     ]
   },
   "firstSeq": 889,
@@ -359,9 +377,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2365
+      "seq": 2395
     },
     "结局": {
       "asOf": null,
@@ -399,6 +417,12 @@
       "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
       "seq": 2389
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
     }
   },
   "contested": false,
@@ -429,7 +453,8 @@
     "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
     "plot.fanren-ch2377-2382-malaiang-shizong",
     "plot.fanren-2403-dingji",
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.256Z"
+  "updatedAt": "2026-06-21T20:19:53.964Z"
 }

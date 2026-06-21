@@ -9,8 +9,11 @@
   "summary": "性近疯魔的大乘强者，能以一己之力斩杀真灵，每斩一真灵即改名（由轩八灵改为轩九灵）；只为与仙人交手便答应联手。",
   "attributes": {
     "小阶段": "大乘",
-    "称号": "斩杀真灵者",
-    "性格": "疯魔嗜战、独来独往"
+    "称号": "曾斩九头真灵",
+    "性格": "疯魔嗜战、独来独往",
+    "身份": "马良属下、暗杀后手",
+    "外貌": "灰袍、面色普通的中年男子、灰袍男子",
+    "标志特征": "小半身子凭空不见"
   },
   "observations": {
     "小阶段": [
@@ -25,6 +28,12 @@
         "value": "斩杀真灵者",
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
+      },
+      {
+        "value": "曾斩九头真灵",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "赫赫威名"
       }
     ],
     "性格": [
@@ -38,6 +47,39 @@
         "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
         "seq": 2389
       }
+    ],
+    "身份": [
+      {
+        "value": "马良属下",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      },
+      {
+        "value": "暗杀后手",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰袍、面色普通的中年男子",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "化形"
+      },
+      {
+        "value": "灰袍男子",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "小半身子凭空不见",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "本片段受伤"
+      }
     ]
   },
   "firstSeq": 2389,
@@ -50,21 +92,43 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 2389
+      "seq": 2395,
+      "note": "赫赫威名"
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
       "seq": 2389
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395,
+      "note": "化形"
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
+      "dated": false,
+      "seq": 2395,
+      "note": "本片段受伤"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.258Z"
+  "updatedAt": "2026-06-21T20:19:53.996Z"
 }

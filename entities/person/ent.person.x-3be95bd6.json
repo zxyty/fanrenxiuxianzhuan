@@ -18,10 +18,10 @@
   "attributes": {
     "性别": "男",
     "小阶段": "筑基初期、筑基中期、筑基后期（假丹）、筑基后期假丹、大乘",
-    "阵营": "魔道(馨王府)",
+    "阵营": "灵界大乘联军",
     "称号": "血侍",
     "外貌": "光头",
-    "标志特征": "血色魔功血光团防御、血光卷废吞噬法器、为教主血祭练功、化血色光团、狂吼变形、身高两丈、獠牙双角、鳞甲铁尾、黑红妖纹、碧绿凶光、光头、足踩圆盘",
+    "标志特征": "血色魔功血光团防御、血光卷废吞噬法器、为教主血祭练功、化血色光团、狂吼变形、身高两丈、獠牙双角、鳞甲铁尾、黑红妖纹、碧绿凶光、光头、足踩圆盘、半边脸皮肉尽消露出白骨",
     "存殁": "死亡",
     "死因": "金遁符逃遁时被韩立青竹蜂云剑追上斩灭元神、遁逃时被韩立青竹蜂云剑追斩",
     "身份": "修仙者",
@@ -73,6 +73,11 @@
         "value": "魔道(馨王府)",
         "docId": "plot.fanren-ch308-da-zhan-shenshou",
         "seq": 307
+      },
+      {
+        "value": "灵界大乘联军",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395
       }
     ],
     "称号": [
@@ -130,6 +135,12 @@
         "value": "光头、足踩圆盘",
         "docId": "plot.fanren-1273-1278-anyuan-beast-tide",
         "seq": 1273
+      },
+      {
+        "value": "半边脸皮肉尽消露出白骨",
+        "docId": "plot.fanren-2395-2400-zhanlu-shang",
+        "seq": 2395,
+        "note": "被血雨所伤"
       }
     ],
     "存殁": [
@@ -182,9 +193,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch308-da-zhan-shenshou",
+      "docId": "plot.fanren-2395-2400-zhanlu-shang",
       "dated": false,
-      "seq": 307
+      "seq": 2395
     },
     "称号": {
       "asOf": null,
@@ -237,7 +248,8 @@
     "plot.fanren-ch642-dianfeng-peiyuan-gong",
     "plot.fanren-1273-1278-anyuan-beast-tide",
     "plot.fanren-642-dianfeng-peiyuan-gong",
-    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+    "plot.fanren-2395-2400-zhanlu-shang"
   ],
-  "updatedAt": "2026-06-21T20:06:58.259Z"
+  "updatedAt": "2026-06-21T20:19:53.997Z"
 }
