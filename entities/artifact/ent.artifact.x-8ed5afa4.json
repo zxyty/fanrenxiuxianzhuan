@@ -1,0 +1,50 @@
+{
+  "id": "ent.artifact.x-8ed5afa4",
+  "type": "artifact",
+  "name": "晶莹佛珠",
+  "aliases": [
+    "佛珠"
+  ],
+  "summary": "天蝉袖中飞出的一串晶莹佛珠，化数十颗头颅大的五色光球攻敌，伴风雷之声。",
+  "attributes": {
+    "持有者": "天蝉",
+    "能力": "化五色光球，伴风雷之声"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "天蝉",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      }
+    ],
+    "能力": [
+      {
+        "value": "化五色光球，伴风雷之声",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      }
+    ]
+  },
+  "firstSeq": 1927,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+      "dated": false,
+      "seq": 1927
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+      "dated": false,
+      "seq": 1927
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
+  ],
+  "updatedAt": "2026-06-21T09:18:01.694Z"
+}

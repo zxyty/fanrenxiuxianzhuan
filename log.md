@@ -678,3 +678,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T08:55:10.921Z** `ingest` plot.ch1909-1914-xueguang-shengzu-jianglin-zudi — 第1909-1914章 血光圣祖寄附阳刹降临灵界，韩立沿途布阵阻敌奔逃 · kind=plot asOf=2026-06-21 entities=33 relations=32 src=01909-01914.md
 - **2026-06-21T09:04:04.044Z** `ingest` plot.fanren-ch1915-1920-blood-saint-clones-battle — 凡人修仙传 第1915-1920章｜韩立力战血光圣祖三化身·夺紫言鼎 · kind=plot asOf=2026-06-21 entities=27 relations=33 src=01915-01920.md
 - **2026-06-21T09:16:08.756Z** `ingest` plot.fanren-1935-fei-cheng — 第1935章 废城——韩立逼退血光圣祖三化身、夺得紫言鼎 · kind=plot asOf=2026-06-21 entities=39 relations=44 src=01921-01926.md
+- **2026-06-21T09:18:01.882Z** `ingest` plot.fanren-1941-1942-siege-huangliang-stone-spirit — 第1941-1942章 黄粱石灵渡雷劫与韩立等围攻 · kind=plot asOf=2026-06-21 entities=12 relations=12 src=01927-01932.p1.md

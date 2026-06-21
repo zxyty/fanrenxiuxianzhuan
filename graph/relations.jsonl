@@ -22257,3 +22257,15 @@
 {"s":"ent.faction.x-f99526b3","p":"locatedIn","o":"ent.place.x-dc7fc382","evidence":"plot.fanren-1935-fei-cheng","confidence":0.7,"seq":1921}
 {"s":"ent.person.x-bd19ce7c","p":"memberOf","o":"ent.faction.x-df11c09f","evidence":"plot.fanren-1935-fei-cheng","confidence":0.3,"seq":1921,"note":"存疑，仅称投入圣皇麾下"}
 {"s":"ent.person.x-2363b81b","p":"relatedTo","o":"ent.person.x-8759d3df","evidence":"plot.fanren-1935-fei-cheng","confidence":0.6,"seq":1921,"note":"奉莫简离经圣岛之命行事"}
+{"s":"ent.person.x-b7ad490e","p":"owns","o":"ent.place.x-89107da0","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.95,"seq":1927}
+{"s":"ent.person.x-b7ad490e","p":"owns","o":"ent.artifact.x-4e5a6929","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927}
+{"s":"ent.person.x-b7ad490e","p":"owns","o":"ent.artifact.x-0d80844a","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.85,"seq":1927}
+{"s":"ent.person.x-b7ad490e","p":"casts","o":"ent.material.x-3af06cd2","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927}
+{"s":"ent.person.x-2363b81b","p":"owns","o":"ent.artifact.x-3cc1d9cf","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.95,"seq":1927}
+{"s":"ent.person.x-2363b81b","p":"owns","o":"ent.artifact.x-503c9e9c","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.95,"seq":1927}
+{"s":"ent.person.x-58ec979e","p":"owns","o":"ent.artifact.x-8ed5afa4","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927}
+{"s":"ent.beast.x-b78f614b","p":"relatedTo","o":"ent.place.x-b262a2cf","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927,"note":"于其中修炼数万年并凝练阴寒妖火"}
+{"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-2363b81b","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927,"note":"联手围攻黄粱石灵"}
+{"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-58ec979e","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927,"note":"联手围攻黄粱石灵"}
+{"s":"ent.person.x-2363b81b","p":"ally","o":"ent.person.x-58ec979e","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.9,"seq":1927,"note":"联手围攻黄粱石灵"}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.beast.x-b78f614b","evidence":"plot.fanren-1941-1942-siege-huangliang-stone-spirit","confidence":0.85,"seq":1927,"note":"本片段围攻交战（原:enemy）"}

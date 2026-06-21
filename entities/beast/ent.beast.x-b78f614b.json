@@ -4,13 +4,16 @@
   "name": "黄粱石灵",
   "aliases": [
     "黄粱石中石灵",
-    "石灵"
+    "石灵",
+    "七目金蟾",
+    "黄粱石灵灵物"
   ],
   "summary": "黄泉地火深处黄粱梦石孕育五万年而生灵智的天地灵物，天赋瞬息幻术，体内妖晶为人族对付魔劫之物。",
   "attributes": {
     "等级": "天地灵物",
-    "能力": "瞬息幻术、普通石灵神通、瞬息释放幻术、普通灵石神通",
-    "栖息地": "黄泉地火深处"
+    "能力": "瞬息幻术、普通石灵神通、瞬息释放幻术、普通灵石神通、阴寒妖火、转化天雷、天赋幻术（连合体存在亦能困住）、妖丹排斥巨力",
+    "栖息地": "黄泉地火地底",
+    "外形": "酷似蟾蜍、金光灿灿、额生血红妖目（幻术中现身为千丈七目金蟾）"
   },
   "observations": {
     "等级": [
@@ -40,6 +43,26 @@
         "value": "普通灵石神通",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "阴寒妖火",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      },
+      {
+        "value": "转化天雷",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      },
+      {
+        "value": "天赋幻术（连合体存在亦能困住）",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      },
+      {
+        "value": "妖丹排斥巨力",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
       }
     ],
     "栖息地": [
@@ -47,6 +70,18 @@
         "value": "黄泉地火深处",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "黄泉地火地底",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
+      }
+    ],
+    "外形": [
+      {
+        "value": "酷似蟾蜍、金光灿灿、额生血红妖目（幻术中现身为千丈七目金蟾）",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
       }
     ]
   },
@@ -66,16 +101,23 @@
     },
     "栖息地": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
       "dated": false,
-      "seq": 1921
+      "seq": 1927
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+      "dated": false,
+      "seq": 1927
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
   ],
-  "updatedAt": "2026-06-21T09:16:08.526Z"
+  "updatedAt": "2026-06-21T09:18:01.681Z"
 }

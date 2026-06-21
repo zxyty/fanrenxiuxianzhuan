@@ -13,8 +13,9 @@
     "种族": "人族",
     "小阶段": "合体中期",
     "身份": "圣岛居住者、现居圣岛",
-    "外貌": "枯瘦如柴、肌肤黝黑、形如焦木、枯瘦如柴、肌肤黝黑、似焦木般丑陋",
-    "存殁": "存活"
+    "外貌": "枯瘦如柴、肌肤黝黑、形如焦木、枯瘦如柴、肌肤黝黑、似焦木般丑陋、老者",
+    "存殁": "存活",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -53,6 +54,11 @@
         "value": "枯瘦如柴、肌肤黝黑、似焦木般丑陋",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "老者",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
       }
     ],
     "存殁": [
@@ -60,6 +66,13 @@
         "value": "存活",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+        "seq": 1927
       }
     ]
   },
@@ -94,13 +107,20 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
+      "dated": false,
+      "seq": 1927
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-1941-1942-siege-huangliang-stone-spirit"
   ],
-  "updatedAt": "2026-06-21T09:16:08.516Z"
+  "updatedAt": "2026-06-21T09:18:01.679Z"
 }
