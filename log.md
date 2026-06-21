@@ -694,3 +694,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T11:08:30.031Z** `ingest` plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian — 凡人修仙传 第1999-2004章｜魔界之战：天卜与硬闯魔族节点 · kind=plot asOf=2026-06-21 entities=44 relations=51 src=01999-02004.md
 - **2026-06-21T11:17:23.347Z** `ingest` plot.fanren-2005-2010-bazu-moxi-xianhundan — 凡人修仙传 第2005-2010章｜八足魔蜥定路线 & 灵族封真仙炼仙魂丹 · kind=plot asOf=2026-06-21 entities=47 relations=38 src=02005-02010.md
 - **2026-06-21T11:20:00.865Z** `ingest` plot.fanren-2025-2030-blood-crow-city-yimojin — 凡人修仙传 第2025-2030章｜封魂入血鸦城·异魔金与暗血五色铃 · kind=plot asOf=2026-06-21 entities=25 relations=20 src=02011-02016.md
+- **2026-06-21T11:21:55.135Z** `ingest` plot.fanren-2031-2032-shengzhuan-zhenling-yigu — 第2031-2032章 圣砖与血鸦城主·真灵遗骨拍卖 · kind=plot asOf=2026-06-21 entities=15 relations=12 src=02017-02022.p1.md

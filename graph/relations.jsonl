@@ -22873,3 +22873,15 @@
 {"s":"ent.person.x-b7ad490e","p":"enemy","o":"ent.person.x-a24d23ef","evidence":"plot.fanren-2025-2030-blood-crow-city-yimojin","confidence":0.4,"seq":2011,"note":"夺金时灵压逼退，非长期敌对"}
 {"s":"ent.person.x-8eca389c","p":"ally","o":"ent.person.x-e233a4f8","evidence":"plot.fanren-2025-2030-blood-crow-city-yimojin","confidence":0.7,"seq":2011,"note":"入魔界联合队伍"}
 {"s":"ent.person.x-b7ad490e","p":"ally","o":"ent.person.x-8eca389c","evidence":"plot.fanren-2025-2030-blood-crow-city-yimojin","confidence":0.7,"seq":2011,"note":"入魔界联合队伍"}
+{"s":"ent.person.x-04bf7fe0","p":"guards","o":"ent.faction.x-d8841fe5","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.97,"seq":2017}
+{"s":"ent.person.x-d9506201","p":"owns","o":"ent.item.x-33495aa2","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.95,"seq":2017,"note":"九千九百万魔石拍下"}
+{"s":"ent.item.x-33495aa2","p":"relatedTo","o":"ent.person.x-12854630","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.9,"seq":2017,"note":"记载泣灵圣祖残缺功法"}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.material.x-5938f331","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.97,"seq":2017,"note":"以一亿魔石拍得"}
+{"s":"ent.person.x-b7ad490e","p":"relatedTo","o":"ent.person.x-06178306","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.9,"seq":2017,"note":"曲儿称韩立为主人"}
+{"s":"ent.person.x-06178306","p":"relatedTo","o":"ent.material.x-5938f331","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.85,"seq":2017,"note":"称此骨对其大有用处"}
+{"s":"ent.person.x-be8a1c36","p":"memberOf","o":"ent.faction.x-f0bd47a5","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.95,"seq":2017}
+{"s":"ent.faction.x-f0bd47a5","p":"locatedIn","o":"ent.place.x-4e4c9039","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.9,"seq":2017}
+{"s":"ent.person.x-be8a1c36","p":"relatedTo","o":"ent.material.x-5938f331","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.8,"seq":2017,"note":"竞拍未果，欲为海家炼器之用"}
+{"s":"ent.person.x-4dc6e3d1","p":"relatedTo","o":"ent.person.x-04bf7fe0","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.85,"seq":2017,"note":"拍卖主持自称城主属下"}
+{"s":"ent.faction.x-d8841fe5","p":"withinWorld","o":"ent.world.x-5c507c6d","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.95,"seq":2017}
+{"s":"ent.person.x-b7ad490e","p":"enemy","o":"ent.person.x-be8a1c36","evidence":"plot.fanren-2031-2032-shengzhuan-zhenling-yigu","confidence":0.5,"seq":2017,"note":"竞拍对手，美妇出现狠厉煞气"}

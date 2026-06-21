@@ -2,11 +2,14 @@
   "id": "ent.person.x-4dc6e3d1",
   "type": "person",
   "name": "越连天",
-  "aliases": [],
+  "aliases": [
+    "越老",
+    "老年魔人"
+  ],
   "summary": "血鸦城长老之一，炼虚后期大成（近合体），受城主之邀主持本次拍卖会。",
   "attributes": {
     "小阶段": "炼虚后期大成",
-    "身份": "血鸦城长老/拍卖主持",
+    "身份": "拍卖会主持人",
     "种族": "魔族",
     "外貌": "面目黝黑、额有深皱"
   },
@@ -23,6 +26,11 @@
         "value": "血鸦城长老/拍卖主持",
         "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
         "seq": 2011
+      },
+      {
+        "value": "拍卖会主持人",
+        "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
+        "seq": 2017
       }
     ],
     "种族": [
@@ -50,9 +58,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2025-2030-blood-crow-city-yimojin",
+      "docId": "plot.fanren-2031-2032-shengzhuan-zhenling-yigu",
       "dated": false,
-      "seq": 2011
+      "seq": 2017
     },
     "种族": {
       "asOf": null,
@@ -70,7 +78,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2025-2030-blood-crow-city-yimojin"
+    "plot.fanren-2025-2030-blood-crow-city-yimojin",
+    "plot.fanren-2031-2032-shengzhuan-zhenling-yigu"
   ],
-  "updatedAt": "2026-06-21T11:20:00.658Z"
+  "updatedAt": "2026-06-21T11:21:54.864Z"
 }
