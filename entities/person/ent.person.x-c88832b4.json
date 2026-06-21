@@ -12,7 +12,8 @@
     "外貌": "鸠面、神色阴厉",
     "性格": "谨慎多谋、谨慎多疑、冷静、谨慎多疑、谨慎冷静",
     "阵营": "散修",
-    "称号": "秋兄"
+    "称号": "秋兄",
+    "身份": "大乘老祖"
   },
   "observations": {
     "小阶段": [
@@ -64,6 +65,13 @@
         "docId": "plot.fanren-523-528-zhenjia-chongmo",
         "seq": 523
       }
+    ],
+    "身份": [
+      {
+        "value": "大乘老祖",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
+      }
     ]
   },
   "firstSeq": 517,
@@ -97,6 +105,12 @@
       "docId": "plot.fanren-523-528-zhenjia-chongmo",
       "dated": false,
       "seq": 523
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+      "dated": false,
+      "seq": 2197
     }
   },
   "contested": false,
@@ -104,7 +118,8 @@
   "docs": [
     "plot.fanren-517-522-xuanyinjing-huaxing-dujiao",
     "plot.fanren-523-528-zhongmo-xuming",
-    "plot.fanren-523-528-zhenjia-chongmo"
+    "plot.fanren-523-528-zhenjia-chongmo",
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
   ],
-  "updatedAt": "2026-06-17T06:27:25.721Z"
+  "updatedAt": "2026-06-21T15:43:42.257Z"
 }

@@ -19,12 +19,12 @@
     "外貌": "黑袍青年/双目淡紫/剑眉直飞、黑袍青年、脸色冰冷黑袍青年",
     "标志特征": "凝魔纹黑色长枪/千丈黑色巨手",
     "种族": "魔族",
-    "身份": "魔族圣祖、魔界三大始祖之一、魔族三大始祖之一、圣族圣祖、圣界三大始祖之一、魔族始祖级圣祖、魔界始祖",
+    "身份": "魔族圣祖、魔界三大始祖之一、魔族三大始祖之一、圣族圣祖、圣界三大始祖之一、魔族始祖级圣祖、魔界始祖、始祖",
     "小阶段": "魔族始祖",
     "结局": "被伪仙傫自爆重创，失去小半身躯、气息衰弱大半",
     "阵营": "魔族",
     "性格": "凶戾善演戏",
-    "存殁": "被困"
+    "存殁": "被困(本片段)"
   },
   "observations": {
     "性别": [
@@ -117,6 +117,11 @@
         "value": "魔界始祖",
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
+      },
+      {
+        "value": "始祖",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ],
     "小阶段": [
@@ -169,6 +174,11 @@
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191,
         "note": "困于始印之地，约二十多年前与外界失联"
+      },
+      {
+        "value": "被困(本片段)",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ]
   },
@@ -237,10 +247,9 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
       "dated": false,
-      "seq": 2191,
-      "note": "困于始印之地，约二十多年前与外界失联"
+      "seq": 2197
     }
   },
   "contested": false,
@@ -254,7 +263,8 @@
     "plot.fanren-2107-zaijian-weixianlu",
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
     "plot.fanren-2179-2184-dacheng-celebration-tianyuancity",
-    "plot.fanren-2210-2215-mingchong-xieliansheng"
+    "plot.fanren-2210-2215-mingchong-xieliansheng",
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
   ],
-  "updatedAt": "2026-06-21T15:36:11.337Z"
+  "updatedAt": "2026-06-21T15:43:42.261Z"
 }

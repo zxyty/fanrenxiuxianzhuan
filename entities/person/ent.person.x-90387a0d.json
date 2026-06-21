@@ -8,9 +8,10 @@
   ],
   "summary": "来自白光界的大乘存在，黑肤银瞳、赤红灵纹，比韩立早半月到朝天峰，言语带轻蔑。",
   "attributes": {
-    "小阶段": "大乘期",
+    "小阶段": "大乘",
     "种族": "白光界种族",
-    "外貌": "黑肤、银灰战甲、赤红灵纹、银瞳无瞳孔、光头"
+    "外貌": "秃头",
+    "阵营": "白光界"
   },
   "observations": {
     "小阶段": [
@@ -18,6 +19,11 @@
         "value": "大乘期",
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ],
     "种族": [
@@ -32,6 +38,18 @@
         "value": "黑肤、银灰战甲、赤红灵纹、银瞳无瞳孔、光头",
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
+      },
+      {
+        "value": "秃头",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
+      }
+    ],
+    "阵营": [
+      {
+        "value": "白光界",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ]
   },
@@ -39,9 +57,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
       "dated": false,
-      "seq": 2191
+      "seq": 2197
     },
     "种族": {
       "asOf": null,
@@ -51,15 +69,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
       "dated": false,
-      "seq": 2191
+      "seq": 2197
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+      "dated": false,
+      "seq": 2197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2210-2215-mingchong-xieliansheng"
+    "plot.fanren-2210-2215-mingchong-xieliansheng",
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
   ],
-  "updatedAt": "2026-06-21T15:36:11.335Z"
+  "updatedAt": "2026-06-21T15:43:42.223Z"
 }

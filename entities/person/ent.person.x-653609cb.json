@@ -12,7 +12,9 @@
     "小阶段": "大乘期",
     "称号": "圣祖",
     "性别": "女",
-    "外貌": "绿色宫装、面容酷似宝花、神情阴冷"
+    "外貌": "绿色宫装、面容酷似宝花、神情阴冷",
+    "阵营": "魔界",
+    "标志特征": "面容酷似宝花"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +44,20 @@
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
       }
+    ],
+    "阵营": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "面容酷似宝花",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
+      }
     ]
   },
   "firstSeq": 2191,
@@ -69,12 +85,25 @@
       "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
       "dated": false,
       "seq": 2191
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+      "dated": false,
+      "seq": 2197
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+      "dated": false,
+      "seq": 2197
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2210-2215-mingchong-xieliansheng"
+    "plot.fanren-2210-2215-mingchong-xieliansheng",
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
   ],
-  "updatedAt": "2026-06-21T15:36:11.332Z"
+  "updatedAt": "2026-06-21T15:43:42.255Z"
 }

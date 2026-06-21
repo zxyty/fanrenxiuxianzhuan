@@ -735,3 +735,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T15:25:01.712Z** `ingest` plot.fanren-2179-2184-dacheng-celebration-tianyuancity — 凡人修仙传 第2179-2184章｜韩立大乘消息传开·天渊城大乘庆典开幕 · kind=plot asOf=2026-06-21 entities=42 relations=38 src=02179-02184.md
 - **2026-06-21T15:33:17.827Z** `ingest` plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu — 第2185-2190章 大乘庆典斩黑枭王 · 血魂之讯 · 驱血蛊虫 · kind=plot asOf=2026-06-21 entities=52 relations=56 src=02185-02190.md
 - **2026-06-21T15:36:11.516Z** `ingest` plot.fanren-2210-2215-mingchong-xieliansheng — 凡人修仙传 第2210-2215章｜螟虫之劫·黑葫城·邪莲圣祖与始印之地真相 · kind=plot asOf=2026-06-21 entities=22 relations=24 src=02191-02196.md
+- **2026-06-21T15:43:42.494Z** `ingest` plot.fanren-2197-2202-shengjie-juhui-tongya-laoren — 凡人修仙传 第2197-2202章｜圣界聚会·铜鸦老人降临与落星幡/小幻天镜亮相 · kind=plot asOf=2026-06-21 entities=38 relations=38 src=02197-02202.md

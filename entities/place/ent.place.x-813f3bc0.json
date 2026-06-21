@@ -8,8 +8,8 @@
   "summary": "圣界中的大劫爆发之地，封印着上古由仙界封禁的可吞噬灵气魔气之物；封印日渐松动，由六极一具化身看守。",
   "attributes": {
     "所属界面": "魔界",
-    "类型": "封印之地",
-    "守护": "六极化身、真仙封印、上古封印禁制、虫海、血色螟虫",
+    "类型": "上古封印禁地",
+    "守护": "六极化身、真仙封印、上古封印禁制、虫海、血色螟虫、螟虫之母与虫海",
     "危险度": "极高"
   },
   "observations": {
@@ -35,6 +35,11 @@
         "value": "封印之地",
         "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
         "seq": 2107
+      },
+      {
+        "value": "上古封印禁地",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ],
     "守护": [
@@ -62,6 +67,11 @@
         "value": "血色螟虫",
         "docId": "plot.fanren-2210-2215-mingchong-xieliansheng",
         "seq": 2191
+      },
+      {
+        "value": "螟虫之母与虫海",
+        "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
+        "seq": 2197
       }
     ],
     "危险度": [
@@ -82,9 +92,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
+      "docId": "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren",
       "dated": false,
-      "seq": 2107
+      "seq": 2197
     },
     "守护": {
       "asOf": null,
@@ -104,7 +114,8 @@
   "docs": [
     "plot.fanren-2101-tan-chi-shengzu-jihua-yu-hanli-xiling-chi",
     "plot.fanren-2125-2130-mingchong-mu-and-cigang-beast",
-    "plot.fanren-2210-2215-mingchong-xieliansheng"
+    "plot.fanren-2210-2215-mingchong-xieliansheng",
+    "plot.fanren-2197-2202-shengjie-juhui-tongya-laoren"
   ],
-  "updatedAt": "2026-06-21T15:36:11.348Z"
+  "updatedAt": "2026-06-21T15:43:42.271Z"
 }
