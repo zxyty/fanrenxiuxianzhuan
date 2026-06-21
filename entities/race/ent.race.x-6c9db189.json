@@ -6,14 +6,16 @@
     "魔族大军",
     "魔族精锐",
     "高阶魔族",
-    "古魔一族"
+    "古魔一族",
+    "圣界魔族",
+    "圣祖一族"
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
     "代表人物": "魔族圣祖、黑甲大汉、白袍少年",
     "阵营": "魔界",
     "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影",
-    "聚居地": "真魔界"
+    "聚居地": "圣界"
   },
   "observations": {
     "代表人物": [
@@ -57,6 +59,11 @@
         "value": "真魔界",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ]
   },
@@ -82,9 +89,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1867
+      "seq": 1873
     }
   },
   "contested": false,
@@ -92,7 +99,8 @@
   "docs": [
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-ch1881-mo-lin-cheng-xia"
+    "plot.fanren-ch1881-mo-lin-cheng-xia",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:45:53.102Z"
+  "updatedAt": "2026-06-21T07:57:36.122Z"
 }

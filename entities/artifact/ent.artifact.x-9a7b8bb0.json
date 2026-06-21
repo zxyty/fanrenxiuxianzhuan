@@ -12,7 +12,8 @@
     "五行属性": "金",
     "能力": "内孕飞剑、葫芦本体神通",
     "外形": "遍布花纹的金灿葫芦",
-    "来历": "上古，炼制法已失传"
+    "来历": "上古，炼制法已失传",
+    "持有者": "海大少"
   },
   "observations": {
     "五行属性": [
@@ -47,6 +48,13 @@
         "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
         "seq": 1705
       }
+    ],
+    "持有者": [
+      {
+        "value": "海大少",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      }
     ]
   },
   "firstSeq": 1705,
@@ -74,13 +82,20 @@
       "docId": "plot.fanren-1705-1710-ding-zhong-qu-bao",
       "dated": false,
       "seq": 1705
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "dated": false,
+      "seq": 1873
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1705-1710-ding-zhong-qu-bao",
-    "plot.fanren-1825-1826-wanlingtai"
+    "plot.fanren-1825-1826-wanlingtai",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T06:21:10.445Z"
+  "updatedAt": "2026-06-21T07:57:36.136Z"
 }

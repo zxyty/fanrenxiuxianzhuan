@@ -11,18 +11,21 @@
     "巨魔",
     "魔头化身",
     "血光老祖",
-    "血光圣祖大人"
+    "血光圣祖大人",
+    "血袍男子",
+    "血光大人"
   ],
   "summary": "大乘级魔族圣祖，琉璃傀儡/紫言鼎/镇魔锁/巨塔等至宝之主，隔空神念威吓韩立，疑欲以本体破界降临；血袍少年为其一具化身。",
   "attributes": {
-    "种族": "魔族",
+    "种族": "古魔一族",
     "身份": "圣界圣祖",
     "小阶段": "大乘期",
     "阵营": "魔道/圣界",
     "称号": "圣祖",
     "标志特征": "三缕分神化少年/巨魔，背生巨角魔影、八青色鬼头、四血翅",
     "存殁": "在世",
-    "外貌": "血光笼罩的高大人影、目光如残月"
+    "外貌": "相貌儒雅、脸如冠玉的血袍中年男子",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -30,13 +33,18 @@
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1867
+      },
+      {
+        "value": "古魔一族",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "身份": [
       {
         "value": "魔族圣祖",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1873
       },
       {
         "value": "圣界圣祖",
@@ -110,6 +118,18 @@
         "value": "血光笼罩的高大人影、目光如残月",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "相貌儒雅、脸如冠玉的血袍中年男子",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ]
   },
@@ -117,9 +137,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1867
+      "seq": 1873
     },
     "身份": {
       "asOf": null,
@@ -160,9 +180,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1867
+      "seq": 1873
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "dated": false,
+      "seq": 1873
     }
   },
   "contested": false,
@@ -172,7 +198,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:38:54.650Z"
+  "updatedAt": "2026-06-21T07:57:36.188Z"
 }

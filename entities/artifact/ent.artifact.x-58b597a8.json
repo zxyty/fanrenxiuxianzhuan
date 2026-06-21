@@ -1,48 +1,41 @@
 {
-  "id": "ent.artifact.x-dd72391e",
+  "id": "ent.artifact.x-58b597a8",
   "type": "artifact",
-  "name": "银钩",
+  "name": "日月弯钩",
   "aliases": [
-    "银光法器",
-    "两只银钩",
-    "弯月红日"
+    "银色弯钩",
+    "弯月赤日双钩"
   ],
-  "summary": "韩立的银光法器，本战被白衣女子水晶球喷出的粉红液体腐蚀成锈迹残刃、灵气大失。",
+  "summary": "银光仙子的兵刃，两柄银色弯钩分铭白色弯月与赤红圆日，晃动间星辰隐现，乃非凡宝物。",
   "attributes": {
     "持有者": "银光仙子",
-    "外形": "锈迹斑斑的残刃",
-    "能力": "化弯月红日锁敌"
+    "能力": "星辰隐现",
+    "外形": "一柄铭白色弯月、一柄铭赤红圆日的银色弯钩"
   },
   "observations": {
     "持有者": [
-      {
-        "value": "韩立",
-        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
-        "seq": 181
-      },
       {
         "value": "银光仙子",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ],
-    "外形": [
-      {
-        "value": "锈迹斑斑的残刃",
-        "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
-        "seq": 181,
-        "note": "被粉红腐蚀液体侵蚀后"
-      }
-    ],
     "能力": [
       {
-        "value": "化弯月红日锁敌",
+        "value": "星辰隐现",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      }
+    ],
+    "外形": [
+      {
+        "value": "一柄铭白色弯月、一柄铭赤红圆日的银色弯钩",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ]
   },
-  "firstSeq": 181,
+  "firstSeq": 1873,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
@@ -50,14 +43,13 @@
       "dated": false,
       "seq": 1873
     },
-    "外形": {
-      "asOf": null,
-      "docId": "plot.fanren-181-186-jindi-yixiantian-jisha",
-      "dated": false,
-      "seq": 181,
-      "note": "被粉红腐蚀液体侵蚀后"
-    },
     "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "dated": false,
+      "seq": 1873
+    },
+    "外形": {
       "asOf": null,
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
@@ -67,8 +59,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-181-186-jindi-yixiantian-jisha",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:57:36.271Z"
+  "updatedAt": "2026-06-21T07:57:36.166Z"
 }

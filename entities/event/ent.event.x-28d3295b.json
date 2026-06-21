@@ -12,9 +12,10 @@
   "attributes": {
     "章节": "1879、1880",
     "地点": "灵界各处魔斑",
-    "参与方": "魔族圣族、人族修士、妖族",
+    "参与方": "魔族圣族、人族修士、妖族、圣族尊者",
     "起因": "圣祭，圣族图谋占据灵界部分地域",
-    "结果": "魔族建成圣城、布魔气阵法，备战进攻最大人类据点"
+    "结果": "魔族建成圣城、布魔气阵法，备战进攻最大人类据点",
+    "影响": "收获丰厚"
   },
   "observations": {
     "章节": [
@@ -51,6 +52,11 @@
         "value": "妖族",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      },
+      {
+        "value": "圣族尊者",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "起因": [
@@ -65,6 +71,13 @@
         "value": "魔族建成圣城、布魔气阵法，备战进攻最大人类据点",
         "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
         "seq": 1867
+      }
+    ],
+    "影响": [
+      {
+        "value": "收获丰厚",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ]
   },
@@ -99,12 +112,19 @@
       "docId": "plot.fanren-1879-1880-mojie-qunmo-chuxian",
       "dated": false,
       "seq": 1867
+    },
+    "影响": {
+      "asOf": null,
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "dated": false,
+      "seq": 1873
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1879-1880-mojie-qunmo-chuxian"
+    "plot.fanren-1879-1880-mojie-qunmo-chuxian",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:38:54.648Z"
+  "updatedAt": "2026-06-21T07:57:36.170Z"
 }

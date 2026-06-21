@@ -7,16 +7,17 @@
     "绿袍老者",
     "逆星盟护法苍云龙",
     "绿老",
-    "绿袍黄发枯瘦老者"
+    "绿袍黄发枯瘦老者",
+    "绿道友"
   ],
   "summary": "逆星盟护法，绿袍魔道修士，结丹初期，修炼七煞决，主持南明岛离岛盘查，暗中盯上韩立的聚煞诀窍并图谋逼献紫灵仙子。",
   "attributes": {
-    "小阶段": "结丹初期",
-    "身份": "逆星盟护法",
+    "小阶段": "合体期",
+    "身份": "高阶魔族",
     "阵营": "魔道/逆星盟、魔道",
     "性格": "老练精明、足智多谋、老练阴沉、足智多谋",
     "外貌": "绿袍、满头黄发、枯瘦",
-    "种族": "魔族",
+    "种族": "古魔一族",
     "标志特征": "神目神通"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "结丹初期",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "身份": [
@@ -32,6 +38,11 @@
         "value": "逆星盟护法",
         "docId": "plot.fanren-499-504-nanming-island",
         "seq": 499
+      },
+      {
+        "value": "高阶魔族",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "阵营": [
@@ -75,6 +86,11 @@
         "value": "魔族",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "古魔一族",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "标志特征": [
@@ -89,15 +105,15 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-499-504-nanming-island",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 499
+      "seq": 1873
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-499-504-nanming-island",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 499
+      "seq": 1873
     },
     "阵营": {
       "asOf": null,
@@ -119,9 +135,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1867
+      "seq": 1873
     },
     "标志特征": {
       "asOf": null,
@@ -135,7 +151,8 @@
   "docs": [
     "plot.fanren-499-504-nanming-island",
     "plot.fanren-ch499-504-nanming-island",
-    "plot.fanren-ch1881-mo-lin-cheng-xia"
+    "plot.fanren-ch1881-mo-lin-cheng-xia",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:45:53.086Z"
+  "updatedAt": "2026-06-21T07:57:36.114Z"
 }

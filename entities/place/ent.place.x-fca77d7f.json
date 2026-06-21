@@ -23,12 +23,12 @@
   ],
   "summary": "灵界中聚集飞升修士、专应对外族大敌的城池，三境七地中唯一不受三圣皇七妖王管辖，由长老会主理。",
   "attributes": {
-    "所属界面": "人族",
-    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池、城池/据点、城市/唯一出入口、人妖两族驻守巨城、人族大城",
+    "所属界面": "人界",
+    "类型": "修士之城/势力据点、要塞城池、蛮荒世界唯一出入口、人妖两族联防巨城、城池、人类修真主城、修仙大城、修仙城市、前沿重镇、城池据点、城池/坊市、人族据点、修士城市、大城、人族城池、人族据点巨城、城市、人妖两族前沿要塞、边城/要塞、修士城池、飞升修士据点城池、城池/据点、城市/唯一出入口、人妖两族驻守巨城、人族大城、人族修士据点城池",
     "守护": "超级仙阵、人妖两族百万大军、合体期长老、人妖各族合体期长老各一名(驻长老塔)、人族、妖族、人妖各族合体期长老（长老塔）、天卫、巨墙禁制、传送阵、执法天卫、人妖两族、天渊长老会（十名合体以上长老）、青冥卫、黑卫",
     "所属势力": "叶家",
     "特产": "丰富炼丹材料、珍稀符箓材料、一次性小型传送法盘、万里符、材料供应",
-    "危险度": "高(异族攻城前线)、极高、固若金汤"
+    "危险度": "高(异族攻城前线)、极高、固若金汤、魔劫前线"
   },
   "observations": {
     "所属界面": [
@@ -46,6 +46,11 @@
         "value": "人族",
         "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
         "seq": 1831
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "类型": [
@@ -173,6 +178,11 @@
         "value": "人族大城",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "人族修士据点城池",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "守护": [
@@ -301,6 +311,11 @@
         "value": "固若金汤",
         "docId": "plot.fanren-1746-leave-leiming",
         "seq": 1741
+      },
+      {
+        "value": "魔劫前线",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ]
   },
@@ -308,9 +323,9 @@
   "attrProvenance": {
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-1831-1836-wandu-hunyuan-shen",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1831
+      "seq": 1873
     },
     "类型": {
       "asOf": null,
@@ -392,7 +407,8 @@
     "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
-    "plot.fanren-ch1881-mo-lin-cheng-xia"
+    "plot.fanren-ch1881-mo-lin-cheng-xia",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:45:53.098Z"
+  "updatedAt": "2026-06-21T07:57:36.123Z"
 }

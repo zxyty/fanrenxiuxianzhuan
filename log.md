@@ -669,3 +669,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T07:36:56.830Z** `ingest` plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi — 凡人修仙传 第1877-1878章 魔蝠——魔劫爆发、魔族破界入灵界 · kind=plot asOf=2026-06-21 entities=20 relations=20 src=01867-01872.p1.md
 - **2026-06-21T07:38:54.846Z** `ingest` plot.fanren-1879-1880-mojie-qunmo-chuxian — 第1879-1880章 群魔初现·魔潮汹涌——魔族大军破界降临灵界 · kind=plot asOf=2026-06-21 entities=20 relations=18 src=01867-01872.p2.md
 - **2026-06-21T07:45:53.312Z** `ingest` plot.fanren-ch1881-mo-lin-cheng-xia — 第1881章 魔临城下——韩立炼成五行葫剑、试祭万剑图，天渊城备战 · kind=plot asOf=2026-06-21 entities=22 relations=23 src=01867-01872.p3.md
+- **2026-06-21T07:57:36.443Z** `ingest` plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue — 第1873-1878章 人魔之战（四~六）：天渊城火阵退敌、魔族圣祖谋城、韩立携银光仙子援倚天城 · kind=plot asOf=2026-06-21 entities=44 relations=55 src=01873-01878.md

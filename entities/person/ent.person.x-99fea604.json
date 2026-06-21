@@ -6,7 +6,8 @@
     "银光道友",
     "面具女子",
     "银色面具女子",
-    "银光仙"
+    "银光仙",
+    "光仙子"
   ],
   "summary": "人族顶阶存在，与林鸾联手在顶阶争斗中抵御「小女子」与「白袍男子」，节节后退。",
   "attributes": {
@@ -14,15 +15,16 @@
     "性别": "女",
     "小阶段": "合体初期",
     "身份": "天渊城长老、原长老会候补长老",
-    "种族": "银狼族",
-    "标志特征": "银色面具"
+    "种族": "人族",
+    "标志特征": "银色面具",
+    "外貌": "戴面具白衣女子、戴面具"
   },
   "observations": {
     "阵营": [
       {
         "value": "人族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
+        "seq": 1873
       }
     ],
     "性别": [
@@ -66,6 +68,11 @@
         "value": "银狼族",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "标志特征": [
@@ -84,6 +91,18 @@
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
       }
+    ],
+    "外貌": [
+      {
+        "value": "戴面具白衣女子",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      },
+      {
+        "value": "戴面具",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      }
     ]
   },
   "firstSeq": 1759,
@@ -92,7 +111,7 @@
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
-      "seq": 1903
+      "seq": 1873
     },
     "性别": {
       "asOf": null,
@@ -114,15 +133,21 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1861-1866-mozhan-chongwang",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1861
+      "seq": 1873
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
       "dated": false,
       "seq": 1867
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "dated": false,
+      "seq": 1873
     }
   },
   "contested": false,
@@ -132,7 +157,8 @@
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1861-1866-mozhan-chongwang",
-    "plot.fanren-ch1881-mo-lin-cheng-xia"
+    "plot.fanren-ch1881-mo-lin-cheng-xia",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:45:53.080Z"
+  "updatedAt": "2026-06-21T07:57:36.185Z"
 }

@@ -1,26 +1,16 @@
 {
-  "id": "ent.person.x-109f65f2",
+  "id": "ent.person.x-e7d9a5f0",
   "type": "person",
-  "name": "紫甲魔族",
-  "aliases": [
-    "石尊者",
-    "紫甲大汉",
-    "满脸黑斑紫甲大汉"
-  ],
-  "summary": "魔族高阶存在，此行试探天渊城虚实的主将，催动魔旗驱使魔兽攻城。",
+  "name": "幻羽长老",
+  "aliases": [],
+  "summary": "头插金色长翎的魔族老者，献逐步逼出防御再总攻之策。",
   "attributes": {
     "种族": "古魔一族",
-    "身份": "高阶魔族尊者",
-    "外貌": "紫甲、满脸黑斑",
-    "小阶段": "合体期"
+    "身份": "魔族长老",
+    "标志特征": "头插数根金色长翎"
   },
   "observations": {
     "种族": [
-      {
-        "value": "魔族",
-        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-        "seq": 1867
-      },
       {
         "value": "古魔一族",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
@@ -29,32 +19,20 @@
     ],
     "身份": [
       {
-        "value": "试探天渊城虚实主将",
-        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-        "seq": 1867
-      },
-      {
-        "value": "高阶魔族尊者",
+        "value": "魔族长老",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ],
-    "外貌": [
+    "标志特征": [
       {
-        "value": "紫甲、满脸黑斑",
-        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-        "seq": 1867
-      }
-    ],
-    "小阶段": [
-      {
-        "value": "合体期",
+        "value": "头插数根金色长翎",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ]
   },
-  "firstSeq": 1867,
+  "firstSeq": 1873,
   "attrProvenance": {
     "种族": {
       "asOf": null,
@@ -68,13 +46,7 @@
       "dated": false,
       "seq": 1873
     },
-    "外貌": {
-      "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-      "dated": false,
-      "seq": 1867
-    },
-    "小阶段": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
@@ -84,8 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:57:36.113Z"
+  "updatedAt": "2026-06-21T07:57:36.118Z"
 }

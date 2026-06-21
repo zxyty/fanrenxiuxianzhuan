@@ -20,11 +20,12 @@
     "合体后期大圆满",
     "圣阶初期",
     "圣阶中期",
-    "合体境界"
+    "合体境界",
+    "合体修士"
   ],
   "summary": "中境界第二层。",
   "attributes": {
-    "阶序": "化神/炼虚之上",
+    "阶序": "中境界第二层、炼虚之上、合体、炼虚之上、大乘之下、化神/炼虚之上、合体期、尊者级对应人族境界",
     "上一境": "大乘",
     "下一境": "大乘期",
     "小阶段": "合体后期、合体后期巅峰、中期、合体中期、合体初期、合体初阶、初期、后期、大成、巅峰",
@@ -57,6 +58,16 @@
         "value": "化神/炼虚之上",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      },
+      {
+        "value": "尊者级对应人族境界",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "上一境": [
@@ -219,9 +230,9 @@
   "attrProvenance": {
     "阶序": {
       "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "docId": "lore.fanren-ch127-132-linggen-realms-taonan",
       "dated": false,
-      "seq": 1867
+      "seq": 127
     },
     "上一境": {
       "asOf": null,
@@ -293,7 +304,8 @@
     "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
     "plot.fanren-1861-1866-mozhan-chongwang",
     "plot.fanren-1877-1878-mojie-zhizhan-mofu-jiangshi",
-    "plot.fanren-ch1881-mo-lin-cheng-xia"
+    "plot.fanren-ch1881-mo-lin-cheng-xia",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:45:53.106Z"
+  "updatedAt": "2026-06-21T07:57:36.171Z"
 }

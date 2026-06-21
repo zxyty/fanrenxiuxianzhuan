@@ -1,71 +1,57 @@
 {
-  "id": "ent.place.x-8e18a624",
-  "type": "place",
-  "name": "灵皇城",
+  "id": "ent.technique.x-9870c419",
+  "type": "technique",
+  "name": "虬龙大力魔功",
   "aliases": [],
-  "summary": "魔族此次入侵的主要攻击方向，出现的魔族大军据说数倍于天渊城。",
+  "summary": "力尊者所修魔功，已大成，化身三头六臂古魔真身，巨力惊人。",
   "attributes": {
-    "所属界面": "人界",
-    "危险度": "极高",
-    "类型": "人族城池",
-    "守护": "通天巨树、绿色光幕"
+    "五行属性": "魔",
+    "效果": "三头六臂古魔真身、力量暴涨",
+    "适用境界": "合体期"
   },
   "observations": {
-    "所属界面": [
+    "五行属性": [
       {
-        "value": "灵界",
-        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-        "seq": 1867
+        "value": "魔",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      }
+    ],
+    "效果": [
+      {
+        "value": "三头六臂古魔真身",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       },
       {
-        "value": "人界",
+        "value": "力量暴涨",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ],
-    "危险度": [
+    "适用境界": [
       {
-        "value": "极高",
-        "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-        "seq": 1867
-      }
-    ],
-    "类型": [
-      {
-        "value": "人族城池",
-        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
-        "seq": 1873
-      }
-    ],
-    "守护": [
-      {
-        "value": "通天巨树、绿色光幕",
+        "value": "合体期",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
       }
     ]
   },
-  "firstSeq": 1867,
+  "firstSeq": 1873,
   "attrProvenance": {
-    "所属界面": {
+    "五行属性": {
       "asOf": null,
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
       "seq": 1873
     },
-    "危险度": {
-      "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
-      "dated": false,
-      "seq": 1867
-    },
-    "类型": {
+    "效果": {
       "asOf": null,
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
       "seq": 1873
     },
-    "守护": {
+    "适用境界": {
       "asOf": null,
       "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
@@ -75,8 +61,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-21T07:57:36.128Z"
+  "updatedAt": "2026-06-21T07:57:36.268Z"
 }

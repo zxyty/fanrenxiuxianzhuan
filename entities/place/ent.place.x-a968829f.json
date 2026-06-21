@@ -3,11 +3,12 @@
   "type": "place",
   "name": "倚天城",
   "aliases": [
-    "倚天城巨墙"
+    "倚天城巨墙",
+    "倚天门四大宗门联合城池"
   ],
   "summary": "魔界之战中人族据守的城池，依仗各种禁制抵御魔族进攻。",
   "attributes": {
-    "类型": "城池、战场城池",
+    "类型": "城池、战场城池、宗门联合据点、人族城池",
     "守护": "各种禁制",
     "所属界面": "灵界",
     "所属势力": "魔族"
@@ -23,6 +24,16 @@
         "value": "战场城池",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "宗门联合据点",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
+      },
+      {
+        "value": "人族城池",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "守护": [
@@ -30,6 +41,11 @@
         "value": "各种禁制",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "四大宗门",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "所属界面": [
@@ -37,6 +53,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "人界",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ],
     "所属势力": [
@@ -44,16 +65,21 @@
         "value": "魔族",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "倚天门等四大宗门",
+        "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+        "seq": 1873
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1873,
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
       "dated": false,
-      "seq": 1903
+      "seq": 1873
     },
     "守护": {
       "asOf": null,
@@ -79,7 +105,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
   ],
-  "updatedAt": "2026-06-17T03:26:19.747Z"
+  "updatedAt": "2026-06-21T07:57:36.170Z"
 }
