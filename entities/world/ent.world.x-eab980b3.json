@@ -2,10 +2,12 @@
   "id": "ent.world.x-eab980b3",
   "type": "world",
   "name": "真仙界",
-  "aliases": [],
+  "aliases": [
+    "传闻中的真仙界"
+  ],
   "summary": "金阙玉书与银蝌文、金篆文的源头，仙家之物所出之界。",
   "attributes": {
-    "层次": "上界（仙界）、仙界、上界、高于灵界"
+    "层次": "上界（仙界）、仙界、上界、高于灵界、灵界之上"
   },
   "observations": {
     "层次": [
@@ -28,6 +30,11 @@
         "value": "高于灵界",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "灵界之上",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
       }
     ]
   },
@@ -48,7 +55,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.fanren-1693-1703-xianren-palace-climb",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-1843-1848-hualing-zhi-zhan"
+    "plot.fanren-1843-1848-hualing-zhi-zhan",
+    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru"
   ],
-  "updatedAt": "2026-06-21T07:01:40.366Z"
+  "updatedAt": "2026-06-21T07:09:08.439Z"
 }

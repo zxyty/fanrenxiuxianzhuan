@@ -4,19 +4,23 @@
   "name": "青元子",
   "aliases": [
     "青元子前辈",
-    "半个青元子"
+    "半个青元子",
+    "青色小人",
+    "姜道友",
+    "青大人"
   ],
   "summary": "飞升修士前辈，炼虚后期，以七十二口飞剑剑阵力敌合体修士，剑光青色，自创功法（青元剑诀），多年前入蛮荒后失踪。",
   "attributes": {
-    "小阶段": "大乘期",
+    "小阶段": "大乘",
     "称号": "参天造化",
-    "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法、魂魄与长元族人融合，记忆各半",
+    "标志特征": "青色剑光、七十二口飞剑剑阵、七十二口青色飞剑剑阵、自创功法、魂魄与长元族人融合，记忆各半、元婴固形如体、三大化身元婴",
     "结局": "进入蛮荒后再无消息、进入蛮荒后失踪",
     "存殁": "下落不明",
-    "身份": "青元剑诀创立者、青元剑诀创始者、高阶大能、委托韩立收集材料者、委托韩立采药者、冥河之地坐镇者、隐居前辈、潜在大援",
+    "身份": "青元剑诀创立者、青元剑诀创始者、高阶大能、委托韩立收集材料者、委托韩立采药者、冥河之地坐镇者、隐居前辈、潜在大援、韩立同族长辈/旧识",
     "种族": "人族",
-    "外貌": "灰袍三尺长髯、面容普通、精光四射",
-    "出身地": "隐于冥河之地"
+    "外貌": "灰袍长髯老者（元婴化身为缩小十倍青濛小人）",
+    "出身地": "隐于冥河之地",
+    "性别": "男"
   },
   "observations": {
     "小阶段": [
@@ -34,6 +38,11 @@
         "value": "大乘期",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
       }
     ],
     "称号": [
@@ -63,6 +72,11 @@
         "value": "魂魄与长元族人融合，记忆各半",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
+      },
+      {
+        "value": "元婴固形如体、三大化身元婴",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
       }
     ],
     "结局": [
@@ -124,6 +138,11 @@
         "value": "潜在大援",
         "docId": "plot.fanren-1843-1848-hualing-zhi-zhan",
         "seq": 1843
+      },
+      {
+        "value": "韩立同族长辈/旧识",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
       }
     ],
     "种族": [
@@ -139,6 +158,11 @@
         "value": "灰袍三尺长髯、面容普通、精光四射",
         "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
         "seq": 1507
+      },
+      {
+        "value": "灰袍长髯老者（元婴化身为缩小十倍青濛小人）",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
       }
     ],
     "出身地": [
@@ -148,15 +172,22 @@
         "seq": 1843,
         "note": "本片段未现身"
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+        "seq": 1849
+      }
     ]
   },
   "firstSeq": 1351,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
       "dated": false,
-      "seq": 1837
+      "seq": 1849
     },
     "称号": {
       "asOf": null,
@@ -197,9 +228,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1507-1512-luohou-mystery-and-qingyuanzi",
+      "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
       "dated": false,
-      "seq": 1507
+      "seq": 1849
     },
     "出身地": {
       "asOf": null,
@@ -207,6 +238,12 @@
       "dated": false,
       "seq": 1843,
       "note": "本片段未现身"
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru",
+      "dated": false,
+      "seq": 1849
     }
   },
   "contested": false,
@@ -227,7 +264,8 @@
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1831-1836-wandu-hunyuan-shen",
     "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
-    "plot.fanren-1843-1848-hualing-zhi-zhan"
+    "plot.fanren-1843-1848-hualing-zhi-zhan",
+    "plot.fanren-ch1849-1854-tihun-feixian-minghe-shenru"
   ],
-  "updatedAt": "2026-06-21T07:01:40.358Z"
+  "updatedAt": "2026-06-21T07:09:08.450Z"
 }
