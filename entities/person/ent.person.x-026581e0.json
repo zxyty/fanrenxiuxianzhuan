@@ -5,17 +5,19 @@
   "aliases": [
     "羽衣少女",
     "黛眉少女",
-    "羽衣女子"
+    "羽衣女子",
+    "叶家女修",
+    "叶姓女子"
   ],
   "summary": "叶家老祖，化形为身着五色羽衣的十七八岁少女，声如黄鹂，性情活泼，疼爱孙女叶颖。",
   "attributes": {
-    "外貌": "少女模样",
-    "身份": "老祖、叶家代战修士、叶家修士、叶家老祖",
-    "阵营": "人族",
-    "小阶段": "合体",
+    "外貌": "极年轻女子、羽衣",
+    "身份": "老祖、叶家代战修士、叶家修士、叶家老祖、叶家弟子",
+    "阵营": "韩立一行",
+    "小阶段": "炼虚",
     "性别": "女",
     "种族": "魔族",
-    "标志特征": "五色彩凤虚影",
+    "标志特征": "天凤之血",
     "出身地": "叶家"
   },
   "observations": {
@@ -35,6 +37,11 @@
         "value": "少女模样",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "极年轻女子、羽衣",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "身份": [
@@ -57,6 +64,11 @@
         "value": "叶家老祖",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "叶家弟子",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "阵营": [
@@ -69,6 +81,11 @@
         "value": "人族",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "韩立一行",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "小阶段": [
@@ -86,6 +103,12 @@
         "value": "合体",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053,
+        "note": "以法术压抑气息伪装；真实境界疑高于炼虚"
       }
     ],
     "性别": [
@@ -104,7 +127,8 @@
       {
         "value": "魔族",
         "docId": "plot.fanren-ch2065-jinjingzhu",
-        "seq": 2047
+        "seq": 2047,
+        "note": "化身遮掩，实为人族"
       }
     ],
     "标志特征": [
@@ -122,6 +146,11 @@
         "value": "五色彩凤虚影",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      },
+      {
+        "value": "天凤之血",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "出身地": [
@@ -136,9 +165,9 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2047
+      "seq": 2053
     },
     "身份": {
       "asOf": null,
@@ -148,15 +177,16 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1993
+      "seq": 2053
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2047
+      "seq": 2053,
+      "note": "以法术压抑气息伪装；真实境界疑高于炼虚"
     },
     "性别": {
       "asOf": null,
@@ -168,13 +198,14 @@
       "asOf": null,
       "docId": "plot.fanren-ch2065-jinjingzhu",
       "dated": false,
-      "seq": 2047
+      "seq": 2047,
+      "note": "化身遮掩，实为人族"
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2023
+      "seq": 2053
     },
     "出身地": {
       "asOf": null,
@@ -195,7 +226,8 @@
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.583Z"
+  "updatedAt": "2026-06-21T12:24:42.225Z"
 }

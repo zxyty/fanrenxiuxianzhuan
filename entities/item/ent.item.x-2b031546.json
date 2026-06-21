@@ -5,9 +5,9 @@
   "aliases": [],
   "summary": "魔界深处灵物，七窍一气莲未形成前的进化形态，可大增慧根。",
   "attributes": {
-    "类型": "灵莲",
+    "类型": "圣界秘宝",
     "用途": "提升灵根慧力、增进阶大乘几率",
-    "产地": "魔源海神秘岛屿"
+    "产地": "圣界"
   },
   "observations": {
     "类型": [
@@ -20,6 +20,11 @@
         "value": "灵莲",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "圣界秘宝",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "用途": [
@@ -44,6 +49,11 @@
         "value": "魔源海神秘岛屿",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ]
   },
@@ -51,9 +61,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1999
+      "seq": 2053
     },
     "用途": {
       "asOf": null,
@@ -63,16 +73,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1999
+      "seq": 2053
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T11:08:29.627Z"
+  "updatedAt": "2026-06-21T12:24:42.149Z"
 }

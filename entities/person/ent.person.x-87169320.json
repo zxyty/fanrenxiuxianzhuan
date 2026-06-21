@@ -15,11 +15,11 @@
   "summary": "炼虚初期修士，与韩立、阴柔青年同受邀协助降服雷兽。",
   "attributes": {
     "小阶段": "魔尊",
-    "外貌": "黑甲、满脸络腮胡、黑甲威武、黑甲、面容丑陋凶恶、面色阴沉、身穿黑色战甲的高大人影、面容丑陋、黑甲、面容丑陋的黑甲大汉",
+    "外貌": "黑甲、满脸络腮胡、黑甲威武、黑甲、面容丑陋凶恶、面色阴沉、身穿黑色战甲的高大人影、面容丑陋、黑甲、面容丑陋的黑甲大汉、黑甲、丑陋、咧大嘴",
     "种族": "灵族",
     "标志特征": "口吐白色雷芒、双巨锤、体表黑气滚滚、蛟龙虚影、精纯魔气、黑甲持双锤、黑甲、双黑锤、背现黑象虚影、化数百虚影",
     "性别": "男",
-    "身份": "窈窕人影仆从",
+    "身份": "宝花圣祖属下",
     "阵营": "天鹏族、宝华圣祖仆从、圣族、魔族、魔族（圣族）",
     "存殁": "重伤昏迷",
     "称号": "尊者"
@@ -83,6 +83,11 @@
         "value": "面容丑陋的黑甲大汉",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      },
+      {
+        "value": "黑甲、丑陋、咧大嘴",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "种族": [
@@ -171,6 +176,11 @@
         "value": "窈窕人影仆从",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "宝花圣祖属下",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "阵营": [
@@ -250,9 +260,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1993
+      "seq": 2053
     },
     "阵营": {
       "asOf": null,
@@ -287,7 +297,8 @@
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.586Z"
+  "updatedAt": "2026-06-21T12:24:42.060Z"
 }

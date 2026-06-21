@@ -9,8 +9,8 @@
   "summary": "幻啸沙漠原生珍稀魔兽，无法飞行但沙中疾行如风，魔核皮骨皆贵，近乎灭绝，多被魔族圈养。",
   "attributes": {
     "栖息地": "幻夜城/幻啸沙漠",
-    "能力": "沙漠中行动如风、沙漠穿梭、代步运输、自由进出幻啸沙漠、深入沙漠运输珍稀材料",
-    "外形": "五丈长黑鳞八足巨蜥",
+    "能力": "沙漠中行动如风、沙漠穿梭、代步运输、自由进出幻啸沙漠、深入沙漠运输珍稀材料、沙漠遁行坐骑",
+    "外形": "八足魔蜥、五丈长黑鳞八足巨蜥、八足蜥蜴、八足巨型蜥蜴状魔兽",
     "种族": "魔兽",
     "等级": "魔兽、气息金丹期",
     "主人": "白家、宁家、方家、赵家"
@@ -63,6 +63,11 @@
         "value": "深入沙漠运输珍稀材料",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "沙漠遁行坐骑",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "外形": [
@@ -75,6 +80,16 @@
         "value": "五丈长黑鳞八足巨蜥",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "八足蜥蜴",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      },
+      {
+        "value": "八足巨型蜥蜴状魔兽",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "种族": [
@@ -135,9 +150,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
-      "seq": 2035
+      "seq": 2005
     },
     "种族": {
       "asOf": null,
@@ -168,7 +183,8 @@
     "plot.hanli-yijin-huanxiao-shamo-2054",
     "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.594Z"
+  "updatedAt": "2026-06-21T12:24:42.213Z"
 }

@@ -4,14 +4,15 @@
   "name": "幻啸沙漠",
   "aliases": [
     "幻啸沙漠禁地",
-    "幻啸沙漠绿洲"
+    "幻啸沙漠绿洲",
+    "幻啸"
   ],
   "summary": "魔界十大禁地之一，入内法力被压制九成、遁术宝物皆失效，只能徒步，幻啸魔风为患，徒步穿越需五六十年。",
   "attributes": {
     "所属界面": "圣界",
     "类型": "沙漠险地",
-    "危险度": "高",
-    "守护": "幻啸魔风、落魂风、地湮沙、幻啸魔狼",
+    "危险度": "禁地/三大魔害",
+    "守护": "幻啸魔风、落魂风、地湮沙、幻啸魔狼、沙影兽等魔兽",
     "特产": "八足魔蜥、火云石、矿脉、药田、珍稀材料"
   },
   "observations": {
@@ -74,6 +75,11 @@
         "value": "高",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "禁地/三大魔害",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "守护": [
@@ -96,6 +102,11 @@
         "value": "幻啸魔狼",
         "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
+      },
+      {
+        "value": "沙影兽等魔兽",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "特产": [
@@ -142,9 +153,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2047
+      "seq": 2053
     },
     "守护": {
       "asOf": null,
@@ -170,7 +181,8 @@
     "plot.hanli-yijin-huanxiao-shamo-2054",
     "plot.fanren-2041-2046-sihunpei-rongyanhu-moshou",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.599Z"
+  "updatedAt": "2026-06-21T12:24:42.244Z"
 }

@@ -15,7 +15,10 @@
     "身份": "林家大长老、林家太上长老、林家修士、潜入魔界一行成员、太上长老",
     "外貌": "墨绿长袍、银环、清秀如女、头戴银环、披发、披发男子、披发",
     "阵营": "林家",
-    "小阶段": "合体中期以上、合体期"
+    "小阶段": "合体中期以上、合体期、合体",
+    "存殁": "死亡",
+    "死因": "被宝花圣祖搜魂后以粉红火焰焚身、元神消散",
+    "结局": "本章身死元神消散"
   },
   "observations": {
     "性别": [
@@ -96,6 +99,32 @@
         "value": "合体期",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
+    ],
+    "死因": [
+      {
+        "value": "被宝花圣祖搜魂后以粉红火焰焚身、元神消散",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
+    ],
+    "结局": [
+      {
+        "value": "本章身死元神消散",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ]
   },
@@ -130,6 +159,24 @@
       "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
       "seq": 1825
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
     }
   },
   "contested": false,
@@ -138,7 +185,8 @@
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
-    "plot.fanren-2025-2030-blood-crow-city-yimojin"
+    "plot.fanren-2025-2030-blood-crow-city-yimojin",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T11:20:00.654Z"
+  "updatedAt": "2026-06-21T12:24:42.053Z"
 }

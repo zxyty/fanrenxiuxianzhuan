@@ -20,8 +20,9 @@
     "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂、半龙化、持净雷瓶",
     "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持、魔界之行发起者、陇家太上长老、陇家老祖/第一修士、潜入魔界一行领头、炼虚后期中年人、陇家太上老祖",
     "性格": "执着、善权谋",
-    "阵营": "陇家、人族真灵世家、人族、灵族/魔族联军、人族突围联盟",
-    "称号": "人族最高战力之一"
+    "阵营": "陇家、人族真灵世家、人族、灵族/魔族联军、人族突围联盟、韩立一行",
+    "称号": "人族最高战力之一",
+    "性别": "男"
   },
   "observations": {
     "种族": [
@@ -238,6 +239,11 @@
         "value": "人族突围联盟",
         "docId": "plot.fanren-2023-2028-shouchao-yu-chongchao",
         "seq": 2023
+      },
+      {
+        "value": "韩立一行",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "称号": [
@@ -250,6 +256,13 @@
         "value": "人族最高战力之一",
         "docId": "plot.fanren-1861-1866-mozhan-chongwang",
         "seq": 1861
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ]
   },
@@ -302,6 +315,12 @@
       "docId": "plot.fanren-1861-1866-mozhan-chongwang",
       "dated": false,
       "seq": 1861
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
     }
   },
   "contested": false,
@@ -322,7 +341,8 @@
     "plot.fanren-2025-2030-blood-crow-city-yimojin",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.577Z"
+  "updatedAt": "2026-06-21T12:24:42.180Z"
 }

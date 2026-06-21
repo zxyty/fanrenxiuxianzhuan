@@ -3,17 +3,19 @@
   "type": "person",
   "name": "朱果儿",
   "aliases": [
-    "朱果"
+    "朱果",
+    "人族小丫头"
   ],
   "summary": "纯人族结丹期少女，自称独自误入魔界，被万奴塔当作女奴，所修轮回功为其母所授，被韩立买走。",
   "attributes": {
     "性别": "女",
     "种族": "人族",
     "小阶段": "元婴",
-    "身份": "韩立婢女",
-    "外貌": "黄衫少女，面容与其母凌飞仙五分相似",
+    "身份": "俘虏",
+    "外貌": "娇小身躯，满脸惊恐",
     "出身地": "小灵天",
-    "性格": "聪颖"
+    "性格": "聪颖",
+    "存殁": "存活"
   },
   "observations": {
     "性别": [
@@ -58,6 +60,11 @@
         "value": "韩立婢女",
         "docId": "plot.fanren-ch2065-jinjingzhu",
         "seq": 2047
+      },
+      {
+        "value": "俘虏",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "外貌": [
@@ -70,6 +77,11 @@
         "value": "黄衫少女，面容与其母凌飞仙五分相似",
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
+      },
+      {
+        "value": "娇小身躯，满脸惊恐",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "出身地": [
@@ -84,6 +96,13 @@
         "value": "聪颖",
         "docId": "plot.fanren-2068-2069-fansuan-lanjie",
         "seq": 2047
+      }
+    ],
+    "存殁": [
+      {
+        "value": "存活",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ]
   },
@@ -109,15 +128,15 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2065-jinjingzhu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2047
+      "seq": 2053
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 2035
+      "seq": 2053
     },
     "出身地": {
       "asOf": null,
@@ -130,6 +149,12 @@
       "docId": "plot.fanren-2068-2069-fansuan-lanjie",
       "dated": false,
       "seq": 2047
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
     }
   },
   "contested": false,
@@ -138,7 +163,8 @@
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
     "plot.fanren-ch2065-jinjingzhu",
-    "plot.fanren-2068-2069-fansuan-lanjie"
+    "plot.fanren-2068-2069-fansuan-lanjie",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:12:04.581Z"
+  "updatedAt": "2026-06-21T12:24:42.065Z"
 }

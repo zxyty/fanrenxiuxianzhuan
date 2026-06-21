@@ -3,11 +3,12 @@
   "type": "person",
   "name": "止水",
   "aliases": [
-    "脸色苍白青年"
+    "脸色苍白青年",
+    "止水道友"
   ],
   "summary": "灵族器灵族长老，新近进阶合体初期，脸色苍白、四周飘蓝雾，擅破碎虚空秘术。",
   "attributes": {
-    "种族": "器灵族",
+    "种族": "灵族",
     "小阶段": "合体初期",
     "身份": "器灵族圣灵",
     "外貌": "脸色苍白",
@@ -19,6 +20,11 @@
         "value": "器灵族",
         "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
         "seq": 1993
+      },
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "小阶段": [
@@ -75,9 +81,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1993
+      "seq": 2053
     },
     "小阶段": {
       "asOf": null,
@@ -110,7 +116,8 @@
   "docs": [
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
-    "plot.fanren-ch2065-jinjingzhu"
+    "plot.fanren-ch2065-jinjingzhu",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T12:09:50.376Z"
+  "updatedAt": "2026-06-21T12:24:42.183Z"
 }

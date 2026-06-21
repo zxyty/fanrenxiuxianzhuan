@@ -3,13 +3,18 @@
   "type": "person",
   "name": "白戚",
   "aliases": [
-    "白光中神灵"
+    "白光中神灵",
+    "白戚道友",
+    "白濛濛光影"
   ],
   "summary": "灵族圣灵，合体后期且灵压更强，本体何物成灵不明，白光忽明忽暗令观者头晕，精通数种克制魔功大神通且颇知魔界。",
   "attributes": {
     "种族": "灵族/圣灵",
     "小阶段": "后期",
-    "标志特征": "护体灵光所过魔兽四分五裂"
+    "标志特征": "护体灵光所过魔兽四分五裂",
+    "性别": "男",
+    "阵营": "韩立一行",
+    "外貌": "白濛濛光影"
   },
   "observations": {
     "种族": [
@@ -47,6 +52,27 @@
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
       }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一行",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
+    ],
+    "外貌": [
+      {
+        "value": "白濛濛光影",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
+      }
     ]
   },
   "firstSeq": 1993,
@@ -68,13 +94,32 @@
       "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
       "dated": false,
       "seq": 2005
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2070-erjin-huanxiao",
+      "dated": false,
+      "seq": 2053
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
-    "plot.fanren-2005-2010-bazu-moxi-xianhundan"
+    "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T11:17:22.806Z"
+  "updatedAt": "2026-06-21T12:24:42.186Z"
 }

@@ -7,9 +7,9 @@
   ],
   "summary": "魔界深处灵物，化仙池未形成前的进化形态，对灵界各族有脱胎换骨之造化之力。",
   "attributes": {
-    "类型": "天地灵物、灵池/造化之地、灵池",
+    "类型": "天地灵物、灵池/造化之地、灵池、圣界秘宝",
     "用途": "脱胎换骨、关乎进阶大乘、增进阶大乘几率",
-    "产地": "魔界深处"
+    "产地": "圣界"
   },
   "observations": {
     "类型": [
@@ -27,6 +27,11 @@
         "value": "灵池",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "圣界秘宝",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ],
     "用途": [
@@ -46,6 +51,11 @@
         "value": "魔界深处",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "圣界",
+        "docId": "plot.fanren-2070-erjin-huanxiao",
+        "seq": 2053
       }
     ]
   },
@@ -65,16 +75,17 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "docId": "plot.fanren-2070-erjin-huanxiao",
       "dated": false,
-      "seq": 1825
+      "seq": 2053
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
-    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian"
+    "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
+    "plot.fanren-2070-erjin-huanxiao"
   ],
-  "updatedAt": "2026-06-21T11:08:29.630Z"
+  "updatedAt": "2026-06-21T12:24:42.147Z"
 }
