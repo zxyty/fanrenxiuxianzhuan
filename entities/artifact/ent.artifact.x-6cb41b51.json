@@ -7,21 +7,28 @@
     "光阴宝镜",
     "光阴宝经",
     "广阴宝经",
-    "漆黑棱形古镜"
+    "漆黑棱形古镜",
+    "广阴境秘术之镜",
+    "棱形古镜"
   ],
   "summary": "白家大哥持有的至阴法宝，由天地冰灵炼化的漆黑棱形古镜，可窥探他人修为深浅并摄录画面；遇至阴护体或至寒功法之人效用大减。",
   "attributes": {
-    "持有者": "白家大哥",
-    "能力": "窥探修为、摄录画面",
+    "持有者": "白家大哥、白皙蛟",
+    "能力": "窥探修为、摄录画面、窥探修士所修功法与境界层次",
     "来历": "天地冰灵炼化",
     "五行属性": "至阴",
-    "外形": "漆黑棱形古镜"
+    "外形": "漆黑棱形古镜、棱形古镜"
   },
   "observations": {
     "持有者": [
       {
         "value": "白家大哥",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "白皙蛟",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
       }
     ],
@@ -34,6 +41,11 @@
       {
         "value": "摄录画面",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "窥探修士所修功法与境界层次",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
       }
     ],
@@ -55,6 +67,11 @@
       {
         "value": "漆黑棱形古镜",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "棱形古镜",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
       }
     ]
@@ -95,7 +112,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+    "plot.hanli-yijin-huanxiao-shamo-2054"
   ],
-  "updatedAt": "2026-06-21T11:50:25.192Z"
+  "updatedAt": "2026-06-21T11:52:53.887Z"
 }

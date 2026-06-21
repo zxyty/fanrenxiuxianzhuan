@@ -10,7 +10,7 @@
     "所属界面": "圣界",
     "类型": "沙漠禁地",
     "危险度": "极高",
-    "守护": "幻啸魔风",
+    "守护": "幻啸魔风、落魂风、地湮沙、幻啸魔狼",
     "特产": "八足魔蜥、火云石、矿脉、药田"
   },
   "observations": {
@@ -65,6 +65,21 @@
         "value": "幻啸魔风",
         "docId": "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
         "seq": 1999
+      },
+      {
+        "value": "落魂风",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      },
+      {
+        "value": "地湮沙",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      },
+      {
+        "value": "幻啸魔狼",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
       }
     ],
     "特产": [
@@ -130,7 +145,8 @@
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+    "plot.hanli-yijin-huanxiao-shamo-2054"
   ],
-  "updatedAt": "2026-06-21T11:50:25.188Z"
+  "updatedAt": "2026-06-21T11:52:53.897Z"
 }

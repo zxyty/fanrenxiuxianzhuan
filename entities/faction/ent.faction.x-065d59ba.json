@@ -14,7 +14,8 @@
   "attributes": {
     "阵营": "圣族",
     "所属界面": "圣界、魔界",
-    "据点": "幻夜城白家堡垒"
+    "据点": "幻夜城、幻夜城白家堡垒、银川绿洲",
+    "镇派之宝": "广阴宝镜、八足魔蜥"
   },
   "observations": {
     "阵营": [
@@ -51,6 +52,23 @@
         "value": "幻夜城白家堡垒",
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
+      },
+      {
+        "value": "银川绿洲",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      }
+    ],
+    "镇派之宝": [
+      {
+        "value": "广阴宝镜",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      },
+      {
+        "value": "八足魔蜥",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
       }
     ]
   },
@@ -70,7 +88,13 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+      "docId": "plot.fanren-2044-bai-yunxin",
+      "dated": false,
+      "seq": 2029
+    },
+    "镇派之宝": {
+      "asOf": null,
+      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
       "dated": false,
       "seq": 2035
     }
@@ -81,7 +105,8 @@
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
-    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+    "plot.hanli-yijin-huanxiao-shamo-2054"
   ],
-  "updatedAt": "2026-06-21T11:50:25.184Z"
+  "updatedAt": "2026-06-21T11:52:53.885Z"
 }

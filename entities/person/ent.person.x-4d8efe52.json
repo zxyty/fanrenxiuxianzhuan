@@ -9,7 +9,8 @@
     "覆天老祖",
     "紫发女子",
     "覆天仙子",
-    "覆天道友"
+    "覆天道友",
+    "白家五妹"
   ],
   "summary": "白家老祖，一身锻天魔功修炼至极致，距圣祖境界仅差一步。",
   "attributes": {
@@ -19,7 +20,8 @@
     "性别": "女",
     "小阶段": "魔尊",
     "标志特征": "紫发、额生白色短角",
-    "外貌": "身材高挑、年约二十"
+    "外貌": "身材高挑、年约二十",
+    "阵营": "白家"
   },
   "observations": {
     "种族": [
@@ -75,6 +77,13 @@
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
       }
+    ],
+    "阵营": [
+      {
+        "value": "白家",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      }
     ]
   },
   "firstSeq": 2029,
@@ -120,6 +129,12 @@
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
       "seq": 2035
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
@@ -127,7 +142,8 @@
   "docs": [
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
-    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+    "plot.hanli-yijin-huanxiao-shamo-2054"
   ],
-  "updatedAt": "2026-06-21T11:50:25.177Z"
+  "updatedAt": "2026-06-21T11:52:53.880Z"
 }

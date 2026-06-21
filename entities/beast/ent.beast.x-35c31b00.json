@@ -9,9 +9,10 @@
   "attributes": {
     "栖息地": "幻啸沙漠一带",
     "能力": "沙漠中行动如风、沙漠穿梭、代步运输",
-    "外形": "八足魔蜥",
+    "外形": "五丈长黑鳞八足巨蜥",
     "种族": "魔兽",
-    "等级": "魔兽"
+    "等级": "魔兽、气息金丹期",
+    "主人": "白家"
   },
   "observations": {
     "栖息地": [
@@ -48,6 +49,11 @@
         "value": "八足魔蜥",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "五丈长黑鳞八足巨蜥",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
       }
     ],
     "种族": [
@@ -61,6 +67,18 @@
       {
         "value": "魔兽",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "气息金丹期",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+        "seq": 2035
+      }
+    ],
+    "主人": [
+      {
+        "value": "白家",
+        "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
         "seq": 2035
       }
     ]
@@ -81,9 +99,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
+      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
       "dated": false,
-      "seq": 2005
+      "seq": 2035
     },
     "种族": {
       "asOf": null,
@@ -96,6 +114,12 @@
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
       "seq": 2035
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.hanli-yijin-huanxiao-shamo-2054",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
@@ -104,7 +128,8 @@
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+    "plot.hanli-yijin-huanxiao-shamo-2054"
   ],
-  "updatedAt": "2026-06-21T11:50:25.189Z"
+  "updatedAt": "2026-06-21T11:52:53.893Z"
 }
