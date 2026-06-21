@@ -619,3 +619,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T00:59:56.972Z** `ingest` plot.chapter-1605-1606-yuezong-mojin-shanmai — 第1605-1606章 越宗·麒麟：炼制瑕疵琉璃天火液、纤纤引见魔兽猎人越宗议进魔金山脉 · kind=plot asOf=2026-06-21 entities=16 relations=14 src=01603-01608.p1.md
 - **2026-06-21T01:01:48.461Z** `ingest` plot.fanren-ch1607-qiying-zhixian — 第1607章 麒影 / 芝仙：纤纤与伴生麒影定计探真灵之穴，三人入魔金山脉惊闻人形芝仙 · kind=plot asOf=2026-06-21 entities=16 relations=14 src=01603-01608.p2.md
 - **2026-06-21T01:04:24.827Z** `ingest` plot.fanren-1608-1612-leiyun-town-mojin-mountains — 第1608-1612章：雷云镇取辟雷伞、力压九阶、初入魔金山脉 · kind=plot asOf=2026-06-21 entities=25 relations=23 src=01603-01608.p3.md
+- **2026-06-21T01:12:46.416Z** `ingest` plot.fanren-1609-1614-duoyan-mo-mojin-shanmai — 凡人修仙传 第1609-1614章｜魔金山脉：斩多眼魔、铁魔伏杀、银蛟邪修 · kind=plot asOf=2026-06-21 entities=34 relations=40 src=01609-01614.md

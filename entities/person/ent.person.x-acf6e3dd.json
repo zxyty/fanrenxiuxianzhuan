@@ -11,10 +11,11 @@
   "attributes": {
     "性别": "女",
     "种族": "晶族",
-    "身份": "雇主",
+    "身份": "同行者",
     "道号": "纤纤",
-    "标志特征": "眉宇间一颗晶石闪动淡白光",
-    "小阶段": "修为近瓶颈、炼虚（修为偏低）"
+    "标志特征": "金光裹身外悬八块铜镜",
+    "小阶段": "修为近瓶颈、炼虚（修为偏低）",
+    "称号": "纤仙子"
   },
   "observations": {
     "性别": [
@@ -41,6 +42,11 @@
         "value": "雇主",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "同行者",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "道号": [
@@ -55,6 +61,11 @@
         "value": "眉宇间一颗晶石闪动淡白光",
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
         "seq": 1603
+      },
+      {
+        "value": "金光裹身外悬八块铜镜",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "小阶段": [
@@ -67,6 +78,13 @@
         "value": "炼虚（修为偏低）",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      }
+    ],
+    "称号": [
+      {
+        "value": "纤仙子",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ]
   },
@@ -86,9 +104,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1609
     },
     "道号": {
       "asOf": null,
@@ -98,15 +116,21 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1609
     },
     "小阶段": {
       "asOf": null,
       "docId": "plot.fanren-ch1607-qiying-zhixian",
       "dated": false,
       "seq": 1603
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "dated": false,
+      "seq": 1609
     }
   },
   "contested": false,
@@ -116,7 +140,8 @@
     "plot.fanren-1586-qianjizi",
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:04:24.673Z"
+  "updatedAt": "2026-06-21T01:12:46.264Z"
 }

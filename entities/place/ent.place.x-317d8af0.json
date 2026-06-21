@@ -11,8 +11,8 @@
   "attributes": {
     "类型": "魔域山脉、凶地/山脉、凶险山脉、魔兽山脉",
     "危险度": "极高（陨落率十之一二）、极高、高（魔气喷发期更甚）",
-    "特产": "魔兽内丹/魔核、珍稀材料",
-    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷、雷电世界外围",
+    "特产": "魔兽内丹/魔核、珍稀材料、芝仙、多眼魔眼珠",
+    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷、雷电世界外围、古魔、各阶魔兽",
     "所属界面": "灵界、灵界（天云）"
   },
   "observations": {
@@ -65,6 +65,11 @@
         "value": "珍稀材料",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "芝仙、多眼魔眼珠",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "守护": [
@@ -88,6 +93,11 @@
         "value": "雷电世界外围",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "古魔、各阶魔兽",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "所属界面": [
@@ -143,7 +153,8 @@
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:04:24.679Z"
+  "updatedAt": "2026-06-21T01:12:46.254Z"
 }

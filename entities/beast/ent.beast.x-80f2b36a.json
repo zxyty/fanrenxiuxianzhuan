@@ -4,11 +4,13 @@
   "name": "天凤",
   "aliases": [
     "风土双属性天凤",
-    "天凤真血"
+    "天凤真血",
+    "真灵天凤"
   ],
   "summary": "传说中具风土双属性的存在，曾与真灵级火鳄大战月余以风沙淹没火山。",
   "attributes": {
-    "血脉": "风土双属性"
+    "血脉": "风土双属性",
+    "外形": "五色彩凤"
   },
   "observations": {
     "血脉": [
@@ -16,6 +18,13 @@
         "value": "风土双属性",
         "docId": "plot.fanren-ch1359-shuanghuang-appears",
         "seq": 1357
+      }
+    ],
+    "外形": [
+      {
+        "value": "五色彩凤",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ]
   },
@@ -26,13 +35,20 @@
       "docId": "plot.fanren-ch1359-shuanghuang-appears",
       "dated": false,
       "seq": 1357
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "dated": false,
+      "seq": 1609
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1359-shuanghuang-appears",
-    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta"
+    "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-16T15:50:19.156Z"
+  "updatedAt": "2026-06-21T01:12:46.275Z"
 }

@@ -13,15 +13,17 @@
     "银色火焰火鸟",
     "尺许银焰火鸟",
     "银色火",
-    "银灿火鸟"
+    "银灿火鸟",
+    "噬灵天火灵火"
   ],
   "summary": "韩立的太阴真火吞噬太阳精火及灵族噬炎本源后进化而成的天火，化银色火鸟形，吸纳了噬炎的火灵本源与记忆。",
   "attributes": {
     "五行属性": "火",
     "持有者": "韩立",
-    "能力": "吞噬一切火焰、吸纳本源与记忆、含极寒极热、化银色火鸟、喷收青色雷珠、化银焰、紧随追踪、潜伏埋伏、吞噬各种灵力/银焰、吞吐雷珠、喷金银细丝、无视禁制穿透、奇毒腐蚀、喷灵漩邪光（金银细丝）、吞噬异力、借用精纯灵气临时倍增威能",
+    "能力": "吞噬一切火焰、吸纳本源与记忆、含极寒极热、化银色火鸟、喷收青色雷珠、化银焰、紧随追踪、潜伏埋伏、吞噬各种灵力/银焰、吞吐雷珠、喷金银细丝、无视禁制穿透、奇毒腐蚀、喷灵漩邪光（金银细丝）、吞噬异力、借用精纯灵气临时倍增威能、吞噬异火/灵火、灌注真元可暴涨、喷灵漩邪光金银细丝",
     "来历": "太阴真火融合太阳精火、吞噬噬炎而成、紫罗极火→太阴真火，融太阳精火与噬炎本源、黑夜森林潜伏地下",
-    "外形": "银色火焰、内含赤红火苗，可化火鸟/火球"
+    "外形": "银色火焰、内含赤红火苗，可化火鸟/火球",
+    "器灵": "已具灵性"
   },
   "observations": {
     "五行属性": [
@@ -108,6 +110,21 @@
         "value": "借用精纯灵气临时倍增威能",
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
         "seq": 1603
+      },
+      {
+        "value": "吞噬异火/灵火",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
+      },
+      {
+        "value": "灌注真元可暴涨",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
+      },
+      {
+        "value": "喷灵漩邪光金银细丝",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "来历": [
@@ -163,6 +180,13 @@
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
         "seq": 1603
       }
+    ],
+    "器灵": [
+      {
+        "value": "已具灵性",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
+      }
     ]
   },
   "firstSeq": 1297,
@@ -196,6 +220,12 @@
       "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
       "dated": false,
       "seq": 1603
+    },
+    "器灵": {
+      "asOf": null,
+      "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+      "dated": false,
+      "seq": 1609
     }
   },
   "contested": false,
@@ -233,7 +263,8 @@
     "plot.fanren-1543-1548-heisha-kongyunjing-lanhudao",
     "plot.fanren-1551-qidu-hanli-vs-guaie",
     "plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu",
-    "plot.chapter-1605-1606-yuezong-mojin-shanmai"
+    "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T00:59:56.821Z"
+  "updatedAt": "2026-06-21T01:12:46.267Z"
 }

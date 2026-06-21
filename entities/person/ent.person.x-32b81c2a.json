@@ -13,9 +13,9 @@
   "attributes": {
     "性别": "男",
     "小阶段": "化神中期",
-    "身份": "魔兽猎人、魔兽猎人/向导",
+    "身份": "魔兽猎人、魔兽猎人/向导、上族九阶",
     "外貌": "身材粗壮、黑色皮袍",
-    "标志特征": "面带数条淡紫色疤痕、气息时强时弱、眉宇隐隐有煞气",
+    "标志特征": "面带数条淡紫色疤痕、气息时强时弱、眉宇隐隐有煞气、足踏法轮、持藏蚕状怪虫的金盒、携测魔怪虫盒",
     "称号": "雷云镇名宿魔兽猎人"
   },
   "observations": {
@@ -43,6 +43,11 @@
         "value": "魔兽猎人/向导",
         "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
+      },
+      {
+        "value": "上族九阶",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "外貌": [
@@ -62,6 +67,16 @@
         "value": "气息时强时弱、眉宇隐隐有煞气",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "足踏法轮、持藏蚕状怪虫的金盒",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
+      },
+      {
+        "value": "携测魔怪虫盒",
+        "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+        "seq": 1609
       }
     ],
     "称号": [
@@ -116,7 +131,8 @@
   "docs": [
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
     "plot.fanren-ch1607-qiying-zhixian",
-    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
   ],
-  "updatedAt": "2026-06-21T01:04:24.674Z"
+  "updatedAt": "2026-06-21T01:12:46.265Z"
 }
