@@ -17,7 +17,9 @@
     "阵营": "血天大陆、本盟、本盟（守护小世界一方）、韩立一方、商盟",
     "小阶段": "大乘期、合体、大乘",
     "外貌": "灰袍老僧、面容枯黄、两眼浑浊、身穿绿袍的老者、绿袍老者、绿袍枯黄面老者、老者",
-    "性别": "男"
+    "性别": "男",
+    "出身地": "赫连商盟",
+    "性格": "谨慎、对危险敏感"
   },
   "observations": {
     "身份": [
@@ -132,6 +134,21 @@
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
       }
+    ],
+    "出身地": [
+      {
+        "value": "赫连商盟",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "性格": [
+      {
+        "value": "谨慎、对危险敏感",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365,
+        "note": "本章对韩立有心头预兆"
+      }
     ]
   },
   "firstSeq": 2305,
@@ -166,6 +183,19 @@
       "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
       "seq": 2353
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365,
+      "note": "本章对韩立有心头预兆"
     }
   },
   "contested": false,
@@ -175,7 +205,8 @@
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2372-six-wings-reappear",
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.802Z"
+  "updatedAt": "2026-06-21T19:01:33.578Z"
 }

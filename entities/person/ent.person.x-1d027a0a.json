@@ -8,19 +8,21 @@
     "萧老怪",
     "血骨门太上长老",
     "狂魔老祖",
-    "狂魔"
+    "狂魔",
+    "萧冥道友"
   ],
   "summary": "血骨门太上长老、阵法大家，坐镇血鹤城数百年，戴苍白银纹面具，炼化九目血蟾奇毒真血成真身；持天鼎宫钥匙图谋秘藏。",
   "attributes": {
     "小阶段": "大乘期",
     "性别": "男",
-    "身份": "血骨门太上长老",
+    "身份": "血骨门持黄风图者",
     "标志特征": "九目血蟾形态、血雾愈伤",
     "称号": "狂魔",
-    "外貌": "白色面具覆面",
-    "阵营": "围攻韩立一方",
+    "外貌": "脸带面具的男子",
+    "阵营": "血天联军",
     "出身地": "血天大陆",
-    "结局": "本章败退"
+    "结局": "本章败退",
+    "存殁": "失联"
   },
   "observations": {
     "小阶段": [
@@ -47,6 +49,11 @@
         "value": "血骨门太上长老",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "血骨门持黄风图者",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "标志特征": [
@@ -93,6 +100,12 @@
         "value": "白色面具覆面",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "脸带面具的男子",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365,
+        "note": "戴面具"
       }
     ],
     "阵营": [
@@ -105,6 +118,11 @@
         "value": "围攻韩立一方",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "血天联军",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "出身地": [
@@ -119,6 +137,14 @@
         "value": "本章败退",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      }
+    ],
+    "存殁": [
+      {
+        "value": "失联",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365,
+        "note": "催动黄风图后无法被联系，疑出大事"
       }
     ]
   },
@@ -138,9 +164,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2323
+      "seq": 2365
     },
     "标志特征": {
       "asOf": null,
@@ -156,15 +182,16 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2329
+      "seq": 2365,
+      "note": "戴面具"
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2347
+      "seq": 2365
     },
     "出身地": {
       "asOf": null,
@@ -177,6 +204,13 @@
       "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
       "seq": 2347
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365,
+      "note": "催动黄风图后无法被联系，疑出大事"
     }
   },
   "contested": false,
@@ -186,7 +220,8 @@
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
     "plot.fanren-2335-2340-tianding-gong-xueyu",
     "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
-    "plot.fanren-2347-2352-zhan-wu-zu"
+    "plot.fanren-2347-2352-zhan-wu-zu",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:28:45.139Z"
+  "updatedAt": "2026-06-21T19:01:33.576Z"
 }

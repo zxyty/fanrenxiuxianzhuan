@@ -3,12 +3,16 @@
   "type": "place",
   "name": "沙漠",
   "aliases": [
-    "灵界沙漠"
+    "灵界沙漠",
+    "隐秘沙漠",
+    "埋伏沙漠"
   ],
   "summary": "灵界中异族常活动的大沙漠，影族在此设蜃景伏杀韩立一行。",
   "attributes": {
     "所属界面": "灵界",
-    "危险度": "高(异族常活动)"
+    "危险度": "高(异族常活动)",
+    "类型": "沙漠",
+    "守护": "天地两极大阵、十二大乘、黄风图飓风"
   },
   "observations": {
     "所属界面": [
@@ -23,6 +27,20 @@
         "value": "高(异族常活动)",
         "docId": "plot.fanren-ch1365-moying-zaixian",
         "seq": 1363
+      }
+    ],
+    "类型": [
+      {
+        "value": "沙漠",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "守护": [
+      {
+        "value": "天地两极大阵、十二大乘、黄风图飓风",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ]
   },
@@ -39,12 +57,25 @@
       "docId": "plot.fanren-ch1365-moying-zaixian",
       "dated": false,
       "seq": 1363
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1365-moying-zaixian"
+    "plot.fanren-ch1365-moying-zaixian",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-20T10:06:35.683Z"
+  "updatedAt": "2026-06-21T19:01:33.565Z"
 }

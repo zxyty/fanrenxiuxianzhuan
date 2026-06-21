@@ -3,13 +3,18 @@
   "type": "person",
   "name": "马良",
   "aliases": [
-    "马良这厮"
+    "马良这厮",
+    "降世真仙",
+    "病弱青年",
+    "仙界疯子"
   ],
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
     "性格": "心性过激",
-    "身份": "九元观弟子",
-    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑"
+    "身份": "降世真仙",
+    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术",
+    "外貌": "黑袍病弱（瘦弱）青年",
+    "阵营": "孤身"
   },
   "observations": {
     "性格": [
@@ -24,6 +29,11 @@
         "value": "九元观弟子",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "降世真仙",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "标志特征": [
@@ -31,6 +41,31 @@
         "value": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "体表紫金锁链",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      },
+      {
+        "value": "七色雷霆/七色彩云遁术",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "外貌": [
+      {
+        "value": "黑袍病弱（瘦弱）青年",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "阵营": [
+      {
+        "value": "孤身",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365,
+        "note": "被血天群修共讨"
       }
     ]
   },
@@ -44,21 +79,35 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2251
+      "seq": 2365
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
       "seq": 2251
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365,
+      "note": "被血天群修共讨"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T16:47:57.341Z"
+  "updatedAt": "2026-06-21T19:01:33.529Z"
 }

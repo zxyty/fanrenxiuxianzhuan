@@ -11,10 +11,10 @@
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
     "阵营": "血道",
-    "所属界面": "灵界（血天）",
+    "所属界面": "灵界、灵界（血天）、血天大陆、灵界血天",
     "理念": "向商盟展示实力",
     "据点": "血鹤城",
-    "镇派之宝": "天鼎宫钥匙",
+    "镇派之宝": "黄风图",
     "等级": "超级宗门"
   },
   "observations": {
@@ -40,6 +40,16 @@
         "value": "灵界（血天）",
         "docId": "plot.fanren-2347-2352-zhan-wu-zu",
         "seq": 2347
+      },
+      {
+        "value": "血天大陆",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      },
+      {
+        "value": "灵界血天",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "理念": [
@@ -86,6 +96,11 @@
         "value": "天鼎宫钥匙",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "黄风图",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "等级": [
@@ -111,9 +126,9 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
       "dated": false,
-      "seq": 2347
+      "seq": 2305
     },
     "理念": {
       "asOf": null,
@@ -129,9 +144,9 @@
     },
     "镇派之宝": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2323
+      "seq": 2365
     },
     "等级": {
       "asOf": null,
@@ -152,7 +167,8 @@
     "plot.fanren-2335-2340-tianding-gong-xueyu",
     "plot.fanren-2347-2352-zhan-wu-zu",
     "plot.fanren-2372-six-wings-reappear",
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.817Z"
+  "updatedAt": "2026-06-21T19:01:33.589Z"
 }

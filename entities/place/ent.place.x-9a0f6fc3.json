@@ -11,7 +11,8 @@
     "所属界面": "灵界",
     "特产": "血天十大毒虫",
     "类型": "界面/区域",
-    "守护": "受整界之力(界面之力)庇护压制外来真仙"
+    "守护": "受整界之力(界面之力)庇护压制外来真仙",
+    "所属势力": "血骨门、血道宗门、赫连商盟"
   },
   "observations": {
     "所属界面": [
@@ -61,6 +62,23 @@
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
       }
+    ],
+    "所属势力": [
+      {
+        "value": "血骨门",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      },
+      {
+        "value": "血道宗门",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      },
+      {
+        "value": "赫连商盟",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
     ]
   },
   "firstSeq": 2185,
@@ -88,6 +106,12 @@
       "docId": "plot.fanren-2372-six-wings-reappear",
       "dated": false,
       "seq": 2353
+    },
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
@@ -102,7 +126,8 @@
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
     "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
     "plot.fanren-2372-six-wings-reappear",
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.820Z"
+  "updatedAt": "2026-06-21T19:01:33.592Z"
 }

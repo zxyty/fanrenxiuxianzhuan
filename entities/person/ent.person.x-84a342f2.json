@@ -16,21 +16,23 @@
     "清秀青年(突兀族)",
     "突兀族大仙师",
     "白袍青年",
-    "六翼"
+    "六翼",
+    "八翼蜈蚣"
   ],
   "summary": "老奸巨猾的人界修士，元婴后期，见势危萌生撤退，与天澜圣女林银屏密谋。",
   "attributes": {
-    "小阶段": "元婴后期、元婴、后期、炼虚后期巅峰",
+    "小阶段": "元婴后期、元婴、后期、炼虚后期巅峰、大乘",
     "阵营": "天澜草原、人类修士、天澜圣殿、天澜草原/天澜圣殿、敌对韩立、突兀人/天澜草原、商盟一方",
     "性别": "男",
-    "种族": "慕兰族",
+    "种族": "蜈蚣妖（八翼蜈蚣）",
     "身份": "慕兰大仙师、大仙师、天澜圣殿仙师、突兀四大仙师之一、天澜大仙师、天澜草原大仙师、突兀族四大仙师之一、天澜圣殿修士、天澜圣殿大修士、天澜圣殿长老",
-    "外貌": "身体只剩半片、断一手一腿",
+    "外貌": "面印金银灵纹的白袍青年",
     "结局": "法宝被夺、欲脱体而逃",
-    "标志特征": "元婴寄身灵犀孔雀、九只碧绿飞轮(可合一化碧虹)、九只碧绿飞轮、灵犀孔雀、青色圆珠/光团、可凝练素阴星气、化八翼巨蚣替身",
+    "标志特征": "元婴寄身灵犀孔雀、九只碧绿飞轮(可合一化碧虹)、九只碧绿飞轮、灵犀孔雀、青色圆珠/光团、可凝练素阴星气、化八翼巨蚣替身、化形通体雪白八翼蜈蚣、八只近似透明翅翼",
     "称号": "天澜草原大仙师",
     "存殁": "死亡",
-    "死因": "被元刹圣祖魔像逼至元婴自爆、被元刹圣祖魔像弹指,元婴自爆"
+    "死因": "被元刹圣祖魔像逼至元婴自爆、被元刹圣祖魔像弹指,元婴自爆",
+    "性格": "凶戾暴虐、阴沉"
   },
   "observations": {
     "小阶段": [
@@ -54,6 +56,11 @@
         "value": "炼虚后期巅峰",
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "阵营": [
@@ -115,6 +122,11 @@
         "value": "突兀人",
         "docId": "plot.fanren-ch889-894-tianlan-jinyanshi",
         "seq": 889
+      },
+      {
+        "value": "蜈蚣妖（八翼蜈蚣）",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "身份": [
@@ -185,6 +197,11 @@
         "value": "白袍青年",
         "docId": "plot.fanren-1009-yinpo-ningxing",
         "seq": 1009
+      },
+      {
+        "value": "面印金银灵纹的白袍青年",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "结局": [
@@ -226,6 +243,16 @@
         "value": "可凝练素阴星气、化八翼巨蚣替身",
         "docId": "plot.fanren-2372-six-wings-reappear",
         "seq": 2353
+      },
+      {
+        "value": "化形通体雪白八翼蜈蚣",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      },
+      {
+        "value": "八只近似透明翅翼",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "称号": [
@@ -268,6 +295,13 @@
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
       }
+    ],
+    "性格": [
+      {
+        "value": "凶戾暴虐、阴沉",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
     ]
   },
   "firstSeq": 889,
@@ -292,9 +326,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1039-hei-feng-qi",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 1039
+      "seq": 2365
     },
     "身份": {
       "asOf": null,
@@ -304,10 +338,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1045-1050-tunying-xueren-poqiang",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 1045,
-      "note": "被四散真人血海重创后"
+      "seq": 2365
     },
     "结局": {
       "asOf": null,
@@ -339,6 +372,12 @@
       "docId": "plot.fanren-ch1057-sanbao-lianshou",
       "dated": false,
       "seq": 1057
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
@@ -365,7 +404,8 @@
     "plot.fmxxz-ch889-tianshui-river-green-bat",
     "plot.fanren-1825-1826-wanlingtai",
     "plot.fanren-2372-six-wings-reappear",
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.810Z"
+  "updatedAt": "2026-06-21T19:01:33.518Z"
 }

@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "宫主用以观察宫门外动静的法宝。",
   "attributes": {
-    "能力": "观察/监视",
-    "持有者": "紫衣妇人"
+    "能力": "隔亿万里观敌",
+    "持有者": "玉兄",
+    "外形": "残破古镜"
   },
   "observations": {
     "能力": [
@@ -14,6 +15,11 @@
         "value": "观察/监视",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "隔亿万里观敌",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ],
     "持有者": [
@@ -21,6 +27,19 @@
         "value": "紫衣妇人",
         "docId": "plot.fanren-2270-jiuyuanguan",
         "seq": 2251
+      },
+      {
+        "value": "玉兄",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "外形": [
+      {
+        "value": "残破古镜",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365,
+        "note": "本章被震爆"
       }
     ]
   },
@@ -28,21 +47,29 @@
   "attrProvenance": {
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2251
+      "seq": 2365
     },
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-2270-jiuyuanguan",
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
       "dated": false,
-      "seq": 2251
+      "seq": 2365
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365,
+      "note": "本章被震爆"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2270-jiuyuanguan"
+    "plot.fanren-2270-jiuyuanguan",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T16:47:57.322Z"
+  "updatedAt": "2026-06-21T19:01:33.582Z"
 }

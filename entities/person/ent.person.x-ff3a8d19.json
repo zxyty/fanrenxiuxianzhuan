@@ -3,11 +3,16 @@
   "type": "person",
   "name": "何大先生",
   "aliases": [
-    "落天谷何大先生"
+    "落天谷何大先生",
+    "河大先生",
+    "儒袍男子"
   ],
   "summary": "落天谷之人，应邀前往观看血道大宗围剿凶魔的降魔之战。",
   "attributes": {
-    "阵营": "落天谷"
+    "阵营": "落天谷",
+    "出身地": "落天谷",
+    "小阶段": "大乘",
+    "外貌": "儒袍男子"
   },
   "observations": {
     "阵营": [
@@ -15,6 +20,27 @@
         "value": "落天谷",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      }
+    ],
+    "出身地": [
+      {
+        "value": "落天谷",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "外貌": [
+      {
+        "value": "儒袍男子",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ]
   },
@@ -25,12 +51,31 @@
       "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
       "seq": 2359
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.814Z"
+  "updatedAt": "2026-06-21T19:01:33.580Z"
 }

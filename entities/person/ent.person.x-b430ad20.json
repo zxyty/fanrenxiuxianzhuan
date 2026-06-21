@@ -3,12 +3,16 @@
   "type": "person",
   "name": "灵云夫人",
   "aliases": [
-    "万蛊山灵云夫人"
+    "万蛊山灵云夫人",
+    "五色霞衣妇人"
   ],
   "summary": "万蛊山之人，应邀前往观看降魔之战。",
   "attributes": {
     "性别": "女",
-    "阵营": "万蛊山"
+    "阵营": "万蛊山",
+    "出身地": "万蛊山",
+    "小阶段": "大乘",
+    "外貌": "五色斑斓霞衣妇人"
   },
   "observations": {
     "性别": [
@@ -23,6 +27,27 @@
         "value": "万蛊山",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      }
+    ],
+    "出身地": [
+      {
+        "value": "万蛊山",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
+      }
+    ],
+    "外貌": [
+      {
+        "value": "五色斑斓霞衣妇人",
+        "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+        "seq": 2365
       }
     ]
   },
@@ -39,12 +64,31 @@
       "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
       "dated": false,
       "seq": 2359
+    },
+    "出身地": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo"
+    "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+    "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal"
   ],
-  "updatedAt": "2026-06-21T18:53:49.814Z"
+  "updatedAt": "2026-06-21T19:01:33.580Z"
 }
