@@ -9,8 +9,9 @@
   "attributes": {
     "所属界面": "圣界",
     "类型": "魔族城池",
-    "所属势力": "幻夜白家",
-    "守护": "超大禁制/禁空/限神念"
+    "所属势力": "白家等几大家族",
+    "守护": "超大禁制/禁空/限神念",
+    "特产": "独有矿产、灵药"
   },
   "observations": {
     "所属界面": [
@@ -47,6 +48,11 @@
         "value": "幻夜白家",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "白家等几大家族",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ],
     "守护": [
@@ -54,6 +60,18 @@
         "value": "超大禁制/禁空/限神念",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      }
+    ],
+    "特产": [
+      {
+        "value": "独有矿产",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "灵药",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ]
   },
@@ -73,15 +91,21 @@
     },
     "所属势力": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
+    },
+    "特产": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
@@ -89,7 +113,8 @@
   "docs": [
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
   ],
-  "updatedAt": "2026-06-21T11:48:24.209Z"
+  "updatedAt": "2026-06-21T11:50:25.186Z"
 }

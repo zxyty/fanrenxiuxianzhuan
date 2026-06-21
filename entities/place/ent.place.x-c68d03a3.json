@@ -2,14 +2,16 @@
   "id": "ent.place.x-c68d03a3",
   "type": "place",
   "name": "幻啸沙漠",
-  "aliases": [],
+  "aliases": [
+    "幻啸沙漠禁地"
+  ],
   "summary": "魔界十大禁地之一，入内法力被压制九成、遁术宝物皆失效，只能徒步，幻啸魔风为患，徒步穿越需五六十年。",
   "attributes": {
     "所属界面": "圣界",
-    "类型": "禁地",
+    "类型": "沙漠禁地",
     "危险度": "极高",
     "守护": "幻啸魔风",
-    "特产": "八足魔蜥"
+    "特产": "八足魔蜥、火云石、矿脉、药田"
   },
   "observations": {
     "所属界面": [
@@ -39,6 +41,11 @@
         "value": "禁地",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "沙漠禁地",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ],
     "危险度": [
@@ -65,6 +72,21 @@
         "value": "八足魔蜥",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "火云石",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "矿脉",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "药田",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ]
   },
@@ -78,9 +100,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "危险度": {
       "asOf": null,
@@ -107,7 +129,8 @@
     "plot.fanren-1999-2004-jiebiao-yingchuang-mojie-jiedian",
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.238Z"
+  "updatedAt": "2026-06-21T11:50:25.188Z"
 }

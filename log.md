@@ -700,3 +700,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T11:34:57.987Z** `ingest` plot.fanren-2023-2028-shouchao-yu-chongchao — 凡人修仙传 第2023-2028章｜兽潮与虫潮·血战吸魔蚁海 · kind=plot asOf=2026-06-21 entities=43 relations=43 src=02023-02028.md
 - **2026-06-21T11:46:30.505Z** `ingest` plot.fanren-2044-bai-yunxin — 凡人修仙传 第2044章 白芸馨——韩立魔爪屠血线蝠、结识幻夜白家 · kind=plot asOf=2026-06-21 entities=38 relations=44 src=02029-02034.md
 - **2026-06-21T11:48:24.397Z** `ingest` plot.fanren-2050-2051-xiaolingtian-futianjushi — 凡人修仙传 第2050-2051章：小灵天之秘与覆天居士 · kind=plot asOf=2026-06-21 entities=27 relations=25 src=02035-02040.p1.md
+- **2026-06-21T11:50:25.382Z** `ingest` plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi — 第2052-2053章 麻烦·广阴宝镜：韩立求购八足魔蜥，应允白家共驱火云石矿脉魔兽 · kind=plot asOf=2026-06-21 entities=14 relations=18 src=02035-02040.p2.md

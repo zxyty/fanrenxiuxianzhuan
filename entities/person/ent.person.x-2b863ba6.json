@@ -1,56 +1,30 @@
 {
-  "id": "ent.person.x-4d8efe52",
+  "id": "ent.person.x-2b863ba6",
   "type": "person",
-  "name": "覆天居士",
+  "name": "白家大哥",
   "aliases": [
-    "覆天前辈",
-    "覆天家祖",
-    "白家老祖",
-    "覆天老祖",
-    "紫发女子",
-    "覆天仙子",
-    "覆天道友"
+    "卷曲淡黄发彪形大汉",
+    "兄长"
   ],
-  "summary": "白家老祖，一身锻天魔功修炼至极致，距圣祖境界仅差一步。",
+  "summary": "白家另一隐藏魔尊，覆天居士之兄，持广阴宝镜暗窥韩立修为。",
   "attributes": {
+    "性别": "男",
     "种族": "圣族",
-    "称号": "覆天居士",
-    "身份": "白家老祖",
-    "性别": "女",
     "小阶段": "魔尊",
-    "标志特征": "紫发、额生白色短角",
-    "外貌": "身材高挑、年约二十"
+    "身份": "白家隐藏老祖",
+    "标志特征": "卷曲淡黄发、额生白色短角（较大）、彪形大汉"
   },
   "observations": {
-    "种族": [
+    "性别": [
       {
-        "value": "魔族",
-        "docId": "plot.fanren-2044-bai-yunxin",
-        "seq": 2029
-      },
-      {
-        "value": "圣族",
+        "value": "男",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
       }
     ],
-    "称号": [
+    "种族": [
       {
-        "value": "覆天居士",
-        "docId": "plot.fanren-2044-bai-yunxin",
-        "seq": 2029
-      }
-    ],
-    "身份": [
-      {
-        "value": "白家老祖",
-        "docId": "plot.fanren-2044-bai-yunxin",
-        "seq": 2029
-      }
-    ],
-    "性别": [
-      {
-        "value": "女",
+        "value": "圣族",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
       }
@@ -62,42 +36,30 @@
         "seq": 2035
       }
     ],
-    "标志特征": [
+    "身份": [
       {
-        "value": "紫发、额生白色短角",
+        "value": "白家隐藏老祖",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
       }
     ],
-    "外貌": [
+    "标志特征": [
       {
-        "value": "身材高挑、年约二十",
+        "value": "卷曲淡黄发、额生白色短角（较大）、彪形大汉",
         "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
         "seq": 2035
       }
     ]
   },
-  "firstSeq": 2029,
+  "firstSeq": 2035,
   "attrProvenance": {
-    "种族": {
+    "性别": {
       "asOf": null,
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
       "seq": 2035
     },
-    "称号": {
-      "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
-      "dated": false,
-      "seq": 2029
-    },
-    "身份": {
-      "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
-      "dated": false,
-      "seq": 2029
-    },
-    "性别": {
+    "种族": {
       "asOf": null,
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
@@ -109,13 +71,13 @@
       "dated": false,
       "seq": 2035
     },
-    "标志特征": {
+    "身份": {
       "asOf": null,
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
       "seq": 2035
     },
-    "外貌": {
+    "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
@@ -125,9 +87,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2050-2051-xiaolingtian-futianjushi",
     "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
   ],
-  "updatedAt": "2026-06-21T11:50:25.177Z"
+  "updatedAt": "2026-06-21T11:50:25.179Z"
 }

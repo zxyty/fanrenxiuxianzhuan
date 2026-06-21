@@ -6,13 +6,14 @@
     "白家少妇",
     "十三姑祖",
     "白家夫人",
-    "白姓女子"
+    "白姓女子",
+    "芸儿"
   ],
   "summary": "幻夜白家嫡系子弟，炼虚期貌美少妇，本章魔族一行的做主之人，邀韩立返幻夜城。",
   "attributes": {
     "性别": "女",
-    "种族": "魔族",
-    "身份": "幻夜白家嫡系子弟、白家夫人",
+    "种族": "圣族",
+    "身份": "幻夜白家嫡系子弟、白家夫人、白家弟子",
     "外貌": "貌美少妇",
     "阵营": "白家",
     "小阶段": "炼虚期"
@@ -30,6 +31,11 @@
         "value": "魔族",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ],
     "身份": [
@@ -42,6 +48,11 @@
         "value": "白家夫人",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      },
+      {
+        "value": "白家弟子",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ],
     "外貌": [
@@ -81,9 +92,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2044-bai-yunxin",
+      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
       "dated": false,
-      "seq": 2029
+      "seq": 2035
     },
     "身份": {
       "asOf": null,
@@ -114,7 +125,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
   ],
-  "updatedAt": "2026-06-21T11:48:24.185Z"
+  "updatedAt": "2026-06-21T11:50:25.180Z"
 }

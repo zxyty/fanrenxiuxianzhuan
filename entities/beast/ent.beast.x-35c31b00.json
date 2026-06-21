@@ -2,13 +2,16 @@
   "id": "ent.beast.x-35c31b00",
   "type": "beast",
   "name": "八足魔蜥",
-  "aliases": [],
+  "aliases": [
+    "八足魔蜥代步兽"
+  ],
   "summary": "幻啸沙漠原生珍稀魔兽，无法飞行但沙中疾行如风，魔核皮骨皆贵，近乎灭绝，多被魔族圈养。",
   "attributes": {
     "栖息地": "幻啸沙漠一带",
-    "能力": "沙漠中行动如风",
+    "能力": "沙漠中行动如风、沙漠穿梭、代步运输",
     "外形": "八足魔蜥",
-    "种族": "魔兽"
+    "种族": "魔兽",
+    "等级": "魔兽"
   },
   "observations": {
     "栖息地": [
@@ -28,6 +31,16 @@
         "value": "沙漠中行动如风",
         "docId": "plot.fanren-2005-2010-bazu-moxi-xianhundan",
         "seq": 2005
+      },
+      {
+        "value": "沙漠穿梭",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
+      },
+      {
+        "value": "代步运输",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ],
     "外形": [
@@ -42,6 +55,13 @@
         "value": "魔兽",
         "docId": "plot.fanren-2044-bai-yunxin",
         "seq": 2029
+      }
+    ],
+    "等级": [
+      {
+        "value": "魔兽",
+        "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+        "seq": 2035
       }
     ]
   },
@@ -70,6 +90,12 @@
       "docId": "plot.fanren-2044-bai-yunxin",
       "dated": false,
       "seq": 2029
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi",
+      "dated": false,
+      "seq": 2035
     }
   },
   "contested": false,
@@ -77,7 +103,8 @@
   "docs": [
     "plot.fanren-2005-2010-bazu-moxi-xianhundan",
     "plot.fanren-2023-2028-shouchao-yu-chongchao",
-    "plot.fanren-2044-bai-yunxin"
+    "plot.fanren-2044-bai-yunxin",
+    "plot.fanren-ch2052-2053-baijia-fumengjushi-bazu-moxi"
   ],
-  "updatedAt": "2026-06-21T11:46:30.186Z"
+  "updatedAt": "2026-06-21T11:50:25.189Z"
 }
