@@ -760,3 +760,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T17:58:15.368Z** `ingest` plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru — 凡人修仙传 第2329-2334章｜天鼎宫现世：巨门·双鼎·进入 · kind=plot asOf=2026-06-21 entities=29 relations=39 src=02329-02334.md
 - **2026-06-21T18:06:41.200Z** `ingest` plot.fanren-2335-2340-tianding-gong-xueyu — 凡人修仙传 第2335-2340章｜天鼎宫夺宝、巫灵三圣与血狱 · kind=plot asOf=2026-06-21 entities=29 relations=33 src=02335-02340.md
 - **2026-06-21T18:15:23.162Z** `ingest` plot.fanren-2341-2346-tianwu-bone-blood-corpse — 凡人修仙传 第2341-2346章｜骸骨·血煞尸·三圣之陨 · kind=plot asOf=2026-06-21 entities=35 relations=40 src=02341-02346.md
+- **2026-06-21T18:28:45.437Z** `ingest` plot.fanren-2347-2352-zhan-wu-zu — 第2347-2352章 战五祖：韩立以一敌众，无垢老祖临阵反噬华西仙子 · kind=plot asOf=2026-06-21 entities=42 relations=60 src=02347-02352.md

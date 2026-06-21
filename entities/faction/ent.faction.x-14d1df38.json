@@ -10,8 +10,8 @@
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
     "阵营": "魔道",
-    "所属界面": "灵界",
-    "理念": "血道功法",
+    "所属界面": "灵界（血天）",
+    "理念": "诛杀血神之术修炼者",
     "据点": "血鹤城",
     "镇派之宝": "天鼎宫钥匙",
     "等级": "大乘级势力"
@@ -29,6 +29,11 @@
         "value": "灵界",
         "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
         "seq": 2305
+      },
+      {
+        "value": "灵界（血天）",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "理念": [
@@ -46,6 +51,11 @@
         "value": "血道功法",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "诛杀血神之术修炼者",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "据点": [
@@ -85,15 +95,15 @@
     },
     "所属界面": {
       "asOf": null,
-      "docId": "plot.fanren-ch2324-2328-helian-auction-fanyuan",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 2305
+      "seq": 2347
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 2323
+      "seq": 2347
     },
     "据点": {
       "asOf": null,
@@ -123,7 +133,8 @@
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2335-2340-tianding-gong-xueyu"
+    "plot.fanren-2335-2340-tianding-gong-xueyu",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-21T18:06:40.921Z"
+  "updatedAt": "2026-06-21T18:28:45.187Z"
 }

@@ -11,13 +11,14 @@
     "分身之术",
     "煞丹分身",
     "煞丹与分身之术",
-    "青影"
+    "青影",
+    "身外化身之术"
   ],
   "summary": "大名鼎鼎的魔道顶阶秘法，各宗派最高秘密，越国七派遍寻不获；可借血凝五行丹祭炼化身。",
   "attributes": {
     "品阶": "魔道顶阶秘法",
     "出处": "田锺",
-    "效果": "分离化身布禁制",
+    "效果": "分化众多虚影群攻/遁走",
     "适用境界": "筑基后",
     "修炼条件": "需元神最强状态、闭关月余，失败则功法反噬"
   },
@@ -76,6 +77,11 @@
         "value": "分离化身布禁制",
         "docId": "plot.fanren-769-774-border-war-6-8",
         "seq": 769
+      },
+      {
+        "value": "分化众多虚影群攻/遁走",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "适用境界": [
@@ -114,9 +120,9 @@
     },
     "效果": {
       "asOf": null,
-      "docId": "plot.fanren-769-774-border-war-6-8",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 769
+      "seq": 2347
     },
     "适用境界": {
       "asOf": null,
@@ -140,7 +146,8 @@
     "plot.fanren-ch374-xiulian-wu-suiyue",
     "plot.fanren-421-426-qixialian-yaoguanshe",
     "plot.fanren-769-774-border-war-6-8",
-    "plot.fanren-769-774-bianjie-zhizhan-6-8"
+    "plot.fanren-769-774-bianjie-zhizhan-6-8",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-17T12:31:42.888Z"
+  "updatedAt": "2026-06-21T18:28:45.116Z"
 }

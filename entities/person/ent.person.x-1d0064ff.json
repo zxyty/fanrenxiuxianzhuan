@@ -9,8 +9,12 @@
   "attributes": {
     "小阶段": "大乘期",
     "性别": "女",
-    "外貌": "娇媚如花",
-    "出身地": "血天大陆"
+    "外貌": "看似娇艳",
+    "出身地": "血天大陆",
+    "标志特征": "晶莹圆环、星沙、沙刃",
+    "阵营": "围攻韩立一方",
+    "存殁": "死亡",
+    "死因": "被夫无垢老祖以金焰焚化元婴(同命禁制已被破、替灵之术使其反制失效)"
   },
   "observations": {
     "小阶段": [
@@ -42,6 +46,11 @@
         "value": "娇媚如花",
         "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
         "seq": 2341
+      },
+      {
+        "value": "看似娇艳",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "出身地": [
@@ -49,6 +58,44 @@
         "value": "血天大陆",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "晶莹圆环",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      },
+      {
+        "value": "星沙",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      },
+      {
+        "value": "沙刃",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "阵营": [
+      {
+        "value": "围攻韩立一方",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "死因": [
+      {
+        "value": "被夫无垢老祖以金焰焚化元婴(同命禁制已被破、替灵之术使其反制失效)",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ]
   },
@@ -68,22 +115,47 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 2341
+      "seq": 2347
     },
     "出身地": {
       "asOf": null,
       "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
       "seq": 2329
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-21T18:15:22.904Z"
+  "updatedAt": "2026-06-21T18:28:45.138Z"
 }

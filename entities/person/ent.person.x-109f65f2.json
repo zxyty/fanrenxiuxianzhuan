@@ -5,14 +5,15 @@
   "aliases": [
     "石尊者",
     "紫甲大汉",
-    "满脸黑斑紫甲大汉"
+    "满脸黑斑紫甲大汉",
+    "魁梧大汉"
   ],
   "summary": "魔族高阶存在，此行试探天渊城虚实的主将，催动魔旗驱使魔兽攻城。",
   "attributes": {
     "种族": "古魔一族",
     "身份": "高阶魔族尊者",
-    "外貌": "紫甲、满脸黑斑",
-    "小阶段": "合体期"
+    "外貌": "魁梧紫甲",
+    "小阶段": "大乘"
   },
   "observations": {
     "种族": [
@@ -44,6 +45,11 @@
         "value": "紫甲、满脸黑斑",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "魁梧紫甲",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "小阶段": [
@@ -51,6 +57,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "大乘",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ]
   },
@@ -70,22 +81,23 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 1867
+      "seq": 2347
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 1873
+      "seq": 2347
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch1881-mo-lin-cheng-xia",
-    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue"
+    "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-21T07:57:36.113Z"
+  "updatedAt": "2026-06-21T18:28:45.183Z"
 }

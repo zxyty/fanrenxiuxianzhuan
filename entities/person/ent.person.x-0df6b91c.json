@@ -3,16 +3,19 @@
   "type": "person",
   "name": "无垢老祖",
   "aliases": [
-    "无垢兄"
+    "无垢兄",
+    "无垢"
   ],
   "summary": "血天大陆名气大乘道侣之一，浓眉幽黑、修为深不可测，曾遭孽龙重伤后实力不降反增；华西仙子之夫君。",
   "attributes": {
     "小阶段": "大乘期",
     "外貌": "浓眉幽黑大汉",
-    "标志特征": "气息深不可测、身具克制神念探测秘宝",
+    "标志特征": "气息深不可测、身具克制神念探测秘宝、半人半尸（尸气/坏死肌肉，称练功有误所致）、替灵之术、青濛濛替身人影",
     "出身地": "血天大陆",
     "性别": "男",
-    "性格": "木讷憨厚"
+    "性格": "木然、阴狠",
+    "阵营": "围攻韩立一方",
+    "结局": "夺阵盘后离去"
   },
   "observations": {
     "小阶段": [
@@ -39,6 +42,16 @@
         "value": "气息深不可测、身具克制神念探测秘宝",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "半人半尸（尸气/坏死肌肉，称练功有误所致）",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      },
+      {
+        "value": "替灵之术、青濛濛替身人影",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ],
     "出身地": [
@@ -60,6 +73,25 @@
         "value": "木讷憨厚",
         "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
         "seq": 2341
+      },
+      {
+        "value": "木然、阴狠",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "阵营": [
+      {
+        "value": "围攻韩立一方",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "结局": [
+      {
+        "value": "夺阵盘后离去",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ]
   },
@@ -97,16 +129,29 @@
     },
     "性格": {
       "asOf": null,
-      "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
       "dated": false,
-      "seq": 2341
+      "seq": 2347
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-21T18:15:22.903Z"
+  "updatedAt": "2026-06-21T18:28:45.137Z"
 }

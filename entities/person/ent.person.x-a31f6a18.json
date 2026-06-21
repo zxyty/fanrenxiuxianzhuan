@@ -3,11 +3,15 @@
   "type": "person",
   "name": "神秘血影",
   "aliases": [
-    "血色人影"
+    "血色人影",
+    "血合五子本体",
+    "血神修炼者"
   ],
   "summary": "暗中跟随坐收渔利的血修，操控血合五子血傀儡，布血云擒杀并吞噬巫灵二老元婴及其宝物，欲祭炼天巫所化血煞尸。",
   "attributes": {
-    "阵营": "敌对"
+    "阵营": "敌对",
+    "身份": "血神之术修炼者",
+    "存殁": "死亡"
   },
   "observations": {
     "阵营": [
@@ -15,6 +19,20 @@
         "value": "敌对",
         "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
         "seq": 2341
+      }
+    ],
+    "身份": [
+      {
+        "value": "血神之术修炼者",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+        "seq": 2347
       }
     ]
   },
@@ -25,12 +43,25 @@
       "docId": "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
       "dated": false,
       "seq": 2341
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2347-2352-zhan-wu-zu",
+      "dated": false,
+      "seq": 2347
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2341-2346-tianwu-bone-blood-corpse"
+    "plot.fanren-2341-2346-tianwu-bone-blood-corpse",
+    "plot.fanren-2347-2352-zhan-wu-zu"
   ],
-  "updatedAt": "2026-06-21T18:15:22.874Z"
+  "updatedAt": "2026-06-21T18:28:45.175Z"
 }
