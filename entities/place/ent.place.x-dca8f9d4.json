@@ -5,14 +5,16 @@
   "aliases": [
     "须弥空间",
     "须弥芥子",
-    "元磁山所在芥子空间"
+    "元磁山所在芥子空间",
+    "须弥宝物空间"
   ],
   "summary": "将空间裂缝炼制固定而成的私人空间，全大晋约十几处，天机阁这处为最早；为无灵气的死绝之地，可稳固未真正塌陷的空间裂缝。",
   "attributes": {
     "所属势力": "天机阁、天机阁及各求助宗门",
-    "类型": "空间裂缝炼制成的私人空间、专属隐秘空间、袖珍秘境空间、空间裂缝炼制的私人空间、空间宝物、修炼秘境",
-    "危险度": "死绝之地·无灵气",
-    "守护": "元磁山"
+    "类型": "空间裂缝炼制成的私人空间、专属隐秘空间、袖珍秘境空间、空间裂缝炼制的私人空间、空间宝物、修炼秘境、须弥洞天/秘境",
+    "危险度": "极高(禁制失控、空间塌陷)",
+    "守护": "元磁山",
+    "所属界面": "广寒界"
   },
   "observations": {
     "所属势力": [
@@ -57,6 +59,11 @@
         "value": "修炼秘境",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      },
+      {
+        "value": "须弥洞天/秘境",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "危险度": [
@@ -64,6 +71,11 @@
         "value": "死绝之地·无灵气",
         "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
         "seq": 937
+      },
+      {
+        "value": "极高(禁制失控、空间塌陷)",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "守护": [
@@ -71,6 +83,13 @@
         "value": "元磁山",
         "docId": "plot.fanren-1251-li-ya-er-yao",
         "seq": 1249
+      }
+    ],
+    "所属界面": [
+      {
+        "value": "广寒界",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ]
   },
@@ -90,15 +109,21 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-937-942-tianjifu-jiezi-space",
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
-      "seq": 937
+      "seq": 1711
     },
     "守护": {
       "asOf": null,
       "docId": "plot.fanren-1251-li-ya-er-yao",
       "dated": false,
       "seq": 1249
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "dated": false,
+      "seq": 1711
     }
   },
   "contested": false,
@@ -109,7 +134,8 @@
     "plot.fanren-1249-1254-han-li-advances-to-huashen",
     "plot.fanren-937-942-tianjige-jiezi-space",
     "plot.fanren-ch1245-jinghuo-xian",
-    "plot.fanren-1251-li-ya-er-yao"
+    "plot.fanren-1251-li-ya-er-yao",
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
   ],
-  "updatedAt": "2026-06-20T06:47:36.437Z"
+  "updatedAt": "2026-06-21T03:32:54.799Z"
 }

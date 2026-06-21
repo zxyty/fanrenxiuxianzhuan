@@ -9,13 +9,14 @@
     "Guanghan Realm",
     "广寒界海域",
     "广寒界另一端",
-    "此界"
+    "此界",
+    "广寒界面"
   ],
   "summary": "需以广寒令配合万古族布置的开启法阵方能进入的界面。",
   "attributes": {
     "守护": "天云十三族",
     "所属界面": "灵界",
-    "类型": "界面/海域",
+    "类型": "界面",
     "危险度": "极高（上古凶兽众多）"
   },
   "observations": {
@@ -53,6 +54,11 @@
         "value": "界面/海域",
         "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
         "seq": 1669
+      },
+      {
+        "value": "界面",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "危险度": [
@@ -89,9 +95,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1669-1674-zhenhaiyuan-guanghanjie",
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
-      "seq": 1669
+      "seq": 1711
     },
     "危险度": {
       "asOf": null,
@@ -112,7 +118,8 @@
     "plot.fanren-1675-1680-anshou-senlin-qianbianhuanmian",
     "plot.fanren-1681-1686-anshou-senlin-hejimishu-haiwangzu",
     "plot.fanren-1691-1692-leipeng-puppet-yingjing",
-    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu"
+    "plot.fanren-1693-1694-taiyi-qingguang-xuehouzu",
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
   ],
-  "updatedAt": "2026-06-21T03:09:57.680Z"
+  "updatedAt": "2026-06-21T03:32:54.801Z"
 }

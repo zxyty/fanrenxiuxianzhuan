@@ -3,16 +3,18 @@
   "type": "artifact",
   "name": "玄天剑",
   "aliases": [
-    "玄天之剑"
+    "玄天之剑",
+    "此剑"
   ],
   "summary": "原为细长微黄、铭墨绿花纹的玄天果实，吸韩立逾三分之二精血后表皮变红、翠纹化符文，一端射出尺许翠亮剑刃（中心五道翠色符文），果实化作剑柄，成为灵剑。",
   "attributes": {
     "持有者": "韩立",
-    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）、黄色木棍状果实/翠绿剑刃，刃心五个翠色符文",
-    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变、逆转天地法则、翠绿剑光分割空间",
+    "外形": "细长微黄如木棍铭墨绿纹（果实态）、尺许翠亮剑刃·中心五个翠色符文（灵剑态）、黄色木棍状果实/翠绿剑刃，刃心五个翠色符文、木棍状、手臂淡黄色印痕(封印态)、翠芒剑刃",
+    "能力": "自行放白芒/剑气斩血符血丝、吸食精血蜕变、逆转天地法则、翠绿剑光分割空间、翠芒一斩势不可挡、斩后抽空持有者体内全部灵力",
     "来历": "血祭大阵跨万里召唤争夺的玄天之宝",
     "品阶": "玄天之宝(法则至宝)",
-    "五行属性": "木(翠绿)"
+    "五行属性": "木(翠绿)",
+    "禁制": "封印于韩立手臂"
   },
   "observations": {
     "持有者": [
@@ -37,6 +39,21 @@
         "value": "黄色木棍状果实/翠绿剑刃，刃心五个翠色符文",
         "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
         "seq": 1621
+      },
+      {
+        "value": "木棍状",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
+      },
+      {
+        "value": "手臂淡黄色印痕(封印态)",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
+      },
+      {
+        "value": "翠芒剑刃",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "能力": [
@@ -59,6 +76,16 @@
         "value": "翠绿剑光分割空间",
         "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
         "seq": 1621
+      },
+      {
+        "value": "翠芒一斩势不可挡",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
+      },
+      {
+        "value": "斩后抽空持有者体内全部灵力",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "来历": [
@@ -80,6 +107,13 @@
         "value": "木(翠绿)",
         "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
         "seq": 1621
+      }
+    ],
+    "禁制": [
+      {
+        "value": "封印于韩立手臂",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ]
   },
@@ -120,13 +154,20 @@
       "docId": "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
       "dated": false,
       "seq": 1621
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "dated": false,
+      "seq": 1711
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1525-1530-jiuyou-mingshi-xin-feijian",
-    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
   ],
-  "updatedAt": "2026-06-21T01:28:06.134Z"
+  "updatedAt": "2026-06-21T03:32:54.775Z"
 }

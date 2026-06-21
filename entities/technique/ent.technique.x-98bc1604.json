@@ -7,12 +7,15 @@
     "三头六臂金像",
     "三头六臂金身",
     "真魔法相金身",
-    "金身法相"
+    "金身法相",
+    "三首六臂金身",
+    "三首六臂梵圣金身"
   ],
   "summary": "韩立背后浮现的三头六臂金色法相，六臂挥金光助攻，配合破灭法目击碎巨塔晶石。",
   "attributes": {
     "外显异象": "三头六臂金色虚影",
-    "效果": "六臂放金光攻击"
+    "效果": "六臂放金光攻击",
+    "适用境界": "炼虚"
   },
   "observations": {
     "外显异象": [
@@ -27,6 +30,13 @@
         "value": "六臂放金光攻击",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ]
   },
@@ -43,6 +53,12 @@
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+      "dated": false,
+      "seq": 1711
     }
   },
   "contested": false,
@@ -51,7 +67,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
-    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan"
+    "plot.fanren-1704-1709-yaoyuan-zhuangdian-xulingdan",
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
   ],
-  "updatedAt": "2026-06-21T03:16:50.243Z"
+  "updatedAt": "2026-06-21T03:32:54.780Z"
 }

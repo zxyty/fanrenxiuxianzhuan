@@ -5,12 +5,13 @@
   "aliases": [
     "芝仙躯体",
     "灵躯替身",
-    "紫光韩立"
+    "紫光韩立",
+    "芝仙的灵躯"
   ],
   "summary": "芝仙留下的躯壳，经神秘小瓶催熟灵液浇灌法力暴涨至炼虚中期且无瓶颈，韩立欲炼为元婴附身的替身灵躯。",
   "attributes": {
-    "类型": "身外化身/替身躯壳",
-    "用途": "供韩立元婴附身应敌",
+    "类型": "灵躯",
+    "用途": "元婴失体后附身求生（备用）",
     "产地": "芝仙(天地灵物)所化"
   },
   "observations": {
@@ -19,6 +20,11 @@
         "value": "身外化身/替身躯壳",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "灵躯",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "用途": [
@@ -26,6 +32,11 @@
         "value": "供韩立元婴附身应敌",
         "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
         "seq": 1663
+      },
+      {
+        "value": "元婴失体后附身求生（备用）",
+        "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
+        "seq": 1711
       }
     ],
     "产地": [
@@ -40,15 +51,15 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
-      "seq": 1663
+      "seq": 1711
     },
     "用途": {
       "asOf": null,
-      "docId": "plot.fanren-1667-1672-guanghan-jie-entry",
+      "docId": "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie",
       "dated": false,
-      "seq": 1663
+      "seq": 1711
     },
     "产地": {
       "asOf": null,
@@ -60,7 +71,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1667-1672-guanghan-jie-entry"
+    "plot.fanren-1667-1672-guanghan-jie-entry",
+    "plot.fanren-1711-1716-zhenxian-yizhi-guangzhu-baoti-jinjie"
   ],
-  "updatedAt": "2026-06-21T02:42:39.278Z"
+  "updatedAt": "2026-06-21T03:32:54.769Z"
 }
