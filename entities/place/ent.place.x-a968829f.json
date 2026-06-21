@@ -5,12 +5,14 @@
   "aliases": [
     "倚天城巨墙",
     "倚天门四大宗门联合城池",
-    "此城"
+    "此城",
+    "倚天城城头",
+    "倚天城护城禁制"
   ],
   "summary": "魔界之战中人族据守的城池，依仗各种禁制抵御魔族进攻。",
   "attributes": {
-    "类型": "城池、战场城池、宗门联合据点、人族城池、人族城市、人族据点/巨城",
-    "守护": "各种禁制、四大宗门、九阳罡日绝阵、铜甲傀儡大军、九阳罡日大阵、金傀儡、子母连环大阵",
+    "类型": "城池、战场城池、宗门联合据点、人族城池、人族城市、人族据点/巨城、要塞城池",
+    "守护": "各种禁制、四大宗门、九阳罡日绝阵、铜甲傀儡大军、九阳罡日大阵、金傀儡、子母连环大阵、银色光罩、防护禁制、青铜傀儡大军、凝厚护城禁制、银色护城光罩、青龙上人、林鸾仙子",
     "所属界面": "灵界",
     "所属势力": "魔族",
     "危险度": "高"
@@ -46,6 +48,11 @@
         "value": "人族据点/巨城",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "要塞城池",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "守护": [
@@ -83,6 +90,41 @@
         "value": "子母连环大阵",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "银色光罩",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "防护禁制",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "青铜傀儡大军",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "凝厚护城禁制",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "银色护城光罩",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "青龙上人",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "林鸾仙子",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "所属界面": [
@@ -117,6 +159,11 @@
         "value": "四大宗门",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "危险度": [
@@ -169,7 +216,8 @@
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
     "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
     "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.818Z"
+  "updatedAt": "2026-06-21T08:33:31.978Z"
 }

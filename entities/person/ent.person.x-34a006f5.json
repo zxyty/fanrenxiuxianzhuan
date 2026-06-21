@@ -9,7 +9,8 @@
     "种族": "魔族",
     "性格": "持重谨慎",
     "阵营": "魔族",
-    "外貌": "银丝长袍中年男子"
+    "外貌": "银丝长袍",
+    "小阶段": "合体中期"
   },
   "observations": {
     "性别": [
@@ -45,6 +46,18 @@
         "value": "银丝长袍中年男子",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "银丝长袍",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
@@ -76,15 +89,22 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1891
+      "seq": 1897
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.811Z"
+  "updatedAt": "2026-06-21T08:33:31.900Z"
 }

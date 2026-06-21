@@ -8,12 +8,13 @@
   ],
   "summary": "人族顶阶存在，与银光仙子联手对敌、形势不妙。",
   "attributes": {
-    "阵营": "人族",
+    "阵营": "人族（倚天城方）",
     "性别": "女",
     "标志特征": "以血符催动合息兽",
     "身份": "四大宗门太上长老",
     "小阶段": "合体期",
-    "外貌": "墨绿宫装"
+    "外貌": "背生火红羽翅",
+    "种族": "人族"
   },
   "observations": {
     "阵营": [
@@ -21,6 +22,11 @@
         "value": "人族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1891
+      },
+      {
+        "value": "人族（倚天城方）",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "性别": [
@@ -66,6 +72,18 @@
         "value": "墨绿宫装",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "背生火红羽翅",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
@@ -73,9 +91,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1891
+      "seq": 1897
     },
     "性别": {
       "asOf": null,
@@ -103,9 +121,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1898-1903-yitiancheng-war",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1885
+      "seq": 1897
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
@@ -114,7 +138,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.801Z"
+  "updatedAt": "2026-06-21T08:33:31.964Z"
 }

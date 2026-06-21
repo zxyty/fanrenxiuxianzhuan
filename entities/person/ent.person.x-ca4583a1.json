@@ -21,7 +21,8 @@
     "外貌": "独角老者，可化三头六臂巨大魔物",
     "阵营": "魔族",
     "存殁": "死亡",
-    "死因": "被韩立辟邪神雷碎甲、银色火焰焚为灰烬（连元婴）"
+    "死因": "被韩立辟邪神雷碎甲、银色火焰焚为灰烬（连元婴）",
+    "称号": "尊者"
   },
   "observations": {
     "种族": [
@@ -117,6 +118,13 @@
         "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
         "seq": 1879
       }
+    ],
+    "称号": [
+      {
+        "value": "尊者",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
     ]
   },
   "firstSeq": 1873,
@@ -175,13 +183,20 @@
       "docId": "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
       "dated": false,
       "seq": 1879
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
-    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen"
+    "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:05:00.499Z"
+  "updatedAt": "2026-06-21T08:33:31.902Z"
 }

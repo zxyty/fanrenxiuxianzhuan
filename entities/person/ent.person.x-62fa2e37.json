@@ -4,15 +4,18 @@
   "name": "青龙上人",
   "aliases": [
     "青龙道友",
-    "青龙"
+    "青龙",
+    "倚天城太上长老"
   ],
   "summary": "人族修士，已复人形、面色苍白，与羊首擎天巨兽联手对阵黑甲大汉及不死魔族，勉强自保。",
   "attributes": {
-    "阵营": "人族",
-    "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔",
-    "身份": "四大宗门太上长老",
+    "阵营": "人族（倚天城方）",
+    "标志特征": "体表七口短刃化五爪青龙、驱风雷、金银双毛笔、化身五爪真青龙、化青龙、化龙大神通",
+    "身份": "倚天城太上长老",
     "小阶段": "合体期",
-    "外貌": "黄袍儒生"
+    "外貌": "黄袍儒生",
+    "性格": "刚烈不屈",
+    "种族": "人族"
   },
   "observations": {
     "阵营": [
@@ -20,6 +23,11 @@
         "value": "人族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1891
+      },
+      {
+        "value": "人族（倚天城方）",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "标志特征": [
@@ -37,6 +45,16 @@
         "value": "金银双毛笔",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "化身五爪真青龙",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "化青龙、化龙大神通",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "身份": [
@@ -49,6 +67,11 @@
         "value": "四大宗门太上长老",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "倚天城太上长老",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "小阶段": [
@@ -69,15 +92,29 @@
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
       }
+    ],
+    "性格": [
+      {
+        "value": "刚烈不屈",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
     ]
   },
   "firstSeq": 1885,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1891
+      "seq": 1897
     },
     "标志特征": {
       "asOf": null,
@@ -87,9 +124,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1891
+      "seq": 1897
     },
     "小阶段": {
       "asOf": null,
@@ -102,6 +139,18 @@
       "docId": "plot.fanren-1898-1903-yitiancheng-war",
       "dated": false,
       "seq": 1885
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
@@ -110,7 +159,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.803Z"
+  "updatedAt": "2026-06-21T08:33:31.963Z"
 }

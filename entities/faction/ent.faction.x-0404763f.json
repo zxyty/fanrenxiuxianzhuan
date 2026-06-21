@@ -1,40 +1,46 @@
 {
-  "id": "ent.faction.x-1b24bcfa",
+  "id": "ent.faction.x-0404763f",
   "type": "faction",
-  "name": "万象魔骑",
-  "aliases": [
-    "万象魔骑甲士",
-    "魔族骑士"
-  ],
-  "summary": "魔族骑乘魔兽的甲士队伍，恭迎血光圣祖化身并奉命开启传送阵。",
+  "name": "化血冥卫",
+  "aliases": [],
+  "summary": "魔族精锐军队，遍布血色灵纹、身躯模糊如战鬼，化血云布血冥大阵困敌。",
   "attributes": {
     "阵营": "魔族（圣族）",
-    "理念": "嗜血杀戮"
+    "据点": "魔海",
+    "理念": "布血冥大阵困杀敌人"
   },
   "observations": {
     "阵营": [
-      {
-        "value": "魔族",
-        "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1885
-      },
       {
         "value": "魔族（圣族）",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
     ],
+    "据点": [
+      {
+        "value": "魔海",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
     "理念": [
       {
-        "value": "嗜血杀戮",
+        "value": "布血冥大阵困杀敌人",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
     ]
   },
-  "firstSeq": 1885,
+  "firstSeq": 1897,
   "attrProvenance": {
     "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "据点": {
       "asOf": null,
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
@@ -50,10 +56,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1935-fei-cheng-zi-yan-ding",
-    "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:33:31.977Z"
+  "updatedAt": "2026-06-21T08:33:31.974Z"
 }

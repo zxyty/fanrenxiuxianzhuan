@@ -5,13 +5,15 @@
   "aliases": [
     "合息兽",
     "羊首巨兽",
-    "羊首熊身巨兽"
+    "羊首熊身巨兽",
+    "合息"
   ],
   "summary": "人族一方的合息兽，羊首熊身，可喷飓风化黄云防御；被林鸾以血符催动攻击圣祖，反遭圣祖紫色小鼎困住、七色宝塔收走。",
   "attributes": {
     "种族": "合息兽",
     "外形": "羊首熊身巨兽",
-    "能力": "喷飓风、化黄云防御"
+    "能力": "喷飓风、化黄云防御、黄霞吞噬、黄风撕裂、蝠翼化黑黄云防御、巨掌镇压",
+    "等级": "四大凶兽之一"
   },
   "observations": {
     "种族": [
@@ -26,6 +28,11 @@
         "value": "羊首熊身巨兽",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "羊首、熊身、蝠翼、碧绿长毛，可达两三千丈",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "能力": [
@@ -38,10 +45,37 @@
         "value": "化黄云防御",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "黄霞吞噬",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "黄风撕裂",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "蝠翼化黑黄云防御",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "巨掌镇压",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "等级": [
+      {
+        "value": "四大凶兽之一",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
-  "firstSeq": 1909,
+  "firstSeq": 1897,
   "attrProvenance": {
     "种族": {
       "asOf": null,
@@ -57,15 +91,22 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1909
+      "seq": 1897
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1923-blood-saint-descends"
+    "plot.fanren-1923-blood-saint-descends",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-17T03:11:34.298Z"
+  "updatedAt": "2026-06-21T08:33:31.973Z"
 }

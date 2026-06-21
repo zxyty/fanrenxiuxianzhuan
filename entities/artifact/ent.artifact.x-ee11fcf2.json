@@ -13,7 +13,7 @@
     "持有者": "韩立",
     "外形": "数寸迷你紫色小鼎，体表附文、外笼黑气",
     "品阶": "玄天残宝",
-    "能力": "喷黑色光柱",
+    "能力": "喷黑色光柱、复制攻击、反射攻击、吸力定身",
     "禁制": "内藏血光圣祖一缕神念"
   },
   "observations": {
@@ -34,6 +34,11 @@
         "value": "韩立",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "中年美妇",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "外形": [
@@ -46,6 +51,11 @@
         "value": "数寸迷你紫色小鼎，体表附文、外笼黑气",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "紫色巨鼎，鼎口浮现盾/弹/反/吸等古文符文",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "品阶": [
@@ -60,6 +70,21 @@
         "value": "喷黑色光柱",
         "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
         "seq": 1915
+      },
+      {
+        "value": "复制攻击",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "反射攻击",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "吸力定身",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "禁制": [
@@ -71,7 +96,7 @@
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1897,
   "attrProvenance": {
     "持有者": {
       "asOf": null,
@@ -93,9 +118,9 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1929-1934-blood-saint-clones-battle",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1915
+      "seq": 1897
     },
     "禁制": {
       "asOf": null,
@@ -111,7 +136,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1923-blood-saint-descends",
     "plot.fanren-1929-1934-blood-saint-clones-battle",
-    "plot.fanren-1935-fei-cheng-zi-yan-ding"
+    "plot.fanren-1935-fei-cheng-zi-yan-ding",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-17T03:26:19.742Z"
+  "updatedAt": "2026-06-21T08:33:31.966Z"
 }

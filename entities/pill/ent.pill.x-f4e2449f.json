@@ -1,0 +1,50 @@
+{
+  "id": "ent.pill.x-f4e2449f",
+  "type": "pill",
+  "name": "魔化丹",
+  "aliases": [
+    "紫色丹药"
+  ],
+  "summary": "魔族服后浮现血色灵纹、面现痛苦、气息暴涨倍许的魔化丹药。",
+  "attributes": {
+    "功效": "魔化增幅，气息暴涨倍许",
+    "副作用": "服后面现痛苦、浮血纹"
+  },
+  "observations": {
+    "功效": [
+      {
+        "value": "魔化增幅，气息暴涨倍许",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "副作用": [
+      {
+        "value": "服后面现痛苦、浮血纹",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ]
+  },
+  "firstSeq": 1897,
+  "attrProvenance": {
+    "功效": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "副作用": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1911-yitian-war-2"
+  ],
+  "updatedAt": "2026-06-21T08:33:31.980Z"
+}

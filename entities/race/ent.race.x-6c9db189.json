@@ -8,14 +8,16 @@
     "高阶魔族",
     "古魔一族",
     "圣界魔族",
-    "圣祖一族"
+    "圣祖一族",
+    "魔尊"
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
     "代表人物": "魔族圣祖、黑甲大汉、白袍少年",
-    "阵营": "魔界",
+    "阵营": "魔界、魔族、敌对、圣族",
     "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影",
-    "聚居地": "圣界"
+    "聚居地": "魔海",
+    "天敌": "人族"
   },
   "observations": {
     "代表人物": [
@@ -27,19 +29,19 @@
       {
         "value": "黑甲大汉",
         "docId": "plot.fanren-1923-blood-saint-descends",
-        "seq": 1909
+        "seq": 1897
       },
       {
         "value": "白袍少年",
         "docId": "plot.fanren-1923-blood-saint-descends",
-        "seq": 1909
+        "seq": 1897
       }
     ],
     "阵营": [
       {
         "value": "魔界",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
-        "seq": 1921
+        "seq": 1897
       },
       {
         "value": "魔族",
@@ -50,6 +52,11 @@
         "value": "敌对",
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891
+      },
+      {
+        "value": "圣族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "特性": [
@@ -69,6 +76,18 @@
         "value": "圣界",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "魔海",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "天敌": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
@@ -78,13 +97,13 @@
       "asOf": null,
       "docId": "plot.fanren-1923-blood-saint-descends",
       "dated": false,
-      "seq": 1909
+      "seq": 1897
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
       "dated": false,
-      "seq": 1921
+      "seq": 1867
     },
     "特性": {
       "asOf": null,
@@ -94,9 +113,15 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1873
+      "seq": 1897
+    },
+    "天敌": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
@@ -107,7 +132,8 @@
     "plot.fanren-ch1881-mo-lin-cheng-xia",
     "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
     "plot.fanren-1879-1884-jizhan-sanmo-tianguimen",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.789Z"
+  "updatedAt": "2026-06-21T08:33:31.977Z"
 }

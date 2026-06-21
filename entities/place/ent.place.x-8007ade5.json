@@ -1,0 +1,48 @@
+{
+  "id": "ent.place.x-8007ade5",
+  "type": "place",
+  "name": "魔海",
+  "aliases": [],
+  "summary": "魔族大军据点，化血冥卫、珈轮战魔、万象魔骑由此涌出，被凶煞之气染成血红。",
+  "attributes": {
+    "所属势力": "魔族",
+    "类型": "大军据点"
+  },
+  "observations": {
+    "所属势力": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "类型": [
+      {
+        "value": "大军据点",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ]
+  },
+  "firstSeq": 1897,
+  "attrProvenance": {
+    "所属势力": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1911-yitian-war-2"
+  ],
+  "updatedAt": "2026-06-21T08:33:31.979Z"
+}

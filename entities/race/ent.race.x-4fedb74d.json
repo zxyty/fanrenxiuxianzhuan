@@ -5,12 +5,13 @@
   "aliases": [
     "天轮化魔",
     "三头六臂巨魔",
-    "加伦战魔"
+    "加伦战魔",
+    "三头六臂魔族"
   ],
   "summary": "魔族战魔，最低化神级修为、修魔族一等魔功，攻打倚天城，为首数十只神通远胜同阶。",
   "attributes": {
-    "阵营": "魔族",
-    "特性": "化神级以上、修一等魔功、三头六臂、巨兽法相"
+    "阵营": "魔族（圣族）",
+    "特性": "化神级以上、修一等魔功、三头六臂、巨兽法相、三头六臂，两颗怪兽头颅喷火球风刃，六臂执巨锤尖锥；能秘术化形低阶魔兽"
   },
   "observations": {
     "阵营": [
@@ -18,6 +19,11 @@
         "value": "魔族",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1885
+      },
+      {
+        "value": "魔族（圣族）",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "特性": [
@@ -35,6 +41,11 @@
         "value": "巨兽法相",
         "docId": "plot.fanren-1898-1903-yitiancheng-war",
         "seq": 1885
+      },
+      {
+        "value": "三头六臂，两颗怪兽头颅喷火球风刃，六臂执巨锤尖锥；能秘术化形低阶魔兽",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
@@ -42,9 +53,9 @@
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1885
+      "seq": 1897
     },
     "特性": {
       "asOf": null,
@@ -59,7 +70,8 @@
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1057-three-treasures-joint-attack",
     "plot.fanren-1898-1903-yitiancheng-war",
-    "plot.fanren-1891-1896-zhenmosuo-chejigong"
+    "plot.fanren-1891-1896-zhenmosuo-chejigong",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:19:48.824Z"
+  "updatedAt": "2026-06-21T08:33:31.976Z"
 }

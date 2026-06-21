@@ -1,59 +1,64 @@
 {
-  "id": "ent.person.x-f58b2dbe",
+  "id": "ent.person.x-758e87d2",
   "type": "person",
-  "name": "银丝袍男子",
-  "aliases": [
-    "银丝袍中年男子",
-    "银丝袍魔族尊者"
-  ],
-  "summary": "魔族尊者，吐血红晶石引动高空漩涡中血光圣祖本体气息并吸回体内，随后身躯气息惊人变化。",
+  "name": "火甲巨人",
+  "aliases": [],
+  "summary": "合体初期魔族尊者，赤红战甲护身、放赤红火蟒，被韩立失神刺重创后以青剑绞杀。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族尊者",
-    "性别": "男",
-    "小阶段": "合体中期",
-    "外貌": "身着银丝袍",
-    "阵营": "魔族（圣族）"
+    "阵营": "魔族",
+    "称号": "烟尊者",
+    "小阶段": "合体初期",
+    "外貌": "火甲巨人、瞳孔赤焰",
+    "存殁": "死亡",
+    "死因": "被韩立青色巨剑漩涡绞碎肉身元婴"
   },
   "observations": {
     "种族": [
       {
         "value": "魔族",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1897
-      }
-    ],
-    "身份": [
-      {
-        "value": "魔族尊者",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1897
-      }
-    ],
-    "性别": [
-      {
-        "value": "男",
-        "docId": "plot.fanren-1911-yitian-war-2",
-        "seq": 1897
-      }
-    ],
-    "小阶段": [
-      {
-        "value": "合体中期",
-        "docId": "plot.fanren-1911-yitian-war-2",
-        "seq": 1897
-      }
-    ],
-    "外貌": [
-      {
-        "value": "身着银丝袍",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
     ],
     "阵营": [
       {
-        "value": "魔族（圣族）",
+        "value": "魔族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "称号": [
+      {
+        "value": "烟尊者",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体初期",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "外貌": [
+      {
+        "value": "火甲巨人、瞳孔赤焰",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立青色巨剑漩涡绞碎肉身元婴",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
@@ -63,17 +68,17 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
     },
-    "身份": {
+    "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
     },
-    "性别": {
+    "称号": {
       "asOf": null,
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
@@ -91,7 +96,13 @@
       "dated": false,
       "seq": 1897
     },
-    "阵营": {
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "死因": {
       "asOf": null,
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
@@ -101,8 +112,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:33:31.961Z"
+  "updatedAt": "2026-06-21T08:33:31.899Z"
 }

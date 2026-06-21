@@ -1,30 +1,21 @@
 {
-  "id": "ent.person.x-ace7448f",
+  "id": "ent.person.x-1f071315",
   "type": "person",
-  "name": "娇小女子",
-  "aliases": [
-    "羽仙子"
-  ],
-  "summary": "魔族尊者，背现碧绿巨蛤虚影喷碧绿光霞，与白袍少年联手对阵林鸾、银光仙子。",
+  "name": "粉红宫裙中年美妇",
+  "aliases": [],
+  "summary": "魔族尊者，合体中期，阴阳二刹之一，祭出圣祖所赐紫色巨鼎，欲以五幽炼魂逼供韩立。",
   "attributes": {
     "种族": "魔族",
-    "身份": "魔族尊者",
     "阵营": "魔族",
-    "称号": "羽仙子"
+    "小阶段": "合体中期",
+    "外貌": "粉红宫裙、双目似水"
   },
   "observations": {
     "种族": [
       {
         "value": "魔族",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+        "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
-      }
-    ],
-    "身份": [
-      {
-        "value": "魔族尊者",
-        "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-        "seq": 1903
       }
     ],
     "阵营": [
@@ -34,9 +25,21 @@
         "seq": 1897
       }
     ],
-    "称号": [
+    "小阶段": [
       {
-        "value": "羽仙子",
+        "value": "合体中期",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "外貌": [
+      {
+        "value": "粉红宫裙",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "双目似水",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
       }
@@ -46,15 +49,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
       "seq": 1897
-    },
-    "身份": {
-      "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-      "dated": false,
-      "seq": 1903
     },
     "阵营": {
       "asOf": null,
@@ -62,7 +59,13 @@
       "dated": false,
       "seq": 1897
     },
-    "称号": {
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
@@ -72,8 +75,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T08:33:31.896Z"
+  "updatedAt": "2026-06-21T08:33:31.902Z"
 }

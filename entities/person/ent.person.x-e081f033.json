@@ -4,14 +4,17 @@
   "name": "叶家中年美妇",
   "aliases": [
     "中年美妇",
-    "叶家美妇"
+    "叶家美妇",
+    "紫鼎美妇"
   ],
   "summary": "皇族叶家后辈，主张冒险夺取通天灵宝以摆脱各大势力夹持。",
   "attributes": {
     "性别": "女",
-    "阵营": "皇族叶家",
-    "身份": "叶家成员",
-    "性格": "进取、善谋"
+    "阵营": "魔族（圣族）",
+    "身份": "魔族尊者",
+    "性格": "进取、善谋",
+    "种族": "魔族",
+    "小阶段": "合体中期"
   },
   "observations": {
     "性别": [
@@ -26,6 +29,11 @@
         "value": "皇族叶家",
         "docId": "plot.fanren-ch925-dajin-huangzu",
         "seq": 925
+      },
+      {
+        "value": "魔族（圣族）",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "身份": [
@@ -33,6 +41,11 @@
         "value": "叶家成员",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      },
+      {
+        "value": "魔族尊者",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "性格": [
@@ -40,6 +53,20 @@
         "value": "进取、善谋",
         "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
         "seq": 925
+      }
+    ],
+    "种族": [
+      {
+        "value": "魔族",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体中期",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
@@ -53,21 +80,33 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-huangzu",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 925
+      "seq": 1897
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 925
+      "seq": 1897
     },
     "性格": {
       "asOf": null,
       "docId": "plot.fanren-ch925-dajin-imperial-family-ye-clan",
       "dated": false,
       "seq": 925
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
@@ -75,7 +114,8 @@
   "docs": [
     "plot.fanren-ch925-dajin-huangzu",
     "plot.fanren-ch925-dajin-imperial-family-ye-clan",
-    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle"
+    "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-21T03:45:34.570Z"
+  "updatedAt": "2026-06-21T08:33:31.957Z"
 }

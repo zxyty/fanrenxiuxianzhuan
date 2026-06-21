@@ -5,14 +5,16 @@
   "aliases": [
     "倚天之战（八～十）",
     "魔界之战",
-    "第十卷魔界之战"
+    "第十卷魔界之战",
+    "倚天城之战"
   ],
   "summary": "魔族围攻倚天城的大战；同期韩立被七色宝塔摄入须弥空间闯塔，并反杀阴阳二刹美妇。",
   "attributes": {
-    "章节": "第1917-1919章",
+    "章节": "第1917-1919章、第1912-1913章、第1914-1916章",
     "地点": "倚天城/七色宝塔须弥空间",
-    "参与方": "人族、魔族、韩立、阴阳二刹美妇",
-    "结果": "韩立闯至第七层、击杀阴阳二刹美妇"
+    "参与方": "人族、魔族、韩立、阴阳二刹美妇、人族修士、魔族尊者、人族倚天城、魔族（圣族）",
+    "结果": "韩立闯至第七层、击杀阴阳二刹美妇",
+    "经过": "韩立被镇入须弥宝塔，倚天城放出合息兽，魔族召化血冥卫、珈轮战魔破城"
   },
   "observations": {
     "章节": [
@@ -20,6 +22,16 @@
         "value": "第1917-1919章",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "第1912-1913章",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "第1914-1916章",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "地点": [
@@ -27,6 +39,11 @@
         "value": "倚天城/七色宝塔须弥空间",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "倚天城",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "参与方": [
@@ -49,6 +66,26 @@
         "value": "阴阳二刹美妇",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "人族修士",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "魔族尊者",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "人族倚天城",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      },
+      {
+        "value": "魔族（圣族）",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ],
     "结果": [
@@ -56,16 +93,28 @@
         "value": "韩立闯至第七层、击杀阴阳二刹美妇",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1903
+      },
+      {
+        "value": "韩立击杀火甲巨人（烟尊者），阴阳二刹现身助战",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
+      }
+    ],
+    "经过": [
+      {
+        "value": "韩立被镇入须弥宝塔，倚天城放出合息兽，魔族召化血冥卫、珈轮战魔破城",
+        "docId": "plot.fanren-1911-yitian-war-2",
+        "seq": 1897
       }
     ]
   },
-  "firstSeq": 1903,
+  "firstSeq": 1897,
   "attrProvenance": {
     "章节": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1903
+      "seq": 1897
     },
     "地点": {
       "asOf": null,
@@ -75,21 +124,28 @@
     },
     "参与方": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1911-yitian-war-2",
       "dated": false,
-      "seq": 1903
+      "seq": 1897
     },
     "结果": {
       "asOf": null,
       "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
       "dated": false,
       "seq": 1903
+    },
+    "经过": {
+      "asOf": null,
+      "docId": "plot.fanren-1911-yitian-war-2",
+      "dated": false,
+      "seq": 1897
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10"
+    "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+    "plot.fanren-1911-yitian-war-2"
   ],
-  "updatedAt": "2026-06-17T02:59:10.920Z"
+  "updatedAt": "2026-06-21T08:33:31.982Z"
 }
