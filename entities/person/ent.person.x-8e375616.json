@@ -12,7 +12,9 @@
     "小阶段": "大乘",
     "出身地": "血天大陆",
     "外貌": "赤红长袍、面印金色雷纹",
-    "标志特征": "赤红雷光、断肢重生"
+    "标志特征": "赤红巨蛟虚影",
+    "存殁": "死亡",
+    "死因": "被噬金虫王晶莹剑光斩杀"
   },
   "observations": {
     "性别": [
@@ -48,6 +50,25 @@
         "value": "赤红雷光、断肢重生",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "赤红巨蛟虚影",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "死因": [
+      {
+        "value": "被噬金虫王晶莹剑光斩杀",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ]
   },
@@ -79,15 +100,28 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
-      "seq": 2329
+      "seq": 2335
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
   ],
-  "updatedAt": "2026-06-21T17:58:15.167Z"
+  "updatedAt": "2026-06-21T18:06:40.920Z"
 }

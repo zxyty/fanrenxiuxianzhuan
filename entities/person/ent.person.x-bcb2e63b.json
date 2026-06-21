@@ -11,8 +11,10 @@
     "性别": "男",
     "身份": "黄枫谷长老、传功弟子、谷内管事、金铭楼楼主",
     "性格": "阴沉算计",
-    "外貌": "鹰勾鼻老者、三十来岁青衣弟子、满脸皱纹的灰袍老者、满脸皱纹灰袍老者",
-    "小阶段": "结丹后期"
+    "外貌": "鹰勾鼻老者、三十来岁青衣弟子、满脸皱纹的灰袍老者、满脸皱纹灰袍老者、白发老者",
+    "小阶段": "大乘期",
+    "阵营": "巫灵三圣",
+    "标志特征": "八臂青魔魔皮、青罡风木牌"
   },
   "observations": {
     "性别": [
@@ -76,6 +78,11 @@
         "value": "满脸皱纹灰袍老者",
         "docId": "plot.fmxz-ch1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "白发老者",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ],
     "小阶段": [
@@ -83,6 +90,25 @@
         "value": "结丹后期",
         "docId": "plot.fanren-1155-yaoshou-zhi-luan",
         "seq": 1153
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "阵营": [
+      {
+        "value": "巫灵三圣",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "八臂青魔魔皮、青罡风木牌",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ]
   },
@@ -114,9 +140,21 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1155-yaoshou-zhi-luan",
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
-      "seq": 1153
+      "seq": 2335
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
     }
   },
   "contested": false,
@@ -125,7 +163,8 @@
     "plot.fanren-ch139-144-shengxianling-yu-xizhi-ambush",
     "plot.fanren-146-151-han-li-joins-huangfenggu",
     "plot.fanren-1155-yaoshou-zhi-luan",
-    "plot.fmxz-ch1155-yaoshou-zhi-luan"
+    "plot.fmxz-ch1155-yaoshou-zhi-luan",
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
   ],
-  "updatedAt": "2026-06-18T12:14:27.508Z"
+  "updatedAt": "2026-06-21T18:06:40.954Z"
 }

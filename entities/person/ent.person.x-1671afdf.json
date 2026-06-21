@@ -3,13 +3,15 @@
   "type": "person",
   "name": "天鼎真人",
   "aliases": [
-    "天鼎宫主"
+    "天鼎宫主",
+    "天鼎祖师"
   ],
   "summary": "百万年前血天大陆渡大天劫次数最多、最终飞升成功的真仙，天鼎宫为其遗留下界洞府。",
   "attributes": {
-    "身份": "飞升成功者",
-    "结局": "飞升",
-    "标志特征": "精通金篆文、银蝌文"
+    "身份": "飞升真仙、飞升成功者、天鼎宫之主、天鼎宫建造者",
+    "结局": "飞升仙界",
+    "标志特征": "精通金篆文、银蝌文",
+    "存殁": "已逝"
   },
   "observations": {
     "身份": [
@@ -22,6 +24,16 @@
         "value": "飞升成功者",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "天鼎宫之主",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      },
+      {
+        "value": "天鼎宫建造者",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ],
     "结局": [
@@ -29,6 +41,11 @@
         "value": "飞升",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "飞升仙界",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ],
     "标志特征": [
@@ -37,34 +54,48 @@
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
       }
+    ],
+    "存殁": [
+      {
+        "value": "已逝",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
     ]
   },
   "firstSeq": 2323,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
-      "dated": false,
-      "seq": 2329
-    },
-    "结局": {
-      "asOf": null,
       "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
       "seq": 2323
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
       "dated": false,
       "seq": 2329
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
   ],
-  "updatedAt": "2026-06-21T17:58:15.146Z"
+  "updatedAt": "2026-06-21T18:06:40.957Z"
 }

@@ -7,15 +7,16 @@
     "萧道友",
     "萧老怪",
     "血骨门太上长老",
-    "狂魔老祖"
+    "狂魔老祖",
+    "狂魔"
   ],
   "summary": "血骨门太上长老、阵法大家，坐镇血鹤城数百年，戴苍白银纹面具，炼化九目血蟾奇毒真血成真身；持天鼎宫钥匙图谋秘藏。",
   "attributes": {
-    "小阶段": "大乘",
+    "小阶段": "大乘期",
     "性别": "男",
     "身份": "血骨门太上长老",
     "标志特征": "九目血蟾虚影",
-    "称号": "狂魔老祖",
+    "称号": "狂魔",
     "外貌": "白色面具覆面",
     "阵营": "血骨门"
   },
@@ -25,6 +26,11 @@
         "value": "大乘",
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
+      },
+      {
+        "value": "大乘期",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ],
     "性别": [
@@ -63,6 +69,11 @@
         "value": "狂魔老祖",
         "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
         "seq": 2329
+      },
+      {
+        "value": "狂魔",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
       }
     ],
     "外貌": [
@@ -84,9 +95,9 @@
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
-      "seq": 2323
+      "seq": 2335
     },
     "性别": {
       "asOf": null,
@@ -108,9 +119,9 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
       "dated": false,
-      "seq": 2329
+      "seq": 2335
     },
     "外貌": {
       "asOf": null,
@@ -129,7 +140,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
   ],
-  "updatedAt": "2026-06-21T17:58:15.169Z"
+  "updatedAt": "2026-06-21T18:06:40.951Z"
 }

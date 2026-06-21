@@ -4,7 +4,8 @@
   "name": "血骨门",
   "aliases": [
     "血道大宗血骨门",
-    "血骨门一门"
+    "血骨门一门",
+    "血天人"
   ],
   "summary": "魔道宗门，遣毕火率众潜入阴罗宗被剿灭。",
   "attributes": {
@@ -12,7 +13,8 @@
     "所属界面": "灵界",
     "理念": "血道功法",
     "据点": "血鹤城",
-    "镇派之宝": "天鼎宫钥匙"
+    "镇派之宝": "天鼎宫钥匙",
+    "等级": "大乘级势力"
   },
   "observations": {
     "阵营": [
@@ -64,6 +66,13 @@
         "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
         "seq": 2323
       }
+    ],
+    "等级": [
+      {
+        "value": "大乘级势力",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
     ]
   },
   "firstSeq": 1225,
@@ -97,6 +106,12 @@
       "docId": "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
       "dated": false,
       "seq": 2323
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
     }
   },
   "contested": false,
@@ -107,7 +122,8 @@
     "plot.fanren-ch2324-2328-helian-auction-fanyuan",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-2342-2347-blood-crane-city-tianding-palace-key",
-    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru"
+    "plot.fanren-2329-2334-tianding-gong-jumen-shuangding-jinru",
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
   ],
-  "updatedAt": "2026-06-21T17:58:15.154Z"
+  "updatedAt": "2026-06-21T18:06:40.921Z"
 }

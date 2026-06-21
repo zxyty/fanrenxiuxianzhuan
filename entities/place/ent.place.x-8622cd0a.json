@@ -1,0 +1,79 @@
+{
+  "id": "ent.place.x-8622cd0a",
+  "type": "place",
+  "name": "血狱",
+  "aliases": [
+    "血狱入口殿堂"
+  ],
+  "summary": "天鼎宫内镇压上古强敌之地，血色巨柱镶骷髅头淌血，有吞骨蝶与血灵，曾镇压天巫大人。",
+  "attributes": {
+    "类型": "镇压秘狱、镇压囚地",
+    "危险度": "极高",
+    "守护": "吞骨蝶、血灵、血灵、吞骨蝶、淡金符文铁笼"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "镇压秘狱",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      },
+      {
+        "value": "镇压囚地",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "危险度": [
+      {
+        "value": "极高",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ],
+    "守护": [
+      {
+        "value": "吞骨蝶",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      },
+      {
+        "value": "血灵",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      },
+      {
+        "value": "血灵、吞骨蝶、淡金符文铁笼",
+        "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+        "seq": 2335
+      }
+    ]
+  },
+  "firstSeq": 2335,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
+    },
+    "危险度": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-2335-2340-tianding-gong-xueyu",
+      "dated": false,
+      "seq": 2335
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2335-2340-tianding-gong-xueyu"
+  ],
+  "updatedAt": "2026-06-21T18:06:40.961Z"
+}
