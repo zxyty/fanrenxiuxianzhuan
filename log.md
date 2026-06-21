@@ -769,3 +769,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T19:13:41.857Z** `ingest` plot.fanren-2371-2376-guishu-zuling-yu-renzu — 凡人修仙传 第2371-2376章｜古树祖灵·震动人族·相见（上） · kind=plot asOf=2026-06-21 entities=37 relations=35 src=02371-02376.md
 - **2026-06-21T19:22:15.095Z** `ingest` plot.fanren-ch2377-2382-malaiang-shizong — 第2377-2382章 祸水东移·马良失踪·明尊之议 · kind=plot asOf=2026-06-21 entities=35 relations=45 src=02377-02382.md
 - **2026-06-21T19:58:49.792Z** `ingest` plot.fanren-2403-dingji — 凡人修仙传 第2403章 定计——人族商议应对真仙降世，韩立返青元宫 · kind=plot asOf=2026-06-21 entities=33 relations=37 src=02383-02388.md
+- **2026-06-21T20:06:58.487Z** `ingest` plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin — 凡人修仙传 第2389-2394章｜天外天群强云集围杀降临真仙 · kind=plot asOf=2026-06-21 entities=45 relations=51 src=02389-02394.md

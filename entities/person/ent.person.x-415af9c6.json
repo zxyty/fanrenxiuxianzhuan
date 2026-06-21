@@ -10,15 +10,17 @@
     "降临真仙",
     "真仙疯子",
     "血祭凶魔",
-    "黑袍瘦弱青年"
+    "黑袍瘦弱青年",
+    "血祭仙人",
+    "那名真仙"
   ],
   "summary": "九元观悍弟子，刚结束万年面壁出关；修为手段过人但心性过激，曾血祭某小国上亿生灵炼宝，被视为下界追捕叛徒的有力人选。",
   "attributes": {
     "性格": "心性过激、嗜血祭、自大",
-    "身份": "仙界降临真仙",
-    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术",
-    "外貌": "黑袍瘦弱青年",
-    "阵营": "孤身",
+    "身份": "九元观弟子、降世真仙、仙界降临真仙、仙界顶阶仙人、下界真仙",
+    "标志特征": "曾血祭下界小国上亿生灵炼宝，受万年面壁之刑、体表紫金锁链、七色雷霆/七色彩云遁术、可化金色神人、恢复全盛仙力、血河八条五爪血龙、黑白太极古镜、翠绿小伞",
+    "外貌": "金色神人形象",
+    "阵营": "敌",
     "小阶段": "真仙",
     "称号": "血祭凶魔"
   },
@@ -55,6 +57,16 @@
         "value": "仙界降临真仙",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "仙界顶阶仙人",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "下界真仙",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "标志特征": [
@@ -72,6 +84,26 @@
         "value": "七色雷霆/七色彩云遁术",
         "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
         "seq": 2365
+      },
+      {
+        "value": "可化金色神人、恢复全盛仙力",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "血河八条五爪血龙",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "黑白太极古镜",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "翠绿小伞",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "外貌": [
@@ -84,6 +116,11 @@
         "value": "黑袍瘦弱青年",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "金色神人形象",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "阵营": [
@@ -92,6 +129,11 @@
         "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
         "seq": 2365,
         "note": "被血天群修共讨"
+      },
+      {
+        "value": "敌",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "小阶段": [
@@ -120,9 +162,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2270-jiuyuanguan",
       "dated": false,
-      "seq": 2377
+      "seq": 2251
     },
     "标志特征": {
       "asOf": null,
@@ -132,16 +174,15 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
-      "seq": 2383
+      "seq": 2389
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
-      "seq": 2365,
-      "note": "被血天群修共讨"
+      "seq": 2389
     },
     "小阶段": {
       "asOf": null,
@@ -163,7 +204,8 @@
     "plot.fanren-2270-jiuyuanguan",
     "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
     "plot.fanren-ch2377-2382-malaiang-shizong",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
   ],
-  "updatedAt": "2026-06-21T19:58:49.562Z"
+  "updatedAt": "2026-06-21T20:06:58.254Z"
 }

@@ -10,15 +10,19 @@
     "赤红老者",
     "赤发老者",
     "明尊道友",
-    "赤红头发老者"
+    "赤红头发老者",
+    "明某"
   ],
   "summary": "赫连商盟在风元大陆的总执事/主事人，欲拉拢韩立并向碧影举荐之。",
   "attributes": {
-    "身份": "赫连商盟主事",
+    "身份": "商盟主事",
     "外貌": "赤红头发老者",
     "小阶段": "大乘期",
     "出身地": "仙人嫡系后人后裔",
-    "阵营": "赫连商盟"
+    "阵营": "赫连商盟",
+    "性格": "深沉算计",
+    "称号": "明尊",
+    "标志特征": "无形浮现凝聚之体"
   },
   "observations": {
     "身份": [
@@ -46,6 +50,11 @@
         "value": "赫连商盟主事",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "商盟主事",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "外貌": [
@@ -95,15 +104,36 @@
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
       }
+    ],
+    "性格": [
+      {
+        "value": "深沉算计",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      }
+    ],
+    "称号": [
+      {
+        "value": "明尊",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "无形浮现凝聚之体",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      }
     ]
   },
   "firstSeq": 2305,
   "attrProvenance": {
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
-      "seq": 2383
+      "seq": 2389
     },
     "外貌": {
       "asOf": null,
@@ -128,6 +158,24 @@
       "docId": "plot.fanren-2403-dingji",
       "dated": false,
       "seq": 2383
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
     }
   },
   "contested": false,
@@ -137,7 +185,8 @@
     "plot.fanren-2330-2335-yumeng-yanlongzhixue-tianfeier",
     "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
     "plot.fanren-ch2377-2382-malaiang-shizong",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
   ],
-  "updatedAt": "2026-06-21T19:58:49.567Z"
+  "updatedAt": "2026-06-21T20:06:58.251Z"
 }

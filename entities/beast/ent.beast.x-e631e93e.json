@@ -11,9 +11,9 @@
   "summary": "角蚩族供奉的上古真灵之一，借上古契约召唤迎战马良，战后失踪。",
   "attributes": {
     "等级": "真灵",
-    "种族": "真灵",
+    "种族": "角蚩族",
     "外形": "鹿首壮硕巨人",
-    "主人": "黑袍青年"
+    "主人": "降临真仙"
   },
   "observations": {
     "等级": [
@@ -33,6 +33,11 @@
         "value": "真灵",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "角蚩族",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "外形": [
@@ -52,6 +57,12 @@
         "value": "黑袍青年",
         "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
         "seq": 2377
+      },
+      {
+        "value": "降临真仙",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389,
+        "note": "被收服为随从"
       }
     ]
   },
@@ -65,9 +76,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
-      "seq": 2377
+      "seq": 2389
     },
     "外形": {
       "asOf": null,
@@ -77,16 +88,18 @@
     },
     "主人": {
       "asOf": null,
-      "docId": "plot.fanren-ch2377-2382-malaiang-shizong",
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
       "dated": false,
-      "seq": 2377
+      "seq": 2389,
+      "note": "被收服为随从"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch2377-2382-malaiang-shizong",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
   ],
-  "updatedAt": "2026-06-21T19:58:49.563Z"
+  "updatedAt": "2026-06-21T20:06:58.255Z"
 }

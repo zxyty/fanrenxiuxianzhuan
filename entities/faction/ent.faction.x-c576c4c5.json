@@ -13,10 +13,11 @@
   "summary": "横跨数个大陆的超级商盟，于赤融山脉黑焦峰举办拍卖会，主事人明尊。",
   "attributes": {
     "等级": "拥有众多大乘的超级势力",
-    "据点": "黑焦峰、风元大陆、风元大陆洞天、雷霆大陆、血天大陆、小世界三十六大型据点、总部藏经阁/巨湖底大殿",
-    "理念": "对血道大宗存忌惮",
+    "据点": "黑焦峰、风元大陆、风元大陆洞天、雷霆大陆、血天大陆、小世界三十六大型据点、总部藏经阁/巨湖底大殿、天外天",
+    "理念": "横跨数大陆的商业联盟、暗中维护灵界、排除外来势力、对血道大宗存忌惮、维持灵界平衡安稳、围杀真仙、夺其宝物",
     "所属界面": "灵界血天",
-    "镇派之宝": "仙界秘术"
+    "镇派之宝": "仙界秘术",
+    "掌门": "明尊"
   },
   "observations": {
     "等级": [
@@ -76,6 +77,11 @@
         "value": "总部藏经阁/巨湖底大殿",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "天外天",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "理念": [
@@ -93,6 +99,16 @@
         "value": "对血道大宗存忌惮",
         "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
         "seq": 2359
+      },
+      {
+        "value": "维持灵界平衡安稳",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "围杀真仙、夺其宝物",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "所属界面": [
@@ -113,6 +129,13 @@
         "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
         "seq": 2317
       }
+    ],
+    "掌门": [
+      {
+        "value": "明尊",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      }
     ]
   },
   "firstSeq": 2299,
@@ -131,9 +154,9 @@
     },
     "理念": {
       "asOf": null,
-      "docId": "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
+      "docId": "plot.fanren-2318-2323-guwai-dazhan-chirong-shanmai",
       "dated": false,
-      "seq": 2359
+      "seq": 2299
     },
     "所属界面": {
       "asOf": null,
@@ -146,6 +169,12 @@
       "docId": "plot.fanren-2317-2322-enter-blood-heaven-eight-ghost-buddha-painting",
       "dated": false,
       "seq": 2317
+    },
+    "掌门": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
     }
   },
   "contested": false,
@@ -160,7 +189,8 @@
     "plot.fanren-ch2359-2364-xiongsiwang-zhanluo",
     "plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal",
     "plot.fanren-2371-2376-guishu-zuling-yu-renzu",
-    "plot.fanren-2403-dingji"
+    "plot.fanren-2403-dingji",
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
   ],
-  "updatedAt": "2026-06-21T19:58:49.567Z"
+  "updatedAt": "2026-06-21T20:06:58.270Z"
 }

@@ -5,13 +5,18 @@
   "aliases": [
     "神秘人",
     "斗篷人",
-    "高大神秘男子"
+    "高大神秘男子",
+    "模糊人影",
+    "陌生人影",
+    "本盟影子"
   ],
   "summary": "墨大夫从山下带回、寸步不离随行的神秘人物，头戴黑斗篷、身罩宽大绿袍不露肌肤，身材异常高大魁梧。",
   "attributes": {
     "外貌": "高大",
-    "标志特征": "随墨大夫寸步不离、体力惊人可整日站立不疲、背影令韩立感熟悉、悄然无声、隐匿如死物",
-    "性格": "沉默不语、绝对服从"
+    "标志特征": "随墨大夫寸步不离、体力惊人可整日站立不疲、背影令韩立感熟悉、悄然无声、隐匿如死物、潜行于影中",
+    "性格": "沉默不语、绝对服从",
+    "身份": "明尊暗中合谋者、本盟影子",
+    "阵营": "赫连商盟一方"
   },
   "observations": {
     "外貌": [
@@ -51,6 +56,11 @@
         "value": "悄然无声、隐匿如死物",
         "docId": "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
         "seq": 43
+      },
+      {
+        "value": "潜行于影中",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ],
     "性格": [
@@ -63,6 +73,26 @@
         "value": "绝对服从",
         "docId": "plot.fanren-ch31-36-shichongwan",
         "seq": 31
+      }
+    ],
+    "身份": [
+      {
+        "value": "明尊暗中合谋者",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
+      },
+      {
+        "value": "本盟影子",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389,
+        "note": "全程未露真容相貌"
+      }
+    ],
+    "阵营": [
+      {
+        "value": "赫连商盟一方",
+        "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+        "seq": 2389
       }
     ]
   },
@@ -85,6 +115,18 @@
       "docId": "plot.fanren-ch31-36-shichongwan",
       "dated": false,
       "seq": 31
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin",
+      "dated": false,
+      "seq": 2389
     }
   },
   "contested": false,
@@ -92,7 +134,8 @@
   "docs": [
     "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
     "plot.fanren-ch31-36-shichongwan",
-    "plot.fanren-ch43-48-modafu-juelie-jiaoshou"
+    "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
+    "plot.fanren-2389-2394-tianwaitian-zhenxian-jianglin"
   ],
-  "updatedAt": "2026-06-14T02:15:03.810Z"
+  "updatedAt": "2026-06-21T20:06:58.257Z"
 }
