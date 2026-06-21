@@ -10,9 +10,9 @@
   "attributes": {
     "性别": "女",
     "称号": "名震魔界",
-    "外貌": "雪白长裙赤足、漆黑星眸的黑发女子",
+    "外貌": "白衣裙、姿容举世无双",
     "阵营": "魔族、中立/独行",
-    "标志特征": "足踏巨花、施幻日神通",
+    "标志特征": "足踏巨花、施幻日神通、粉红花瓣巨手、迷魂眸光",
     "种族": "圣族",
     "身份": "圣界三大始祖之一、占卜师"
   },
@@ -41,6 +41,11 @@
         "value": "雪白长裙赤足、漆黑星眸的黑发女子",
         "docId": "plot.fanren-1649-san-mo",
         "seq": 1645
+      },
+      {
+        "value": "白衣裙、姿容举世无双",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
       }
     ],
     "阵营": [
@@ -60,6 +65,16 @@
         "value": "足踏巨花、施幻日神通",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "粉红花瓣巨手",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
+      },
+      {
+        "value": "迷魂眸光",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
       }
     ],
     "种族": [
@@ -93,9 +108,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1649-san-mo",
+      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
       "dated": false,
-      "seq": 1645
+      "seq": 2047
     },
     "阵营": {
       "asOf": null,
@@ -126,7 +141,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1649-san-mo",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-2068-2069-fansuan-lanjie"
   ],
-  "updatedAt": "2026-06-21T09:56:46.732Z"
+  "updatedAt": "2026-06-21T12:12:04.584Z"
 }

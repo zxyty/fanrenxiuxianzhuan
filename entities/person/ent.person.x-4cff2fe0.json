@@ -1,0 +1,48 @@
+{
+  "id": "ent.person.x-4cff2fe0",
+  "type": "person",
+  "name": "晖姓道士",
+  "aliases": [],
+  "summary": "随行人族合体修士，已带伤在身。",
+  "attributes": {
+    "种族": "人族",
+    "小阶段": "合体"
+  },
+  "observations": {
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
+      }
+    ],
+    "小阶段": [
+      {
+        "value": "合体",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
+      }
+    ]
+  },
+  "firstSeq": 2047,
+  "attrProvenance": {
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "dated": false,
+      "seq": 2047
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "dated": false,
+      "seq": 2047
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-2068-2069-fansuan-lanjie"
+  ],
+  "updatedAt": "2026-06-21T12:12:04.582Z"
+}

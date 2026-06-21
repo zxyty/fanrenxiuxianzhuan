@@ -6,7 +6,8 @@
   "summary": "霍州一带修仙世家，弟子林师兄炼气期即持中阶灵器青灵剑。",
   "attributes": {
     "等级": "修仙世家",
-    "阵营": "人族"
+    "阵营": "人族",
+    "所属界面": "灵界"
   },
   "observations": {
     "等级": [
@@ -27,6 +28,13 @@
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
       }
+    ],
+    "所属界面": [
+      {
+        "value": "灵界",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
+      }
     ]
   },
   "firstSeq": 1225,
@@ -42,6 +50,12 @@
       "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
       "seq": 1825
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "dated": false,
+      "seq": 2047
     }
   },
   "contested": false,
@@ -50,7 +64,8 @@
     "plot.hanli-raid-yinluozong-leizhenzi-fenglaoguai",
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-2068-2069-fansuan-lanjie"
   ],
-  "updatedAt": "2026-06-21T06:38:29.204Z"
+  "updatedAt": "2026-06-21T12:12:04.587Z"
 }

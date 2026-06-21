@@ -2,7 +2,9 @@
   "id": "ent.person.x-75144842",
   "type": "person",
   "name": "朱果儿",
-  "aliases": [],
+  "aliases": [
+    "朱果"
+  ],
   "summary": "纯人族结丹期少女，自称独自误入魔界，被万奴塔当作女奴，所修轮回功为其母所授，被韩立买走。",
   "attributes": {
     "性别": "女",
@@ -10,7 +12,8 @@
     "小阶段": "元婴",
     "身份": "韩立婢女",
     "外貌": "黄衫少女，面容与其母凌飞仙五分相似",
-    "出身地": "小灵天"
+    "出身地": "小灵天",
+    "性格": "聪颖"
   },
   "observations": {
     "性别": [
@@ -75,6 +78,13 @@
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
       }
+    ],
+    "性格": [
+      {
+        "value": "聪颖",
+        "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+        "seq": 2047
+      }
     ]
   },
   "firstSeq": 2029,
@@ -114,6 +124,12 @@
       "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
       "seq": 2035
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-2068-2069-fansuan-lanjie",
+      "dated": false,
+      "seq": 2047
     }
   },
   "contested": false,
@@ -121,7 +137,8 @@
   "docs": [
     "plot.fanren-2044-bai-yunxin",
     "plot.fanren-2050-2051-xiaolingtian-futianjushi",
-    "plot.fanren-ch2065-jinjingzhu"
+    "plot.fanren-ch2065-jinjingzhu",
+    "plot.fanren-2068-2069-fansuan-lanjie"
   ],
-  "updatedAt": "2026-06-21T12:09:50.322Z"
+  "updatedAt": "2026-06-21T12:12:04.581Z"
 }
