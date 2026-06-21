@@ -5,15 +5,17 @@
   "aliases": [
     "白色木盒",
     "真魔锁",
-    "镇魂塔"
+    "镇魂塔",
+    "白玉木盒",
+    "洁白如玉木盒"
   ],
   "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
   "attributes": {
     "持有者": "血光圣祖",
     "品阶": "玄天之物",
-    "外形": "金银符文镶嵌的白色木盒",
+    "外形": "白玉木盒",
     "禁制": "已被内囚二魔暗中破开",
-    "能力": "蕴含混沌阴阳二气、封印魔物、封禁元神/可提取混沌之气、封印囚禁高阶魔族",
+    "能力": "蕴含混沌阴阳二气、封印魔物、封禁元神/可提取混沌之气、封印囚禁高阶魔族、囚禁老魔",
     "来历": "黄泉地火收取"
   },
   "observations": {
@@ -58,6 +60,11 @@
         "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
         "seq": 1891,
         "note": "韩立以符箓加金色雷网封印后"
+      },
+      {
+        "value": "白玉木盒",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "禁制": [
@@ -102,6 +109,11 @@
         "value": "封印囚禁高阶魔族",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "囚禁老魔",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "来历": [
@@ -148,9 +160,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1909
+      "seq": 1951
     },
     "禁制": {
       "asOf": null,
@@ -183,7 +195,8 @@
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
     "plot.fanren-ch1933-1938-shidian-yuancha-zhuijie",
     "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:56:46.724Z"
+  "updatedAt": "2026-06-21T10:04:34.866Z"
 }

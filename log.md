@@ -684,3 +684,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T09:31:13.505Z** `ingest` plot.fanren-ch1933-1938-shidian-yuancha-zhuijie — 凡人修仙传 第1933-1938章｜石殿·大敌联手·拦截 · kind=plot asOf=2026-06-21 entities=27 relations=36 src=01933-01938.md
 - **2026-06-21T09:43:53.459Z** `ingest` plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan — 凡人修仙传 第1939-1944章｜追婴·远遁·黑棺 · kind=plot asOf=2026-06-21 entities=40 relations=52 src=01939-01944.md
 - **2026-06-21T09:56:46.952Z** `ingest` plot.fanren-1958-huanri-shentong-baoshu — 凡人修仙传 第1958章 幻日神通——宝树追韩立，圣界二祖灵界相遇 · kind=plot asOf=2026-06-21 entities=44 relations=63 src=01945-01950.md
+- **2026-06-21T10:04:35.154Z** `ingest` plot.fanren-1951-1956-qianru-mojie-dixia-binghe — 凡人修仙传 第1951-1956章｜潜入魔界·地下冰河·返程与古魔之谜 · kind=plot asOf=2026-06-21 entities=33 relations=42 src=01951-01956.md

@@ -4,15 +4,16 @@
   "name": "莫简离",
   "aliases": [
     "莫大人",
-    "莫简离大人"
+    "莫简离大人",
+    "莫道友"
   ],
   "summary": "人族威名人物，与圣岛并称，被视为抵御魔族阴谋的依仗。",
   "attributes": {
-    "阵营": "人族/圣岛、人族",
+    "阵营": "人族/圣岛、人族、圣岛",
     "小阶段": "大乘期",
     "称号": "定海神针",
     "种族": "人族",
-    "身份": "圣岛之人"
+    "身份": "圣岛领袖级前辈"
   },
   "observations": {
     "阵营": [
@@ -25,6 +26,11 @@
         "value": "人族",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "圣岛",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "小阶段": [
@@ -53,6 +59,11 @@
         "value": "圣岛之人",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "圣岛领袖级前辈",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ]
   },
@@ -84,9 +95,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1783
+      "seq": 1951
     }
   },
   "contested": false,
@@ -95,7 +106,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:16:08.520Z"
+  "updatedAt": "2026-06-21T10:04:34.919Z"
 }

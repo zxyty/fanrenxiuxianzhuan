@@ -7,16 +7,19 @@
     "白发老者",
     "徐某",
     "白发店主",
-    "谷家分支族长"
+    "谷家分支族长",
+    "洛兄",
+    "洛道友"
   ],
   "summary": "天星宗坊市炼器店主，仅炼气期但家学渊源，靠徐家世代供养的火鸦妖火可炼顶阶法器。",
   "attributes": {
-    "小阶段": "元婴",
+    "小阶段": "合体期",
     "身份": "谷家分支族长",
     "外貌": "白发苍苍、满脸皱纹、年近花甲",
     "性格": "炼器成痴",
     "性别": "男",
-    "标志特征": "精通制符术"
+    "标志特征": "精通制符术",
+    "阵营": "圣岛"
   },
   "observations": {
     "小阶段": [
@@ -29,6 +32,11 @@
         "value": "元婴",
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
+      },
+      {
+        "value": "合体期",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "身份": [
@@ -90,15 +98,22 @@
         "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
         "seq": 601
       }
+    ],
+    "阵营": [
+      {
+        "value": "圣岛",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
     ]
   },
   "firstSeq": 217,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1747
+      "seq": 1951
     },
     "身份": {
       "asOf": null,
@@ -129,6 +144,12 @@
       "docId": "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
       "dated": false,
       "seq": 601
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
     }
   },
   "contested": false,
@@ -137,7 +158,8 @@
     "plot.fanren-217-222-jizhidian-dongfu-lingyan-quan",
     "plot.fanren-223-228-midian-jingmai-auction",
     "plot.fanren-601-606-luoyunzong-yaoyuan-anzha",
-    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family"
+    "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T04:36:13.352Z"
+  "updatedAt": "2026-06-21T10:04:34.925Z"
 }

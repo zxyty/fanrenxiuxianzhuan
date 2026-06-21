@@ -9,8 +9,11 @@
   "attributes": {
     "种族": "妖族",
     "称号": "天奎狼王",
-    "身份": "妖王",
-    "标志特征": "六大化身、声音冰冷无感情"
+    "身份": "七大妖王之一（狼王）",
+    "标志特征": "六大化身、声音冰冷无感情",
+    "性别": "男",
+    "阵营": "妖族",
+    "性格": "背信、好色"
   },
   "observations": {
     "种族": [
@@ -47,6 +50,11 @@
         "value": "妖王",
         "docId": "plot.fanren-1789-tianhu-yaonu",
         "seq": 1783
+      },
+      {
+        "value": "七大妖王之一（狼王）",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "标志特征": [
@@ -59,6 +67,27 @@
         "value": "声音冰冷无感情",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
+    ],
+    "阵营": [
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
+    ],
+    "性格": [
+      {
+        "value": "背信、好色",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ]
   },
@@ -78,15 +107,33 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1789-tianhu-yaonu",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1783
+      "seq": 1951
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
       "dated": false,
       "seq": 1789
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
     }
   },
   "contested": false,
@@ -95,7 +142,8 @@
     "plot.fanren-1063-xuanwo-heifengqi",
     "plot.fanren-1305-battle-of-the-giant-hundun-valley",
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen"
+    "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T05:48:33.248Z"
+  "updatedAt": "2026-06-21T10:04:34.911Z"
 }

@@ -11,14 +11,16 @@
     "古魔之界",
     "真魔界",
     "魔界界面",
-    "魔族界面"
+    "魔族界面",
+    "demon realm"
   ],
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
-    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域、数万年一次与灵界重合降临魔劫、凶险，圣祖相当于人族大乘期、魔气遍布、高阶古魔无数、极度凶险、正侵蚀灵界",
+    "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域、数万年一次与灵界重合降临魔劫、凶险，圣祖相当于人族大乘期、魔气遍布、高阶古魔无数、极度凶险、正侵蚀灵界、三血红圆日、灰色沙漠、景色近似灵界",
     "通道": "魔斑",
-    "主宰势力": "圣族、古魔/圣祖一系、古魔、圣祖、古魔圣祖、魔界圣祖、魔族",
-    "层次": "魔界"
+    "主宰势力": "圣族、古魔/圣祖一系、古魔、圣祖、古魔圣祖、魔界圣祖、魔族、古魔/魔族",
+    "层次": "魔族界面",
+    "灵气浓度": "稀薄(魔气随地域浓淡)"
   },
   "observations": {
     "特点": [
@@ -71,6 +73,21 @@
         "value": "正侵蚀灵界",
         "docId": "plot.fanren-ch1881-mo-lin-cheng-xia",
         "seq": 1867
+      },
+      {
+        "value": "三血红圆日",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      },
+      {
+        "value": "灰色沙漠",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      },
+      {
+        "value": "景色近似灵界",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "通道": [
@@ -125,6 +142,11 @@
         "value": "魔族",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "古魔/魔族",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "层次": [
@@ -137,6 +159,18 @@
         "value": "魔界",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "魔族界面",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
+    ],
+    "灵气浓度": [
+      {
+        "value": "稀薄(魔气随地域浓淡)",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ]
   },
@@ -162,9 +196,15 @@
     },
     "层次": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1945
+      "seq": 1951
+    },
+    "灵气浓度": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
     }
   },
   "contested": false,
@@ -193,7 +233,8 @@
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
     "plot.fanren-ch1915-1920-blood-saint-clones-battle",
     "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:56:46.700Z"
+  "updatedAt": "2026-06-21T10:04:34.885Z"
 }

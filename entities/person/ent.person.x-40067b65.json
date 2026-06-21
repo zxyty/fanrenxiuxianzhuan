@@ -15,10 +15,11 @@
     "阵营": "魔族",
     "标志特征": "元神被困镇魔锁中",
     "种族": "魔族",
-    "身份": "镇魔锁内魔头",
+    "身份": "老魔",
     "外貌": "皂袍老者",
     "性格": "阴沉",
-    "存殁": "元神被困镇魔锁"
+    "存殁": "元神被困镇魔锁",
+    "结局": "随镇魔锁沉入魔界地下冰河"
   },
   "observations": {
     "称号": [
@@ -74,6 +75,11 @@
         "value": "镇魔锁内魔头",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
+      },
+      {
+        "value": "老魔",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "外貌": [
@@ -117,6 +123,14 @@
         "seq": 1909,
         "note": "肉身已失，仅余元神"
       }
+    ],
+    "结局": [
+      {
+        "value": "随镇魔锁沉入魔界地下冰河",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951,
+        "note": "被韩立弃置"
+      }
     ]
   },
   "firstSeq": 1891,
@@ -147,9 +161,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1927
+      "seq": 1951
     },
     "外貌": {
       "asOf": null,
@@ -169,6 +183,13 @@
       "dated": false,
       "seq": 1909,
       "note": "肉身已失，仅余元神"
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951,
+      "note": "被韩立弃置"
     }
   },
   "contested": false,
@@ -180,7 +201,8 @@
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
     "plot.fanren-1935-fei-cheng",
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:56:46.723Z"
+  "updatedAt": "2026-06-21T10:04:34.872Z"
 }

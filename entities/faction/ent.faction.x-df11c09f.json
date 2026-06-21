@@ -6,13 +6,15 @@
     "灵族圣岛",
     "圣岛使者",
     "Holy Island",
-    "圣岛一脉"
+    "圣岛一脉",
+    "圣岛长老会"
   ],
   "summary": "人族顶尖势力，与莫简离并为人族抵御魔劫的信心所系。",
   "attributes": {
-    "阵营": "人族",
+    "阵营": "人妖两族联合",
     "所属界面": "灵界",
-    "镇派之宝": "银霄雷网、银霄雷网（外借灵宝）、下半部祭雷术法决"
+    "镇派之宝": "银霄雷网、银霄雷网（外借灵宝）、下半部祭雷术法决",
+    "理念": "抵御魔族入侵、应对魔劫"
   },
   "observations": {
     "阵营": [
@@ -20,6 +22,11 @@
         "value": "人族",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "人妖两族联合",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "所属界面": [
@@ -45,15 +52,22 @@
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
       }
+    ],
+    "理念": [
+      {
+        "value": "抵御魔族入侵、应对魔劫",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
     ]
   },
   "firstSeq": 1759,
   "attrProvenance": {
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1921
+      "seq": 1951
     },
     "所属界面": {
       "asOf": null,
@@ -66,6 +80,12 @@
       "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
       "dated": false,
       "seq": 1921
+    },
+    "理念": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
     }
   },
   "contested": false,
@@ -76,7 +96,8 @@
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
     "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
     "plot.fanren-1935-fei-cheng",
-    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:20:35.125Z"
+  "updatedAt": "2026-06-21T10:04:34.932Z"
 }

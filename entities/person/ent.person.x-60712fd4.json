@@ -6,10 +6,11 @@
   "summary": "镇魔锁中另一魔头，黑色战甲、络腮胡子，已修成牵机大法，自称另有混沌之气提取法，索三分之一为交易。",
   "attributes": {
     "外貌": "黑盔黑甲",
-    "身份": "镇魔锁内魔头",
+    "身份": "老魔",
     "标志特征": "牵机大法",
     "种族": "魔族",
-    "阵营": "魔族"
+    "阵营": "魔族",
+    "结局": "随镇魔锁沉入魔界地下冰河"
   },
   "observations": {
     "外貌": [
@@ -29,6 +30,11 @@
         "value": "镇魔锁内魔头",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
+      },
+      {
+        "value": "老魔",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "标志特征": [
@@ -51,6 +57,14 @@
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
       }
+    ],
+    "结局": [
+      {
+        "value": "随镇魔锁沉入魔界地下冰河",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951,
+        "note": "被韩立弃置"
+      }
     ]
   },
   "firstSeq": 1927,
@@ -63,9 +77,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1927
+      "seq": 1951
     },
     "标志特征": {
       "asOf": null,
@@ -84,13 +98,21 @@
       "docId": "plot.fanren-1958-huanri-shentong-baoshu",
       "dated": false,
       "seq": 1945
+    },
+    "结局": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951,
+      "note": "被韩立弃置"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1943-1944-fenshou-fengxie-qianji",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T09:56:46.720Z"
+  "updatedAt": "2026-06-21T10:04:34.875Z"
 }

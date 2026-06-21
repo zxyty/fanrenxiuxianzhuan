@@ -8,16 +8,20 @@
     "老狼",
     "敖啸老狼",
     "敖啸前辈",
-    "敖啸老祖宗"
+    "敖啸老祖宗",
+    "敖前辈",
+    "长发男子"
   ],
   "summary": "妖族七大妖王之一，玲珑之祖父，修啸月妖功，连元刹圣祖都为之忌惮。",
   "attributes": {
-    "种族": "银月一族（银月狼族）、妖族(银狼)、银月狼族",
-    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中",
-    "称号": "两族大乘、定海神针",
-    "标志特征": "啸月妖功",
+    "种族": "银月一族（银月狼族）、妖族(银狼)、银月狼族、妖族",
+    "身份": "妖族七大妖王之一、七大妖王之一、闭关恢复中、妖族唯一大乘、银月之祖父",
+    "称号": "敖啸老祖",
+    "标志特征": "觉醒月体",
     "小阶段": "大乘期",
-    "存殁": "存活"
+    "存殁": "存活",
+    "性别": "男",
+    "外貌": "银袍、乌黑长直披腰、面若处子的三十余岁男子"
   },
   "observations": {
     "种族": [
@@ -35,6 +39,11 @@
         "value": "银月狼族",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "身份": [
@@ -53,6 +62,11 @@
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759,
         "note": "渡第二十一次大天劫损耗元气"
+      },
+      {
+        "value": "妖族唯一大乘、银月之祖父",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "称号": [
@@ -65,6 +79,11 @@
         "value": "两族大乘、定海神针",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "敖啸老祖",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "标志特征": [
@@ -72,6 +91,11 @@
         "value": "啸月妖功",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "觉醒月体",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ],
     "小阶段": [
@@ -86,6 +110,20 @@
         "value": "存活",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      }
+    ],
+    "性别": [
+      {
+        "value": "男",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银袍、乌黑长直披腰、面若处子的三十余岁男子",
+        "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+        "seq": 1951
       }
     ]
   },
@@ -105,15 +143,15 @@
     },
     "称号": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1759
+      "seq": 1951
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
       "dated": false,
-      "seq": 1057
+      "seq": 1951
     },
     "小阶段": {
       "asOf": null,
@@ -126,6 +164,18 @@
       "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
       "dated": false,
       "seq": 1759
+    },
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1951-1956-qianru-mojie-dixia-binghe",
+      "dated": false,
+      "seq": 1951
     }
   },
   "contested": false,
@@ -133,7 +183,8 @@
   "docs": [
     "plot.fanren-ch1057-sanbao-lianshou",
     "plot.fanren-1057-three-treasures-joint-attack",
-    "plot.fanren-1765-xujia-bingpo-xianzi-descendant"
+    "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+    "plot.fanren-1951-1956-qianru-mojie-dixia-binghe"
   ],
-  "updatedAt": "2026-06-21T05:04:10.127Z"
+  "updatedAt": "2026-06-21T10:04:34.897Z"
 }
