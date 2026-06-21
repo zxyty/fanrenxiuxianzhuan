@@ -14,11 +14,11 @@
   "attributes": {
     "性别": "女",
     "种族": "人族",
-    "外貌": "身材高挑、皮肤雪白",
+    "外貌": "二十余岁、面容白皙秀美、蓝色宫装",
     "阵营": "许家、人族",
     "身份": "天渊城附近修士、许家大小姐、许家弟子、许家修士",
-    "小阶段": "化神期",
-    "出身地": "许世家族"
+    "小阶段": "炼虚",
+    "出身地": "许家"
   },
   "observations": {
     "性别": [
@@ -40,6 +40,11 @@
         "value": "身材高挑、皮肤雪白",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "二十余岁、面容白皙秀美、蓝色宫装",
+        "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+        "seq": 2155
       }
     ],
     "阵营": [
@@ -81,6 +86,12 @@
         "value": "化神期",
         "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
         "seq": 1759
+      },
+      {
+        "value": "炼虚",
+        "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+        "seq": 2155,
+        "note": "本片段已进阶；初识时较低"
       }
     ],
     "出身地": [
@@ -88,6 +99,11 @@
         "value": "许世家族",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "许家",
+        "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+        "seq": 2155
       }
     ]
   },
@@ -107,9 +123,9 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
       "dated": false,
-      "seq": 1921
+      "seq": 2155
     },
     "阵营": {
       "asOf": null,
@@ -125,15 +141,16 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
+      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
       "dated": false,
-      "seq": 1759
+      "seq": 2155,
+      "note": "本片段已进阶；初识时较低"
     },
     "出身地": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng",
+      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
       "dated": false,
-      "seq": 1921
+      "seq": 2155
     }
   },
   "contested": false,
@@ -142,7 +159,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1765-xujia-bingpo-xianzi-descendant",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.fanren-2174-2178-hanli-mahayana-tribulation"
   ],
-  "updatedAt": "2026-06-21T09:16:08.460Z"
+  "updatedAt": "2026-06-21T14:49:40.672Z"
 }

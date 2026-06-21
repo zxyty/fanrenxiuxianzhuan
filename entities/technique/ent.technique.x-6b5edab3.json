@@ -4,14 +4,16 @@
   "name": "轮回功",
   "aliases": [
     "素女功",
-    "**轮回功"
+    "**轮回功",
+    "轮回功法"
   ],
   "summary": "南宫婉独门功法,可春颜永驻;每隔数十年法力轮回、人变回年幼,功法已大成。",
   "attributes": {
     "出处": "南宫婉独门功法、南宫婉、朱果儿之母传授、人界邀月宗曾得传承",
     "效果": "春颜永驻、每隔数十年法力轮回变回年幼、破身仅损五六年法力、轮回期可将禁制法力暂传给男子、不能自解禁、不能传给女子、所传法力受受者境界限制、修炼至轮回之期会掩盖真实修为",
     "外显异象": "容貌随法力轮回幼化",
-    "适用境界": "结丹期、轮回期、结丹、元婴及以上"
+    "适用境界": "结丹期、轮回期、结丹、元婴及以上",
+    "修炼条件": "汲取朝阳初升之精"
   },
   "observations": {
     "出处": [
@@ -101,6 +103,13 @@
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
       }
+    ],
+    "修炼条件": [
+      {
+        "value": "汲取朝阳初升之精",
+        "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+        "seq": 2155
+      }
     ]
   },
   "firstSeq": 205,
@@ -128,6 +137,12 @@
       "docId": "plot.fanren-c205-210-tujiao-yu-nangong",
       "dated": false,
       "seq": 205
+    },
+    "修炼条件": {
+      "asOf": null,
+      "docId": "plot.fanren-2174-2178-hanli-mahayana-tribulation",
+      "dated": false,
+      "seq": 2155
     }
   },
   "contested": false,
@@ -137,7 +152,8 @@
     "plot.fanren-787-792-tunmo-jigui-jixizhidi",
     "plot.fanren-787-tun-mo-dan-gui",
     "plot.fanren-2044-bai-yunxin",
-    "plot.fanren-2050-2051-xiaolingtian-futianjushi"
+    "plot.fanren-2050-2051-xiaolingtian-futianjushi",
+    "plot.fanren-2174-2178-hanli-mahayana-tribulation"
   ],
-  "updatedAt": "2026-06-21T11:48:24.188Z"
+  "updatedAt": "2026-06-21T14:49:40.681Z"
 }
