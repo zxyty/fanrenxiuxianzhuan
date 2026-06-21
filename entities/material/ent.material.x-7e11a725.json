@@ -5,14 +5,16 @@
   "aliases": [
     "金木极元晶",
     "金属性极元晶",
-    "木属性极元晶"
+    "木属性极元晶",
+    "金极元晶",
+    "木极元晶"
   ],
   "summary": "需引下特定属性天地之力炼制的晶石，须寻特殊灵地并由占卜师预测星辰之力变化时期方能成功；金木两属性尤难。",
   "attributes": {
-    "类型": "炼制晶石",
+    "类型": "极品晶材",
     "用途": "炼制（用途未明说，需金/木等属性天地之力）",
     "稀有度": "极稀有",
-    "产地": "特殊灵地引天地之力炼成"
+    "产地": "越隆炼制"
   },
   "observations": {
     "类型": [
@@ -20,6 +22,11 @@
         "value": "炼制晶石",
         "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
         "seq": 2287
+      },
+      {
+        "value": "极品晶材",
+        "docId": "plot.fanren-2293-2298-qingyuan-jie",
+        "seq": 2293
       }
     ],
     "用途": [
@@ -41,6 +48,11 @@
         "value": "特殊灵地引天地之力炼成",
         "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
         "seq": 2287
+      },
+      {
+        "value": "越隆炼制",
+        "docId": "plot.fanren-2293-2298-qingyuan-jie",
+        "seq": 2293
       }
     ]
   },
@@ -48,9 +60,9 @@
   "attrProvenance": {
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
+      "docId": "plot.fanren-2293-2298-qingyuan-jie",
       "dated": false,
-      "seq": 2287
+      "seq": 2293
     },
     "用途": {
       "asOf": null,
@@ -66,15 +78,16 @@
     },
     "产地": {
       "asOf": null,
-      "docId": "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
+      "docId": "plot.fanren-2293-2298-qingyuan-jie",
       "dated": false,
-      "seq": 2287
+      "seq": 2293
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing"
+    "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
+    "plot.fanren-2293-2298-qingyuan-jie"
   ],
-  "updatedAt": "2026-06-21T17:28:48.244Z"
+  "updatedAt": "2026-06-21T17:31:29.382Z"
 }
