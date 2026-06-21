@@ -7,13 +7,14 @@
     "古魔界圣族",
     "魔界",
     "圣族所在魔界",
-    "古魔界界面"
+    "古魔界界面",
+    "古魔之界"
   ],
   "summary": "与人界最相似的界面，古魔的来历之地；上古魔功修至极致者传闻飞升于此。",
   "attributes": {
     "特点": "与人界最相似，古魔聚居、魔功源头、曾入侵人界、古魔聚居、与人界相似、古魔来源、曾入侵、真魔气、魔气界域",
     "通道": "魔金山脉空间裂缝",
-    "主宰势力": "圣族"
+    "主宰势力": "古魔/圣祖一系"
   },
   "observations": {
     "特点": [
@@ -60,6 +61,11 @@
         "value": "圣族",
         "docId": "plot.fanren-1057-three-treasures-joint-attack",
         "seq": 1057
+      },
+      {
+        "value": "古魔/圣祖一系",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ]
   },
@@ -79,9 +85,9 @@
     },
     "主宰势力": {
       "asOf": null,
-      "docId": "plot.fanren-1057-three-treasures-joint-attack",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 1057
+      "seq": 1645
     }
   },
   "contested": false,
@@ -95,7 +101,8 @@
     "plot.fanren-ch1033-pozhen-tuokun",
     "plot.fanren-1057-three-treasures-joint-attack",
     "plot.fanren-1063-xuanwo",
-    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan"
+    "plot.fanren-1625-1630-mojuyuan-xuantian-miezuan",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-21T01:28:06.152Z"
+  "updatedAt": "2026-06-21T02:18:49.541Z"
 }

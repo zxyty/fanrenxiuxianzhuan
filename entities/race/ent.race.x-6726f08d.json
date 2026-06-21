@@ -7,8 +7,10 @@
   ],
   "summary": "上古曾称霸灵界之族，几乎将灵界金雷竹及其拥有者灭杀殆尽。",
   "attributes": {
-    "特性": "上古霸主、上古大族,受辟邪神雷克制、上古霸主、克于辟邪神雷",
-    "天敌": "辟邪神雷"
+    "特性": "上古霸主、上古大族,受辟邪神雷克制、上古霸主、克于辟邪神雷、真灵血脉中魔性最强",
+    "天敌": "辟邪神雷",
+    "天赋神通": "可吞噬天外魔头、争锋天外魔君",
+    "代表人物": "黑渊鳄"
   },
   "observations": {
     "特性": [
@@ -26,6 +28,11 @@
         "value": "上古霸主、克于辟邪神雷",
         "docId": "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
         "seq": 1453
+      },
+      {
+        "value": "真灵血脉中魔性最强",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "天敌": [
@@ -33,6 +40,20 @@
         "value": "辟邪神雷",
         "docId": "plot.fanren-1457-taodun-didi-escape",
         "seq": 1453
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "可吞噬天外魔头、争锋天外魔君",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "代表人物": [
+      {
+        "value": "黑渊鳄",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ]
   },
@@ -49,13 +70,26 @@
       "docId": "plot.fanren-1457-taodun-didi-escape",
       "dated": false,
       "seq": 1453
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1457-taodun-didi-escape",
-    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei"
+    "plot.fanren-1457-1462-muqing-captures-hanli-bixie-shenlei",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-20T12:11:10.210Z"
+  "updatedAt": "2026-06-21T02:18:49.591Z"
 }

@@ -14,9 +14,10 @@
   "summary": "罕见修炼到人形的灵药，精通土木两种遁术并修成浮光化影远遁神通；击伤一名修炼者后被金元禁光反击，逃入魔金山脉，其灵仙血价值连城。",
   "attributes": {
     "种族": "灵药化形",
-    "能力": "土木遁术、浮光化影远遁神通、遁术、隐匿、特殊神通、幻化四肢（未完成）",
+    "能力": "土木遁术、浮光化影远遁神通、遁术、隐匿、特殊神通、幻化四肢（未完成）、炼身外化身/寄附元神",
     "栖息地": "魔金山脉、魔金山脉外围",
-    "外形": "翠绿脸孔紫根须、枯木黄甲、紫色符文"
+    "外形": "翠绿脸孔紫根须、枯木黄甲、紫色符文",
+    "等级": "与化形魔魈同等"
   },
   "observations": {
     "种族": [
@@ -56,6 +57,11 @@
         "value": "幻化四肢（未完成）",
         "docId": "plot.fanren-1643-de-jing",
         "seq": 1639
+      },
+      {
+        "value": "炼身外化身/寄附元神",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "栖息地": [
@@ -87,6 +93,13 @@
         "docId": "plot.fanren-1643-de-jing",
         "seq": 1639
       }
+    ],
+    "等级": [
+      {
+        "value": "与化形魔魈同等",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
     ]
   },
   "firstSeq": 1603,
@@ -115,6 +128,12 @@
       "docId": "plot.fanren-1643-de-jing",
       "dated": false,
       "seq": 1639
+    },
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
@@ -125,7 +144,8 @@
     "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
     "plot.fanren-1619-shalu-mojin-shanmai",
     "plot.fanren-ch1637-tulao-wugong",
-    "plot.fanren-1643-de-jing"
+    "plot.fanren-1643-de-jing",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-21T02:00:30.332Z"
+  "updatedAt": "2026-06-21T02:18:49.556Z"
 }

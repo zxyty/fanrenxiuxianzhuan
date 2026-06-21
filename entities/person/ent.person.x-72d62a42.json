@@ -9,9 +9,11 @@
   ],
   "summary": "石茧族修士，炼虚顶阶（上族九阶），秃头灰白皮肤、容貌狰狞而言语客气，邀韩立同赴四族拍卖会欲竞拍万妙丹。",
   "attributes": {
-    "种族": "石茧族",
+    "种族": "古魔",
     "小阶段": "炼虚顶阶",
-    "外貌": "秃头、皮肤灰白、容貌凶恶"
+    "外貌": "青袍男子",
+    "身份": "魔金山脉镇守者(三魔之一)",
+    "性格": "胸有成竹、与多眼不睦"
   },
   "observations": {
     "种族": [
@@ -19,6 +21,11 @@
         "value": "石茧族",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "小阶段": [
@@ -34,6 +41,25 @@
         "value": "秃头、皮肤灰白、容貌凶恶",
         "docId": "plot.fanren-1586-qianjizi",
         "seq": 1585
+      },
+      {
+        "value": "青袍男子",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔金山脉镇守者(三魔之一)",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "性格": [
+      {
+        "value": "胸有成竹、与多眼不睦",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ]
   },
@@ -41,9 +67,9 @@
   "attrProvenance": {
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 1585
+      "seq": 1645
     },
     "小阶段": {
       "asOf": null,
@@ -54,15 +80,28 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1586-qianjizi",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 1585
+      "seq": 1645
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "性格": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1586-qianjizi"
+    "plot.fanren-1586-qianjizi",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-20T16:11:25.752Z"
+  "updatedAt": "2026-06-21T02:18:49.533Z"
 }

@@ -4,15 +4,16 @@
   "name": "真灵之穴",
   "aliases": [
     "灵穴",
-    "真灵穴"
+    "真灵穴",
+    "真灵之穴穴灵"
   ],
   "summary": "麒影记忆中最重要之物，将于这两年开启，得手者修炼可一日千里；位于魔金山脉内，眼下被一头负伤的圣阶魔兽占据。",
   "attributes": {
-    "类型": "秘穴/机缘之地、秘穴/夺宝之地、真灵秘穴、秘地/真灵孕育之所",
-    "危险度": "极高（圣阶魔兽看守、魔气凶猛）",
+    "类型": "秘穴/机缘之地、秘穴/夺宝之地、真灵秘穴、秘地/真灵孕育之所、上古秘穴",
+    "危险度": "极高",
     "所属界面": "灵界",
     "守护": "圣阶魔兽、穴灵",
-    "特产": "真麟本源、穴灵"
+    "特产": "真麟本源"
   },
   "observations": {
     "类型": [
@@ -35,6 +36,11 @@
         "value": "秘地/真灵孕育之所",
         "docId": "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
         "seq": 1627
+      },
+      {
+        "value": "上古秘穴",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "危险度": [
@@ -47,6 +53,11 @@
         "value": "极高（圣阶魔兽看守、魔气凶猛）",
         "docId": "plot.fanren-1619-shalu-mojin-shanmai",
         "seq": 1615
+      },
+      {
+        "value": "极高",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "所属界面": [
@@ -78,6 +89,11 @@
         "value": "真麟本源、穴灵",
         "docId": "plot.fanren-ch1637-tulao-wugong",
         "seq": 1633
+      },
+      {
+        "value": "真麟本源",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ]
   },
@@ -91,9 +107,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.fanren-1619-shalu-mojin-shanmai",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 1615
+      "seq": 1645
     },
     "所属界面": {
       "asOf": null,
@@ -109,9 +125,9 @@
     },
     "特产": {
       "asOf": null,
-      "docId": "plot.fanren-ch1637-tulao-wugong",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 1633
+      "seq": 1645
     }
   },
   "contested": false,
@@ -120,7 +136,8 @@
     "plot.fanren-ch1607-qiying-zhixian",
     "plot.fanren-1619-shalu-mojin-shanmai",
     "plot.fanren-1627-1632-xuantian-lianqi-shu-zhenlin-benyuan",
-    "plot.fanren-ch1637-tulao-wugong"
+    "plot.fanren-ch1637-tulao-wugong",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-21T01:48:19.353Z"
+  "updatedAt": "2026-06-21T02:18:49.574Z"
 }

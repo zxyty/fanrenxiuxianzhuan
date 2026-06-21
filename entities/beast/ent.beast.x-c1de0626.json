@@ -3,14 +3,16 @@
   "type": "beast",
   "name": "多眼魔",
   "aliases": [
-    "高阶多眼魔"
+    "高阶多眼魔",
+    "多眼老魔"
   ],
   "summary": "脸颊布满十几只血红妖目的高阶魔兽，精通迷惑摄魂之术，能驱使联合其他魔兽；本章被韩立斩杀。",
   "attributes": {
     "等级": "高阶(上族七八阶)",
     "能力": "迷惑摄魂之术、驱使联合魔兽",
     "栖息地": "魔金山脉深处",
-    "外形": "状似猿猴、脸生十余只血红妖目"
+    "外形": "状似猿猴、脸生十余只血红妖目",
+    "种族": "圣阶魔兽"
   },
   "observations": {
     "等级": [
@@ -45,6 +47,13 @@
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
       }
+    ],
+    "种族": [
+      {
+        "value": "圣阶魔兽",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
     ]
   },
   "firstSeq": 1609,
@@ -72,12 +81,19 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-21T01:12:46.246Z"
+  "updatedAt": "2026-06-21T02:18:49.551Z"
 }

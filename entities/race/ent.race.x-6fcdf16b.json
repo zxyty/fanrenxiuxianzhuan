@@ -28,15 +28,17 @@
     "古魔主魂",
     "古魔魔头",
     "一只头颅古魔",
-    "天南古魔"
+    "天南古魔",
+    "古魔族"
   ],
   "summary": "上古魔界中的存在，非人族非妖兽，形态各异，神通诡异厉害，曾肆虐上古人间界。",
   "attributes": {
-    "聚居地": "坠魔谷",
+    "聚居地": "古魔界",
     "特性": "神通诡异、形态各异；同阶人族修士必死无疑、人界飞升者保人形，妖族飞升者形貌恶形恶状、神通诡异，同阶人族难敌、凶残好斗、可附身夺舍、污秽古宝、人界魔修飞升者保持人形神智、原始妖魔为顶阶『圣祖』、魔修施法需召唤其名讳借魔气、三头六臂、吞噬元婴回复实力、真魔气",
     "天赋神通": "魔功神通、血影遁、木遁术、夺舍",
     "阵营": "魔道",
-    "天敌": "辟邪神雷"
+    "天敌": "辟邪神雷",
+    "代表人物": "铁兄、血臂、多眼"
   },
   "observations": {
     "聚居地": [
@@ -54,6 +56,11 @@
         "value": "坠魔谷",
         "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
         "seq": 865
+      },
+      {
+        "value": "古魔界",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ],
     "特性": [
@@ -164,15 +171,32 @@
         "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
         "seq": 841
       }
+    ],
+    "代表人物": [
+      {
+        "value": "铁兄",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      },
+      {
+        "value": "血臂",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      },
+      {
+        "value": "多眼",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
     ]
   },
   "firstSeq": 793,
   "attrProvenance": {
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-865-870-zhiyang-invitation-and-duel",
+      "docId": "plot.fanren-1649-san-mo",
       "dated": false,
-      "seq": 865
+      "seq": 1645
     },
     "特性": {
       "asOf": null,
@@ -197,6 +221,12 @@
       "docId": "plot.fanren-841-846-zhuimogu-lianshou-kangmo",
       "dated": false,
       "seq": 841
+    },
+    "代表人物": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
@@ -219,7 +249,8 @@
     "plot.fanren-ch853-858-jiangyun-dan-tuoshen",
     "plot.fanren-ch973-minghe-zhiye",
     "plot.fanren-ch991-996-kunwu-shan-peiying-dan",
-    "plot.fanren-1208-xinggong-war-9"
+    "plot.fanren-1208-xinggong-war-9",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-20T05:34:10.359Z"
+  "updatedAt": "2026-06-21T02:18:49.543Z"
 }

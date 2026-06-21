@@ -1,0 +1,53 @@
+{
+  "id": "ent.person.x-bdbda8b3",
+  "type": "person",
+  "name": "冥罗",
+  "aliases": [
+    "冥罗大人",
+    "冥罗妹妹"
+  ],
+  "summary": "魔金山脉旧人/大人，黑渊鳄原主人，本片段仅被提及。",
+  "attributes": {
+    "性别": "女",
+    "存殁": "失踪"
+  },
+  "observations": {
+    "性别": [
+      {
+        "value": "女",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "存殁": [
+      {
+        "value": "失踪",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645,
+        "note": "圣界大战中失踪"
+      }
+    ]
+  },
+  "firstSeq": 1645,
+  "attrProvenance": {
+    "性别": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645,
+      "note": "圣界大战中失踪"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1649-san-mo"
+  ],
+  "updatedAt": "2026-06-21T02:18:49.584Z"
+}

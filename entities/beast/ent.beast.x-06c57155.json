@@ -1,0 +1,86 @@
+{
+  "id": "ent.beast.x-06c57155",
+  "type": "beast",
+  "name": "黑渊鳄",
+  "aliases": [
+    "小魔鳄",
+    "黑鳄"
+  ],
+  "summary": "刚进阶圣阶的魔鳄，曾为冥罗圣祖坐骑；疑助血瑛毁去铁兄化身。",
+  "attributes": {
+    "等级": "圣阶、圣阶（新晋）",
+    "主人": "冥罗",
+    "血脉": "邪龙真血",
+    "外形": "黑色长袍黝黑丑陋大汉"
+  },
+  "observations": {
+    "等级": [
+      {
+        "value": "圣阶",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      },
+      {
+        "value": "圣阶（新晋）",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "主人": [
+      {
+        "value": "冥罗",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "血脉": [
+      {
+        "value": "邪龙真血",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "外形": [
+      {
+        "value": "黑色长袍黝黑丑陋大汉",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645,
+        "note": "化形人身"
+      }
+    ]
+  },
+  "firstSeq": 1645,
+  "attrProvenance": {
+    "等级": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "血脉": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645,
+      "note": "化形人身"
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1649-san-mo"
+  ],
+  "updatedAt": "2026-06-21T02:18:49.582Z"
+}

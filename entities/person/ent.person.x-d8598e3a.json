@@ -3,12 +3,17 @@
   "type": "person",
   "name": "多眼魔老者",
   "aliases": [
-    "多眼"
+    "多眼",
+    "多眼兄",
+    "银袍儒雅老者"
   ],
   "summary": "被斩多眼魔少主之父，苍老古魔，誓为子复仇；因须先恭迎圣祖出关，遂留九夜追踪韩立。",
   "attributes": {
     "性格": "凶神恶煞、记仇",
-    "标志特征": "青色鳞片大手"
+    "标志特征": "青色鳞片大手",
+    "种族": "古魔",
+    "身份": "魔金山脉镇守者(三魔之一)",
+    "外貌": "银光闪闪、儒雅老者"
   },
   "observations": {
     "性格": [
@@ -23,6 +28,27 @@
         "value": "青色鳞片大手",
         "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
         "seq": 1609
+      }
+    ],
+    "种族": [
+      {
+        "value": "古魔",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "身份": [
+      {
+        "value": "魔金山脉镇守者(三魔之一)",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "外貌": [
+      {
+        "value": "银光闪闪、儒雅老者",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
       }
     ]
   },
@@ -39,12 +65,31 @@
       "docId": "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
       "dated": false,
       "seq": 1609
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai"
+    "plot.fanren-1609-1614-duoyan-mo-mojin-shanmai",
+    "plot.fanren-1649-san-mo"
   ],
-  "updatedAt": "2026-06-21T01:12:46.247Z"
+  "updatedAt": "2026-06-21T02:18:49.535Z"
 }

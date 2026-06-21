@@ -1,0 +1,100 @@
+{
+  "id": "ent.artifact.x-ae945176",
+  "type": "artifact",
+  "name": "玄天残宝",
+  "aliases": [
+    "玄天残件",
+    "残刃"
+  ],
+  "summary": "圣祖交三魔共同保管的玄天残宝，被魔猿偷走，疑被携往外界寻法修复以重返圣界。",
+  "attributes": {
+    "来历": "圣界圣祖所有",
+    "持有者": "魔猿、韩立",
+    "品阶": "玄天之宝",
+    "禁制": "神念探查被反弹、催动时吸取法相本源之力",
+    "外形": "半尺金色残刃、刃身残缺、金篆文符文"
+  },
+  "observations": {
+    "来历": [
+      {
+        "value": "圣界圣祖所有",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "持有者": [
+      {
+        "value": "魔猿",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645,
+        "note": "偷走"
+      },
+      {
+        "value": "韩立",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天之宝",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "禁制": [
+      {
+        "value": "神念探查被反弹、催动时吸取法相本源之力",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ],
+    "外形": [
+      {
+        "value": "半尺金色残刃、刃身残缺、金篆文符文",
+        "docId": "plot.fanren-1649-san-mo",
+        "seq": 1645
+      }
+    ]
+  },
+  "firstSeq": 1645,
+  "attrProvenance": {
+    "来历": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645,
+      "note": "偷走"
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1649-san-mo",
+      "dated": false,
+      "seq": 1645
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1649-san-mo"
+  ],
+  "updatedAt": "2026-06-21T02:18:49.589Z"
+}
