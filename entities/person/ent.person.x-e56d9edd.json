@@ -24,14 +24,15 @@
   "summary": "大乘级魔族圣祖，琉璃傀儡/紫言鼎/镇魔锁/巨塔等至宝之主，隔空神念威吓韩立，疑欲以本体破界降临；血袍少年为其一具化身。",
   "attributes": {
     "种族": "圣族",
-    "身份": "魔族圣祖、圣界圣祖、圣族首领/圣祖、圣祖、魔族高层、大乘魔修、魔界大能、圣祖级魔修、圣祖（三大化身借体降临灵界，本体在圣界）、夺占阳刹躯体化身降临灵界、统率魔族大军的圣祖、魔族圣祖（化身现身）、圣祖化身、血袍少年化身",
+    "身份": "魔族圣祖、圣界圣祖、圣族首领/圣祖、圣祖、魔族高层、大乘魔修、魔界大能、圣祖级魔修、圣祖（三大化身借体降临灵界，本体在圣界）、夺占阳刹躯体化身降临灵界、统率魔族大军的圣祖、魔族圣祖（化身现身）、圣祖化身、血袍少年化身、圣祖级",
     "小阶段": "大乘期",
     "阵营": "魔界、魔道/圣界、魔族、圣界、魔族/圣族、魔族/圣界、圣界/魔",
     "称号": "圣祖",
     "标志特征": "三缕分神化少年/巨魔，背生巨角魔影、八青色鬼头、四血翅、可分化三身、驾血色小舟、化身可一分为三、灰色魔甲、两对血红羽翅、颈生八青色鬼头、四血翅、八青色鬼头、血海魔相、修出众多化身、黑光魔眼",
     "存殁": "化身被击杀",
-    "外貌": "血袍清秀少年、目中血芒",
-    "性别": "男"
+    "外貌": "宫装女子，面被粉红光霞遮挡",
+    "性别": "女",
+    "寿元": "法力大损、伤势未愈"
   },
   "observations": {
     "种族": [
@@ -125,6 +126,11 @@
         "docId": "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
         "seq": 1987,
         "note": "本片段为其化身行动，被诛杀的是化身"
+      },
+      {
+        "value": "圣祖级",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "小阶段": [
@@ -299,6 +305,12 @@
         "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
         "seq": 1975,
         "note": "化身形态"
+      },
+      {
+        "value": "宫装女子，面被粉红光霞遮挡",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993,
+        "note": "化身"
       }
     ],
     "性别": [
@@ -306,6 +318,19 @@
         "value": "男",
         "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
         "seq": 1873
+      },
+      {
+        "value": "女",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993,
+        "note": "化身现宫装女子貌"
+      }
+    ],
+    "寿元": [
+      {
+        "value": "法力大损、伤势未愈",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ]
   },
@@ -356,16 +381,23 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-1975-1980-heti-houqi-diyimozun",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1975,
-      "note": "化身形态"
+      "seq": 1993,
+      "note": "化身"
     },
     "性别": {
       "asOf": null,
-      "docId": "plot.fanren-1873-1878-renmo-war-tianyuan-defense-yitian-rescue",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1873
+      "seq": 1993,
+      "note": "化身现宫装女子貌"
+    },
+    "寿元": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
     }
   },
   "contested": false,
@@ -389,7 +421,8 @@
     "plot.fanren-1958-huanri-shentong-baoshu",
     "plot.fanren-1975-1980-heti-houqi-diyimozun",
     "plot.tianyuan-great-war-1981-1986",
-    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu"
+    "plot.fanren-1987-1992-tianger-mie-di-taiji-tu",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-21T10:46:39.582Z"
+  "updatedAt": "2026-06-21T10:59:59.889Z"
 }

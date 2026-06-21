@@ -5,7 +5,8 @@
   "aliases": [
     "瘦削汉子",
     "廋削汉子",
-    "面黄肌瘦的瘦削汉子"
+    "面黄肌瘦的瘦削汉子",
+    "粗布衣衫瘦削汉子"
   ],
   "summary": "面黄肌瘦的筑基中期散修，与两名星宫修士串通抬高传送费压榨同伴，被韩立握住把柄逼让传送名额，事后被星宫顾前辈灭口杀死。",
   "attributes": {
@@ -14,7 +15,9 @@
     "身份": "散修",
     "阵营": "散修",
     "存殁": "死亡",
-    "死因": "知情过多被星宫顾前辈黄光法宝斩杀焚尸（第509章）、被顾前辈以法宝斩杀灭口（第509章）"
+    "死因": "知情过多被星宫顾前辈黄光法宝斩杀焚尸（第509章）、被顾前辈以法宝斩杀灭口（第509章）",
+    "种族": "灵族",
+    "外貌": "粗布衣衫的瘦削汉子"
   },
   "observations": {
     "性别": [
@@ -63,6 +66,20 @@
         "docId": "plot.fanren-ch505-510-escape-to-outer-star-sea",
         "seq": 505
       }
+    ],
+    "种族": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ],
+    "外貌": [
+      {
+        "value": "粗布衣衫的瘦削汉子",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
     ]
   },
   "firstSeq": 505,
@@ -102,13 +119,26 @@
       "docId": "plot.fanren-ch505-510-hunru-heishicheng",
       "dated": false,
       "seq": 505
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-ch505-510-hunru-heishicheng",
-    "plot.fanren-ch505-510-escape-to-outer-star-sea"
+    "plot.fanren-ch505-510-escape-to-outer-star-sea",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-17T06:08:39.574Z"
+  "updatedAt": "2026-06-21T10:59:59.859Z"
 }

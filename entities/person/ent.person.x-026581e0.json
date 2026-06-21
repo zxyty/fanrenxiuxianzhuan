@@ -9,9 +9,11 @@
   "attributes": {
     "外貌": "羽衣少女",
     "身份": "老祖、叶家代战修士、叶家修士",
-    "阵营": "叶家",
+    "阵营": "人族",
     "小阶段": "合体中期以上",
-    "性别": "女"
+    "性别": "女",
+    "种族": "人族",
+    "标志特征": "天凤血脉"
   },
   "observations": {
     "外貌": [
@@ -49,6 +51,11 @@
         "value": "叶家",
         "docId": "plot.fanren-1825-1826-wanlingtai",
         "seq": 1819
+      },
+      {
+        "value": "人族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "小阶段": [
@@ -69,6 +76,20 @@
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
       }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "天凤血脉",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
     ]
   },
   "firstSeq": 1819,
@@ -87,9 +108,9 @@
     },
     "阵营": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1819
+      "seq": 1993
     },
     "小阶段": {
       "asOf": null,
@@ -102,6 +123,18 @@
       "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
       "seq": 1825
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
     }
   },
   "contested": false,
@@ -109,7 +142,8 @@
   "docs": [
     "plot.fanren-1825-1826-wanlingtai",
     "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-21T06:38:29.141Z"
+  "updatedAt": "2026-06-21T10:59:59.888Z"
 }

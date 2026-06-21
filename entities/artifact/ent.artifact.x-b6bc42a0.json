@@ -12,11 +12,11 @@
   "summary": "圣界玄天之宝，圣祖曾以毁之为代价劈塌界面通道；被毁后一分为三由三魔保管，残片无法修补，可持之防身使神通狂涨小半。",
   "attributes": {
     "品阶": "圣界宝物残片",
-    "来历": "宝树旧物，被魔猿盗出后落入韩立手中",
+    "来历": "玄天残物",
     "能力": "曾劈塌界面通道",
     "禁制": "已毁分为三片",
     "持有者": "圣祖、三魔分持、韩立、宝树、黑鳄",
-    "外形": "数寸长金色断刃"
+    "外形": "刃形"
   },
   "observations": {
     "品阶": [
@@ -46,6 +46,11 @@
         "value": "宝树旧物，被魔猿盗出后落入韩立手中",
         "docId": "plot.fanren-1958-huanri-shentong-baoshu",
         "seq": 1945
+      },
+      {
+        "value": "玄天残物",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "能力": [
@@ -94,6 +99,11 @@
         "value": "数寸长金色断刃",
         "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
         "seq": 1939
+      },
+      {
+        "value": "刃形",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ]
   },
@@ -107,9 +117,9 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1958-huanri-shentong-baoshu",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1945
+      "seq": 1993
     },
     "能力": {
       "asOf": null,
@@ -131,9 +141,9 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1939
+      "seq": 1993
     }
   },
   "contested": false,
@@ -141,7 +151,8 @@
   "docs": [
     "plot.fanren-1649-san-mo",
     "plot.fanren-1939-1944-zhui-ying-yuan-dun-hei-guan",
-    "plot.fanren-1958-huanri-shentong-baoshu"
+    "plot.fanren-1958-huanri-shentong-baoshu",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-21T09:56:46.615Z"
+  "updatedAt": "2026-06-21T10:59:59.868Z"
 }

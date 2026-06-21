@@ -5,16 +5,19 @@
   "aliases": [
     "叶仙子",
     "叶家太上长老",
-    "叶家仙子"
+    "叶家仙子",
+    "五色羽衣少女",
+    "叶家先祖之后"
   ],
   "summary": "叶家太上长老，外貌为羽衣少女实则老气横生，抽得5号轮空。",
   "attributes": {
-    "外貌": "羽衣少女",
-    "身份": "叶家修士",
+    "外貌": "五色羽衣貌美少女",
+    "身份": "真灵世家叶家老祖",
     "阵营": "人族真灵世家叶家",
     "性别": "女",
-    "小阶段": "合体期",
-    "标志特征": "天凤血统、破碎虚空神通"
+    "小阶段": "合体",
+    "标志特征": "天凤血统、破碎虚空神通、继承叶家天凤血脉",
+    "种族": "人族"
   },
   "observations": {
     "外貌": [
@@ -22,6 +25,12 @@
         "value": "羽衣少女",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
         "seq": 1819
+      },
+      {
+        "value": "五色羽衣貌美少女",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993,
+        "note": "化形/显化之貌"
       }
     ],
     "身份": [
@@ -34,6 +43,11 @@
         "value": "叶家修士",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "真灵世家叶家老祖",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "阵营": [
@@ -55,6 +69,11 @@
         "value": "合体期",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "合体",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "标志特征": [
@@ -67,6 +86,18 @@
         "value": "破碎虚空神通",
         "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
         "seq": 1825
+      },
+      {
+        "value": "继承叶家天凤血脉",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ],
+    "种族": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ]
   },
@@ -74,15 +105,16 @@
   "attrProvenance": {
     "外貌": {
       "asOf": null,
-      "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1819
+      "seq": 1993,
+      "note": "化形/显化之貌"
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1825
+      "seq": 1993
     },
     "阵营": {
       "asOf": null,
@@ -98,22 +130,29 @@
     },
     "小阶段": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1825
+      "seq": 1993
     },
     "标志特征": {
       "asOf": null,
       "docId": "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
       "dated": false,
       "seq": 1825
+    },
+    "种族": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-21T06:38:29.196Z"
+  "updatedAt": "2026-06-21T10:59:59.787Z"
 }

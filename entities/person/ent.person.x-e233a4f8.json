@@ -14,10 +14,12 @@
   "summary": "器灵族圣女、四大圣灵之一，与合体修士同阶；黄袍圆脸少女模样，携万森轮盘与擎天战舟构造图来两族拍卖会献宝。",
   "attributes": {
     "性别": "女",
-    "种族": "器灵族",
+    "种族": "灵族",
     "身份": "器灵族圣女(四大圣灵之一)、器灵族代表、灵族联盟使者、器灵族圣女",
     "外貌": "黄袍圆脸十七八岁少女、十七八岁黄袍少女、黄袍少女（本体黄铜镜）、黄袍少女",
-    "称号": "千秋圣女"
+    "称号": "千秋圣女",
+    "小阶段": "合体后期",
+    "阵营": "灵族"
   },
   "observations": {
     "性别": [
@@ -32,6 +34,11 @@
         "value": "器灵族",
         "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
         "seq": 1789
+      },
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "身份": [
@@ -84,6 +91,20 @@
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
       }
+    ],
+    "小阶段": [
+      {
+        "value": "合体后期",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ],
+    "阵营": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
     ]
   },
   "firstSeq": 1789,
@@ -96,9 +117,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1789
+      "seq": 1993
     },
     "身份": {
       "asOf": null,
@@ -117,6 +138,18 @@
       "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
       "dated": false,
       "seq": 1801
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
     }
   },
   "contested": false,
@@ -125,7 +158,8 @@
     "plot.fanren-1789-1794-wanbao-dahui-shouting-yinlinggen",
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-21T06:38:29.195Z"
+  "updatedAt": "2026-06-21T10:59:59.883Z"
 }

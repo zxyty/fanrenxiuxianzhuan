@@ -1,0 +1,61 @@
+{
+  "id": "ent.artifact.x-fc4db150",
+  "type": "artifact",
+  "name": "青色巨舟",
+  "aliases": [
+    "青舟",
+    "青色飞行巨舟"
+  ],
+  "summary": "灵族飞行巨舟，可隐匿、入海疾行、缩为尺许青木，载两族修士潜往魔界。",
+  "attributes": {
+    "持有者": "灵族",
+    "能力": "隐匿、缩小为青木、入海疾行"
+  },
+  "observations": {
+    "持有者": [
+      {
+        "value": "灵族",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ],
+    "能力": [
+      {
+        "value": "隐匿",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "缩小为青木",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "入海疾行",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      }
+    ]
+  },
+  "firstSeq": 1993,
+  "attrProvenance": {
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+      "dated": false,
+      "seq": 1993
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
+  ],
+  "updatedAt": "2026-06-21T10:59:59.900Z"
+}

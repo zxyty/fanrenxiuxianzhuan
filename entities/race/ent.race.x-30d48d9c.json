@@ -13,14 +13,18 @@
     "灵将级",
     "灵将期",
     "灵将后期",
-    "上界灵族"
+    "上界灵族",
+    "灵族人",
+    "我族",
+    "圣灵族",
+    "灵族圣灵"
   ],
   "summary": "灵界诸族中最弱小的族类，可化人形者为灵将（实力比肩人族化神），上有玄灵、圣灵级；真正大敌为夜叉族。",
   "attributes": {
-    "特性": "可由灵物点化进化而生",
+    "特性": "五行灵体、灵将可化人形、可由灵物点化进化而生、开灵智艰难、数量稀少、开灵智即具神通",
     "天敌": "夜叉族",
-    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）",
-    "聚居地": "灵界",
+    "代表人物": "铁刃、水魅、赤灭、旭天、噬炎、白袍小剑人（灵将）、窈窕人影、白光人影、千秋仙子、千秋圣女、白戚、金鼓长老、藏形",
+    "聚居地": "灵界一角（如祖云山）",
     "阵营": "灵族",
     "天赋神通": "化白色小剑、剑丝、剑气"
   },
@@ -35,6 +39,16 @@
         "value": "可由灵物点化进化而生",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "开灵智艰难、数量稀少",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "开灵智即具神通",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "天敌": [
@@ -74,6 +88,41 @@
         "value": "白袍小剑人（灵将）",
         "docId": "plot.fanren-1291-1296-yinxinshi-tianxindan-luori-zhimu",
         "seq": 1291
+      },
+      {
+        "value": "窈窕人影",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "白光人影",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "千秋仙子",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "千秋圣女",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "白戚",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "金鼓长老",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
+      },
+      {
+        "value": "藏形",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "聚居地": [
@@ -81,6 +130,11 @@
         "value": "灵界",
         "docId": "plot.fanren-1299-shiyan-takeover",
         "seq": 1297
+      },
+      {
+        "value": "灵界一角（如祖云山）",
+        "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
+        "seq": 1993
       }
     ],
     "阵营": [
@@ -117,9 +171,9 @@
   "attrProvenance": {
     "特性": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-1293-yinxinshi-tianxindan",
       "dated": false,
-      "seq": 1297
+      "seq": 1291
     },
     "天敌": {
       "asOf": null,
@@ -135,9 +189,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1299-shiyan-takeover",
+      "docId": "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu",
       "dated": false,
-      "seq": 1297
+      "seq": 1993
     },
     "阵营": {
       "asOf": null,
@@ -168,7 +222,8 @@
     "plot.fanren-1305-juren-zhi-zhan",
     "plot.fanren-1317-mo-ming-mafan-tianyuan-cheng",
     "plot.fanren-1477-1482-baiying-guinv-fuyou-zu",
-    "plot.fanren-1504-cuijingzhuan"
+    "plot.fanren-1504-cuijingzhuan",
+    "plot.fanren-c1993-1998-sheling-tianwang-yejia-qingqiu"
   ],
-  "updatedAt": "2026-06-20T13:50:49.519Z"
+  "updatedAt": "2026-06-21T10:59:59.908Z"
 }
