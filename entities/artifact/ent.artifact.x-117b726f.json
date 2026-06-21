@@ -3,13 +3,15 @@
   "type": "artifact",
   "name": "万兽牌",
   "aliases": [
-    "万兽牌玉牌"
+    "万兽牌玉牌",
+    "蒙蒙玉门"
   ],
   "summary": "古朴老者所有，白濛濛玉牌，上古从仙界遗落下界的仙家秘宝，可化玉门放出无数怪兽虚影自爆攻击。",
   "attributes": {
     "来历": "上古从仙界遗落下界的仙家秘宝",
     "持有者": "古朴老者",
-    "能力": "化玉门放出怪兽虚影"
+    "能力": "放万兽虚影",
+    "外形": "光蒙蒙玉门"
   },
   "observations": {
     "来历": [
@@ -31,6 +33,18 @@
         "value": "化玉门放出怪兽虚影",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      },
+      {
+        "value": "放万兽虚影",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "外形": [
+      {
+        "value": "光蒙蒙玉门",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
       }
     ]
   },
@@ -50,15 +64,22 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
       "dated": false,
-      "seq": 2209
+      "seq": 2215
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+    "plot.fanren-2234-2239-chongmu-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T15:54:22.418Z"
+  "updatedAt": "2026-06-21T15:57:21.644Z"
 }

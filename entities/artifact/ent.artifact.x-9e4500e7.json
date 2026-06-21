@@ -4,13 +4,17 @@
   "name": "土皇钉",
   "aliases": [
     "土黄钉",
-    "黄色巨钉"
+    "黄色巨钉",
+    "土皇钉一对",
+    "古钉"
   ],
   "summary": "半尺锈黄古钉，蕴含一界乾土法则，钉中身后废掉对方一身土属性神通；宝花以此重创螟虫之母蜕壳，可放大至千余丈。",
   "attributes": {
-    "能力": "禁制土属性神通、可放大至千余丈",
+    "能力": "禁制土属性神通、可放大至千余丈、化擎天巨柱、锁缩封制敌人、注生气复活花树",
     "五行属性": "土",
-    "外形": "半尺锈黄古钉"
+    "外形": "土黄色巨钉(一对)",
+    "品阶": "玄天之宝",
+    "持有者": "宝花"
   },
   "observations": {
     "能力": [
@@ -23,6 +27,21 @@
         "value": "可放大至千余丈",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      },
+      {
+        "value": "化擎天巨柱",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      },
+      {
+        "value": "锁缩封制敌人",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      },
+      {
+        "value": "注生气复活花树",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
       }
     ],
     "五行属性": [
@@ -37,6 +56,26 @@
         "value": "半尺锈黄古钉",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      },
+      {
+        "value": "土黄色巨钉(一对)",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "品阶": [
+      {
+        "value": "玄天之宝",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "持有者": [
+      {
+        "value": "宝花",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215,
+        "note": "本章被螟虫之母夺走两枚"
       }
     ]
   },
@@ -56,15 +95,29 @@
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
       "dated": false,
-      "seq": 2209
+      "seq": 2215
+    },
+    "品阶": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "持有者": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215,
+      "note": "本章被螟虫之母夺走两枚"
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+    "plot.fanren-2234-2239-chongmu-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T15:54:22.418Z"
+  "updatedAt": "2026-06-21T15:57:21.644Z"
 }

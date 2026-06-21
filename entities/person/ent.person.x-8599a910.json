@@ -2,11 +2,17 @@
   "id": "ent.person.x-8599a910",
   "type": "person",
   "name": "黑袍妇人",
-  "aliases": [],
+  "aliases": [
+    "九头怪蛇"
+  ],
   "summary": "异界大乘，持漆黑短枪，被宝花以凤灵盘手脚逼迫配合下水毁虫母本体。",
   "attributes": {
     "小阶段": "大乘",
-    "性别": "女"
+    "性别": "女",
+    "身份": "下界大乘",
+    "存殁": "死亡",
+    "死因": "被螟虫之母骸骨以时间法则诱回吞噬",
+    "标志特征": "天机枪、黄泉秽焰、化九头怪蛇"
   },
   "observations": {
     "小阶段": [
@@ -21,6 +27,44 @@
         "value": "女",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      }
+    ],
+    "身份": [
+      {
+        "value": "下界大乘",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "死因": [
+      {
+        "value": "被螟虫之母骸骨以时间法则诱回吞噬",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "天机枪",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      },
+      {
+        "value": "黄泉秽焰",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      },
+      {
+        "value": "化九头怪蛇",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
       }
     ]
   },
@@ -37,12 +81,37 @@
       "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
       "dated": false,
       "seq": 2209
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+    "plot.fanren-2234-2239-chongmu-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T15:54:22.412Z"
+  "updatedAt": "2026-06-21T15:57:21.641Z"
 }

@@ -738,3 +738,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T15:43:42.494Z** `ingest` plot.fanren-2197-2202-shengjie-juhui-tongya-laoren — 凡人修仙传 第2197-2202章｜圣界聚会·铜鸦老人降临与落星幡/小幻天镜亮相 · kind=plot asOf=2026-06-21 entities=38 relations=38 src=02197-02202.md
 - **2026-06-21T15:51:22.368Z** `ingest` plot.fanren-v2203-2208-2224-chonghai-digong-renmianchong — 凡人修仙传 第2203-2208章 虫海激战(下)·地宫·人面虫 · kind=plot asOf=2026-06-21 entities=18 relations=20 src=02203-02208.md
 - **2026-06-21T15:54:22.607Z** `ingest` plot.fanren-2228-2233-mingchong-zhimu-zhizhan — 凡人修仙传 第2228-2233章｜地宫围攻螟虫之母（凤灵宝盘·土皇钉·法则之线） · kind=plot asOf=2026-06-21 entities=18 relations=17 src=02209-02214.md
+- **2026-06-21T15:57:21.833Z** `ingest` plot.fanren-2234-2239-chongmu-zhi-zhan — 凡人修仙传 第2234-2239章 虫母之战：真极之躯觉醒 · kind=plot asOf=2026-06-21 entities=16 relations=23 src=02215-02220.md

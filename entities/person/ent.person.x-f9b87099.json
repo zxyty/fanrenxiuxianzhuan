@@ -8,7 +8,11 @@
   "summary": "异界大乘，相貌古朴、头戴金环，持仙家秘宝万兽牌。",
   "attributes": {
     "小阶段": "大乘",
-    "外貌": "头戴金环、相貌古朴"
+    "外貌": "头戴金环、相貌古朴",
+    "身份": "下界大乘",
+    "存殁": "死亡",
+    "死因": "被螟虫之母骸骨以时间法则诱回吞噬",
+    "标志特征": "万兽牌"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +27,34 @@
         "value": "头戴金环、相貌古朴",
         "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
         "seq": 2209
+      }
+    ],
+    "身份": [
+      {
+        "value": "下界大乘",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "死因": [
+      {
+        "value": "被螟虫之母骸骨以时间法则诱回吞噬",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "万兽牌",
+        "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+        "seq": 2215
       }
     ]
   },
@@ -39,12 +71,37 @@
       "docId": "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
       "dated": false,
       "seq": 2209
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2234-2239-chongmu-zhi-zhan",
+      "dated": false,
+      "seq": 2215
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan"
+    "plot.fanren-2228-2233-mingchong-zhimu-zhizhan",
+    "plot.fanren-2234-2239-chongmu-zhi-zhan"
   ],
-  "updatedAt": "2026-06-21T15:54:22.411Z"
+  "updatedAt": "2026-06-21T15:57:21.640Z"
 }
