@@ -13,12 +13,12 @@
   "attributes": {
     "种族": "人族",
     "小阶段": "合体中期",
-    "身份": "圣岛居住者、现居圣岛",
+    "身份": "圣岛居住者、现居圣岛、人族高阶修士",
     "外貌": "枯瘦如柴、肌肤黝黑、形如焦木、枯瘦如柴、肌肤黝黑、似焦木般丑陋、老者、丑陋老者",
-    "存殁": "存活",
+    "存殁": "败亡/被擒",
     "性别": "男",
     "阵营": "圣岛",
-    "标志特征": "银霄雷网、碧蓝飞蝎"
+    "标志特征": "银霄雷网、碧蓝飞蝎、紫色元婴"
   },
   "observations": {
     "种族": [
@@ -45,6 +45,11 @@
         "value": "现居圣岛",
         "docId": "plot.fanren-1935-fei-cheng",
         "seq": 1921
+      },
+      {
+        "value": "人族高阶修士",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ],
     "外貌": [
@@ -74,6 +79,12 @@
         "value": "存活",
         "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
         "seq": 1921
+      },
+      {
+        "value": "败亡/被擒",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927,
+        "note": "肉身被石掌击碎，元婴被元刹古镜收走搜魂"
       }
     ],
     "性别": [
@@ -94,6 +105,11 @@
       {
         "value": "银霄雷网、碧蓝飞蝎",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+        "seq": 1927
+      },
+      {
+        "value": "紫色元婴",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
         "seq": 1927
       }
     ]
@@ -126,9 +142,10 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-1935-fei-cheng-zi-yan-ding",
+      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
       "dated": false,
-      "seq": 1921
+      "seq": 1927,
+      "note": "肉身被石掌击碎，元婴被元刹古镜收走搜魂"
     },
     "性别": {
       "asOf": null,
@@ -155,7 +172,8 @@
     "plot.fanren-1935-fei-cheng-zi-yan-ding",
     "plot.fanren-1935-fei-cheng",
     "plot.fanren-1941-1942-siege-huangliang-stone-spirit",
-    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
   ],
-  "updatedAt": "2026-06-21T09:20:35.115Z"
+  "updatedAt": "2026-06-21T09:22:58.768Z"
 }

@@ -11,14 +11,15 @@
     "圣祖一族",
     "魔尊",
     "魔族军队",
-    "魔族高阶"
+    "魔族高阶",
+    "魔界魔族"
   ],
   "summary": "本章降临灵界的魔界种族，以圣祖为至高，黑甲大汉、白袍少年等为尊者。",
   "attributes": {
     "代表人物": "魔族圣祖、黑甲大汉、白袍少年、血光圣祖",
-    "阵营": "魔界、魔族、敌对、圣族",
+    "阵营": "魔界、魔族、敌对、圣族、魔道",
     "特性": "紫甲魔纹、可放出鹿首蝠身魔禽虚影、魔纹紫甲精锐，可召鹿首蝠身魔禽虚影",
-    "聚居地": "魔海",
+    "聚居地": "魔界",
     "天敌": "人族"
   },
   "observations": {
@@ -64,6 +65,11 @@
         "value": "圣族",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "魔道",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ],
     "特性": [
@@ -93,6 +99,11 @@
         "value": "魔海",
         "docId": "plot.fanren-1911-yitian-war-2",
         "seq": 1897
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ],
     "天敌": [
@@ -125,9 +136,9 @@
     },
     "聚居地": {
       "asOf": null,
-      "docId": "plot.fanren-1911-yitian-war-2",
+      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
       "dated": false,
-      "seq": 1897
+      "seq": 1927
     },
     "天敌": {
       "asOf": null,
@@ -148,7 +159,8 @@
     "plot.fanren-1911-yitian-war-2",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
-    "plot.fanren-1935-fei-cheng"
+    "plot.fanren-1935-fei-cheng",
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
   ],
-  "updatedAt": "2026-06-21T09:16:08.535Z"
+  "updatedAt": "2026-06-21T09:22:58.797Z"
 }

@@ -9,11 +9,11 @@
   "summary": "血光圣祖之宝，被韩立夺走，引来圣祖隔空神念怒斥。",
   "attributes": {
     "持有者": "血光圣祖",
-    "品阶": "玄天灵宝(未完成)",
+    "品阶": "玄天灵物（未成形）",
     "外形": "金银符文镶嵌的白色木盒",
     "禁制": "内藏混沌之气",
-    "能力": "封印魔物",
-    "来历": "夺自血光圣祖三名手下"
+    "能力": "蕴含混沌阴阳二气、封印魔物、封禁元神/可提取混沌之气",
+    "来历": "魔界"
   },
   "observations": {
     "持有者": [
@@ -34,6 +34,11 @@
         "value": "玄天灵宝(未完成)",
         "docId": "plot.fanren-1923-blood-saint-descends",
         "seq": 1909
+      },
+      {
+        "value": "玄天灵物（未成形）",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ],
     "外形": [
@@ -76,6 +81,11 @@
         "value": "封印魔物",
         "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
         "seq": 1927
+      },
+      {
+        "value": "封禁元神/可提取混沌之气",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ],
     "来历": [
@@ -93,6 +103,11 @@
         "value": "夺自血光圣祖三名手下",
         "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
         "seq": 1909
+      },
+      {
+        "value": "魔界",
+        "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
+        "seq": 1927
       }
     ]
   },
@@ -106,9 +121,9 @@
     },
     "品阶": {
       "asOf": null,
-      "docId": "plot.fanren-1923-blood-saint-descends",
+      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
       "dated": false,
-      "seq": 1909
+      "seq": 1927
     },
     "外形": {
       "asOf": null,
@@ -124,15 +139,15 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+      "docId": "plot.fanren-1891-1896-zhenmosuo-chejigong",
       "dated": false,
-      "seq": 1927
+      "seq": 1891
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
+      "docId": "plot.hanli-1945-1946-mona-yuancha-zhenmosuo",
       "dated": false,
-      "seq": 1909
+      "seq": 1927
     }
   },
   "contested": false,
@@ -143,7 +158,8 @@
     "plot.fanren-1891-1896-zhenmosuo-chejigong",
     "plot.fanren-1903-1908-yitian-zhizhan-8-10",
     "plot.ch1909-1914-xueguang-shengzu-jianglin-zudi",
-    "plot.fanren-1943-1944-fenshou-fengxie-qianji"
+    "plot.fanren-1943-1944-fenshou-fengxie-qianji",
+    "plot.hanli-1945-1946-mona-yuancha-zhenmosuo"
   ],
-  "updatedAt": "2026-06-21T09:20:35.129Z"
+  "updatedAt": "2026-06-21T09:22:58.773Z"
 }

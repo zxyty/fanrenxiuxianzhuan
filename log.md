@@ -680,3 +680,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T09:16:08.756Z** `ingest` plot.fanren-1935-fei-cheng — 第1935章 废城——韩立逼退血光圣祖三化身、夺得紫言鼎 · kind=plot asOf=2026-06-21 entities=39 relations=44 src=01921-01926.md
 - **2026-06-21T09:18:01.882Z** `ingest` plot.fanren-1941-1942-siege-huangliang-stone-spirit — 第1941-1942章 黄粱石灵渡雷劫与韩立等围攻 · kind=plot asOf=2026-06-21 entities=12 relations=12 src=01927-01932.p1.md
 - **2026-06-21T09:20:35.346Z** `ingest` plot.fanren-1943-1944-fenshou-fengxie-qianji — 第1943-1944章 分手·风邪与牵机大法 · kind=plot asOf=2026-06-21 entities=16 relations=20 src=01927-01932.p2.md
+- **2026-06-21T09:22:58.976Z** `ingest` plot.hanli-1945-1946-mona-yuancha-zhenmosuo — 第1945-1946章 魔女元刹现身 韩立提取混沌之气遭夺宝 · kind=plot asOf=2026-06-21 entities=20 relations=23 src=01927-01932.p3.md
