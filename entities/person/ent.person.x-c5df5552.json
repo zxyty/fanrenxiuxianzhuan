@@ -3,12 +3,13 @@
   "type": "person",
   "name": "玄武霸皇",
   "aliases": [
-    "霸皇"
+    "霸皇",
+    "霸皇大人"
   ],
   "summary": "人族三皇之一，简称『霸皇』，统治玄武境，主城玄武城建于远古巨龟骖灵背上。",
   "attributes": {
     "称号": "霸皇",
-    "身份": "玄武境统治者、人族三皇之一"
+    "身份": "玄武境统治者、人族三皇之一、一方势力之主"
   },
   "observations": {
     "称号": [
@@ -28,6 +29,11 @@
         "value": "人族三皇之一",
         "docId": "plot.fanren-1267-1272-anyuan-city",
         "seq": 1267
+      },
+      {
+        "value": "一方势力之主",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ]
   },
@@ -50,7 +56,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1267-1272-anyuan-city-shoujao",
-    "plot.fanren-1267-1272-anyuan-city"
+    "plot.fanren-1267-1272-anyuan-city",
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
   ],
-  "updatedAt": "2026-06-20T07:11:01.077Z"
+  "updatedAt": "2026-06-21T05:27:34.693Z"
 }

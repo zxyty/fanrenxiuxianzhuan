@@ -5,8 +5,9 @@
   "aliases": [],
   "summary": "韩立炼成的疗伤灵药，对内外伤有奇效，可大减伤势、保住性命。",
   "attributes": {
-    "功效": "疗内外伤、保命减伤、疗内伤、疗外伤止血结疤、消除疤痕、续命/延寿",
-    "炼制者": "韩立"
+    "功效": "疗内外伤、保命减伤、疗内伤、疗外伤止血结疤、消除疤痕、续命/延寿、补元",
+    "炼制者": "韩立",
+    "适用境界": "元气有损者"
   },
   "observations": {
     "功效": [
@@ -39,6 +40,11 @@
         "value": "续命/延寿",
         "docId": "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
         "seq": 97
+      },
+      {
+        "value": "补元",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ],
     "炼制者": [
@@ -46,6 +52,13 @@
         "value": "韩立",
         "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
         "seq": 25
+      }
+    ],
+    "适用境界": [
+      {
+        "value": "元气有损者",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ]
   },
@@ -62,6 +75,12 @@
       "docId": "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
       "dated": false,
       "seq": 25
+    },
+    "适用境界": {
+      "asOf": null,
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "dated": false,
+      "seq": 1777
     }
   },
   "contested": false,
@@ -69,7 +88,8 @@
   "docs": [
     "plot.fanren-ch25-30-cuiyao-shengyao-mo-dafu-tanpai",
     "plot.fanren-ch43-48-modafu-juelie-jiaoshou",
-    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan"
+    "plot.fanren-ch097-102-leave-qixuanmen-arrive-jiayuan",
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
   ],
-  "updatedAt": "2026-06-14T03:09:31.532Z"
+  "updatedAt": "2026-06-21T05:27:34.675Z"
 }

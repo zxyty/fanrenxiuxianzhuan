@@ -7,8 +7,8 @@
   ],
   "summary": "人妖两族每隔千年联手举办的大型交易会，本届定于九仙山，韩立与妖族女子约定届时交易。",
   "attributes": {
-    "地点": "玄武境",
-    "参与方": "人族、妖族、人妖两族",
+    "地点": "九仙山飞仙峰",
+    "参与方": "人族、妖族、人妖两族、异族",
     "经过": "千年一次"
   },
   "observations": {
@@ -22,6 +22,11 @@
         "value": "玄武境",
         "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
         "seq": 1765
+      },
+      {
+        "value": "九仙山飞仙峰",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ],
     "参与方": [
@@ -39,6 +44,11 @@
         "value": "人妖两族",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      },
+      {
+        "value": "异族",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ],
     "经过": [
@@ -53,9 +63,9 @@
   "attrProvenance": {
     "地点": {
       "asOf": null,
-      "docId": "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
       "dated": false,
-      "seq": 1765
+      "seq": 1777
     },
     "参与方": {
       "asOf": null,
@@ -75,7 +85,8 @@
   "docs": [
     "plot.fanren-1753-1758-laike-lingdwang-zhenxue",
     "plot.fanren-1765-1770-xujia-zongmiao-bingpo-xuehun",
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
   ],
-  "updatedAt": "2026-06-21T05:20:08.293Z"
+  "updatedAt": "2026-06-21T05:27:34.704Z"
 }

@@ -1,52 +1,46 @@
 {
-  "id": "ent.person.x-1bef1397",
+  "id": "ent.person.x-98806a68",
   "type": "person",
-  "name": "白化及",
+  "name": "宗勉",
   "aliases": [
-    "枯瘦中年修士",
-    "白果儿之父"
+    "宗道友"
   ],
-  "summary": "筑基中期修士，白果儿之父，被石仑等劫夺千年血参。",
+  "summary": "迎仙宫总管，灰袍白面老者，双目微绿，炼虚中期，负责安排合体期前辈住宿。",
   "attributes": {
-    "小阶段": "筑基中期",
-    "身份": "白果儿之父",
-    "性别": "男"
+    "小阶段": "炼虚中期",
+    "身份": "迎仙宫总管",
+    "外貌": "灰袍白面、双目微绿"
   },
   "observations": {
     "小阶段": [
       {
-        "value": "筑基中期",
-        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-        "seq": 1771
-      }
-    ],
-    "身份": [
-      {
-        "value": "散修",
-        "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
-        "seq": 1771
-      },
-      {
-        "value": "白果儿之父",
+        "value": "炼虚中期",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
       }
     ],
-    "性别": [
+    "身份": [
       {
-        "value": "男",
+        "value": "迎仙宫总管",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
+      }
+    ],
+    "外貌": [
+      {
+        "value": "灰袍白面、双目微绿",
         "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
         "seq": 1777
       }
     ]
   },
-  "firstSeq": 1771,
+  "firstSeq": 1777,
   "attrProvenance": {
     "小阶段": {
       "asOf": null,
-      "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
       "dated": false,
-      "seq": 1771
+      "seq": 1777
     },
     "身份": {
       "asOf": null,
@@ -54,7 +48,7 @@
       "dated": false,
       "seq": 1777
     },
-    "性别": {
+    "外貌": {
       "asOf": null,
       "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
       "dated": false,
@@ -64,8 +58,7 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
     "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
   ],
-  "updatedAt": "2026-06-21T05:27:34.667Z"
+  "updatedAt": "2026-06-21T05:27:34.692Z"
 }

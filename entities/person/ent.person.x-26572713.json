@@ -8,7 +8,8 @@
   "summary": "白化及岳母、白果儿姥姥，结丹修士，石仑因忌惮她而起杀人灭口之心。",
   "attributes": {
     "小阶段": "结丹",
-    "性别": "女"
+    "性别": "女",
+    "身份": "金广宗弟子"
   },
   "observations": {
     "小阶段": [
@@ -23,6 +24,13 @@
         "value": "女",
         "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
         "seq": 1771
+      }
+    ],
+    "身份": [
+      {
+        "value": "金广宗弟子",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
       }
     ]
   },
@@ -39,12 +47,19 @@
       "docId": "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
       "dated": false,
       "seq": 1771
+    },
+    "身份": {
+      "asOf": null,
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "dated": false,
+      "seq": 1777
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan"
+    "plot.frxz-1771-1776-jiuxianshan-baiguoer-sanduisan",
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
   ],
-  "updatedAt": "2026-06-21T05:20:08.237Z"
+  "updatedAt": "2026-06-21T05:27:34.666Z"
 }

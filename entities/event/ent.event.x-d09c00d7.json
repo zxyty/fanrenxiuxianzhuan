@@ -1,0 +1,55 @@
+{
+  "id": "ent.event.x-d09c00d7",
+  "type": "event",
+  "name": "黑域交换会",
+  "aliases": [
+    "黑域交换大会"
+  ],
+  "summary": "万宝大会期间私下举办、专为合体修士的神秘以物易物交换会，由神通广大的神秘修士组织，不问身份、一日即散。",
+  "attributes": {
+    "地点": "黑域",
+    "参与方": "合体修士、妖族"
+  },
+  "observations": {
+    "地点": [
+      {
+        "value": "黑域",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
+      }
+    ],
+    "参与方": [
+      {
+        "value": "合体修士",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
+      },
+      {
+        "value": "妖族",
+        "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+        "seq": 1777
+      }
+    ]
+  },
+  "firstSeq": 1777,
+  "attrProvenance": {
+    "地点": {
+      "asOf": null,
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "dated": false,
+      "seq": 1777
+    },
+    "参与方": {
+      "asOf": null,
+      "docId": "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi",
+      "dated": false,
+      "seq": 1777
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1777-1782-bingsui-zhiti-jiming-dizi"
+  ],
+  "updatedAt": "2026-06-21T05:27:34.704Z"
+}
