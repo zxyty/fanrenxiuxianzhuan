@@ -1,0 +1,50 @@
+{
+  "id": "ent.place.x-63ef90a0",
+  "type": "place",
+  "name": "雷云镇",
+  "aliases": [
+    "此镇"
+  ],
+  "summary": "魔金山脉外的小镇，修士在此领取辟雷伞、买卖魔兽材料；设竞技场规矩与长老会执事，禁止镇内随意斗法。",
+  "attributes": {
+    "类型": "修士小镇",
+    "守护": "长老会执事"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "修士小镇",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
+      }
+    ],
+    "守护": [
+      {
+        "value": "长老会执事",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
+      }
+    ]
+  },
+  "firstSeq": 1603,
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "dated": false,
+      "seq": 1603
+    },
+    "守护": {
+      "asOf": null,
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "dated": false,
+      "seq": 1603
+    }
+  },
+  "contested": false,
+  "contradictions": {},
+  "docs": [
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
+  ],
+  "updatedAt": "2026-06-21T01:04:24.680Z"
+}

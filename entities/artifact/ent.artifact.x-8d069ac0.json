@@ -10,10 +10,10 @@
   ],
   "summary": "韩立护身魔甲，黑色符文狂涌形成护罩。",
   "attributes": {
-    "持有者": "韩立",
+    "持有者": "纤纤",
     "能力": "符文护罩防御",
     "外形": "半尺大、造型狰狞、肩膝带尖刺、遍布黑色花纹、紫色",
-    "来历": "天外魔头自生战甲，原主已陨落",
+    "来历": "破损待修",
     "品阶": "极高"
   },
   "observations": {
@@ -22,6 +22,11 @@
         "value": "韩立",
         "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
         "seq": 1579
+      },
+      {
+        "value": "纤纤",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ],
     "能力": [
@@ -48,6 +53,12 @@
         "value": "天外魔头自生战甲，原主已陨落",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "破损待修",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603,
+        "note": "需圣阶魔兽真血魔核修复"
       }
     ],
     "品阶": [
@@ -63,9 +74,9 @@
   "attrProvenance": {
     "持有者": {
       "asOf": null,
-      "docId": "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
-      "seq": 1579
+      "seq": 1603
     },
     "能力": {
       "asOf": null,
@@ -81,9 +92,10 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
-      "seq": 1579
+      "seq": 1603,
+      "note": "需圣阶魔兽真血魔核修复"
     },
     "品阶": {
       "asOf": null,
@@ -97,7 +109,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
-    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai"
+    "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
   ],
-  "updatedAt": "2026-06-20T15:58:06.917Z"
+  "updatedAt": "2026-06-21T01:04:24.682Z"
 }

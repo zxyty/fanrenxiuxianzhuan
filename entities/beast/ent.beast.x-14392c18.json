@@ -4,13 +4,15 @@
   "name": "人形芝仙",
   "aliases": [
     "芝仙",
-    "灵药化形芝仙"
+    "灵药化形芝仙",
+    "人形灵药"
   ],
   "summary": "罕见修炼到人形的灵药，精通土木两种遁术并修成浮光化影远遁神通；击伤一名修炼者后被金元禁光反击，逃入魔金山脉，其灵仙血价值连城。",
   "attributes": {
     "种族": "灵药化形",
-    "能力": "土木遁术、浮光化影远遁神通",
-    "栖息地": "魔金山脉"
+    "能力": "土木遁术、浮光化影远遁神通、遁术、隐匿、特殊神通",
+    "栖息地": "魔金山脉、魔金山脉外围",
+    "外形": "人形灵药"
   },
   "observations": {
     "种族": [
@@ -30,6 +32,21 @@
         "value": "浮光化影远遁神通",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "遁术",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
+      },
+      {
+        "value": "隐匿",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
+      },
+      {
+        "value": "特殊神通",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ],
     "栖息地": [
@@ -38,6 +55,18 @@
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603,
         "note": "重伤后逃入"
+      },
+      {
+        "value": "魔金山脉外围",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
+      }
+    ],
+    "外形": [
+      {
+        "value": "人形灵药",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ]
   },
@@ -61,12 +90,19 @@
       "dated": false,
       "seq": 1603,
       "note": "重伤后逃入"
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+      "dated": false,
+      "seq": 1603
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
   ],
-  "updatedAt": "2026-06-21T01:01:48.316Z"
+  "updatedAt": "2026-06-21T01:04:24.685Z"
 }

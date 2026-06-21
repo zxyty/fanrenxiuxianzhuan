@@ -4,15 +4,16 @@
   "name": "魔金山脉",
   "aliases": [
     "黑金山脉",
-    "墨金山脉"
+    "墨金山脉",
+    "魔金"
   ],
   "summary": "距云城约一月路程、万余年前因空间风暴出现的黑色魔域山脉，魔气笼罩、虚空裂缝涌魔兽含圣阶，被天云族圣族封禁、每年仅开放一月供圣族以下入内猎魔兽，陨落率极高。",
   "attributes": {
-    "类型": "魔域山脉、凶地/山脉、凶险山脉",
-    "危险度": "极高",
+    "类型": "魔域山脉、凶地/山脉、凶险山脉、魔兽山脉",
+    "危险度": "极高（陨落率十之一二）、极高、高（魔气喷发期更甚）",
     "特产": "魔兽内丹/魔核、珍稀材料",
-    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷",
-    "所属界面": "灵界"
+    "守护": "天云族圣族封禁、高阶魔兽、青灵云海禁制、雷云大阵禁制神雷、雷电世界外围",
+    "所属界面": "灵界、灵界（天云）"
   },
   "observations": {
     "类型": [
@@ -30,6 +31,11 @@
         "value": "凶险山脉",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "魔兽山脉",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ],
     "危险度": [
@@ -41,6 +47,11 @@
       {
         "value": "极高",
         "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+        "seq": 1603
+      },
+      {
+        "value": "高（魔气喷发期更甚）",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
       }
     ],
@@ -72,12 +83,22 @@
         "value": "青灵云海禁制、雷云大阵禁制神雷",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "雷电世界外围",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ],
     "所属界面": [
       {
         "value": "灵界",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      },
+      {
+        "value": "灵界（天云）",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
       }
     ]
@@ -92,9 +113,9 @@
     },
     "危险度": {
       "asOf": null,
-      "docId": "plot.chapter-1605-1606-yuezong-mojin-shanmai",
+      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
       "dated": false,
-      "seq": 1603
+      "seq": 1579
     },
     "特产": {
       "asOf": null,
@@ -121,7 +142,8 @@
   "docs": [
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
   ],
-  "updatedAt": "2026-06-21T01:01:48.310Z"
+  "updatedAt": "2026-06-21T01:04:24.679Z"
 }

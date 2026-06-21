@@ -11,10 +11,10 @@
   "attributes": {
     "性别": "女",
     "种族": "晶族",
-    "身份": "商人/晚辈",
+    "身份": "雇主",
     "道号": "纤纤",
     "标志特征": "眉宇间一颗晶石闪动淡白光",
-    "小阶段": "修为近瓶颈"
+    "小阶段": "修为近瓶颈、炼虚（修为偏低）"
   },
   "observations": {
     "性别": [
@@ -36,6 +36,11 @@
         "value": "商人/晚辈",
         "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
         "seq": 1579
+      },
+      {
+        "value": "雇主",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ],
     "道号": [
@@ -57,6 +62,11 @@
         "value": "修为近瓶颈",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
         "seq": 1603
+      },
+      {
+        "value": "炼虚（修为偏低）",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
+        "seq": 1603
       }
     ]
   },
@@ -76,9 +86,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
+      "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
       "dated": false,
-      "seq": 1579
+      "seq": 1603
     },
     "道号": {
       "asOf": null,
@@ -105,7 +115,8 @@
     "plot.fanren-1579-1584-tianwai-mojia-mojin-shanmai",
     "plot.fanren-1586-qianjizi",
     "plot.chapter-1605-1606-yuezong-mojin-shanmai",
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
   ],
-  "updatedAt": "2026-06-21T01:01:48.307Z"
+  "updatedAt": "2026-06-21T01:04:24.673Z"
 }

@@ -5,13 +5,18 @@
   "aliases": [],
   "summary": "青灵云海内小镇中心的五层青灰巨石阁楼，是领取辟雷幡（进入墨金山脉通行之物）之处；人形芝仙事发后聚集三十余名化神以上异族。",
   "attributes": {
-    "类型": "阁楼/领令之处"
+    "类型": "阁楼/领令之处、测试/发放辟雷伞之所"
   },
   "observations": {
     "类型": [
       {
         "value": "阁楼/领令之处",
         "docId": "plot.fanren-ch1607-qiying-zhixian",
+        "seq": 1603
+      },
+      {
+        "value": "测试/发放辟雷伞之所",
+        "docId": "plot.fanren-1608-1612-leiyun-town-mojin-mountains",
         "seq": 1603
       }
     ]
@@ -28,7 +33,8 @@
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-ch1607-qiying-zhixian"
+    "plot.fanren-ch1607-qiying-zhixian",
+    "plot.fanren-1608-1612-leiyun-town-mojin-mountains"
   ],
-  "updatedAt": "2026-06-21T01:01:48.313Z"
+  "updatedAt": "2026-06-21T01:04:24.680Z"
 }

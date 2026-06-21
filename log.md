@@ -618,3 +618,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T00:57:57.929Z** `ingest` plot.fanren-1602-1603-yuncheng-auction-renmianjiao-jinleizhu — 第1602-1603章 云城拍卖会：人面蛟认女、金雷竹与地幽战车竞拍 · kind=plot asOf=2026-06-21 entities=33 relations=27 src=01597-01602.p3.md
 - **2026-06-21T00:59:56.972Z** `ingest` plot.chapter-1605-1606-yuezong-mojin-shanmai — 第1605-1606章 越宗·麒麟：炼制瑕疵琉璃天火液、纤纤引见魔兽猎人越宗议进魔金山脉 · kind=plot asOf=2026-06-21 entities=16 relations=14 src=01603-01608.p1.md
 - **2026-06-21T01:01:48.461Z** `ingest` plot.fanren-ch1607-qiying-zhixian — 第1607章 麒影 / 芝仙：纤纤与伴生麒影定计探真灵之穴，三人入魔金山脉惊闻人形芝仙 · kind=plot asOf=2026-06-21 entities=16 relations=14 src=01603-01608.p2.md
+- **2026-06-21T01:04:24.827Z** `ingest` plot.fanren-1608-1612-leiyun-town-mojin-mountains — 第1608-1612章：雷云镇取辟雷伞、力压九阶、初入魔金山脉 · kind=plot asOf=2026-06-21 entities=25 relations=23 src=01603-01608.p3.md
