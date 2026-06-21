@@ -11,9 +11,11 @@
   "summary": "泣灵秘藏中的飞行至宝，可排进圣界前三。",
   "attributes": {
     "品阶": "魔界前三飞行异宝",
-    "能力": "空间属性神通",
-    "外形": "千丈乌黑巨舟、银幡环列",
-    "持有者": "韩立"
+    "能力": "极速飞行/护主、空间属性神通、遁速惊人、撕裂虚空、奇快遁速、可缩形改貌",
+    "外形": "山岳般黑色巨舟",
+    "持有者": "韩立",
+    "来历": "魔界排名前三飞行至宝",
+    "禁制": "黑水之上遁速大减"
   },
   "observations": {
     "品阶": [
@@ -38,6 +40,26 @@
         "value": "空间属性神通",
         "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
         "seq": 2233
+      },
+      {
+        "value": "遁速惊人",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      },
+      {
+        "value": "撕裂虚空",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      },
+      {
+        "value": "奇快遁速",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      },
+      {
+        "value": "可缩形改貌",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
       }
     ],
     "外形": [
@@ -55,6 +77,11 @@
         "value": "千丈乌黑巨舟、银幡环列",
         "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
         "seq": 2233
+      },
+      {
+        "value": "山岳般黑色巨舟",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
       }
     ],
     "持有者": [
@@ -62,6 +89,20 @@
         "value": "韩立",
         "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
         "seq": 2233
+      }
+    ],
+    "来历": [
+      {
+        "value": "魔界排名前三飞行至宝",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ],
+    "禁制": [
+      {
+        "value": "黑水之上遁速大减",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
       }
     ]
   },
@@ -75,21 +116,33 @@
     },
     "能力": {
       "asOf": null,
-      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+      "docId": "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
       "dated": false,
-      "seq": 2233
+      "seq": 2017
     },
     "外形": {
       "asOf": null,
-      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
       "dated": false,
-      "seq": 2233
+      "seq": 2239
     },
     "持有者": {
       "asOf": null,
       "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
       "dated": false,
       "seq": 2233
+    },
+    "来历": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
+    },
+    "禁制": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
     }
   },
   "contested": false,
@@ -97,7 +150,8 @@
   "docs": [
     "plot.fanren-ch2035-2037-qiling-mizang-blood-crow-city",
     "plot.fanren-2227-2232-zhiling-guangyuan",
-    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+    "plot.chapter-2239-2244-worm-king-ancient-altar"
   ],
-  "updatedAt": "2026-06-21T16:20:46.401Z"
+  "updatedAt": "2026-06-21T16:28:19.467Z"
 }

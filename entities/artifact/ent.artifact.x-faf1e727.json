@@ -9,7 +9,9 @@
   "attributes": {
     "品阶": "圣器",
     "持有者": "银月",
-    "来历": "溶入玄天残片"
+    "来历": "融入玄天之宝碎片",
+    "能力": "金木属性大威能",
+    "五行属性": "金、木"
   },
   "observations": {
     "品阶": [
@@ -31,6 +33,30 @@
         "value": "溶入玄天残片",
         "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
         "seq": 2233
+      },
+      {
+        "value": "融入玄天之宝碎片",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ],
+    "能力": [
+      {
+        "value": "金木属性大威能",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ],
+    "五行属性": [
+      {
+        "value": "金",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      },
+      {
+        "value": "木",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
       }
     ]
   },
@@ -50,15 +76,28 @@
     },
     "来历": {
       "asOf": null,
-      "docId": "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
       "dated": false,
-      "seq": 2233
+      "seq": 2239
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
+    },
+    "五行属性": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm"
+    "plot.fanren-2233-2238-qiling-treasure-and-return-to-spirit-realm",
+    "plot.chapter-2239-2244-worm-king-ancient-altar"
   ],
-  "updatedAt": "2026-06-21T16:20:46.403Z"
+  "updatedAt": "2026-06-21T16:28:19.435Z"
 }

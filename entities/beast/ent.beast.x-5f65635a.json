@@ -3,12 +3,16 @@
   "type": "beast",
   "name": "噬金虫王",
   "aliases": [
-    "虫王"
+    "虫王",
+    "紫金小人"
   ],
   "summary": "传闻中的噬金虫之王，现世可令大乘修士乃至真仙退避，从无人真正培育出。",
   "attributes": {
     "等级": "传闻媲美真仙",
-    "种族": "噬金虫"
+    "种族": "噬金虫",
+    "主人": "韩立",
+    "能力": "金光绞杀、寒气剑光",
+    "外形": "三寸高紫金小人"
   },
   "observations": {
     "等级": [
@@ -29,6 +33,32 @@
         "docId": "plot.fanren-1516-bamboo-leaves",
         "seq": 1513
       }
+    ],
+    "主人": [
+      {
+        "value": "韩立",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ],
+    "能力": [
+      {
+        "value": "金光绞杀",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      },
+      {
+        "value": "寒气剑光",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ],
+    "外形": [
+      {
+        "value": "三寸高紫金小人",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
     ]
   },
   "firstSeq": 1513,
@@ -44,6 +74,24 @@
       "docId": "plot.fanren-1516-bamboo-leaves",
       "dated": false,
       "seq": 1513
+    },
+    "主人": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
+    },
+    "能力": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
     }
   },
   "contested": false,
@@ -51,7 +99,8 @@
   "docs": [
     "plot.fanren-1516-bamboo-leaves",
     "plot.fanren-1516-1517-zhuye-likai",
-    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong"
+    "plot.fanren-1855-1860-shixiandan-xuantian-canpian-shijinchong",
+    "plot.chapter-2239-2244-worm-king-ancient-altar"
   ],
-  "updatedAt": "2026-06-21T07:16:44.564Z"
+  "updatedAt": "2026-06-21T16:28:19.427Z"
 }

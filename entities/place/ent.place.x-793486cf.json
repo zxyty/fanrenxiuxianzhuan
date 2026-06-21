@@ -4,14 +4,32 @@
   "name": "深渊城",
   "aliases": [],
   "summary": "上古参天真人开设之城。",
-  "attributes": {},
-  "observations": {},
+  "attributes": {
+    "类型": "城池"
+  },
+  "observations": {
+    "类型": [
+      {
+        "value": "城池",
+        "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+        "seq": 2239
+      }
+    ]
+  },
   "firstSeq": 1825,
-  "attrProvenance": {},
+  "attrProvenance": {
+    "类型": {
+      "asOf": null,
+      "docId": "plot.chapter-2239-2244-worm-king-ancient-altar",
+      "dated": false,
+      "seq": 2239
+    }
+  },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi"
+    "plot.fanren-1825-1830-jinshen-yeyi-xilingchi",
+    "plot.chapter-2239-2244-worm-king-ancient-altar"
   ],
-  "updatedAt": "2026-06-21T06:38:29.182Z"
+  "updatedAt": "2026-06-21T16:28:19.461Z"
 }
