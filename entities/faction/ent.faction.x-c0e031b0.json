@@ -8,8 +8,9 @@
   "summary": "韩立在人族建立的基业，据点位于无涯海元合岛，门下人妖两族修士数以万计。",
   "attributes": {
     "掌门": "韩立",
-    "据点": "元合岛",
-    "所属界面": "灵界"
+    "据点": "无涯海",
+    "所属界面": "灵界",
+    "阵营": "人族"
   },
   "observations": {
     "掌门": [
@@ -24,6 +25,11 @@
         "value": "元合岛",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      },
+      {
+        "value": "无涯海",
+        "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+        "seq": 2419
       }
     ],
     "所属界面": [
@@ -31,6 +37,13 @@
         "value": "灵界",
         "docId": "plot.fanren-2403-dingji",
         "seq": 2383
+      }
+    ],
+    "阵营": [
+      {
+        "value": "人族",
+        "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+        "seq": 2419
       }
     ]
   },
@@ -44,22 +57,29 @@
     },
     "据点": {
       "asOf": null,
-      "docId": "plot.fanren-2403-dingji",
+      "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
       "dated": false,
-      "seq": 2383
+      "seq": 2419
     },
     "所属界面": {
       "asOf": null,
       "docId": "plot.fanren-2403-dingji",
       "dated": false,
       "seq": 2383
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2403-dingji",
-    "plot.fanren-2427-zhanxian-zhong"
+    "plot.fanren-2427-zhanxian-zhong",
+    "plot.fanren-2441-renzu-zhibian-lianshenshu"
   ],
-  "updatedAt": "2026-06-21T20:45:59.536Z"
+  "updatedAt": "2026-06-21T21:42:06.309Z"
 }

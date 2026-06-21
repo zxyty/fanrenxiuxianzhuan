@@ -10,18 +10,19 @@
     "金悦少女",
     "金仙子",
     "金前辈",
-    "天鹏族大大长老"
+    "天鹏族大大长老",
+    "龙族大长老"
   ],
   "summary": "天鹏族五大长老中的大长老，精通对人族的了解，欲借韩立风雷翅中的鲲鹏之羽助本族圣子过试炼。",
   "attributes": {
     "性别": "女",
     "种族": "龙族",
-    "身份": "龙族长老",
+    "身份": "天鹏族大长老、大长老、天鹏族长老、真龙一族大长老/第一人、龙族长老、龙族大长老",
     "外貌": "金袍",
     "小阶段": "合体中期以上、合体期、合体大成、圣阶后期大成、圣阶初期、合体",
     "阵营": "灵族",
     "称号": "大长老",
-    "标志特征": "金黄色镜子法宝",
+    "标志特征": "探查神识的天赋秘术",
     "存殁": "死亡",
     "死因": "意外陨落（回归灵类本源，疑点重重）",
     "性格": "不怒自威"
@@ -85,6 +86,11 @@
       {
         "value": "龙族长老",
         "docId": "plot.fanren-2440-de-guo",
+        "seq": 2419
+      },
+      {
+        "value": "龙族大长老",
+        "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
         "seq": 2419
       }
     ],
@@ -186,6 +192,11 @@
         "value": "金黄色镜子法宝",
         "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
         "seq": 1837
+      },
+      {
+        "value": "探查神识的天赋秘术",
+        "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
+        "seq": 2419
       }
     ],
     "存殁": [
@@ -226,9 +237,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2440-de-guo",
+      "docId": "plot.fanren-1411-1416-tianpeng-shengcheng-fengling-ta",
       "dated": false,
-      "seq": 2419
+      "seq": 1411
     },
     "外貌": {
       "asOf": null,
@@ -256,9 +267,9 @@
     },
     "标志特征": {
       "asOf": null,
-      "docId": "plot.fanren-1837-1842-banbu-fajue-zaihui-diyuan",
+      "docId": "plot.fanren-2441-renzu-zhibian-lianshenshu",
       "dated": false,
-      "seq": 1837
+      "seq": 2419
     },
     "存殁": {
       "asOf": null,
@@ -297,7 +308,8 @@
     "plot.fanren-2059-2064-tiesha-ling-xunxiang-zhai",
     "plot.fanren-2287-2292-qingyuangong-huangyuanzi-yuelong-jiyuanjing",
     "plot.fanren-2413-2418-pingling-return-mojie",
-    "plot.fanren-2440-de-guo"
+    "plot.fanren-2440-de-guo",
+    "plot.fanren-2441-renzu-zhibian-lianshenshu"
   ],
-  "updatedAt": "2026-06-21T21:39:23.330Z"
+  "updatedAt": "2026-06-21T21:42:06.297Z"
 }
