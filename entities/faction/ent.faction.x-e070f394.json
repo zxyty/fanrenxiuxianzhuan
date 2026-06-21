@@ -11,7 +11,8 @@
   "attributes": {
     "阵营": "人族",
     "理念": "献真血祭品换潜灵令、车轮战排名",
-    "等级": "上古血脉世家"
+    "等级": "上古血脉世家",
+    "所属界面": "魔界"
   },
   "observations": {
     "阵营": [
@@ -39,6 +40,13 @@
         "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
         "seq": 1747
       }
+    ],
+    "所属界面": [
+      {
+        "value": "魔界",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      }
     ]
   },
   "firstSeq": 1351,
@@ -60,6 +68,12 @@
       "docId": "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
       "dated": false,
       "seq": 1747
+    },
+    "所属界面": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -70,7 +84,8 @@
     "plot.fanren-1375-1380-true-dragon-vs-phoenix-soul",
     "plot.fanren-1747-1752-lianshenshu-first-layer-and-gu-family",
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
-    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T06:23:12.354Z"
+  "updatedAt": "2026-06-21T06:25:53.134Z"
 }

@@ -6,13 +6,15 @@
     "银色短尺",
     "银色匹练",
     "银色尺影",
-    "银尺虚影"
+    "银尺虚影",
+    "银灿灿短尺"
   ],
   "summary": "韩立所持银色短尺，可化十余丈银色尺影/匹练，变化玄妙、遁速极快。",
   "attributes": {
     "持有者": "韩立",
-    "能力": "银色尺影斩击、化匹练卷击、幻化尺影、克制幻术、遁入虚空隐袭、化无数尺影、汇聚巨大尺影风雷一劈",
-    "禁制": "银蝌文"
+    "能力": "银色尺影斩击、化匹练卷击、幻化尺影、克制幻术、遁入虚空隐袭、化无数尺影、汇聚巨大尺影风雷一劈、由一化千万、化银流狂卷",
+    "禁制": "银蝌文",
+    "外形": "银灿灿短尺"
   },
   "observations": {
     "持有者": [
@@ -58,6 +60,11 @@
         "value": "汇聚巨大尺影风雷一劈",
         "docId": "plot.fanren-1734-stone-wall-spirit-script",
         "seq": 1729
+      },
+      {
+        "value": "由一化千万、化银流狂卷",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
       }
     ],
     "禁制": [
@@ -65,6 +72,13 @@
         "value": "银蝌文",
         "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
         "seq": 1717
+      }
+    ],
+    "外形": [
+      {
+        "value": "银灿灿短尺",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
       }
     ]
   },
@@ -88,6 +102,12 @@
       "docId": "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
       "dated": false,
       "seq": 1717
+    },
+    "外形": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -95,7 +115,8 @@
   "docs": [
     "plot.fanren-1903-1908-yitian-zhi-zhan-8-10",
     "plot.fanren-vol1717-1722-1724-jiaochi-qingnian-battle",
-    "plot.fanren-1734-stone-wall-spirit-script"
+    "plot.fanren-1734-stone-wall-spirit-script",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T03:59:44.616Z"
+  "updatedAt": "2026-06-21T06:25:53.143Z"
 }

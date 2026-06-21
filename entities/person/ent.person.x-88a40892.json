@@ -3,20 +3,27 @@
   "type": "person",
   "name": "晖长老",
   "aliases": [
-    "陇家黑袍客卿"
+    "陇家黑袍客卿",
+    "晖道友"
   ],
   "summary": "陇家太上客卿长老，合体中期，黑袍、额有紫色疤痕；神念惊人可同操72件法宝，施撕裂空间黑色光球，第一场迎战韩立落败。",
   "attributes": {
-    "小阶段": "合体中期",
+    "小阶段": "合体中期、合体初期",
     "身份": "陇家太上客卿长老",
     "外貌": "黑袍、额有紫色疤痕",
-    "阵营": "人族真灵世家陇家"
+    "阵营": "人族真灵世家陇家",
+    "标志特征": "特殊坚韧青色手掌（伤口自愈）、黑色游走斑纹妖魔化"
   },
   "observations": {
     "小阶段": [
       {
         "value": "合体中期",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
+      },
+      {
+        "value": "合体初期",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
       }
     ],
@@ -38,6 +45,18 @@
       {
         "value": "人族真灵世家陇家",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "特殊坚韧青色手掌（伤口自愈）",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "黑色游走斑纹妖魔化",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
       }
     ]
@@ -67,12 +86,19 @@
       "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
       "dated": false,
       "seq": 1819
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T06:23:12.343Z"
+  "updatedAt": "2026-06-21T06:25:53.126Z"
 }

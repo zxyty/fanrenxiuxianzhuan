@@ -13,10 +13,11 @@
     "种族": "人族",
     "小阶段": "合体期",
     "外貌": "头生金龙角、面浮金鳞、瞳孔金光",
-    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)",
+    "标志特征": "面色淡金、气息冰冷、真龙之血、半龙化(龙角金鳞金眸)、半龙人妖化（金色龙鳞/金角）、金色蛟龙虚影、五色光臂",
     "身份": "陇家老祖、老祖、陇家老祖/真灵大典主持",
     "性格": "深沉冷静",
-    "阵营": "陇家、人族真灵世家"
+    "阵营": "陇家、人族真灵世家",
+    "称号": "真灵世家第一修士"
   },
   "observations": {
     "种族": [
@@ -71,6 +72,21 @@
         "value": "半龙化(龙角金鳞金眸)",
         "docId": "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
         "seq": 1801
+      },
+      {
+        "value": "半龙人妖化（金色龙鳞/金角）",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "金色蛟龙虚影",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "五色光臂",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
       }
     ],
     "身份": [
@@ -106,6 +122,13 @@
       {
         "value": "人族真灵世家",
         "docId": "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+        "seq": 1819
+      }
+    ],
+    "称号": [
+      {
+        "value": "真灵世家第一修士",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
       }
     ]
@@ -154,6 +177,12 @@
       "docId": "plot.fanren-1825-1826-wanlingtai",
       "dated": false,
       "seq": 1819
+    },
+    "称号": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
@@ -162,7 +191,8 @@
     "plot.fanren-1801-1806-longjia-jiuxiangong-qielingzi",
     "plot.fanren-1801-1806-shengdao-mitianlou-qinshi-jiemei",
     "plot.fanren-1825-1826-wanlingtai",
-    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony"
+    "plot.hfy-1827-1828-wanling-beast-zhenling-clan-ceremony",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T06:23:12.342Z"
+  "updatedAt": "2026-06-21T06:25:53.125Z"
 }

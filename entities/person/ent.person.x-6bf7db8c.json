@@ -10,7 +10,7 @@
   "summary": "谷家太上长老，在蛮荒负伤、元气受损闭关，无法参加真灵大典。",
   "attributes": {
     "性别": "女",
-    "身份": "太上长老",
+    "身份": "谷家太上长老、太上长老、叶家太上长老",
     "存殁": "存活（闭关）",
     "小阶段": "合体中期",
     "阵营": "谷家"
@@ -32,6 +32,11 @@
       {
         "value": "太上长老",
         "docId": "plot.fanren-1825-1826-wanlingtai",
+        "seq": 1819
+      },
+      {
+        "value": "叶家太上长老",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
         "seq": 1819
       }
     ],
@@ -67,9 +72,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-1825-1826-wanlingtai",
+      "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
-      "seq": 1819
+      "seq": 1813
     },
     "存殁": {
       "asOf": null,
@@ -94,7 +99,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
-    "plot.fanren-1825-1826-wanlingtai"
+    "plot.fanren-1825-1826-wanlingtai",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T06:21:10.424Z"
+  "updatedAt": "2026-06-21T06:25:53.129Z"
 }

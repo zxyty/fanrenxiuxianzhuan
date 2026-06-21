@@ -7,9 +7,11 @@
   ],
   "summary": "约十年后举行的大典，韩立已答应谷家晓风仙子相助；谷家与叶家交好不会对上。",
   "attributes": {
-    "参与方": "谷家、叶家、韩立、真灵世家",
+    "参与方": "谷家、叶家、韩立、真灵世家、陇家、林家、丰家、劳家",
     "起因": "三千年一次",
-    "地点": "万灵台"
+    "地点": "万灵台",
+    "章节": "第1830-1831章",
+    "结果": "五大世家排名同上届，谷家仍列末位"
   },
   "observations": {
     "参与方": [
@@ -32,6 +34,26 @@
         "value": "真灵世家",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      },
+      {
+        "value": "陇家",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "林家",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "丰家",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      },
+      {
+        "value": "劳家",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
       }
     ],
     "起因": [
@@ -46,6 +68,20 @@
         "value": "万灵台",
         "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
         "seq": 1813
+      }
+    ],
+    "章节": [
+      {
+        "value": "第1830-1831章",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
+      }
+    ],
+    "结果": [
+      {
+        "value": "五大世家排名同上届，谷家仍列末位",
+        "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+        "seq": 1819
       }
     ]
   },
@@ -68,13 +104,26 @@
       "docId": "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
       "dated": false,
       "seq": 1813
+    },
+    "章节": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
+    },
+    "结果": {
+      "asOf": null,
+      "docId": "plot.fanren-1830-1831-zhenling-dadian-qiecuo",
+      "dated": false,
+      "seq": 1819
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-1789-tianhu-yaonu",
-    "plot.fanren-1813-1818-heiyu-trade-fengxianzi"
+    "plot.fanren-1813-1818-heiyu-trade-fengxianzi",
+    "plot.fanren-1830-1831-zhenling-dadian-qiecuo"
   ],
-  "updatedAt": "2026-06-21T06:19:11.206Z"
+  "updatedAt": "2026-06-21T06:25:53.136Z"
 }
