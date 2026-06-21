@@ -779,3 +779,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T21:42:06.487Z** `ingest` plot.fanren-2441-renzu-zhibian-lianshenshu — 第2441章 人族之变——韩立服广灵道果、神识隐患与炼神术第三层 · kind=plot asOf=2026-06-21 entities=24 relations=22 src=02419-02424.p3.md
 - **2026-06-21T21:43:51.762Z** `ingest` plot.fanren-2442-chonghui-renjie — 第2442章 重回人界：昊阴寒魄山炼成，韩立分魂返大晋 · kind=plot asOf=2026-06-21 entities=17 relations=18 src=02419-02424.p4.md
 - **2026-06-21T21:46:01.705Z** `ingest` plot.fanren-2443-renjie-zhongxiang — 第2443章 人界众象——韩立重返人界、毁昆吾山、星宫会凌玉灵 · kind=plot asOf=2026-06-21 entities=18 relations=17 src=02419-02424.p5.md
+- **2026-06-21T21:47:38.131Z** `ingest` plot.fanren-2444-beiji-yuanjing — 第2444章 北极元晶：韩立祭祖赠玉牌、起出北极元晶携回灵界备飞升 · kind=plot asOf=2026-06-21 entities=16 relations=18 src=02419-02424.p6.md

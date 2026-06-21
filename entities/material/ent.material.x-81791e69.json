@@ -2,18 +2,26 @@
   "id": "ent.material.x-81791e69",
   "type": "material",
   "name": "北极元晶",
-  "aliases": [],
+  "aliases": [
+    "银白光丝"
+  ],
   "summary": "炼制北极元山所需材料，可在人界坠魔谷的北极元光处寻得。",
   "attributes": {
-    "类型": "晶石",
-    "用途": "炼北极元山",
-    "产地": "人界坠魔谷北极元光"
+    "类型": "晶石、灵晶/材料",
+    "用途": "炼北极元山、炼制元合五极山",
+    "产地": "人界坠魔谷北极元光、坠魔谷地下",
+    "稀有度": "极稀有"
   },
   "observations": {
     "类型": [
       {
         "value": "晶石",
         "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
+      },
+      {
+        "value": "灵晶/材料",
+        "docId": "plot.fanren-2444-beiji-yuanjing",
         "seq": 2419
       }
     ],
@@ -22,12 +30,29 @@
         "value": "炼北极元山",
         "docId": "plot.fanren-2442-chonghui-renjie",
         "seq": 2419
+      },
+      {
+        "value": "炼制元合五极山",
+        "docId": "plot.fanren-2444-beiji-yuanjing",
+        "seq": 2419
       }
     ],
     "产地": [
       {
         "value": "人界坠魔谷北极元光",
         "docId": "plot.fanren-2442-chonghui-renjie",
+        "seq": 2419
+      },
+      {
+        "value": "坠魔谷地下",
+        "docId": "plot.fanren-2444-beiji-yuanjing",
+        "seq": 2419
+      }
+    ],
+    "稀有度": [
+      {
+        "value": "极稀有",
+        "docId": "plot.fanren-2444-beiji-yuanjing",
         "seq": 2419
       }
     ]
@@ -51,12 +76,19 @@
       "docId": "plot.fanren-2442-chonghui-renjie",
       "dated": false,
       "seq": 2419
+    },
+    "稀有度": {
+      "asOf": null,
+      "docId": "plot.fanren-2444-beiji-yuanjing",
+      "dated": false,
+      "seq": 2419
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2442-chonghui-renjie"
+    "plot.fanren-2442-chonghui-renjie",
+    "plot.fanren-2444-beiji-yuanjing"
   ],
-  "updatedAt": "2026-06-21T21:43:51.586Z"
+  "updatedAt": "2026-06-21T21:47:37.938Z"
 }
