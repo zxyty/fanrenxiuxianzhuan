@@ -6,7 +6,8 @@
   "summary": "居于乾火池的稀少种族，只能在乾火之地长期生存，立有血誓，被修罗蛛秘密豢养、实与某上古秘密相关。",
   "attributes": {
     "聚居地": "乾火池",
-    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协"
+    "特性": "只能在乾火之地长存、立血誓宁灭族不妥协",
+    "天赋神通": "空间之力"
   },
   "observations": {
     "聚居地": [
@@ -21,6 +22,13 @@
         "value": "只能在乾火之地长存、立血誓宁灭族不妥协",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      }
+    ],
+    "天赋神通": [
+      {
+        "value": "空间之力",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
       }
     ]
   },
@@ -37,12 +45,19 @@
       "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
       "dated": false,
       "seq": 2257
+    },
+    "天赋神通": {
+      "asOf": null,
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "dated": false,
+      "seq": 2269
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi"
+    "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
   ],
-  "updatedAt": "2026-06-21T16:55:30.401Z"
+  "updatedAt": "2026-06-21T17:00:27.246Z"
 }

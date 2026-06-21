@@ -4,12 +4,13 @@
   "name": "石城",
   "aliases": [
     "修罗蛛石城",
-    "石城巨墙"
+    "石城巨墙",
+    "石城光幕"
   ],
   "summary": "雷空岛上群山包裹的修士聚集城市，八石塔生淡蓝光幕护城，设有坊市可换取高阶灵石。",
   "attributes": {
     "所属势力": "修罗蛛",
-    "类型": "宗族巢穴/飞行石城",
+    "类型": "据点石城",
     "守护": "层层光幕禁制法阵"
   },
   "observations": {
@@ -25,6 +26,11 @@
         "value": "宗族巢穴/飞行石城",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "据点石城",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
       }
     ],
     "守护": [
@@ -45,9 +51,9 @@
     },
     "类型": {
       "asOf": null,
-      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
-      "seq": 2263
+      "seq": 2269
     },
     "守护": {
       "asOf": null,
@@ -60,7 +66,8 @@
   "contradictions": {},
   "docs": [
     "plot.fanren-1135-1140-qingyu-leikongdao",
-    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
   ],
-  "updatedAt": "2026-06-21T16:58:07.014Z"
+  "updatedAt": "2026-06-21T17:00:27.248Z"
 }

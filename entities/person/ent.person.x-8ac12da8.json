@@ -8,18 +8,21 @@
     "面容阴厉的黑袍老者",
     "奕某",
     "禽首怪物",
-    "五色孔雀（化身）"
+    "五色孔雀（化身）",
+    "奕师伯",
+    "五光族大乘"
   ],
   "summary": "大乘强者，当年误坠小修罗界，与罗仙子共参得上古秘密机缘，性阴厉。",
   "attributes": {
     "性别": "男",
     "小阶段": "大乘期",
-    "外貌": "面容阴厉的黑袍老者",
+    "外貌": "禽面人身",
     "阵营": "依附修罗蛛一族",
-    "种族": "飞灵族五光族",
+    "种族": "五光族",
     "称号": "五光族人",
     "标志特征": "五色神光、五口晶剑借力施时间法则",
-    "存殁": "重伤逃生"
+    "存殁": "死亡",
+    "死因": "元婴被樱儿以牵魂幡摄入炼化"
   },
   "observations": {
     "性别": [
@@ -46,6 +49,12 @@
         "value": "面容阴厉的黑袍老者",
         "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
         "seq": 2257
+      },
+      {
+        "value": "禽面人身",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269,
+        "note": "变身后"
       }
     ],
     "阵营": [
@@ -65,6 +74,11 @@
         "value": "飞灵族五光族",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "五光族",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
       }
     ],
     "称号": [
@@ -91,6 +105,18 @@
         "value": "重伤逃生",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      }
+    ],
+    "死因": [
+      {
+        "value": "元婴被樱儿以牵魂幡摄入炼化",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
       }
     ]
   },
@@ -110,9 +136,10 @@
     },
     "外貌": {
       "asOf": null,
-      "docId": "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
-      "seq": 2257
+      "seq": 2269,
+      "note": "变身后"
     },
     "阵营": {
       "asOf": null,
@@ -122,9 +149,9 @@
     },
     "种族": {
       "asOf": null,
-      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
-      "seq": 2263
+      "seq": 2269
     },
     "称号": {
       "asOf": null,
@@ -140,16 +167,23 @@
     },
     "存殁": {
       "asOf": null,
-      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
-      "seq": 2263
+      "seq": 2269
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "dated": false,
+      "seq": 2269
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
-    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
   ],
-  "updatedAt": "2026-06-21T16:58:06.989Z"
+  "updatedAt": "2026-06-21T17:00:27.228Z"
 }

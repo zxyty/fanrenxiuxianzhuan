@@ -4,15 +4,21 @@
   "name": "樱仙子",
   "aliases": [
     "樱儿",
-    "樱道友"
+    "樱道友",
+    "血裙少女",
+    "修罗蛛石城少主",
+    "此城少主"
   ],
   "summary": "修罗蛛一族中闭关参悟的关键修士，其修炼成败关乎族母大事，受严密保护。",
   "attributes": {
     "性别": "女",
-    "身份": "修罗蛛族母之女",
+    "身份": "石城少主",
     "存殁": "存活",
     "种族": "修罗蛛",
-    "出身地": "修罗蛛界面石城"
+    "出身地": "修罗蛛界面石城",
+    "小阶段": "合体期后期",
+    "外貌": "短衣血裙、十五六岁娇媚少女",
+    "标志特征": "时空之力、物灵回朔、血灵之术"
   },
   "observations": {
     "性别": [
@@ -32,6 +38,11 @@
         "value": "修罗蛛族母之女",
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
+      },
+      {
+        "value": "石城少主",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
       }
     ],
     "存殁": [
@@ -54,6 +65,37 @@
         "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
         "seq": 2263
       }
+    ],
+    "小阶段": [
+      {
+        "value": "合体期后期",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      }
+    ],
+    "外貌": [
+      {
+        "value": "短衣血裙、十五六岁娇媚少女",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      }
+    ],
+    "标志特征": [
+      {
+        "value": "时空之力",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      },
+      {
+        "value": "物灵回朔",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      },
+      {
+        "value": "血灵之术",
+        "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+        "seq": 2269
+      }
     ]
   },
   "firstSeq": 2257,
@@ -66,9 +108,9 @@
     },
     "身份": {
       "asOf": null,
-      "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
       "dated": false,
-      "seq": 2263
+      "seq": 2269
     },
     "存殁": {
       "asOf": null,
@@ -87,13 +129,32 @@
       "docId": "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
       "dated": false,
       "seq": 2263
+    },
+    "小阶段": {
+      "asOf": null,
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "dated": false,
+      "seq": 2269
+    },
+    "外貌": {
+      "asOf": null,
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "dated": false,
+      "seq": 2269
+    },
+    "标志特征": {
+      "asOf": null,
+      "docId": "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal",
+      "dated": false,
+      "seq": 2269
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
     "plot.fanren-2257-2262-xiaoxiuluojie-cheqizi",
-    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe"
+    "plot.fanren-2282-2287-xiuluo-zhizhan-han-li-vs-yi-laozhe",
+    "plot.fanren-2288-2293-xiuluo-war-and-hantan-deal"
   ],
-  "updatedAt": "2026-06-21T16:58:06.992Z"
+  "updatedAt": "2026-06-21T17:00:27.226Z"
 }
