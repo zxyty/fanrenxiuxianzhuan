@@ -9,8 +9,10 @@
   "summary": "镇海宫创立者、涂咬的大对头，大乘修为，率海兽大军布万兽大阵围攻韩立。",
   "attributes": {
     "小阶段": "大乘期",
-    "身份": "镇海宫大宫主",
-    "外貌": "头戴玉冠的长髯男子"
+    "身份": "镇海宫大宫主、海兽大军首领",
+    "外貌": "头戴玉冠的长髯男子",
+    "存殁": "死亡",
+    "死因": "被韩立飞剑斩杀"
   },
   "observations": {
     "小阶段": [
@@ -25,12 +27,31 @@
         "value": "镇海宫大宫主",
         "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
         "seq": 2365
+      },
+      {
+        "value": "海兽大军首领",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+        "seq": 2365
       }
     ],
     "外貌": [
       {
         "value": "头戴玉冠的长髯男子",
         "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ],
+    "存殁": [
+      {
+        "value": "死亡",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+        "seq": 2365
+      }
+    ],
+    "死因": [
+      {
+        "value": "被韩立飞剑斩杀",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
         "seq": 2365
       }
     ]
@@ -54,12 +75,25 @@
       "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
       "dated": false,
       "seq": 2365
+    },
+    "存殁": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+      "dated": false,
+      "seq": 2365
+    },
+    "死因": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong"
+    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+    "plot.fanren-2389-2390-xiaolingtian-luling"
   ],
-  "updatedAt": "2026-06-21T19:03:15.172Z"
+  "updatedAt": "2026-06-21T19:05:25.843Z"
 }

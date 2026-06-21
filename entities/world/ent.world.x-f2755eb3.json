@@ -6,8 +6,9 @@
   "summary": "某界面遗失的碎裂空间，演化成近似独立的微型界面，类广寒界但灵气更逊，居上亿人族及七八异族，多为飞升灵界失败者误入，在虚空按轨迹缓缓流动。",
   "attributes": {
     "层次": "碎裂微型界面",
-    "灵气浓度": "逊于灵界",
-    "特点": "虚空中按轨迹流动、诸族混杂、多为飞升灵界失败者误入"
+    "灵气浓度": "略逊于灵界",
+    "特点": "虚空中按轨迹流动、诸族混杂、多为飞升灵界失败者误入、人族与绿灵族死敌并存",
+    "通道": "海底赤红巨石中七色光晕"
   },
   "observations": {
     "层次": [
@@ -27,6 +28,11 @@
         "value": "逊于灵界",
         "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
         "seq": 2119
+      },
+      {
+        "value": "略逊于灵界",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+        "seq": 2365
       }
     ],
     "特点": [
@@ -44,6 +50,18 @@
         "value": "多为飞升灵界失败者误入",
         "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
         "seq": 2035
+      },
+      {
+        "value": "人族与绿灵族死敌并存",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+        "seq": 2365
+      }
+    ],
+    "通道": [
+      {
+        "value": "海底赤红巨石中七色光晕",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+        "seq": 2365
       }
     ]
   },
@@ -57,15 +75,21 @@
     },
     "灵气浓度": {
       "asOf": null,
-      "docId": "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
+      "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
       "dated": false,
-      "seq": 2119
+      "seq": 2365
     },
     "特点": {
       "asOf": null,
       "docId": "plot.fanren-2050-2051-xiaolingtian-futianjushi",
       "dated": false,
       "seq": 2035
+    },
+    "通道": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
@@ -75,7 +99,8 @@
     "plot.fanren-2113-2118-de-jing-mi-mou-an-liu",
     "plot.fanren-2119-2124-xuantian-lingyu-resurgence",
     "plot.fanren-2185-2190-zhan-dacheng-xuehun-xuegu",
-    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong"
+    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+    "plot.fanren-2389-2390-xiaolingtian-luling"
   ],
-  "updatedAt": "2026-06-21T19:03:15.181Z"
+  "updatedAt": "2026-06-21T19:05:25.854Z"
 }

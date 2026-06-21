@@ -7,7 +7,8 @@
   "attributes": {
     "种族": "人面蛟",
     "小阶段": "大乘期",
-    "外貌": "脸色苍白、双目隐有血痕的银袍男子"
+    "外貌": "脸色苍白、双目隐有血痕的银袍男子",
+    "阵营": "韩立一方"
   },
   "observations": {
     "种族": [
@@ -29,6 +30,13 @@
       {
         "value": "脸色苍白、双目隐有血痕的银袍男子",
         "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+        "seq": 2365
+      }
+    ],
+    "阵营": [
+      {
+        "value": "韩立一方",
+        "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
         "seq": 2365
       }
     ]
@@ -53,12 +61,19 @@
       "docId": "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
       "dated": false,
       "seq": 2365
+    },
+    "阵营": {
+      "asOf": null,
+      "docId": "plot.fanren-2389-2390-xiaolingtian-luling",
+      "dated": false,
+      "seq": 2365
     }
   },
   "contested": false,
   "contradictions": {},
   "docs": [
-    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong"
+    "plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong",
+    "plot.fanren-2389-2390-xiaolingtian-luling"
   ],
-  "updatedAt": "2026-06-21T19:03:15.167Z"
+  "updatedAt": "2026-06-21T19:05:25.842Z"
 }

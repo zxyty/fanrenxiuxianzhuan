@@ -765,3 +765,4 @@ Append-only; newest at the bottom. One line per pipeline action. Rotated to `log
 - **2026-06-21T18:53:50.077Z** `ingest` plot.fanren-ch2359-2364-xiongsiwang-zhanluo — 第2359-2364章 鬼气滔滔·千鬼之力·莲台血骨——韩立斩杀凶司王 · kind=plot asOf=2026-06-21 entities=38 relations=44 src=02359-02364.md
 - **2026-06-21T19:01:33.837Z** `ingest` plot.fanren-2365-2370-desert-ambush-of-the-descended-immortal — 凡人修仙传 第2365-2370章 埋伏·天地二阵——血天群修设阵伏杀降世真仙 · kind=plot asOf=2026-06-21 entities=33 relations=38 src=02365-02370.p1.md
 - **2026-06-21T19:03:15.400Z** `ingest` plot.fanren-2387-2388-haishang-qiaoyu-zhenhaigong — 第2387-2388章 海上巧遇·镇海宫 · kind=plot asOf=2026-06-21 entities=17 relations=18 src=02365-02370.p2.md
+- **2026-06-21T19:05:26.045Z** `ingest` plot.fanren-2389-2390-xiaolingtian-luling — 第2389-2390章 初入小灵天 · 绿海激战绿灵族 · kind=plot asOf=2026-06-21 entities=17 relations=18 src=02365-02370.p3.md
